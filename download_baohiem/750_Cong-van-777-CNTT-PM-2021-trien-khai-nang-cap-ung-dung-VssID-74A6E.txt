@@ -1,0 +1,64 @@
+BẢO HIỂM XÃ HỘI
+  VIỆT NAM
+TRUNG TÂM CÔNG NGHỆ
+THÔNG TIN
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 777/CNTT-PM
+V/v nâng cấp ứng dụng VssID
+Hà Nội, ngày 15
+  tháng 05 năm 2021
+Kính
+gửi:
+Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương.
+Để tiếp tục triển khai Kế hoạch
+số 818/KH-BHXH ngày 31/3/2021 của BHXH Việt Nam về việc triển khai ứng dụng
+VssID - Bảo hiểm xã hội số và thực hiện Thông báo kết luận số 1074/TB-BHXH ngày
+23/4/2021 của Tổng Giám đốc BHXH Việt Nam về việc giải quyết, tháo gỡ một số khó
+khăn, vướng mắc trong triển khai ứng dụng VssID, Trung tâm Công nghệ thông tin
+(Trung tâm) đã thực hiện việc nâng cấp, bổ sung một số tính năng, tiện ích trên
+ứng dụng VssID (phiên bản 1.5.3). Cụ thể như sau:
+- Bổ sung chức năng cho phép
+người dùng đăng ký giao dịch điện tử với cơ quan BHXH (hướng dẫn chi tiết tại
+Phụ lục gửi kèm).
+- Bổ sung tiện ích "Mời
+cài đặt VssID" cho phép người dùng gửi tin nhắn với nội dung là đường dẫn
+để cài đặt ứng dụng VssID trên các kho ứng dụng.
+- Bổ sung 01 dịch vụ công trực
+tuyến dành cho cá nhân: Cấp lại sổ BHXH do hỏng, mất. Nâng tổng số dịch vụ công
+cung cấp trên ứng dụng lên 04 dịch vụ công (1 - Cấp lại thẻ BHYT do hỏng, mất;
+2 - Chuyển địa bàn hưởng lương hưu, trợ cấp BHXH; 3 - Thay đổi hình thức lĩnh
+hoặc thông tin người hưởng BHXH; 4 - Cấp lại sổ BHXH do hỏng, mất).
+- Bổ sung Phiếu điều chỉnh
+lương hưu tại mục "Thông tin hưởng/Hàng tháng/Phiếu điều chỉnh lương hưu.
+- Bổ sung chức năng “Giấy được
+cấp theo Thông tư 56/2017/TT-BYT” tại mục "Sổ khám chữa bệnh". Chức
+năng cho phép hiển thị các loại giấy theo quy định tại Thông tư số
+56/2017/TT-BYT ngày 29/12/2017 của Bộ Y tế quy định chi tiết thi hành Luật Bảo
+hiểm xã hội và Luật An toàn vệ sinh lao động thuộc lĩnh vực y tế của người dùng
+đã được các cơ sở khám bệnh, chữa bệnh cấp, có trên Cổng tiếp nhận dữ liệu Hệ
+thống thông tin Giám định BHYT.
+- Bổ sung ảnh cá nhân tại màn
+hình "Sử dụng thẻ BHYT".
+Trung tâm trân trọng thông báo
+để BHXH các tỉnh, thành phố biết và chủ động trong việc triển khai ứng dụng
+VssID. Trong quá trình thực hiện, nếu có vướng mắc đề nghị liên hệ phòng Quản
+lý phần mềm, điện thoại: 0243.7753944 để được hướng dẫn, giải quyết./.
+Nơi nhận:
+- Như trên;
+- Tổng Giám đốc (để b/c);
+- Phó TGĐ Phạm Lương Sơn (để b/c);
+- Giám đốc (để b/c);
+- Các đơn vị trực thuộc BHXH Việt Nam;
+- Các phòng thuộc Trung tâm;
+- Lưu: VT, PM.
+KT. GIÁM ĐỐC
+PHÓ GIÁM ĐỐC
+Nguyễn Hoàng Phương
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

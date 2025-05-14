@@ -1,0 +1,368 @@
+BẢO HIỂM XÃ HỘI
+  VIỆT NAM
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 3200/BHXH-CNTT
+V/v bảo mật thông tin tài khoản truy cập Hệ
+  thống thông tin giám định BHYT
+Hà Nội, ngày 03
+  tháng 09 năm 2019
+Kính
+gửi:
+Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương.
+Qua theo dõi trên hệ thống giám
+sát điều hành của ngành Bảo hiểm xã hội (BHXH), hiện nay có một số cơ sở khám
+chữa bệnh bảo hiểm y tế (CSKCB) để lộ tài khoản và mật khẩu truy cập Cổng tiếp
+nhận dữ liệu Hệ thống thông tin giám định bảo hiểm y tế (Hệ thống) dẫn đến việc
+có một số cá nhân, tổ chức lợi dụng để khai thác thông tin, trong đó có tài khoản
+của Bệnh viện Than - Khoáng sản (01087_BV) trên địa bàn thành phố Hà Nội có số
+lượng truy cập để khai thác thông tin với hơn một triệu lượt/ngày (
+Chi tiết
+theo tỉnh, TP trong Phụ lục kèm theo
+), sự việc trên làm ảnh hưởng không nhỏ
+đến vận hành Hệ thống. Nguyên nhân ban đầu được xác định do một số CSKCB sử dụng
+các phần mềm miễn phí hoặc có trả phí nhưng không có bản quyền trôi nổi trên
+Internet để thực hiện việc kiểm tra các file dữ liệu của CSKCB (file XML) trước
+khi gửi lên Hệ thống dẫn đến việc mật khẩu bị lộ lọt ra bên ngoài và phát sinh
+số lượng tra cứu thông tin thẻ BHYT một cách bất thường. Việc lộ lọt mật khẩu
+này có thể giúp cho kẻ xấu có thể khai thác thông tin thẻ BHYT và thông tin
+khám chữa bệnh của người tham gia BHYT trên toàn quốc.
+Nhằm tăng cường tính bảo mật và
+an toàn thông tin cho Hệ thống, BHXH Việt Nam yêu cầu BHXH các tỉnh, thành phố
+thực hiện các nội dung sau:
+1. Rà soát tài khoản của các
+CSKCB đã được cơ quan BHXH Việt Nam cấp, khóa tài khoản truy cập Hệ thống khi
+CSKCB không tiếp tục hoặc tạm dừng ký hợp đồng khám chữa bệnh với cơ quan BHXH
+kịp thời.
+2. Yêu cầu các CSKCB cam kết bằng
+văn bản việc bảo đảm an toàn, bảo mật thông tin của các tài khoản, không để lộ
+lọt mật khẩu. Định kỳ thay đổi mật khẩu theo Quy chế quản lý, khai thác và sử dụng
+thông tin từ cơ sở dữ liệu tập trung ngành BHXH ban hành tại Quyết định số
+2366/QĐ-BHXH ngày 28/11/2018 của Tổng Giám đốc BHXH Việt Nam.
+3. Thông báo tới các CSKCB việc
+Hệ thống tự động dừng cấp quyền sử dụng các hàm tra cứu tự động (API) khi phát
+hiện số lượng tra cứu bất thường từ các CSKCB. Để có thể phục hồi tài khoản sử
+dụng đối với các hàm tra cứu tự động, các CSKCB phải thực hiện đổi mật khẩu và
+có văn bản giải trình về số lượng tra cứu bất thường này gửi về cơ quan BHXH ký
+hợp đồng. Sau khi tiếp nhận văn bản từ CSKCB, BHXH tỉnh thực hiện việc kiểm tra
+và gửi văn bản kèm theo văn bản của CSKCB về Trung tâm CNTT để mở khóa tài khoản
+tra cứu. Việc khóa và mở khóa quyền sử dụng các hàm tra cứu sẽ được Hệ thống tự
+động gửi tin nhắn về số điện thoại người đại diện của CSKCB đã được khai báo
+đăng ký nhận thông tin hàng tháng trên Hệ thống.
+Trong quá trình triển khai thực
+hiện, nếu có khó khăn, vướng mắc, báo cáo về BHXH Việt Nam (Trung tâm Công nghệ
+thông tin) để kịp thời xem xét, giải quyết./.
+Nơi nhận:
+- Như trên;
+- Bộ Y tế (để b/c);
+- Tổng Giám đốc (để b/c);
+- Các Phó Tổng Giám đốc;
+- Các đơn vị: CSYT, GĐB, GĐN;
+- Lưu: VT, CNTT.
+KT. TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Phạm Lương Sơn
+PHỤ
+LỤC
+DANH
+SÁCH TÀI KHOẢN CÓ SỐ LƯỢT TRUY VẤN VƯỢT QUÁ GIỚI HẠN
+STT
+Tên CSKCB
+Tên tài
+khoản
+Tên tỉnh
+Số lượt truy
+vấn / ngày
+1
+Phòng khám TTYT quận Thanh
+  Xuân
+01074_BV
+TP Hà Nội
+1.073
+2
+Bệnh viện Than - Khoáng sản
+01087_BV
+TP Hà Nội
+> 1 triệu
+3
+PKĐKKV Xuân Mai TTYT huyện Chương
+  Mỹ
+01100_BV
+TP Hà Nội
+681
+4
+Trung tâm y tế huyện Sìn Hồ
+12014_BV
+Lai Châu
+823
+5
+TYT xã Ma Quai TTYT huyện Sìn
+  Hồ
+12047_BV
+Lai Châu
+501
+6
+BVĐK Mường La
+14009_BV
+Sơn La
+1.231
+7
+Trung tâm y tế huyện Lạc Thủy
+17013_BV
+Hòa Bình
+1.289
+8
+TYT xã Xuất Hóa TTYT huyện Lạc
+  Sơn
+17199_BV
+Hòa Bình
+501
+9
+TYT xã Bình Phúc TTYT huyện
+  Văn Quan
+20120_BV
+Lạng Sơn
+501
+10
+TYT xã Việt Yên TTYT huyện Văn
+  Quan
+20137_BV
+Lạng Sơn
+501
+11
+Trung tâm y tế huyện Đầm Hà
+22024_BV
+Quảng Ninh
+689
+12
+TYT Xã Hương Sơn TTYT huyện Lạng
+  Giang
+24086_BV
+Bắc Giang
+501
+13
+TYT Xã Hương Lạc TTYT huyện Lạng
+  Giang
+24092_BV
+Bắc Giang
+501
+14
+TYT Xã Tân Dĩnh TTYT huyện Lạng
+  Giang
+24101_BV
+Bắc Giang
+501
+15
+TYT Xã Dương Hưu TTYT huyện
+  Sơn Động
+24179_BV
+Bắc Giang
+501
+16
+TYT xã Bồ Sao TTYT huyện Vĩnh
+  Tường
+26519_BV
+Vĩnh Phúc
+1.827
+17
+PKĐK, TT kiểm soát bệnh tật tỉnh
+  Bắc Ninh
+27025_BV
+Bắc Ninh
+1.287
+18
+Trung tâm y tế huyện Tứ Kỳ
+30007_BV
+Hải Dương
+501
+19
+Bệnh viện YDCT tỉnh Hưng Yên
+33016_BV
+Hưng Yên
+656
+20
+Trung tâm y tế huyện Phù Cừ
+33030_BV
+Hưng Yên
+4.886
+21
+TYT xã Quảng Trạch BVĐK huyện
+  Quảng Xương
+38620_BV
+Thanh Hóa
+783
+22
+Trung tâm y tế Thị xã Cửa Lò
+40020_BV
+Nghệ An
+1.915
+23
+TYT xã Phổ Thuận BVĐK khu vực
+  Đặng Thùy Trâm
+51027_BV
+Quảng Ngãi
+545
+24
+Trung tâm y tế huyện Chưpăh
+64002_BV
+Gia Lai
+1.875
+25
+PKĐK, TT kiểm soát bệnh tật tỉnh
+  Đăk Nông
+67093_BV
+Đắk Nông
+501
+26
+Trung tâm y tế Đà Lạt
+68003_BV
+Lâm Đồng
+5.697
+27
+PKĐKKV Trại Mát TTYT Đà Lạt
+68004_BV
+Lâm Đồng
+2.150
+28
+TYT phường 1 TTYT Đà Lạt
+68015_BV
+Lâm Đồng
+501
+29
+TYT phường 2 TTYT Đà Lạt
+68016_BV
+Lâm Đồng
+501
+30
+TYT phường 3 TTYT Đà Lạt
+68018_BV
+Lâm Đồng
+501
+31
+TYT phường 8 TTYT Đà Lạt
+68021_BV
+Lâm Đồng
+501
+32
+TYT xã Đinh Trang Thượng TTYT
+  huyện Di Linh
+68592_BV
+Lâm Đồng
+503
+33
+Bệnh viện Đại học y dược
+  Shing Mark
+75294_BV
+Đồng Nai
+723
+34
+Bệnh viện Quân Dân Miền Đông
+79057_BV
+TP Hồ Chí Minh
+5.015
+35
+TYT cơ quan Công ty TNHH Việt
+  Nam Samho
+79411_BV
+TP Hồ Chí Minh
+501
+36
+Trung tâm y tế huyện Tân Thạnh
+80012_BV
+Long An
+1.489
+37
+TYT Xã Hưng Hà TTYT huyện Tân
+  Hưng
+80035_BV
+Long An
+529
+38
+TYT Xã Thạnh Hưng TTYT huyện
+  Tân Hưng
+80038_BV
+Long An
+513
+39
+TYT Xã Thủy Tây TTYT huyện Thạnh
+  Hóa
+80089_BV
+Long An
+501
+40
+TYT Xã Tân Tây TTYT huyện Thạnh
+  Hóa
+80090_BV
+Long An
+575
+41
+TYT Xã Thạnh An TTYT huyện Thạnh
+  Hóa
+80092_BV
+Long An
+613
+42
+TYT Xã Mỹ Quý Đông TTYT huyện
+  Đức Huệ
+80094_BV
+Long An
+501
+43
+TYT Xã Tân Phú BVĐK khu vực Hậu
+  Nghĩa
+80114_BV
+Long An
+501
+44
+TYT Xã Long Thạnh TTYT huyện
+  Thủ Thừa
+80141_BV
+Long An
+655
+45
+TYT Xã Phước Lý BVĐK khu vực
+  Cần Giuộc
+80182_BV
+Long An
+501
+46
+TYT Xã Phước Hậu BVĐK khu vực
+  Cần Giuộc
+80186_BV
+Long An
+551
+47
+TYT xã Phương Thạnh TTYT huyện
+  Càng Long
+84023_BV
+Trà Vinh
+1.119
+48
+TYT Xã An Trường TTYT huyện
+  Càng Long
+84072_BV
+Trà Vinh
+1.665
+49
+Trung tâm Y tế huyện Tri Tôn
+89007_BV
+An Giang
+5.123
+50
+Bệnh viện Quân y 121
+92002_BV
+TP Cần Thơ
+3.305
+51
+PKĐKKV xã Tắc Vân BVĐK thành
+  phố Cà Mau
+96007_BV
+Cà Mau
+501
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

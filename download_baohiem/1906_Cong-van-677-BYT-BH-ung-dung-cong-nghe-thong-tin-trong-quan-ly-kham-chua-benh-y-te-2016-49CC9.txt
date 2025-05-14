@@ -1,0 +1,183 @@
+BỘ
+  Y TẾ
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+677/
+BYT-BH
+V/v đẩy nhanh ứng dụng CNTT trong
+  KCB v
+à
+BHYT
+Hà
+  Nội, ngày 01 tháng 0
+2
+năm 20
+16
+Kính
+gửi:
+Sở Y tế các tỉnh, thành phố trực thuộc Trung ương
+Thực hiện ý kiến chỉ đạo của Thủ tướng
+Chính phủ Nguyễn Tấn Dũng tại Hội nghị tổng kết ngành Y tế năm 2015 và triển
+khai kế hoạch 2016, để đẩy nhanh tiến độ thực hiện kết nối h
+ệ
+thống thông tin quản lý khám chữa bệnh và thanh toán bảo hiểm y tế qua
+mạng điện tử trong quý
+II
+/2016, Bộ Y tế đề nghị Sở Y tế
+các tỉnh, thành phố trực thuộc Trung ương khẩn trương chỉ đạo và triển khai thực
+hiện một s
+ố
+nội dung, công việc sau:
+1. Phân công 01 Lãnh đạo trực tiếp chỉ
+đạo, thành lập một Tổ công tác thường trực để tham mưu, xây dựng kế hoạch, tổ
+chức thực hiện, hướng dẫn các cơ sở khám chữa bệnh thực hiện ứng dụng công nghệ
+thông tin trong quản lý khám chữa bệnh và thanh toán bảo hiểm y tế (BHYT).
+2. Xây dựng K
+ế
+hoạch
+triển khai ứng dụng công nghệ thông tin trong quản lý khám chữa bệnh và thanh
+toán BHYT năm 2016, nội dung kế hoạch yêu cầu: Xác định r
+õ
+mục tiêu, nhiệm vụ, giải pháp, tiến độ thực hiện theo các mốc thời gian
+31/3, 30/4, 31/5/2016, bảo đảm tất cả các cơ sở khám chữa bệnh thực hiện kết nối
+liên thông dữ liệu trước ngày 30/6/2016 và gửi bản Kế hoạch về Bộ Y tế (Vụ Bảo
+hiểm y tế) trước ngày 15/02/2016.
+3. Chỉ đạo các cơ sở khám chữa bệnh
+trên địa bàn: Phối hợp với đơn vị cung c
+ấ
+p dịch vụ công
+nghệ thông tin để khảo sát, đánh giá hiện trạng hạ tầng công nghệ thông tin
+theo Công văn số 257/BYT-BH ngày 15/1/2016 của Bộ Y t
+ế
+và
+triển khai thực hiện chuẩn dữ liệu đầu ra, kết xuất dữ liệu, liên thông d
+ữ
+liệu phục vụ quản lý khám chữa bệnh và thanh toán BHYT theo Công
+văn số 9324/BYT-BH và Quyết định số 5084/QĐ-BYT ngày 30/11/2015 của Bộ Y tế. Bảo
+đảm việc ứng dụng công nghệ thông tin trong khám chữa bệnh và thanh toán BHYT
+phải phù hợp với điều kiện thực tế, không làm ảnh hưởng đến hoạt động khám chữa
+bệnh và thanh toán BHYT của người bệnh.
+4. Chủ động tổ chức kiểm tra, giám
+sát tiến độ, đánh giá kết quả việc triển khai ứng dụng công nghệ thông tin
+trong khám ch
+ữ
+a bệnh và thanh toán BHYT tại đơn vị; kịp thời
+báo cáo với Ủy ban nhân dân tỉnh, thành phố và Bộ Y tế những khó khăn, vướng mắc,
+những vấn đề mới phát sinh trong triển khai thực hiện để xem xét, điều chỉnh
+cho phù hợp.
+5. Định kỳ vào ngày mùng 5 hàng tháng
+báo cáo tiến độ thực hiện K
+ế
+hoạch theo m
+ẫ
+u gửi kèm công văn này về Bộ Y tế (Vụ Bảo hi
+ể
+m y t
+ế
+) qua địa chỉ email:
+cnttbhyt@gmail.com
+.
+Nơi nhận:
+- Như trên;
+- Bộ trư
+ở
+ng (để báo cáo);
+- Văn phòng
+Chính phủ
+(để báo cáo);
+- BHXH Việt Nam;
+- S
+ở
+Y tế các t
+ỉ
+nh, TP (để thực hiện);
+- Các Vụ, Cục: KCB, KH-TC, CNTT, YDCT, Dược;
+- Lưu: VT, BH.
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+Phạm Lê Tuấn
+PHỤ LỤC
+MẪU
+BÁO CÁO ĐỊNH KỲ HÀNG THÁNG TIẾN ĐỘ THỰC HIỆN KẾ HOẠCH TRIỂN KHAI ỨNG DỤNG CNTT
+NĂM 2016 CỦA SỞ Y TẾ
+(Ban hành kèm theo Công văn s
+ố
+/BYT-BH ngày
+/01/2016)
+A. Báo cáo kết quả trích xuất dữ
+liệu KCB và đồng bộ Bộ mã danh mục dùng chung
+TT
+Tên
+  cơ sở KCB
+Kết
+  quả trích xuất dữ liệu KCB theo Công văn số 9324/BYT-BH ngày 30/11/2015
+Kết quả
+  đồng bộ Bộ mã danh mục dùng chung ban hành theo Quyết định số 5084/QĐ-BYT
+  ngày 30/11/2015 với danh mục hiện tại cơ sở KCB đang thực hiện
+Mục
+I
+Mục
+  II
+Bảng
+  1
+Bảng
+  2
+Bảng
+  3
+Bảng
+  4
+Bảng
+  5
+Danh
+  mục thuốc tân dược
+Danh
+  mục thu
+ố
+c chế phẩm YHCT và vị thuốc YHCT
+Danh
+  mục dịch vụ kỹ thuật
+Danh
+  mục vật tư y tế
+Danh
+  mục bệnh theo ICD 10
+Danh
+  mục bệnh YHCT
+Danh
+  mục đơn vị máu toàn phần và chế phẩm máu
+1
+2
+3
+4
+…
+Tổng
+Ghi chú:
+- Mục I: Ch
+ỉ
+đánh
+dấu
+“
+x” khi đã trích xuất dữ liệu KCB đầy đủ các trường
+theo Công văn số 9324/BYT-BH ngày 30/11/2015, trường hợp chưa trích xuất đầy đủ
+thì không đánh dấu
+- Mục II: Ghi số lượng đã đồng bộ được
+trên tổng s
+ố
+lượng thực hiện tại bệnh viện. VD: Bệnh viện
+đồng bộ được 200 dịch vụ kỹ thuật trên tổng số 1000 dịch vụ được phê duyệt thực
+hiện tại bệnh viện thì ghi 200/1000.
+B. Những khó khăn, vướng mắc phát
+sinh trong quá trình triển khai thực hiện:
+Phụ trách CNTT của Sở Y tế
+(Ký tên)
+Ngày
+tháng    năm 2016
+Lãnh đạo Sở Y tế
+(Ký tên, đóng dấu)
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

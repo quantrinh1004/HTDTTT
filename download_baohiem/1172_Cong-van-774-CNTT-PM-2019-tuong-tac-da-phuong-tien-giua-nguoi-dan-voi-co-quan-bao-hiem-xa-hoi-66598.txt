@@ -1,0 +1,90 @@
+BẢO HIỂM XÃ HỘI VIỆT
+  NAM
+TRUNG TÂM CÔNG NGHỆ THÔNG TIN
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+774/CNTT-PM
+V/v tiếp tục triển khai Hệ thống tương tác đa
+  phương tiện giữa người dân và doanh nghiệp với cơ quan BHXH
+Hà Nội
+, ngày
+18
+tháng
+07
+năm
+2019
+Kính gửi:
+Bảo
+hiểm xã hội các tỉnh, thành phố trực thuộc trung ương
+Thực hiện kế hoạch triển khai Hệ thống tương tác đa
+phương tiện giữa người dân và doanh nghiệp với cơ quan Bảo hiểm xã hội (Hệ thống
+SMS), được sự đồng ý của Phó Tổng Giám đốc Phạm Lương Sơn, Trung tâm Công nghệ
+thông tin (Trung tâm) tiếp tục triển khai các nội dung như sau:
+1. Tin nhắn thông báo kết quả tiếp nhận dữ liệu
+điện tử trên Cổng tiếp nhận dữ liệu Hệ thống thông tin giám định BHYT
+Để minh bạch hóa thông tin và để Lãnh đạo Cơ sở
+khám bệnh, chữa bệnh bảo hiểm y tế (BHYT) nắm được thông tin về việc trích chuyển
+dữ liệu từ Cơ sở khám bệnh, chữa bệnh BHYT lên Cổng tiếp nhận dữ liệu Hệ thống
+thông tin giám định BHYT theo đúng quy định tại Thông tư số 48/2017/TT-BHYT,
+Trung tâm tiếp tục triển khai bổ sung tin nhắn gửi thông báo kết quả tiếp nhận
+dữ liệu điện tử gửi đến Lãnh đạo cơ sở khám bệnh, chữa bệnh BHYT, cụ thể:
+- Thời gian gửi:
+Ngày 06 của tháng.
+- Nội dung tin nhắn (Ví dụ):
+“Tháng
+4/2019, Mã CSKCB 01909: Tổng số lượt đề nghị là 10.132 lượt, tổng số tiền đề
+nghị BHXH thanh toán là 11.967.526.000 đồng, tỷ lệ hồ sơ gửi đúng ngày là 72%.
+Trân trọng!”
+2. Tin nhắn thông báo kết quả đóng BHXH, BHYT,
+BHTN, Bảo hiểm TNLĐ-BNN
+Để minh bạch hóa thông tin đối với đơn vị tham gia
+bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động,
+bệnh nghề nghiệp, Trung tâm tiếp tục triển khai bổ sung tin nhắn gửi thông báo
+kết quả đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai
+nạn lao động, bệnh nghề nghiệp của tháng trước liền kề và số tiền dự tính phải
+đóng của tháng hiện tại đối với đơn vị tham gia (thông tin giống
+Mẫu C12-TS
+ban hành theo Quyết định số 618/QĐ-BHXH
+ngày 30/05/2019), cụ thể:
+- Thời gian gửi:
+ngày 01 hàng tháng (cùng thời
+điểm lập
+Mẫu C12-TS
+ban hành theo Quyết định số
+618/QĐ-BHXH)
+- Nội dung tin nhắn (Ví dụ):
+“Kính gửi
+Công ty TNHH Hoya Glass Disk VN: số tiền đã đóng tháng 05/2019 là 9.249.473.860
+đồng; Số tiền còn phải đóng chuyển sang tháng 06/2019 là -214.541.737 đồng; Số
+tiền dự tính phải đóng tháng 06/2016 là 8.931.964.403. Chi tiết liên hệ BHXH TP
+Hà Nội”
+Lưu ý: Khi triển khai, các tin nhắn sẽ được
+chuyển sang tin nhắn tiếng Việt không dấu.
+3. Thời gian triển khai:
+Bắt đầu từ ngày
+01/8/2019.
+Trung tâm thông báo để BHXH các tỉnh, thành phố trực
+thuộc trung ương (BHXH các tỉnh) được biết và tổ chức triển khai trong phạm vi
+quản lý. Yêu cầu BHXH các tỉnh không thực hiện việc gửi tin nhắn trùng với các
+nội dung tin nhắn mà BHXH Việt Nam đã triển khai. Trong trường hợp BHXH các tỉnh
+có nhu cầu gửi tin nhắn khác với nội dung nêu trên, đề nghị BHXH các tỉnh báo
+cáo về Trung tâm để Trung tâm tổng hợp báo cáo Lãnh đạo Ngành.
+Nơi nhận:
+-
+Như trên;
+- Tổng Giám đốc (để b/c);
+- PTGĐ Phạm Lương Sơn (để b/c);
+- PTGĐ Trần Đình Liệu (để b/c);
+- Các đơn vị: TCKT, PC, THU, ST, CSXH, GĐB, TTTT (để p/h);
+- Phòng KHDA;
+- Lưu: VT, PM.
+GIÁM ĐỐC
+Lê Nguyên Bồng
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

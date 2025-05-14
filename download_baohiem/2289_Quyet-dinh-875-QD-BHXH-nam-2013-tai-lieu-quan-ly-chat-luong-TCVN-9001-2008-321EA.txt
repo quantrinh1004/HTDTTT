@@ -1,0 +1,302 @@
+BẢO HIỂM XÃ HỘI VIỆT
+  NAM
+-------
+CỘNG HÒA XÃ HỘI CHỦ
+  NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 875/QĐ-BHXH
+Hà Nội, ngày 08 tháng
+  08 năm 2013
+QUYẾT ĐỊNH
+VỀ
+VIỆC BAN HÀNH HỆ THỐNG TÀI LIỆU QUẢN LÝ CHẤT LƯỢNG THEO TIÊU CHUẨN TCVN ISO 9001:2008
+CỦA CƠ QUAN BẢO HIỂM XÃ HỘI VIỆT NAM
+TỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM
+Căn cứ Nghị định số 94/2008/NĐ-CP ngày
+22/8/2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ
+chức của Bảo hiểm xã hội Việt Nam; Nghị định 116/2012/NĐ-CP ngày 14/12/2012 của
+Chính phủ sửa đổi, bổ sung một số điều của Nghị định 94/2008/NĐ-CP ngày
+22/8/2008;
+Căn cứ Quyết định số 144/2006/QĐ-TTg ngày
+26/6/2006 của Thủ tướng Chính phủ quy định áp dụng hệ thống quản lý chất lượng
+theo tiêu chuẩn TCVN ISO 9001:2000 vào hoạt động của các cơ quan hành chính Nhà
+nước và Quyết định số 118/2009/QĐ-TTg ngày 30/9/2009 của Thủ tướng Chính phủ về
+việc sửa đổi, bổ sung một số điều của Quyết định số 144/2006/QĐ-TTg;
+Căn cứ Quyết định số 649/QĐ-BHXH ngày 01/6/2011
+của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc thành lập Ban Chỉ đạo xây
+dựng và triển khai kế hoạch áp dụng Hệ thống quản lý chất lượng theo tiêu chuẩn
+TCVN ISO 9001:2008 vào hoạt động của Bảo hiểm xã hội Việt Nam;
+Căn cứ Quyết định 1098/QĐ-BHXH ngày 24/10/2011
+của Tổng Giám đốc Bảo hiểm xã hội Việt Nam phê duyệt Kế hoạch triển khai xây
+dựng và áp dụng hệ thống quản lý chất lượng theo tiêu chuẩn TCVN ISO 9001:2008
+vào hoạt động của Ngành Bảo hiểm xã hội Việt Nam;
+Xét đề nghị của Trưởng Ban Chỉ đạo ISO,
+QUYẾT ĐỊNH:
+Điều 1.
+Ban
+hành các tài liệu hệ thống quản lý chất lượng theo tiêu chuẩn ISO 9001:2008 (Sổ
+tay chất lượng và 47 quy trình giải quyết công việc của các đơn vị) áp dụng tại
+cơ quan Bảo hiểm xã hội Việt Nam
+(có danh mục tài liệu và bộ quy trình kèm theo
+quyết định này).
+Tài liệu hệ thống quản lý chất lượng theo tiêu
+chuẩn ISO 9001:2008 của cơ quan Bảo hiểm xã hội Việt Nam ban hành kèm theo
+quyết định này được đăng tải trên Trang thông tin điện tử của Bảo hiểm xã hội
+Việt Nam (www.baohiemxahoi.gov.vn) và gửi vào hộp thư điện tử của các tổ chức
+giúp việc Tổng Giám đốc.
+Điều 2.
+Thủ
+trưởng các tổ chức giúp việc Tổng Giám đốc có trách nhiệm phổ biến, hướng dẫn
+và triển khai áp dụng hệ thống quản lý chất lượng theo tiêu chuẩn ISO 9001:2008
+tại đơn vị mình; công chức, viên chức, lao động hợp đồng của đơn vị có trách
+nhiệm thực hiện công việc theo đúng các quy định của hệ thống tài liệu đã ban
+hành.
+Điều 3.
+Quyết
+định này có hiệu lực kể từ ngày 15/8/2013. Chánh Văn phòng Bảo hiểm xã hội Việt
+Nam, Ban chỉ đạo ISO, Thủ trưởng các tổ chức giúp việc Tổng Giám đốc chịu trách
+nhiệm thi hành Quyết định này./.
+Nơi nhận:
+-
+  Như Điều 3;
+- Tổng cục Tiêu chuẩn Đo lường Chất lượng – Bộ KHCN;
+- Các Phó Tổng Giám đốc (để biết);
+- Lưu: VT, BCĐ ISO (5b).
+TỔNG GIÁM ĐỐC
+Lê Bạch Hồng
+DANH MỤC
+QUY
+TRÌNH GIẢI QUYẾT CÔNG VIỆC TẠI CƠ QUAN BHXH VIỆT NAM
+(Ban
+hành kèm theo Quyết định số 873/QĐ-BHXH ngày 08 tháng 8 năm 2013 của Tổng Giám
+đốc Bảo hiểm xã hội Việt Nam)
+STT
+Tên quy trình
+Mã quy trình
+Ghi chú
+I
+Quy trình/văn bản
+  thực hiện chung
+1
+Chính sách chất lượng, mục tiêu chất lượng
+2
+Sổ tay chất lượng
+STCL
+3
+Quy trình kiểm soát tài liệu
+QT-BHXHVN-01
+4
+Quy trình kiểm soát hồ sơ
+QT-BHXHVN-02
+5
+Quy trình đánh giá nội bộ
+QT-BHXHVN-03
+6
+Quy trình kiểm soát sản phẩm không phù hợp
+QT-BHXHVN-04
+7
+Quy trình thực hiện hành động khắc phục
+QT-BHXHVN-05
+8
+Quy trình thực hiện hành động phòng ngừa
+QT-BHXHVN-06
+9
+Quy trình xem xét của lãnh đạo đối với hệ
+  thống quản lý chất lượng
+QT-BHXHVN-07
+II
+Quy trình thực hiện
+  tại các đơn vị
+1
+Quy trình thực hiện chung đối với các đơn vị
+1
+Quy trình thu thập thông tin, tổng hợp xây
+  dựng các loại báo cáo theo chức năng nhiệm vụ
+QT-BHXHVN-08
+2
+Quy trình ban hành văn bản hướng dẫn nghiệp
+  vụ đối với BHXH các tỉnh thành phố
+QT-BHXHVN-09
+3
+Quy trình tiếp nhận và trả lời tổ chức, cá
+  nhân về các nội dung liên quan đến các chế độ chính sách BHXH, BHYT theo chức
+  năng nhiệm vụ của Ngành
+QT-BHXHVN-10
+4
+Quy trình kiểm tra nghiệp vụ theo chức năng
+  nhiệm vụ của Ngành
+QT-BHXHVN-11
+5
+Quy trình xử lý sau kiểm tra, thanh tra, kiểm
+  toán, kết luận của Tòa án đối với các sai phạm về BHXH, BHYT, BHTN
+QT-BHXHVN-12
+6
+Quy trình dự thảo văn bản tham gia với các
+  Bộ, ngành về các nội dung liên quan đến chức năng, nhiệm vụ của Ngành
+QT-BHXHVN-13
+7
+Quy trình xây dựng, lập và phân bổ kế hoạch
+  hàng năm của Ngành
+QT-BHXHVN-14
+8
+Quy trình xây dựng đề án, dự án và chương
+  trình công tác năm của các đơn vị
+QT-BHXHVN-15
+2
+Quy trình thực hiện riêng tại các đơn vị
+2.1
+Ban Thu
+1
+Quy trình tổng hợp, thẩm định, đánh giá, báo
+  cáo tình hình thực hiện thu BHXH, BHYT đối với BHXH các tỉnh, thành phố
+QT-BHXHVN-16
+2.2
+Ban Chi
+1
+Quy trình lập kế hoạch cấp kinh phí cho các
+  đơn vị
+QT-BHXHVN-17
+2
+Quy trình thẩm định, xét duyệt và thông báo
+  quyết toán thu chi BHXH, BHYT, chi quản lý bộ máy; tổng hợp và lập báo cáo
+  toàn ngành
+QT-BHXHVN-18
+2.3
+Ban thực hiện chính sách BHXH
+1
+Quy trình tiếp nhận và xử lý hồ sơ hưởng BHXH
+  hàng tháng do BHXH tỉnh, thành phố giải quyết chưa đúng từ TTLT chuyển sang
+QT-BHXHVN-19
+2
+Quy trình lập kế hoạch về đối tượng và kinh
+  phí hưởng các chế độ BHXH hàng năm và dài hạn
+QT-BHXHVN-20
+2.4
+Ban Thực hiện chính sách BHYT
+1
+Quy trình tổng hợp, thẩm định, đánh giá tình
+  hình thực hiện chi phí khám chữa bệnh BHYT tại BHXH Việt Nam.
+QT-BHXHVN-21
+2.5
+Ban Cấp sổ, thẻ
+1
+Quy trình lập Kế hoạch, in ấn và chuyển cấp
+  phôi sổ BHXH, phôi thẻ BHYT đến BHXH các địa phương.
+QT-BHXHVN-22
+2.6
+Ban Kế hoạch tài chính
+1
+Quy trình tổ chức thực hiện công tác báo cáo
+  thống kê Ngành BHXH
+QT-BHXHVN-23
+2.7
+Ban Pháp chế
+1
+Quy trình kiểm tra, rà soát hệ thống hóa văn
+  bản
+QT-BHXHVN-24
+2
+Quy trình kiểm soát thủ tục hành chính
+QT-BHXHVN-25
+2.8
+Ban Đầu tư Quỹ
+1
+Quy trình xây dựng phương án đầu tư Quỹ (ngắn
+  và dài hạn)
+QT-BHXHVN-26
+2
+Quy trình cho vay và quản lý hồ sơ cho vay
+  vốn
+QT-BHXHVN-27
+3
+Quy trình xác định lãi suất cho vay
+QT-BHXHVN-28
+2.9
+Ban Tổ chức cán bộ
+2
+Quy trình tuyển dụng công chức, viên chức làm
+  việc tại cơ quan BHXH Việt Nam
+QT-BHXHVN-30
+3
+Quy trình đánh giá cán bộ, công chức, viên
+  chức, hàng năm tại cơ quan BHXH Việt Nam
+QT-BHXHVN-31
+4
+Quy trình bổ nhiệm, bổ nhiệm lại, luân
+  chuyển, điều động, biệt phái, thuyên chuyển, từ chối, thôi giữ chức vụ, đình
+  chỉ chức vụ và công tác đối với cán bộ quản lý
+QT-BHXHVN-32
+5
+Quy trình quy hoạch cán bộ quản lý
+QT-BHXHVN-33
+6
+Quy trình kỷ luật công chức, viên chức tại cơ
+  quan BHXH Việt Nam
+QT-BHXHVN-34
+7
+Quy trình đào tạo, bồi dưỡng cán bộ công
+  chức, viên chức tại cơ quan BHXH Việt Nam
+QT-BHXHVN-35
+10
+Ban Hợp tác quốc tế
+1
+Quy trình xây dựng nội dung, thành phần, thực
+  hiện thủ tục, tổ chức, quản lý các đoàn của BHXH Việt Nam đi công tác, học
+  tập ở nước ngoài
+QT-BHXHVN-36
+2
+Quy trình xây dựng nội dung, chuẩn bị tài
+  liệu, tổ chức đón tiếp, trao đổi và làm việc với các đối tác quốc tế đến thăm
+  và làm việc với BHXH Việt Nam
+QT-BHXHVN-37
+3
+Quy trình tổ chức các hội nghị, hội thảo quốc
+  tế của Bảo hiểm xã hội Việt Nam
+QT-BHXHVN-38
+11
+Ban Tuyên truyền
+1
+Quy trình xây dựng ấn phẩm tuyên truyền
+QT-BHXHVN-39
+2
+Quy trình quản lý, duy trì hoạt động của
+  Website
+QT-BHXHVN-40
+12
+Ban Kiểm tra
+1
+Quy trình giải quyết khiếu nại, tố cáo và
+  tiếp công dân
+QT-BHXHVN-41
+13
+Ban Thi đua – Khen thưởng
+1
+Quy trình xét tặng danh hiệu thi đua và hình
+  thức khen thưởng thường xuyên
+QT-BHXHVN-42
+2
+Quy trình xét tặng Kỷ niệm chương “Vì sự
+  nghiệp BHXH” đối với cá nhân trong Ngành BHXH
+QT-BHXHVN-43
+14
+Văn phòng
+1
+Quy trình quản lý văn bản đi và đến
+QT-BHXHVN-44
+2
+Quy trình mua sắm trang thiết bị phục vụ hoạt
+  động của cơ quan
+QT-BHXHVN-45
+3
+Quy trình tạm ứng và thanh toán các chi phí
+  phục vụ cho hoạt động của cơ quan
+QT-BHXHVN-46
+4
+Quy trình xây dựng chương trình công tác
+  trọng tâm hàng năm của Ngành
+QT-BHXHVN-47
+Văn bản này có file đính kèm, bạn vui lòng tải Văn bản về để xem toàn bộ nội dung.
+Tải về
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt

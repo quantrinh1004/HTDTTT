@@ -1,0 +1,169 @@
+BẢO HIỂM
+  XÃ HỘI VIỆT NAM
+-------
+CỘNG HÒA
+  XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+  2048/BHXH-VP
+V/v sử dụng thông tin, giấy tờ tích hợp
+  trên VNeID trong tiếp nhận hồ sơ, trả kết quả giải quyết TTHC
+Hà Nội,
+  ngày 05 tháng 07 năm 2023
+Kính gửi:
+Bảo hiểm xã hội các tỉnh, thành phố
+trực thuộc Trung ương
+Căn cứ
+Nghị định 59/2022/NĐ-CP ngày 05/9/2022 của Chính phủ quy định về định danh và
+xác thực điện tử; Công văn số 1101/BCA-QLHC ngày 11/4/2023 của Bộ Công an về
+việc sử dụng thông tin, giấy tờ tích hợp trên ứng dụng VNeID; Ngày 15/5/2023,
+Bảo hiểm xã hội (BHXH) Việt Nam có Công văn số 1397/BHXH-VP về việc triển khai
+cài đặt ứng dụng VNeID và định danh điện tử mức 2 đối với công chức, viên chức,
+người lao động toàn Ngành.
+Theo quy
+định tại
+khoản 5, Điều 13, Nghị định số 59/2022/NĐ-CP
+:
+“Việc
+sử dụng tài khoản định danh điện tử mức độ 2 được tạo lập bởi hệ thống định
+danh và xác thực điện tử đối với chủ thể danh tính điện tử là công dân Việt Nam
+có giá trị tương đương như việc sử dụng thẻ Căn cước công dân trong thực hiện
+các giao dịch có yêu cầu xuất trình thẻ Căn cước công dân; có giá trị cung cấp
+thông tin trong các loại giấy tờ của công dân đã được đồng bộ vào tài khoản
+định danh điện tử để cơ quan, tổ chức có thẩm quyền đối chiếu khi thực hiện các
+giao dịch có yêu cầu xuất trình giấy tờ đó”.
+Để thực
+hiện việc sử dụng thông tin, giấy tờ tích hợp trên ứng dụng VneID phục vụ việc
+xác thực danh tính trong công tác tiếp nhận hồ sơ và trả kết quả giải quyết thủ
+tục hành chính (TTHC), BHXH Việt Nam yêu cầu BHXH các tỉnh, thành phố trực
+thuộc Trung ương thực hiện một số nội dung sau:
+1.
+Bảo
+đảm 100% viên chức làm việc tại Trung tâm hành chính công tỉnh, Trung tâm Phục
+vụ hành chính công cấp huyện và Bộ phận tiếp nhận và trả kết quả của BHXH
+tỉnh/huyện sử dụng thành thạo ứng dụng VneID, đặc biệt là các bước kiểm tra ứng
+dụng VneID và các thông tin, giấy tờ tích hợp trên ứng dụng VneID theo hướng
+dẫn tại Công văn số 1101/BCA-QLHC nêu trên.
+2.
+Khi
+tiếp nhận hồ sơ TTHC theo hình thức trực tiếp, viên chức tại Bộ phận một cửa đề
+nghị người nộp hồ sơ cung cấp thông tin về danh tính, cụ thể:
+a) Trường
+hợp người dân xuất trình Chứng minh nhân dân hoặc Căn cước công dân hoặc Hộ
+chiếu còn thời hạn, giá trị sử dụng:
+Thực hiện
+tiếp nhận hồ sơ theo quy định tại Quyết định số 475/QĐ-BHXH ngày 27/3/2023 của
+Tổng Giám đốc BHXH Việt Nam về việc ban hành Quy chế tổ chức và hoạt động của
+Bộ phận Tiếp nhận và Trả kết quả giải quyết TTHC theo cơ chế một cửa, một cửa
+liên thông trong ngành BHXH Việt Nam.
+b) Trường
+hợp người dân đã có định danh điện tử mức độ 2 và đề nghị sử dụng tài khoản
+định danh điện tử mức độ 2 để thực hiện TTHC:
+- Viên
+chức làm việc tại Bộ phận một cửa sử dụng ứng dụng VNeID, đăng nhập tài khoản
+của cá nhân viên chức đã được định danh điện tử mức độ 2, thực hiện quét mã QR
+code “Mã định danh điện tử” trên ứng dụng VNeID của người nộp hồ sơ để xác thực
+thông tin công dân thật hay giả; sau đó kiểm tra hình ảnh căn cước công dân từ
+ứng dụng trên máy điện thoại của người nộp hồ sơ.
+- Sau khi
+kiểm tra xác thực danh tính công dân, thực hiện việc tiếp nhận hồ sơ theo quy
+định, đồng thời cập nhật trên Phần mềm Tiếp nhận và Quản lý hồ sơ như sau: Tại mục
+“Tên giấy tờ”, ghi: “
+Căn cước công dân”;
+tại mục “Ghi chú”, ghi:
+“
+VNeID
+mức 2”.
+(Thực hiện
+theo “Tài liệu hướng dẫn kiểm tra ứng dụng VNeID và các thông tin, giấy tờ tích
+hợp trên ứng dụng VNeID” ban hành kèm theo
+Công văn số 1101/BCA-QLHC
+của Bộ Công an và Hướng dẫn xác thực danh tính, cập nhật thông tin tại Phụ
+lục I gửi kèm văn bản này).
+3.
+Viên
+chức làm việc tại Bộ phận một cửa lưu ý người nộp hồ sơ khi đến nhận kết quả
+giải quyết TTHC cần mang theo Giấy tiếp nhận hồ sơ và hẹn trả kết quả; xuất
+trình Chứng minh nhân dân hoặc Căn cước công dân hoặc Hộ chiếu còn giá trị sử
+dụng hoặc sử dụng ứng dụng VNeID cung cấp hình ảnh thẻ Căn cước công dân để xác
+thực danh tính; đảm bảo thực hiện trả kết quả đúng người, đúng đối tượng, đúng
+nội dung yêu cầu của người tham gia thụ hưởng các chế độ BHXH.
+Trong quá
+trình thực hiện, nếu có vướng mắc, đề nghị BHXH tỉnh, thành phố phản ánh về
+BHXH Việt Nam (qua Văn phòng) để được hỗ trợ, giải quyết./.
+Nơi nhận:
+-
+  Như trên;
+- Tổng Giám đốc (để b/c);
+- Các Phó Tổng Giám đốc;
+- Các đơn vị trực thuộc BHXHVN;
+- Tổ Công tác Đề án 06;
+- Lưu: VT, VP.
+KT. TỔNG
+  GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Chu Mạnh Sinh
+PHỤ LỤC I
+HƯỚNG DẪN QUY TRÌNH
+XÁC THỰC TÀI KHOẢN VNeID VÀ DANH TÍNH CÔNG DÂN TRONG TIẾP NHẬN HỒ SƠ VÀ TRẢ KẾT
+QUẢ THỦ TỤC HÀNH CHÍNH
+(Ban
+hành kèm theo Công văn số 2048/BHXH-VP ngày 05/7/2023 của Bảo hiểm xã hội Việt
+Nam)
+I.
+Quy trình xác thực tài khoản VNeID mức độ 02 và xác thực danh tính công dân
+Bước 1
+: Cán bộ
+TNHS và người nộp hồ sơ đăng nhập vào ứng dụng VNeID, chọn (1)
+Cá nhân
+và
+(2) bật tính năng “
+Xác minh ứng dụng qua QR code
+”
+Bước 2:
++ Đối với
+người nộp hồ sơ: cung cấp
+Mã định danh điện tử
+và
+QR code
+cho
+cán bộ TNHS (Hình (3, 4))
++ Đối với
+cán bộ TNHS: bật (5) tính năng xác minh ứng dụng qua QR code tại mục cá nhân để
+scan
+QR Mã định danh điện tử
+của người nộp hồ sơ (5). Nếu danh
+tính được xác thực đúng, màn hình điện thoại của cán bộ TNHS sẽ hiện lên biểu
+tượng– QR code ứng dụng định danh điện tử (6).
+Bước 3:
+Cán bộ
+TNHS đã xác thực tài khoản VNeID mức độ 02 của người nộp hồ sơ tại bước 2, yêu
+cầu người nộp hồ sơ vào mục Ví giấy tờ để cung cấp ảnh Thẻ căn cước công dân trên
+ứng dụng VNeID để xác thực danh tính(7). Nếu hình ảnh trên Thẻ căn cước và
+người nộp hồ sơ là cùng một người, thì thực hiện quy trình tiếp nhận và trả kết
+quả thủ tục hành chính theo quy định.
+II.
+Cập nhật lên phần mềm Tiếp nhận và quản lý hồ sơ
+Cán bộ
+TNHS thực hiện cập nhật nội dung thông tin đã xác thực danh tính của người nộp
+hồ sơ tại phần mềm TNHS và chịu trách nhiệm với nội dung cập nhật, cụ thể:
+- Tại mục
+Tên
+giấy tờ
+, (8) ghi:
+Căn cước công dân
+.
+- Tại mục
+Ghi
+chú
+, (9) ghi:
+VNeID mức 2
+.
+(Nội dung cập
+nhật này để phân biệt với các hồ sơ mà người nộp xuất trình CMT/CCCD hoặc Hộ
+chiếu bản cứng)
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

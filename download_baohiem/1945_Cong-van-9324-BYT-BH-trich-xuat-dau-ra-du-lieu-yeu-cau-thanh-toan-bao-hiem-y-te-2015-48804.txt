@@ -1,0 +1,1061 @@
+BỘ Y TẾ
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+9324/BYT-BH
+V/v trích xuất đầu ra dữ liệu yêu cầu thanh
+  toán BHYT
+Hà
+  Nội, ngày
+30
+tháng
+11
+năm
+2015
+Kính gửi:
+- Giám đốc Sở Y tế các tỉnh, thành phố trực thuộc
+  Trung ương;
+- Giám đốc các Bệnh viện, Viện có giường bệnh trực thuộc Bộ Y tế;
+- Thủ trưởng y tế các Bộ, Ngành.
+(Sau đây gọi chung là Thủ trưởng các đơn vị)
+Ngày
+0
+9/
+11
+/2015, Bộ Y tế đã có Công văn số 8623/BYT-BH về đẩy mạnh ứng dụng công
+nghệ thông tin (CNTT) trong quản lý khám chữa bệnh và thanh toán bảo hiểm y tế
+(BHYT) theo Nghị quyết số 36a/NQ-CP ngày 14/10/2015 của Chính phủ về Chính phủ
+điện tử.
+Để bảo đảm thống nhất trên toàn quốc
+về dữ liệu đầu ra yêu cầu thanh toán gửi cơ quan bảo hiểm xã hội, sau khi phối
+hợp với Bảo hiểm xã hội Việt Nam rà soát các bảng biểu và chuẩn dữ liệu đầu ra
+của Công văn số 2348/BYT-BH ngày 10/4/2015, Bộ Y tế đề n
+g
+hị
+Thủ trưởng các đơn vị chỉ đạo, đôn đốc các cơ sở khám chữa bệnh thuộc quyền quản
+lý thực hiện trích xuất đầu ra dữ liệu thanh toán BHYT như sau:
+1. Đôn đốc các cơ sở khám bệnh, chữa
+bệnh đẩy nhanh ứng dụng CNTT trong quản lý, bảo đảm trích xuất “Bảng kê chi phí
+khám bệnh, chữa bệnh sử dụng tại cơ sở khám bệnh, chữa bệnh” theo Quyết định số
+3455/QĐ-BYT ngày 16/9/2013 của Bộ trưởng Bộ Y tế và các biểu mẫu tổng hợp danh
+sách khám, chữa bệnh đề nghị thanh toán BHYT (mẫu số 79a-HD và 80a-HD ban hành
+kèm theo Thông tư số 178/2012/TT-BTC ngày 23/10/2012 của Bộ Tài chính về hướng
+dẫn kế toán áp dụng cho Bảo hiểm xã hội Việt Nam).
+2. Chỉ đạo các cơ sở khám bệnh, chữa
+bệnh BHYT tạm thời thực hiện yêu cầu đầu ra dữ liệu của phần mềm quản lý theo
+các thông tin trong bảng 1, bảng 2 và bảng 3 của phụ lục đính kèm công văn này
+để đồng bộ dữ liệu trong toàn quốc, phục vụ yêu cầu
+q
+uản
+lý nhà nước và thanh toán BHYT. Các thông tin trong 3 bảng nêu trên cần được mô
+tả theo định dạng XML và bộ phông chữ Unicode; bảo đảm cung cấp dữ liệu đầu ra
+hoàn thành trước ngày 31/12/2015. Các cơ sở khám bệnh, chữa bệnh đủ điều kiện
+phấn đấu áp dụn
+g
+bảng 4, bảng 5 của phụ lục đính kèm. Các
+bảng 1, 2, 3 đính kèm công văn số 2348/BYT-BH ngày 10/4/2015 của Bộ Y tế không
+còn giá trị áp
+d
+ụng./.
+Nơ
+i
+nhận:
+- Như trên;
+- BT. Nguyễn Thị Kim Tiến (để báo cáo);
+- BHXH Việt Nam (để phối hợp);
+- Các Vụ, Cục: BHYT, KH-TC, CNTT
+;
+TTB&C
+T
+YT, YDCT, QLD, KCB;
+- Lưu: VT, BH.
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+Phạm Lê Tuấn
+Bảng 1. Chỉ tiêu
+tổng hợp khám bệnh, chữa bệnh BHYT
+(Ban hành kèm
+theo Công văn số 9324/BYT-BH ngày 30/11/2015)
+TT
+Chỉ
+  tiêu
+Kiểu
+  dữ liệu
+Kích
+  thước tối đa
+Diễn
+  giải
+1
+ma_lk
+Chuỗi
+Mã đợt điều trị duy nhất (dùng để
+  liên kết giữa bảng t
+ổ
+ng hợp (bảng 1) và các bảng chi tiết
+  (bảng 2 đến bảng 5) trong 1 lần khám bệnh, ch
+ữ
+a bệnh
+  (PRIMARY KEY)).
+2
+stt
+Số
+6
+Từ 1 đến hết trong 1 lần gửi dữ liệu
+3
+ma_bn
+Chuỗi
+15
+Mã số bệnh nhân quy định tại CSKCB
+4
+ho_ten
+Chuỗi
+Họ và tên người bệnh
+5
+ngay_sinh
+Chuỗi
+8
+Ngày sinh ghi trên thẻ gồm 8 ký tự;
+  4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày (nếu không có ngày sinh thì n
+ă
+m sinh: 4 ký tự)
+6
+gioi_tinh
+Số
+1
+Giới tính; Mã hóa (1 : Nam; 2 : Nữ)
+7
+dia_chi
+Chuỗi
+Địa chỉ ghi trên thẻ BHYT, trẻ em
+  không có thẻ ghi địa chỉ (xã, huyện, tỉnh) trên giấy tờ thay thế
+8
+ma_the
+Chuỗi
+15
+Mã thẻ BHYT do cơ quan BHXH cấp
+  (trường hợp chưa có thẻ nhưng vẫn được hưởng quyền lợi BHYT, VD: trẻ em, người
+  ghép tạng,...thì mã theo nguyên tắc: mã đối tượng + mã tỉnh + mã huyện + 000
+  + số thứ tự đối tượng không có thẻ đến khám trong năm.
+VD: TE
+1
++xx (mã
+  tỉnh)+yy (mã huyện)+000+ zzzzz (số thứ tự trẻ dưới 6 tuổi không có thẻ đến
+  khám trong năm)
+9
+ma
+_
+dkbd
+Chuỗi
+5
+Mã cơ sở KCB nơi người bệnh đăng ký
+  ban đầu ghi trên thẻ BHYT
+10
+gt_the_tu
+Chuỗi
+8
+Thời điểm thẻ có giá trị gồm 8 ký tự;
+  4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày
+11
+gt_the_den
+Chuỗi
+8
+Thời điểm thẻ hết giá trị gồm 8 ký
+  tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày
+12
+ten
+_
+benh
+Chuỗi
+Ghi đầy đủ chẩn đoán khi ra viện
+13
+ma_benh
+Chuỗi
+5
+Mã bệnh chính theo ICD 10
+14
+ma_benhkhac
+Chuỗi
+Mã bệnh kèm theo theo ICD 10, có
+  nhiều mã ICD được phân cách bằng ký tự chấm phẩy (;)
+15
+ma_lydo_vvien
+Số
+1
+Mã hóa đối tượng đến khám BHYT (1 :
+  Đúng tuyến; 2 :
+C
+ấp cứu; 3 : Trái tuyến)
+16
+ma_noi_chuyen
+Chuỗi
+5
+Mã cơ sở KCB chuyển người bệnh đến
+  (mã do cơ quan BHXH cấp)
+17
+ma_tai_nan
+Số
+1
+Tai nạn thương tích; Mã hóa tham
+  chiếu bảng 8 (Bảng tai nạn thương tích)
+18
+ngay_vao
+Chu
+ỗ
+i
+12
+Ngày giờ đến khám hoặc nhập viện gồm:
+  12 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày + 2 ký tự giờ (24 giờ) +
+  2 ký tự phút
+Ví dụ: ngày 31/03/2015 15:20 được
+  hi
+ể
+n thị là: 201503311520
+19
+ngay_ra
+Chuỗi
+12
+Ngày giờ ra viện gồm 12 ký tự; 4 ký
+  tự năm + 2 ký tự tháng + 2 ký tự ngày + 2 ký tự giờ (24 giờ) + 2 ký tự phút.
+Ví dụ: ngày 05/04/2015 09:20 được
+  hiển thị là: 201504050920
+20
+so_ngay_dtri
+Số
+3
+Số ngày điều trị thực tế
+21
+ket_qua_dtri
+Số
+1
+Kết quả điều trị; Mã hóa (1: Khỏi;
+  2: Đỡ; 3: Không thay đổi; 4: Nặng hơn; 5: Tử vong)
+22
+tinh_trang_rv
+Số
+1
+Tình trạng ra viện; Mã hóa (1: Ra
+  viện; 2: Chuyển viện; 3: Trốn viện; 4: Xin ra viện)
+23
+ngay_ttoan
+Chuỗi
+12
+Ngày giờ thanh toán gồm 12 ký tự; 4
+  ký tự năm + 2 ký tự tháng + 2 ký tự ngày + 2 ký tự giờ (24 giờ) + 2 ký tự
+  phút
+24
+muc_huong
+Số
+3
+Ghi mức hưởng tương ứng với quyền lợi
+  được hưởng của người bệnh (trường hợp đúng tuyến ghi 80 hoặc 95 hoặc 100, trái
+  tuyến ghi mức hưởng * tỷ lệ hưởng tùy theo hạng bệnh viện)
+25
+t_thuoc
+Số
+15
+Tổng tiền thuốc đã làm tròn số đến
+  đơn vị đồng
+26
+t_vtyt
+Số
+15
+Tổng tiền vật tư y tế đã làm tròn số
+  đến đơn vị đồng
+27
+t_tongchi
+Số
+15
+Tổng chi phí trong lần/đợt điều trị
+28
+t_bntt
+Số
+15
+S
+ố
+tiền người
+  bệnh thanh toán (bao gồm phần cùng trả và tự trả), định dạng số
+29
+t_bhtt
+Số
+15
+Số tiền đề nghị BHXH thanh toán
+30
+t_nguonkhac
+Số
+15
+S
+ố
+tiền người
+  bệnh được các nguồn tài chính khác hỗ trợ
+31
+t_ngoaids
+Số
+15
+Chi phí ngoài định suất
+32
+nam
+_
+qt
+Số
+4
+Năm đề nghị BHXH thanh toán
+33
+thang
+_
+qt
+Số
+2
+Tháng đề nghị BHXH thanh toán
+34
+ma_loai_kcb
+Số
+1
+Mã hóa hình thức KCB (1: Khám bệnh;
+  2: Điều trị ngoại trú; 3: Điều trị nội trú)
+35
+ma_khoa
+Chuỗi
+3
+N
+ế
+u bệnh nhân
+  điều trị ở nhiều khoa thì ghi mã khoa tổng kết hồ sơ bệnh án
+36
+ma_cskcb
+Chuỗi
+5
+Mã cơ sở KCB nơi điều trị (Mã do cơ
+  quan BHXH cấp)
+37
+m
+a_khuvuc
+Chuỗi
+2
+Ghi mã nơi sinh sống trên thẻ
+  "K1/K2/K3"
+38
+ma_pttt_qt
+C
+huỗi
+Mã phẫu thuật thủ thuật Quốc tế
+  theo ICD 9 CM Vol 3 cho phẫu thuật thủ thuật (Triển khai sau khi Bộ Y tế ban
+  hành b
+ả
+ng tham chiếu và có v
+ă
+n bản
+  chỉ đạo. Nếu có nhiều PTTT thì mỗi mã cách nhau bởi dấu ch
+ấ
+m phẩy (;)
+39
+can_nang
+S
+ố
+5
+Chỉ thu thập với các bệnh nhân là
+  trẻ em dưới 1 tuổi.
+Là số kilogam (kg) cân nặng của trẻ
+  em khi vào viện
+Số thập phân, dấu thập phân là dấu
+  phẩy (,)
+Ghi đến 2 chữ số sau dấu thập phân
+  (vd: 5,75 là 5,75 kg)
+Ghi chú:
+Chỉ tiêu số thứ tự 30 (t_nguonkhac) tạm thời chưa bắt buộc
+Bảng
+2. Chỉ tiêu chi tiết thuốc thanh toán BHYT
+(Ban hành kèm
+theo Công văn số 9324/BYT-BH ngày 30/11/2015)
+TT
+Chỉ
+  tiêu
+Kiểu
+  dữ liệu
+Kích
+  thước tối đa
+Diễn
+  giải
+1
+ma_lk
+Chuỗi
+Mã đợt điều trị duy nhất (Dùng để
+  liên kết giữa bảng tổng hợp (Bảng
+1
+) và b
+ả
+ng này trong 1 lần khám bệnh, chữa bệnh).
+2
+stt
+Số
+Từ 1 đến hết trong 1 lần gửi dữ liệu
+3
+ma
+_
+thuoc
+Chu
+ỗ
+i
+Mã thuốc theo mã quy định tại Bộ mã
+  danh mục dùng chung của Bộ Y tế
+4
+ma
+_
+nhom
+Chuỗi
+4
+Dùng để phân loại, s
+ắ
+p xếp các chi phí vào các mục tương ứng tham chiếu phụ lục Bảng 6
+5
+ten
+_
+thuoc
+Chuỗi
+T
+ê
+n thuốc ghi
+  đúng theo danh mục thuốc đăng ký Cục QLD công b
+ố
+6
+don_vi_tinh
+Chuỗi
+50
+Đơn vị tính ghi đúng theo danh mục
+  thuốc đăng ký Cục QLD công bố
+7
+ham
+_
+luong
+Chuỗi
+Hàm lượng ghi đúng theo danh mục
+  thuốc đăng ký Cục
+Q
+LD công bố
+8
+duong
+_
+dung
+Chuỗi
+Đường dùng ghi theo mã quy định tại
+  bộ mã danh mục dùng chung của Bộ Y tế
+9
+lieu
+_
+dung
+C
+huỗi
+Liều dùng trong ngày
+10
+so_dang_ky
+Chuỗi
+Số đăng ký của thuốc theo danh mục
+  thuốc đăng ký Cục QLD công bố
+11
+so_luong
+Số
+5
+Số lượng thực tế sử dụng làm tròn đến
+  2 chữ số thập phân
+12
+don_gia
+Số
+15
+Đơn
+  giá thanh toán BHYT làm tròn đến đơn vị đồng
+13
+tyle
+_
+tt
+Số
+3
+Tỷ lệ thanh toán BHYT đối với thuốc
+  có quy định tỷ lệ (%);
+S
+ố nguyên dương
+14
+thanh_tien
+Số
+15
+=
+  so_luong * don_gia * tyle_tt hoặc số tiền đề nghị cơ quan BHXH thanh toán
+  (làm tròn đến đơn vị đồng)
+15
+ma_khoa
+Chuỗi
+3
+Mã khoa bệnh nhân được ch
+ỉ
+định sử dụng thuốc (tham chiếu phụ lục B
+ả
+ng 7)
+16
+ma_bac_si
+Chuỗi
+Mã hóa theo số chứng chỉ hành nghề
+  của người ch
+ỉ
+định
+17
+ma_benh
+Chuỗi
+Mã bệnh chính; nếu có các bệnh khác
+  kèm theo ghi các mã bệnh tương
+ứ
+ng, cách nhau bằng dấu
+  chấm phẩy (;)
+18
+ngay_y
+l
+Chuỗi
+12
+Ngày ra y lệnh (gồm 12 ký tự, theo cấu
+  trúc: yyyymmddHH:mm = 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày + 2 ký tự giờ
+  (24 giờ) + 2 ký tự phút)
+Ví dụ: ngày 31/03/2015 15:20 được
+  hiển thị là: 201503311520
+19
+ma_pttt
+Số
+1
+Mã phương thức thanh toán (0 : Phí dịch
+  vụ; 1 : định suất; 2 : ngoài định suất; 3 : DRG)
+Ghi ch
+ú
+:
+- Máu và chế phẩm của máu ghi tương tự
+như thuốc
+-
+Ch
+ỉ
+tiêu số thứ
+tự 18 (ngay_yl) tạm thời chưa bắt buộc
+- Dấu * là dấu nhân
+Bảng 3. Chỉ tiêu
+chi tiết dịch vụ kỹ thuật và vật tư thanh toán BHYT
+(Ban hành kèm
+theo Công văn số 9324/BYT-BH ngày 30/11/2015)
+TT
+Chỉ
+  tiêu
+Kiểu
+  dữ liệu
+Kích
+  thước tối đa
+Diễn
+  giải
+1
+ma_lk
+Chuỗi
+Mã đợt điều trị duy nhất (dùng để liên
+  kết giữa bảng tổng hợp (Bảng 1) và bảng này trong 1 lần khám bệnh, chữa bệnh).
+2
+stt
+Số
+Từ 1 đến hết trong 1 lần gửi dữ liệu
+3
+ma
+_
+dich
+_
+vu
+Chuỗi
+Mã dịch vụ quy định tại Bộ mã danh
+  mục dùng chung của Bộ Y tế
+4
+ma
+_
+vat
+_
+tu
+Chuỗi
+Mã vật tư sử d
+ụ
+ng quy định tại Bộ mã danh mục dùng chung của Bộ Y t
+ế
+, chỉ ghi các vật tư chưa có trong cơ cấu giá dịch vụ
+5
+ma_nhom
+Chuỗi
+4
+Dùng để phân loại, sắp xếp các chi
+  phí vào các mục tương ứng tham chiếu phụ lục Bảng 6
+6
+ten_dich_vu
+Chuỗi
+Tên dịch vụ
+7
+don
+_
+vi
+_
+tinh
+Chuỗi
+50
+Đơn vị tính
+8
+so_luong
+Số
+5
+Số lượng thực tế sử dụng làm tròn đến
+  2 chữ số thập phân
+9
+don_gia
+Số
+15
+Đơn
+  giá thanh toán BHYT làm tròn đến đơn vị đồng
+10
+tyle_tt
+S
+ố
+3
+Tỷ lệ thanh toán BHYT đối với dịch
+  vụ kỹ thuật, vật tư y tế c
+ó
+quy định (tỷ lệ %;
+S
+ố nguyên dương)
+11
+thanh_tien
+Số
+15
+=
+  so_luong * don_gia * tyle_tt hoặc số tiền đề nghị cơ quan BHXH thanh toán
+  (Làm tròn đến đơn vị đồng)
+12
+ma_khoa
+Chuỗi
+3
+Mã khoa nơi phát sinh dịch vụ (tham
+  chiếu phụ lục Bảng 7)
+13
+ma
+_
+bac_si
+Chuỗi
+Bác sỹ khám và chỉ định (mã hóa
+  theo số giấy phép hành nghề)
+14
+ma
+_
+benh
+Chuỗi
+18
+Mã bệnh chính (theo ICD 10) được bác
+  sỹ chẩn đoán, nếu có các bệnh khác kèm theo ghi các mã bệnh tương ứng, cách
+  nhau b
+ằ
+ng dấu chấm phẩy (;)
+15
+ngay_yl
+Chuỗi
+12
+Ngày ra y lệnh (gồm 12 ký tự, theo
+  cấu trúc: yyyymmddHHmm = 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày + 2 ký tự
+  giờ (24 giờ) + 2 ký tự phút)
+Ví dụ: ngày 31/03/2015 15:20 được
+  hiển thị là: 201503311520
+16
+ngay_kq
+Chuỗi
+12
+Ngày có kết quả (gồm 12 ký tự, theo
+  cấu trúc: yyyymmddHHmm = 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày + 2 ký tự
+  giờ (24 giờ) + 2 ký tự phút)
+Ví dụ: ngày 31/03/2015 15:20 được
+  hiển thị là: 201503311520
+17
+ma_pttt
+Số
+1
+Mã phương thức thanh toán (0 : Phí
+  dịch vụ; 1 : định su
+ấ
+t; 2 : ngoài định suất; 3 : DRG)
+Ghi ch
+ú
+:
+- Trường hợp dịch vụ có sử dụng vật tư
+kèm theo: ghi mã dịch vụ tại cột (3), ghi mã vật tư tại cột (4)
+- Chỉ tiêu s
+ố
+thứ
+tự 15 (ngay_yl) tạm thời chưa yêu cầu bắt buộc
+- Dấu * là dấu nhân
+Bảng 4. Chỉ tiêu
+chỉ số kết quả cận lâm sàng
+(Ban hành kèm theo
+Công văn số 9324/BYT-BH ngày 30/11/2015)
+TT
+Chỉ
+  tiêu
+Kiểu
+  dữ liệu
+Kích
+  thước tối đa
+Diễn
+  giải
+1
+ma
+_
+lk
+Chu
+ỗ
+i
+15
+Mã đợt điều trị duy nhất (dùng để
+  liên kết giữa bảng tổng hợp (Bảng 1) và bảng này trong 1 lần khám bệnh, chữa
+  bệnh).
+2
+stt
+Số
+3
+Từ 1 đến hết trong 1 lần gửi dữ liệu
+3
+ma
+_
+dich_vu
+Chuỗi
+15
+Mã dịch vụ kỹ thuật CLS
+4
+ma
+_
+chi_so
+Chuỗi
+Mã chỉ số xét nghiệm
+5
+ten_chi_so
+Chuỗi
+Tên chỉ số xét nghiệm
+6
+gia_tri
+Chuỗi
+Giá trị chỉ số (kết quả xét nghiệm)
+7
+ma_may
+Chuỗi
+Mã danh mục máy CLS (máy XN, máy
+  XQ, siêu
+â
+m...)
+8
+mo
+_
+ta
+Chuỗi
+Mô tả do người đọc kết quả ghi
+9
+ket
+_
+luan
+Chuỗi
+K
+ế
+t luận của
+  người đọc kết quả
+10
+ngay_kq
+Chuỗi
+12
+Ngày có kết quả (gồm 12 ký tự, theo
+  cấu trúc: yyyymmddHHmm = 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày + 2 ký tự
+  giờ (24 giờ) + 2 ký tự phút)
+Ví dụ: ngày 31/03/2015 15:20 được
+  hiển thị là: 201503311520
+Bảng 5. Chỉ tiêu theo
+dõi diễn biến lâm sàng
+(Ban hành kèm
+theo Công văn số 9324/BYT-BH ngày 30/11/2015)
+TT
+Chỉ
+  tiêu
+Kiểu
+  dữ liệu
+Kích
+  thước tối đa
+Diễn
+  giải
+1
+ma_lk
+Chuỗi
+15
+Mã đợt điều trị duy nhất (dùng để liên
+  kết giữa bảng tổng hợp (Bảng 1) và bảng này trong 1 lần khám bệnh, chữa bệnh).
+2
+stt
+Số
+3
+Từ 1 đến hết trong 1 lần gửi dữ liệu
+3
+dien_bien
+Chuỗi
+Ghi diễn biến bệnh trong lần khám
+4
+h
+oi
+_
+chan
+Chuỗi
+Ghi kết quả hội chẩn (nếu có)
+5
+phau_thuat
+Chuỗi
+Mô tả cách thức phẫu thuật
+6
+ngay_yl
+Chuỗi
+12
+Ngày ra y lệnh (gồm 13 ký tự, theo
+  cấu trúc: yyyymmddHHmm = 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày + 2 ký tự
+  giờ (24 giờ) + 2 ký tự phút)
+Ví dụ: ngày 31/03/2015 15:20 được
+  hiển thị là: 201503311520
+Bảng 6. Danh mục
+nhóm theo chi phí
+(Ban hành kèm
+theo Công văn số 9324/BYT-BH ngày 30/11/2015)
+TT
+Tên nhóm
+Ghi chú
+1
+Xét nghiệm
+2
+Chẩn đoán hình
+ả
+nh
+3
+Thăm dò chức năng
+4
+Thuốc trong danh mục BHYT
+5
+Thuốc điều trị ung thư, chống thải
+  ghép ngoài danh mục
+6
+Thuốc thanh toán theo tỷ lệ
+Ngoài danh mục thì tỷ lệ = 0
+7
+Máu và ch
+ế
+phẩm
+  máu
+8
+Thủ thuật, phẫu thuật
+9
+DVKT thanh toán theo tỷ lệ
+Ngoài danh mục thì tỷ lệ = 0
+10
+Vật tư y tế trong danh mục BHYT
+11
+VTYT thanh toán theo tỷ lệ
+Ngoài danh mục thì tỷ lệ = 0
+12
+Vận chuyển
+13
+Khám bệnh
+Áp dụng cho ngoại trú
+14
+Giường điều trị ngoại trú
+Áp dụng cho ngoại trú
+15
+Giường điều trị nội trú
+Áp dụng cho nội trú
+Bảng 7. Mã hóa
+danh mục khoa
+(Ban hành kèm
+theo Công văn số 9324/BYT-BH ngày 30/11/2015)
+TT
+Tên
+  khoa
+ma_khoa
+1
+1. Khoa Khám bệnh
+K
+01
+2
+2. Khoa Hồi sức cấp cứu
+K02
+3
+3. Khoa Nội tổng hợp
+K03
+4
+4. Khoa Nội tim mạch
+K04
+5
+5. Khoa Nội tiêu hóa
+K05
+6
+6. Khoa Nội cơ - xương - khớp
+K06
+7
+7. Khoa Nội thận - tiết niệu
+K07
+8
+8. Khoa Nội tiết
+K08
+9
+9. Khoa Dị ứng
+K09
+10
+10. Khoa Huyết học lâm sàng
+K10
+11
+11. Khoa Truyền nhiễm
+K
+11
+12
+12. Khoa Lao
+K
+1
+2
+13
+13. Khoa Da liễu
+K13
+14
+14. Khoa Thần kinh
+K14
+15
+15. Khoa Tâm thần
+K15
+16
+16. Khoa Y học cổ truyền
+K16
+17
+17. Khoa Lão học
+K17
+18
+18. Khoa Nhi
+K18
+19
+19. Khoa Ngoại tổng hợp
+K
+1
+9
+20
+20. Khoa Ngoại thần kinh
+K20
+21
+21. Khoa Ngoại lồng ngực
+K21
+22
+22. Khoa Ngoại tiêu hóa
+K22
+23
+23. Khoa Ngoại thận - tiết niệu
+K23
+24
+24. Khoa Chấn thương chỉnh hình
+K24
+25
+25. Khoa Bỏng
+K25
+26
+26. Khoa Phẫu thuật - Gây mê hồi sức
+K26
+27
+27. Khoa Phụ sản
+K27
+28
+28. Khoa Tai - Mũi - Họng
+K28
+29
+29. Khoa Răng - Hàm - Mặt
+K29
+30
+30. Khoa Mắt
+K30
+31
+31. Khoa Vật lý trị liệu - Phục hồi
+  chức năng
+K31
+32
+32. Khoa Y học hạt nhân
+K32
+33
+33. Khoa Ung bướu (điều trị tia xạ)
+K33
+34
+34. Khoa Truyền máu
+K34
+35
+35. Khoa Lọc máu (thận nhân đạo)
+K35
+36
+36. Khoa Huyết học
+K36
+37
+37. Khoa Sinh hóa
+K37
+38
+38. Khoa Vi sinh
+K38
+39
+39. Khoa Chẩn đoán hình ảnh
+K39
+40
+40. Khoa Thăm dò chức năng
+K40
+41
+41. Khoa Nội soi
+K41
+42
+42. Khoa Giải phẫu bệnh
+K42
+43
+43. Khoa Chống nhiễm khuẩn
+K43
+44
+44. Khoa Dược
+K44
+45
+45. Khoa Dinh dưỡng
+K45
+46
+46. Khoa Sinh học phân tử
+K46
+47
+47. Khoa Xét nghiệm
+K47
+Ghi chú:
+- Mã khoa bắt đầu bằng chữ
+"K" và 2 ký tự là số thứ tự tên khoa theo quy chế bệnh viện của Bộ Y
+tế và có bổ sung
+- Nếu BV có khoa không có trong danh
+sách này thì mã khoa được ghi như sau: Kxxyyzz... trong đó:
+xx
+là số thứ tự khoa thứ nhất, yy là số thứ tự khoa thứ 2, zz là số thứ tự
+khoa thứ 3... được tham chiếu trong danh sách trên
+Bảng 8. Mã hóa
+tai nạn thương tích
+(Ban hành kèm
+theo Công văn số 9324/BYT-BH ngày 30/11/2015)
+Mã
+Tên
+  nhóm
+Ghi
+  chú
+0
+Không
+1
+Tai nạn giao thông
+2
+Tai nạn lao động
+3
+Tai nạn dưới nước
+4
+Bỏng
+5
+Bạo lực, xung đột
+6
+Tự tử
+7
+Ngộ độc các loại
+8
+Khác
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

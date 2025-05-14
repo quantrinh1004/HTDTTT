@@ -1,0 +1,1544 @@
+BẢO HIỂM XÃ HỘI
+  VIỆT NAM
+----------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+5328
+/BHXH-CSYT
+V/v hướng d
+ẫ
+n
+  một số vấn đề về chuẩn hóa và liên thông dữ liệu trên
+H
+ệ
+  thống thông tin giám định BHYT
+Hà Nội,
+  ngày
+29
+tháng 12 năm 2016
+Kính
+  gửi:
+- Bảo hiểm xã hội các t
+ỉ
+nh, thành phố trực thuộc Trung ương;
+- Bảo hiểm xã hội Bộ Quốc phòng, Công an nhân dân;
+- Trung tâm Giám định BHYT và Thanh toán đa tuyến khu vực phía Bắc;
+- Trung tâm Giám định BHYT và Thanh toán đa tuyến khu vực phía Nam.
+(Sau đây gọi chung là B
+H
+XH các tỉnh)
+Theo phản ánh của BHXH các tỉnh trong
+quá trình chu
+ẩ
+n hóa danh mục dùng chung và liên thông dữ
+liệu khám, chữa bệnh bảo hiểm y tế (BHYT) đã phát sinh vướng mắc do một số dịch
+vụ chưa có trong danh mục dùng chung, chưa có hướng dẫn đầy đủ về các trường
+thông tin trên file dữ liệu liên thông giữa cơ sở khám chữa bệnh và cơ quan
+BHXH. Đ
+ể
+giải quyết những vấn đề trên, Bảo hiểm xã hội Việt
+Nam hướng dẫn một s
+ố
+nội dung về chuẩn hóa danh mục dùng
+chung và kết xuất, liên thông d
+ữ
+liệu trên Hệ thống thông
+tin giám định BHYT như sau:
+1. Khám nhiều chuyên khoa trong cùng
+một lần khám
+- Mã tiền khám và đơn giá không thay
+đổi, số lượng ghi 1;
+- Khám từ chuyên khoa thứ 2 đến thứ
+4: tỷ lệ thanh toán ghi 30;
+- Khám chuyên khoa thứ 5: tỷ lệ thanh
+toán ghi 10; từ chuyên khoa thứ 6 ghi 0.
+2. Ngày giường bệnh điều trị nội trú
+a) Trường hợp ngư
+ờ
+i bệnh nằm ghép: mã tiền giường và đơn giá không thay đổi, số lượng ghi
+1, tỷ lệ thanh toán ghi 50 (nằm ghép 2) hoặc ghi 30 (nằm
+g
+hép
+3 trở lên).
+b) Trường hợp người bệnh chuy
+ể
+n từ 2 khoa trở lên trong cùng một ngày
+- Khoa có giá tiền giường cao nhất và
+thấp nhất: mã tiền giường và đơn giá khôn
+g
+thay đổi, s
+ố
+lượng ghi 0.5; tỷ lệ thanh toán ghi 100;
+- Các khoa khác (nếu có) mã tiền giường
+và đơn giá không thay đổi, số lượng ghi 0.
+c) Trường hợp n
+g
+ười
+bệnh chuy
+ể
+n từ 2 khoa trở lên trong cùng một ngày đồng thời
+c
+ó
+nằm ghép: mã tiền giường và đơn giá không thay đổi,
+khoa n
+ằ
+m ghép số lượng ghi 0.5 và tỷ lệ thanh toán ghi 50
+nếu n
+ằ
+m ghép hai người hoặc số lượng ghi 0.5 và t
+ỷ
+lệ thanh toán ghi 30 nếu nằm ghép 3 người trở lên.
+3. M
+ã
+hóa một số
+dịch vụ chưa có trong danh mục dùng chung
+a) Tiền khám bệnh tại trạm y tế xã:
+mã 02.1899
+b) Tiền khám bệnh tại Khoa cấp cứu
+lưu: mã theo chuyên khoa tương ứng với t
+ì
+nh trạng bệnh lý.
+c) Giường lưu tại trạm y tế xã: mã
+TYT.1925
+d) Chi phí vận chuyển: mã VC.XXXXX
+trong đó XXXXX là 5 ký tự tương ứng mã cơ sở khám chữa bệnh nơi chuy
+ể
+n bệnh nhân đến; đơn vị tính là lít,
+đơ
+n giá ghi
+giá 01 (một) lít xăn
+g
+, tại thời điểm vận chuyển; số lượng
+=0.2 nhân số km là khoảng cách thực tế giữa cơ sở khám chữa bệnh nơi chuy
+ể
+n đi và nơi tiếp nhận.
+đ) Chi phí bao bì đối với thuốc
+thang: m
+ã
+BB.XXXXX, trong đó XXXXX là mã cơ sở
+k
+hám bệnh, chữa bệnh nơi đề nghị thanh toán; mã nhóm ghi 4; th
+ố
+ng kê trên f
+i
+le XML2.
+e) Khí Oxy: mã 40.17; đơn vị tính là
+giờ,
+đ
+ơn giá
+g
+hi số tiền tương ứng với
+lượng Oxy sử dụng trong 01 giờ; mã nhóm ghi 4; thống kê trên file XML2.
+g) Đơn vị máu toàn phần, khối hồng cầu
+có thể tích từ 250 ml trở lên và chế phẩm máu gồm khối tiểu cầu gạn tách, kh
+ố
+i bạch cầu gạn tách, khối ti
+ể
+u cầu có cộng thêm
+chi phí xét nghiệm quy định tại
+tiết b hoặc tiết c điểm 10 Điều
+3 Thông tư số 33/2014/TT-BYT
+ngày 27/10/2014 của Bộ Y tế.
+- Trường hợp cộng thêm chi phí xét
+nghiệm kháng thể bất thường: sau mã của đơn vị máu hoặc chế ph
+ẩ
+m máu quy định tại cột 2 Phụ lục 06 ban hành kèm theo Quyết định số
+3465/
+Q
+Đ-BYT ghi thêm 2 ký tự “KT”, phân cách bằng dấu chấm
+“.”;
+ví dụ Máu toàn phần 350 ml cộng thêm xét nghiệm kháng
+t
+hể bất thường, ghi mã: 1.7.KT
+- T
+rư
+ờng hợp cộng
+thêm xét nghiệm NAT: sau mã của đơn vị máu hoặc chế phẩm máu ghi thêm 3 ký tự
+“NAT”, phân cách bằng dấu chấm
+“.”
+- Trường hợp cộng thêm xét nghiệm
+kháng thể bất thường và NAT: sau mã của đơn vị máu hoặc chế ph
+ẩ
+m máu ghi thêm 5 k
+ý
+tự “KTNAT”, phân cách bằng dấu
+chấm
+“.”
+h) Chi phí vận chuyển máu: mã
+VM.XXXXX, trong đó XXXXX là m
+ã
+của cơ sở KCB nơi cung cấp
+máu; mã nhóm ghi 7, thống kê trên
+fi
+le XML2.
+Cơ sở khám chữa bệnh không cần khai
+báo trên
+Cổ
+ng tiếp nhận các mã quy định tại các tiết đ, e,
+g, h điểm này, chỉ ghi trên f
+i
+le dữ liệu XML2 hoặc XML3.
+i) Các dịch vụ có áp dụng tỷ lệ, điều
+kiện thanh toán theo mức giá của dịch vụ kỹ thuật khác quy định tại Danh mục 1
+ban hành kèm theo Thông tư s
+ố
+35/2016/TT-BYT ngày
+28/9/2016 của Bộ Y tế được mã hóa tại Phụ lục 1 kèm theo và cập nhật trên Hệ thống
+thông tin giám định BHYT. Sau tên dịch vụ được b
+ổ
+sung ký
+hiệu “TT35” và số thứ tự trong Danh mục 1 ghi trong ngoặc vuông.
+Cơ sở khám chữa bệnh đã thống nhất với
+cơ quan BHXH các dịch vụ có tên tại Phụ lục 1 kèm theo công văn này không cần gửi
+danh mục bổ sung. Cơ sở khám chữa bệnh chưa thống nhất danh mục hoặc khi được phê
+duyệt mới các dịch vụ có áp dụng tỷ lệ, điều kiện thanh toán theo mức giá của dịch
+vụ kỹ thuật khác qu
+y
+định tại Thông tư số 35/2016/TT-BYT
+phải lập và gửi danh mục để thống nhất với cơ quan BHXH.
+4. Ghi thông tin trên file hồ sơ tổng
+hợp (file XML1).
+a) Mã lý do vào viện <MA_LYD
+O
+_VVIEN>: trường hợp thông tuyến ghi 1
+b) Mức hưởng <MUC_HUONG>:
+- Trường hợp khám chữa bệnh đúng tuyến
+có tổng chi phí dưới 15% lương cơ sở hoặc khám chữa bệnh tại trạm y tế xã hoặc
+người tham gia BHYT đủ điều kiện miễn cùng chi trả trong năm: ghi mức hưởng 100
+- Khám chữa bệnh đúng tuyến trong các
+trường hợp khác hoặc khám chữa bệnh trái tuyến: ghi mức hưởng theo hướng dẫn tại
+Bảng 1 ban hành theo Công văn số 9324/BYT-BH ngày 30/11/2015 của Bộ Y tế.
+c) Tiền thuốc <T_THUOC>: bằng tổng
+thành tiền các khoản chi thuốc (kể cả chi phí Oxy), chi máu và chế phẩm, chi
+phí vận chuyển máu trên file XML2, làm tròn đến đơn vị đồng.
+d) Tiền vật tư y tế <T_VTYT>: b
+ằ
+ng tổng thành tiền các loại vật tư y tế có mã nhóm 10 và 11, được thanh
+toán BHYT ngoài giá dịch vụ y tế ghi trên file XML3, làm tròn đến đơn vị đồng.
+đ) Tổng chi <T_T
+O
+NGCH
+I
+> bằng tổng thành tiền các khoản chi trên
+XML2 và XML3; chênh lệch giữa tổng chi trên XML1 với tổng thành tiền XML2 và
+XML3 tối đa bằng số các khoản chi đề nghị thanh toán.
+5. Ghi thông tin trên file hồ sơ chi
+tiết thuốc thanh toán BHYT (file XML2)
+a) Các khoản chi trên file XML2 bao gồm
+tiền thuốc (kể cả oxy), tiền máu và chế phẩm máu, tiền vận chuyển máu (nếu có);
+thành tiền từng khoản chi làm tròn đến 2 chữ số thập phân.
+b) Mã thuốc <MA_THUOC>: ghi mã
+hoạt chất theo quy định của Bộ Y tế
+c) Tên thuốc <TEN_THUOC>: ghi
+đúng tên thuốc trong danh mục thuốc sử dụng tại đ
+ơ
+n vị đã
+thống nhất với cơ quan BHXH.
+d) Đường dùng của thuốc: ghi mã đường
+dùng theo quy định của Bộ Y tế
+đ) Thành tiền <THANH_TIEN> của
+từng khoản chi thuốc, làm tròn đến hai chữ số thập phân; giữa s
+ố
+nguyên và thập phân cách nhau bằng dấu chấm
+“.”
+6. Thông tin trên file hồ sơ chi tiết
+dịch vụ kỹ thuật và vật tư y tế thanh toán BHYT (file XML3)
+a) Đối với dịch vụ kỹ thuật:
+- Tên dịch vụ <TEN_D
+I
+CH_VU> ghi theo danh mục được phê duyệt thực hiện tại đơn vị, đã th
+ố
+ng nhất với cơ quan BHXH. Trường hợp cần ghi rõ vị trí, phương pháp thực
+hiện hoặc phân biệt các mức giá khác nhau thì sau tên dịch vụ ghi phần mô tả
+chi tiết trong ngoặc vuông.
+- Phẫu thuật từ thứ 2 trở đi trong một
+lần thực hiện: đơn giá giữ nguyên, số lượng b
+ằ
+ng 1, tỷ lệ
+thanh toán b
+ằ
+ng 50 (nếu cùng kíp phẫu thuật) hoặc 80 (nếu
+khác kíp phẫu thuật).
+b) Đối với vật tư y tế:
+- Ghi tên vật tư y tế vào trường
+<TEN_DICH_VU> theo đúng tên vật tư trong danh mục đã thống nhất với cơ
+quan BHXH.
+- Các vật tư y tế sử dụng trong phẫu
+thuật, thủ thuật được thanh toán riêng: ghi mã phẫu thuật, thủ thuật vào trường
+<MA_DICH_VU> trước trường mã vật tư y tế <MA_VAT_TU>.
+- Các vật tư y tế không sử dụng trong
+phẫu thuật, thủ thuật: trường mã dịch vụ <MA_DICH_VU> để trống.
+- Các vật tư y tế gồm nhiều hạng mục
+thuộc một bộ vật tư: ghi chi tiết từng hạng mục.
+- Các vật tư y tế áp dụng tỷ lệ hoặc
+trần thanh toán ghi mã nhóm 11.
+- Vật tư y tế tái sử dụng: đơn giá
+bao gồm chi phí để tái sử dụng, ví dụ đơn giá mua vật tư là 100.000 đồng, định
+mức sử dụng 2 lần, chi phí tái sử dụng là 10.000 đồng, đơn giá ghi 55.000 đồng
+c) Thành tiền <THANH_T
+I
+EN> của từng khoản chi dịch vụ kỹ thuật, vật tư y tế làm tròn đến
+hai chữ số thập phân; bằng đơn giá
+x
+số lượng
+x
+tỷ lệ thanh toán áp dụng riêng cho dịch vụ kỹ thuật hoặc vật tư y tế
+đó; giữa số nguyên và thập phân cách nhau bằng dấu chấm
+“.”
+Cách hiển thị thông tin trong các
+file XML của các trường hợp trên được cung cấp trên Hệ thống thông tin giám định
+BHYT.
+7. Thông báo không có bệnh nhân khám
+chữa bệnh trong n
+g
+ày: cuối ngày cơ sở khám chữa bệnh đăng
+nhập
+Cổ
+ng tiếp nhận, sử dụng chức năng “Thông báo không
+phát sinh chi phí” đ
+ể
+thông báo với cơ quan BHXH.
+8. Giám đốc BHXH tỉnh chủ động phối hợp
+với Viettel, VNPT và các doanh nghiệp công nghệ thông tin cung c
+ấ
+p phần mềm quản lý khám chữa bệnh cho các cơ sở y tế trên địa bàn để hỗ
+trợ giải quyết các vướng mắc (nếu có); Đối với các cơ sở y tế chưa có phần mềm
+quản lý khám chữa bệnh, BHXH tỉnh hướng dẫn đơn vị sử dụng phần mềm do BHXH Việt
+Nam cung cấp hoặc nhập trực tiếp trên Cổng tiếp nhận, đảm bảo việc liên thông dữ
+liệu thông suốt, liên tục.
+9. Từ quý 1/2017, BHXH Việt Nam cấp
+kinh phí tạm ứng chi phí khám chữa bệnh BHYT cho BHXH các tỉnh dựa trên chi phí
+đề nghị thanh toán BHYT do cơ sở khám bệnh chữa bệnh gửi lên Hệ thống thông tin
+giám định BHYT.
+Yêu cầu BHXH c
+á
+c
+tỉnh phối hợp chặt chẽ với
+Sở
+Y tế, các cơ sở khám chữa bệnh
+thực hiện nghiêm túc chỉ đạo của Thủ tướng Chính phủ về tin học hóa trong khám
+bệnh, chữa bệnh BHYT; thực hiện giám định, quyết toán chi
+p
+hí khám chữa bệnh trên phần mềm đúng tiến độ
+t
+heo
+chỉ đạo của BHXH Việt Nam tại Công văn số 4450/BHXH-CSYT ngày 07/11/2016. Trong
+quá trình thực hiện nếu có vướng mắc kịp thời phản ánh về BHXH Việt Nam (Ban Thực
+hiện chính sách BHYT) đ
+ể
+được hướng dẫn giải quyết./
+.
+Nơi nhận:
+- Như trên;
+- T
+ổ
+ng Giám đốc (để báo cáo);
+- Bộ Y t
+ế
+;
+- S
+ở
+Y tế các tỉnh, thành phố trực thuộc trung ương;
+- Các đ
+ơn
+vị: CNTT, DVT;
+- Lưu: VT, CSYT (03b).
+KT. TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Phạm Lương Sơn
+PHỤ LỤC 1
+MÃ HÓA
+CÁC DỊCH VỤ KỸ THUẬT CÓ ÁP D
+Ụ
+NG TỶ LỆ, ĐIỀU KIỆN THANH
+TOÁN THEO MỨC GIÁ CỦA DỊCH VỤ KỸ THUẬT KHÁC QUY ĐỊNH TẠI DANH MỤC 1 BAN HÀNH
+KÈM THEO THÔNG TƯ SỐ 35/2016/TT-BYT
+(Kèm theo Công v
+ăn số 5328
+/BHXH-CSYT ngày
+29 tháng 12 năm 2016 của BHXH Việt Nam)
+STT
+S
+ố
+TT Bảng 1 Thông tư 35
+Tên
+  DVKT
+Mã
+  dịch vụ
+Áp
+  dụng giá của dịch vụ
+1
+1
+Lọc máu cấp cứu ở bệnh nhân có m
+ở
+thông độn
+g
+tĩnh mạch (FAV)
+01.0337.9005
+Thận nhân tạo cấp cứu trừ (-)
+  130.000 đồng
+2
+4
+Chụp cắt lớp vi tính các vị trí có tiêm
+  thuốc cản quang (từ 64- 128 dãy) [giá chụp CLVT toàn thân, các v
+ị
+trí:
+………………….
+]
+18.9001.0044
+Chụp cắt lớp vi tính toàn thân có
+  tiêm thuốc cản quang
+3
+4
+Chụp cắt lớp vi tính các vị trí
+  không tiêm thuốc cản quang (từ 64- 128 dãy) [giá chụp CLVT toàn thân, các vị
+  trí:
+…………………..]
+18.9002.0045
+Chụp cắt lớp vi tính toàn thân
+  không tiêm thuốc cản quang
+4
+4
+C
+h
+ụp cắt lớp
+  vi tính cột sốn
+g
+ngực không tiêm thuốc cản quang (từ 64-
+  128 dãy) [giá 1-32 dãy]
+18.0270.0040
+chụp cắt lớp vi tính từ 1-32 dãy
+  không tiêm thuốc cản quang
+5
+4
+Chụp cắt lớp vi tính cột sống ngực
+  có tiêm thuốc cản quang (t
+ừ
+64- 128 dãy) [giá 1-32 dãy]
+18.0271.0041
+Chụp cắt lớp vi tính 1 - 32 dãy có
+  tiêm thuốc cản quang
+6
+4
+Chụp cắt lớp vi tính cột sống thắt
+  lưng không tiêm thuốc cản quang (từ 64- 128 dãy) [giá 1-32 dãy]
+18.0272.0040
+chụp cắt lớp vi tính từ 1-32 dãy
+  không tiêm thuốc cản quang
+7
+4
+Chụp cắt lớp vi tính cột sống thắt lưng
+  có tiêm thuốc cản quang (từ 64- 128 dãy) [giá 1-32 dãy]
+18.0273.0041
+Chụp cắt lớp vi tính 1 - 32 dãy có
+  tiêm thuốc cản quan
+g
+8
+4
+Chụp cắt lớp vi tính lồng ngực
+  không ti
+ê
+m thuốc cản quang (từ 64
+-
+128 dãy) [giá 1-32 dãy]
+18.0200.0040
+C
+hụp cắt lớp vi tính từ 1-32 dãy
+  không tiêm thuốc cản quang
+9
+4
+Chụp cắt lớp vi tính lồng ngực có
+  tiêm thuốc cản quang (từ 64- 128 dãy) [giá 1-32 dãy]
+18.0201.0041
+Chụp cắt lớp vi tính 1 - 32 dãy c
+ó
+tiêm thuốc cản quang
+10
+4
+Chụp cắt lớp vi tính phổi độ phân
+  giải cao (từ 64- 128 dãy) [giá 1-32 dãy]
+18.0202.0040
+Ch
+ụ
+p cắt lớp
+  vi tính từ 1-32 dãy không tiêm thuốc cản quang
+11
+4
+Chụp cắt lớp vi tính nội soi ảo cây
+  phế quản (từ 64- 128 dãy) [giá 1-32 dãy
+]
+18.0204.0040
+chụp cắt lớp vi tính từ 1-32 dãy
+  không tiêm thuốc cản quang
+12
+4
+Chụp cắt lớp vi tính kh
+ớ
+p thường quy có tiêm thuốc cản quang (từ 64- 128 dãy) [giá 1-32 dãy]
+18.0275.0041
+Chụp cắt lớp vi tính 1 - 32 dãy có
+  tiêm thuốc cản quang
+13
+4
+Chụp cắt lớp vi tính khớp có tiêm
+  thuốc cản quang vào ổ khớp (từ 64- 128 dãy) [giá 1-32 dãy]
+18.0276.0041
+Chụp cắt lớp vi tính 1-32 dãy có
+  tiêm thuốc cản quang
+14
+4
+Chụp cắt lớp vi tính xương chi có tiêm
+  thuốc cản quang (từ 64- 128 dãy) [giá 1-32 dãy]
+18.0278.0041
+Chụp cắt lớp vi tính 1 - 32 dãy có
+  tiêm thuốc cản quang
+15
+4
+Chụp cắt lớp vi tính khớp thường
+  quy không tiêm thuốc cản quang (từ 64- 128 dãy) [giá 1-32 d
+ã
+y]
+18.0274.0040
+chụp cắt lớp vi tính từ 1-32 dãy
+  không tiêm thuốc cản quang
+16
+4
+Chụp cắt l
+ớ
+p
+  vi tính tầng trên ổ bụng thường quy (gồm: chụp cắt lớp vi tính gan-mật, tụy,
+  lách, dạ dày-tá tràng.v.v.) (từ 64-128 dãy) [giá 1-32 dãy]
+18.0231.0041
+Chụp cắt lớp vi tính 1 - 32 dãy có
+  tiêm thuốc cản quang
+17
+4
+Chụp cắt lớp vi tính tầng trên
+ổ
+bụng thường quy (gồm: chụp cắt lớp vi tính gan-mật, tụy, lách,
+  dạ dày-tá tràng.v.v.) (từ 64-128 dãy) [giá 1-32 dãy]
+18.0231.0040
+chụp cắt lớp vi tính từ 1-32 dãy
+  không tiêm thuốc cản quang
+18
+4
+Chụp cắt lớp vi tính bụng-tiểu
+  khung thường quy (từ 64-128 dãy) [giá 1-32 dãy
+]
+18.0232.0041
+C
+hụp cắt lớp vi tính từ 1-32 dãy
+có
+tiêm thuốc cản quang
+19
+4
+Chụp cắt lớp vi tính bụng-tiểu khung
+  thường quy (từ 64-128 dãy) [giá 1-32 dãy]
+18.0232.0040
+chụp cắt lớp vi tính từ 1-32 dãy
+  không tiêm thuốc cản quang
+20
+4
+Chụp CLVT s
+ọ
+não
+  không tiêm thuốc cản quang (từ 64-128 dãy) [giá 1-32 dãy]
+18.0165.0040
+chụp cắt lớp vi tính từ 1-32 dãy
+  không tiêm thu
+ố
+c cản quang
+21
+4
+Chụp CLVT sọ não có tiêm thuốc cản
+  quang (từ 64-128 dãy) [giá 1-32 dãy]
+18.0166.0041
+Chụp cắt lớp vi tính 1 - 32 dãy có
+  tiêm thuốc cản quang
+22
+4
+Chụp cắt lớp vi tính tiểu khun
+g
+thường quy (gồm: chụp cắt lớp vi tính tử cung-bu
+ồ
+ng trứng, tiền liệt tuyến, các khối
+u
+vùng tiểu
+  khung.v.v.) (từ 64-128
+d
+ãy) [giá 1-32 dãy]
+18.0233.0041
+Chụp cắt lớp vi tính 1 - 32 dãy có
+  tiêm thuốc cản quang
+23
+4
+Chụp cắt lớp vi tính tiểu khung thường
+  quy (gồm: chụp cắt lớp vi tính tử cung-buồng trứng, tiền liệt tuyến, các khối
+  u vùng tiểu khung.v.v.) (từ 64-128 dãy) [giá 1-32 dãy
+]
+18.0233.0040
+chụp cắt lớp vi tính từ 1-32 dãy
+  không tiêm thuốc cản quang
+24
+4
+Chụp cắt lớp vi tính hệ ti
+ế
+t niệu thường quy (từ 64-128 dãy) [giá 1-32 dãy]
+18.0234.0041
+Chụp cắt lớp vi tính 1 - 32 dãy có
+  tiêm thuốc cản quang
+25
+4
+Chụp cắt lớp vi tính hệ tiết niệu
+  thường quy (từ 64-128 dãy) [giá 1-32 dãy]
+18.0234.0040
+chụp cắt lớp vi tính từ 1-32 dãy kh
+ô
+ng tiêm thuốc cản quang
+26
+4
+Chụp cắt lớp vi tính gan có dựng
+  hình đường mật (từ 64-128 dãy) [giá 1-32 dãy]
+18.0237.004
+1
+Chụp cắt lớp vi tính 1 - 32 dãy có
+  tiêm chuốc cản quang
+27
+4
+Chụp cắt lớp vi tính ruột non
+  (entero-scan) khôn
+g
+dùng sonde (từ 64- 128 dãy) [giá
+1
+-32 dãy
+]
+18.0239.004
+1
+Chụp c
+ắt
+lớp
+  vi tính 1 - 32 dãy c
+ó
+tiêm thuốc cản quang
+28
+4
+Chụp cắt lớp vi tính đại tràng (colo-scan)
+  dùng dịch hoặc hơi có nội soi ảo (từ 64-128 dãy) [giá 1-32 dãy]
+18.0241.004
+1
+Chụp cắt lớp vi tính 1 - 32 dãy có
+  tiêm thuốc cản quang
+29
+4
+Chụp CLVT sọ não có
+d
+ựng hình 3D (từ 64-128 dãy) [giá 1-32 dãy]
+18.0170.0041
+Chụp cắt lớp vi tính 1 - 32 dãy có
+  tiêm thuốc cản quang
+30
+4
+Chụp CLVT
+h
+àm-mặ
+t
+không tiêm thuốc cản quang (từ 64-128 dãy) [giá
+1
+-32 d
+ãy
+]
+18.0171.0040
+chụp cắt lớp vi tính từ 1-32 dãy
+  không tiêm thuốc cản quang
+31
+4
+Chụp CLVT hàm-mặt có tiêm thuốc cản
+  quang (từ 64-128 dãy) [giá 1- 32 dãy]
+18.0172.004
+1
+Chụp cắt lớp vi tính 1 - 32 dãy có
+  tiêm thuốc cản quang
+32
+4
+Chụp CLVT hàm mặt có ứng dụng phần
+  mềm nha khoa (từ 64-128 dãy) [giá 1-32 dãy]
+18.0173.0040
+chụp cắt lớp vi tính từ 1-32 dãy
+  không tiêm thuốc cản quang
+33
+4
+Chụp CLVT tai-xương đá không tiêm
+  thuốc (từ 64-128 d
+ã
+y) [giá 1-32 d
+ã
+y
+]
+18.0174.0040
+chụp cắt lớp vi tính từ 1-32 dãy k
+h
+ông tiêm
+t
+huốc cản quang
+34
+4
+Chụp CLVT tai-xương đá có tiêm thuốc
+  cản quang (từ 64-128 dãy) [giá 1 -32 d
+ã
+y]
+18.0175.0041
+Chụp cắt lớp vi tính
+1
+- 32 dãy có tiêm thuốc cản quan
+g
+35
+4
+Chụp CLVT hốc mắt (từ 64-128 dãy)
+  [giá
+1
+-32 dãy]
+18.0176.0041
+C
+hụ
+p cắt lớp
+  vi tính
+1
+- 32 dãy có tiêm
+th
+uốc cản
+  quang
+36
+4
+Chụp CLVT hốc mắt (từ 64-128 dãy)
+  [giá 1-32 dãy]
+18.0176.0040
+chụp c
+ắ
+t lớp
+  vi tính từ 1-32 dãy không tiêm thuốc cản quang
+37
+4
+Chụp CLVT hàm mặt có dựng hình 3D
+  (từ 64-128 dãy) [giá 32 dãy]
+18.0177.0040
+chụp cắt lớp vi tính từ 1-32 dãy
+  không tiêm thuốc cản quang
+38
+4
+Chụp cắt lớp vi tính cột sống cổ
+  không tiêm thuốc cản quang (từ 64- 128 dãy) [giá 32 dãy]
+18.0268.0040
+chụp cắt lớp vi tính từ 1-32 dãy
+  không tiêm thuốc cản quang
+39
+4
+Chụp cắt lớp vi tính cột sống cổ có
+  tiêm thuốc cản quang (từ 64- 128 d
+ã
+y) [giá 1- 32 dãy]
+18.0269.0041
+Chụp cắt lớp vi tính 1 - 32 dãy có
+  tiêm thuốc cản quang
+40
+4
+Chụp cắt lớp vi tính xương chi không
+  tiêm thuốc cản quang (từ 64- 128 dãy) [giá 32 dãy]
+18.0277.0040
+chụp cắt lớp vi tính từ 1 -32 dãy
+  không tiêm thuốc cản quang
+41
+5
+Chụp cắt lớp vi tính các vị trí có
+  tiêm thuốc cản quang (từ ³256 dãy ) [
+g
+iá chụp CLVT toàn
+  thân, các vị trí:
+……….
+]
+18.9003.0048
+Chụp cắt lớp vi tính toàn thân có
+  tiêm thuốc cản quang
+42
+5
+Chụp cắt lớp vi tính các vị trí k
+h
+ông tiêm thuốc cản quang (từ ³256 dãy) [giá chụp CLVT toàn thân, các
+  vị trí:
+………...
+]
+18.9004.0049
+Chụp cắt lớp vi tính toàn thân không
+  tiêm thuốc cản quang
+43
+5
+Chụp cắt lớp vi tính mạch máu chi
+  dưới (từ ³256 dãy) [giá 64-128 dãy]
+18.0295.0042
+Chụp cắt lớp vi tính từ 64-128 dãy
+  có tiêm thuốc cản quang
+44
+5
+Chụp cắt lớp vi tính lồng ngực không
+  tiêm thuốc cản quang (từ ³ 256 dãy) [giá 1-32 dãy
+]
+18.0209.0040
+chụp cắt lớp vi tính từ 1-32 dãy
+  không tiêm thuốc cản quang
+45
+5
+Chụp cắt lớp vi tính lồng ngực có
+  tiêm thuốc cản quang (từ ³ 256 dãy) [giá 1-32 dãy]
+18.0210.0041
+Chụp cắt lớp vi tính 1 - 32 dãy có
+  tiêm thuốc cản quang
+46
+5
+Chụp cắt lớp vi tính phổi độ phân
+  giải cao (từ ³ 256 dãy) [giá 1-32 dãy]
+18.0211.0040
+chụp cắt lớp vi tính từ 1-32 dãy
+  không tiêm thuốc cản quang
+47
+5
+Chụp cắt lớp vi t
+í
+nh phổi liều thấp tầm soát u (từ ³ 256 dãy) [giá 1-32 dãy]
+18.0212.0040
+chụp cắt lớp vi tính từ 1-32 dãy
+  không tiêm thuốc cản quang
+48
+5
+Chụp cắt lớp vi tính nội soi ảo câ
+y
+phế quản (từ ³ 256 dãy) [giá 1-32 dãy]
+18.0213.0040
+chụp c
+ắ
+t lớp vi
+  tính từ 1-32 d
+ã
+y khôn
+g
+tiêm thuốc cản
+  quang
+49
+5
+Chụp cắt lớp vi tính độn
+g
+mạch phổi (từ ³ 256 dãy) [
+giá
+64-128 dãy]
+18.0214.0042
+Chụp cắt lớp vi tính từ 64-128 dãy
+  có tiêm thuốc cản quang
+50
+5
+Chụp cắt lớp vi tính động
+mạch
+chủ ngực (từ ³ 256 dãy) [giá 64-128 dãy]
+18.0215.0042
+Chụp cắt lớp vi tính từ 64-128 dãy
+  có tiêm thuốc cản quang
+51
+5
+Chụp cắt lớp vi tính động mạch
+  vành, tim k
+h
+ôn
+g
+dùng thuốc beta
+  block (từ ³ 256 dãy) [giá 64-128 dãy]
+18.0217.0042
+Chụp cắt lớp vi tính từ 64-128 dãy
+  có tiêm thuốc cản quang
+52
+5
+Chụp cắt lớp vi tính tính điểm vôi
+  hóa mạch vành (từ ³ 256 dãy) [giá 64-128 dãy
+]
+18.0218.0042
+Chụp c
+ắ
+t lớp
+  vi tính từ 64-128 dãy có tiêm thuốc cản quang
+53
+5
+Chụp cắt lớp vi tính cột sống cổ
+  không tiêm thuốc cản quang (từ ³256 dãy) [
+gi
+á 1-32 dãy]
+1
+8
+.
+0282
+.
+0040
+chụp c
+ắ
+t lớp
+  vi tính từ 1-32 dãy không tiêm thuốc cán
+54
+5
+Chụp cắt lớp vi tính cột sống cổ có
+  tiêm thuốc cản quang (từ ³ 256 dãy) [giá 1-32 dãy]
+18.0283.0041
+Chụp cắt lớp vi tính 1 - 32 dãy có
+  tiêm thuốc cản quan
+g
+55
+5
+Chụp cắt lớp vi tính cột sống ngực
+  không tiêm thuốc cản quang (từ ³ 256 dãy) [giá 1-32 dãy]
+18.0284.0040
+chụp c
+ắ
+t lớp vi
+  tính từ 1-32 dãy không tiêm thuốc cản quang
+56
+5
+Chụp cắt lớp vi tính cột s
+ố
+ng ngực có tiêm thuốc cản quang (từ ³ 256 dãy) [giá 1-32 dãy]
+18.0285.004
+1
+Chụp c
+ắ
+t lớp
+  vi tính 1 - 32 dãy có tiêm thuốc cản quang
+57
+5
+Chụp cắt lớp vi tính cột sống thắt
+  lư
+ng
+khôn
+g
+tiêm thuốc cản quang (từ
+  ³ 256 d
+ã
+y) [giá 1-32 dãy]
+18.0286.0040
+chụp cắt lớp vi tính từ 1-32 dãy
+  không tiêm thuốc cản quan
+g
+58
+5
+Chụp cắt l
+ớ
+p
+  vi tính
+cột
+s
+ố
+ng th
+ắ
+t lưng có tiêm thuốc cản quang (t
+ừ
+³ 256 dãy)
+  [giá 1-32 dãy]
+18.0287.0041
+Chụp c
+ắt
+lớp
+  vi tính 1 - 32 dãy có tiêm thuốc cản quang
+59
+5
+Chụp cắt lớp vi tính khớp thường qu
+y
+khô
+ng
+tiêm thuốc cản quang (từ ³ 256 dày) [giá
+  1-32 dãy]
+18.0288.0040
+chụp cắ
+t
+lớp vi
+  tính từ 1-32 dãy khôn
+g
+tiêm thuốc cản quang
+60
+5
+Chụp cắt lớp vi tính kh
+ớ
+p thường quy có tiêm thuốc cản quang (từ ³ 256 dãy) [giá
+1
+-32 dãy]
+18.0289.0041
+Chụp cắt lớp vi tính
+1
+- 32 dãy có tiêm thuốc cản quang
+61
+5
+Chụp cắt lớp vi tính kh
+ớ
+p có tiêm thuốc cản quang vào
+ổ
+khớp (từ ³ 256
+  dãy) [giá 1 -32 dãy]
+18.0290.0041
+C
+hụ
+p cắt l
+ớ
+p vi
+t
+ính 1 - 32 dãy có tiêm thuốc cản quang
+62
+5
+Chụp cắ
+t
+lớp
+  vi tính xương chi không tiêm thuốc c
+ả
+n quan
+g
+(từ ³ 256 d
+ã
+y) [
+g
+iá 1-32
+  dãy]
+18.0291.0040
+chụp cắt lớp vi tính từ 1-32 dãy
+  không tiêm thuốc cản quang
+63
+5
+Chụp cắt lớp vi tính xương chi có
+  tiêm thuốc cản quang (từ ³ 256 dãy) [giá 1-32 dãy]
+18.0292.004
+1
+Chụ
+p cắt lớp vi t
+í
+nh
+1
+- 32 dãy có tiêm thuốc cản quang
+64
+5
+Chụp cắt lớp vi tính mạch máu chi
+  trên (từ ³ 256 dãy) [giá 64-128 d
+ã
+y]
+18.0294.0042
+Chụp cắt lớp vi tính từ 64-128 dãy
+  có tiêm thuốc cản quang
+65
+5
+Chụp cắt lớp vi tính tầng trên
+ổ
+bụng thường quy (g
+ồ
+m: chụp Cắt lớp vi tính
+  gan-mật, tụy, lách, dạ dày-
+t
+á tràng.v.v.) (từ ³ 256 dãy)
+  [giá 1-32 dãy
+]
+18.0243.0041
+Chụp c
+ắ
+t lớp
+  vi tính
+1
+- 32 dãy có tiêm thuốc cản quan
+g
+66
+5
+Chụp cắt lớp vi tính tầng trên ổ bụng
+  thường quy (gồm: chụp cắt lớp vi tính gan-mật, tụy, lách, dạ dày-t
+á
+tràng.v.v.) (từ ³ 256 dãy) [giá 1-32 dãy
+]
+18.0243.0040
+Ch
+ụ
+p cắt lớp
+  vi tính từ 1-32 dãy không tiêm thuốc cản quang
+67
+5
+Chụp cắt lớp vi tính bụng-tiểu khung
+  thường quy (từ ³ 256 dãy) [giá 1- 32 dãy]
+18.0244.0041
+C
+hụ
+p cắt lớp
+  vi tính 1 - 32 dãy có tiêm thuốc cản quang
+68
+5
+Chụp c
+ắt
+l
+ớ
+p vi tính bụn
+g
+-
+ti
+ểu khung
+  thường quy (từ ³ 256 dãy) [giá 1- 32 dãy]
+1
+8.0244.0040
+chụp cắt lớp vi tính từ 1 -32 dãy
+  không tiêm thuốc cản quang
+69
+5
+Chụp cắt lớp vi tính hệ tiết niệu
+  thường quy (từ ³ 256 d
+ã
+y) [giá 1-32 dãy
+]
+18.0246.0041
+Chụp cắt lớp vi tính 1 - 32 dãy có
+  tiêm thuốc cản quang
+70
+5
+Chụp cắt lớp vi tính hệ tiết niệu
+  thường quy (từ ³ 256 dãy) [giá 1-32 dãy]
+18.0246.0040
+chụp c
+ắt
+lớp
+  vi tính từ 1-32 dãy không tiêm thuốc cản quang
+71
+5
+Chụp cắt lớp vi tính tầng trên ổ bụng
+  có khảo sát mạch các tạng (bao gồm mạch: gan, tụy, lách và mạch khối u) (từ ³
+  256 dãy) [giá 64-128 d
+ã
+y
+]
+18.0247.0042
+Chụp c
+ắ
+t lớp
+  vi tính từ 64-128 dãy có thuốc cản quang
+72
+5
+Chụp cắt lớp vi tính hệ tiết niệu có
+  khảo sát mạch thận và/hoặc dựng hình đường bài xuất (từ ³ 256 dãy) [giá
+  64-128 dãy]
+18.0248.0042
+Chụp cắt lớp vi tính từ 64-128 dãy
+  có thuốc cản quang
+73
+5
+Chụp cắt lớp vi tính gan có dựng
+  hình đường mật (từ ³ 256 dãy) [giá 1- 32 dãy]
+18.0249.0041
+Chụp cắt lớp vi tính 1 - 32 dãy có
+  tiêm thuốc cản quang
+74
+5
+Chụp CLVT s
+ọ
+não
+  không tiêm thuốc cản quang (từ ³ 256 dãy) [giá 1- 32 dãy]
+18.0178.0040
+chụp cắt lớp vi tính từ 1-32 dãy
+  không tiêm thuốc cản quang
+75
+5
+Chụp CLVT sọ não có tiêm thuốc cản
+  quang (từ ³ 256 dãy) [giá 1-32 dãy]
+18.0179.0041
+Chụp cắt lớp vi tính 1 - 32 dãy có
+  tiêm thuốc cản quang
+76
+5
+Chụp CLVT hệ động mạch cánh có tiêm
+  thuốc cản quang (từ ³ 256 dãy) [giá 64-128 dãy]
+18.0180.0042
+Chụp cắt lớp vi tính từ 64-128 d
+ã
+y có thuốc cản quang
+77
+5
+Chụp CLVT tưới máu não (CT
+  perfusion) (từ ³ 256 dãy) [giá 64-128 dãy]
+18.0181.0042
+Chụp cắt lớp vi tính từ 64-128 dãy
+  có th
+uố
+c cản quan
+g
+78
+5
+Chụp CLVT mạch máu não (từ ³ 256 dãy)
+  [giá 64-128 dãy]
+18.0182.0042
+Chụp cắt
+l
+ớp
+  vi tính từ 64-128 dãy có thuốc cản quang
+79
+5
+Chụp CLVT sọ não có dựng hình 3D (từ
+  ³ 256 dãy) [giá 1-32 dãy
+]
+18.0183.0040
+chụp cắt lớp vi tính từ 1 -32 dãy
+  không tiêm thu
+ố
+c cản quan
+g
+80
+5
+Chụp CLVT hàm-mặt có tiêm thuốc cản
+  quang (từ ³ 256 dãy) [giá 1-32 dãy]
+18.0185.0041
+Chụp cắt lớp vi tính 1 - 32 dãy có
+  tiêm thuốc cản qua
+ng
+81
+5
+Chụp CLVT hàm mặt có ứng dụng phần
+  mềm nha khoa (từ ³ 256 dãy) [giá 1-32 dãy
+]
+18.0186.0040
+chụp cắt lớp vi tính từ 1-32 dãy
+  không tiêm thu
+ố
+c cản quang
+82
+5
+Chụp CLVT tai-xư
+ơ
+ng đá không tiêm thuốc (từ ³ 256 dãy) [giá 1-32 dãy]
+18.0187.0040
+chụp c
+ắ
+t lớp
+  vi tính từ 1-32 dãy không tiêm thu
+ố
+c cản quang
+83
+5
+Chụp CLVT tai-xương đá c
+ó
+tiêm thuốc cản quang (từ ³ 256 dãy) [giá 1-32 dãy]
+18.0188.0041
+Chụp cắt lớp vi tính 1 - 32 d
+ã
+y có tiêm thuốc c
+ả
+n qu
+a
+ng
+84
+5
+Chụp CLVT hốc mắt (từ ³ 256 dãy)
+  [giá 1 -32 dãy]
+18.0189.0040
+chụp cắt lớp vi tính từ 1-32 dãy
+  không tiêm thuốc cản quang
+85
+5
+Chụp CLVT hàm m
+ặ
+t có dựng hình 3D (từ ³ 256 dãy) [giá 1-32 dãy]
+18.0190.0040
+chụp cắt lớp vi tính từ 1-32 dãy
+  không tiêm thuốc cản quang
+86
+5
+Chụp cắt lớp vi tính tạng khảo sát
+  huyết động học khối u (CT perfusion) (từ ³ 256 dãy) [giá 64-128 dãy]
+18.0250.0042
+Chụp c
+ắ
+t lớp
+  vi tính từ 64-128 dãy có thuốc cản quan
+g
+87
+5
+Chụp cắt
+l
+ớp
+  vi tính ruột non (entero-scan) khôn
+g d
+ùng sonde (từ ³ 256
+  dãy) [
+g
+iá 1-32 d
+ãy
+]
+18.0251.0041
+Chụp cắt lớp vi tính 1 - 32 d
+ã
+y có ti
+ê
+m thuốc cản quan
+g
+88
+5
+Chụp cắt lớp vi tính đại tr
+à
+ng (colo-scan) dùng dịch hoặc hơi có nội soi
+ả
+o
+  (từ ³ 256 dãy) [giá 1 - 32 dãy]
+18.0253.0041
+Chụp cắt lớp vi tính
+1
+- 32 dãy có tiêm thuốc cản quang
+89
+5
+Chụp c
+ắ
+t lớp
+  vi tính động mạch ch
+ủ
+-chậu (từ ³ 256 d
+ã
+y)
+[gi
+á 64-128 dãy]
+18.0254.0042
+Chụp cắt lớp vi tính t
+ừ
+64-128 dãy có thuốc cản quang
+90
+5
+Chụp CLVT hàm-mặt không tiêm thuốc cản
+  quang (từ ³ 256 dãy) [
+g
+iá 1-32 dãy
+]
+18.0184.0040
+chụp cắt lớp vi tính từ
+1
+-32 dãy khôn
+g
+tiêm thuốc cản quang
+91
+6
+Chụp cắt lớp vi tính tầm soát toàn
+  thân (từ 64- 128 dãy)
+[gi
+á 1-32 dãy c
+ó
+thuốc cản quang]
+18.0279.0041
+Chụp cắt lớp vi tính
+1
+- 32 dãy có tiêm thuốc cản quang
+92
+6
+Chụp cắt lớp vi tính tầm soát
+t
+oàn thân (từ 64- 128 dãy) [giá 1-32 d
+ã
+y không
+  thuốc cản quang]
+18.0279.0040
+chụp cắt lớp vi t
+í
+nh từ 1-32 dãy không tiêm thuốc cản quang
+93
+6
+Chụp cắt lớp vi tính t
+ầ
+m soát toàn thân (từ ³ 256 dãy) [giá 1-32 dãy có thuốc cản quang]
+18.0293.0041
+Chụp cắt lớp vi tính 1 - 32 dãy có
+  tiêm thuốc cản quang
+94
+6
+Chụp cắt lớp vi tính tầm soát
+t
+oàn thân (từ ³ 256 dãy) [giá 1-32 dãy không thuốc cản quang]
+18.0293.0040
+chụp cắt lớp vi tính từ 1-32 dãy
+  không tiêm thuốc cản quang
+95
+7
+PET/CT mô phỏng xạ trị
+19.0278.1167
+Mô ph
+ỏ
+n
+g
+và lập kế hoạch cho xạ trị áp sát
+96
+7
+PET/CT mô phỏng xạ trị 3D
+19.0279.1167
+Mô phỏn
+g
+và lập
+  k
+ế h
+oạch cho xạ trị áp sát
+97
+7
+PET/CT mô phỏng xạ trị điều bi
+ế
+n liều (IMRT)
+19.0280.1167
+Mô phỏn
+g
+và lập
+  kế hoạch cho xạ trị áp sát
+98
+8
+Tổng phân tích tế bào máu ngoại vi
+  bằng hệ thống tự động hoàn toàn (có nhuộm tiêu bản t
+ự
+đ
+ộ
+ng) [giá TPTTB máu ngoại vi b
+ằng
+máy laser]
+22.0122.1369
+Tổng phân tích tế bào máu n
+g
+oại vi bằn
+g
+máy laser
+99
+9
+Định lượng BNP (B- Type Natriuretic
+  Pepti
+d
+e) [người bệnh không suy thận,
+g
+iá Định lượn
+g
+Pro-BNP]
+23.0028.1548
+Định lượng Pro-BNP
+100
+10
+Định lượng CA
+125
+b
+ằ
+ng kỹ thuật miễn dịch phóng xạ [giá kỹ thuật hóa sinh]
+19.0311.1468
+Xét nghiệm chỉ điểm khối u bằng kỹ
+  thuật hóa sinh
+101
+10
+Định lượng CA 15 - 3 bằng kỹ thuật
+  miễn dịch phóng xạ [giá kỹ thuật hóa sinh]
+19.0312.1469
+Xét nghiệm chỉ điểm khối u bằng kỹ
+  thuật hóa sinh
+102
+10
+Định lượng CA 72 - 4 b
+ằ
+ng kỹ thuật miễn dịch phóng xạ [giá kỹ thuật hóa sinh]
+19.0313.1471
+Xét nghiệm chỉ điểm khối u bằng kỹ
+  thuật hóa sinh
+103
+10
+Định lượng CA 19 - 9 bằng kỹ thuật
+  miễn dịch phóng xạ [giá kỹ thuật h
+ó
+a sinh]
+19.0309.1470
+Xét nghiệm chỉ điểm khối u bằn
+g
+kỹ thuật hóa sinh
+104
+10
+Định lượng CA 19 - 9 b
+ằ
+ng kỹ thuật miễn dịch phóng xạ [giá kỹ thuật hóa sinh]
+03.1184.1470
+Xét nghiệm ch
+ỉ
+điểm khối u bằng kỹ thuật hóa sinh
+105
+10
+Định lượng CA
+125
+bằng kỹ
+  thuật miễn dịch phóng xạ [giá kỹ thuật hóa sinh]
+03.1186.1468
+Xét nghiệm ch
+ỉ
+điểm khối u bằng kỹ thuật hóa sinh
+106
+10
+Định lượng CA 15 - 3 b
+ằ
+ng kỹ thuật mi
+ễ
+n dịch phóng xạ [giá kỹ thuật hóa
+  sinh]
+03.1187.1469
+Xét nghiệm ch
+ỉ
+điểm khối u bằng kỹ thuật hóa sinh
+107
+10
+Định Iư
+ợ
+ng CA
+  72 - 4 bằng kỹ thuật miễn dịch phóng xạ [giá kỹ thuật hóa sinh
+]
+03.1188.1471
+Xét nghiệm ch
+ỉ
+điểm khối
+u
+bằng kỹ thuật hóa sinh
+108
+11
+Định lượng CRP hs (C-Reactive
+  Protein high sesitivity) [Giá phản ứng CRP
+]
+23.0050.1544
+Phản ứng CRP
+109
+11
+CRP định lượng [Giá phản ứng CRP]
+23.9000.1544
+Ph
+ả
+n ứng CRP
+110
+12
+Định lượng Pro-calcitonin [Giá Định
+  lượng CRP/CRP hs]
+23.0130.1483
+Định lượng CRP/CRP hs
+111
+13
+Xét nghiệm tế bào học bằng phương
+  pháp Liqui Prep [Giá Nhuộm phiến đồ tế bào theo Papanicolao
+u
+]
+25.0078.1736
+N
+hu
+ộm phiến đồ
+  tế bào theo Papanicolaou
+112
+14
+Phẫu thuật th
+ể
+thủy tinh b
+ằ
+ng phaco và femtosecond có hoặc
+  không đặt IOL [giá Phẫu thuật đục th
+ủy
+tinh thể bằng
+  phương pháp Phaco]
+14.0045.0815
+Phẫu thuật đục thủ
+y
+tinh thể b
+ằ
+n
+g
+phương pháp
+  Phaco
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

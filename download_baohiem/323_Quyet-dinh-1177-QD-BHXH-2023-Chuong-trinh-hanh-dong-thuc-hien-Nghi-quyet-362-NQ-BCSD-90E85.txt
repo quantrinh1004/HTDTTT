@@ -1,0 +1,583 @@
+BẢO HIỂM XÃ HỘI
+  VIỆT NAM
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 1177/QĐ-BHXH
+Hà Nội, ngày 11
+  tháng 08 năm 2023
+QUYẾT ĐỊNH
+BAN HÀNH CHƯƠNG TRÌNH HÀNH ĐỘNG CỦA BẢO HIỂM XÃ HỘI VIỆT NAM
+THỰC HIỆN NGHỊ QUYẾT SỐ 362-NQ/BCSĐ NGÀY 12/5/2023 CỦA BAN CÁN SỰ ĐẢNG BẢO HIỂM
+XÃ HỘI VIỆT NAM
+TỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM
+Căn cứ Nghị định số
+89/2020/NĐ-CP
+ngày 04/8/2020 của Chính phủ quy định
+chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam;
+Căn cứ Nghị quyết số 362-NQ/BCSĐ
+ngày 12/5/2023 của Ban cán sự đảng Bảo hiểm xã hội Việt Nam về tăng cường thực
+hiện "Đề án phát triển ứng dụng dữ liệu dân cư, định danh và xác thực điện
+tử phục vụ chuyển đổi số quốc gia giai đoạn 2022 - 2025, tầm nhìn đến năm
+2030";
+Theo đề nghị của Giám đốc
+Trung tâm Công nghệ thông tin.
+QUYẾT ĐỊNH:
+Điều 1
+.
+Ban hành kèm theo Quyết định này Chương trình hành động của
+Bảo hiểm xã hội Việt Nam thực hiện Nghị quyết số 362-NQ/BCSĐ ngày 12/5/2023 của
+Ban cán sự đảng Bảo hiểm xã hội Việt Nam về tăng cường thực hiện "Đề án
+phát triển ứng dụng dữ liệu dân cư, định danh và xác thực điện tử phục vụ chuyển
+đổi số quốc gia giai đoạn 2022 - 2025, tầm nhìn đến năm 2030".
+Điều 2.
+Quyết định này có hiệu lực kể từ ngày ký. Thủ trưởng
+các đơn vị trực thuộc Bảo hiểm xã hội Việt Nam, Giám đốc Bảo hiểm xã hội các tỉnh,
+thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.
+Nơi nhận:
+- Như Điều 2;
+- UBQG về chuyển đổi số (để b/c);
+- TCT Đề án 06 của Chính phủ (để b/c);
+- Văn phòng Chính phủ;
+- Các Bộ: BCA, BTTTT, BTC, BLĐTBXH, BYT, BNV;
+- Hội đồng quản lý BHXH (để b/c);
+- Ban cán sự đảng BHXHVN (để b/c);
+- Tổng Giám đốc (để b/c);
+- Các Phó Tổng Giám đốc;
+- BHXH: CAND, BQP;
+- Lưu: VT, CNTT.
+KT. TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Chu Mạnh Sinh
+CHƯƠNG TRÌNH HÀNH ĐỘNG CỦA BẢO
+HIỂM XÃ HỘI VIỆT NAM
+THỰC HIỆN NGHỊ QUYẾT SỐ 362-NQ/BCSĐ NGÀY 12/5/2023 CỦA BAN
+CÁN SỰ ĐẢNG BẢO HIỂM XÃ HỘI VIỆT NAM
+(Kèm theo Quyết định số 1177/QĐ-BHXH ngày 11/08/2023 của Tổng Giám đốc BHXH
+Việt Nam)
+Căn cứ Nghị quyết số 362-NQ/BCSĐ
+ngày 12/5/2023 của Ban cán sự đảng Bảo hiểm xã hội (BHXH) Việt Nam về tăng cường
+thực hiện "Đề án phát triển ứng dụng dữ liệu dân cư, định danh và xác thực
+điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022 - 2025, tầm nhìn đến năm
+2030 (Đề án 06)"
+(sau đây gọi tắt là Nghị quyết số 362-NQ/BCSĐ)
+;
+BHXH Việt Nam xây dựng Chương trình hành động thực hiện Nghị quyết số 362-NQ/BCSĐ
+với các nội dung sau:
+I. MỤC ĐÍCH,
+YÊU CẦU
+1. Mục đích
+Khắc phục cho được những tồn tại,
+hạn chế, phát huy vai trò tích cực, chủ động trong triển khai Đề án 06, tiếp tục
+tập trung trí tuệ và sức mạnh tổng hợp của toàn Ngành để tổ chức thực hiện hiệu
+quả các mục tiêu, nhiệm vụ tại Nghị quyết số 362-NQ/BCSĐ; xây dựng ngành BHXH
+Việt Nam hiện đại, chuyên nghiệp, đáp ứng yêu cầu xây dựng Chính phủ điện tử,
+hướng tới Chính phủ số.
+2. Yêu cầu
+- Xác định việc thực hiện các mục
+tiêu, nhiệm vụ của Nghị quyết số 362- NQ/BCSĐ là nhiệm vụ trọng tâm của ngành
+BHXH Việt Nam, phải được tiến hành thường xuyên, liên tục và huy động sự vào cuộc
+của tất cả các cơ quan, đơn vị, công chức, viên chức và người lao động trong
+toàn Ngành.
+- Căn cứ thực tiễn, đặc điểm
+tình hình của từng cơ quan, đơn vị để tổ chức triển khai Nghị quyết số 362-NQ/BCSĐ
+đảm bảo hiệu quả và đạt mục tiêu đề ra.
+- Phân công trách nhiệm thực hiện
+đúng chức năng, nhiệm vụ đối với từng cơ quan, đơn vị và cá nhân đảm bảo nguyên
+tắc rõ người, rõ việc, rõ trách nhiệm, rõ tiến độ, rõ kết quả; tăng cường phối
+hợp trong triển khai các nhiệm thuộc Nghị quyết số 362-NQ/BCSĐ gắn với quá
+trình thực hiện nhiệm vụ chính trị của cơ quan, đơn vị.
+II. CHỈ TIÊU
+CHỦ YẾU
+1. Năm 2023:
++ 100% BHXH cấp tỉnh thành lập
+Tổ công tác, ban hành Kế hoạch triển khai Đề án 06 năm 2023 và các năm tiếp
+theo; duy trì giao ban Tổ công tác tối thiểu 01 lần/tháng để kịp thời lãnh đạo,
+chỉ đạo, tháo gỡ vướng mắc trong quá trình thực hiện Đề án 06.
++ 100% công chức, viên chức và
+người lao động trong toàn Ngành được phổ biến, quán triệt quan điểm, mục tiêu,
+nhiệm vụ, giải pháp trong thực hiện Đề án 06 được nêu tại Nghị quyết này; kịp
+thời phổ biến chủ trương, chỉ đạo của Lãnh đạo Chính phủ, Lãnh đạo Tổ công tác
+của Chính phủ triển khai Đề án 06 để thống nhất trong triển khai thực hiện.
++ 100% công chức, viên chức và
+người lao động trong toàn Ngành được đào tạo, tập huấn về kỹ năng số, kỹ năng bảo
+mật thông tin trên môi trường số, kỹ năng sử dụng phần mềm nghiệp vụ đáp ứng
+yêu cầu công việc, phù hợp với vị trí công tác.
++ 100% hồ sơ, giấy tờ, kết quả
+giải quyết thủ tục hành chính (TTHC) còn hiệu lực thuộc thẩm quyền giải quyết của
+BHXH Việt Nam được số hóa theo quy định; không yêu cầu người dân phải xuất
+trình, nộp Sổ hộ khẩu theo quy định của
+Luật Cư
+trú
+và các văn bản hướng dẫn
+Luật Cư trú
+.
++ 50% TTHC được chuẩn hóa, cắt
+giảm, đơn giản hóa TTHC trên cơ sở sử dụng xác thực, chia sẻ dữ liệu của Cơ sở
+dữ liệu (CSDL) quốc gia về dân cư hoặc sử dụng định danh và xác thực điện tử do
+Bộ Công an cung cấp.
++ Phấn đấu 100% người tham gia
+có số định danh cá nhân, căn cước công dân (CCCD), được thu thập, cập nhật
+trong CSDL của BHXH Việt Nam quản lý và được xác thực với CSDL quốc gia về dân
+cư.
++ Mở rộng giao dịch với các
+ngân hàng đủ điều kiện kết nối khi thực hiện các thủ tục thanh toán trực tuyến
+trên Cổng Dịch vụ công (DVC) quốc gia.
++ 80% TTHC của Ngành đủ điều kiện
+cung cấp DVC trực tuyến toàn trình được tích hợp, cung cấp trên Cổng DVC quốc
+gia.
++ 80% Bộ phận "Một cửa"
+các cấp triển khai ứng dụng xác thực sinh trắc dựa trên thẻ CCCD gắn chip, ứng
+dụng VNeID và CSDL quốc gia về dân cư trong tiếp nhận hồ sơ, trả kết quả giải
+quyết TTHC.
+2. Giai đoạn 2024 - 2025:
+Tiếp
+tục duy trì các mục tiêu đã đạt được trong
+năm 2023 và hướng đến đạt được
+các mục tiêu sau:
++ 100% Bộ phận "Một cửa"
+của BHXH các cấp triển khai ứng dụng xác thực sinh trắc dựa trên thẻ CCCD gắn
+chip, ứng dụng VNeID và CSDL quốc gia về dân cư trong tiếp nhận hồ sơ, trả kết
+quả giải quyết TTHC.
++ 100% TTHC của Ngành đủ điều
+kiện cung cấp DVC trực tuyến toàn trình được tích hợp, cung cấp trên Cổng DVC
+quốc gia.
++ 100% TTHC được chuẩn hóa, cắt
+giảm, đơn giản hóa TTHC trên cơ sở sử dụng xác thực, chia sẻ dữ liệu của CSDL
+quốc gia về dân cư hoặc sử dụng định danh và xác thực điện tử do Bộ Công an
+cung cấp.
++ Tiếp tục triển khai xây dựng
+CSDL quốc gia về Bảo hiểm; cung cấp, chia sẻ thông tin, dữ liệu người tham gia,
+thụ hưởng BHXH, bảo hiểm y tế (BHYT), bảo hiểm thất nghiệp (BHTN) với các CSDL
+quốc gia, CSDL chuyên ngành khác.
++ Tiếp tục nghiên cứu sử dụng
+công nghệ dữ liệu lớn (BigData), trí tuệ nhân tạo (AI) để quản lý, phân tích,
+cung cấp thông tin hỗ trợ ra quyết định cho các cấp lãnh đạo.
+3. Giai đoạn 2025 - 2030:
+Tiếp
+tục duy trì các mục tiêu đã đạt được trong giai đoạn 2024 - 2025 và hướng đến đạt
+được các mục tiêu sau:
++ Hoàn thiện các quy định, hướng
+dẫn của Ngành; phối hợp với các cơ quan có thẩm quyền hoàn thiện thể chế, chính
+sách để tạo điều kiện phát triển, cung cấp ứng dụng, dịch vụ số.
++ Duy trì, mở rộng hạ tầng
+thông tin, các phần mềm, ứng dụng, dữ liệu liên quan đến người tham gia BHXH,
+BHYT, BHTN.
++ Hoàn thành việc xây dựng CSDL
+quốc gia về Bảo hiểm; kết nối, chia sẻ thông tin, dữ liệu người tham gia, thụ
+hưởng BHXH, BHYT, BHTN với các CSDL quốc gia, CSDL chuyên ngành khác.
++ Hoàn thiện, mở rộng các công
+cụ phân tích dữ liệu đa chiều, trực quan hóa, tổng hợp, thống kê, báo cáo phục
+vụ chỉ đạo, điều hành, hỗ trợ ra quyết định hoặc đề xuất thay đổi chính sách
+liên quan đến BHXH, BHYT, BHTN.
++ Tiếp tục đẩy mạnh ứng dụng dữ
+liệu về dân cư, dữ liệu về BHXH trong quản lý, cung cấp DVC cho tổ chức, cá
+nhân.
++ Tiếp tục tổ chức triển khai
+công tác đào tạo, tập huấn, phát triển nguồn nhân lực số; tập trung đào tạo lực
+lượng hiện tại, tuyển dụng mới (khi cần thiết) chuyên gia chuyên sâu về phân
+tích, khai phá dữ liệu sử dụng các công nghệ BigData, AI.
+III. NHIỆM VỤ,
+GIẢI PHÁP
+1. Tăng
+cường công tác lãnh đạo, chỉ đạo thực hiện Đề án 06
+- Tăng cường sự lãnh đạo của cấp
+ủy đảng, chính quyền các cấp trong việc lãnh đạo, chỉ đạo thực hiện các Chỉ thị,
+Nghị quyết của Trung ương, của Chính phủ về chuyển đổi số, Đề án 06 và Nghị quyết
+số 362-NQ/BCSĐ nhằm nâng cao hiệu lực, hiệu quả trong quá trình tổ chức thực hiện.
+- Tổ chức rà soát toàn diện các
+nội dung, nhiệm vụ được phân công; đánh giá cụ thể những việc đã làm, đang làm,
+chưa làm để tiếp tục tổ chức thực hiện gắn với lộ trình, tiến độ hoàn thành cụ
+thể từng đầu việc; chủ động triển khai thực hiện ngay các nhiệm vụ năm 2023 và
+những năm tiếp theo theo chức trách, nhiệm vụ được giao.
+- Phối hợp chặt chẽ với các Bộ,
+ngành liên quan và Ủy ban nhân dân các tỉnh, thành phố triển khai thực hiện quyết
+liệt, hiệu quả Đề án 06 để đạt được các mục tiêu phát triển kinh tế - xã hội,
+chỉ đạo, điều hành của lãnh đạo BHXH các cấp và giải quyết TTHC, cung cấp DVC
+trực tuyến phục vụ người dân, doanh nghiệp.
+- Phát huy vai trò của Tổ công
+tác thực hiện Đề án 06 của BHXH Việt Nam và của BHXH các tỉnh, thành phố là lực
+lượng nòng cốt trong việc triển khai thực hiện các nhiệm vụ của Đề án. Thường
+xuyên đôn đốc, kiểm tra, đánh giá, tháo gỡ khó khăn, vướng mắc trong việc thực
+hiện Đề án 06.
+2. Hoàn
+thiện quy định, hướng dẫn, nâng cấp phần mềm, đảm bảo an toàn thông tin
+- Chủ động rà soát, điều chỉnh,
+bổ sung, hoàn thiện các quy định, hướng dẫn của BHXH Việt Nam về quy trình nghiệp
+vụ và triển khai các nhiệm vụ Đề án 06, công tác ứng dụng CNTT, chuyển đổi số;
+phối hợp, tham gia với các cơ quan có thẩm quyền hoàn thiện thể chế, chính sách
+để tạo điều kiện phát triển, cung cấp ứng dụng, dịch vụ số trong lĩnh vực BHXH,
+BHYT, BHTN.
+- Đẩy mạnh xây dựng, sửa đổi,
+nâng cấp, hoàn thiện phần mềm, cơ sở hạ tầng CNTT đáp ứng được các quy định,
+quy trình nghiệp vụ của ngành BHXH Việt Nam, phù hợp với nhiệm vụ ứng dụng
+CNTT, chuyển đổi số và thực hiện Đề án 06.
+- Đảm bảo an toàn, an ninh
+thông tin để phòng ngừa, phát hiện và kịp thời ngăn chặn các nguy cơ, hành vi
+tác động tiêu cực đến các hệ thống thông tin ngành BHXH Việt Nam.
+3. Tăng cường
+truyền thông, nâng cao nhận thức, ý thức trách nhiệm của công chức, viên chức
+và người lao động về thực hiện Đề án 06 và chuyển đổi số
+- Tăng cường truyền thông kịp
+thời, liên tục, nâng cao nhận thức, ý thức trách nhiệm của mỗi công chức, viên
+chức, người lao động về thực hiện Đề án 06 và công tác chuyển đổi số của Ngành
+để người dân, doanh nghiệp tích cực tham gia, hưởng ứng, góp phần thực hiện thắng
+lợi mục tiêu chuyển đổi số quốc gia.
+- Tăng cường công tác phối hợp
+với các đơn vị có liên quan, đơn vị sử dụng lao động nhằm tuyên truyền đến người
+tham gia BHXH, BHYT, BHTN các DVC trực tuyến, đẩy mạnh sử dụng CCCD gắn chip và
+ứng dụng VNeID trong khám chữa bệnh BHYT, sử dụng rộng rãi ứng dụng VssID.
+- Biểu dương, khen thưởng kịp
+thời đối với các tập thể, cá nhân có thành tích xuất sắc trong thực hiện Đề án
+06 và chuyển đổi số.
+4. Kiện
+toàn mô hình tổ chức, nâng cao trình độ, bố trí nhân sự thực hiện Đề án 06
+- Nghiên cứu, đánh giá kiện
+toàn về mô hình tổ chức, tuyển dụng và bố trí nhân sự phù hợp với yêu cầu chuyển
+đổi số và thực hiện Đề án 06.
+- Tổ chức bồi dưỡng, tập huấn
+cho công chức, viên chức và người lao động trong toàn Ngành về kỹ năng số, kỹ
+năng bảo mật thông tin trên môi trường mạng, thành thạo sử dụng công nghệ thông
+tin, phần mềm nghiệp vụ phục vụ cho yêu cầu công việc và hỗ trợ người dân,
+doanh nghiệp thực hiện DVC trực tuyến.
+5. Tăng cường
+cải cách hành chính, cải tiến quy trình, đơn giản TTHC, cung cấp DVC trực tuyến
+tạo thuận lợi cho người dân, doanh nghiệp
+- Tập trung rà soát đánh giá và
+tái cấu trúc toàn bộ quy trình nghiệp vụ, TTHC, cải tiến quy trình tiếp nhận,
+hướng dẫn, hỗ trợ người dân, doanh theo hướng thuận lợi cho người dân, doanh
+nghiệp, đảm bảo nguyên tắc lấy người dân, doanh nghiệp là trung tâm, là chủ thể,
+là mục tiêu, động lực để cung cấp dịch vụ chất lượng hơn.
+- Đẩy mạnh tiến độ số hóa hồ
+sơ, kết quả giải quyết TTHC theo đúng quy định của Chính phủ tại Nghị định số
+45/2020/NĐ-CP
+ngày 08/4/2020 và Nghị định số
+107/2021/NĐ-CP
+ngày 06/12/2021, gắn việc số hóa
+với việc thực hiện nhiệm vụ của công chức, viên chức và người lao động toàn
+Ngành trong quá trình giải quyết TTHC; không yêu cầu người dân, doanh nghiệp
+cung cấp giấy tờ, kết quả giải quyết TTHC đã được số hóa theo đúng quy định.
+- Tăng cường kỷ luật, kỷ cương
+hành chính, đổi mới phương thức, lề lối làm việc, kiên quyết xử lý theo quy định
+những công chức, viên chức và người lao động có hành vi nhũng nhiễu, tiêu cực,
+tự đặt ra TTHC không đúng quy định hoặc để chậm, muộn hồ sơ giải quyết TTHC.
+- Rà soát, chuẩn hóa, điện tử
+hóa mẫu đơn tờ khai theo hướng cắt giảm các thông tin khai báo trên cơ sở tái sử
+dụng dữ liệu đã được số hóa; đẩy mạnh việc thực hiện ký số trên thiết bị di động;
+nghiên cứu, tổ chức thực hiện TTHC không phụ thuộc vào địa giới hành chính.
+- Quán triệt, chỉ đạo cụ thể
+các cơ quan, đơn vị trong quá trình giải quyết TTHC không yêu cầu người dân phải
+xuất trình, nộp Sổ hộ khẩu theo quy định của
+Luật
+Cư trú
+và các văn bản hướng dẫn
+Luật Cư trú
+.
+- Cung cấp, tích hợp các DVC trực
+tuyến toàn trình của BHXH Việt Nam trên Cổng DVC quốc gia để tạo thuận lợi tối
+đa cho tổ chức, cá nhân khi giao dịch với cơ quan BHXH.
+6. Kết nối,
+chia sẻ, khai thác dữ liệu
+- Hoàn thiện CSDL quốc gia về Bảo
+hiểm; đẩy mạnh kết nối, chia sẻ, khai thác thông tin, dữ liệu từ CSDL quốc gia
+về dân cư, các CSDL quốc gia, CSDL chuyên ngành khác.
+- Tăng cường phối hợp với cơ
+quan Công an các cấp rà soát, làm sạch thông tin công dân, phấn đấu 100% dữ liệu
+người tham gia BHXH, BHYT, BHTN do BHXH Việt Nam quản lý được xác thực thành
+công với CSDL quốc gia về dân cư.
+7. Nghiên cứu,
+ứng dụng công nghệ mới
+- Nghiên cứu sử dụng công nghệ
+BigData, AI để quản lý, phân tích, cung cấp thông tin, hỗ trợ ra quyết định cho
+lãnh đạo.
+- Mở rộng triển khai ứng dụng
+công nghệ xác thực sinh trắc trên CCCD gắn chip trong tiếp nhận hồ sơ, trả kết
+quả giải quyết TTHC;
+- Phối hợp với Bộ Y tế, Bộ Công
+an triển khai ứng dụng công nghệ xác thực sinh trắc trên CCCD gắn chip trong
+KCB BHYT.
+(Nhiệm vụ cụ thể tại Phụ lục
+kèm theo)
+IV. TỔ CHỨC
+THỰC HIỆN
+1. Trung tâm CNTT - đơn vị thường
+trực, giúp việc Tổ công tác triển khai Đề án 06 của BHXH Việt Nam có nhiệm vụ
+tham mưu cho Tổng Giám đốc, Lãnh đạo Tổ công tác triển khai Đề án 06 của BHXH
+Việt Nam tổ chức triển khai, hướng dẫn, kiểm tra, đôn đốc việc thực hiện các
+nhiệm vụ được giao tại Đề án 06 và các chương trình, kế hoạch của BHXH Việt Nam
+thực hiện Đề án 06.
+2. Các đơn vị trực thuộc BHXH
+Việt Nam, BHXH các tỉnh, thành phố trực thuộc Trung ương tổ chức triển khai các
+nhiệm vụ được giao (tại Phụ lục kèm theo Chương trình hành động này) đảm bảo tiến
+độ, chất lượng; báo cáo tình hình thực hiện nhiệm vụ về BHXH Việt Nam (qua
+Trung tâm CNTT), gộp chung vào báo cáo hằng tháng theo yêu cầu tại Công văn số
+990/BHXH-CNTT ngày 10/4/2023 của BHXH Việt Nam./.
+PHỤ LỤC
+NHIỆM VỤ TRIỂN KHAI ĐỀ ÁN 06 NĂM 2023 VÀ CÁC NĂM TIẾP
+THEO
+(Ban hành kèm theo Quyết định số 1177/QĐ-BHXH ngày 11 tháng 08 năm 2023 của
+Tổng Giám đốc Bảo hiểm xã hội Việt Nam)
+TT
+Nhiệm vụ
+Đơn vị chủ
+trì
+Đơn vị phối hợp
+Thời gian hoàn thành
+Sản phẩm
+1
+Tăng cường công tác lãnh đạo,
+  chỉ đạo thực hiện Đề án 06
+1.1
+Phổ biến, quán triệt quan điểm,
+  mục tiêu, nhiệm vụ, giải pháp trong thực hiện Đề án 06; kịp thời phổ biến chủ
+  trương, chỉ đạo của Lãnh đạo Chính phủ, Lãnh đạo Tổ công tác của Chính phủ
+  triển khai Đề án 06 để thống nhất trong triển khai thực hiện.
+Trung tâm CNTT
+Các đơn vị trực thuộc BHXH Việt Nam (các đơn vị) và BHXH các tỉnh,
+  thành phố trực thuộc Trung ương (BHXH các tỉnh).
+Năm 2023 và các năm tiếp theo.
+100% CCVC và NLĐ được phổ biến,
+  quán triệt các nội dung của Nghị quyết và các chỉ đạo của Lãnh đạo Chính phủ,
+  Lãnh đạo Tổ công tác của Chính phủ triển khai Đề án 06.
+1.2
+Duy trì giao ban Tổ công tác
+  triển khai Đề án 06 tối thiểu 01 lần/tháng để kịp thời lãnh đạo, chỉ đạo,
+  tháo gỡ vướng mắc trong quá trình thực hiện Đề án 06.
+Tổ công tác Đề án 06 của BHXH Việt Nam và BHXH các tỉnh
+Trung tâm CNTT, Các đơn vị liên quan, BHXH các tỉnh.
+Năm 2023 và các năm tiếp theo.
+Thông báo kết luận của Tổ
+  công tác triển khai Đề án 06 của BHXH tỉnh.
+2
+Hoàn thiện quy định, hướng
+  dẫn, nâng cấp phần mềm, đảm bảo an toàn thông tin
+2.1
+Hoàn thiện các quy định, hướng
+  dẫn của BHXH Việt Nam phục vụ triển khai Đề án 06 và chuyển đổi số.
+Các đơn vị nghiệp vụ của BHXH Việt Nam
+Các đơn vị trực thuộc BHXH Việt Nam (gọi tắt là các đơn vị) liên quan
+  và BHXH các tỉnh.
+Năm 2023 và các năm tiếp theo.
+Các quy định, hướng dẫn của
+  BHXH Việt Nam được ban hành và áp dụng trong triển khai nhiệm vụ.
+2.2
+Phối hợp với các cơ quan có
+  thẩm quyền hoàn thiện thể chế, chính sách để tạo điều kiện phát triển, cung cấp
+  ứng dụng, dịch vụ số.
+Vụ Pháp chế
+Các đơn vị trực thuộc BHXH Việt Nam (gọi tắt là các đơn vị) liên quan
+  và BHXH các tỉnh.
+Năm 2023 và các năm tiếp theo.
+Văn bản tham gia ý kiến, đề
+  xuất các nội dung đề nghị hoàn thiện thể chế, chính sách liên quan triển khai
+  chuyển đổi số và Đề án 06.
+2.3
+Duy trì, mở rộng hạ tầng
+  thông tin, nâng cấp, hoàn thiện các phần mềm, ứng dụng, dữ liệu liên quan đến
+  người tham gia BHXH, BHYT, BHTN
+Trung tâm CNTT
+Các đơn vị và BHXH các tỉnh.
+Năm 2023 và các năm tiếp theo.
+Các hệ thống thông tin, phần
+  mềm, ứng dụng, CSDL của Ngành được duy trì hoạt động ổn định, được nâng cấp,
+  hoàn thiện đáp ứng yêu cầu quản lý, khai thác sử dụng.
+2.4
+Đảm bảo an toàn, an ninh
+  thông tin để phòng ngừa, phát hiện và kịp thời ngăn chặn các nguy cơ, hành vi
+  tác động tiêu cực đến các hệ thống thông tin ngành BHXH Việt Nam.
+Trung tâm CNTT
+Các đơn vị và BHXH các tỉnh.
+Năm 2023 và các năm tiếp theo.
+Các hệ thống thông tin, CSDL
+  của Ngành được đảm bảo an toàn, kịp thời phát hiện và ngăn chặn các nguy cơ,
+  các cuộc tấn công vào hệ thống của BHXH Việt Nam.
+3
+Tăng cường truyền thông,
+  nâng cao nhận thức, ý thức trách nhiệm của công chức, viên chức và người lao
+  động về thực hiện Đề án 06 và chuyển đổi số
+3.1
+Tổ chức các hoạt động thông
+  tin, truyền thông việc thực hiện Đề án 06 của BHXH Việt Nam.
+Trung tâm Truyền thông
+Tạp chí BHXH, các đơn vị và BHXH các tỉnh.
+Năm 2023 và các năm tiếp theo.
+Các sản phẩm truyền thông được
+  đăng tải, phát hành trên các phương tiện truyền thông trong và ngoài Ngành.
+3.2
+Tổ chức triển khai, hướng dẫn,
+  kiểm tra, đôn đốc việc thực hiện các nhiệm vụ được giao tại Đề án 06 và các
+  chương trình, kế hoạch của BHXH Việt Nam.
+Trung tâm CNTT
+Các đơn vị, BHXH các tỉnh.
+Năm 2023 và các năm tiếp theo.
+Các hội nghị, văn bản chỉ đạo,
+  hướng dẫn tổ chức thực hiện; các cuộc khảo sát, kiểm tra, đánh giá tình hình
+  thực hiện các nhiệm vụ.
+3.3
+Biểu dương, khen thưởng các tập
+  thể, cá nhân có thành tích xuất sắc trong thực hiện Đề án 06 và chuyển đổi số.
+Vụ Thi đua - Khen thưởng
+Các đơn vị, BHXH các tỉnh
+Năm 2023 và các năm tiếp theo.
+Quyết định biểu dương, khen
+  thưởng.
+4
+Kiện toàn mô hình tổ chức,
+  nâng cao trình
+độ, bố trí nhân sự thực hiện Đề án 06
+4.1
+Nghiên cứu, đánh giá kiện
+  toàn về mô hình tổ chức, tuyển dụng và bố trí nhân sự phù hợp với yêu cầu
+  chuyển đổi số và thực hiện Đề án 06.
+Vụ Tổ chức cán bộ
+Các đơn vị và BHXH các tỉnh.
+Năm 2023 và các năm tiếp theo.
+Báo cáo hằng năm về đánh giá
+  và đề xuất kiện toàn mô hình tổ chức, bố trí và tuyển dụng nhân sự đáp ứng
+  yêu cầu chuyển đổi số và thực hiện Đề án 06.
+4.2
+Bồi dưỡng, tập huấn về kỹ
+  năng số, kỹ năng bảo mật thông tin trên môi trường số, kỹ năng sử dụng phần mềm
+  nghiệp vụ cho CCVC và NLĐ.
+Trung tâm CNTT
+Trường Đào tạo nghiệp vụ BHXH; Các đơn vị và BHXH các tỉnh; Các cơ sở
+  đào tạo, bồi dưỡng có thẩm quyền.
+Năm 2024 và các năm tiếp theo.
+Phấn đấu đến hết năm 2024:
+  100% công chức, viên chức và người lao động trong toàn Ngành được đào tạo, tập
+  huấn về kỹ năng số, kỹ năng bảo mật thông tin trên môi trường mạng, kỹ năng sử
+  dụng phần mềm nghiệp vụ đáp ứng yêu cầu công việc, phù hợp với vị trí công
+  tác.
+- Các năm tiếp theo: Tiếp tục
+  tổ chức triển khai công tác bồi dưỡng, tập huấn, phát triển nguồn nhân lực số;
+  tập trung đào tạo lực lượng chuyên gia chuyên sâu về phân tích, khai phá dữ
+  liệu sử dụng các công nghệ BigData, AI.
+5
+Tăng cường cải cách hành
+  chính, cải tiến
+quy trình, đơn giản TTHC, cung cấp DVC trực tuyến, tạo
+  thuận lợi cho người dân, doanh nghiệp
+5.1
+Số hóa hồ sơ, giấy tờ, kết quả
+  giải quyết TTHC còn hiệu lực thuộc thẩm quyền giải quyết của BHXH Việt Nam;
+  không yêu cầu người dân phải xuất trình, nộp Sổ hộ khẩu theo quy định của
+Luật Cư trú
+và các văn bản hướng dẫn
+Luật Cư trú
+.
+Văn phòng BHXH Việt Nam
+Trung tâm Lưu trữ, các đơn vị liên quan và BHXH các tỉnh.
+Năm 2023 và các năm tiếp theo.
+- Năm 2023:
++ 100 % hồ sơ, giấy tờ, kết
+  quả giải quyết TTHC còn hiệu lực thuộc thẩm quyền giải quyết của BHXH Việt
+  Nam được số hóa theo quy định;
++ Văn bản quy định, hướng dẫn
+  BHXH các tỉnh không yêu cầu người dân phải xuất trình, nộp Sổ hộ khẩu giấy
+  khi thực hiện các TTHC của BHXH Việt Nam.
+- Các năm tiếp theo: Duy trì
+  việc thực hiện số hóa hồ sơ, giấy tờ, kết quả giải quyết TTHC còn hiệu lực
+  thuộc thẩm quyền giải quyết của BHXH Việt Nam.
+5.2
+Chuẩn hóa, cắt giảm, đơn giản
+  hóa TTHC trên cơ sở sử dụng xác thực, chia sẻ dữ liệu của CSDL quốc gia về
+  dân cư hoặc sử dụng định danh và xác thực điện tử do Bộ Công an cung cấp.
+Văn phòng BHXH Việt Nam
+Trung tâm CNTT, Ban Quản lý Thu - Sổ, thẻ, Ban Thực hiện chính sách
+  BHXH, Ban Thực hiện chính sách BHYT và các đơn vị liên quan.
+Năm 2023 và các năm tiếp theo
+- Năm 2023: Tối thiểu 50% số
+  TTHC được chuẩn hóa, đơn giản hóa.
+- Giai đoạn 2024 - 2025: 100%
+  số TTHC được chuẩn hóa, đơn giản hóa.
+5.3
+Mở rộng giao dịch với các
+  ngân hàng đủ điều kiện kết nối khi thực hiện các thủ tục thanh toán trực tuyến
+  trên Cổng DVC quốc gia.
+Vụ Tài chính -
+Kế toán
+Trung tâm CNTT và các đơn vị liên quan.
+Năm 2023 và các năm tiếp theo
+Các ngân hàng đủ điều kiện kết
+  nối được kết nối với hệ thống của BHXH Việt Nam để thực hiện giao dịch thanh
+  toán trực tuyến trên Cổng DVC quốc gia.
+5.4
+Cung cấp, tích hợp DVC trực
+  tuyến toàn trình của BHXH Việt Nam trên Cổng DVC quốc gia.
+Trung tâm CNTT
+Văn phòng BHXH Việt Nam và các đơn vị liên quan.
+Năm 2023 và các năm tiếp theo
+- Năm 2023: 80% TTHC của
+  Ngành đủ điều kiện cung cấp DVC trực tuyến toàn trình được tích hợp, cung cấp
+  trên Cổng DVC quốc gia.
+- Giai đoạn 2024 - 2025: 100%
+  TTHC của Ngành đủ điều kiện cung cấp DVC trực tuyến toàn trình được tích hợp,
+  cung cấp trên Cổng DVC quốc gia.
+- Các năm tiếp theo: Tiếp tục
+  đẩy mạnh ứng dụng dữ liệu về dân cư, dữ liệu về BHXH trong quản lý, cung cấp
+  DVC cho tổ chức, cá nhân.
+6
+Kết nối, chia sẻ, khai
+  thác dữ liệu
+6.1
+Rà soát, cập nhật số định
+  danh cá nhân, CCCD của người tham gia BHXH, BHYT, BHTN vào CSDL của BHXH Việt
+  Nam quản lý và được xác thực với CSDL quốc gia về dân cư.
+Ban Quản lý Thu - Sổ, Thẻ
+Trung tâm CNTT, Văn phòng BHXH Việt Nam và BHXH các tỉnh.
+Tháng 12/2023
+Phấn đấu 100% người tham gia
+  có số định danh cá nhân, CCCD, được thu thập, cập nhật trong CSDL của BHXH Việt
+  Nam quản lý và được xác thực với CSDL quốc gia về dân cư.
+6.2
+Xây dựng CSDL quốc gia về bảo
+  hiểm, cung cấp, chia sẻ thông tin, dữ liệu người tham gia, thụ hưởng BHXH,
+  BHYT, BHTN với các CSDL quốc gia, CSDL chuyên ngành phục vụ quản lý nhà nước,
+  cung cấp DVC trực tuyến.
+Trung tâm CNTT
+Các đơn vị và BHXH các tỉnh.
+Năm 2023 và các năm tiếp theo.
+CSDL quốc gia về bảo hiểm dần
+  được hoàn thiện, làm giàu dữ liệu; tiếp tục kết nối, chia sẻ thông tin với
+  các CSDL quốc gia, CSDL chuyên ngành khác.
+7
+Nghiên cứu, ứng dụng công
+  nghệ mới
+7.1
+Nghiên cứu ứng dụng công nghệ
+  BigData, AI để quản lý, phân tích, cung cấp thông tin hỗ trợ ra quyết định
+  cho các cấp lãnh đạo.
+Trung tâm CNTT
+Các đơn vị và BHXH các tỉnh.
+Năm 2023 và các năm tiếp theo.
+Các công nghệ mới được đưa
+  vào ứng dụng.
+7.2
+Triển khai ứng dụng xác thực
+  sinh trắc dựa trên thẻ CCCD gắn chip, ứng dụng VNeID và CSDL quốc gia về dân
+  cư trong tiếp nhận hồ sơ, trả kết quả giải quyết TTHC.
+Văn phòng BHXH Việt Nam
+Ban Quản lý dự án đầu tư xây dựng ngành BHXH, Trung tâm CNTT, BHXH các
+  tỉnh và các đơn vị liên quan.
+Năm 2023 và các năm tiếp theo.
+Phấn đấu đến Quý II/2024:
+  100% Bộ phận "Một cửa" của các cơ quan BHXH được triển khai ứng dụng
+  xác thực sinh trắc trong tiếp nhận hồ sơ, trả kết quả giải quyết TTHC.
+7.3
+Phối hợp với Bộ Y tế, Bộ Công
+  an triển khai ứng dụng công nghệ xác thực sinh trắc trên CCCD gắn chip trong
+  KCB BHYT.
+Trung tâm CNTT
+Các đơn vị liên quan, BHXH các tỉnh.
+Năm 2023 và các năm tiếp theo.
+Báo cáo kết quả triển khai
+  thí điểm ứng dụng công nghệ xác thực sinh trắc trong KCB BHYT; phối hợp triển
+  khai kết nối giữa các cơ sở KCB với Cổng tiếp nhận dữ liệu Hệ thống thông tin
+  giám định BHYT phục vụ triển khai ứng dụng công nghệ xác thực sinh trắc trong
+  KCB BHYT tại các cơ sở KCB.
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

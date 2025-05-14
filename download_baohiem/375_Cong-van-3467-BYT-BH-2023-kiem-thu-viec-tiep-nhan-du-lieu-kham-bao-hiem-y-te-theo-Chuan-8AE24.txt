@@ -1,0 +1,94 @@
+BỘ Y TẾ
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 3467/BYT-BH
+V/v khẩn trương triển khai kiểm thử việc tiếp
+  nhận dữ liệu KCB BHYT theo Chuẩn và định dạng dữ liệu đầu ra ban hành kèm
+  theo Quyết định số 130/QĐ-BYT
+Hà Nội, ngày 06
+  tháng 6 năm 2023
+Kính gửi:
+Bảo
+hiểm xã hội Việt Nam
+Bộ Y tế nhận được phản ánh của một số đơn vị, cơ sở
+khám bệnh, chữa bệnh về vướng mắc trong việc triển khai kiểm thử việc tiếp nhận
+dữ liệu khám bệnh, chữa bệnh (KBCB) bảo hiểm y tế (BHYT) theo Chuẩn và định dạng
+dữ liệu đầu ra ban hành kèm theo Quyết định số 130/QĐ-BYT ngày 18 tháng 01 năm
+2023 của Bộ trưởng Bộ Y tế, như Công văn số 61/CV-BVTN ngày 25 tháng 4 năm 2023
+của Hiệp hội Bệnh viện tư nhân Việt Nam về việc báo cáo vướng mắc trong thực hiện
+quy định pháp luật về KBCB BHYT, Công văn số 1276/BVCR- KHTH ngày 17 tháng 5
+năm 2023 của Bệnh viện Chợ Rẫy, trong đó có nội dung đề nghị cơ quan bảo hiểm
+xã hội (BHXH) thiết lập module kiểm thử việc tiếp nhận dữ liệu KBCB BHYT trên Cổng
+tiếp nhận dữ liệu thuộc Hệ thống thông tin giám định BHYT theo Chuẩn và định dạng
+dữ liệu đầu ra ban hành kèm theo Quyết định số 130/QĐ-BYT. Về vấn đề này, Bộ Y
+tế có ý kiến như sau:
+1. Để thực hiện đúng quy định tại
+điểm
+d khoản 5 Điều 42 Nghị định số 146/2018/NĐ-CP
+ngày 17 tháng 10 năm 2018 của
+Chính phủ quy định chi tiết và hướng dẫn biện pháp thi hành một số điều của Luật
+Bảo hiểm y tế: “Bảo hiểm xã hội Việt Nam có trách nhiệm: Hoàn thiện hệ thống
+công nghệ thông tin đáp ứng việc tiếp nhận, giám định và phản hồi kịp thời cho
+cơ sở khám bệnh, chữa bệnh về dữ liệu khám bệnh, chữa bệnh bảo hiểm y tế; đảm bảo
+chính xác, an toàn, bảo mật thông tin và quyền lợi của các bên liên quan”, cũng
+như đáp ứng yêu cầu triển khai thực hiện Đề án 06 của Chính phủ và quy định tại
+khoản 2, khoản 3 Điều 4 Quyết định số 130/QĐ-BYT
+: BHXH Việt
+Nam có trách nhiệm nâng cấp, chỉnh sửa Cổng tiếp nhận dữ liệu thuộc Hệ thống
+thông tin giám định BHYT để đáp ứng thực hiện các quy định tại Quyết định số
+130/QĐ-BYT, đồng thời, các cơ sở KBCB và cơ quan BHXH có trách nhiệm thực hiện
+kiểm thử việc gửi và nhận dữ liệu điện tử theo định dạng XML của các Bảng chỉ
+tiêu dữ liệu quy định tại
+Điều 1 Quyết định số 130/QĐ-BYT
+kể
+từ ngày 31 tháng 3 năm 2023.
+Do đó, Bộ Y tế đề nghị BHXH Việt Nam khẩn
+trương hoàn thành module kiểm thử việc tiếp nhận dữ liệu theo định dạng XML của
+các Bảng chỉ tiêu dữ liệu quy định tại
+Điều 1 Quyết định số
+130/QĐ-BYT
+, để các cơ sở KCB trong toàn quốc có thể thực hiện gửi kiểm thử
+được dữ liệu điện tử.
+Đồng thời,
+khoản 4 Điều 4 Quyết định
+số 130/QĐ-BYT
+quy định: “Các cơ sở khám bệnh, chữa bệnh và cơ quan bảo hiểm
+xã hội có trách nhiệm chính thức thực hiện việc gửi và nhận dữ liệu điện tử
+theo định dạng XML của các Bảng chỉ tiêu dữ liệu quy định tại Điều 1 Quyết định
+này kể từ ngày 01 tháng 9 năm 2023 để làm căn cứ giám định và thanh toán chi
+phí khám bệnh, chữa bệnh bảo hiểm y tế”. Tuy nhiên, vì chậm triển khai việc tiếp
+nhận dữ liệu điện tử để kiểm thử, do đó, Bộ Y tế thống nhất cho phép cơ sở KBCB
+BHYT và cơ quan BHXH chính thức thực hiện việc gửi và nhận dữ liệu điện tử theo
+định dạng XML của các Bảng chỉ tiêu dữ liệu quy định tại
+Điều 1
+Quyết định số 130/QĐ-BYT
+kể từ ngày 01 tháng 10 năm 2023.
+2. Trong thời gian thực hiện gửi và nhận dữ liệu điện
+tử để kiểm thử, Bộ Y tế đề nghị BHXH Việt Nam, cơ sở KBCB BHYT thực hiện điều
+chỉnh một số trường thông tin trong Phụ lục (Cột “Đính chính hoặc sửa đổi, bổ
+sung”) ban hành kèm theo Công văn này để thực hiện việc kiểm thử.
+3. Trong thời gian thực hiện kiểm thử, nếu BHXH Việt
+Nam phát hiện các vấn đề vướng mắc, bất cập, đề nghị tổng hợp gửi Bộ Y tế để Bộ
+Y tế xem xét ban hành quyết định đính chính hoặc sửa đổi, bổ sung Quyết định số
+130/QĐ-BYT cho phù hợp với thực tế, tạo thuận lợi trong tổ chức thực hiện trước
+khi triển khai chính thức kể từ ngày 01 tháng 10 năm 2023./.
+Nơi nhận:
+- Như trên;
+- BT. Đào Hồng Lan (để báo cáo);
+- Các Vụ/Cục: KH-TC, KCB, QLD, QL YDCT;
+- Trung tâm Thông tin y tế QG;
+- SYT các tỉnh, thành phố trực thuộc TW (để chỉ đạo t/h);
+- Các Bệnh viện, viện có giường bệnh trực thuộc Bộ Y tế; (Để biết và t/h)
+- Y tế các bộ, ngành; (Để biết và t/h)
+- Hiệp hội BV tư nhân Việt Nam; (Để biết và t/h)
+- Lưu: VT, BH.
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+Trần Văn Thuấn
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

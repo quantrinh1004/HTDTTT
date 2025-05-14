@@ -1,0 +1,74 @@
+BẢO HIỂM XÃ HỘI VIỆT
+  NAM
+TRUNG TÂM CÔNG NGHỆ
+THÔNG TIN
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 116/CNTT-PM
+V/v triển khai DVC trực tuyến “Đăng ký tham gia
+  Bảo hiểm xã hội tự nguyện trên Cổng Dịch vụ công”
+Hà Nội, ngày 19
+  tháng 01 năm 2023
+Kính gửi:
+Bảo hiểm xã hội các tỉnh,
+thành phố trực thuộc Trung ương.
+(Sau đây gọi chung là BHXH các tỉnh)
+Thực hiện Quyết
+định số 3511/QĐ-BHXH ngày 21/11/2022 về việc ban hành quy trình đăng ký tham
+gia BHXH tự nguyện trên Cổng Dịch vụ công theo Quyết định số 422/QĐ-TTg ngày
+04/4/2022 của Thủ tướng Chính phủ phê duyệt Danh mục dịch vụ công trực tuyến
+tích hợp, cung cấp trên Cổng Dịch vụ công quốc gia năm 2022 và Quyết định số
+49/QĐ-BHXH ngày 19/01/2023 về việc ban hành dịch vụ công trực tuyến "Đăng
+ký tham gia Bảo hiểm xã hội tự nguyện trên Cổng Dịch vụ công" của Tổng
+Giám đốc Bảo hiểm xã hội (BHXH) Việt Nam, Trung tâm Công nghệ thông tin (Trung
+tâm) đã thực hiện tích hợp, cung cấp dịch vụ công (DVC) trực tuyến trên Cổng
+DVC BHXH Việt Nam, Cổng DVC quốc gia và nâng cấp các phần mềm nghiệp vụ đáp ứng
+yêu cầu, cụ thể:
+1. Cổng DVC
+BHXH Việt Nam, Cổng DVC quốc gia: Bổ sung chức năng kê khai DVC Đăng ký tham
+gia BHXH tự nguyện
+(chi tiết tại Phục lục gửi kèm).
+2. Phần mềm Tiếp
+nhận và quản lý hồ sơ (TNHS): Khởi tạo DVC Đăng ký tham gia BHXH tự nguyện trên
+Cổng Dịch vụ công (Mã dịch vụ công: 602e) thuộc Lĩnh vực cấp sổ BHXH, thẻ bảo
+hiểm y tế trên phần mềm TNHS (BHXH các tỉnh chủ động cấu hình quy trình, thời hạn
+giải quyết hồ sơ cho phù hợp với điều kiện thực tế).
+3. Phần mềm
+Thu và quản lý sổ, thẻ (TST):
+- Tự động ghi
+nhận quá trình tham gia BHXH tự nguyện, tự động tạo dữ liệu tờ bìa sổ BHXH (đối
+với trường hợp tham gia lần đầu) sau khi nhận được chứng từ đóng BHXH tự nguyện
+do phần mềm Kế toán tập trung chuyển sang.
+- Cán bộ thực
+hiện cấp tờ bìa sổ BHXH điện tử theo hướng dẫn tại Công văn số 104/CNTT-PM ngày
+18/01/2023 của Trung tâm về việc nâng cấp phần mềm TST theo Quyết định số
+1188/QĐ-BHXH.
+Trung tâm yêu
+cầu BHXH các tỉnh tổ chức truyền thông nhằm phổ biến, hướng dẫn, hỗ trợ người
+dân thực hiện DVC trực tuyến Đăng ký tham gia BHXH tự nguyện trên Cổng Dịch vụ
+công; quán triệt cán bộ nghiệp vụ theo dõi hồ sơ phát sinh, cấp tờ bìa sổ BHXH
+kịp thời, đúng quy định.
+Trong quá
+trình thực hiện nếu có vướng mắc về phần mềm, BHXH các tỉnh liên hệ Trung tâm
+(qua Phòng Quản lý phần mềm, điện thoại: 024.37753944) để phối hợp xử lý./.
+Nơi nhận:
+- Như trên;
+- Tổ công tác CP triển khai Đề án 06 (BCA);
+- Cục KSTT (VPCP);
+- Tổng Giám đốc (để b/c);
+- Các Phó Tổng Giám đốc (để b/c);
+- Các đơn vị trực thuộc BHXHVN;
+- Giám đốc (để b/c);
+- Các Phó Giám đốc;
+- Các phòng thuộc Trung tâm;
+- Lưu: VT, PM.
+KT. GIÁM ĐỐC
+PHÓ GIÁM ĐỐC
+Phạm Đăng Khoa
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

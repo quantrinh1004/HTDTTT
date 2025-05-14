@@ -1,0 +1,315 @@
+BẢO
+  HIỂM XÃ HỘI VIỆT NAM
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+S
+ố
+:
+2032
+/BHXH-CSYT
+V/v hướng dẫn giải quyết một số vướng
+  mắc trong thực hiện chính sách BHYT
+Hà
+  Nội, ngày
+03
+tháng
+6
+năm 2016
+Kính
+  gửi:
+- B
+ảo hiểm xã hội các tỉnh, thành
+  phố trực thuộc Trung ương;
+- Bảo
+hiểm xã hội Bộ Quốc phòng;
+-
+Bảo hiểm xã hội Công an nhân dân;
+- Tr
+ung tâm Giám định BHYT và Thanh toán đa tuyến khu vực
+  phía Bắc;
+- Trung
+tâm Giám định BHYT và Thanh toán đa tuy
+ế
+n khu vực phía Nam.
+(Sau đây viết tắt là BHXH các tỉnh)
+Để thống nhất giải quyết những khó
+khăn, vướng mắc phát sinh trong quá tr
+ì
+nh tổ chức thực hiện
+chính sách bảo hi
+ể
+m y t
+ế
+(BHYT) được
+phản ánh tại Hội nghị giao ban thực hiện chính sách BHYT năm 2016, Bảo hiểm xã
+hội (BHXH) Việt Nam hướng dẫn BHXH các tỉnh thực hiện như sau:
+1. Xác định trần đa tuyến đến năm
+2016 tại các Phòng khám: được xác định căn cứ vào chi phí bình quân một lần
+khám bệnh, chữa bệnh của tất cả các trường
+h
+ợp đến khám bệnh,
+chữa bệnh BHYT năm 2015 (bao gồm thẻ BHYT đăng ký khám bệnh, chữa bệnh ban đầu
+tại Phòng khám và tại các cơ sở khám bệnh, chữa bệnh khác đến).
+Trường hợp Phòng khám mới thực hiện
+khám bệnh, chữa bệnh BHYT từ năm 2016 thì căn cứ vào chi phí bình quân một lần
+khám bệnh, chữa bệnh BHYT của tất cả các trường hợp khám bệnh, chữa bệnh BHYT
+trong quý đầu thực hiện (không nhân với hệ s
+ố
+k
+). Trường hợp tr
+ầ
+n đa tuyến đến được xác định trước
+thời
+điểm
+Thông tư liên tịch số 37/2015/TTLT-BYT-BTC ngày
+29/10/2015 của liên Bộ Y tế - Tài chính quy định thống nhất giá dịch vụ khám,
+chữa bệnh BHYT giữa các bệnh viện cùng hạng trên toàn quốc (Thông tư số 37) có
+hiệu lực, phần chi phí gia tăng của Thông tư 37 được tính ngoài trần.
+2. Việc ghi mã và tên dịch vụ kỹ thuật
+(DVKT) trong bảng kê chi phí khám bệnh, chữa bệnh BHYT (M
+ẫ
+u
+số 01/BV, 02/BV và 03/TYT) khi thực hiện thanh toán giá viện phí theo Thông tư
+số 37: trong khi chờ Bộ Y tế sửa đổi, bổ sung các mẫu biểu, BHXH các tỉnh tạm
+thời thống nhất với cơ sở khám bệnh, chữa bệnh ghi mã DVKT trước tên DVKT, cách
+nhau bằng dấu (-) hoặc dấu (,), cụ thể như sau:
+- Đối với DVKT đã được xếp tương
+đương: Mã DVKT là mã tương đương gồm 10 ký tự (XX.YYYY.ZZZZ) quy định tại cột
+2, tên DVKT tương ứng tại cột 4 trong các phụ lục ban hành theo các Quyết định
+của Bộ Y tế ban hành danh
+mục
+DVKT khám bệnh, chữa bệnh được
+xếp tương đương về kỹ thuật và chi phí thực hiện (Quyết định ban hành danh
+mục
+DVKT tương đương).
+- Đối với DVKT chưa được xếp tương
+đương, có tên trong Quyết định số 5084/QĐ-BYT ngày 30/11/2015 của Bộ Y tế về việc
+ban hành bộ mã danh
+mục
+dùng chung áp dụng trong khám bệnh,
+chữa bệnh BHYT: Mã DVKT gồm 10 ký tự cách nhau bằng dấu chấm (XX.YYYY.0000),
+trong đó XX là mã chuyên khoa và YYYY là số thứ tự trong chuyên khoa (XX.YYYY là
+6 ký tự cuối trong cột 2, phụ lục số 03 ban hành kèm theo Quyết định số
+5084/QĐ-BYT), 4 ký tự cuối ghi “0000”; tên DVKT tương ứng tại cột 4, phụ lục số
+03 ban hành kèm theo Quyết định số 5084/QĐ-BYT;
+- Đối với DVKT chưa được xếp tương
+đương, không có tên trong Quyết định số 5084/QĐ-BYT: Mã DVKT được ghi theo
+nguyên tắc XX.0000.ZZZZ, trong đó XX là mã chuyên khoa, ZZZZ là số thứ tự DVKT
+trong Quyết định phê duyệt danh
+mục
+DVKT áp dụng tại cơ sở
+khám bệnh, chữa bệnh đó. Tên DVKT ghi theo tên tại Quyết định phê duyệt.
+3. Thanh toán tiền giường bệnh tại
+các bệnh viện Y học c
+ổ
+truyền, bệnh viện
+điều
+dưỡng Phục hồi chức năng
+3.1. Giường
+điều
+trị tích cực (ICU), Hồi sức cấp cứu (HSCC): Căn cứ vào chức năng, nhiệm vụ, cơ
+sở vật chất, trang thiết bị, nhân lực của bệnh viện, BHXH các tỉnh kiểm tra, thẩm
+định để thanh toán theo mức giá quy định tại
+Mục 2, Phụ lục II
+ban hành kèm theo Thông tư liên tịch số 37
+và theo hướng dẫn tại
+điểm
+2, Mục II Công văn số 824/BYT-KH-TC ngày 16/02/2016 của Bộ Y tế về việc
+hướng dẫn thực hiện Thông tư liên tịch số 37.
+3.2. Giường bệnh ngoại khoa sau phẫu
+thuật: 10 ngày đầu sau phẫu thuật được thanh toán tiền giường bệnh theo mức giá
+quy định tại
+Mục 4, Phụ lục II ban hành kèm theo Thông tư liên tịch
+số 37
+. Từ ngày thứ 11 trở đi thanh toán theo ngày giường bệnh nội khoa quy
+định tại
+Điểm 3.2
+(đối với trường hợp sau phẫu thuật cột sống,
+phẫu thuật sọ não do tai biến mạch máu não hoặc chấn thương sọ não) hoặc
+Điểm 3.3 (đối với các trường hợp khác), Mục 3, Phụ lục II ban hành
+kèm theo Thông tư liên tịch số 37
+.
+Trường hợp sau phẫu thuật người bệnh
+phải nằm giường ICU (hoặc HSCC) dưới 10 ngày thì số ngày giường áp dụng mức giá
+quy định tại
+Mục 4, Phụ lục II
+được tính bằng 10 trừ đi số
+ngày giường ICU (hoặc HSCC).
+3.3. Giường bệnh khác: thanh toán
+theo mức giá ngày giường nội khoa quy định tại
+Điểm 3.2
+(đối
+với các trường hợp bị tổn thương cột sống, tai biến mạch máu não, chấn thương sọ
+não) hoặc
+Điểm 3.3 (đối với các trường hợp khác), Mục 3, Phụ lục
+II ban hành kèm theo Thông tư liên tịch số 37
+.
+4. Thanh toán đối với một số trường hợp:
+4.1. Đối với các hồ sơ thanh toán
+không có chữ ký xác nhận của người bệnh (hoặc thân nhân người bệnh) do người bệnh
+trốn viện hoặc nguyên nhân khác: BHXH các tỉnh đề nghị cơ s
+ở
+khám bệnh, chữa bệnh có văn bản gửi cơ quan BHXH đề nghị thanh toán
+chi phí khám, chữa bệnh đối với các trường hợp nêu trên và cam kết chịu trách
+nhiệm pháp lý đối với các hồ sơ này (gửi kèm danh sách, Biên bản xác nhận người
+bệnh trốn viện của các khoa phòng
+điều
+trị đối với từng
+trường hợp và bản chính thẻ BHYT của người bệnh).
+BHXH các tỉnh phối hợp với cơ sở khám
+bệnh, chữa bệnh lựa chọn một số trường hợp để tổ chức kiểm tra, giám định tại
+nơi cư trú, nơi làm việc của người bệnh, đảm bảo tính xác thực làm căn cứ để thanh
+toán với cơ sở khám bệnh, chữa bệnh. Đồng thời có văn bản đề nghị cơ quan chức
+năng (Sở Y tế hoặc Ủy ban nhân dân tỉnh) xử lý theo quy định tại
+điểm
+a, khoản 3, Điều 36 Nghị định số 176/2013/NĐ-CP
+ngày 14/11/2013 của Chính
+phủ quy định xử phạt vi phạm hành chính trong lĩnh vực y tế.
+4.2. Thanh toán trực tiếp đối với trường
+hợp người bệnh đến khám bệnh, chữa bệnh không thực hiện đầy đủ thủ tục khám bệnh,
+chữa bệnh BHYT tại các bệnh viện tuyến huyện có hợp đồng khám, chữa bệnh BHYT:
+thanh toán theo hướng dẫn tại
+Điểm c, Khoản 3, Điều 16 Quy định
+về tổ chức thực hiện BHYT trong khám bệnh, chữa bệnh ban hành kèm theo Quyết định
+số 1399/QĐ-BHXH
+ngày 22/12/2014 của Tổng Giám đốc BHXH Việt Nam.
+4.3. Đối với các xét nghiệm test lẩy
+da, test nội bì: chỉ thanh toán trong trường hợp chẩn đoán nguyên nhân đối với
+người bệnh dị ứng thuốc (đã bao gồm chi phí cho 6 loại dị nguyên mỗi một lần thử).
+Không thanh toán trong trường hợp thử phản ứng thuốc.
+4.4. Thanh toán tiền khám bệnh tại
+Phòng khám Ban Bảo vệ và Chăm sóc sức khỏe cán bộ tỉnh: tạm thời áp dụng mức
+giá khám bệnh tại bệnh viện đa khoa tỉnh.
+4.5. Việc thanh toán các dịch vụ kỹ
+thuật phục hồi chức năng: cơ quan BHXH thanh toán các dịch vụ kỹ thuật phục hồi
+chức năng và số ngày bình quân một đợt
+điều
+trị của một số
+bệnh, nhóm bệnh theo danh
+mục
+dịch vụ kỹ thuật đã được cấp
+có thẩm quyền phê duyệt theo quy định tại Thông tư số
+11
+/2009/TT-BYT
+ngày 14/8/2009 của Bộ Y tế Ban hành Danh
+mục
+dịch vụ kỹ
+thuật phục hồi chức năng và số ngày bình quân một đ
+ợ
+t Điều
+trị của một số bệnh, nhóm bệnh được quỹ BHYT thanh toán.
+4.6. Thanh toán các phẫu thuật, thủ
+thuật phát sinh trong một lần phẫu thuật: thực hiện theo hướng dẫn tại Tiểu
+Tiết b, Tiết 3.4, điểm 3, Mục II Công văn số 824/BYT-KH-TC
+của Bộ Y t
+ế
+.
+4.7. Thanh toán đối với các dịch vụ kỹ
+thuật
+điều
+trị một số bệnh ngoài da bằng Laser C
+O
+2, Plasma, đốt điện, ni tơ lỏng... (số thứ tự từ 324 đến 336): cơ quan
+BHXH thanh toán theo số lần chỉ định và thực hiện dịch vụ kỹ thuật (01 lần/ngày),
+không thanh toán theo số lượng thương tổn.
+4.8. Thanh toán đối với trường hợp
+người bệnh thở máy: BHXH các tỉnh thống nhất với cơ sở khám bệnh, chữa bệnh để
+thanh toán theo ngày hoặc theo giờ thở máy.
+5.
+V
+ề thời
+điểm
+áp dụng mức giá DVKT theo Thông tư liên tịch số 37 đối với các DVKT được
+xếp tương đương
+5.1. Các DVKT trùng khớp tên hoàn
+toàn hoặc bản chất là một DVKT nhưng khác tên được xếp tương đương tại các Quyết
+định ban hành danh
+mục
+DVKT tương đương (ví dụ Thông tiểu
+và Thông đái): được áp dụng mức giá tại Thông tư liên tịch số 37 kể từ ngày
+01/3/2016.
+5.2. Các nhóm DVKT được xếp tương
+đương (như nhóm dịch vụ siêu âm, chụp X quang,
+điều
+trị tủy
+răng, chẩn đoán hình ảnh, Thủy châm, Điện châm, Chôn chỉ (cấy chỉ), Xoa bóp bấm
+huyệt, Cứu, Giác hơi...): được áp dụng mức giá tại Thông tư liên tịch số 37 kể
+từ ngày 01/3/2016.
+5.3. Các DVKT khác nhau hoàn toàn được
+xếp tương đương: áp dụng mức giá tại Thông tư liên tịch số 37 kể từ ngày các
+Quyết định ban hành danh
+mục
+DVKT tương đương của Bộ Y tế
+có hiệu lực.
+5.4. Đối với các DVKT chưa được xếp tương
+đư
+ơ
+ng: áp dụng mức giá đã được cơ quan có thẩm quyền phê
+duyệt trước ngày 01/3/2016.
+6. Hệ số
+điều
+chỉnh
+k
+trong xác định qu
+ỹ
+định suất áp dụng cho năm 2016
+căn cứ chỉ số CPI của nhóm thuốc và dịch vụ y tế năm 2015 do Tổng
+c
+ục Thống kê công bố là 1,0214.
+7. Thực hiện BHYT đối với quân nhân,
+công an, người làm công tác cơ yếu
+Từ ngày 01/01/2016, việc đăng ký KCB
+ban đầu, chuyển tuyến, thủ tục khám bệnh, chữa bệnh của đối tượng quân nhân,
+công an, người làm công tác cơ yếu (mã đối tượng QN, CA, CY) thực hiện theo quy
+định tại
+Điều 10, Điều 11, Điều 12, Điều 13, Điều 14 và Điều 15
+Nghị định số 70/2015/NĐ-CP
+ngày 14/12/2015 của Chính phủ quy định chi Tiết
+và hướng dẫn thi hành một số
+điều
+của Luật BHYT đối với
+Quân đội nhân dân, Công an nhân dân và người làm công tác cơ yếu. BHXH tỉnh phối
+hợp với cơ sở khám bệnh, chữa bệnh đảm bảo quyền lợi khám bệnh, chữa bệnh BHYT
+cho người bệnh có thẻ BHYT do BHXH Bộ Quốc phòng, BHXH Công an nhân dân phát
+hành (mã thẻ BHYT và mẫu thẻ BHYT ban hành theo Quyết định số 1351/QĐ-BHXH ngày
+16/11/2015 và Quyết định số 1500/QĐ-BHXH ngày 14/12/2015 của BHXH Việt Nam).
+Chi phí khám bệnh, chữa bệnh của các
+đối tượng trên được tổng hợp riêng theo M
+ẫ
+u số: QNCA-HD gửi
+kèm theo Công văn này, thanh toán theo thực tế chi phí phát sinh trong phạm vi,
+quyền lợi được hưởng quy định tại
+Điều 11, Điều 12 và Điều 13
+Nghị định số 70/2015/NĐ-CP
+, không tính trần đa tuyến đến, không tổng hợp
+báo cáo vào M
+ẫ
+u số 14/BHXH và M
+ẫ
+u số
+15/BHXH. Thông báo đa tuyến (M
+ẫ
+u số 11/BHYT) tách riêng
+dòng chi phí khám bệnh, chữa bệnh của đối tượng trên thuộc BHXH Bộ Quốc phòng,
+BHXH Công an nhân dân.
+Yêu cầu BHXH các tỉnh khẩn trương triển
+khai tổ chức thực hiện, nếu có khó khăn vướng mắc kịp thời báo cáo BHXH Việt
+Nam để có hướng chỉ đạo, giải quyết./.
+Nơi nhận:
+- Như trên;
+- Tổng Giám đốc (để b/c);
+- Các Phó Tổng Giám đốc;
+- Các đơn vị: TCKT, TTKT, DVT, KTNB, TT;
+- Lưu: VT, CSYT (3b)
+.
+KT.
+  TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Nguyễn Minh Thảo
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

@@ -1,0 +1,910 @@
+BẢO HIỂM XÃ HỘI
+VIỆT NAM
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 2050/QĐ-BHXH
+Hà Nội, ngày 17
+  tháng 12 năm 2024
+QUYẾT ĐỊNH
+BAN HÀNH DANH MỤC MÃ LOẠI GIẤY TỜ THỦ TỤC HÀNH CHÍNH THUỘC
+THẨM QUYỀN GIẢI QUYẾT CỦA BẢO HIỂM XÃ HỘI VIỆT NAM
+TỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM
+Căn cứ Nghị định số
+89/2020/NĐ-CP ngày 04 tháng 8 năm 2020 của Chính phủ quy định chức năng, nhiệm
+vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam;
+Căn cứ Nghị định số
+107/2021/NĐ-CP ngày 06 tháng 12 năm 2021 của Chính phủ sửa đổi, bổ sung một số
+điều Nghị định số
+61/2018/NĐ-CP
+ngày 23 tháng 4 năm 2018 của Chính phủ về
+thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành
+chính;
+Căn cứ Thông tư số
+01/2023/TT-VPCP ngày 05 tháng 4 năm 2023 của Văn phòng Chính phủ quy định một số
+nội dung và biện pháp thi hành trong số hóa hồ sơ, kết quả giải quyết thủ tục
+hành chính và thực hiện thủ tục hành chính trên môi trường điện tử;
+Căn cứ Quyết định số
+1333/QĐ-BHXH ngày 25/9/2023 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành
+Quy trình số hóa hồ sơ, giấy tờ thủ tục hành chính thuộc thẩm quyền giải quyết
+của ngành Bảo hiểm xã hội Việt Nam;
+Theo đề nghị của Chánh Văn
+phòng Bảo hiểm xã hội Việt Nam.
+QUYẾT ĐỊNH:
+Điều 1.
+Ban
+hành kèm theo Quyết định này Danh mục mã loại giấy tờ thủ tục hành chính thuộc
+thẩm quyền giải quyết của Bảo hiểm xã hội Việt Nam là các biểu mẫu, tờ khai do
+Bảo hiểm xã hội Việt Nam ban hành (
+Phụ lục I);
+Danh mục mã loại giấy tờ
+giải quyết thủ tục hành chính là biểu mẫu, tờ khai, đơn đề nghị do cơ quan, tổ
+chức khác quy định hoặc ban hành
+(Phụ lục II)
+để đảm bảo thực hiện các
+thủ tục hành chính trên môi trường điện tử.
+Điều 2.
+Giám
+đốc Trung tâm Công nghệ thông tin có trách nhiệm hoàn thiện phần mềm Tiếp nhận
+và Quản lý hồ sơ, cập nhật Danh mục mã loại giấy tờ ban hành tại Quyết định này
+để Bảo hiểm xã hội các tỉnh, thành phố tổ chức thực hiện công tác tiếp nhận, số
+hóa hồ sơ, giấy tờ và giải quyết thủ tục hành chính thống nhất trong toàn Ngành
+theo quy định.
+Điều 3.
+Quyết
+định này có hiệu lực thi hành kể từ ngày ký.
+Chánh Văn phòng Bảo hiểm xã hội
+Việt Nam, Giám đốc Trung tâm Công nghệ thông tin, Thủ trưởng các đơn vị trực
+thuộc Bảo hiểm xã hội Việt Nam, Giám đốc Bảo hiểm xã hội tỉnh, thành phố trực
+thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.
+Nơi nhận:
+- Như Điều 3;
+- Văn phòng Chính phủ (để b/c);
+- Tổng Giám đốc (để b/c);
+- Các Phó Tổng Giám đốc;
+- Lưu: VT, VP.
+KT. TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Lê Hùng Sơn
+PHỤ LỤC I
+DANH MỤC MÃ LOẠI GIẤY TỜ THỦ TỤC HÀNH CHÍNH THUỘC THẨM
+QUYỀN GIẢI QUYẾT CỦA BẢO HIỂM XÃ HỘI VIỆT NAM DO BẢO HIỂM XÃ HỘI VIỆT NAM BAN
+HÀNH
+(
+Kèm theo Quyết định số    /QĐ-BHXH ngày   
+tháng   năm 2024 của Bảo hiểm xã hội Việt Nam
+)
+STT
+Tên thành phần hồ sơ
+Mã giấy tờ
+1.
+Tờ khai tham gia, điều chỉnh
+  thông tin BHXH, BHYT (Mẫu TK1-TS)
+G24.HS.001
+2.
+Tờ khai đăng ký đóng, cấp thẻ
+  BHYT trên Cổng Dịch vụ công (Mẫu 01-TK)
+G24.HS.002
+3.
+Tờ khai đăng ký tham gia bảo
+  hiểm xã hội tự nguyện trên cổng dịch vụ công (Mẫu 02-TK)
+G24.HS.003
+4.
+Tờ khai đơn vị tham gia, điều
+  chỉnh BHXH, BHYT (Mẫu TK3-TS)
+G24.HS.004
+5.
+Báo cáo tình hình sử dụng lao
+  động và danh sách tham gia BHXH, BHYT, BHTN (Mẫu D02-LT)
+G24.HS.005
+6.
+Danh sách người chỉ tham gia
+  BHYT (Mẫu D03-TS)
+G24.HS.006
+7.
+Danh sách người tham gia BHXH
+  tự nguyện (Mẫu D05-TS)
+G24.HS.007
+8.
+Đơn đề nghị giải quyết trợ cấp
+  hàng tháng (Mẫu số 01 QĐ 613)
+G24.HS.008
+9.
+Danh sách đề nghị giải quyết
+  hưởng chế độ ốm đau, thai sản, dưỡng sức phục hồi sức khoẻ (Mẫu 01B-HSB).
+G24.HS.009
+10.
+Giấy ủy quyền (Mẫu số 13-HSB)
+G24.HS.010
+11.
+Đơn đề nghị giải quyết trợ cấp
+  mai táng (Mẫu số 03-QĐ613)
+G24.HS.011
+12.
+Văn bản đề nghị giải quyết chế
+  độ TNLĐ, BNN (Mẫu số 05A- HSB)
+G24.HS.012
+13.
+Quyết định nghỉ việc hưởng chế
+  độ hưu trí (Mẫu số 12-HSB)
+G24.HS.013
+14.
+Tờ khai của thân nhân (Mẫu
+  09-HSB)
+G24.HS.014
+15.
+Đơn đề nghị (Mẫu số 14-HSB)
+G24.HS.015
+16.
+Đơn đề nghị (Mẫu số 14A-HSB)
+G24.HS.016
+17.
+Đề nghị thay đổi thông tin
+  người hưởng (Mẫu số 2-CBH)
+G24.HS.017
+18.
+Giấy đề nghị nhận chế độ BHXH
+  khi người hưởng từ trần (Mẫu số 3-CBH)
+G24.HS.018
+19.
+Sổ BHXH
+G24. HS.019
+20.
+Thẻ BHYT
+G24. HS.020
+PHỤ LỤC II
+DANH MỤC MÃ LOẠI GIẤY TỜ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH
+LÀ BIỂU MẪU, TỜ KHAI, ĐƠN ĐỀ NGHỊ DO CƠ QUAN, TỔ CHỨC KHÁC QUY ĐỊNH HOẶC BAN
+HÀNH
+(
+Kèm theo Quyết định số    /QĐ-BHXH ngày   
+tháng    năm 2024 của Bảo hiểm xã hội Việt Nam
+)
+STT
+Tên thành phần hồ sơ
+Mã giấy tờ
+I
+Thành phần hồ sơ là biểu mẫu,
+  tờ khai, đơn đề nghị
+1.
+Tờ khai đề nghị hưởng trợ cấp
+  theo Nghị định số 14/2020/NĐ-CP (
+Đối với nhà giáo đã nghỉ hưu chưa được hưởng
+  chế độ phụ cấp thâm niên trong lương hưu)
+(Mẫu số 01).
+HSK.001
+2.
+Tờ khai đề nghị hưởng trợ cấp
+  theo Nghị định số 14/2020/NĐ-CP (
+Đối với thân nhân nhà giáo đã nghỉ hưu, từ
+  trần chưa được hưởng chế độ phụ cấp thâm niên trong lương hưu
+) (Mẫu số
+  02).
+HSK.002
+3.
+Giấy ủy quyền theo Nghị định
+  số 14/2020/NĐ-CP
+(Đối với thân nhân đủ điều kiện hưởng trợ cấp một lần của
+  nhà giáo từ trần)
+(Mẫu số 03)
+HSK.003
+4.
+Đơn đề nghị về việc hưởng chế
+  độ BNN (Mẫu số 01 - ban hành kèm theo Nghị định số 88/2020/NĐ-CP)
+HSK.004
+5.
+Bản khai cá nhân về thời
+  gian, địa bàn phục vụ trong Quân đội có hưởng phụ cấp khu vực (
+Đối với người
+  lao động)
+(Mẫu số 04B-BHQP)
+HSK.005
+6.
+Bản khai cá nhân về thời
+  gian, địa bàn phục vụ trong Quân đội có hưởng phụ cấp khu vực (
+Đối với
+  thân nhân người lao động)
+(Mẫu số 04C-BHQP)
+HSK.006
+7.
+Bảng tổng hợp chi phí KCB của
+  người tham gia BHYT (Mẫu số C79-HD ban hành kèm theo Thông tư số 102/2018/TT-
+  BTC).
+HSK.007
+8.
+Danh sách đề nghị chi trả hỗ
+  trợ học nghề (Mẫu số C87A- HD).
+HSK.008
+9.
+Danh sách đề nghị thanh toán
+  hỗ trợ ĐTKNN (Mẫu số C92- HD).
+HSK.009
+10.
+Danh sách các quyết định,
+  thông báo, văn bản về việc hưởng TCTN.
+HSK.010
+11.
+Danh sách các quyết định về
+  việc hưởng hỗ trợ học nghề.
+HSK.011
+12.
+Danh sách các quyết định về
+  việc hưởng hỗ trợ đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy
+  trì việc làm.
+HSK.012
+13.
+Danh sách nhân lực đăng ký
+  hành nghề tại cơ sở khám chữa bệnh
+HSK.013
+14.
+Giấy thanh toán thù lao cho tổ
+  chức làm dịch vụ thu (Mẫu C66a-HD ban hành kèm theo Thông tư số
+  102/2018/TT-BTC ngày 14/11/2018 của Bộ Tài chính).
+HSK.014
+15.
+Danh sách đối tượng tham gia
+  BHYT đối với đối tượng do Bộ Lao động - Thương binh và xã hội quản lý (Mẫu số
+  2 ban hành kèm theo Nghị định số 146/2018/NĐ-CP ngày 17/10/2018 của Chính phủ).
+HSK.015
+16.
+Tờ khai điện tử liên thông
+  đăng ký khai sinh, đăng ký thường trú và cấp thẻ bảo hiểm y tế cho trẻ em dưới
+  6 tuổi (Mẫu số 01 ban hành kèm theo Nghị định số 63/2024/NĐ-CP).
+HSK.016
+17.
+Tờ khai điện tử liên thông
+  đăng ký khai tử, xóa đăng ký thường trú, giải quyết mai táng phí, tử tuất (Mẫu
+  số 01 ban hành kèm theo Nghị định số 63/2024/NĐ-CP).
+HSK.017
+II
+Thành phần hồ sơ là giấy tờ
+  khác
+18.
+Giấy chứng sinh
+HSK.018
+19.
+Giấy khai sinh
+HSK.019
+20.
+Trích lục khai sinh
+HSK.020
+21.
+Giấy chứng tử
+HSK.021
+22.
+Trích lục khai tử
+HSK.022
+23.
+Giấy báo tử
+HSK.023
+24.
+Căn cước công dân/Chứng minh
+  thư
+HSK.024
+25.
+Hộ chiếu
+HSK.025
+26.
+Giấy Thông báo số định danh
+  cá nhân và thông tin trong Cơ sở dữ liệu quốc gia về dân cư (Mẫu số 01 ban
+  hành kèm theo Thông tư số 59/2021/TT-BCA ngày 15/5/2021)
+HSK.026
+27.
+Lý lịch đảng viên (hồ sơ gốc)
+  khi kết nạp.
+HSK.027
+28.
+Hồ sơ, lý lịch gốc của cá
+  nhân
+HSK.028
+29.
+Kết quả thẩm tra, xác minh hồ
+  sơ, lấy ý kiến của cơ quan, tổ chức có liên quan
+HSK.029
+30.
+Văn bản xác nhận của cơ quan
+  quản lý người lao động khi bị mất hồ sơ gốc
+HSK.030
+31.
+Văn bằng, Chứng chỉ
+HSK.031
+32.
+Lý lịch bổ sung
+HSK.032
+33.
+Lý lịch đoàn viên
+HSK.033
+34.
+Thẻ thương binh
+HSK.034
+35.
+Thẻ bệnh binh
+HSK.035
+36.
+Giấy chứng nhận người hưởng
+  chính sách như thương binh
+HSK.036
+37.
+Huân chương kháng chiến
+HSK.037
+38.
+Huy chương kháng chiến
+HSK.038
+39.
+Huân chương chiến thắng
+HSK.039
+40.
+Huy chương chiến thắng
+HSK.040
+41.
+Giấy khen
+HSK.041
+42.
+Bằng khen
+HSK.042
+43.
+Kỷ niệm chương
+HSK.043
+44.
+Giấy chứng nhận về khen thưởng
+  tổng kết thành tích kháng chiến và thời gian hoạt động KC của cơ quan thi đua
+  khen thưởng cấp huyện
+HSK.044
+45.
+Quyết định phục viên hoặc xuất
+  ngũ hoặc chuyển ngành
+HSK.045
+46.
+Quyết định hưởng trợ cấp theo
+  quyết định 142/2008/QĐ-TTg
+HSK.046
+47.
+Quyết định hưởng trợ cấp theo
+  quyết định 38/2010/QĐ-TTg
+HSK.047
+48.
+Quyết định hưởng trợ cấp theo
+  quyết định 62/2011/QĐ-TTg
+HSK.048
+49.
+Giấy chứng nhận gia đình liệt
+  sỹ
+HSK.049
+50.
+Quyết định cấp Giấy chứng nhận
+  gia đình liệt sỹ và trợ cấp tiền tuất của Sở Lao động Thương binh và Xã hội
+  theo quy định tại Thông tư 05/2013/TT-BLĐTBXH ngày 15/5/2013 của Bộ Lao động
+  - Thương binh và Xã hội.
+HSK.050
+51.
+Giấy xác nhận của Sở Lao động
+  Thương binh và Xã hội nơi tiếp nhận, quản lý hồ sơ và làm thủ tục mua BHYT
+  cho thân nhân của liệt sỹ và người có công nuôi dưỡng liệt sỹ theo quy định tại
+  Thông tư số 05/2013/TT-BLĐTBXH.
+HSK.051
+52.
+Quyết định hưởng trợ cấp của
+  Sở Lao động - Thương binh và Xã hội
+HSK.052
+53.
+Giấy xác nhận của Sở Lao động
+  -Thương binh và Xã hội nơi đang hưởng trợ cấp hằng tháng hoặc giải quyết trợ
+  cấp một lần (theo hướng dẫn tại Công văn số 467/NĐ ngày 17/6/2010 của Bộ Lao
+  động-thương binh và Xã hội)
+HSK.053
+54.
+Danh sách công nhận kết quả bầu
+  cử
+HSK.054
+55.
+Quyết định phê duyệt, công nhận
+  kết quả bầu cử
+HSK.055
+56.
+Văn bản (biên bản) xác nhận về
+  thời gian làm chủ nhiệm hợp tác xã
+HSK.056
+57.
+Danh sách phê duyệt của UBND
+  tỉnh đối với người lao động có thời gian làm chủ nhiệm hợp tác xã quy mô toàn
+  xã từ ngày 01/7/1997 trở về trước
+HSK.057
+58.
+Danh sách phê duyệt hồ sơ
+  tính thời gian làm Chủ nhiệm hợp tác xã của UBND tỉnh
+HSK.058
+59.
+Giấy xác nhận về thời gian
+  làm chủ nhiệm hợp tác xã đối với người không cư trú tại tỉnh, thành phố có thời
+  gian làm chủ nhiệm hợp tác xã
+HSK.059
+60.
+Giấy xác nhận chưa hưởng chế
+  độ trợ cấp theo Quyết định số 47/2002/QĐ-TTg ngày 11/4/2002
+HSK.060
+61.
+Giấy xác nhận chưa hưởng chế
+  độ trợ cấp theo Quyết định số 290/2005/QĐ-TTg ngày 08/11/2005
+HSK.061
+62.
+Giấy xác nhận chưa hưởng chế
+  độ trợ cấp theo Quyết định số 92/2005/QĐ-TTg ngày 29/4/2005
+HSK.062
+63.
+Giấy xác nhận chưa hưởng chế
+  độ trợ cấp theo Quyết định số 142/2008/QĐ-TTg ngày 27/10/2008
+HSK.063
+64.
+Giấy xác nhận chưa hưởng chế
+  độ trợ cấp theo Quyết định số 38/2010/QĐ-TTg ngày 06/5/2010
+HSK.064
+65.
+Giấy xác nhận chưa hưởng chế
+  độ trợ cấp theo Quyết định số 53/2010/QĐ-TTg ngày 20/8/2010
+HSK.065
+66.
+Giấy xác nhận chưa hưởng chế
+  độ trợ cấp theo Quyết định số 62/2011/QĐ-TTg ngày 09/11/2011
+HSK.066
+67.
+Giấy xác nhận chưa giải quyết
+  trợ cấp thôi việc hoặc trợ cấp một lần, trợ cấp xuất ngũ, phục viên, BHXH một
+  lần đối với trường hợp quân nhân, công an nhân dân phục viên, xuất ngũ, thôi
+  việc từ ngày 15/12/1993 đến ngày 31/12/1994
+HSK.067
+68.
+Quyết định về việc thu hồi
+  Quyết định hưởng chế độ và số tiền trợ cấp một lần theo Quyết định số
+  142/2008/QĐ-TTg ngày 27/10/2008
+HSK.068
+69.
+Quyết định về việc thu hồi
+  Quyết định hưởng chế độ và số tiền trợ cấp một lần theo Quyết định số
+  38/2010/QĐ-TTg ngày 06/5/2010
+HSK.069
+70.
+Quyết định hưởng trợ cấp, phụ
+  cấp đối với người hoạt động kháng chiến bị nhiễm chất độc hóa học, ghi rõ tỷ
+  lệ suy giảm khả năng lao động từ 81% trở lên theo quy định tại Thông tư số
+  05/2013/TT-BLĐTBXH ngày 15/5/2013 của Bộ Lao động-thương binh và Xã hội
+HSK.070
+71.
+Quyết định công nhận là người
+  hoạt động cách mạng trước ngày 01/01/1945, người hoạt động cách mạng từ ngày
+  01/01/1945 đến ngày khởi nghĩa tháng 8/1945 của Ban Thường vụ tỉnh ủy, Thành ủy
+  trực thuộc Trung ương
+HSK.071
+72.
+Quyết định trợ cấp xã hội hằng
+  tháng của Chủ tịch Ủy ban nhân dân quận, huyện, thị xã (sau đây gọi là Ủy ban
+  nhân dân cấp huyện) đối với người thuộc diện hưởng trợ cấp bảo trợ xã hội hằng
+  tháng
+HSK.072
+73.
+Giấy xác nhận khuyết tật, ghi
+  rõ mức độ khuyết tật thuộc các đối tượng người khuyết tật nặng và người khuyết
+  tật đặc biệt nặng theo Thông tư số 01/2019/TT-BLĐTBXH ngày 02/01/2019.
+HSK.073
+74.
+Giấy chứng nhận học sinh,
+  sinh viên thuộc hộ nghèo theo Thông tư liên tịch số 18/2009/TTLT-BGDĐT-BTC-
+  BLĐTBXH
+HSK.074
+75.
+Xác nhận của chủ tịch UBND
+  xã, phường, thị trấn đối với người thuộc hộ gia đình nghèo, hộ gia đình cận
+  nghèo theo kết quả rà soát thường xuyên
+HSK.075
+76.
+Giấy ra viện
+HSK.076
+77.
+Giấy chuyển tuyến/chuyển viện
+HSK.077
+78.
+Sổ khám bệnh
+HSK.078
+79.
+Giấy chứng nhận nghỉ việc hưởng
+  BHXH
+HSK.079
+80.
+Bản dịch tiếng Việt giấy KCB
+  do cơ sở KCB ở nước ngoài cấp
+HSK.080
+81.
+Trích sao hoặc tóm tắt hồ sơ
+  bệnh án
+HSK.081
+82.
+Bản thỏa thuận về mang thai hộ
+  vì mục đích nhân đạo
+HSK.082
+83.
+Văn bản xác nhận thời điểm
+  giao đứa trẻ của bên nhờ mang thai hộ và bên mang thai hộ
+HSK.083
+84.
+Giấy chứng nhận nghỉ dưỡng
+  thai
+HSK.084
+85.
+Biên bản giám định y khoa
+HSK.085
+86.
+Giấy chứng nhận bị nhiễm
+  HIV/AIDS do tai nạn rủi ro nghề nghiệp
+HSK.086
+87.
+Giấy khám BNN
+HSK.087
+88.
+Bệnh án điều trị BNN
+HSK.088
+89.
+Giấy chứng nhận nuôi con nuôi
+HSK.089
+90.
+Bảng kê các nội dung giám định
+  của cơ sở thực hiện GĐYK
+HSK.090
+91.
+Biên bản giám định mức suy giảm
+  KNLĐ
+HSK.091
+92.
+Biên bản giám định lại mức
+  suy giảm KNLĐ
+HSK.092
+93.
+Biên bản giám định tổng hợp mức
+  suy giảm KNLĐ của Hội đồng GĐYK
+HSK.093
+94.
+Chỉ định của cơ sở KCB, cơ sở
+  chỉnh hình, phục hồi chức năng theo quy định về trang cấp PTTGSH
+HSK.094
+95.
+Chứng từ thu phí giám định
+HSK.095
+96.
+Biên lai thu tiền phí, lệ phí
+HSK.096
+97.
+Bảng kê chi phí khám bệnh, chữa
+  bệnh (theo Mẫu số 01/BV, 02/BV)
+HSK.097
+98.
+Chứng từ mua các phương tiện
+  được trang cấp phương tiện trợ giúp sinh hoạt, dụng cụ chỉnh hình
+HSK.098
+99.
+Vé tàu xe đi lại để làm hoặc
+  nhận phương tiện trang cấp trợ giúp sinh hoạt, dụng cụ chỉnh hình
+HSK.099
+100.
+Kết quả đo đạc, quan trắc môi
+  trường lao động
+HSK.100
+101.
+Biên bản khám nghiệm hiện trường
+HSK.101
+102.
+Sơ đồ hiện trường
+HSK.102
+103.
+Biên bản TNGT của cơ quan
+  công an hoặc cơ quan điều tra hình sự quân đội
+HSK.103
+104.
+Biên bản điều tra TNLĐ
+HSK.104
+105.
+Kế hoạch điều tra lại vụ
+  TNLĐ, BNN.
+HSK.105
+106.
+Dự toán kinh phí điều tra lại
+  vụ TNLĐ, BNN.
+HSK.106
+107.
+Quyết định thành lập đoàn điều
+  tra các vụ TNLĐ, BNN.
+HSK.107
+108.
+Biên bản điều tra lại các vụ
+  TNLĐ, BNN
+HSK.108
+109.
+Chứng từ thanh quyết toán chứng
+  minh chi phí cho việc điều tra TNLĐ, BNN
+HSK.109
+110.
+Quyết định về việc hỗ trợ
+  kinh phí đào tạo chuyển đổi nghề nghiệp.
+HSK.110
+111.
+Quyết định về việc hỗ trợ
+  kinh phí khám bệnh nghề nghiệp.
+HSK.111
+112.
+Quyết định về việc hỗ trợ
+  kinh phí chữa bệnh nghề nghiệp.
+HSK.112
+113.
+Quyết định về việc hỗ trợ
+  kinh phí phục hồi chức năng lao động
+HSK.113
+114.
+Quyết định về việc hỗ trợ
+  kinh phí huấn luyện an toàn, vệ sinh lao động.
+HSK.114
+115.
+Quyết định về việc hỗ trợ đào
+  tạo bồi dưỡng nâng cao trình độ kỹ năng nghề
+HSK.115
+116.
+Quyết định, thông báo, đề nghị
+  hưởng TCTN.
+HSK.116
+117.
+Quyết định về việc hỗ trợ học
+  nghề.
+HSK.117
+118.
+Quyết định hoặc Giấy chứng nhận
+  chờ đủ điều kiện về tuổi đời để hưởng lương hưu hoặc chờ hưởng trợ cấp hàng
+  tháng theo Nghị định số 09/1998/NĐ-CP
+HSK.118
+119.
+Giấy xác nhận về thời gian đi
+  hợp tác lao động để giải quyết chế độ bảo hiểm xã hội của Cục Quản lý lao động
+  ngoài nước
+HSK.119
+120.
+Quyết định về việc thu hồi
+  Quyết định hưởng chế độ và số tiền trợ cấp một lần theo Quyết định số
+  47/2002/QĐ-TTg ngày 11 tháng 4 năm 2002
+HSK.120
+121.
+Quyết định về việc thu hồi
+  Quyết định hưởng chế độ và số tiền trợ cấp một lần theo Quyết định số
+  290/2005/QĐ-TTg ngày 08 tháng 11 năm 2005
+HSK.121
+122.
+Quyết định về việc thu hồi
+  Quyết định hưởng chế độ và số tiền trợ cấp một lần theo Quyết định số
+  53/2010/QĐ-TTg ngày 20 tháng 8 năm 2010
+HSK.122
+123.
+Quyết định về việc thu hồi
+  Quyết định hưởng chế độ và số tiền trợ cấp một lần theo Quyết định số
+  62/2011/QĐ-TTg ngày 09 tháng 11 năm 2011
+HSK.123
+124.
+Hợp đồng lao động
+HSK.124
+125.
+Hợp đồng lao động có thời hạn
+  ở nước ngoài
+HSK.125
+126.
+Hợp đồng lao động được gia hạn
+  kèm theo văn bản gia hạn hợp đồng lao động
+HSK.126
+127.
+Hợp đồng lao động được ký mới
+  tại nước tiếp nhận lao động theo hợp đồng.
+HSK.127
+128.
+Quyết định (văn bản) chứng
+  minh địa điểm làm việc của người lao động.
+HSK.128
+129.
+Quyết định tiếp nhận
+HSK.129
+130.
+Quyết định điều động
+HSK.130
+131.
+Quyết định tuyên bố Hợp đồng
+  lao động vô hiệu của Tòa án nhân dân.
+HSK.131
+132.
+Hợp đồng làm việc và các giấy
+  tờ khác có liên quan tới việc điều chỉnh làm nghề hoặc công việc nặng nhọc, độc
+  hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại nguy hiểm
+HSK.132
+133.
+Hợp đồng ủy quyền theo quy định
+  của pháp luật.
+HSK.133
+134.
+Văn bản chấm dứt hợp đồng lao
+  động hưởng chế độ hưu trí
+HSK.134
+135.
+Quyết định chuyển công tác
+HSK.135
+136.
+Quyết định tiếp nhận trở lại
+  làm việc đối với trường hợp người lao động về nước và tiếp tục làm việc trước
+  ngày 01/01/1995
+HSK.136
+137.
+Quyết định nâng bậc lương
+HSK.137
+138.
+Quyết định thăng quân hàm
+HSK.138
+139.
+Giấy thôi trả lương
+HSK.139
+140.
+Quyết định nghỉ chờ việc
+HSK.140
+141.
+Thông báo chuyển trả
+HSK.141
+142.
+Quyết định chuyển trả
+HSK.142
+143.
+Danh sách của đơn vị hoặc các
+  giấy tờ xác định người lao động có tên trong danh sách của đơn vị đến ngày
+  31/12/1994
+HSK.143
+144.
+Quyết định cử đi công tác,
+  làm việc có thời hạn ở nước ngoài
+HSK.144
+145.
+Quyết định cử đi làm chuyên
+  gia ở nước ngoài
+HSK.145
+146.
+Quyết định cử đi học tập, thực
+  tập có thời hạn ở nước ngoài
+HSK.146
+147.
+Giấy xác nhận của cơ quan quản
+  lý chuyên gia về việc đã hoàn thành nghĩa vụ đóng góp cho ngân sách nhà nước
+  và đóng BHXH theo quy định của nhà nước của chuyên gia
+HSK.147
+148.
+Văn bản xác nhận của thủ trưởng
+  cơ quan, đơn vị cử người lao động, trong đó ghi rõ thời gian người lao động
+  được cử đi công tác, làm việc, học tập, thực tập có thời hạn ở nước ngoài
+HSK.148
+149.
+Giấy xác nhận chưa hưởng chế
+  độ trợ cấp một lần, trợ cấp phục viên, xuất ngũ
+HSK.149
+150.
+Quyết định phân công công
+  tác/Quyết định phân công vị trí công việc, hưởng lương
+HSK.150
+151.
+Quyết định hưởng sinh hoạt
+  phí
+HSK.151
+152.
+Danh sách trích ngang
+HSK.152
+153.
+Danh sách chi trả sinh hoạt
+  phí
+HSK.153
+154.
+Sổ lao động
+HSK.154
+155.
+Danh sách lao động
+HSK.155
+156.
+Sổ theo dõi người lao động
+HSK.156
+157.
+Danh sách chi trả lương
+HSK.157
+158.
+Sổ lương thực
+HSK.158
+159.
+Quyết định nghỉ việc hưởng chế
+  độ hưu trí theo mẫu ban hành kèm theo Nghị định số 46/2010/NĐ-CP
+HSK.159
+160.
+Văn bản giải trình nêu rõ lý
+  do về việc nộp hồ sơ giải quyết chế độ BHXH chậm so với quy định.
+HSK.160
+161.
+Giấy phép hoạt động của cơ sở
+  KCB
+HSK.161
+162.
+Quyết định phân hạng bệnh viện
+  của cấp có thẩm quyền
+HSK.162
+163.
+Danh mục dịch vụ kỹ thuật y tế,
+  danh mục thuốc, hóa chất, vật tư y tế được cấp có thẩm quyền phê duyệt
+HSK.163
+164.
+Văn bản cấp mã cơ sở KCB của
+  cấp có thẩm quyền phê duyệt
+HSK.164
+165.
+Quyết định tuyến chuyên môn kỹ
+  thuật của cấp có thẩm quyền đối với cơ sở KCB ngoài công lập
+HSK.165
+166.
+Quyết định bổ sung chức năng
+  nhiệm vụ, phạm vi chuyên môn, hạng bệnh viện được cấp có thẩm quyền phê duyệt
+HSK.166
+167.
+Chứng từ thu phí mở tài khoản
+  cá nhân lần đầu của Ngân hàng nơi người hưởng mở tài khoản.
+HSK.167
+168.
+Giấy chứng nhận chấp hành
+  xong hình phạt tù
+HSK.168
+169.
+Quyết định trở về nước định
+  cư hợp pháp
+HSK.169
+170.
+Giấy xác nhận của UBND xã,
+  phường, thị trấn nơi chôn cất
+HSK.170
+171.
+Quyết định của Tòa án tuyên bố
+  đã chết
+HSK.171
+172.
+Quyết định có hiệu lực pháp
+  luật của Tòa án hủy bỏ quyết định tuyên bố mất tích đối với trường hợp người
+  mất tích trở về
+HSK.172
+173.
+Giấy đặc xá tha tù trước thời
+  hạn
+HSK.173
+174.
+Quyết định miễn hoặc tạm hoãn
+  chấp hành hình phạt tù
+HSK.174
+175.
+Giấy xác nhận của cơ quan có
+  thẩm quyền về việc thôi quốc tịch Việt Nam
+HSK.175
+176.
+Bản dịch tiếng việt được chứng
+  thực hoặc bản công chứng Hộ chiếu do nước ngoài cấp
+HSK.176
+177.
+Bản dịch tiếng việt được chứng
+  thực hoặc bản công chứng Thị thực của cơ quan nước ngoài có thẩm quyền cấp có
+  xác nhận việc cho phép nhập cảnh với lý do định cư ở nước ngoài
+HSK.177
+178.
+Bản dịch tiếng việt được chứng
+  thực hoặc bản công chứng Giấy tờ xác nhận về việc đang làm thủ tục nhập quốc
+  tịch nước ngoài
+HSK.178
+179.
+Bản dịch tiếng việt được chứng
+  thực hoặc bản công chứng Giấy tờ xác nhận hoặc thẻ thường trú, cư trú có thời
+  hạn từ 05 năm trở lên của cơ quan nước ngoài có thẩm quyền cấp
+HSK.179
+180.
+Văn bản của cơ quan nhà nước
+  có thẩm quyền về việc trở về nước định cư hợp pháp
+HSK.180
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

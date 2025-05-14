@@ -1,0 +1,127 @@
+BẢO HIỂM XÃ HỘI
+VIỆT NAM
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 1263/QĐ-BHXH
+Hà Nội, ngày 21
+  tháng 11 năm 2014
+QUYẾT ĐỊNH
+BAN HÀNH VÀ QUY ĐỊNH QUẢN LÝ, SỬ DỤNG HỆ THỐNG DANH MỤC DÙNG CHUNG, CHỈ
+TIÊU BÁO CÁO NGÀNH BẢO HIỂM XÃ HỘI
+TỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM
+Căn cứ Nghị định số 05/NĐ-CP ngày
+17/1/2014 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức
+của Bảo hiểm xã hội Việt Nam;
+Xét đề nghị của Giám đốc Trung tâm
+Công ng
+hệ thông tin
+,
+QUYẾT ĐỊNH:
+Điều 1.
+Ban hành Hệ thống danh mục dùng chung, chỉ tiêu
+báo cáo ngành Bảo hiểm xã hội tại Tài liệu chuẩn hóa các tiêu chí thông tin quản
+lý, chuẩn hóa các biểu mẫu và bộ mã Ngành thuộc dự án “Phần mềm quản lý các hoạt
+động nghiệp vụ của ngành Bảo hiểm xã hội Việt Nam” (có danh mục kèm theo).
+Tài liệu chuẩn hóa các tiêu chí thông
+tin quản lý, chuẩn hóa các biểu mẫu và Bộ mã Ngành thuộc dự án “Phần mềm quản
+lý các hoạt động nghiệp vụ của ngành Bảo hiểm xã hội Việt Nam” (sau đây gọi tắt
+là hệ thống Bộ mã Ngành) thuộc quyền sở hữu của Bảo hiểm xã hội Việt Nam được
+triển khai thực hiện trong toàn Ngành.
+Điều 2.
+Các quy định về quy trình quản lý, sử dụng hệ thống
+Bộ mã Ngành
+a) Xây dựng, vận hành và khai thác cơ
+sở dữ liệu hệ thống Bộ mã Ngành
+Hệ thống Bộ mã Ngành được tạo lập,
+lưu trữ và quản lý dưới dạng điện tử (thông qua giải pháp cơ sở dữ liệu), bao gồm
+các bảng danh mục dùng chung, danh mục các chỉ tiêu báo cáo và có cấu trúc dữ
+liệu được mô tả trong mục 3.2, 3.4 của tài liệu.
+Hệ thống Bộ mã Ngành được sử dụng
+trong hệ thống phần mềm ứng dụng, cơ sở dữ liệu, công tác kế toán, thống kê và hoạt
+động nghiệp vụ để đảm bảo việc tổng hợp, trao đổi thông tin, dữ liệu thống nhất
+giữa các đơn vị trong ngành Bảo hiểm xã hội.
+Cơ sở dữ liệu Bộ mã Ngành vận hành tại
+Trung tâm dữ liệu Ngành.
+b) Duy trì, cập nhật hệ thống Bộ mã
+Ngành
+Việc duy trì hệ thống Bộ mã Ngành phải
+được thực hiện thường xuyên để bảo đảm tính thời sự của các danh mục dùng
+chung, hệ thống các chỉ tiêu và biểu mẫu báo cáo áp dụng trong ngành Bảo hiểm
+xã hội.
+Việc duy trì Bộ mã Ngành được thực hiện
+thông qua các hoạt động thu thập, rà soát, đề xuất thay đổi của các đơn vị có
+liên quan. Các đề nghị thay đổi có thể dưới dạng văn bản hoặc điện tử. Đơn vị gửi
+đề nghị thay đổi về Trung tâm Công ng
+hệ thông
+tin
+để tổ chức cập nhật thay đổi vào cơ sở dữ liệu hệ thống Bộ mã Ngành.
+Trong quá trình thực hiện nếu có phát
+sinh hoặc cần sửa đổi thông tin danh mục dùng chung, chỉ tiêu báo cáo hoặc yêu
+cầu điều chỉnh cấu trúc danh mục dùng chung, các đơn vị kịp thời thông báo bằng
+văn bản về Trung tâm Công ng
+hệ thông tin
+và phối hợp nghiên cứu, trình Tổng Giám đốc phương án sửa đổi, bổ sung cho phù
+hợp.
+c) Trách nhiệm của các đơn vị
+- Trung tâm Công ng
+hệ
+thông tin
+:
++ Tạo lập cơ sở dữ liệu và cập nhật dữ liệu ban đầu
+cho cơ sở dữ liệu Bộ mã Ngành theo các cấu trúc dữ liệu và các giá trị dữ liệu
+cụ thể được chuẩn hóa trong tài liệu.
++ Chủ trì, phối hợp với các đơn vị có liên quan
+nghiên cứu, trình Tổng Giám đốc bổ sung, sửa đổi hệ thống Bộ mã Ngành khi có
+yêu cầu thay đổi.
++ Duy trì các bảng danh mục dùng chung từ danh mục
+số 1 đến danh mục số 4 ở mục 3.2.
++ Quản trị, vận hành cơ sở dữ liệu Bộ mã Ngành tại
+Trung tâm dữ liệu Ngành.
++ Chủ trì, phối hợp với các đơn vị sản xuất phần mềm
+để thực hiện điều chỉnh các phần mềm phù hợp với quy định này.
+- Ban Thu chịu trách nhiệm chủ trì xây dựng, bổ
+sung, sửa đổi dữ liệu các bảng danh mục từ danh mục số 5 đến danh mục số 32 ở mục
+3.2 và các chỉ tiêu báo cáo quản lý thu từ mã chỉ tiêu 2101 đến mã chỉ tiêu
+2436 ở mục 3.4.
+- Ban Sổ - Thẻ chủ trì xây dựng, bổ sung, sửa đổi
+các chỉ tiêu báo cáo từ mã chỉ tiêu 2501 đến mã chỉ tiêu 2708 mục 3.4.
+- Ban Thực hiện chính sách bảo hiểm xã hội chủ trì
+xây dựng, bổ sung, sửa đổi dữ liệu các bảng danh mục từ danh mục số 33 đến danh
+mục số 50 mục 3.2; Các chỉ tiêu báo cáo từ mã chỉ tiêu 1101 đến mã chỉ tiêu
+1706 ở mục 3.4.
+- Ban Thực hiện chính sách bảo hiểm y tế chủ trì
+xây dựng, bổ sung, sửa đổi dữ liệu các bảng danh mục từ danh mục số 63 đến danh
+mục số 98 mục 3.2, các chỉ tiêu báo cáo từ mã chỉ tiêu 3101 đến mã chỉ tiêu
+3524 (không bao gồm chỉ tiêu 3318, 3319) mục 3.4.
+- Ban Tài chính - Kế toán chủ trì xây dựng, bổ
+sung, sửa đổi dữ liệu các bảng danh mục từ danh mục số 51 đến danh mục số 62 mục
+3.2 và các chỉ tiêu báo cáo quản lý chi từ mã chỉ tiêu 4101 đến mã chỉ tiêu
+4613 ở mục 3.4.
+- Ban Dược và Vật tư y tế chủ trì xây dựng, bổ sung,
+sửa đổi dữ liệu các bảng danh mục từ danh mục số 99 đến danh mục số 132 ở mục
+3.2 và các chỉ tiêu 3318, 3319 mục 3.4.
+- Ban Kế hoạch và Đầu tư chủ trì xây dựng, bổ sung,
+sửa đổi dữ liệu các bảng danh mục dùng chung số 56 và các danh mục số 133 đến
+danh mục số 142 mục 3.2.
+Điều 3.
+Quyết định này có hiệu lực kể từ ngày ký. Giám đốc Trung tâm
+Công ng
+hệ thông tin
+, Thủ trưởng các đơn vị
+trực thuộc Bảo hiểm xã hội Việt Nam và Giám đốc Bảo hiểm xã hội các tỉnh, thành
+phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.
+Nơi nhận:
+- Như Điều 3;
+- Tổng Giám đốc (để b/c);
+- Các Phó Tổng Giám đốc;
+- Lưu: VT, CNTT (03).
+KT. TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Đỗ Văn Sinh
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

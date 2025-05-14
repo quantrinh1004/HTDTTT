@@ -1,0 +1,776 @@
+BẢO
+  HIỂM XÃ HỘI VIỆT NAM
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+  1098/QĐ-BHXH
+Hà
+  Nội, ngày 24 tháng 10 năm 2011
+QUYẾT ĐỊNH
+PHÊ DUYỆT KẾ HOẠCH XÂY DỰNG VÀ ÁP DỤNG HỆ THỐNG QUẢN LÝ CHẤT
+LƯỢNG THEO TIÊU CHUẨN TCVN ISO 9001:2008 VÀO HOẠT ĐỘNG CỦA NGÀNH BẢO HIỂM XÃ
+HỘI VIỆT NAM
+TỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM
+Căn cứ Nghị định số 94/2008/NĐ-CP
+ngày 22 tháng 8 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn
+và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam;
+Căn cứ Quyết định số 144/2006/QĐ-TTg
+ngày 20 tháng 6 năm 2006 của Thủ tướng Chính phủ về việc áp dụng hệ thống quản
+lý chất lượng theo tiêu chuẩn TCVN ISO 9001:2000 vào hoạt động của các cơ quan
+hành chính nhà nước và Quyết định số 118/2009/QĐ-TTg ngày 30 tháng 9 năm 2009
+của Thủ tướng Chính phủ về việc sửa đổi, bổ sung một số điều của Quyết định số
+144/2006/QĐ-TTg;
+Xét đề nghị của Chánh Văn phòng,
+QUYẾT ĐỊNH:
+Điều 1.
+Phê duyệt Kế hoạch xây dựng và áp dụng Hệ thống quản lý
+chất lượng theo tiêu chuẩn TCVN ISO 9001:2008 vào hoạt động của Ngành Bảo hiểm
+xã hội Việt Nam
+(kèm theo).
+Điều 2.
+Quyết định này có hiệu lực kể từ ngày ký. Chánh Văn
+phòng, Thủ trưởng các đơn vị trực thuộc BHXH Việt Nam, giám đốc BHXH các tỉnh,
+thành phố chịu trách nhiệm thực hiện quyết định này.
+Nơi nhận:
+- Như điều 3;
+- Bộ Khoa học và Công nghệ (để b/c);
+- Tổng Giám đốc (để b/c);
+- Các Phó Tổng Giám đốc;
+- Lưu VT, TH.
+KT.
+  TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Nguyễn Minh Thảo
+KẾ HOẠCH
+XÂY DỰNG VÀ ÁP DỤNG HỆ THỐNG QUẢN LÝ CHẤT LƯỢNG THEO TIÊU
+CHUẨN TCVN ISO 9001:2008 VÀO HOẠT ĐỘNG CỦA NGÀNH BẢO HIỂM XÃ HỘI
+(Ban hành theo Quyết định số 1098/QĐ-BHXH ngày 24/10/2011 của Tổng giám đốc
+Bảo hiểm xã hội Việt Nam)
+I. MỤC TIÊU, YÊU
+CẦU
+1. Mục tiêu
+1.1. Mục tiêu chung
+Xây dựng và áp dụng Hệ thống quản
+lý chất lượng theo tiêu chuẩn TCVN ISO 9001:2008 trong toàn Ngành nhằm thực
+hiện quy trình xử lý công việc hợp lý, phù hợp với quy định của pháp luật, tạo điều
+kiện để người đứng đầu cơ quan Bảo hiểm xã hội (BHXH) các cấp kiểm soát được quá
+trình giải quyết công việc trong nội bộ đơn vị đảm bảo thống nhất, minh bạch,
+hiệu quả, đồng thời từng bước nâng cao hiệu quả công tác quản lý và giải quyết
+các thủ tục hành chính đối với các tổ chức, cá nhân tham gia BHXH, BHYT.
+1.2. Mục tiêu cụ thể
+- Tại cơ quan BHXH Việt Nam
++ Triển khai xây dựng và công bố mô
+hình khung áp dụng cho toàn Ngành nhằm quy định thành phần cơ bản của Hệ thống
+quản lý chất lượng trong Ngành, bao gồm phạm vi áp dụng Hệ thống quản lý chất
+lượng (HTQLCL) theo kết quả của Đề án 30; những tài liệu cần xây dựng và áp
+dụng của BHXH Việt Nam và quy định mẫu về quy trình xử lý công việc, giải quyết
+các thủ tục hành chính của Ngành.
++ Triển khai xây dựng và áp dụng hệ
+thống quản lý chất lượng theo tiêu chuẩn TCVN ISO 9001:2008 nhằm quy định quy
+trình xử lý, giải quyết công việc của nội bộ cơ quan BHXH Việt Nam đảm bảo
+thống nhất, hiệu quả.
+- Tại BHXH các địa phương:
+BHXH các tỉnh, thành phố trực thuộc
+trung ương và BHXH quận, huyện, thành phố thuộc tỉnh xây dựng và áp dụng HTQLCL
+trên cơ sở mô hình khung của BHXH Việt Nam đã được ban hành nhằm thống nhất quy
+trình quản lý, giải quyết các thủ tục hành chính, tạo thuận lợi tối đa cho tổ
+chức, cá nhân tham gia BHXH, BHYT theo quy định của pháp luật.
+2. Yêu cầu
+- Xây dựng Hệ thống quản lý chất
+lượng theo tiêu chuẩn TCVN ISO 9001:2008 áp dụng toàn Ngành phải đảm bảo khoa
+học, đúng pháp luật, phù hợp với thực tế, tạo điều kiện thuận lợi cho cán bộ,
+công chức, phòng, ban giải quyết công việc thông suốt, kịp thời, hiệu quả; giúp
+lãnh đạo các đơn vị điều hành, kiểm soát được toàn bộ quá trình giải quyết công
+việc của đơn vị; đổi mới phương pháp làm việc, góp phần nâng cao hiệu lực, hiệu
+quả trong thực hiện công vụ, phục vụ tốt yêu cầu của người dân, tổ chức và
+doanh nghiệp.
+II. PHẠM VI VÀ
+ĐỐI TƯỢNG ÁP DỤNG
+- Phạm vi áp dụng:
+Việc áp dụng Hệ thống quản lý chất
+lượng theo tiêu chuẩn TCVN ISO 9001:2008 tập trung vào các quy trình giải quyết
+toàn bộ công việc liên quan đến giải quyết thủ tục hành chính cho người dân và
+tổ chức, doanh nghiệp
+(theo kết quả thực hiện Đề án 30);
+quy trình xử lý
+công việc và các hoạt động quản lý nội bộ, hoạt động khác của đơn vị trực thuộc
+Bảo hiểm xã hội Việt Nam.
+- Đối tượng áp dụng:
+Các Đối tượng thực hiện xây dựng,
+áp dụng, duy trì, cải thiện Hệ thống quản lý chất lượng theo tiêu chuẩn TCVN
+ISO 9001:2008 bao gồm:
++ Cơ quan Bảo hiểm xã hội Việt Nam;
++ Bảo hiểm xã hội 63 tỉnh, thành
+phố trực thuộc trung ương;
++ BHXH các quận, huyện, thị xã,
+thành phố thuộc tỉnh.
+III. CÁC HOẠT
+ĐỘNG CẦN TRIỂN KHAI
+1. Thành lập Ban Chỉ đạo triển khai
+xây dựng và áp dụng Hệ thống quản lý chất lượng theo tiêu chuẩn TCVN ISO
+9001:2008 của BHXH Việt Nam và BHXH 63 tỉnh, thành phố trực thuộc trung ương.
+Ban Chỉ đạo triển khai ISO thành
+phần gồm có: Lãnh đạo đơn vị là Trưởng ban; Thủ trưởng bộ phận thường trực làm
+Phó Trưởng ban thường trực; Thủ trưởng các bộ phận liên quan tại đơn vị là
+thành viên.
+Thành lập Tổ Giúp việc cho Ban Chỉ
+đạo trong quá trình xây dựng và áp dụng hệ thống quản lý chất lượng theo tiêu
+chuẩn ISO tại các đơn vị. Tổ Giúp việc có nhiệm vụ tập hợp các tài liệu liên
+quan đến việc xây dựng và áp dụng hệ thống quản lý chất lượng theo tiêu chuẩn
+TCVN ISO 9001:2008; phối hợp với cơ quan tư vấn để thực hiện các nội dung cụ
+thể về đào tạo, xây dựng và áp dụng thực hiện hệ thống quản lý chất lượng theo
+tiêu chuẩn TCVN ISO 9001:2008 của các đơn vị; biên tập và viết các thủ tục giải
+quyết công việc theo sự hướng dẫn của tư vấn; hướng dẫn triển khai và áp dụng
+các thủ tục giải quyết công việc; hiệu chỉnh và soát xét chất lượng các thủ tục;
+phối hợp với các bộ phận, phòng ban trong cơ quan để ban hành, triển khai thực
+hiện hệ thống, đào tạo cán bộ, công chức để hiểu rõ về hệ thống đang thực hiện
+và các công việc khác.
+Xây dựng Quy chế hoạt động của Ban
+Chỉ đạo, trong đó quy định rõ chức năng, nhiệm vụ của từng thành viên của Ban
+Chỉ đạo.
+2. Triển khai cụ thể việc xây dựng
+và áp dụng Hệ thống quản lý chất lượng theo tiêu chuẩn ISO, trong đó xác định
+cụ thể phạm vi áp dụng tiêu chuẩn TCVN ISO 9001:2008 là toàn bộ hoạt động liên
+quan đến giải quyết thủ tục hành chính cho người dân và tổ chức, doanh nghiệp
+(căn cứ vào kết quả thực hiện Đề án 30); các hoạt động nội bộ, hoạt động cụ thể
+khác của cơ quan.
+3. Nghiên cứu, lựa chọn và ký hợp
+đồng tư vấn và ký hợp đồng với tổ chức chứng nhận theo quy định tại Thông tư số
+01/2010/TT-BKHCN ngày 25/2/2010 của Bộ Khoa học và Công nghệ về hoạt động tư
+vấn, đánh giá chứng nhận hệ thống quản lý chất lượng theo tiêu chuẩn quốc gia
+TCVN ISO 9001:2008 đối với cơ quan hành chính nhà nước.
+4. Khảo sát, đánh giá thực trạng hệ
+thống quản lý chất lượng.
+Ban Chỉ đạo triển khai ISO phối hợp
+với tổ chức tư vấn thực hiện khảo sát, đánh giá thực trạng hoạt động quản lý
+của các đơn vị. Căn cứ tiêu chuẩn TCVN ISO 9001:2008, các văn bản hướng dẫn của
+Bộ Khoa học và Công nghệ và thực trạng hoạt động của các đơn vị, tổ chức tư vấn
+cùng Ban Chỉ đạo triển khai ISO tại các đơn vị kiến nghị các nội dung liên quan
+đến việc xây dựng các quy trình xử lý công việc phù hợp với tiêu chuẩn ISO và
+mô hình khung của Ngành ban hành.
+5. Đào tạo về tiêu chuẩn ISO và
+phương pháp xây dựng hệ thống tài liệu
+Ban Chỉ đạo triển khai ISO phối hợp
+với tổ chức tư vấn, đào tạo, hỗ trợ thông tin về mô hình quản lý chất lượng,
+phân tích các yêu cầu của tiêu chuẩn ISO; hướng dẫn cách thức soạn thảo các quy
+trình, văn bản, tài liệu để đáp ứng được yêu cầu quản lý công việc và phù hợp
+với các yêu cầu của tiêu chuẩn ISO.
+6. Soạn thảo hệ thống tài liệu ISO
+- Theo danh mục tài liệu và kế
+hoạch phân công viết quy trình đã được Trưởng Ban Chỉ đạo triển khai ISO phê
+duyệt, tổ chức tư vấn sẽ trực tiếp làm việc với các cán bộ được phân công để tư
+vấn cụ thể cách thức xây dựng từng quy trình; các quy trình phải đảm bảo các
+nội dung về chính sách - mục tiêu chất lượng, sổ tay chất lượng, các quy trình
+quản lý (quy trình tác nghiệp và quy trình hỗ trợ), các hướng dẫn công việc,
+các biểu mẫu.
+- Ban Chỉ đạo triển khai ISO của
+các đơn vị phối hợp với tổ chức tư vấn thực hiện lấy ý kiến các đơn vị liên
+quan đển đảm bảo chất lượng và đồng thuật trong các đơn vị trước khi chính thức
+đưa vào áp dụng; trình cấp có thẩm quyền xem xét, ban hành để áp dụng chính
+thức.
+7. Triển khai áp dụng
+Sau khi các quy trình được cấp có
+thẩm quyền ký, ban hành, Ban Chỉ đạo triển khai ISO của các đơn vị phối hợp với
+tổ chức tư vấn tổ chức phổ biến bộ tài liệu quản lý
+(văn bản, quy trình làm
+việc)
+và phương pháp áp dụng cho từng bộ phận, cán bộ, công chức liên quan
+để thực hiện thống nhất; thường xuyên kiểm tra, rà soát việc áp dụng; hướng dẫn
+và giải thích để việc áp dụng Hệ thống quản lý chất lượng được thực hiện có
+hiệu quả.
+8. Đào tạo chuyên gia đánh giá nội
+bộ và tiến hành Đánh giá Hệ thống ISO
+- Ban Chỉ đạo triển khai ISO phối
+hợp với tổ chức Tư vấn tổ chức tư vấn, đào tạo các chuyên gia đánh giá nội bộ
+theo tiêu chuẩn TCVN ISO 9001:2008.
+Cán bộ đánh giá nội bộ là các thành
+viên của Ban Chỉ đạo triển khai ISO hoặc các cán bộ quản lý, chuyên viên có
+liên quan đến việc áp dụng quy trình chất lượng. Cán bộ đánh giá nội bộ phải
+được tổ chức tư vấn đào tạo để có đủ năng lực cần thiết cho việc đánh giá nội
+bộ tại đơn vị, đồng thời hiểu và tổ chức tốt hoạt động đánh giá chất lượng nội
+bộ để đảm bảo duy trì, cải tiến được hệ thống chất lượng sau này.
+- Ban Chỉ đạo ISO của cơ quan phối
+hợp với đơn vị tư vấn tiến hành lập kế hoạch đánh giá nội bộ, thành lập đoàn
+đánh giá và phân công cho các cán bộ, công chức tiến hành thực hiện hoạt động
+đánh giá nội bộ Hệ thống quản lý chất lượng để xem xét được tính phù hợp và
+tính hiệu lực của Hệ thống quản lý chất lượng tại các đơn vị.
+Các cán bộ đánh giá nội bộ của đơn
+vị phối hợp với tổ chức tư vấn tiến hành đánh giá chất lượng nội bộ. Lần thứ
+nhất, tổ chức tư vấn thực hiện đánh giá, cán bộ đánh giá nội bộ của đơn vị quan
+sát; các lần đánh giá sau, cán bộ đánh giá nội bộ của đơn vị chủ động thực hiện
+với sự hỗ trợ của tổ chức tư vấn. Sau mỗi đợt đánh giá, phải chi ra được các
+vấn đề còn tồn tại cần khắc phục. Các bộ phận liên quan có trách nhiệm khắc
+phục triệt để những tồn tại này để hoàn thiện các quy trình quản lý chất lượng.
+9. Đánh giá và cấp giấy Chứng nhận
+hệ thống quản lý chất lượng theo tiêu chuẩn TCVN ISO 9001:2008.
+- Hệ thống quản lý chất lượng của
+các đơn vị được cơ quan chứng nhận đánh giá; cơ quan đánh giá chứng nhận sẽ chỉ
+ra các điểm không phù hợp và đề nghị cải tiến cho các đơn vị.
+- Các đơn vị tiến hành khắc phục
+các điểm không phù hợp của cơ quan đánh giá chứng nhận và nộp hồ sơ về cho cơ
+quan đánh giá chứng nhận thẩm định. Nếu đạt yêu cầu cơ quan đánh giá chứng nhận
+sẽ nộp hồ sơ đề nghị Tổng cục Tiêu chuẩn đo lường Chất lượng cấp chứng nhận;
+lập báo cáo kết quả triển khai xây dựng Hệ thống quản lý chất lượng theo tiêu
+chuẩn TCVN ISO 9001:2008 và công văn đề nghị cấp chứng nhận gửi cho Tổng cục
+Tiêu chuẩn đo lường Chất lượng cấp chứng nhận theo đúng Quy định tại Thông tư
+số 01/2010/TT-BKHCN ngày 25/2/2010 của Bộ Khoa học và Công nghệ về hoạt động tư
+vấn, đánh giá chứng nhận HTQLCL theo tiêu chuẩn quốc gia TCVN ISO 9001:2008 đối
+với cơ quan hành chính nhà nước.
+10. Duy trì và cải tiến Hệ thống
+quản lý chất lượng sau chứng nhận
+Các đơn vị sau khi được cấp chứng
+nhận, có trách nhiệm duy trì Hệ thống quản lý có hiệu lực; thường xuyên, định
+kỳ tiến hành các hoạt động theo dõi, đo lường, cập nhật tất cả các tài liệu
+quản lý; thiết lập kênh thông tin với tổ chức tư vấn để kịp thời trợ giúp và
+giải quyết những vấn đề vướng mắc trong quá trình quản lý và thực hiện nhằm đảm
+bảo Hệ thống hoạt động có hiệu quả.
+11. Công tác tuyên truyền, hướng
+dẫn về áp dụng hệ thống quản lý chất lượng.
+Các đơn vị triển khai công tác
+tuyên truyền về các hoạt động liên quan đến việc áp dụng hệ thống quản lý chất
+lượng ISO, nâng cao nhận thức về áp dụng hệ thống quản lý chất lượng vào hoạt
+động của các đơn vị.
+III. TỔ CHỨC
+THỰC HIỆN
+1. Tiến độ thực hiện
+1.1. Cơ quan BHXH Việt Nam
+- Xây dựng mô hình khung áp dụng
+cho toàn Ngành hoàn thành trước 31/12/2011.
+- Triển khai xây dựng và áp dụng hệ
+thống quản lý chất lượng theo tiêu chuẩn TCVN ISO 9001:2008 tại cơ quan bảo
+hiểm xã hội Việt Nam hoàn thành trước ngày 31/3/2012.
+1.2. BHXH các tỉnh, thành phố trực
+thuộc trung ương
+Theo mô hình khung của BHXH Việt
+Nam đã được công bố, ban hành BHXH các tỉnh, thành phố trực thuộc trung ương
+triển khai xây dựng và áp dụng hệ thống quản lý chất lượng theo tiêu chuẩn TCVN
+ISO 9001:2008 phải hoàn thành trước ngày 31/12/2012.
+1.3. BHXH cấp quận, huyện, thị xã,
+thành phố trực thuộc tỉnh hoàn thành việc triển khai xây dựng và áp dụng hệ
+thống quản lý chất lượng theo tiêu chuẩn ISO trước ngày 31/12/2013.
+(Kế hoạch chi tiết triển khai xây
+dựng mô hình khung và áp dụng hệ thống quản lý chất lượng theo tiêu chuẩn TCVN
+ISO 9001:2008 của BHXH Việt Nam theo phụ lục 01).
+2. Trách nhiệm của các đơn vị
+a) Các đơn vị trực thuộc:
+- Thực hiện triển khai chi tiết áp
+dụng hệ thống quản lý chất lượng theo tiêu chuẩn ISO đảm bảo chất lượng và đúng
+tiến độ theo phụ lục 01 nêu trên;
+- Thiết lập bộ phận kiểm soát nội
+bộ để kiểm soát quá trình xây dựng, áp dụng, duy trì, cải tiến hệ thống quản lý
+chất lượng trong hoạt động của đơn vị;
+- Xác định việc xây dựng và áp dụng
+Hệ thống quản lý chất lượng theo tiêu chuẩn ISO trong hoạt động của đơn vị là
+nội dung bắt buộc của chương trình cải cách hành chính.
+- Kiểm soát quá trình xây dựng và
+áp dụng hệ thống quản lý chất lượng; chịu trách nhiệm về hiệu lực, hiệu quả của
+việc xây dựng, áp dụng, duy trì, cải tiến hệ thống quản lý chất lượng trong
+hoạt động của đơn vị mình.
+b) Văn phòng (đơn vị thường trực)
+giúp việc Ban Chỉ đạo có trách nhiệm:
+- Trình Tổng Giám đốc phê duyệt kế
+hoạch xây dựng và áp dụng hệ thống quản lý chất lượng TCVN ISO 9001:2008 đối
+với toàn Ngành BHXH;
+- Trình Lãnh đạo Ngành phê duyệt
+đơn vị tư vấn xây dựng và áp dụng hệ thống quản lý chất lượng TCVN ISO
+9001:2008;
+- Phối hợp với Ban Chi trình lãnh
+đạo Ngành việc phân bổ kinh phí đảm bảo các các đơn vị thực hiện;
+- Lựa chọn, ký kết hợp đồng với tổ
+chức tư vấn, tổ chức đánh giá theo quy định tại Thông tư số 01/2010/TT-BKHCN
+ngày 25/2/2010 của Bộ Khoa học và Công nghệ về hoạt động tư vấn, đánh giá chứng
+nhận HTQLCL theo tiêu chuẩn quốc gia TCVN ISO 9001:2008 đối với cơ quan hành
+chính nhà nước.
+- Chuẩn bị nội dung và trình Trưởng
+Ban Chỉ đạo về việc tổ chức các cuộc họp của Ban Chỉ đạo Bảo hiểm xã hội Việt
+Nam thực hiện Quyết định số 118/2009/QĐ-TTg;
+- Theo dõi, đôn đốc việc triển khai
+thực hiện của các đơn vị thuộc, trực thuộc Bảo hiểm xã hội Việt Nam; thực hiện
+chế độ báo cáo theo quy định.
+V. KINH PHÍ THỰC
+HIỆN
+Các đơn vị lập dự toán, thực hiện
+thanh quyết toán kinh phí triển khai xây dựng, thực hiện, đánh giá cấp giấy
+chứng nhận, duy trì và giám sát Hệ thống quản lý chất lượng theo tiêu chuẩn ISO
+theo quy định tại Thông tư 159/2010/TT-BTC ngày 15/10/2010 của Bộ Tài chính quy
+định công tác quản lý Tài chính đối với việc xây dựng, áp dụng và duy trì hệ
+thống quản lý chất lượng theo TCVN ISO 9001:2008 vào hoạt động của cơ quan hành
+chính nhà nước.
+BHXH Việt Nam bố trí kinh phí cho
+việc xây dựng, áp dụng, duy trì, hoàn thiện và cải tiến Hệ thống quản lý chất
+lượng vào dự toán kinh phí hoạt động bộ máy hàng năm của các đơn vị theo quy
+định.
+PHỤ LỤC 01
+KẾ HOẠCH CHI TIẾT TRIỂN KHAI XÂY DỰNG MÔ HÌNH KHUNG VÀ ÁP
+DỤNG HỆ THỐNG QUẢN LÝ CHẤT LƯỢNG THEO TIÊU CHUẨN TCVN 9001:2008 CỦA BHXH VIỆT
+NAM
+(Ban hành kèm theo Quyết định số 1098/QĐ-BHXH ngày 24 tháng 10 năm 2011 của
+Phó Tổng Giám đốc BHXH Việt Nam)
+I. KẾ HOẠCH
+XÂY DỰNG MÔ HÌNH KHUNG
+Thời gian và các bước công việc
+- Thời gian thực hiện:
+Thời
+gian bắt đầu triển khai thực hiện từ T10/2011 và hoàn thành trước 31/12/2011.
+- Các bước công việc phải
+thực hiện khi triển khai xây dựng Mô hình khung
+TT
+Nội
+  dung triển khai
+Nội
+  dung công việc và kết quả thực hiện
+Thực
+  hiện
+Thời
+  gian (Hạn cuối)
+1
+Lập danh mục các quy trình nghiệp
+  vụ
+Lập danh mục các quy trình nghiệp
+  vụ liên quan tới người dân và doanh nghiệp đang còn hiệu lực thi hành thuộc
+  chức năng, nhiệm vụ của đơn vị gửi về Văn phòng.
+Các
+  đơn vị trực thuộc
+04/10/2011
+2
+Lập danh mục thủ tục hành chính
+  về BHXH, BHYT
+- Lập danh mục thủ tục hành chính
+  về BHXH, BHYT
+(theo NQ 49)
+thuộc chức năng, nhiệm vụ của đơn vị, xác
+  định cụ thể các thủ tục hành chính phải xây dựng, áp dụng HTQLCL gửi Văn
+  phòng.
+- Văn phòng tổng hợp trình Trưởng
+  ban Chỉ đạo để xem xét quyết định.
+Các
+  đơn vị trực thuộc
+04/10/2011
+15/10/2011
+3
+Rà soát, sửa đổi quy trình nghiệp
+  vụ
+Rà soát, sửa đổi bổ sung quy
+  trình nghiệp vụ phù hợp với quy định của pháp luật và tình hình thực tiễn
+  trình Tổng Giám đốc ký ban hành.
+(Khi có sự thay đổi về TTHC như bổ sung,
+  sửa đổi, điều chỉnh, hủy bỏ … các đơn vị có trách nhiệm cập nhật các nội dung
+  thay đổi của TTHC vào dự thảo HTQLCL).
+Các
+  đơn vị trực thuộc
+30/10/2011
+4
+Xây dựng tài liệu chung theo yêu
+  cầu tiêu chuẩn ISO
+Xây dựng sổ tay chất lượng (bao
+  gồm cả Chính sách chất lượng, Mục tiêu chất lượng); Yêu cầu năng lực, trách
+  nhiệm, quyền hạn của các chức danh công việc; Quy trình bắt buộc theo yêu cầu
+  của tiêu chuẩn: Quy trình Kiểm soát tài liệu; Quy trình Kiểm soát hồ sơ; Quy
+  trình Đánh giá nội bộ
+Văn
+  phòng, đơn vị tư vấn
+30/11/2011
+5
+Xây dựng tài liệu, mẫu quy trình
+  xử lý công việc
++ Tài liệu hướng dẫn trình bày
+  quy trình xử lý công việc: Cách viết
+một quy trình xử lý công việc
+và
+  một số lưu ý cho các cán bộ khi triển khai viết các quy trình. Trong đó, hình
+  thức xây dựng một quy trình xử lý công việc được nhấn mạnh để đảm bảo sự vận
+  dụng cách thức xây dựng hợp lý, phù hợp với trình độ, năng lực của các đơn
+  vị.
++ Mẫu quy trình xử lý công việc
+  cụ thể cho từng loại hình, lĩnh vực chức năng của các đơn vị.
+Các
+  đơn vị sự nghiệp, đơn vị tư vấn
+30/11/2011
+6
+Hoàn thiện mô hình khung
+Hoàn thiện mô hình khung Hệ thống
+  quản lý chất lượng theo tiêu chuẩn TCVN ISO 9001:2008 trình Tổng giám đốc ký
+  ban hành.
+Ban
+  Chỉ đạo
+15/12/2011
+II. KẾ HOẠCH
+XÂY DỰNG VÀ ÁP DỤNG HTQLCL THEO TIÊU CHUẨN TCVN ISO 9001:2008 TẠI CƠ QUAN BHXH
+VIỆT NAM
+1. Thời gian và tiến độ thực
+hiện
+- Thời gian thực hiện:
+Thời gian bắt đầu thực hiện từ T7/2011 và hoàn thành trước ngày 31/3/2012
+- Tiến độ thực hiện xây dựng
+và áp dụng Hệ thống quản lý chất lượng theo tiêu chuẩn ISO 9001:2008 cụ thể như
+sau:
+TT
+Nội
+  dung công việc
+Thời
+  gian thực hiện
+1
+Giai đoạn 1: Lập kế hoạch và đào
+  tạo nhận thức chung về ISO
+Tháng
+  7-9/2011
+2
+Giai đoạn 2: Khảo sát và xây dựng
+  hệ thống văn bản
+Tháng
+  10/2011 - 01/2012
+3
+Giai đoạn 3: Triển khai áp dụng
+Tháng
+  02/2012
+4
+Giai đoạn 4: Đánh giá hệ thống
+Tháng
+  03/2012
+5
+Giai đoạn 5: Chứng nhận và duy
+  trì, cải tiến hệ thống
+Tiến
+  hành hàng năm, trong 03 năm kể từ ngày được cấp chứng nhận
+2. Các bước công việc phải thực
+hiện khi triển khai xây dựng HTQLCL theo tiêu chuẩn ISO 9001:2008
+TT
+Nội
+  dung triển khai
+Nội
+  dung công việc và kết quả thực hiện
+Thực
+  hiện
+Thời
+  gian
+(
+Tháng thứ)
+07
+08
+09
+10
+11
+12
+01
+02
+03
+1
+Giai đoạn 1: Lập kế hoạch và
+  đào tạo nhận thức chung về ISO
+1.1
+Thành lập Ban chỉ đạo, Tổ Soạn
+  thảo, bổ nhiệm đại diện lãnh đạo về chất lượng (QMR) tại Tổ chức
+- Thành lập Ban Chỉ đạo, Tổ Soạn
+  thảo
+(BCĐ là bộ phận giúp lãnh đạo điều hành toàn bộ quá trình tổ chức XD
+  hệ thống).
+BCĐ gồm đại diện lãnh đạo và một số thành viên
+(trưởng hoặc
+  phó các bộ phận liên quan).
+- Bổ nhiệm đại diện lãnh đạo về
+  chất lượng
+(người có trách nhiệm triển khai và duy trì HTQLCL theo các yêu
+  cầu của Tiêu chuẩn).
+- Xây dựng quy tắc hoạt động,
+  chức năng, nhiệm vụ của các Ban cũng như thành viên của các ban này.
+BHXH
+  VN
+1.2
+Đào tạo nhận thức chung về ISO
+  9000
+- Tổ chức đào tạo tập huấn cho
+  toàn bộ CBCCVC trong Tổ chức những kiến thức cơ bản về Hệ thống chất lượng
+  (giới thiệu khái niệm, cơ cấu tổ chức áp dụng ISO 9001:2008, các định nghĩa,
+  thuật ngữ về chất lượng.
+- Nội dung và yêu cầu của hệ
+  thống QLCL
+- 08 nguyên tắc QLCL theo khuyến
+  nghị của tổ chức ISO khi áp dụng ISO 9001:2008
+- Yêu cầu của HTQLCL, trình bày
+  dự án, các giai đoạn xây dựng HTQLCL, những yếu tố quyết định sự thành công
+  của dự án.
+- Cán bộ, công chức, viên chức
+  của Tổ chức nhận thức được các kiến thức về hệ thống quản lý chất lượng, nắm
+  bắt các nội dung và yêu cầu của bộ chuẩn ISO 9000. Nhận thức về vai trò của
+  việc xây dựng và áp dụng hệ thống quản lý chất lượng theo tiêu chuẩn quốc tế
+  ISO 9001:2008.
+Đơn
+  vị Tư vấn
+2
+Giai đoạn 2: Khảo sát và xây
+  dựng hệ thống văn bản
+2.1
+Khảo sát, đánh giá thực trạng
+  quản lý tại Tổ chức
+Công ty CP Tư vấn và Công nghệ
+  Quốc tế
+INCOTECH
+sẽ tiến
+hành khảo sát, nghiên cứu rõ về chức
+  năng, nhiệm vụ và hoạt động quản lý của các đơn vị. Qua quá trình khảo sát,
+  nghiên cứu,
+INCOTECH
+sẽ chỉ ra những điểm phù hợp cũng như không phù
+  hợp trong hệ thống quản lý chất lượng so với các yêu cầu của tiêu chuẩn ISO
+  9001:2008, làm cơ sở cho xây dựng báo cáo khảo sát, xác định lại phạm vi áp
+  dụng và lên danh mục hệ thống tài liệu quản lý chất lượng của Tổ chức.
+BHXH
+  VN, Đơn vị Tư vấn
+15/11
+2.2
+Đào tạo phương pháp viết văn bản
+  hệ thống quản lý chất lượng bao gồm:
++ Sổ tay chất lượng
++ Mục tiêu chất lượng
++ Các Quy trình, quy định, quy
+  chế và các biểu mẫu
+- Đào tạo xây dựng kỹ năng,
+  phương pháp viết văn bản cho Ban chỉ đạo và Tổ giúp việc.
+- Phân công nhiệm vụ cụ thể cho
+  từng thành viên trong các Ban bằng một bản kế hoạch chi tiết.
+- Cán bộ, công chức, viên chức
+  các đơn vị nhận thức được các kiến thức về cấu trúc và vai trò của hệ thống
+  tài liệu quản lý chất lượng, nắm bắt cách thức xây dựng các tài liệu trong hệ
+  thống văn bản. Có thể bắt tay xây dựng các văn bản quản lý chất lượng của đơn
+  vị mình.
+- Hai bên thống nhất được lộ
+  trình và thời gian cụ thể cho giai đoạn xây dựng Hệ thống văn bản. Phân công
+  cụ thể các bộ, công chức soạn thảo các tài liệu.
+Đơn
+  vị tư vấn
+05/01
+2.3
+Hướng dẫn viết sổ tay chất lượng
+Đại diện lãnh đạo về chất lượng (QMR)
+  nắm bắt rõ hơn về bố cục, kết cấu và nội dung của Sổ tay chất lượng, bắt tay
+  vào hoàn thiện Sổ tay chất lượng của Tổ chức.
+Đơn
+  vị tư vấn
+2.4
+Hướng dẫn viết các thủ tục/quy
+  trình
+Các cán bộ, công chức được phân
+  công soạn thảo nắm bắt rõ hơn về bố cục, kết cấu và nội dung của các quy
+  trình xử lý công việc, bắt tay vào hoàn thiện các quy trình của đơn vị theo
+  đúng các yêu cầu của tiêu chuẩn
+Đơn
+  vị tư vấn
+15/12
+2.5
+Soạn thảo văn bản
+Các cán bộ, công chức được phân
+  công tiến hành soạn thảo các tài liệu được phân công
+BHXH
+  VN
+20/01
+2.6
+Soát xét, hiệu chỉnh tổng thể Hệ
+  thống văn bản
+Toàn bộ hệ thống văn bản quản lý
+  chất lượng của các đơn vị được hoàn thiện cả về nội dung và thể thức, chuẩn
+  bị cho việc ban hành áp dụng.
+Đơn
+  vị tư vấn
+15/02
+3
+Giai đoạn 3: Triển khai áp
+  dụng
+3.1
+Ban hành quyết định áp dụng Hệ
+  thống văn bản quản lý chất lượng theo tiêu chuẩn ISO 9001:2008
+- Ban chỉ đạo ISO nhận biết được
+  cách thức tổ chức in ấn, ký duyệt, phô tô và phân phối hệ thống Văn bản đã
+  hoàn thiện.
+- Ban chỉ đạo thực hiện việc
+  trình Lãnh đạo Tổ chức phê duyệt, ban hành hệ thống văn bản và phân phối đến
+  các bộ phận liên quan theo đúng trình tự theo yêu cầu của tiêu chuẩn.
+- Công bố ban hành, áp dụng hệ
+  thống văn bản
+BHXH
+  VN
+28/02
+3.2
+Triển khai hướng dẫn ban hành văn
+  bản, áp dụng
+- hướng dẫn các phòng, ban áp
+  dụng một cách đồng bộ Hệ thống văn bản quản lý chất lượng.
+- Các đơn vị và cá nhân liên quan
+  nắm bắt được về cách thức áp dụng hệ thống tài liệu quản lý chất lượng vào
+  hoạt động thực tế.
+- Các thành viên trong Ban chỉ
+  đạo tổ chức theo dõi và kiểm tra thực hiện tại mọi vị trí được tuân thủ theo
+  hệ thống văn bản đã ban hành.
+BHXH
+  VN, Đơn vị tư vấn
+3.3
+Thu thập thông tin phản hồi và
+  hiệu chỉnh văn bản
+Các thông tin phản hồi về sự bất
+  hợp lý của hệ thống tài liệu được tập hợp. Các tài liệu bất hợp lý được chỉnh
+  sửa để phù hợp nhất với thực tế hoạt động song vẫn đáp ứng yêu cầu tiêu chuẩn
+  ISO 9001:2008.
+BHXH
+  VN, Đơn vị tư vấn
+4
+Giai đoạn 4: Đánh giá hệ thống
+4.1
+Đào tạo chuyên gia đánh giá chất
+  lượng nội bộ
+- Đào tạo đội ngũ chuyên gia đánh
+  giá chất lượng nội bộ cho cán bộ chủ chốt của các đơn vị. Đội ngũ này sẽ thực
+  hiện việc đánh giá, giám sát việc áp dụng Hệ thống chất lượng của toàn thể
+  CBCCVC của Tổ chức trong suốt quá trình duy trì áp dụng.
+- Đánh giá chất lượng nội bộ là
+  công cụ hữu hiệu của các nhà Quản lý nhằm tự kiểm tra và hoàn thiện hệ thống
+  chất lượng của chính cơ quan mình. Những người được đào tạo là những cán bộ
+  có năng lực và uy tín trong Tổ chức.
+- Các cán bộ, công chức nắm bắt
+  được các kỹ năng cần thiết để tiến hành các cuộc đánh giá nội bộ của đơn vị
+  mình
+BHXH
+  VN, Đơn vị tư vấn
+4.2
+Lập kế hoạch đánh giá nội bộ
+Kế hoạch đánh giá được thông báo
+  đến các bộ phận, cá  nhân liên quan của từng đơn vị. Đoàn đánh giá thực hiện
+  công tác chuẩn bị theo đúng kế hoạch đã thiết lập
+BHXH
+  VN, Đơn vị tư vấn
+4.3
+Tiến hành đánh giá nội bộ
+Xem xét được tính phù hợp và tính
+  hiệu lực của Hệ thống quản lý chất lượng tại các đơn vị. Thông qua đó phát
+  hiện ra những vấn đề còn chưa phù hợp trong hệ thống, làm cơ sở cho việc tiến
+  hành hành động khắc phục phòng ngừa hoặc các hành động cải tiến.
+BHXH
+  VN, Đơn vị tư vấn
+4.4
+Khắc phục, phòng ngừa sau đánh
+  giá
+Khắc phục được những vấn đề còn
+  chưa phù hợp trong hệ thống quản lý chất lượng, góp phần cho sự thành công
+  của cuộc đánh giá chứng nhận.
+BHXH
+  VN, Đơn vị tư vấn
+4.5
+Họp xem xét của lãnh đạo
+Ban lãnh đạo của các đơn vị nắm
+  bắt được điểm yếu, điểm mạnh trong Hệ thống quản lý chất lượng của đơn vị
+  mình, từ đó đề ra các yêu cầu để cải tiến hệ thống.
+Bảo
+  hiểm XHVN Đơn vị tư vấn
+4.6
+Rà soát trước đánh giá chứng nhận
+Hoàn chỉnh các hồ sơ theo yêu cầu
+  của tiêu chuẩn ISO 9001:2008 cần phải có, phục vụ tốt nhất cho cuộc đánh giá
+  chứng nhận.
+BHXH
+  VN, Đơn vị tư vấn
+15/03
+5
+Giai đoạn 5: Chứng nhận và duy
+  trì, cải tiến hệ thống quản lý chất lượng
+5.1
+Lựa chọn cơ quan chứng nhận
+Lựa chọn được đơn vị chứng nhận
+  có uy tín, được Tổng cục tiêu chuẩn đo lường chất lượng - Bộ Khoa học và Công
+  nghệ cấp phép đủ điều kiện phục vụ công tác đánh giá chứng nhận hệ thống
+BHXH
+  VN
+31/03
+5.2
+Đăng ký đánh giá chứng nhận Hệ
+  thống
+Đơn vị đánh giá chứng nhận tiếp
+  nhận hồ sơ đề nghị đánh giá chứng nhận, lên kế hoạch cho cuộc đánh giá
+BHXH
+  VN
+5.3
+Đánh giá chính thức
+Hệ thống quản lý chất lượng của
+  Tổ chức được đoàn đánh giá của cơ quan chứng nhận tiến hành đánh giá. Nêu lên
+  những điểm mạnh điểm yếu của hệ thống, đưa ra các điểm không phù hợp và các
+  khuyến nghị cải tiến cho các đơn vị
+Cơ
+  quan chứng nhận
+5.4
+Khắc phục sau đánh giá chính thức
+  (nếu có)
+Hoàn thành việc khắc phục những
+  sự không phù hợp do cơ quan chứng nhận phát hiện và kiến nghị khắc phục và
+  nộp hồ sơ khắc phục cho cơ quan đánh giá chứng nhận chấp nhận
+BHXH
+  VN, Đơn vị Tư vấn
+5.5
+Tổ chức lễ đón nhận chứng chỉ
+- Tổ chức đón nhận chứng chỉ và
+  công bố Hệ thống;
+- Báo cáo kết quả thực hiện và
+  nghiệm thu dự án.
+BHXH
+  VN
+5.6
+Duy trì hệ thống và Cải tiến hệ
+  thống
+- Tổ chức đánh giá nội bộ thường
+  kỳ 6 tháng/lần.
+- Khắc phục những điểm không phù
+  hợp phát sinh trong các lần giám sát của tổ chức chứng nhận;
+- Đào tạo, tập huấn bổ sung đối
+  với những bộ phận còn yếu về vận hành hệ thống và cán bộ mới.
+- Thực hiện cải tiến hệ thống
+  theo hướng đơn giản và hiệu quả hơn;
+- Nghiên cứu bổ sung các quy
+  trình mới vào quản lý theo tiêu chuẩn ISO
+BHXH
+  VN
+Thực hiện duy trì và cải tiến
+  liên tục sau khi được cấp giấy chứng chỉ
+III. KINH PHÍ
+THỰC HIỆN
+Kinh phí thực hiện xây dựng và áp
+dụng hệ thống quản lý chất lượng TCVN ISO 9001:2008 được thực hiện theo Thông
+tư số
+159/2010/TT-BTC ngày 15/10/2010
+của Bộ Tài chính về hướng dẫn công
+tác quản lý tài chính đối với việc áp dụng hệ thống quản lý chất lượng theo
+tiêu chuẩn TCVN ISO 9001:2008 vào hoạt động của các cơ quan hành chính nhà
+nước.
+Dự toán chi phí thực hiện tại cơ
+quan Bảo hiểm xã hội trong giai đoạn 1 bao gồm:
+Thuê Công ty tư vấn
+80.000.000
+  đ
+Chi phí đánh giá chứng nhận
+15.000.000
+  đ
+Chi phí xây dựng mô hình khung
+  (thuê đơn vị tư vấn)
+10.000.000
+  đ
+Chi cho hoạt động do cơ quan hành
+  chính thực hiện
+100.000.000
+  đ
+Chi phí đánh giá giám sát
+15.000.000
+  đ
+Chi phí duy trì
+12.000.000
+  đ
+Chi phí đánh giá lại
+17.000.000
+  đ
+Tổng kinh phí
+249.000.000đ
+(Hai
+  trăm bốn mươi chín triệu đồng chẵn)
+Văn phòng Bảo hiểm xã hội Việt Nam
+có trách nhiệm dự toán, thực hiện thanh quyết toán theo đúng quy định./.
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

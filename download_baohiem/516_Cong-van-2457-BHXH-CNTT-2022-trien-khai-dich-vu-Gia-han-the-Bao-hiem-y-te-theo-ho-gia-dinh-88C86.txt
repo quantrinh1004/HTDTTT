@@ -1,0 +1,330 @@
+BẢO HIỂM
+  XÃ HỘI VIỆT NAM
+-------
+CỘNG HÒA
+  XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+  2457/BHXH-CNTT
+V/v triển khai dịch vụ Gia hạn thẻ BHYT
+  theo hộ gia đình (có giảm trừ mức đóng)
+Hà Nội
+, ngày
+  08 tháng 09 năm 2022
+Kính gửi:
+- Các
+  đơn vị trực thuộc Bảo hiểm xã hội Việt Nam;
+- Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương.
+(Sau đây gọi chung là các đơn vị)
+Thực hiện
+Quyết định số 06/QĐ-TTg ngày 06/01/2022 của Thủ tướng Chính phủ phê duyệt Đề án
+phát triển ứng dụng dữ liệu dân cư, định danh và xác thực điện tử phục vụ
+chuyển đổi số quốc gia giai đoạn 2022 - 2025, tầm nhìn đến năm 2030 (sau đây
+gọi tắt là Đề án 06);
+Căn cứ
+Quyết định số 123/QĐ-BHXH ngày 28/01/2022 của Tổng Giám đốc BHXH Việt Nam ban
+hành Kế hoạch của BHXH Việt Nam triển khai Đề án 06; Quyết định số 1187/QĐ-BHXH
+ngày 24/5/2022 của BHXH Việt Nam về việc ban hành quy trình giảm trừ mức đóng
+trong gia hạn thẻ Bảo hiểm y tế (BHYT) theo hộ gia đình trên Cổng Dịch vụ công
+(DVC); Quyết định số 1231/QĐ-BHXH ngày 02/06/2022 của BHXH Việt Nam về việc ban
+hành DVC trực tuyến Gia hạn thẻ BHYT theo hộ gia đình tích hợp giảm trừ mức
+đóng trên Cổng DVC; BHXH Việt Nam đã hoàn thành kết nối liên thông với CSDL
+quốc gia về dân cư để sử dụng dịch vụ xác thực thông tin hộ gia đình; kết nối
+với Nền tảng thanh toán quốc gia (Payment Platform) để triển khai dịch vụ thanh
+toán với các ngân hàng, trung gian thanh toán; nâng cấp, điều chỉnh phần mềm để
+triển khai dịch vụ Gia hạn thẻ BHYT theo hộ gia đình (có giảm trừ mức đóng) tích
+hợp trên Cổng DVC BHXH Việt Nam và Cổng DVC quốc gia
+(Hướng dẫn sử dụng chi tiết
+tại Phục lục kèm theo Công văn).
+Nhằm đẩy
+mạnh việc thực hiện DVC trực tuyến, thanh toán trực tuyến, BHXH Việt Nam đề
+nghị Thủ trưởng các đơn vị trực thuộc BHXH Việt Nam, Giám đốc BHXH các tỉnh,
+thành phố trực thuộc Trung ương (gọi tắt là BHXH tỉnh) triển khai một số nội
+dung sau:
+1. Trung
+tâm Truyền thông, BHXH tỉnh: Đẩy mạnh các hoạt động truyền thông nhằm giới
+thiệu, hướng dẫn người dân thực hiện dịch vụ Gia hạn thẻ BHYT theo hộ gia đình
+(có giảm trừ mức đóng) trên Cổng DVC BHXH Việt Nam và Cổng DVC quốc gia.
+2. Trung
+tâm Dịch vụ hỗ trợ, chăm sóc khách hàng (CSKH): Cập nhật, phổ biến các quy
+định, hướng dẫn triển khai dịch vụ Gia hạn thẻ BHYT theo hộ gia đình (có giảm
+trừ mức đóng) cho công chức, viên chức và nhân viên chăm sóc khách hàng để chủ
+động trong việc tư vấn, hỗ trợ người dân; tổng hợp các phản ánh, vướng mắc của
+người dân, chuyển các đơn vị liên quan xử lý.
+3. Ban
+Quản lý Thu - Sổ, Thẻ, Trung tâm Công nghệ thông tin (CNTT) và các đơn vị liên
+quan căn cứ chức năng, nhiệm vụ được giao, phối hợp với Trung tâm Truyền thông,
+Trung tâm CSKH và BHXH tỉnh kịp thời xử lý phản ánh, vướng mắc trong quá trình
+triển khai dịch vụ Gia hạn thẻ BHYT theo hộ gia đình (có giảm trừ mức đóng).
+Trong quá
+trình triển khai, nếu có vướng mắc, đề nghị liên hệ về BHXH Việt Nam (qua Trung
+tâm CNTT) để được hướng dẫn và phối hợp xử lý./.
+Nơi nhận:
+-
+  Như trên;
+- Tổng Giám đốc (để b/c);
+- Các Phó Tổng Giám đốc;
+- Cục KSTT (VPCP);
+- Cục C06 (BCA);
+- Lưu: VT, CNTT
+.
+KT. TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Đào Việt Ánh
+PHỤ LỤC I
+HƯỚNG DẪN GIA HẠN THẺ
+BHYT HỘ GIA ĐÌNH CÓ GIẢM TRỪ MỨC ĐÓNG QUA CỔNG DỊCH VỤ CÔNG BẢO HIỂM XÃ HỘI
+VIỆT NAM VÀ CỔNG DỊCH VỤ CÔNG QUỐC GIA
+(Ban hành kèm theo công văn số 2457/BHXH-CNTT ngày 08 tháng 09 năm 2022
+của
+Bảo hiểm xã hội Việt Nam)
+1.
+Thực hiện trên Cổng Dịch vụ công BHXH Việt Nam
+Bước 1:
+Để thực
+hiện Gia hạn thẻ BHYT theo hộ gia đình có giảm trừ mức đóng, thực hiện mở một
+trình duyệt bất kỳ, truy cập theo đường dẫn sau:
+https://dichvucong.baohiemxahoi.gov.vn.
+Bước 2:
+Trên màn
+hình đăng nhập, người dùng nhập các thông tin yêu cầu đăng nhập, sau đó chọn: “
+Đăng
+nhập
+”.
+Hình 1. Màn hình đăng nhập hệ thống
+Bước 3:
+Sau khi
+đăng nhập thành công, màn hình hiển thị như sau:
+Hình 2. Màn hình hiển thị sau khi đăng nhập Cổng dịch vụ
+công thành công
+Tiếp theo,
+chọn mục “
+ĐÓNG BHXH ĐIỆN TƯ”
+, Sau đó chọn: “
+Gia hạn thẻ BHYT theo HGĐ
+có giảm trừ
+”, màn hình hiển thị để nhập thông tin gia hạn thẻ BHYT như sau:
+Hình 3. Màn hình nhập thông tin gia hạn thẻ BHYT
+Bước 4:
+Nhập thông tin thành viên hộ gia đình và thông tin gia hạn thẻ
+- Nhập
+thông tin chủ hộ:
+Yêu cầu nhập số định danh, họ và tên, ngày
+tháng năm sinh và giới tính.
+Hình 4. Màn hình nhập thông tin chủ hộ
+- Nhập
+thông tin các thành viên:
+Chỉ nhập số định danh
+Để thêm
+thành viên hộ gia đình, chọn: “
+Thêm thành viên HGĐ
+”, sau đó nhập số định
+danh của thành viên:
+Hình 5. Màn hình số định danh của thành viên hộ gia đình
+- Nhập
+thông tin thẻ BHYT:
+Chọn số tháng cần gia hạn thẻ BHYT
+Hình 6. Màn hình chọn số tháng cần gia hạn
+Bước 5:
+Xác thực thông tin
+Thực hiện
+nhập đầy đủ thông tin yêu cầu, chọn: “
+Xác nhận
+” để xác thực thông tin:
+Hình 7. Màn hình xác thực thông tin
+- Trường
+hợp xác thực thông tin các thành viên trong cơ sở dữ liệu quốc gia về dân cư
+không cùng đăng ký thường Trú hoặc không cùng đăng ký tạm trú:
++
+Nếu thông
+tin về chủ hộ không tồn tại, khi xác thực hệ thống sẽ thông báo:
+Hình 7. Màn hình xác thực thông tin
++ Nếu các
+thành viên không cùng địa chỉ thường trú hoặc không cùng địa chỉ tạm trú trong
+CSDL quốc gia về dân cư, khi xác thực hệ thống sẽ thông báo:
+- Trường
+hợp xác thực thông tin các thành viên trong cơ sở dữ liệu quốc gia
+về dân
+cư cùng đăng ký thường trú hoặc cùng đăng ký tạm trú:
+Nếu các
+thông tin: Thông tin chủ hộ; thông tin các thành viên; các thành viên tham gia
+thuộc đối tượng tham gia BHYT theo hộ gia đình; thông tin về thẻ BHYT của các
+thành viên; các thành viên đề nghị gia hạn thẻ BHYT tham gia ở cùng một cơ quan
+BHXH được xác thực là đúng, màn hình hiển thị thông tin như sau:
++ Thông
+tin tham gia BHYT của từng thành viên: số định danh, họ tên, số tháng gia hạn,
+hạn thẻ BHYT hiện tại.
++ Số tiền
+phải đóng để gia hạn thẻ BHYT theo hộ gia đình
+Hình 8. Màn hình xác thực thông tin thành công
+Bước 6.
+Chọn ngân hàng thụ hưởng của cơ quan BHXH
+Sau khi
+xác thực thông tin thành công, chọn: “
+ngân hàng thụ hưởng của cơ quan BHXH
+”,
+sau đó chọn: “
+Thanh toán
+” để chuyển sang
+Bước 7
+Hình 9. Chọn ngân hàng thụ hưởng của cơ quan BHXH
+Bước 7.
+Thanh toán
+Sau khi
+chọn: “
+Thanh toán
+” tại
+Bước 6
+, màn hình hiển thị danh sách Ngân
+hàng và Trung gian thanh toán. Người dùng có thể một trong hai hình thức thanh
+toán.
+Bước 7.1.
+Thanh toán qua Trung gian thanh toán
+Sau khi
+chọn:
+“Thanh toán”
+tại
+Bước 6,
+Thực hiện chọn: “
+các ngân hàng
+khác qua VNPT money
+” theo màn hình dưới đây:
+Hình 10. Chọn trung gian thanh toán
+Bước
+7.1.1. Chọn Ngân hàng thanh toán
+Sau khi
+chọn: “
+THANH TOÁN
+” tại
+Bước 7.1
+, thực hiện chọn một Ngân hàng sau
+đó chọn:
+“THANH TOÁN”
+Hình 11. Chọn ngân hàng thanh toán
+Bước
+7.1.2. Chọn phương thức thanh toán
+Sau khi
+chọn: “
+THANH TOÁN
+” tại
+Bước 7.1.1
+, màn hình hiển thị như sau:
+Hình 12. Màn hình lựa chọn phương thức thanh toán
+Thực hiện
+chọn: “
+Tiếp tục
+” để chuyển sang
+Bước 7.1.3
+Bước
+7.1.3. Nhập thông tin thanh toán
+Thông tin
+thanh toán: chọn thẻ ngân hàng, nhập vào số thẻ, sau đó chọn:
+“Thanh
+Toán”
+Hình 13. Nhập thông tin về tài khoản thanh toán
+Bước
+7.1.4. Thông báo kết quả thanh toán
+Sau khi
+chọn: “
+Thanh Toán
+” tại
+Bước 7.1.3
+- Nếu
+thông tin thanh toán không đúng, hệ thống thanh toán sẽ thông báo như sau:
+Hình 14. Màn hình thông báo thanh toán thất bại
+- Nếu
+thông tin thanh toán được xác thực là đúng, hệ thống thanh toán sẽ thông báo
+như sau:
+Hình 15. Thông báo thanh toán thành công
+Bước
+7.1.5. In biên lai
+Sau khi
+thanh toán thành công, người dùng có thể thực hiện in biên lai bằng cách chọn:
+“
+In biên lai
+” màn hình hiển thị như sau:
+Hình 16. Biên lai thanh toán
+Bước 7.2.
+Thanh toán qua Ngân hàng
+Sau khi
+chọn:
+“Thanh toán”
+tại
+Bước 6,
+Thực hiện chọn một Ngân hàng,
+chọn: “
+Thanh toán
+”
+Hình 17. Chọn ngân hàng để thanh toán
+Bước
+7.2.1. Chọn hình thức giao dịch của Ngân hàng
+Sau
+khi chọn: “
+THANH TOÁN
+” tại
+Bước 7.2
+, màn hình hiển thị như sau:
+Hình 19.Màn hình yêu cầu đăng nhập tài khoản ngân hàng
+Hệ thống
+thanh toán của Ngân hàng yêu cầu nhập số điện thoại và mật khẩu của tài khoản
+để thanh toán.
+Bước
+7.2.2. Chọn tài khoản thanh toán
+Nếu đăng
+nhập thành công, hệ thống yêu cầu chọn tài khoản và chấp nhận quy định thanh
+toán để xác nhận thanh toán
+Hình 20. Màn hình lựa chọn tài khoản và xác nhận thanh
+toán
+Bước
+7.2.3. Xác nhận thông tin thanh toán
+Sau khi
+chọn: “
+Xác nhận
+” tại
+Bước 7.2.2
+, hệ thống yêu cầu nhập mã OTP để
+xác thực thanh toán
+21. Màn hình yêu cầu nhập mã OTP để xác thực
+Bước
+7.2.4. Thông báo kết quả thanh toán
+Sau khi
+chọn: “
+Xác nhận
+” tại
+Bước 7.2.3
+. Nếu xác nhận thành công, hệ
+thống sẽ thông báo thanh toán thành công như sau:
+22. Màn hình thông báo thanh toán thành công
+Bước
+7.2.5. In biên lai
+Sau khi
+thanh toán thành công, người dùng có thể thực hiện in biên lai bằng cách chọn:
+“
+In biên lai
+”
+Hình 23. Biên lai thanh toán
+2.
+Thực hiện trên Cổng Dịch vụ công Quốc gia
+Bước 1:
+Để thực
+hiện Gia hạn thẻ BHYT theo hộ gia đình có giảm trừ mức đóng, thực hiện mở một
+trình duyệt bất kỳ, truy cập theo đường dẫn sau: https://dichvucong.gov.vn
+Bước 2:
+Trên màn
+hình đăng nhập, người dùng nhập các thông tin yêu cầu đăng nhập, sau đó chọn: “
+Đăng
+nhập
+”
+Hình 1. Màn hình đăng nhập hệ thống
+Bước 3:
+Sau khi
+đăng nhập thành công, màn hình hiển thị như sau:
+Các bước:
+Bước 4, Bước 5, Bước 6, Bước 7 Thực hiện như trên Cổng
+Dịch
+vụ công BHXH Việt Nam.
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

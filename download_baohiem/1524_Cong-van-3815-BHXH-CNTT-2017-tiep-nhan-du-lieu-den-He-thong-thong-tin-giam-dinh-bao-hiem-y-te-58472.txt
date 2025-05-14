@@ -1,0 +1,477 @@
+BẢO HIỂM XÃ HỘI
+  VIỆT NAM
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+3815/BHXH-CNTT
+V/v tiếp nhận dữ liệu đến Hệ thống thông tin
+  giám định bảo hiểm y tế.
+Hà Nội
+, ngày
+30
+tháng
+8
+năm
+2017
+Kính
+  gửi:
+- Bảo hiểm x
+ã
+hội
+  các t
+ỉ
+nh, thành phố trực thuộc Trung ương;
+- Bảo hiểm xã hội Bộ Quốc phòng;
+- Bảo hi
+ể
+m xã hội Công an Nhân dân.
+(Sau đây gọi chung là BHX
+H
+các tỉnh)
+Căn cứ Quyết định số 917/QĐ-B
+H
+XH ngày 20/6/2016, Quyết định số 595/QĐ-BHXH ngày 14/4/2017 của Tổng
+Giám đốc BHXH Việt Nam và Công văn số 3440/BHXH-ST ng
+à
+y 08/8/2017
+của B
+ả
+o hiểm xã hội Việt Nam. Bảo hiểm xã hội Việt Nam đã
+bổ sung hàm tra cứu lịch sử khám chữa bệnh với mục đích hỗ
+tr
+ợ cơ sở y tế tự động tra cứu thông tin của thẻ bảo hiểm y tế (BHYT) với
+giá trị đầu ra là các thông tin liên quan đến cá nhân người tham gia BHYT trên
+thẻ và giá trị sử dụng của th
+ẻ
+BHYT, để góp phần đ
+ẩ
+y nhanh ứng dụng công nghệ thông tin trong công tác tổ chức khám chữa bệnh
+cho người tham gia BHYT và góp phần cải cách thủ tục hành chính theo Nghị quyết
+36a/NQ-CP của Chính phủ
+(hướng dẫn chi tiết tại phụ lục kèm theo).
+Đề nghị BHXH các t
+ỉ
+nh thông báo đến các cơ sở y tế có ký hợp đồng khám chữa bệnh với cơ
+quan BHXH để các cơ sở y tế chủ động trong việc điều ch
+ỉ
+nh
+phần mềm qu
+ả
+n lý tại bệnh viện. Trong quá trình thực hiện,
+nếu có vướng mắc kịp thời báo cáo về BHXH Việt Nam để xem xét, giải quyết
+./.
+Nơi nhận:
+- Như trên;
+- Bộ Y tế (
+đ
+ể p/h);
+- Tổng Giám đốc (để b/c);
+- Các Phó Tổng Giám đốc;
+- Các đơn vị
+: BT
+, CSYT, PC, VP, TT, ST,
+GĐB, GDN
+;
+- Lưu: VT, CNTT.
+KT. TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Phạm Lương Sơn
+PHỤ LỤC
+(Kèm
+theo công văn
+số 3815/BHXH-CNTT ngày 30 tháng 8 năm 2017 của BHXH Việt
+Nam)
+Bổ sung hàm kiểm tra lịch s
+ử
+khám chữa bệnh
+1. Mô tả
+Request URL
+HMAC
+http://e
+g
+w.baohiemxa
+h
+oi.
+g
+ov.vn/
+api
+/e
+g
+w/K
+Q
+NhanLichSuKCB595
+Request Method
+POST
+Request Header
+Content-Type: application/json
+Query Parameters
+token= {token}
+  &id_token={id_token} &use
+n
+ame=
+  {username}&password={password}
+(Tham khảo mục 2)
+Fo
+rm
+data
+Đối tượng “
+the
+BHYT”
+  bao gồm
+{
+“
+ma
+The”: { mã
+  thẻ },
+“hoT
+e
+n”: { họ
+  tên },
+“ngaySinh”: { ngày sinh },
+“gioiTinh”: { giới tính },
+“maCSKCB”: { mã cơ sở khám chữa bệnh
+  },
+‘‘ngayBD”: { ngày bắt
+đ
+ầu },
+“
+ngayKT”: { ngày kết thúc }
+}
+(Tham khảo mục 2)
+Cơ sở khám chữa bệnh ki
+ể
+m
+tr
+a tính đúng đ
+ắ
+n của thông
+tin thẻ của bệnh nhân.
+2. Thông điệp yêu cầu
+Dữ liệu đầu vào
+Tên Field
+Kiểu dữ liệu
+Ghi
+  chú
+Mã thẻ
+maThe
+Chuỗi ký tự
+M
+ã
+th
+ẻ
+H
+ọ tên
+hoTen
+Chuỗi ký tự
+Họ tên chủ thẻ
+Ngày sinh
+ngaySinh
+Chuỗi ký tự
+Ngày sinh (DD/MM/YYYY)
+Giới tính
+gioiTinh
+Số
+1: Nam ; 2: Nữ
+Ngày bắt
+đ
+ầu
+ngayBD
+Chuỗi ký tự
+Ngày bắt đ
+ầ
+u hạn
+  thẻ (DD/MM/YYYY)
+Ngày kết thúc
+ngayKT
+Chuỗi ký tự
+Ngày kết thúc h
+ạ
+n thẻ (DD/MM/YYYY)
+Mã CSKCB
+maCSKCB
+Chuỗi ký tự
+M
+ã
+CSKCB ban đầu
+Tên đăng nhập
+username
+Chuỗi ký t
+ự (an 5)
+Tài khoản đăng nhập
+Mật khẩu
+password
+Chuỗi k
+ý
+tự
+  (an 6.. 10)
+Mật khẩu đ
+ă
+ng
+  nhập
+Token
+token
+Chuỗi ký tự
+Token được trả về từ trước
+TokenlD
+id
+_
+token
+Chuỗi ký tự
+Token ID
+đ
+ược
+  tr
+ả
+về ở h
+à
+m trước
+3. Thông điệp trả l
+ờ
+i
+Cấu trúc:
+- Header status:
+- Header Content-Type:application/json;charset=UTF-8
+- Json data
+Trong
+đ
+ó
+- Có hai khả năng đối với thông điệp
+trả lời: Trường hợp có lỗi trong quá trình xử lý hoặc trường hợp xử lý thành
+công.
+- Trường hợp lỗi: Xem danh mục lỗi sẽ
+được gửi trả lại.
+Trườ
+ng
+Kết quả
+Header status:401
+Unauthorized:
+Lỗi không
+đ
+ược xác thực
+Header status:500
+An unexpected error occurred
+- Trường h
+ợ
+p thành công:
+Hệ th
+ố
+ng trả
+về:
+Trường
+Kết quả
+Header status
+200
+Header Content-Type
+application/json;charset=UTF-8
+Json data
+Tr
+ả
+về là một
+  object bao gồm các thuộc t
+í
+nh sau:
++
+m
+aKetQua: Trả
+  về m
+ã
+kết quả giao dịch (Thành công, lỗi)
++ hoTen: Họ tên ch
+ủ
+th
+ẻ
++ gioiTinh: Giới t
+í
+nh chủ thẻ
++ diaChi: Địa chỉ ch
+ủ
+thẻ
++
+ma
+DKBD: Mã
+  đăng ký KCB Ban
+đ
+ầu của chủ th
+ẻ
++ cqBHXH: Cơ quan BHXH quản lý thu
+  BHYT
++ gtTheTu: Giá trị thẻ từ
++
+gt
+Th
+e
+Den: Giá trị th
+ẻ đế
+n
++ maKV: Mã khu vực
++ ngayDu5Nam: Ngày
+đủ
+05 năm liên tục
++ dsLichSuKCB: Danh sách object, mỗi
+  object bao gồm (= null nếu thông tin th
+ẻ
+chính xác)
+{
+-
+maHoSo: mã hồ sơ,
+để
+tra cứu thông tin chi tiết
+-
+maCSKCB: mã cơ sở khám chữa bệnh
+,
+- tuNgay: từ ngày
+,
+-
+denNgay:
+đ
+ến
+  ngày,
+- tenBenh:
+t
+ên
+  bệnh,
+- t
+inhTrang: tình trạng ra viện,
+-
+kqDieuTri: kết quả điều trị
+}
+Mô tả kết quả trả về:
+Mã kết quả
+Mô tả
+000
+Thông tin th
+ẻ
+chính xác
+001
+Th
+ẻ
+do BHXH Bộ
+  Quốc Phòng quản lý,
+đ
+ề nghị kiểm tra th
+ẻ
+và thông tin giấy
+t
+ờ tùy thân
+002
+Th
+ẻ
+do BHXH Bộ
+  C
+ô
+ng An quản lý, đề nghị kiểm tra th
+ẻ
+và thông tin giấy tờ tùy thân
+010
+Th
+ẻ
+hết giá trị
+  sử dụng
+051
+Mã th
+ẻ
+không
+  đúng
+052
+Mã t
+ỉ
+nh cấp
+th
+ẻ(kí tự thứ 4
+,
+5 của
+m
+ã thẻ)
+  không đúng
+053
+Mã quy
+ề
+n l
+ợ
+i thẻ(kí tự th
+ứ
+3 của m
+ã
+thẻ)
+  không
+đú
+ng
+050
+K
+ho
+ng thay
+  thong tin the bhyt
+060
+Th
+ẻ
+sai họ tên
+061
+Thẻ sai họ tên(đúng kí tự
+đ
+ầu)
+070
+Thẻ sai ng
+à
+y
+  sinh
+080
+Thẻ sai giới tính
+090
+Th
+ẻ
+sai nơi
+đ
+ăng ký KCB ban
+đ
+ầu
+100
+Lỗi khi l
+ấ
+y
+d
+ữ l
+i
+ệu s
+ổ
+th
+ẻ
+101
+Lỗi server
+110
+Th
+ẻ
+đã thu hồi
+120
+Thẻ đã báo giảm
+121
+Thẻ đã báo giảm. Giảm chuyển ngoại
+  t
+ỉ
+nh
+1
+22
+Th
+ẻ
+đã báo giảm.
+  Giảm chuyển nội
+tỉ
+nh
+123
+Thẻ đã báo giảm. Thu h
+ồ
+i do tăng lại cùng đơn v
+ị
+124
+Thẻ đã báo giảm. Ngừng tham gia
+130
+Tr
+ẻ
+em không
+  xuất trình thẻ
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

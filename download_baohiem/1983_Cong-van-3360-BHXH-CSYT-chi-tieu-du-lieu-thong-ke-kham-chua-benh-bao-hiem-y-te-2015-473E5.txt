@@ -1,0 +1,583 @@
+BẢO HIỂM XÃ HỘI
+  VIỆT NAM
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+3360
+/BHXH-CSYT
+V/v sửa đổi, bổ sung chỉ tiêu dữ liệu
+  thống kê khám, chữa bệnh BHYT
+Hà
+  Nội, ngày
+04
+tháng
+09
+năm 2015
+Kính
+  gửi:
+- Bảo
+hiểm xã hội các tỉnh, thành
+  phố trực thuộc Trung ương;
+- Bảo
+hiểm xã hội Bộ Quốc phòng;
+- Trung tâm Giám định BHYT và Thanh toán đa tuyến khu vực phía Bắc;
+- Trung tâm Giám định BHYT và Thanh toán đa tuyến khu vực phía Nam.
+Để
+đồng bộ dữ liệu toàn quốc phục vụ
+yêu cầu quản lý và thanh toán bảo hiểm y tế, Bộ Y tế đã quy định các chỉ tiêu dữ
+liệu đầu ra ban hành theo Công văn số 2348/BYT-BH ngày 10/4/2015. Bảo hiểm xã hội
+(BHXH) Việt Nam hướng dẫn BHXH các tỉnh, thành phố trực thuộc Trung ương, BHXH
+Bộ Quốc phòng, Trung tâm Giám định BHYT và Thanh toán đa tuy
+ế
+n khu vực phía B
+ắ
+c, Tr
+u
+ng tâm
+Giám định BHYT và Thanh toán đa tuyến khu vực phía Nam (sau đây gọi chung là BH
+XH
+các tỉnh) bổ sung, điều chỉnh định dạng file dữ liệu th
+ố
+ng kê khám chữa bệnh BHYT từ quý III năm 2015 như sau:
+1. Điều chỉnh, bổ sung các chỉ tiêu
+và định dạng
+fi
+le dữ liệu lập c
+á
+c bi
+ể
+u C79a-HD, C80a-HD, C79
+b
+-HD, C80b-HD ban hành theo
+Thông tư số 178/2012/TT-BTC ngày 23/10/2012 của Bộ Tài chính theo các chỉ tiêu
+tại các Bảng ban hành kèm theo Công văn s
+ố
+2348/BYT-BH nêu
+trên (chi ti
+ế
+t tại Phụ lục kèm theo).
+2. Các file dữ liệu sử dụng font chữ
+Unicode. Tên file được ghi theo nguyên tắc: số hiệu báo cáo + 5 ký tự mã cơ sở
+khám, chữa bệnh (ho
+ặ
+c 02 k
+ý
+tự mã tỉnh
+đối với dữ liệu gửi về BHXH Việt Nam) + 4 ký tự năm + 2 ký tự tháng (hoặc 01 ký
+tự quý đối với dữ liệu gửi về BHXH Việt Nam), phân cách bằng dấu “
+_
+”
+,
+ví dụ dữ liệu theo mẫu 79a-HD của tháng 1 năm
+2015 tại cơ sở khám, chữa bệnh có mã 01001 được ghi là: 79a_01001_2015_01.
+3. BHXH các tỉnh thống nhất với các
+cơ sở khám, chữa bệnh BHYT kết xuất dữ liệu thống kê chi phí khám bệnh, chữa bệnh
+BHYT theo hướng dẫn tại điểm 1 và 2 nêu trên, quản lý tập trung dữ liệu tại tỉnh
+và tổng hợp dữ liệu gửi về BHXH Việt Nam theo đúng quy định tại
+khoản
+3, Điều 15 Quyết định số 1399/QĐ-BHXH
+ngày 22/12/2014 của Tổng Giám đốc
+BHXH Việt Nam.
+Yêu c
+ầ
+u BHXH các
+t
+ỉ
+nh khẩn trương thực hiện, nếu có vướng mắc kịp thời báo
+cáo BHXH Việt Nam để hướng dẫn giải quyết./.
+Nơi nhận:
+- Như trên;
+- Tổng Giám đốc (để b/c);
+- Các Phó Tổng Giám đốc;
+- Các Ban: DVT, TCKT, CNTT;
+- Lưu: VT, CSYT (05b).
+KT. TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Nguyễn Minh Thảo
+PHỤ LỤC:
+QUY ƯỚC
+ĐỊNH DẠNG FILE DỮ LIỆU BIỂU C79B-HD VÀ C80B-HD
+(ban hành kè
+m
+theo Công v
+ăn
+số: 3360
+/BHXH-CSYT ngày
+04
+/9/2015
+của Bảo hiểm xã hội Việt Nam)
+STT
+Chỉ
+  tiêu
+Kiểu
+  dữ liệu
+Kích
+  thước tối đa
+Ghi
+  ch
+ú
+(A)
+(B)
+(C)
+(D)
+(E)
+1
+STT
+S
+ố
+6
+S
+ố
+thứ t
+ự
+b
+ệ
+nh nhân t
+ừ
+1 đến hết
+2
+ma
+_
+bn
+chu
+ỗ
+i
+15
+Mã s
+ố
+BN quy định
+  tại CSKCB
+3
+ho
+_
+ten
+Chu
+ỗ
+i
+255
+Họ tên ng
+ườ
+i bệnh
+  viết bằng chữ th
+ườ
+ng.
+4
+ngay_sinh
+Chuỗi
+8
+Ngày sinh ghi trên thẻ g
+ồ
+m 8 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày (nếu không có
+  ngày sinh thì ghi năm sinh: 4 ký t
+ự
+)
+5
+gioi_tinh
+S
+ố
+1
+Giới tính: mã hóa bằng 1 chữ số
+  (Nam = 1, Nữ = 2)
+6
+dia
+_
+chi
+Chuỗi
+255
+Địa chỉ trên thẻ BHYT, đ
+ố
+i với trẻ em không có thẻ ghi đầy đủ địa chỉ trên giấy tờ thay thế (tối
+  thiểu phải có địa chỉ về xã, huyện, tỉnh của trẻ).
+7
+ma_the
+Chuỗi
+15
+Mã thẻ BHYT do cơ quan BHXH cấp,
+  không thay đổi, không thêm b
+ớ
+t các ký tự
+8
+ma
+_
+dkbd
+Chu
+ỗ
+i
+6
+Mã cơ sở KCB ban đ
+ầ
+u, ghi đúng 5 ký tự trên thẻ BHYT
+9
+gt_the_tu
+Chuỗi
+8
+Thời điểm thẻ có giá trị gồm 8 ký tự;
+  4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày. Ví dụ: ngày 30/04/2015 được hiển
+  thị là 20150430
+10
+gt
+_
+the
+_
+den
+Chuỗi
+8
+Thời đ
+i
+ểm thẻ
+  h
+ế
+t giá trị gồm 8 ký tự; 4 ký tự năm + 2 ký tự tháng + 2
+  ký tự ngày. Ví dụ: ngày 31/05/2015 đ
+ư
+ợc hi
+ể
+n thị là 20150531
+11
+ma
+_
+benh
+Chu
+ỗ
+i
+5
+Mã bệnh chính được mã hóa theo ICD
+  X
+12
+ma_benhkhac
+Chuỗi
+30
+Mã bệnh khác mã hóa theo ICD X, nếu
+  có nhiều mã ICD thì mỗi mã đuợc phân cách bằng ký tự
+“;”
+13
+ma_lydo_
+vv
+ien
+Số
+1
+Mã hóa lý do đến khám bệnh: 1 =
+  đúng tuyến; 2 = cấp cứu; 3 = trái tuyến
+14
+m
+a_noi_chuyen
+Số
+1
+Mã cơ sở KCB chuyển ng
+ườ
+i bệnh đến (Mã do cơ quan BHXH cấp)
+15
+ngay
+_
+vao
+Chuỗi
+12
+Th
+ờ
+i gian đến khám
+  hoặc nhập viện theo ngày giờ; gồm 12 ký tự; 4 ký tự năm + 2 ký tự tháng + 2
+  ký tự ngày + 2 ký tự giờ (24 giờ) + 2 ký tự phút.
+Ví dụ: ngày 30/06/2015 08:20 đ
+ượ
+c hiển th
+ị
+là 201506300820
+16
+ngay_ra
+Chuỗi
+12
+Ngày giờ ra viện; g
+ồ
+m 12 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày + 2 ký tự giờ
+  (24 giờ) + 2 ký tự phút.
+Ví dụ: ngày 31/07/2015 16:20 được
+  hi
+ể
+n th
+ị
+là 201507311620
+17
+so
+_
+ngay
+_
+dtri
+Số
+3
+Số ngày điều trị trong đ
+ợ
+t KCB ngoại trú hoặc nằm viện nội trú (= ngày ra - ngày vào). Trường
+  h
+ợ
+p điều trị nội trú nhưng có một số ngày không nằm viện
+  thì tính theo ngày nằm viện thực tế
+18
+ket_qua_dtri
+S
+ố
+1
+Kết quả điều trị: Mã hóa (1: Khỏi; 2:
+  Đỡ; 3: Không thay đổi; 4: Nặng h
+ơ
+n; 5: Tử vong)
+19
+tinh
+_
+trang
+_
+rv
+Số
+1
+Tình trạng ra viện: Mã hóa (1: Ra
+  viện; 2: Chuyển viện; 3: Trốn viện; 4: Xin ra viện)
+20
+t
+_
+tongchi
+S
+ố
+15
+T
+ổ
+ng chi phí
+  KCB BHYT trong l
+ầ
+n/đợt đi
+ề
+u trị
+21
+t
+_
+xn
+S
+ố
+15
+Ti
+ề
+n xét nghiệm
+22
+t
+_
+cdha
+S
+ố
+15
+Ti
+ề
+n ch
+ẩ
+n đoán hình ảnh và thăm dò chức năng
+23
+t
+_
+thuoc
+S
+ố
+15
+Tiền thuốc và dịch truyền
+24
+t_mau
+S
+ố
+15
+Tiền máu và ch
+ế
+ph
+ẩ
+m của máu
+25
+t_pttt
+S
+ố
+15
+Tiền phẫu thuật và thủ thuật
+26
+t_vtyt
+S
+ố
+15
+Tiền vật tư y t
+ế
+27
+t_dvkt_tyle
+S
+ố
+15
+Tiền dịch vụ kỹ thuật thanh toán
+  theo tỷ lệ
+28
+t_thuoc_tyle
+S
+ố
+15
+Tiền thuốc thanh toán theo tỷ lệ
+29
+t_vtyt_tyle
+S
+ố
+15
+Tiền vật tư y tế thanh toán theo tỷ
+  lệ
+30
+t_kham
+S
+ố
+15
+Tiền công khám bệnh ngoại trú hoặc tiền giường nội
+  trú
+31
+t_vchuyen
+S
+ố
+15
+Tiền vận chuyển
+32
+t_bntt
+S
+ố
+15
+Số tiền người bệnh thanh toán (Ghi số tiền người bệnh
+  chi trả bao gồm cùng chi trả, tự trả khi khám bệnh, chữa bệnh không đúng tuyến,
+  số tiền tự trả đối với các dịch vụ y tế áp dụng tỷ lệ thanh toán)
+33
+t_bhtt
+S
+ố
+15
+Tiền đề nghị cơ quan BHXH thanh
+  toán (gồm cả chi phí ngoài định suất).
+34
+t_ngoaids
+S
+ố
+15
+Tiền thanh toán ngoài định suất
+  (không bao g
+ồ
+m ti
+ề
+n BN cùng chi trả)
+35
+ma_khoa
+Chuỗi
+30
+Ghi mã khoa theo quy định tại bảng
+  7 Quyết định s
+ố
+2348/BYT-BH ngày 10/4/2015 của Bộ Y tế.
+36
+nam_qt
+S
+ố
+4
+Năm đề nghị BHXH thanh toán
+37
+thang_qt
+S
+ố
+2
+Tháng đề nghị BHXH thanh toán
+38
+ma_khuvuc
+Chuỗi
+2
+Ghi mã nơi sinh sống
+trên
+thẻ BHYT
+“
+K
+1
+/K2/K
+3”
+  (nếu có)
+39
+ma_loaikcb
+Chuỗi
+5
+Mã hóa hình thức KCB: (1: khám bệnh;
+  2: điều trị ngoại trú; 3: đi
+ề
+u trị nội trú)
+40
+ma_cskcb
+Chuỗi
+5
+M
+ã cơ sở KCB nơi điều trị: Ghi đúng
+  5 ký t
+ự
+mã cơ sở KCB do BHXH VN cung cấp
+41
+noi_ttoan
+Chuỗi
+5
+Mã hóa nơi thanh toán: (1: thanh toán
+  tại cơ sở KCB; 2: thanh toán trực tiếp)
+42
+giam_dinh
+Số
+1
+Mã hóa kết quả giám định (không thẩm định: 0; thẩm
+  định, chấp nhận: 1,
+điều chỉnh: 2; xuất toán: 3)
+43
+t_xuattoan
+Số
+15
+Ghi số tiền cơ sở KCB thống kê thanh
+  toán sai quy định (k
+ể
+cả ph
+ầ
+n người
+  bệnh cùng trả v
+à
+đề nghị BHXH thanh
+t
+oán)
+44
+lydo_xt
+Chuỗi
+50
+Ghi lý do từ chối thanh toán
+45
+T_datuyen
+Số
+15
+S
+ố tiến đã thanh toán đa tuyến đến
+  tương ứng với tỷ lệ phân b
+ổ
+46
+T_vuottran
+Số
+15
+Số tiền vượt trần chưa thanh toán
+Ghi chú:
+-
+Cơ quan BHXH h
+ướ
+ng dẫn CSKCB lập f
+i
+le dữ liệu đầy đ
+ủ
+các cột t
+ừ
+1 đến 39; C
+ơ
+quan
+BHXH ghi th
+ô
+ng tin vào các cột từ 40 đến 46 khi tập trung
+dữ liệu toàn tỉnh, báo cáo BHXH việt Nam.
+- File dữ liệu đúng tên trường và độ
+dài theo quy ước.
+- Định dạng font chữ Unicode, cỡ chữ
+12.
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

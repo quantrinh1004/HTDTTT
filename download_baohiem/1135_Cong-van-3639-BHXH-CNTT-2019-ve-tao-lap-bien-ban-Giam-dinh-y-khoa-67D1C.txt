@@ -1,0 +1,359 @@
+BẢO HIỂM XÃ HỘI
+  VIỆT NAM
+-------
+CỘNG HÒA XÃ
+  HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 3639/BHXH-CNTT
+V/v tạo lập biên bản Giám định y khoa
+Hà Nội
+, ngày
+27
+tháng
+09
+năm
+2019
+Kính gửi:
+Bảo hiểm xã hội các
+tỉnh, thành phố trực thuộc Trung ương
+Bảo hiểm xã hội (BHXH) Việt Nam đã bổ sung chức
+năng hỗ trợ Hội đồng giám định y khoa tạo lập Biên bản giám định y khoa theo
+quy định tại Thông tư 52/2016/TT-BYT ngày 30/12/2016 của Bộ Y tế trên Cổng tiếp
+nhận dữ liệu Hệ thống thông tin giám định bảo hiểm y tế (Cổng tiếp nhận) tại địa
+chỉ https://gdbhyt.baohiemxahoi.gov.vn. BHXH Việt Nam yêu cầu BHXH các tỉnh,
+thành phố trực thuộc Trung ương thực hiện:
+- Hướng dẫn Hội đồng giám định y khoa trên phạm
+vi địa bàn quản lý đăng nhập Cổng tiếp nhận theo tài khoản và mật khẩu đã được
+gửi vào địa chỉ email phòng Công nghệ thông tin.
+- Hướng dẫn Hội đồng giám định y khoa tạo lập
+Biên bản giám định y khoa (nhập trực tiếp hoặc import từ file excel theo mẫu)
+trên Cổng tiếp nhận theo hướng dẫn chi tiết tại Phụ lục gửi kèm.
+Trong quá trình thực hiện, nếu có phát sinh
+vướng mắc, đề nghị Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương
+báo cáo kịp thời về Bảo hiểm xã hội Việt Nam (Trung tâm Công nghệ thông tin) để
+xem xét, giải quyết./.
+Nơi
+  nhận:
+-
+Như
+  trên;
+- Bộ Y tế;
+- Bộ
+  Lao động - Thương binh và Xã hội;
+- Tổng liên đoàn lao động Việt Nam;
+- UBND các tỉnh, thành phố;
+- Tổng Giám đốc (để b/c);
+- Các Phó TGĐ;
+- Sở Y tế, Sở Lao động - Lao động - Thương binh và Xã hội;
+- Các đơn vị trực thuộc BHXH Việt Nam;
+- Lưu: VT, CNTT.
+KT. TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Phạm Lương Sơn
+PHỤ LỤC
+HƯỚNG
+DẪN TẠO LẬP BIÊN BẢN GIÁM ĐỊNH Y KHOA
+(G
+ửi
+kèm
+theo
+c
+ô
+ng văn s
+ố
+3639/BHXH-CNTT ngày
+27/9/2019 của BHXH Việt Nam)
+1. Tạo lập Biên bản
+giám định y khoa
+Bước 1
+.
+Truy cập
+Cổng tiếp nhận dữ liệu
+Hệ thống thông tin giám định BHYT (Cổng GĐBHYT) tại địa chỉ
+https://gdbhyt.baohiemxahoi.gov.vn
+Bước 2.
+Chọn
+Giám đ
+ị
+nh y khoa
+như h
+ì
+nh sau:
+Bước 3.
+Đ
+ă
+ng nhập
+tà
+i
+khoản
+đ
+ã
+đ
+ược cung cấp:
+M
+à
+n hình tạo lập Bi
+ê
+n b
+ả
+n Gi
+á
+m đ
+ị
+nh y khoa hi
+ể
+n th
+ị
+như sau:
+Bước 4.
+Chọn
+Biên bản
+-> Danh sách biên bản giám định y khoa
+Màn hình sẽ hiển thị ra như sau:
+Bước 5.
+Tạo lập Biên bản
+giám định y khoa:
+Cách
+1.
+Nhập tr
+ự
+c tiếp
+- Bước
+C
+.1.1.
+Chọn nút
+để tạo Biên bản giám định
+y khoa. Màn hình sẽ hiển thị như sau:
+Trong đó:
++ Hội đồng GĐ:
+Tên Hội đồng
+Giám định y khoa
++ Người chủ trì:
+Người chủ
+trì cuộc họp
++ Chức vụ:
+Chức vụ người chủ
+trì
++ Ngày họp:
+Ngày họp Giám định
++ Số sổ BHXH:
+Nhập mã số BHXH người
+được thực hiện giám định. Nhập mã số BHXH đúng hệ thống sẽ cung cấp thông tin họ
+tên, ngày sinh, số CMND, ngày cấp, nơi cấp, địa chỉ, đơn vị giới thiệu/đề nghị
+theo dữ liệu do cơ quan BHXH quản lý (nếu có).
++ Số biên bản:
+Số biên bản
+giám định y khoa (nếu để trống hệ thống sẽ tự động sinh theo cấu trúc: Đối với
+Hội đồng giám định y khoa cấp tỉnh: mã tỉnh (2 kí tự) + 2 số cuối năm + 5 ký tự
+tự sinh; Đối với Hội đồng giám định y khoa cấp trung ương: TWI/TW
+II
+/TW
+III
++ 2 số cuối
+năm + 5 ký tự tự sinh).
++ Ngày chứng từ:
+Không được lớn
+hơn ngày hiện tại
++ Ngày đề nghị:
+Ngày của Giấy
+giới thiệu/đề nghị đề nghị giám định.
++ Giấy giới thiệu/đề nghị:
+Số của Giấy
+giới thiệu/đề nghị giám định.
++ Mã đối tượng:
+Chọn mã đối
+tượng được hưởng chế độ BHXH
++ Khám giám định:
+Chọn loại
+khám Giám định: Lần đầu/Khám phúc quyết (vượt KNCM, đối tượng không đồng ý,
+theo đề nghị của Cục QLKCB/Cục NCC/BHXH)/Khám phúc quyết lần cuối.
++ Đang hưởng chế độ:
+Chế độ đang
+hưởng hiện tại: thương tích, bệnh tật, bệnh nghề nghiệp
++ Tỷ lệ:
+Tỷ lệ tổn thương cơ
+thể cũ
++ Ghi rõ kết luận:
+Ghi rõ tiền
+sử bệnh, tật, dị dạng, dị tật, thương tích, bệnh nghề nghiệp, thời gian bị
+thương hoặc bị TNLĐ, điều trị, kết quả khám giám
+định lần trước
+nếu cần. Các kết quả khám giám định hiện tại về lâm sàng, cận lâm sàng có giá
+trị để Hội đồng GĐYK kết luận.
++ Thông tư số:
+Chọn Thông
+tư làm căn cứ khám giám định phù hợp với đối tượng giám định.
++ Được xác định là:
+Ghi rõ kết
+luận theo yêu cầu giám định của tổ chức, cá nhân.
++ Tỷ lệ TTCT(%):
+Tỷ lệ tổn
+thương cơ thể
++ Tổng hợp tỷ lệ TTCT(%):
+Nếu mã đối
+tượng là TH thì tổng hợp tỷ lệ TTCT được phép điền. Nếu mã đối tượng khác TH
+thì tổng hợp tỷ lệ TTCT để trống.
++ M
+ứ
+c độ khuyết tật:
+Riêng đối với
+khám giám định Người khuyết tật.
++ Đ
+ề
+nghị:
+Ghi đề nghị
+của Hội đồng Giám định y khoa.
+- Bước
+C
+.1.2.
+Chọn
+Lưu
+& In
+để lưu thông tin đã cập nhật và in Biên bản Giám định y khoa.
+Cách 2: Nh
+ập
+vào b
+ằ
+n
+g
+file Excel:
+- Bước C2.1.
+Chọn
+Import
+mẫu GĐYK
+- Bước C2.2.
+Màn hình sẽ
+hiện ra như sau:
+- Bước C2.3.
+Chọn
+Chọn
+văn bản
+-> chọn file excel mẫu để import vào hệ thống. Trong trường h
+ợ
+p chưa có
+file excel mẫu có thể tải ngay trong chức năng như hình trên (
+Tải tập tin
+excel mẫu tại đây
+)
+- Bước C2.4.
+Chọn
+Lưu.
+2. Sửa, xóa Biên bản
+giám định y khoa
+Bước 1.
+Nhấn phải chuột vào
+biên bản cần sửa -> chọn
+Sửa
+:
+Bước 2.
+Cập nhật nội dung cần
+sửa-> Chọn
+Lưu
+.
+3. Danh mục
+Mục đích:
+Cập nhật danh sách
+người chủ trì, chức vụ người chủ trì của đơn vị thực h
+i
+ện GĐYK:
+3.1. Thêm mới Người
+chủ trì
+- Bước 1:
+Sau khi Chọn
+Danh
+mục -> Người chủ trì
+- Bước 2:
+Nhấn phải chuột
+(
+vùng No data
+to display đối với lần đầu
+)-> chọn
+New
+:
+Hoặc nhấn phải chuột vào vùng dữ liệu
+-> chọn
+New
+Hiển thị màn hình thêm/sửa thông tin:
++ Người chủ trì:
+Điền tên người
+chủ trì
++ Chức vụ:
+Chức vụ của người chủ
+trì, chọn trong combobox
++ Từ ngày:
+Bắt đầu có hiệu lực
+từ ngày nào
++ Đến ngày:
+Đến ngày nào thì hết
+hiệu lực
+- Bước 3.
+Chọn
+Cập nhập
+để lưu thông tin đã nhập. Chọn
+Hủy
+để bỏ tạo
+mới.
+3.2. Sửa thông tin
+người chủ trì
+- Bước 1:
+Nhấn chuột phải vào
+bản ghi của người chủ trì cần sửa -> chọn
+Edit
+- Bước 2. Sửa thông tin người chủ trì.
+- Bước 3.
+Chọn
+Cập nhập
+để
+lưu thông tin đã sửa. Chọn
+Hủy
+để bỏ lưu
+thông tin đã
+sửa.
+3.3. Xóa thông tin
+người chủ trì
+Nhấn chuột phải vào bản ghi của người
+chủ trì c
+ầ
+n x
+ó
+a -> chọn
+Delete
+Lưu
+ý:
+Đối với những
+người chủ trì đã có tên tạo ở bên biên bản giám định
+y khoa thì
+không cho phép xóa.
+4. Quản trị hệ thống
+Mục đích:
+Cơ sở thay đổi mật
+khẩu để bảo mật thông tin
+Thực hiện:
+- Bước 1:
+Sau khi đăng nhập
+tài khoản GĐYK chọn
+Quản trị hệ thống -> Đổi m
+ậ
+t khẩu:
+Hiển thị màn hình đổi mật khẩu:
+- Bước 2:
+Nhập mật khẩu hiện tại
+vào mục
+Mật khẩu hiện tại;
+Nhập mật khẩu mới vào mục
+Mật khẩu mới;
+Nhập lại mật khẩu mới vào mục
+Nhập lại mật khẩu m
+ớ
+i.
+- Bước 3:
+Chọn
+Cập nhập
+để cập nhật mật khẩu mới; chọn
+Đóng
+để bỏ qua (vẫn sử dụng mật khẩu cũ)
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

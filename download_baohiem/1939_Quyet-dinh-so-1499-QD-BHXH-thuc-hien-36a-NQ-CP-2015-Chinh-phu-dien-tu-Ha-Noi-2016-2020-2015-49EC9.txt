@@ -1,0 +1,614 @@
+BẢO
+  HIỂM XÃ HỘI VIỆT NAM
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+  1499/QĐ-UBND
+Hà
+  Nội, ngày 10 tháng 12 năm 2015
+QUYẾT ĐỊNH
+V/V BAN HÀNH KẾ HOẠCH HÀNH ĐỘNG THỰC HIỆN NGHỊ QUYẾT SỐ 36a/NQ-CP NGÀY
+14/10/2015 CỦA CHÍNH PHỦ VỀ CHÍNH PHỦ ĐIỆN TỬ GIAI ĐOẠN 2016 - 2020
+TỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM
+Căn cứ Nghị định số 05/2014/NĐ-CP
+ngày 17/01/2014 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu
+tổ chức của Bảo hiểm xã hội Việt Nam;
+Căn cứ Nghị quyết số 19/NQ-CP ngày
+12/3/2015 của Chính phủ về những nhiệm vụ, giải pháp chủ yếu tiếp tục cải thiện
+môi trường kinh doanh, nâng cao năng lực cạnh tranh quốc gia hai năm 2015 -
+2016;
+Căn cứ Nghị quyết số 36a/NQ-CP
+ngày 14/10/2015 của Chính phủ về Chính phủ điện tử;
+Xét đề nghị của Trưởng Ban Pháp chế,
+QUYẾT ĐỊNH:
+Điều 1.
+Ban hành kèm theo Quyết định này Kế hoạch hành động
+thực hiện Nghị quyết số 36a/NQ-CP ngày 14/10/2015 của Chính phủ về Chính phủ điện
+tử giai đoạn 2016 - 2020 của Bảo hiểm xã hội Việt Nam.
+Điều 2.
+Quyết định này có hiệu lực kể từ ngày ký.
+Thủ trưởng các đơn vị trực thuộc Bảo
+hiểm xã hội Việt Nam, Giám đốc Bảo hiểm xã hội các tỉnh, thành phố trực thuộc
+trung ương chịu trách nhiệm thi hành Quyết định này./.
+Nơi nhận:
+- Như Điều 2;
+- Văn phòng Chính phủ;
+- Bộ Thông tin và Truyền thông;
+- Các Phó Tổng Giám đốc;
+- Lưu: VT, PC (5).
+TỔNG GIÁM ĐỐC
+Nguyễn Thị Minh
+KẾ HOẠCH HÀNH ĐỘNG
+THỰC HIỆN NGHỊ QUYẾT SỐ 36a/NQ-CP NGÀY 14/10/2015 CỦA CHÍNH PHỦ VỀ
+CHÍNH PHỦ ĐIỆN TỬ GIAI ĐOẠN 2016 - 2020
+(Ban hành kèm theo Quyết định số 1499/QĐ-BHXH ngày 10 tháng 12 năm 2015 của
+Tổng Giám đốc Bảo hiểm xã hội Việt Nam)
+Thực hiện Nghị quyết số 19/NQ-CP ngày
+12/3/2015 của Chính phủ về những nhiệm vụ, giải pháp chủ yếu tiếp tục cải thiện
+môi trường kinh doanh, nâng cao năng lực canh tranh quốc gia hai năm 2015 -
+2016;
+Thực hiện Nghị quyết số 36a/NQ-CP
+ngày 14/10/2015 của Chính phủ về Chính phủ điện tử;
+Bảo hiểm xã hội (BHXH) Việt Nam ban
+hành Kế hoạch hành động thực hiện Nghị quyết số 36a/NQ-CP với các nội dung sau:
+A. MỤC TIÊU
+Đẩy mạnh ứng dụng công nghệ thông
+tin, tin học hóa toàn diện trong việc thực hiện bảo hiểm xã hội (BHXH), bảo hiểm
+y tế (BHYT), bảo hiểm thất nghiệp (BHTN) nhằm công khai, minh bạch hoạt động của
+cơ quan BHXH trên môi trường mạng, nâng cao hiệu lực, hiệu quả phục vụ người
+dân và doanh nghiệp ngày càng tốt hơn.
+B. CÁC NHIỆM VỤ CỤ
+THỂ
+I. Chủ trì, phối
+hợp với các bộ, ngành liên quan tiếp tục rà soát, cắt giảm, đơn giản hồ sơ, biểu
+mẫu, quy trình và thủ tục kê khai, thu nộp, giải quyết và chi trả các chế độ
+BHXH, BHYT, BHTN; rút ngắn thời gian hoàn thành thủ tục kê khai tham gia bảo hiểm
+bắt buộc đối với doanh nghiệp xuống còn 49 giờ.
+1. Rà soát, đơn giản hồ sơ, quy
+trình, thực hiện trong tất cả các lĩnh vực nghiệp vụ.
+2. Nghiên cứu sửa đổi, bổ sung quy
+trình, quy định, mẫu biểu, hồ sơ về giao dịch điện tử trong việc thực hiện thủ
+tục tham gia BHXH, BHYT, BHTN; cấp sổ BHXH, thẻ BHYT.
+3. Nghiên cứu sửa đổi quy trình quản
+lý chi trả, thanh quyết toán chi các  chế độ BHXH, BHYT, BHTN và quản lý
+người hưởng.
+II. Xây dựng
+phương án kết nối liên thông cơ sở dữ liệu giữa các cơ đơn vị trong toàn Ngành
+và với các bộ, ngành, đơn vị có liên quan.
+1. Kết nối liên thông cơ sở dữ liệu
+giữa các đơn vị trong toàn Ngành
+a) Triển khai phần mềm quản lý văn bản
+và điều hành trên toàn bộ hệ thống từ BHXH Việt Nam đến BHXH cấp huyện.
+b) Triển khai thực hiện tích hợp hệ
+thống ISO điện tử vào dự án hệ thống quản lý văn bản và điều hành của ngành.
+c) Thực hiện liên thông dữ liệu trong
+quản lý, chỉ đạo công tác tiếp nhận hồ sơ và trả kết quả giải quyết TTHC theo
+cơ chế “một cửa” nhằm theo dõi kiểm tra, xử lý, đôn đốc tiến độ tiếp nhận hồ
+sơ, giải quyết và trả kết quả TTHC của BHXH địa phương qua mạng trực tuyến.
+d) Xây dựng phần mềm liên thông các
+phần mềm nội bộ ngành BHXH.
+2. Kết nối liên thông cơ sở dữ liệu với
+các bộ, ngành, đơn vị có liên quan
+a) Xây dựng đề án liên thông cơ sở dữ
+liệu giữa cơ quan BHXH và các bộ, ngành, đơn vị có liên quan (UBND các cấp,
+Công an, Thuế, Hải quan, Kho bạc, Kế hoạch và Đầu tư, Tài chính, Lao động -
+Thương binh và Xã hội Y tế, Ngân hàng, Bưu điện, cơ quan thi hành án, cơ sở
+khám chữa bệnh đơn vị sử dụng nhằm trao đổi thông tin về đơn vị sử dụng lao động
+và người tham gia BHXH, BHYT, BHTN trong việc thực hiện các thủ tục kê khai thu
+nộp, giải quyết và chi trả các chế độ BHXH, BHYT, BHTN.
+b) Thực hiện kết nối liên thông các
+phần mềm quản lý văn bản với Văn phòng Chính phủ.
+c) Xây dựng và liên thông dữ liệu
+thu, cấp sổ, thẻ, chi trả BHTN.
+d) Phối hợp thực hiện liên thông, kết
+nối, trao đổi thông tin với các bộ ngành.
+III. Xây dựng cơ sở
+pháp lý, hạ tầng và hệ thống cơ sở dữ liệu tập trung toàn quốc về đối tượng
+tham gia, đối tượng hưởng chế độ BHXH, BHYT, BHTN; triển khai ứng dụng chữ ký số
+trong thực hiện giao dịch điện tử trong tất cả các lĩnh vực: kê khai, thu, chi
+và giải quyết chính sách BHXH, BHYT, BHTN
+1. Xây dựng cơ sở pháp lý
+a) Nghiên cứu đề xuất trình Chính phủ
+xây dựng Nghị định về giao dịch điện tử trong tất cả các lĩnh vực về BHXH,
+BHYT.
+b) Xây dựng Kiến trúc Chính phủ điện
+tử của BHXH Việt Nam theo Khung Chính phủ điện tử - Bộ Thông tin và Truyền
+thông đã ban hành tại Công văn số 1178/BTTTT-THH ngày 21/04/2015.
+c) Xây dựng Kế hoạch ứng dụng CNTT của
+Ngành giai đoạn 2016 - 2020 gửi Bộ Thông tin và Truyền thông thẩm định.
+d) Xây dựng quy định về quy trình
+trao đổi, lưu trữ, xử lý văn bản điện tử trong toàn hệ thống.
+2. Xây dựng cơ sở hạ tầng cơ sở dữ và
+tiếp tục triển khai ứng dụng chữ ký số
+a) Cập nhật, hoàn thiện và triển khai
+ứng dụng phần mềm hỗ trợ kê khai hồ sơ tham gia BHXH, BHYT trên toàn quốc.
+b) Nghiên cứu sửa đổi, nâng cấp phần
+mềm quản lý thu BHXH, BHYT cấp sổ BHXH, thẻ BHYT.
+c) Nghiên cứu sửa đổi, nâng cấp phần
+mềm quản lý chi (QLCHI), phần mềm kế toán.
+d) Xây dựng đề án ứng dụng trực tuyến
+mức độ 3 và 4 trong việc giải quyết hưởng các chế độ BHXH.
+đ) Xây dựng đề án ứng dụng trực tuyến
+mức độ 3 trong việc chi trả các chế độ BHXH.
+e) Kết nối liên thông giữa các cơ sở
+khám, chữa bệnh BHYT trên phạm vi toàn quốc với cơ quan BHXH; ứng dụng chữ ký số
+trong giao dịch điện tử về đề nghị thanh toán và duyệt thanh toán chi phí khám,
+chữa bệnh BHYT.
+g) Xây dựng danh mục hồ sơ thanh toán
+trực tiếp, chức năng kê khai hồ sơ đề nghị thanh toán trực tiếp phần mềm Giao dịch
+BHXH điện tử Phiên bản 2.0 hoặc trên phần mềm giám định. Thí điểm tại một số địa
+phương, nhân rộng mô hình trên toàn hệ thống.
+h) Nghiên cứu, đề xuất bổ sung danh mục
+các dịch vụ công trực tuyến mức độ 4 thuộc phạm vi giải quyết của Ngành trong
+năm 2016 và giai đoạn 2016 - 2020.
+i) Triển khai áp dụng chữ ký số các
+giao dịch nội bộ cơ quan BHXH và giữa cơ quan BHXH với các đơn vị, tổ chức có
+quan hệ công tác (UBND các cấp, Công an, cơ quan Thi hành án, Ngân hàng, Kho bạc,
+Thuế, Trung tâm dịch vụ việc làm, Bưu điện, đơn vị sử dụng lao động) trong lập
+và chuyển báo cáo, dữ liệu điện tử liên quan đến công tác chi trả, thanh toán
+đa tuyến; lập và chuyển báo cáo dữ liệu điện tử của các báo cáo tài chính hàng
+quý, năm.
+k) Xây dựng cơ sở dữ liệu tập trung để
+quản lý đối tượng tham gia, đối tượng hưởng các chế độ BHXH, BHYT, BHTN.
+IV. Tổ chức đào tạo,
+tập huấn
+1. Đào tạo, tập huấn nghiệp vụ cho
+công chức, viên chức toàn Ngành về khai thác, ứng dụng chữ ký số, quản lý và sử
+dụng các phần mềm nghiệp vụ.
+2. Tập huấn cho các đơn vị, BHXH tỉnh,
+thành phố về triển khai kiến trúc Chính phủ điện tử của BHXH Việt Nam theo
+Khung Chính phủ điện tử sau khi được phê duyệt.
+Chi tiết tại Phụ lục kèm theo
+C. TỔ CHỨC THỰC
+HIỆN
+1. Giao Phó Tổng Giám đốc Đỗ Văn Sinh
+trực tiếp chỉ đạo triển khai ứng dụng và phát triển công nghệ thông tin ngành
+BHXH.
+2. Giao Ban Pháp chế giúp Tổng Giám đốc
+theo dõi, tổng hợp kết quả thực hiện Nghị quyết số 36a/NQ-CP.
+3. Các đơn vị: Pháp chế, Thu, Sổ, thẻ,
+Thực hiện chính sách BHXH, Thực hiện chính sách BHYT, kế hoạch và Đầu tư, Tài
+chính - Kế toán, Tổ chức cán bộ Văn phòng, Trung tâm CNTT, Trường Đào tạo nghiệp
+vụ BHXH có trách nhiệm thực hiện các nhiệm vụ được phân công tại Phục lục kèm
+theo và định kỳ hàng quý (trước 15/3, 15/6, 15/9 và 15/12) có báo cáo, đánh giá
+tình hình triển khai và kết quả thực hiện nhiệm vụ được giao gửi Ban Pháp chế để
+tổng hợp báo cáo Văn phòng Chính phủ và Bộ Thông tin và Truyền thông.
+4. Thủ trưởng các đơn vị trực thuộc
+BHXH Việt Nam, Giám đốc BHXH các tỉnh, thành phố trực thuộc Trung ương có trách
+nhiệm phối hợp với các đơn vị nghiệp vụ có liên quan trong việc triển khai thực
+hiện Kế hoạch này./.
+PHỤ LỤC
+(Ban hành kèm theo Quyết định số
+1499/QĐ-BHXH ngày 10/12/2015 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam)
+STT
+Nội
+  dung công việc
+Đơn
+  vị thực hiện
+Đơn
+  vị phối hợp
+Tiến
+  độ thực hiện
+I
+Tiếp tục rà soát, đơn giản hồ
+  sơ, quy trình, quy định, biểu mẫu, thực hiện trong tất cả các lĩnh vực: kê
+  khai, thu nộp và giải quyết chính sách BHXH, BHYT, BHTN
+1
+Rà soát, đơn giản hồ sơ, quy trình,
+  quy định, biểu mẫu, thực hiện trong tất cả các lĩnh vực: kê khai, thu nộp và
+  giải quyết, chi trả các chế độ BHXH, BHYT, BHTN
+Ban
+  Pháp chế
+Các
+  Ban:Thu, Sổ, thẻ, Tài chính - Kế toán, Thực hiện chính sách BHXH, Thực hiện
+  chính sách BHYT và các đơn vị khác có liên quan
+Hàng
+  năm
+2
+Nghiên cứu sửa đổi, bổ sung quy
+  trình, quy định, mẫu biểu, hồ sơ về giao dịch điện tử trong việc thực hiện thủ
+  tục tham gia BHXH, BHYT, BHTN, cấp sổ BHXH, thẻ BHYT
+Ban
+  Thu Ban Sổ, thẻ
+Trung
+  tâm CNTT
+Hàng
+  năm
+3
+Nghiên cứu sửa đổi quy trình quản
+  lý chi trả, thanh quyết toán chi các chế độ BHXH, BHTN và quản lý người hưởng
+Ban
+  Tài chính- Kế toán
+Ban
+  Thực hiện chính sách BHXH TT CNTT
+Hàng
+  năm
+II
+Xây dựng phương án kết nối liên
+  thông cơ sở dữ liệu giữa các cơ quan BHXH trên toàn quốc và với các bộ,
+  ngành, đơn vị có liên quan.
+1
+Xây dựng cơ sở dữ liệu liên thông
+  giữa cơ sở khám bệnh, chữa bệnh và cơ quan BHXH để thực hiện giải quyết hưởng
+  chế độ ốm đau, thai sản.
+Ban
+  Thực hiện chính sách BHXH
+Trung
+  tâm CNTT Ban Thực hiện chính sách BHYT
+Năm
+  2017
+2
+Xây dựng và liên thông dữ liệu thu,
+  cấp sổ, thẻ, chi trả BHTN
+Ban
+  Thực hiện chính sách BHXH
+Các
+  Ban; Thu, Sổ, thẻ, Tài chính- Kế toán Trung tâm CNTT Ngành Lao động thương
+  binh xã hội
+Năm
+  2016
+3
+Hoàn thiện dữ liệu và cấp thẻ BHYT
+  theo số định danh cá nhân
+Ban
+  Thu
+Ban
+  Sổ- thẻ Trung tâm CNTT
+Năm
+  2016 - 2017
+4
+Nghiên cứu, triển khai việc cấp sổ
+  BHXH, thẻ BHYT điện tử
+Ban
+  Sổ- thẻ
+Các
+  Ban: Thu, Thực hiện chính sách BHYT, Thực hiện chính sách BHXH TT CNTT
+Giai
+  đoạn 2018 - 2020
+5
+Triển khai phần mềm quản lý văn bản
+  và điều hành trên toàn bộ hệ thống từ BHXH Việt Nam đến BHXH cấp huyện.
+Văn
+  phòng
+Các
+  đơn vị có liên quan BHXH tỉnh, thành phố
+Hoàn
+  thành trong quý III/2016.
+6
+Tích hợp hệ thống ISO điện tử vào dự
+  án hệ thống quản lý văn bản và điều hành của Ngành
+6.1
+Xây dựng quy trình theo tiêu chuẩn
+  ISO 9001:2008 đối với 06 TTHC trong đăng ký giao dịch điện tử
+Pháp
+  chế
+Văn
+  phòng Trung tâm CNTT
+Hoàn
+  thành trước 30/01/2016.
+6.2
+Xây dựng bộ quy trình giải quyết thủ
+  tục hành chính theo tiêu chuẩn TCVN ISO 9001:2008 (mô hình khung) đối với 33 quy
+  trình giải quyết TTHC thuộc các lĩnh vực: Thu, Sổ - Thẻ, Thực hiện chính sách
+  BHXH, Thực hiện chính sách BHYT, Tài chính - Kế toán
+Ban:
+  Thu, Sổ - Thẻ, Thực hiện chính sách BHXH, Thực hiện chính sách BHYT, Tài
+  chính - Kế toán
+Văn
+  phòng
+Hoàn
+  thành trước 30/01/2016.
+6.3
+Tích hợp 12 quy trình giải quyết
+  công việc và 04 quy trình điều hành (ISO điện tử) vào hệ thống quản lý văn bản
+  và điều hành của Ngành và đưa và khai thác tại BHXH Việt Nam.
+Văn
+  phòng
+Trung
+  tâm CNTT
+Hoàn
+  thành trong quý II/2016
+6.4
+Tích hợp 35 quy trình giải quyết
+  công việc còn lại và rà soát, bổ sung điều chỉnh các quy trình
+Văn
+  phòng
+Trung
+  tâm CNTT
+Hoàn
+  thành trong năm 2016.
+7
+Thực hiện liên thông dữ liệu trong quản
+  lý, chỉ đạo công tác tiếp nhận hồ sơ và trả kết quả giải quyết TTHC theo cơ
+  chế “một cửa” qua mạng trực tuyến
+Ban
+  Pháp chế
+Trung
+  tâm CNTT BHXH các tỉnh, thành phố
+Quý
+  I/2016
+8
+Xây dựng phần mềm liên thông các phần
+  mềm nội bộ ngành BHXH
+Trung
+  tâm CNTT
+Các
+  đơn vị nghiệp vụ có liên quan
+Năm
+  2016 - 2020
+9
+Xây dựng đề án liên thông cấp mã
+  doanh nghiệp, thuế, BHXH quản lý nhằm giảm thủ tục kê khai tham gia BHXH,
+  BHYT đối với đơn vị và người tham gia
+Ban
+  Thu
+Thuế
+  KH và ĐT Các cơ quan khác có liên quan
+9.1
+Xây dựng đề án phối hợp chia sẻ
+  thông tin giữa cơ quan kế hoạch - đầu tư, thuế, BHXH trình Thủ tướng Chính phủ
+  ban hành
+Trước
+  31/12/2016
+9.2
+Sửa quy trình, mẫu biểu, hồ sơ để thực
+  hiện liên thông cấp phép doanh nghiệp nộp thuế và nộp BHXH
+Trước
+  30/3/2018
+10
+Xây dựng quy trình chuyển dữ liệu
+  điện tử, kết nối với Ngân hàng, Kho bạc, Thuế, Thi hành án, Bưu điện.
+Ban
+  Tài chính- Kế toán
+Năm
+  2016
+11
+Xây dựng cơ sở dữ liệu liên thông
+  giữa cơ quan BHXH và cơ sở khám chữa bệnh để quản lý thu hồi thẻ BHYT không
+  còn giá trị sử dụng và thẻ của những trường hợp ngừng đóng
+Ban
+  Thu
+Ban
+  Sổ - thẻ Ban Thực hiện chính sách BHXH Trung tâm CNTT Các đơn vị có liên quan
+Năm
+  2017
+12
+Thực hiện kết nối liên thông các phần
+  mềm quản lý văn bản với Văn phòng Chính phủ
+Văn
+  phòng
+Trung
+  tâm CNT
+Hoàn
+  thành trước 01/01/2016.
+13
+Phối hợp thực hiện liên thông, kết
+  nối, trao đổi thông tin với các bộ, ngành
+Trung
+  tâm CNTT
+Các
+  đơn vị: Thu, Sổ, thẻ, Thực hiện chính sách BHXH, Thực hiện chính sách BHYT,
+  Tài chính- Kế toán, Pháp chế
+Năm
+  2016 - 2020
+III
+Xây dựng cơ sở pháp lý, hạ tầng
+  và xây dựng cơ sở dữ liệu tập trung toàn quốc về đối tượng tham gia, đối tượng
+  hưởng chế độ BHXH, BHYT, BHTN; triển khai ứng dụng chữ ký số trong thực hiện
+  giao dịch điện tử trong tất cả các lĩnh vực: kê khai, thu nộp và giải quyết
+  chính sách BHXH, BHYT, BHTN
+1
+Xây dựng cơ sở pháp lý
+1.1
+Đề xuất xây dựng Nghị định về giao
+  dịch điện tử trong tất cả các lĩnh vực về BHXH, BHYT.
+Ban
+  Pháp chế
+Ban:
+  Thực hiện chính sách BHXH, Thực hiện chính sách BHYT, Tài chính- Kế toán,
+  Thu, Ban Sổ - thẻ, TT CNTT
+Quý
+  I/2016
+1.2
+Xây dựng Kiến trúc Chính phủ điện tử
+  của BHXH Việt Nam theo Khung Chính phủ điện tử - Bộ Thông tin và Truyền thông
+  đã ban hành tại Công văn số 1178/BTTTT-THH ngày 21/04/2015
+Trung
+  tâm CNTT
+Hoàn
+  thành 01/2016
+1.3
+Xây dựng Kế hoạch ứng dụng CNTT của
+  Ngành giai đoạn 2016 - 2020 gửi Bộ Thông tin và Truyền thông thẩm định
+Trung
+  tâm CNTT
+Trước
+  31/01/2016
+2
+Xây dựng cơ sở hạ tầng, cơ sở dữ
+  liệu và tiếp tục triển khai ứng dụng chữ ký
+2.1
+Triển khai ứng dụng phần mềm hỗ trợ
+  kê khai hồ sơ tham gia BHXH, BHYT trên toàn quốc
+Ban
+  Thu
+Trung
+  tâm CNTT
+Năm
+  2016
+2.2
+Sửa đổi, nâng cấp phần mềm quản lý
+  thu BHXH, BHYT, cấp sổ BHXH, thẻ BHYT
+Ban
+  Thu Ban Sổ- thẻ
+Trung
+  tâm CNTT
+Hoàn
+  thành trước 31/12/2015
+2.3
+Xây dựng Đề án ứng dụng trực tuyến
+  mức độ 3 trong việc giải quyết hưởng các chế độ BHXH:
+- Giải quyết hưởng chế độ ốm đau,
+  thai sản, dưỡng sức, phục hồi sức khỏe
+- Giải quyết hưởng chế độ tai nạn
+  lao động, bệnh nghề nghiệp, hưu trí, tử tuất
+Ban
+  Thực hiện chính sách BHXH
+Trung
+  tâm CNTT
+Năm
+  2016 - 2017
+Trước
+  31/12/2016
+Trước
+  01/6/2017
+2.4
+Xây dựng đề án ứng dụng trực tuyến
+  mức độ 4 trong việc giải quyết hưởng các chế độ BHXH
+Ban
+  Thực hiện chính sách BHXH
+Trung
+  tâm CNTT
+Năm
+  2019 - 2020
+2.5
+Xây dựng Đề án ứng dụng trực tuyến
+  mức độ 3 trong việc chi trả các chế độ BHXH
+Ban
+  Tài chính- Kế toán
+TT
+  CNTT, Ban Thực hiện chính sách BHXH
+Năm
+  2016
+2.6
+Sửa đổi, nâng cấp phần mềm QLCHI;
+  phần mềm Kế toán
+Ban
+  Tài chính- Kế toán
+Trung
+  tâm CNTT, Ban Thực hiện chính sách BHXH
+Năm
+  2016
+2.7
+Kết nối liên thông giữa các cơ sở
+  khám, chữa bệnh BHYT trên phạm vi toàn quốc với cơ quan BHXH; ứng dụng chữ ký
+  số trong giao dịch dữ liệu điện tử KCB BHYT đề nghị thanh toán và được duyệt
+  thanh toán:
+Ban
+  Thực hiện chính sách BHYT
+Trung
+  tâm CNTT
+Năm
+  2017-2018
+- Xây dựng
+  quy trình, thủ tục pháp lý về trao đổi dữ liệu điện tử khám, chữa bệnh BHYT
+  trên môi trường mạng; thông báo đăng ký sử dụng dịch vụ giao dịch điện tử
+  I-VAN trong thanh toán chi phí KCB BHYT, kết nối liên thông phần mềm tiếp nhận,
+  giám định BHYT với phần mềm Giao dịch BHXH điện tử Phiên bản 2.0 của Ngành
+Quý I, II năm 2016
+- Thí điểm xác nhận chữ ký số trên
+  dữ liệu KCB BHYT điện tử tại các cơ sở y tế có yêu cầu sử dụng chữ ký số
+  trong việc cung cấp dữ liệu và đã đáp ứng đầy đủ thông tin tại 05 bảng theo
+  Công văn số 9324/BYT-BH:
+Từ
+  quý III năm 2016
+- Triển khai
+  nhân rộng đối với các cơ sở khám, chữa bệnh BHYT đã cung cấp đầy đủ thông tin
+  05 bảng theo Công văn số 9324/BYT-BH.
+Quý
+  I/ 2017
+2.8
+- Xây dựng danh mục hồ sơ thanh
+  toán trực tiếp, chức năng kê khai hồ sơ đề nghị thanh toán trực tiếp phần mềm
+  Giao dịch BHXH điện tử Phiên bản 2.0 hoặc trên phần mềm Tiếp nhận dữ liệu
+  thanh toán trực tiếp.
+Ban
+  Thực hiện chính sách BHYT
+Quý
+  III, IV/ 2016.
+- Thí điểm tại
+  một số địa phương, nhân rộng mô hình trên toàn hệ thống.
+Quý
+  II/2017
+2.9
+Nghiên cứu, đề xuất bổ sung danh mục
+  các dịch vụ công trực tuyến mức độ 4 thuộc phạm vi phụ trách của đơn vị trong
+  năm 2016 và giai đoạn 2016 - 2020
+Ban:
+  Thực hiện chính sách BHXH, Thực hiện chính sách BHYT, Tài chính - Kế toán,
+  Thu, Sổ - thẻ, TT CNTT
+Năm
+  2016
+2.10
+Triển khai áp dụng chữ ký số các
+  giao dịch nội bộ cơ quan BHXH và giữa cơ quan BHXH với các đơn vị, tổ chức có
+  quan hệ công tác:
+- Sử dụng chữ ký số trong lập và
+  chuyển báo cáo, dữ liệu điện tử liên quan đến công tác chi trả, lập và chuyển
+  báo cáo dữ liệu điện tử của các báo cáo tài chính hàng quý, năm.
+- Sử dụng chữ ký số trong giao dịch
+  với Ngân hàng, Kho bạc, Thuế để chuyển tiền, nhận chứng từ điện tử.
+Ban
+  Tài chính- Kế toán
+TTCNTT
+  BHXH các tỉnh, thành phố UBND các cấp, Công an, cơ quan thi hành án, Bưu điện,
+  Ngân hàng, đơn vị sử dụng lao động
+Năm
+  2016
+2.11
+Triển khai nộp tiền đóng BHXH,
+  BHYT, BHTN điện tử
+Ban
+  Thu
+Ban
+  Tài chính -  Kế toán Trung tâm CNTT
+Giai
+  đoạn 2017-2018
+3
+Phối hợp với các đơn vị liên quan
+  xây dụng cơ sở dữ liệu tập trung để quản lý đối tượng tham gia BHXH, BHYT
+Trung
+  tâm CNTT
+Ban
+  Thu
+Ban Sổ - thẻ
+Năm
+  2016 - 2017
+4
+Xây dựng cơ sở dữ liệu tập trung để
+  quản lý người hưởng các chế độ BHXH
+Ban
+  Tài chính -   Kế toán
+Trung
+  tâm CNTT Ban Thực hiện chính sách BHXH
+Giai
+  đoạn 2016 - 2018
+IV
+Tổ chức đào tạo, tập huấn
+1
+Đào tạo, tập huấn nghiệp vụ cho
+  công chức, viên chức toàn Ngành về khai thác, ứng dụng chữ ký số, quản lý và
+  sử dụng các phần mềm nghiệp vụ
+Trung
+  tâm CNTT
+Ban
+  TCCB Trường Đào tạo nghiệp vụ BHXH
+Năm
+  2016 - 2020
+2
+Tập huấn cho các đơn vị, BHXH tỉnh,
+  thành phố về triển khai kiến trúc Chính phủ điện tử của BHXH Việt Nam theo
+  Khung Chính phủ điện tử sau khi được phê duyệt.
+Trung
+  tâm CNTT
+Ban
+  TCCB Trường Đào tạo nghiệp vụ BHXH
+Năm
+  2016
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

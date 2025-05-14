@@ -1,0 +1,367 @@
+BẢO
+  HIỂM XÃ HỘI VIỆT NAM
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+  5451/BHXH-CNTT
+V/v hướng dẫn đăng ký cấp giấy chứng
+  nhận nghỉ việc hưởng BHXH
+Hà
+  Nội, ngày
+27
+tháng
+12
+năm 201
+8
+K
+í
+nh
+gửi:
+B
+ả
+o hiểm xã hội các
+tỉ
+nh,
+thành phố
+trực thuộc
+trung
+ương.
+Bảo hiểm xã hội (BHXH)
+Việt
+Nam
+đ
+ã bổ sung ch
+ứ
+c
+n
+ă
+ng cho phép
+c
+á
+c
+cơ
+sở
+kh
+á
+m bệnh, chữa bệnh (KBCB) đăng ký
+mẫu
+dấu,
+mẫu chữ k
+ý
+sử dụng trên giấy chứng
+nhận ngh
+ỉ
+việc hưởng BHXH theo quy định tại
+Mục c, Khoản 5, Điều 26 Thông tư 56/2017/TT-BYT
+ngày 29/12/2017
+của Bộ Y
+tế
+trên C
+ổ
+ng
+t
+i
+ế
+p nhận
+dữ liệu
+h
+ệ thống th
+ô
+ng
+tin
+giám
+định bảo hiểm y tế
+(BHYT) (https://gdbhyt.baohiemxahoi.gov.vn), bổ sung chức năng tra cứu các cơ sở
+KBCB được cấp giấy chứng nhận nghỉ việc hưởng BHXH trên Cổng thông tin điện tử
+BHXH Việt Nam (https://baohiemxahoi.gov.vn). BHXH Việt Nam đề nghị Giám đốc
+BHXH các tỉnh, thành phố trực thuộc trung ương chỉ đạo:
+1.
+Phòng Công nghệ thông tin chủ trì, phối hợp với phòng Chế độ BHXH và phòng Giám
+định thực hiện:
+- Hướng dẫn các cơ sở KBCB
+thực hiện đăng ký mẫu dấu, mẫu chữ ký sử dụng trên giấy chứng nhận nghỉ việc hưởng
+BHXH (theo Phụ lục 8, Thông tư 56/2017/TT-BYT) trên Cổng tiếp nhận dữ liệu Hệ
+thống thông tin giám định BHYT
+(chi tiết theo hướng dẫn tại Phục lục 01 gửi
+kèm).
+- Hướng dẫn các tổ chức, cá
+nhân có liên quan để thực hiện tra cứu danh sách các cơ sở KBCB được phép cấp
+giấy chứng nhận nghỉ việc hưởng BHXH trên Cổng thông tin BHXH Việt Nam
+(chi tiết
+theo hướng dẫn tại phục lục 02 gửi kèm)
+2. Phòng
+Chế độ BHXH chủ trì phối hợp với phòng Giám định thực hiện thẩm định và phê duyệt
+các cơ sở KBCB đăng ký mẫu dấu, mẫu chữ ký sử dụng trên giấy chứng nhận nghỉ việc
+hưởng BHXH trên phần mềm Xét duyệt chính sách theo đúng quy định (
+chi tiết
+theo hướng dẫn tại Phục lục 03 gửi kèm).
+Trong quá trình thực hiện, nếu
+có phát sinh vướng mắc, đề nghị Bảo hiểm xã hội các tỉnh, thành phố trực thuộc
+trung ương báo cáo kịp thời về Bảo hiểm xã hội Việt Nam (Trung tâm Công nghệ
+thông tin) để xem xét, giải quyết./.
+Nơi
+  nhận:
+- Như trên;
+- Bộ Y tế;
+- Bộ Lao động - Thương binh và Xã hội;
+- Tổng liên đoàn lao động Việt Nam;
+- Tổng Giám đốc (để b/c);
+- Các Phó TGĐ;
+- UBND các tỉnh, thành phố;
+- Sở Y tế, Sở Lao động - Thương binh và Xã hội;
+- Các đơn vị trực thuộc BHXH Việt Nam;
+- Lưu: VT, CNTT.
+KT.
+  TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Trần Đình Liệu
+PHỤ
+LỤC 01
+HƯỚNG DẪN ĐĂNG KÝ MẪU DẤU, MẪU CHỮ KÝ SỬ DỤNG TRÊN GIẤY CHỨNG
+NHẬN NGHỈ VIỆC HƯỞNG BHXH
+(Gửi kèm theo công văn số
+:
+5451/
+BHXH-CNTT
+ngày 27/12/2018 của Bảo hiểm
+xã hội Việt Nam)
+1. C
+ơ
+s
+ở
+KCB đã ký hợp đồng KCB BHYT
+- Bước 1.
+Đăng nhập Cổng tiếp nhận dữ liệu Hệ thống thông tin giám định BHYT (Cổng
+GĐBHYT) tại địa chỉ https://gdbhyt.baohiemxahoi.gov.vn bằng
+tài
+khoản và mật khẩu
+đã được Bảo hi
+ể
+m
+xã hội Việt Nam cấp.
+- Bư
+ớ
+c
+2.
+Chọn chức năng
+Cấp chứng từ -> Đăng ký cấp chứng từ
+Màn hình sẽ hiển thị
+như sau:
+- Bước 3.
+Chọn nút
+để
+khai báo các thông tin để Đăng ký quyền cấp
+chứng
+từ.
+Trong đó:
++ Email: tài khoản
+thư điện tử liên hệ.
++ Số điện thoại: Điện
+thoại liên hệ.
++ CQ quản lý BHXH: Chọn
+cơ quan BHXH quản lý trực tiếp.
++ Giấy phép HĐ: Số của
+giấy phép hoạt động
++ Ngày cấp GP: Ngày cấp
+giấy phép hoạt động.
++ Người ĐD kí: Tên
+người đại diện ký trên Phụ lục 8 (theo TT 56/2017/TT-BYT)
++ Nơi nhận: Như nơi
+nhận trên Phụ lục 8 (theo TT 56/2017/TT-BYT)
++ M
+ẫ
+u
+đăn
+g
+kí đính kèm: Phụ lục 8 (theo TT
+56/2017/TT-BYT) có chữ ký, đóng dấu đ
+ỏ
+.
++ Thêm người hành nghề:
+Thêm danh sách người hành nghề được phép ký giấy chứng nhận nghỉ việc hưởng bảo
+hiểm xã hội theo Phụ lục 8 gửi kèm.
+- B
+ướ
+c
+4.
+Chọn
+Đăng ký
+. Nếu cơ quan BHXH từ chối sẽ thông báo
+lý do vào email của cơ sở KCB. Nếu cơ quan BHXH phê duyệt, cơ sở KCB sẽ thấy tại
+màn hình
+Kết quả gửi hồ sơ.
+2. Cơ sở KCB ch
+ư
+a
+ký hợp đồng KCB BHYT
+- Bước 1.
+Truy cập Cổng tiếp nhận dữ liệu Hệ thống thông tin giám định BHYT (Cổng GĐBHYT)
+tại địa chỉ https://gdbh
+y
+t.baohiemxahoi
+.
+gov.vn
+- Bước 2.
+Chọn
+Đăng ký cấp chứng từ
+như hình sau
+:
+- Bước 3. Chọn
+Đăng
+k
+ý
+tài khoản
+như hình sau
+:
+Bước 4.
+Khai báo các thông tin đ
+ể
+Đăng ký quy
+ề
+n
+cấp chứng từ.
+Trong đó:
++ Email: tài khoản
+thư điện tử liên hệ.
++ Số điện thoại: Điện
+thoại liên hệ.
++ C
+ơ
+quản
+l
+ý BHXH: Chọn cơ quan BHXH quản lý trực
+tiếp.
++ Giấy phép HĐ: Số của
+giấy phép hoạt động
++ Ngày cấp GP: Ngày cấp
+giấy phép hoạt động.
++ Người ĐD kí: Tên người
+đại diện ký trên Phụ lục 8 (theo TT 56/2017/TT-BYT)
++ Nơi nhận: Như nơi
+nhận trên Phụ lục 8 (theo TT 56/20
+1
+7/TT-BYT)
++ M
+ẫ
+u
+đăng kí đính kèm: Phụ lục 8 (theo TT 56/2017/TT-BYT) có chữ ký, đóng dấu đỏ.
++ Thêm người hành nghề:
+Thêm danh sách người hành nghề được phép ký giấy ch
+ứ
+ng
+nhận nghỉ việc hưởng bảo hiểm xã hội theo Phụ lục 8 gửi kèm.
+- Bước 5.
+Chọn
+Đăng ký
+và đợi Cổng GĐ BHYT gửi tài khoản và mật khẩu vào email đ
+ã
+khai báo ở
+Bước 4.
+Khi đăng ký thành công, cơ sở KCB sẽ nhìn thấy màn
+hình sau:
+PHỤ LỤC 02
+HƯỚNG DẪN TRA CỨU CÁC CƠ SỞ KCB ĐƯỢC PHÉP CẤP GIẤY CHỨNG NHẬN
+NGHỈ VIỆC HƯỞNG BHXH
+(Gửi kèm theo công văn số
+5451/
+BHXH-CNTT ngày
+27/12
+/20
+1
+8
+của Bảo hiểm xã hội Việt Nam)
+- Bước 1.
+Truy cập Cổng thông tin điện tử BHXH Việt Nam tại địa chỉ https://baohiemxahoi.gov.vn.
+- Bư
+ớ
+c
+2.
+Chọn chuyên mục
+Tr
+a
+cứu trực tuy
+ế
+n
+như
+hình sau:
+Bước 3.
+Chọn
+Tra cứu cơ
+s
+ở
+khám chữa bệnh
+và thực hiện tìm kiếm:
+PHỤ LỤC 03
+HƯỚNG DẪN PHÊ DUYỆT CÁC CƠ SỞ KCB ĐĂNG KÝ MẪU DẤU, MẪU CHỮ KÝ
+SỬ DỤNG TRÊN GIẤY CHỨNG NHẬN NGHỈ VIỆC HƯỞNG BHXH
+(Gửi kèm theo công văn số
+5451
+/BHXH-CNTT
+ng
+à
+y
+27
+/12/20
+1
+8
+của Bảo hiểm xã hội Việt Nam)
+- Bước 1.
+Đăng nhập phần mềm Xét duyệt chính sách tại địa chỉ
+https://tcs.baohiemxahoi.gov.vn bằng
+tài khoản và m
+ậ
+t
+kh
+ẩ
+u
+đã
+được cấp.
+- Bước 2.
+Chọn
+chức năng
+ODTS -> Phê duyệt đăng ký cấp chứng từ
+- B
+ướ
+c
+3.
+Chọn Cơ sở y tế đăng ký mẫu dấu, mẫu chữ ký sử dụng trên giấy
+chứng nhận nghỉ việc hưởng BHXH cần phê duyệt và chọn Phê duyệt/Hủy phê duyệt
+như hình sau:
+Trong đó, các chỉ
+tiêu tìm kiếm gồm:
++ Cơ sở KCB: Mã cơ sở
+KCB.
++ Tên cơ sở KCB: Tên
+cơ sở KCB.
++ Ký HĐBH: Loại cơ sở
+KCB (Ký hợp đồng KCB/ Không ký hợp đồng KCB).
++ Giấy phép hoạt động:
+S
+ố
+giấy phép hoạt động của cơ sở KCB.
++ Phê duyệt: Trạng
+thái của cơ sở KCB (Chưa phê duyệt/Phê duyệt/Từ chối).
++ Ngày duyệt: Ngày
+phê duyệt cơ sở KCB.
++ Từ ngày, Đ
+ế
+n
+ngày: Lọc các có ở KCB theo các chỉ tiêu tìm kiếm trên Từ ngày -> Đ
+ế
+n
+ngày.
+L
+ưu
+ý: Nháy đ
+ú
+p vào bản gh
+i
+thông tin cơ sở KCB ở grid view (lưới hiển thị phía dưới) để hiển thị Phụ lục 8
+theo Thông tư 56/2017/TT-BYT.
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

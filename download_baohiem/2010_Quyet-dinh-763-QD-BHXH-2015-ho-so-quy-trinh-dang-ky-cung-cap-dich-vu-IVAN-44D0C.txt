@@ -1,0 +1,277 @@
+BẢO HIỂM XÃ HỘI
+VIỆT NAM
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 763/QĐ-BHXH
+Hà Nội, ngày 10
+  tháng 07 năm 2015
+QUYẾT ĐỊNH
+VỀ VIỆC BAN HÀNH QUY ĐỊNH VỀ HỒ SƠ, THỦ TỤC, QUY TRÌNH ĐĂNG KÝ CUNG CẤP
+DỊCH VỤ I-VAN
+TỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM
+Căn cứ Luật Bảo hiểm xã hội số
+71/2006/QH11 ngày 29/6/2006;
+Căn cứ Luật Bảo hiểm y tế số
+25/2008/QH12 ngày 14/11/2008 và Luật số 46/2014/QH 13 ngày 13/6/2014 sửa đổi bổ
+sung một số điều của Luật Bảo hiểm y tế;
+Căn cứ Nghị định số 05/2014/NĐ-CP
+ngày 17/01/2014 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu
+tổ chức của Bảo hiểm xã hội Việt Nam;
+Căn cứ Quyết định số
+08/2015/QĐ-TTg ngày 09/3/2015 của Thủ tướng Chính phủ thí điểm về giao dịch điện
+tử trong việc thực hiện thủ tục tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm
+thất nghiệp và đề nghị cấp sổ bảo hiểm xã hội, thẻ bảo hiểm y tế;
+Xét đề nghị của Trưởng Ban Pháp chế
+và Giám đốc Trung tâm Công nghệ thông tin,
+QUYẾT ĐỊNH:
+Điều 1. Phạm vi
+điều chỉnh
+Quyết định này quy định về hồ sơ, thủ
+tục, quy trình đăng ký cung cấp dịch vụ I-VAN để thực hiện giao dịch điện tử
+trong lĩnh vực Bảo hiểm xã hội.
+Điều 2. Tiêu chí
+lựa chọn tổ chức cung cấp dịch vụ I-VAN
+1. Về chủ thể
+a) Là doanh nghiệp được thành lập
+theo quy định của Luật Doanh nghiệp, Luật Đầu tư và hoạt động tại Việt Nam.
+b) Có tối thiểu 03 năm hoạt động
+trong lĩnh vực công nghệ thông tin; đã triển khai thành công hệ thống trao đổi
+dữ liệu điện tử với ít nhất 10 cơ quan, tổ chức.
+2. Về tài chính, trụ sở làm việc
+a) Có đủ năng lực tài chính để thiết
+lập hệ thống trao đổi dữ liệu điện tử, trang thiết bị kỹ thuật, tổ chức và duy
+trì hoạt động phù hợp với quy mô cung cấp dịch vụ I-VAN;
+b) Có giấy bảo lãnh của tổ chức tín dụng
+hoạt động hợp pháp tại Việt Nam để giải quyết các rủi ro và bồi thường thiệt hại
+có thể xảy ra trong quá trình cung cấp dịch vụ. Mức bảo lãnh từ 05 tỷ đồng trở
+lên; thời gian bảo lãnh kéo dài đến khi hợp đồng cung cấp dịch vụ hết hiệu lực.
+c) Có trụ sở làm việc, địa điểm đặt
+trang thiết bị bảo đảm an toàn, phù hợp với loại hình dịch vụ cung cấp.
+3. Về nhân sự:
+a) Có tối thiểu 05 cán bộ trình độ đại
+học chuyên ngành công nghệ thông tin, có kinh nghiệm thực tiễn về quản trị mạng,
+bảo mật về hệ thống trao đổi dữ liệu điện tử, quản trị cơ sở dữ liệu, am hiểu
+pháp luật bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp;
+b) Có đội ngũ nhân viên kỹ thuật, thường
+xuyên trực 24 giờ trong ngày để duy trì hệ thống trao đổi dữ liệu điện tử và hỗ
+trợ người sử dụng dịch vụ I-VAN.
+4. Về kỹ thuật:
+a) Hệ thống, trang thiết bị kỹ thuật
+phải bảo đảm các yêu cầu sau:
+- Cung cấp dịch vụ cho người sử dụng
+lao động và kết nối với Cổng giao dịch điện tử của Bảo hiểm xã hội Việt Nam 24
+giờ trong ngày và 7 ngày trong tuần, kể cả ngày nghỉ, ngày lễ, ngày Tết, trừ thời
+gian bảo trì. Thời gian dừng hệ thống trao đổi dữ liệu điện tử để bảo trì không
+quá 3% tổng số giờ cung cấp dịch vụ trong một năm;
+- Có khả năng phát hiện, cảnh báo và
+ngăn chặn các truy nhập bất hợp pháp, các hình thức tấn công trên môi trường mạng
+để bảo đảm tính bảo mật, toàn vẹn của dữ liệu trao đổi giữa các bên tham gia;
+- Có các quy trình thực hiện sao lưu
+dữ liệu, sao lưu trực tuyến dữ liệu, khôi phục dữ liệu; có khả năng phục hồi dữ
+liệu chậm nhất là 08 giờ, kể từ thời điểm hệ thống trao đổi dữ liệu điện tử gặp
+sự cố.
+b) Giao dịch, lưu trữ hồ sơ bảo hiểm
+xã hội phải đáp ứng yêu cầu sau:
+- Lưu trữ kết quả giao dịch, lưu trữ
+hồ sơ bảo hiểm xã hội điện tử trong thời gian giao dịch chưa hoàn thành;
+- Thông điệp dữ liệu giao dịch điện tử
+gốc phải được lưu giữ trên hệ thống trao đổi dữ liệu điện tử và được truy cập
+trực tuyến;
+- Có phương án và hệ thống dự phòng để
+xử lý tình huống bất thường, khắc phục sự cố nhằm bảo đảm duy trì hoạt động an
+toàn, liên tục của hệ thống trao đổi dữ liệu điện tử.
+c) Yêu cầu về nhật ký giao dịch điện
+tử:
+- Nhật ký giao dịch điện tử phải được
+lưu trữ trong thời gian tối thiểu 10 năm, kể từ thời điểm thực hiện giao dịch
+thành công;
+- Bảo đảm việc theo dõi nhật ký giao
+dịch điện tử và tra cứu thông tin trên hệ thống trao đổi dữ liệu điện tử trong
+thời gian lưu trữ.
+d) Bảo đảm tiêu chuẩn kết nối dữ liệu
+do Bảo hiểm xã hội Việt Nam quy định.
+Điều 3. Tiêu chuẩn
+kết nối dữ liệu của Bảo hiểm xã hội Việt Nam
+Thực hiện theo Quyết định của Bảo hiểm
+xã hội Việt Nam về việc ban hành tài liệu đặc tả khuôn dạng hồ sơ và chuẩn trao
+đổi dữ liệu giữa tổ chức cung cấp dịch vụ I-VAN và Bảo hiểm xã hội Việt Nam.
+Điều 4. Hồ sơ
+đăng ký cung cấp dịch vụ I-VAN
+1. Hồ sơ đăng ký cung cấp dịch vụ
+I-VAN gồm:
+a) Đơn đăng ký cung cấp dịch vụ I-VAN
+(Mẫu 01/IVAN-ĐK kèm theo Quyết định này).
+b) Giấy chứng nhận đăng ký kinh doanh
+hoặc Giấy phép đầu tư của đơn vị (bản sao);
+c) Giấy chứng nhận sử dụng Chứng thư
+số do tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng cấp (bản sao có
+chứng thực);
+d) Giấy Công nhận tổ chức cung cấp dịch
+vụ T-VAN còn hiệu lực thi hành (bản sao) trong trường hợp tổ chức đã được Tổng
+Cục Thuế công nhận là tổ chức cung cấp dịch vụ T-VAN;
+đ) Giấy bảo lãnh của tổ chức tín dụng
+theo quy định tại Điểm b, Khoản 2 Điều 2 Quyết định này.
+e) Đề án kỹ thuật triển khai cung cấp
+dịch vụ I-VAN gồm các nội dung: Kế hoạch chi tiết; tiêu chuẩn chất lượng dịch vụ;
+nhân lực; kinh nghiệm của tổ chức; thời hạn dự kiến cung cấp dịch vụ và các
+thông tin cần thiết khác đáp ứng quy định tại
+Điều 6 Quyết định
+số 08/2015/QĐ-TTg
+ngày 09/3/2015 của Thủ tướng Chính phủ.
+2. Đối với các tổ chức đã được cấp Giấy
+công nhận tổ chức cung cấp dịch vụ T-VAN của Tổng cục Thuế, hồ sơ gồm các thành
+phần quy định tại Điểm a, c, d, đ, Khoản 1 Điều này.
+3. Đối với các tổ chức khác, hồ sơ gồm
+các thành phần quy định tại Điểm a, b, c, đ, e, Khoản 1 Điều này.
+Điều 5. Quy trình
+thực hiện
+1. Nộp hồ sơ đăng ký cung cấp dịch vụ
+I-VAN
+Tổ chức cung cấp dịch vụ I-VAN lập 02
+bộ hồ sơ đăng ký cung cấp dịch vụ I-VAN gửi đến Bảo hiểm xã hội Việt Nam trực
+tiếp hoặc qua đường bưu điện.
+2. Thẩm định hồ sơ
+a) Trong thời hạn 07 ngày làm việc kể
+từ ngày tiếp nhận hồ sơ đăng ký đối với tổ chức cung cấp dịch vụ I-VAN đã được
+cấp Giấy công nhận tổ chức cung cấp dịch vụ T-VAN; 10 ngày làm việc kể từ ngày
+tiếp nhận hồ sơ đăng ký đối với tổ chức khác, Bảo hiểm xã hội Việt Nam thẩm định
+hồ sơ đăng ký cung cấp dịch vụ I-VAN. Trường hợp cần thiết, thời gian xem xét,
+thẩm định được kéo dài nhưng không quá 20 ngày làm việc kể từ ngày tiếp nhận hồ
+sơ.
+b) Nếu hồ sơ đầy đủ, hợp lệ, đáp ứng
+đúng các tiêu chí quy định tại
+Điều 6 Quyết định số
+08/2015/QĐ-TTg
+và Điều 4 Quyết định này, Bảo hiểm xã hội Việt Nam có văn bản
+thông báo về việc chấp thuận hồ sơ của tổ chức, đồng thời đề nghị tổ chức thực
+hiện kết nối với Cổng giao dịch điện tử của Bảo hiểm xã hội Việt Nam trong thời
+hạn 07 ngày làm việc tính từ ngày nhận thông báo chấp thuận hồ sơ.
+c) Trường hợp tổ chức đăng ký cung cấp
+dịch vụ I-VAN không đáp ứng các tiêu chí quy định tại
+Điều 6 Quyết
+định số 08/2015/QĐ-TTg
+và Điều 4 Quyết định này, Bảo hiểm xã hội Việt Nam
+có văn bản thông báo không chấp thuận hồ sơ đề nghị cung cấp dịch vụ I-VAN và
+nêu rõ lý do.
+3. Kiểm tra hạ tầng kỹ thuật, chuẩn kết
+nối dữ liệu
+Trong thời hạn 10 ngày làm việc kể từ
+ngày tổ chức cung cấp dịch vụ I-VAN có văn bản thông báo hoàn thành việc kết nối
+với Cổng giao dịch điện tử của Bảo hiểm xã hội Việt Nam, Bảo hiểm xã hội Việt
+Nam tổ chức kiểm tra và lập Biên bản về kết quả kiểm tra hạ tầng kỹ thuật và
+công nhận việc kết nối. Trường hợp tổ chức không đáp ứng yêu cầu về hạ tầng kỹ
+thuật thì Bảo hiểm xã hội Việt Nam có văn bản thông báo không chấp thuận kết nối
+dữ liệu và nêu rõ lý do.
+4. Ký hợp đồng cung cấp dịch vụ I-VAN
+Trong thời hạn 05 ngày làm việc kể từ
+ngày ký Biên bản về kết quả kiểm tra hạ tầng kỹ thuật và công nhận việc kết nối,
+Bảo hiểm xã hội Việt Nam ký Hợp đồng cung cấp dịch vụ I-VAN với tổ chức cung cấp
+dịch vụ I-VAN tại trụ sở Bảo hiểm xã hội Việt Nam. Đồng thời, công bố công khai
+trên Website của Bảo hiểm xã hội Việt Nam về danh sách các tổ chức đã được ký Hợp
+đồng cung cấp dịch vụ I-VAN.
+Điều 6. Tổ chức
+thực hiện
+1. Trung tâm Công nghệ thông tin:
+a) Phối hợp với Ban Tuyên truyền
+thông báo công khai trên Website của Bảo hiểm xã hội Việt Nam Quyết định này và
+tài liệu đặc tả khuôn dạng hồ sơ và chuẩn trao đổi dữ liệu giữa tổ chức cung cấp
+dịch vụ I-VAN và Bảo hiểm xã hội Việt Nam để các tổ chức có nhu cầu đăng ký
+cung cấp dịch vụ biết để thực hiện.
+b) Tiếp nhận hồ sơ và tổ chức thẩm định,
+kiểm tra kỹ thuật và chuẩn kết nối dữ liệu báo cáo Tổng Giám đốc. Thông báo đến
+tổ chức đăng ký cung cấp dịch vụ I-VAN các nội dung quy định tại Khoản 2, 3 Điều
+5 Quyết định này.
+c) Ký hợp đồng với tổ chức cung cấp dịch
+vụ I-VAN sau khi có ý kiến đồng ý của Tổng Giám đốc.
+d) Phối hợp với tổ chức I-VAN hỗ trợ
+cho người sử dụng lao động trong thực hiện giao dịch điện tử với cơ quan Bảo hiểm
+xã hội.
+đ) Kiểm tra việc thực hiện hợp đồng
+đã ký kết và các điều kiện đảm bảo cho việc thực hiện hợp đồng của tổ chức
+I-VAN.
+2. Ban Pháp chế
+Thẩm định tính pháp lý của hồ sơ đăng
+ký cung cấp dịch vụ I-VAN và nội dung Hợp đồng cung cấp dịch vụ I-VAN theo đúng
+quy định.
+Điều 7: Điều khoản
+thi hành
+1. Quyết định này có hiệu lực kể từ
+ngày ký.
+2. Trưởng Ban Pháp chế, Giám đốc
+Trung tâm Công nghệ thông tin và Thủ trưởng các đơn vị trực thuộc Bảo hiểm xã hội
+Việt Nam chịu trách nhiệm thi hành Quyết định này./.
+Nơi nhận:
+- Như Điều 7;
+- Tổng Giám đốc (để b/c);
+- Website BHXHVN;
+- Lưu: VT, PC (05).
+KT. TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Đỗ Văn Sinh
+Mẫu:
+01/IVAN-ĐK
+(Ban
+hành kèm theo Quyết định số 763/QĐ-BHXH ngày 10/7/2015 của Bảo hiểm xã hội Việt
+Nam)
+CỘNG
+HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+----------------
+………..,
+ngày …….. tháng ………. năm ...
+ĐƠN
+ĐĂNG KÝ CUNG CẤP DỊCH VỤ I-VAN
+Kính gửi:
+Bảo hiểm xã hội Việt Nam
+1. Tổ chức chúng tôi là:
+- Tên tổ chức:...............................................................................................................
+- Giấy chứng nhận đăng ký kinh doanh
+của tổ chức hoặc Giấy chứng nhận đầu tư hoặc Giấy phép đầu tư của tổ chức nước
+ngoài tại Việt Nam số ……….. ngày ………… do ………… cấp.
+2. Mã số thuế:
+..............................................................................................................
+Địa chỉ trụ sở chính:
+......................................................................................................................................
+Điện thoại:
+....................................................... Fax:
+....................................................
+Email: ...........................................................................................................................
+Website cung cấp dịch vụ của tổ chức:.........................................................................
+4. Người đại diện theo pháp luật của
+tổ chức:
+Họ và tên:
+(Ghi bằng chữ in hoa)
+................................................  Nam/nữ: ................
+Chức danh:
+...................................................................................................................
+Sinh ngày: ……./………./........... …….. Dân tộc:
+.............  Quốc tịch: ..........................
+Chứng minh nhân dân số:
+............................................................................................
+Ngày cấp: ..............
+/...................... /................ Cơ quan cấp:
+......................................
+5. Chứng thư số
+Số chứng thư số:
+...........................................................................................................
+Tên tổ chức chứng thực chữ ký số công
+cộng: .............................................................
+Thời hạn sử dụng chứng thư số: từ
+ngày........................ đến ngày ..............................
+Đề nghị Bảo hiểm xã hội Việt Nam xem
+xét, chấp thuận cho ……………………(ghi rõ tên tổ chức) cung cấp dịch vụ I-VAN.
+Chúng tôi cam kết chịu trách nhiệm
+hoàn toàn trước pháp luật về tính chính xác, trung thực của nội dung hồ sơ đăng
+ký dịch vụ I-VAN. Nếu được Bảo hiểm xã hội Việt Nam xem xét chấp thuận, chúng
+tôi sẽ cung cấp dịch vụ I-VAN lâu dài, tối thiểu 5 năm trở lên cho người sử dụng
+dịch vụ kể từ thời điểm thực hiện hợp đồng./.
+ĐẠI DIỆN THEO
+  PHÁP LUẬT CỦA TỔ CHỨC
+(Ký và ghi rõ họ tên, đóng dấu)
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

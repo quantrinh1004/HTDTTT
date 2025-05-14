@@ -1,0 +1,589 @@
+BỘ Y TẾ
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 3144/BYT-BH
+V/v góp ý công văn hướng
+  dẫn quyết toán chi phí KCB BHYT năm 2020
+Hà Nội, ngày 22
+  tháng 04 năm 2021
+Kính gửi:
+Bảo
+hiểm xã hội Việt Nam
+Trả lời Công văn số 156/BHXH-CSYT ngày 19/01/2021
+và Công văn số 546/BHXH-CSYT ngày 08/3/2021 của Bảo hiểm xã hội Việt Nam về việc
+hướng dẫn quyết toán chi phí khám chữa bệnh (KCB) bảo hiểm y tế (BHYT) năm
+2020, Bộ Y tế có ý kiến như sau:
+1. Về hệ số điều chỉnh do biến
+động giá thuốc, hóa chất, vật tư y tế (k);
+Bộ Y tế sẽ thông báo hệ số k để Bảo hiểm xã hội Việt
+Nam hướng dẫn thực hiện sau khi có ý kiến của Bộ Tài chính.
+2. Xác định tổng mức thanh toán
+chi phí KCB BHYT cho cơ sở KCB BHYT hằng năm
+(theo Phụ lục đính kèm)
+3. Về việc thanh, quyết toán
+chi phí KCB BHYT hằng quý của năm 2021
+Nội dung này sẽ được nghiên cứu trong xây dựng
+Thông tư Hướng dẫn thanh toán chi phí khám bệnh, chữa bệnh bảo hiểm y tế theo
+giá dịch vụ.
+Trên đây là ý kiến của Bộ Y tế đối với dự thảo hướng
+dẫn quyết toán chi phí KCB BHYT năm 2020 của Bảo hiểm xã hội Việt Nam, đề nghị
+Bảo hiểm xã hội Việt Nam hướng dẫn thực hiện. Đối với một số bệnh viện có thuyết
+minh đặc thù, cơ quan BHXH phối hợp với cơ sở KCB xác định nguyên nhân, tổng hợp
+và gửi Bộ Y tế để thống nhất giải quyết. Trường hợp có vướng mắc phát sinh, kịp
+thời phản ánh về Bộ Y tế để thống nhất thực hiện.
+Nơi nhận:
+- Như trên;
+- Bộ trưởng (để b/c);
+- các Thứ trưởng (để biết);
+- Bộ Tài chính;
+- Các Vụ: PC, KH-TC, Các Cục: KCB, Dược, YDCT, BYT;
+- Lưu: VT, BH.
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+Trần Văn Thuấn
+PHỤ LỤC
+XÁC ĐỊNH TỔNG MỨC THANH TOÁN CHI PHÍ KCB BHYT TẠI CƠ SỞ
+KHÁM BỆNH, CHỮA BỆNH THEO QUY ĐỊNH TẠI KHOẢN 4 ĐIỀU 24 CỦA NGHỊ ĐỊNH SỐ
+146/2018/NĐ-CP
+(Kèm theo Công văn số 3144/BYT-BH ngày 22 tháng 4 năm 2021 của Bộ Y tế)
+I. Các từ viết tắt và thuật
+ngữ sử dụng trong công văn này.
+1. T_BHTT là số tiền thuộc phạm vi quỹ BHYT thanh
+toán theo phạm vi quyền lợi được hưởng và mức hưởng BHYT đã được Cơ quan BHXH tổng
+hợp vào quyết toán hàng quý với cơ sở KCB (ghi nhận trên Mẫu C80-HD).
+2. T_BNCCT là số tiền người bệnh cùng chi trả trong
+phạm vi quyền lợi được hưởng BHYT (ghi nhận trên Mẫu C80-HD).
+3. MHBQ là mức hưởng bình quân được xác định theo
+công thức:
+MHBQ (=) T_BHTT chia (:) [T_BHTT cộng (+) T_BNCCT].
+4. DVKT mới, thuốc mới, VTYT mới là DVKT, thuốc,
+VTYT được quỹ BHYT thanh toán trong năm tại cơ sở KCB làm phát sinh chi phí
+tăng hoặc giảm so với năm trước liền kề.
+II. Cách xác định chi phí KCB
+BHYT năm 2019 (T
+2019
+)
+T
+2019
+là chi phí KCB BHYT năm 2019 đã được
+Hội đồng quản lý BHXH Việt Nam thông qua, kể cả chi phí KCB BHYT được đưa vào
+quyết toán bổ sung hoặc thu hồi vào các năm sau (chi phí KCB BHYT được thẩm định
+quyết toán) bao gồm:
+1. Chi phí KCB BHYT năm 2019 đã được Hội đồng quản
+lý BHXH Việt Nam thông qua
+2. Chi phí KCB BHYT năm 2019 được đưa vào quyết
+toán bổ sung hoặc thu hồi vào các năm sau do điều chỉnh tổng mức thanh toán năm
+2019 gồm:
+a) Chi phí do vượt quỹ KCB BHYT năm 2018 đối với
+trường hợp đã được giám định, xác định là thuộc phạm vi được hưởng và mức hưởng
+của người tham gia BHYT theo đúng quy định của
+Khoản 4 Điều 35
+Luật BHYT
+và
+Điểm b khoản 3 Điều 6 Nghị định 105/2014/NĐ-CP
+;
+b) Chi phí phát sinh khách quan thuộc “yếu tố liên
+quan khác” đối với chi phí KCB đa tuyến đến năm 2018 theo quy định tại
+khoản 6 Điều 11 Thông tư số 41/2014/TTLT-BYT-BTC
+và theo hướng
+dẫn tại Công văn số 4336/BYT-BH ngày 13/8/2020 về giải quyết vướng mắc về tổng
+mức thanh toán chi phí KCB BHYT đa tuyến đến năm 2018;
+c) Chi phí vượt dự toán khách quan năm 2018 đã được
+giám định, xác định là thuộc phạm vi được hưởng và mức hưởng của người tham gia
+BHYT;
+d) Chi phí KCB BHYT phát sinh năm 2018 được thanh
+toán bổ sung do các nguyên nhân khác.
+3. Chi phí KCB BHYT năm 2019 được thanh toán bổ
+sung gồm:
+a) Do vượt dự toán khách quan năm 2019 đã được giám
+định, xác định là thuộc phạm vi được hưởng và mức hưởng của người tham gia BHYT
+hoặc chi phí KCB BHYT năm 2019 được thanh toán bổ sung;
+b) Chi phí KCB BHYT phát sinh năm 2019 được thanh
+toán bổ sung do các nguyên nhân khác.
+III. Xác định chi phí phát
+sinh trong năm 2020 (C
+2020
+)
+1. Xác định chi phí phát sinh
+do áp dụng dịch vụ kỹ thuật mới (C
+1
+)
+1.1. Xác định DVKT mới:
+a) DVKT mới được quỹ BHYT thanh toán trong năm 2020
+mà cơ sở KCB chưa được quỹ BHYT thanh toán trong năm 2019.
+b) DVKT đã được xác định là DVKT mới và được quỹ
+BHYT thanh toán trong năm 2019 nhưng từ thời điểm áp dụng tính đến 31/12/2019
+chưa đủ 12 tháng, tiếp tục sử dụng trong năm 2020.
+c) Đối với các DVKT chưa được cấp có thẩm quyền phê
+duyệt thực hiện tại cơ sở KCB trong năm 2019 nhưng cơ sở KCB đó chuyển bệnh phẩm
+hoặc người bệnh đến cơ sở KCB khác để thực hiện, chi phí thực hiện DVKT đó đã
+được tổng hợp vào chi phí KCB năm 2019 của cơ sở KCB đó, trong năm 2020 cơ sở
+KCB được phê duyệt DVKT này thì không được coi là DVKT mới phát sinh.
+1.2. Phân loại DVKT mới:
+a) DVKT mới hoàn toàn là DVKT mới không thay thế
+DVKT khác đã được quỹ BHYT thanh toán trong năm 2019 tại cơ sở KCB đó.
+b) DVKT mới thay thế DVKT khác là DVKT mới thay thế
+cho DVKT đã được quỹ BHYT thanh toán trong năm 2019.
+1.3. Cách xác định chi phí phát sinh do thực hiện
+DVKT mới trong năm 2020 mà cơ sở KCB chưa được quỹ BHYT thanh toán trong năm
+2019.
+a) Chi phí phát sinh tăng do thực hiện DVKT mới
+hoàn toàn bằng (=) T_BHTT của DVKT mới năm 2020.
+Trường hợp DVKT sử dụng đối với bệnh mới mà bệnh đó
+được Quỹ BHYT thanh toán trong năm 2020, không được thanh toán trong năm 2019
+thì không tính phát sinh tăng (các chi phí phát sinh tăng của DVKT này đã được
+tính tăng tại tiết a điểm 7.5 khoản 7 Mục này);
+b) Chi phí phát sinh giảm do DVKT được thanh toán
+trong năm 2019, không được thanh toán trong năm 2020 bằng (=) T
+2019
+của DVKT năm 2019.
+Trường hợp DVKT sử dụng đối với bệnh mà bệnh đó được
+quỹ BHYT thanh toán trong năm 2019, không được thanh toán trong năm 2020 thì
+không tính phát sinh giảm (các chi phí phát sinh giảm của DVKT này đã được tính
+giảm tại tiết a điểm 7.5 khoản 7 Mục này).
+c) Chi phí phát sinh tăng hoặc giảm do thực hiện
+DVKT mới thay thế bằng (=) số lần sử dụng DVKT mới thay thế trong năm 2020 nhân
+(x) [đơn giá DVKT mới trừ (-) đơn giá của DVKT cũ] nhân (x) MHBQ của người bệnh
+năm 2020.
+Ví dụ: DVKT mới A thay thế DVKT B thì chi phí phát
+sinh tăng giảm bằng (=) Số lần sử dụng DVKT mới A nhân (x) [đơn giá của A trừ
+(-) đơn giá B] nhân (x) MHBQ của A.
+1.4. Cách xác định chi phí phát sinh do sử dụng
+DVKT mới được quỹ BHYT thanh toán trong năm 2019 nhưng từ thời điểm áp dụng
+tính đến 31/12/2019 chưa đủ 12 tháng, tiếp tục sử dụng trong năm 2020.
+a) Chi phí phát sinh tăng do thực hiện DVKT mới
+hoàn toàn bằng (=) T_BHTT của DVKT mới năm 2020 trừ (-) T_BHTT của DVKT mới đó
+năm 2019;
+b) Chi phí phát sinh tăng hoặc giảm do thực hiện
+DVKT mới thay thế bằng (=) (Số lần sử dụng DVKT mới trong năm 2020 - Số lần sử
+dụng DVKT mới trong năm 2019) nhân (x) [đơn giá DVKT mới năm 2020 trừ (-) đơn
+giá của DVKT được thay thế] nhân (x) MHBQ năm 2020.
+2. Xác định chi phí phát sinh
+do bổ sung thuốc mới chưa tính trong giá dịch vụ y tế sử dụng tại cơ sở khám bệnh,
+chữa bệnh (C
+2
+)
+2.1. Xác định thuốc mới:
+2.1.1. Thuốc mới được quỹ BHYT thanh toán trong năm
+2020 mà cơ sở KCB chưa được quỹ BHYT thanh toán trong năm 2019, bao gồm:
+a) Thuốc hóa dược, sinh phẩm, thuốc phóng xạ và hợp
+chất đánh dấu có hoạt chất mới hoặc thuốc có thay đổi tỷ lệ hoặc điều kiện
+thanh toán mới.
+b) Thuốc cổ truyền (không bao gồm vị thuốc cổ truyền),
+thuốc dược liệu (sau đây gọi chung là chế phẩm YHCT) do cơ sở KCB mua sắm từ
+đơn vị cung ứng và có thành phần mới, tương ứng với số thứ tự mới (theo cột số
+1) tại Danh mục thuốc đông y, thuốc từ dược liệu (Mục A) thuộc Danh mục thuốc
+đông y, thuốc từ dược liệu và vị thuốc y học cổ truyền thuộc phạm vi thanh toán
+của quỹ BHYT ban hành kèm theo Thông tư 05/2015/TT-BYT.
+c) Chế phẩm YHCT do cơ sở KCB tự chế biến, bào chế:
+Có thành phần mới, tương ứng với số thứ tự mới
+(theo cột số 1) tại Danh mục thuốc đông y, thuốc từ dược liệu (Mục A) thuộc
+Danh mục thuốc đông y, thuốc từ dược liệu và vị thuốc y học cổ truyền thuộc phạm
+vi thanh toán của quỹ BHYT ban hành kèm theo Thông tư 05/2015/TT-BYT mà chưa có
+chế phẩm YHCT mua sắm từ đơn vị tương ứng trong năm 2019.
+Hoặc thuốc có thành phần mới không tương ứng với
+thành phần thuốc tại Danh mục thuốc đông y, thuốc từ dược liệu (Mục A) thuộc
+Danh mục thuốc đông y, thuốc từ dược liệu và vị thuốc y học cổ truyền thuộc phạm
+vi thanh toán của quỹ BHYT ban hành kèm theo Thông tư 05/2015/TT-BYT, nhưng có
+thành phần mới so với chế phẩm YHCT do cơ sở KCB tự chế biến, bào chế sử dụng
+trong năm 2019.
+d) Vị thuốc cổ truyền mới.
+2.1.2. Các thuốc mới nêu tại tiết 2.1.1 nêu trên được
+xác định trong các trường hợp sau:
+a) Do thay đổi danh mục, tỷ lệ, điều kiện thanh
+toán đối với thuốc thuộc phạm vi được hưởng của người tham gia bảo hiểm y tế
+ban hành kèm theo:
+- Thông tư số 30/2018/TT-BYT ngày 30/10/2018 của Bộ
+trưởng Bộ Y tế so với Thông tư số 40/2019/TT-BYT;
+- Thông tư 01/2020/TT-BYT so với Thông tư số
+30/2018/TT-BYT;
+b) Do cơ sở KCB thay đổi hạng bệnh viện dẫn đến bổ
+sung thuốc mới được sử dụng tại cơ sở KCB;
+c) Do cơ sở KCB thay đổi phạm vi hoạt động theo quyết
+định của cấp có thẩm quyền;
+d) Do thực hiện dịch vụ kỹ thuật mới tại cơ sở KCB;
+đ) Do thay đổi hướng dẫn chẩn đoán và điều trị hoặc
+quy trình kỹ thuật theo quy định của Bộ Y tế;
+e) Thay đổi phạm vi chỉ định thuốc theo hồ sơ đăng
+ký đã được Bộ Y tế cấp phép;
+g) Được quỹ BHYT thanh toán mà trước đó được ngân
+sách nhà nước hoặc nguồn khác chi trả;
+h) Là thuốc được sử dụng để điều trị bệnh không phải
+bệnh mới hoàn toàn nhưng năm trước chưa có thuốc điều trị.
+2.1.3. Thuốc được xác định là thuốc mới và đã được
+quỹ BHYT thanh toán trong năm 2019 nhưng từ thời điểm áp dụng tính đến
+31/12/2019 chưa đủ 12 tháng, tiếp tục sử dụng trong năm 2020.
+2.2. Phân loại thuốc mới:
+a) Thuốc mới hoàn toàn là thuốc mới mà thuốc này
+không thay thế cho thuốc khác.
+b) Thuốc mới thay thế là thuốc mới thay thế cho thuốc
+cũ.
+- Việc xác định thuốc hóa dược và sinh phẩm, thuốc
+phóng xạ và hợp chất đánh dấu cũ dựa trên xem xét các yếu tố tương đồng giữa
+thuốc cũ và thuốc mới trên các nội dung sau: Chỉ định điều trị (dựa vào mức
+phân loại ATC); đường dùng của thuốc; nhóm thuốc đấu thầu.
+- Việc xác định chế phẩm YHCT và vị thuốc cổ truyền
+trên cơ sở các yếu tố tương đồng sau: Y lý y học cổ truyền; tác dụng dược lý;
+chỉ định điều trị; đường dùng của thuốc; nhóm thuốc trong đấu thầu.
+Ghi chú:
++ Không xác định thuốc hóa dược và sinh phẩm; vị
+thuốc cổ truyền; Chế phẩm YHCT thay thế lẫn nhau giữa các nhóm.
++ Không xác định vị thuốc cổ truyền thay thế lẫn
+nhau.
+c) Thuốc có thay đổi điều kiện thanh toán theo hướng
+dẫn tại tiểu tiết a, đ và e tiết 2.1.2 điểm 2.1 khoản này.
+d) Thước thay đổi tỷ lệ thanh toán
+2.3. Cách xác định chi phí phát sinh thuốc mới
+năm 2020
+a) Chi phí phát sinh tăng khi cơ sở KCB sử dụng thuốc
+mới hoàn toàn trong năm 2020 bằng (=) T_BHTT của thuốc mới của năm 2020.
+b) Chi phí phát sinh tăng hoặc giảm khi cơ sở sử dụng
+thuốc mới thay thế được tính bằng (=) số lượt KCB sử dụng thuốc mới thay thế
+năm 2020 nhân (x) {[T_BHTT của thuốc mới thay thế của năm 2020 chia (:) số lượt
+KCB sử dụng thuốc mới thay thế năm 2020] trừ (-) [T_BHTT của thuốc cũ năm 2019
+chia (:) số lượt KCB sử dụng thuốc cũ năm 2019]};
+2.4. Cách xác định chi phí phát sinh do thuốc đã
+được xác định là thuốc mới và được quỹ BHYT thanh toán trong năm 2019 nhưng từ
+thời điểm áp dụng tính đến ngày 31/12/2019 chưa đủ 12 tháng, tiếp tục được quỹ
+BHYT thanh toán trong năm 2020:
+a) Chi phí phát sinh do thuốc mới hoàn toàn bằng
+(=) T_BHTT của thuốc mới của năm 2020 trừ (-) T_BHTT của thuốc mới đó của năm
+2019.
+b) Chi phí phát sinh do thuốc mới thay thế bằng (=)
+[số lượt KCB sử dụng thuốc mới thay thế của năm 2020 trừ (-) số lượt KCB sử dụng
+thuốc mới thay thế của năm 2019] nhân với (x) [T_BHTT của thuốc mới thay thế của
+năm 2020 chia (:) số lượt KCB sử dụng thuốc mới thay thế của năm 2020 trừ (-)
+T_BHTT của thuốc cũ thay thế năm 2019 chia (:) số lượt KCB sử dụng thuốc cũ
+thay thế năm 2019].
+Cách xác định thuốc cũ năm 2019 theo hướng dẫn tại
+tiết b điểm 2.3 và tiết b điểm 2.4, khoản này thực hiện như sau:
+- Trường hợp tất cả các thuốc cũ đều có chi phí thuốc
+bình quân một (01) lượt KCB được quỹ BHYT thanh toán năm 2019 cao hơn chi phí
+thuốc bình quân một (01) lượt KCB được quỹ BHYT thanh toán của năm 2020 của thuốc
+mới, thì không tính chi phí phát sinh giảm do sử dụng thuốc thay thế;
+- Các trường hợp còn lại, sau khi xác định thuốc cũ
+theo các nguyên tắc nêu trên, chỉ lựa chọn một (01) loại thuốc cũ là thuốc được
+thay thế bởi thuốc mới theo nguyên tắc: thuốc có chi phí thuốc bình quân một
+(01) lượt KCB được quỹ BHYT thanh toán năm 2019 cao nhất nhưng thấp hơn chi phí
+thuốc bình quân một (01) lượt KCB được quỹ BHYT thanh toán của năm 2020 của thuốc
+mới;
+Lưu ý: Phần chi phí phát sinh tăng hoặc giảm do thuốc
+mới thay thế thuốc cũ chưa bao gồm việc thay đổi mô hình bệnh tật, tỷ lệ cơ cấu
+bệnh phải sử dụng thuốc mới và thuốc cũ. Lượt KCB tính riêng cho khám ngoại
+trú, điều trị ngoại trú hoặc điều trị nội trú.
+2.5. Cách xác định chi phí phát sinh do thuốc có
+thay đổi điều kiện thanh toán:
+a) Trường hợp chỉ định thuốc mở rộng không có thuốc
+thay thế: xác định chi phí phát sinh theo hướng dẫn tại tiết a điểm 2.3 và tiết
+a điểm 2.4 khoản này;
+b) Trường hợp chỉ định thuốc bị thu hẹp không có
+thuốc thay thế. Chi phí phát sinh giảm bằng (=) T_BHTT của chỉ định của thuốc bị
+thu hẹp của năm 2020 trừ (-) T_BHTT của chỉ định của thuốc bị thu hẹp của năm
+2019.
+c) Trường hợp chỉ định thuốc mở rộng có thuốc thay
+thế: xác định chi phí phát sinh theo hướng dẫn tại tiết b điểm 2.3 và tiết b điểm
+2.4 khoản này;
+d) Trường hợp chỉ định thuốc bị thu hẹp có thuốc
+thay thế: không tính chi phí phát sinh tăng giảm.
+2.6. Cách xác định chi phí phát sinh do thuốc có
+thay đổi tỷ lệ thanh toán, trong đó: Thuốc mới là thuốc với tỷ lệ thanh toán mới,
+thuốc cũ là thuốc với tỷ lệ thanh toán cũ.
+a) Trường hợp thuốc thay đổi tỷ lệ thanh toán trong
+năm 2020: Xác định chi phí phát sinh theo hướng dẫn tại tiết b điểm 2.3 khoản
+này.
+b) Trường hợp thay đổi tỷ lệ thanh toán trong năm
+2019 nhưng từ thời điểm áp dụng tính đến ngày 31/12/2019 chưa đủ 12 tháng, tiếp
+tục được quỹ BHYT thanh toán trong năm 2020: xác định chi phí phát sinh theo hướng
+dẫn tại tiết b điểm 2.4 khoản này.
+3. Xác định chi phí phát sinh
+do bổ sung vật tư y tế mới chưa tính trong giá dịch vụ khám bệnh, chữa bệnh (C
+3
+)
+3.1. Xác định vật tư y tế mới:
+a) Vật tư y tế mới là VTYT được quỹ BHYT thanh toán
+trong năm 2020 mà có phát sinh chi phí tại cơ sở KCB trong các trường hợp sau:
+a1) Do được bổ sung thanh toán ngoài giá dịch vụ
+KCB mà trước đây chưa bao gồm trong cơ cấu giá dịch vụ KCB quy định tại Thông
+tư số 39/2018/TT-BYT ngày 30/11/2018, Thông tư số 13/2019/TT-BYT ngày 05/7/2019
+sửa đổi, bổ sung một số điều của Thông tư số 39/2018/TT-BYT ngày 30/11/2018 quy
+định thống nhất giá dịch vụ KCB bảo hiểm y tế giữa các bệnh viện cùng hạng
+trong toàn quốc và hướng dẫn áp dụng giá, thanh toán chi phí KCB bảo hiểm y tế
+trong một số trường hợp và Quyết định số 7435/QĐ-BYT ngày 14/12/2018 ban hành bổ
+sung Danh mục các DVKT KCB được xếp tương đương về kỹ thuật và chi phí thực hiện
+theo Thông tư 39/2018/TT-BYT ngày 30/11/2018.
+a2) Để thực hiện các DVKT mới, phương pháp điều trị
+mới tại cơ sở KCB đã được cấp có thẩm quyền phê duyệt.
+a3) Năm trước được ngân sách nhà nước hoặc nguồn
+khác chi trả.
+b) VTYT đã được xác định là VTYT mới và được quỹ
+BHYT thanh toán trong năm 2019 nhưng từ thời điểm áp dụng tính đến 31/12/2019
+chưa đủ 12 tháng, tiếp tục sử dụng trong năm 2020.
+3.2. Phân loại VTYT mới
+a) VTYT mới hoàn toàn bao gồm:
+a1) VTYT mới, không thay thế cho VTYT khác
+a2) VTYT sử dụng cho DVKT mới hoàn toàn theo hướng
+dẫn tại tiết a, điểm 1.2 khoản 1 Mục này.
+a3) VTYT mới để thực hiện dịch vụ kỹ thuật y tế mà
+trước đây VTYT này chưa được thanh toán và không thay thế cho VTYT khác để thực
+hiện dịch vụ KCB đó.
+b) VTYT mới thay thế là VTYT mới không thuộc VTYT
+hướng dẫn tại tiết a điểm này để thay thế cho VTYT khác đã được quỹ BHYT thanh
+toán trong các năm trước
+3.3. Cách xác định chi phí phát sinh do sử dụng
+VTYT mới trong năm 2020.
+a) Chi phí phát sinh tăng do VTYT mới hoàn toàn bằng
+(=) T_BHTT của VTYT mới của năm 2020.
+b) Chi phí phát sinh tăng hoặc giảm của một loại
+VTYT thay thế bằng (=){[T_BHTT của VTYT mới sử dụng của năm 2020 chia (:) số lượng
+VTYT mới sử dụng của năm 2020] trừ (-) [T_BHTT của VTYT cũ sử dụng năm 2019
+chia (:) số lượng VTYT cũ sử dụng năm 2019]}nhân (x) số lượng VTYT mới sử dụng
+của năm 2020.
+3.4. Cách xác định chi phí phát sinh do sử dụng
+VTYT đã được xác định là VTYT mới và được quỹ BHYT thanh toán trong năm 2019
+nhưng từ thời điểm áp dụng tính đến 31/12/20 29 chưa đủ 12 tháng, tiếp tục sử dụng
+trong năm 2020:
+a) Chi phí phát sinh tăng do VTYT mới hoàn toàn bằng
+(=) T_BHTT của VTYT mới năm 2020 trừ (-) T_BHYT của VTYT mới năm 2019
+b) Chi phí phát sinh tăng hoặc giảm do thực hiện
+VTYT mới thay thế bằng (=){[T_BHTT của VTYT mới sử dụng trong năm 2020 chia (:)
+số lượng VTYT mới sử dụng trong năm 2020] trừ (-) [T_BHTT của VTYT cũ sử dụng
+năm 2019 chia (:) số lượng VTYT cũ sử dụng năm 2019]} nhân (x) [số lượng VTYT mới
+sử dụng trong năm 2020 trừ (-) số lượng VTYT mới sử dụng trong năm 2019]
+3.5. Do thay đổi lương cơ sở dẫn đến thay đổi chi
+phí VTYT cho một lần sử dụng DVKT được quỹ BHYT thanh toán không vượt quá 45
+tháng lương cơ sở
+Người bệnh áp dụng quy định tổng chi phí VTYT cho một
+lần sử dụng DVKT được quỹ BHYT thanh toán không vượt quá 45 tháng lương cơ sở,
+có TONG_TIEN_BH xác định theo Phụ lục số 02 ban hành kèm theo Công văn số
+7464/BYT-BH ngày 28/12/2017 của Bộ Y tế hướng dẫn bổ sung một số chỉ tiêu dữ liệu
+ban hành kèm theo Quyết định số 4210/QĐ-BYT ngày 20/9/2017 của Bộ Y tế từ
+62.550.000 đồng trong thời gian từ 01/01/2020 đến 30/6/2020.
+Lưu ý:
+Trường hợp người bệnh sử dụng nhiều
+hơn một stent động mạch vành phủ thuốc, TONG_TIEN_BH của người bệnh chỉ xác định
+theo stent thứ nhất và các VTYT thông thường khác.
+Chi phí VTYT phát sinh của người bệnh có TONG_TIEN_BH
+từ 62.550.000 đồng đến 67.050.000 đồng bằng (=) [TONG_TIEN_BH trừ (-)
+62.550.000 đồng] x Mức hưởng BHYT của người bệnh.
+Chi phí VTYT phát sinh của người bệnh có
+TONG_TIEN_BH từ 67.050.000 đồng bằng (=) 4.500.000 đồng nhân (x) Mức hưởng BHYT
+của người bệnh.
+4. Xác định chi phí phát sinh
+do áp dụng giá máu, chế phẩm máu mới(C
+4
+)
+4.1. Xác định giá máu, chế phẩm máu mới
+Giá máu, chế phẩm máu mới theo giá mua vào của cơ sở
+KCB thay đổi nhưng không vượt quá giá máu, chế phẩm máu theo quy định của Bộ Y
+tế.
+4.2. Cách xác định chi phí phát sinh
+Chi phí phát sinh tăng hoặc giảm khi giá máu, chế
+phẩm máu thay đổi bằng (=) Số lượng đơn vị máu, chế phẩm máu, xét nghiệm sàng lọc
+đơn vị máu điều chỉnh giá được sử dụng của năm 2020 nhân (x) phần chênh lệch giữa
+đơn giá mới và đơn giá cũ nhân (x) MHBQ của máu, chế phẩm máu điều chỉnh giá.
+5. Xác định chi phí phát sinh
+do điều chỉnh hạng bệnh viện (C
+5
+)
+5.1. Xác định trường hợp làm phát sinh chi phí do
+điều chỉnh hạng bệnh viện
+a) Giá dịch vụ khám bệnh, giá dịch vụ ngày giường bệnh
+được điều chỉnh tăng hoặc giảm do điều chỉnh hạng bệnh viện theo quyết định của
+cấp có thẩm quyền.
+b) Mức hưởng của người tham gia BHYT thay đổi khi
+KCB tại cơ sở KCB có thay đổi tuyến KCB BHYT do điều chỉnh hạng bệnh viện.
+c) Thuốc, hóa chất bị loại ra khỏi danh mục thuốc
+được sử dụng tại cơ sở KCB do cơ sở KCB thay đổi hạng bệnh viện dẫn đến thu hẹp
+Danh mục thuốc.
+5.2. Cách xác định chi phí phát sinh tăng hoặc giảm
+do điều chỉnh hạng bệnh viện làm thay đổi giá dịch vụ khám bệnh, giá dịch vụ
+ngày giường bệnh
+Chi phí phát sinh tăng hoặc giảm do thay đổi giá dịch
+vụ khám bệnh, giá dịch vụ ngày giường bệnh bằng (=) Số lượt khám bệnh hoặc số
+ngày giường bệnh sử dụng của năm 2020 kể từ ngày có điều chỉnh hạng bệnh viện
+(x) phần chênh lệch giữa đơn giá mới và đơn giá cũ nhân (x) MHBQ của chi phí
+khám bệnh, chi phí ngày giường bệnh.
+5.3. Cách xác định chi phí phát sinh tăng hoặc giảm
+do thay đổi mức hưởng của người tham gia BHYT tự đi KCB không đúng tuyến tại cơ
+sở KCB trong năm 2020 có thay đổi tuyến KCB BHYT từ tuyến tỉnh xuống tuyến huyện
+và ngược lại được xác định từ thời điểm điều chỉnh tuyến KCB BHYT, như sau:
+a) Đối với KCB ngoại trú: Không tính chi phí phát
+sinh tăng hoặc giảm do số lượt KCB BHYT ngoại trú tăng hoặc giảm đã được tính tại
+C
+7
+.
+b) Đối với điều trị nội trú của năm 2020:
+- Chi phí phát sinh tăng khi thay đổi từ tuyến tỉnh
+xuống tuyến huyện được xác định bằng (=) T_BHTT của người bệnh đến KCB trái tuyến
+của năm 2020 nhân (x) 40%.
+- Chi phí phát sinh giảm khi thay đổi từ tuyến huyện
+lên tuyến tỉnh được xác định bằng (=) T_BHTT của người bệnh đến KCB BHYT trái
+tuyến của năm 2020 chia (:) 60% nhân (x) 40%.
+5.4. Cách xác định chi phí phát sinh tăng hoặc giảm
+do thay đổi mức hưởng của người tham gia BHYT tự đi KCB không đúng tuyến tại cơ
+sở KCB trong năm 2020 có thay đổi tuyến KCB BHYT từ tuyến trung ương xuống tuyến
+tỉnh và ngược lại được xác định như sau:
+a) Đối với KCB ngoại trú: Không phát sinh chi phí.
+b) Đối với điều trị nội trú của cơ sở KCB thay đổi
+tuyến trong năm 2020:
+- Chi phí phát sinh tăng khi thay đổi từ tuyến
+trung ương xuống tuyến tỉnh được xác định bằng (=) {T_BHTT của người bệnh đến
+KCB trái tuyến của năm 2020 chia (:) 60% nhân (x) 20%.
+- Chi phí phát sinh giảm khi thay đổi từ tuyến tỉnh
+lên tuyến trung ương được xác định bằng (=) T_BHTT của người bệnh đến KCB trái
+tuyến của năm 2020 chia (:) 40% nhân (x) 20%.
+5.5. Chi phí phát sinh giảm do thuốc, hóa chất bị
+loại ra khỏi danh mục thuốc được sử dụng tại cơ sở KCB do cơ sở KCB thay đổi hạng
+bệnh viện được tính như sau:
+Chỉ tính theo hoạt chất thuốc bị loại bỏ hoàn toàn,
+không tính đối với các thuốc không bị loại bỏ hoàn toàn mà chỉ bị loại bỏ đường
+dùng hoặc các thuốc dạng phối hợp bị loại bỏ mà hoạt chất trong thành phần phối
+hợp vẫn tiếp tục được sử dụng tại cơ sở KCB đó dưới dạng đơn chất hoặc dưới dạng
+phối hợp khác:
+a) Trường hợp có thuốc thay thế (không sử dụng thuốc
+đông y, thuốc y học cổ truyền để thay thế thuốc hóa dược, thuốc sinh phẩm), thì
+không tính chi phí phát sinh tăng giảm.
+b) Trường hợp không có thuốc thay thế (không sử dụng
+thuốc đông y, thuốc y học cổ truyền để thay thế thuốc hóa dược, thuốc sinh phẩm),
+tính phát sinh chi phí như sau:
+Chi phí phát sinh bằng (=) T_BHTT của thuốc của năm
+2020 trừ đi (-) {T_BHTT của thuốc năm 2019 nhân với (x) số lượt KCB của năm
+2020 của cơ sở KCB chia cho (:) số lượt KCB năm 2019 của cơ sở KCB}.
+Lưu ý:
+Khi cơ sở KCB không phát sinh chi phí thuốc bị loại
+trong năm 2020, thì chi phí của thuốc bị loại trong năm 2020 được quỹ BHYT
+thanh toán bằng không (0); trường hợp T_BHTT của thuốc trong năm 2020 lớn hơn
+{T_BHTT của thuốc năm 2019 nhân với (x) số lượt KCB trong năm 2020 của cơ sở
+KCB chia cho (:) Số lượt KCB năm 2019 của cơ sở KCB} thì chi phí phát sinh bằng
+(=) không (0).
+Số lượt KCB của cơ sở KCB tính theo ngoại trú, nội
+trú, gồm tổng số lượt KCB của cơ sở KCB (bao gồm cả lượt KCB có sử dụng thuốc
+hoặc không sử dụng thuốc đó).
+6. Xác định chi phí phát sinh
+do thay đổi phạm vi hoạt động của cơ sở khám bệnh, chữa bệnh theo quyết định của
+cấp có thẩm quyền (C
+6
+)
+6.1. Xác định trường hợp làm phát sinh chi phí do
+thay đổi phạm vi hoạt động của cơ sở khám bệnh, chữa bệnh.
+a) Cơ sở KCB có quyết định của cấp có thẩm quyền về
+thành lập khoa/phòng, cơ sở KCB mới (trừ các trường hợp tách hoặc sáp nhập);
+b) Cơ sở KCB có quyết định của cấp có thẩm quyền giải
+thể khoa, phòng chuyên môn;
+c) Cơ sở KCB bổ sung thêm chuyên khoa của phòng
+khám; mở rộng phạm vi, quy mô hoạt động.
+6.2. Cách xác định chi phí phát sinh
+Chi phí phát sinh của cơ sở KCB nêu tại điểm 6.1
+khoản này được tính vào chi phí phát sinh do áp dụng DVKT, thuốc, VTYT mới, áp
+dụng giá máu, chế phẩm máu mới, điều chỉnh hạng bệnh viện, thay đổi mô hình bệnh
+tật, đối tượng người có thẻ VHYT và thay đổi số lượt KCB.
+7. Xác định chi phí phát sinh
+do thay đổi mô hình bệnh tật, đối tượng người có thẻ BHYT và thay đổi số lượt
+khám bệnh, chữa bệnh (C
+7
+).
+7.1. Số lượt KCB thay đổi làm phát sinh chi phí KCB
+BHYT bao gồm:
+a) Khám ngoại trú;
+b) Điều trị ngoại trú;
+c) Điều trị lưu tại TYT xã, PKĐK khu vực;
+d) Điều trị nội trú;
+đ) Điều trị nội trú ban ngày.
+7.2. Đối tượng người có thẻ BHYT thay đổi số lượt
+KCB bao gồm:
+a) Đối tượng đăng ký KCB ban đầu tại cơ sở KCB;
+b) Đối tượng đăng ký KCB ban đầu tại cơ sở KCB khác
+đến KCB đúng tuyến;
+c) Đối tượng đăng ký KCB ban đầu tại cơ sở KCB khác
+đến KCB không đúng tuyến.
+Đối với cơ sở KCB từ tuyến huyện trở xuống tính
+chung cho tất cả các đối tượng.
+Đối với cơ sở KCB từ tuyến tỉnh trở lên hoặc có
+thay đổi tuyến KCB BHYT trong năm 2019, 2020, cơ sở KCB tính riêng theo từng
+nhóm đối tượng.
+7.3. Mã bệnh hoặc mã loại bệnh được thống kê theo
+mã bệnh chính hoặc mã loại bệnh chính theo nguyên tắc tương đồng giữa 2 năm
+(cùng mã và cùng số lượng ký tự).
+- Trường hợp tương đồng về mã ICD 10 nhưng không
+cùng số lượng ký tự thì thống kê theo mã có 3 ký tự;
+- Trường hợp tương đồng về mã bệnh, mã loại bệnh y
+học cổ truyền nhưng không cùng số lượng ký tự thì thống kê theo mã có 6 ký tự;
+- Trường hợp không tương đồng về mã bệnh, mã loại bệnh
+thì thống kê theo mã ICD 10 (3 ký tự);
+- Trường hợp điều trị ngoại khoa nhưng đã mã hóa là
+bệnh nội khoa, cơ sở KCB thống nhất với cơ quan BHXH để điều chỉnh mã bệnh.
+7.4. Số lượt KCB phát sinh tăng hoặc giảm không bao
+gồm: Số lượt KCB tăng do tách lượt, chỉ định điều trị nội trú không hợp lý hoặc
+hẹn tái khám nhiều lần không đúng quy định.
+7.5. Cách xác định chi phí phát sinh
+a) Chi phí phát sinh tăng hoặc giảm số lượt KCB của
+bệnh hoặc loại bệnh bằng (=) [số lượt KCB BHYT của bệnh hoặc loại bệnh trong
+năm 2020 trừ (-) số lượt KCB BHYT của bệnh hoặc loại bệnh năm 2019] nhân (x)
+[T_BHTT của bệnh hoặc loại bệnh năm 2019 chia (:) số lượt KCB BHYT của bệnh hoặc
+loại bệnh năm 2019] nhân (x) [T
+2019
+chia (:) T_BHTT 2019 của cơ sở
+KCB].
+- Đối với số lượt KCB của bệnh, loại bệnh phát sinh
+trong năm 2020 mà năm 2019 không có, chi phí phát sinh tăng của bệnh hoặc loại
+bệnh, bằng (=) T_BHTT của bệnh hoặc loại bệnh trong năm 2020.
+- Đối với số lượt KCB của bệnh, loại bệnh được quỹ
+BHYT thanh toán trong năm 2019, không được thanh toán trong năm 2020, chi phí
+phát sinh của bệnh hoặc loại bệnh, bằng (=) T
+2019
+của bệnh hoặc loại
+bệnh.
+b) Trường hợp bệnh, loại bệnh có thời gian kê đơn
+ngoại trú nhiều hơn 30 (ba mươi) ngày của năm 2020 (trong thời gian dịch bệnh
+COVID-19 theo hướng dẫn của Bộ Y tế), thì mỗi lần kê đơn nhiều hơn 30 ngày của
+từng người bệnh được tính bằng (=) Chi phí thuốc bình quân 01 đơn điều trị ngoại
+trú của người bệnh kê đơn nhiều hơn 30 ngày năm 2020 trừ (-) Chi phí thuốc bình
+quân 01 đơn điều trị ngoại trú của người bệnh đó năm 2019.
+c) Đối với các trường hợp T_BHTT = T_KHAM thì không
+thống kê theo mã bệnh, loại bệnh mà tổng hợp riêng (mã KHB).
+8. Xác định chi phí phát sinh
+do áp dụng giá dịch vụ khám bệnh, chữa bệnh bảo hiểm y tế mới (C
+8
+)
+8.1. Xác định trường hợp làm phát sinh chi phí
+a) Giá dịch vụ KCB BHYT mới được điều chỉnh tăng hoặc
+giảm theo quy định của Thông tư số 13/2019/TT-BYT ngày 05/7/2019 Bộ Y tế sửa đổi,
+bổ sung một số điều của thông tư số 39/2018/TT-BYT ngày 30 tháng 11 năm 2018 của
+bộ trưởng bộ y tế quy định thống nhất giá dịch vụ khám bệnh, chữa bệnh bảo hiểm
+y tế giữa các bệnh viện cùng hạng trên toàn quốc và hướng dẫn áp dụng giá,
+thanh toán chi phí khám bệnh, chữa bệnh trong một số trường hợp.
+b) Giá dịch vụ KCB BHYT thay đổi do chi phí thuốc,
+hóa chất, VTYT được tính riêng ngoài giá theo quy định của Bộ Y tế.
+8.2. Cách xác định chi phí phát sinh
+a) Chi phí phát sinh tăng hoặc giảm khi giá dịch vụ
+KCB BHYT được điều chỉnh tăng hoặc giảm theo quy định của Bộ Y tế bằng (=) số
+lượng dịch vụ KCB điều chỉnh giá của năm 2020 nhân (x) phần chênh lệch giữa đơn
+giá mới và đơn giá cũ nhân (x) MHBQ của dịch vụ KCB BHYT được điều chỉnh.
+b) Đối với chi phí phát sinh tăng hoặc giảm do giá
+dịch vụ KCB BHYT thay đổi khi thay đổi cơ cấu thuốc, hóa chất, VTYT: được đưa
+ra hoặc gộp vào giá dịch vụ y tế theo quy định của Bộ Y tế được xác định riêng
+theo từng giai đoạn điều chỉnh giá bằng (=) T_BHTT của thuốc, hóa chất, VTYT
+tính ngoài giá nhưng thuộc phạm vi thanh toán của quỹ BHYT.
+9. Nguyên tắc xác định T
+2019
+,
+C
+2020
+:
+a) Việc xác định C
+2020
+không tính trùng
+giữa các C
+n
+thành phần.
+b) C
+2020
+của Trạm Y tế cấp xã và PKĐK
+khu vực được tính riêng.
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

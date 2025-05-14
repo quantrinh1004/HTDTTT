@@ -1,0 +1,1242 @@
+BẢO HIỂM XÃ HỘI
+  VIỆT NAM
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+79/BHXH-TCKT
+V/v hướng dẫn một số nội dung về hạch toán, tạm
+  ứng, thanh quyết toán kinh phí KCB BHYT đối với quân nhân, công an và người
+  làm công tác cơ yếu do BHXH Bộ Quốc phòng, BHXH Bộ Công an phát hành thẻ BHYT
+Hà Nội
+, ngày
+09
+tháng
+01
+năm
+2017
+Kính
+  gửi:
+- Bảo hiểm xã hội các tỉnh, thành phố
+  trực thuộc Trung ương;
+- Trung tâm Giám định BHYT và Thanh toán đa tuyến khu vực phía Bắc;
+- Trung tâm Giám định BHYT và Thanh toán đa tuyến khu vực phía Nam;
+- Bảo hiểm xã hội Bộ Quốc phòng;
+- Bảo hiểm xã hội Công an nhân dân.
+Thực hiện Nghị định số 70/2015/NĐ-CP
+ngày 01/9/2015 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều
+của Luật Bảo hiểm y tế (BHYT) đối với quân đội nhân dân, công an nhân dân và
+người làm công tác cơ yếu; Thông tư liên tịch số 85/2016/TTLT-BQP-BYT-BTC ngày
+20/6/2016 của liên Bộ Quốc phòng, Bộ Y tế, Bộ Tài chính hướng dẫn thực hiện
+BHYT với quân nhân và người làm công tác cơ yếu; Thông tư số 43/2016/TT-BCA
+ngày 25/10/2016 của Bộ Công an quy định biện pháp thực hiện BHYT đối với sĩ
+quan, hạ sĩ quan, chiến sỹ Công an
+nhân dân. Bảo hiểm xã hội (BHXH) Việt Nam hướng dẫn BHXH các tỉnh, thành phố trực
+thuộc Trung ương (sau đây gọi chung là BHXH tỉnh), Trung tâm Giám định BHYT và
+Thanh toán đa tuyến khu vực phía Bắc, Trung tâm Giám định BHYT và Thanh toán đa
+tuyến khu vực phía Nam, BHXH Bộ Quốc phòng, BHXH Công an nhân dân một số nội
+dung sau:
+I. Thu BHYT
+1. Quản lý số thu BHYT
+Căn cứ số thu BHYT được BHXH Việt Nam
+phê duyệt quyết toán tại Biên bản thẩm định quyết toán năm, BHXH Bộ Quốc phòng
+và BHXH Công an nhân dân quản lý và sử dụng 90% số tiền đóng BHYT theo quy định
+và chuyển về BHXH Việt Nam 10% số tiền đóng BHYT để dành cho quỹ dự phòng và
+chi phí quản lý quỹ BHYT.
+BHXH Bộ Quốc phòng, BHXH Công an nhân
+dân lập các báo cáo F07b-II-IBH, B07
+b
+-BH để báo cáo tổng h
+ợ
+p số thu BHYT theo quy định.
+2. Hạch toán kế toán (chỉ hạch toán kế
+toán tại BHXH Việt Nam)
+2.1. Ghi thu 90% số tiền đóng BHYT
+dành cho khám bệnh, chữa bệnh (KCB) giao BHXH Bộ Quốc phòng, BHXH Công an nhân
+dân quản lý, sử dụng:
+Nợ
+TK
+352 -
+Thanh toán về chi các loại bảo hiểm giữa Trung ương với t
+ỉ
+nh
+Có TK
+573 - Thu BHYT
+2.2. Tổng hợp số phải thu 10% số tiền
+đóng BHYT mà BHXH Bộ Quốc phòng, BHXH Công an nhân dân phải chuyển về BHXH Việt
+Nam để dành cho quỹ dự phòng và chi phí quản lý quỹ BHYT, ghi:
+Nợ TK 351- Thanh toán về thu các loại
+bảo hiểm
+Có TK
+573 - Thu BHYT
+2.3. Khi nhận được kinh phí 10% số tiền
+đóng BHYT do BHXH Bộ Quốc phòng, BHXH Công an nhân dân chuy
+ể
+n về BHXH Việt Nam, ghi:
+Nợ TK 112 - Tiền gửi Ngân hàng, Kho bạc
+Có TK 351
+- Thanh toán về thu các loại bảo hiểm giữa Trung ương với tỉnh
+2.4. Khi nhận được tiền lãi trên tài
+khoản tiền gửi thu BHYT do BHXH Bộ Quốc phòng, BHXH Công an nhân dân chuyển về
+BHXH Việt Nam, ghi:
+Nợ TK 112 - Tiền gửi Ngân hàng, Kho bạc
+Có TK
+342 - Thanh toán nội bộ (3421)
+II. Chi KCB BHYT
+1. Trích chuyển kinh phí và thanh
+quyết toán chi phí KCB tại quân y đơn vị, y tế cơ quan
+1.1. Thông báo, trích chuyển số kinh
+phí KCB tại quân y đơn vị, y tế cơ quan
+Hàng quý, BHXH Bộ Quốc phòng, BHXH Công
+an nhân dân căn cứ vào số thẻ BHYT đã cấp và sổ thu BHYT tương ứng, thông báo
+kinh phí KCB tại quân y đơn vị, y tế cơ quan (mẫu số 01/TCKT ban hành kèm theo
+văn bản này) và chuyển kinh phí cho cơ quan tài chính đơn vị cấp trực t
+h
+uộc Bộ Qu
+ố
+c phòng, Bộ Công an để quản lý và sử dụng
+theo quy định.
+1.2. Thanh quyết toán chi phí KCB tại
+y tế cơ quan, đơn vị
+a) Nội dung chi: Thực hiện theo quy định
+tại
+Điểm b Khoản 1 Điều 8 Thông tư Liên tịch số
+85/2016/TTLT-BQP-BYT-BTC
+và
+Điều 13 Thông tư số
+43/2016/TT-BCA
+.
+b) Hàng quý, các đơn vị lập mẫu số
+02/TCKT ban hành kèm theo văn bản này để thực hiện quyết toán kinh phí KCB tại
+quân y đơn vị, y tế cơ quan để quyết toán với cơ quan cấp trên và BHXH Bộ Quốc
+phòng, BHXH Công an nhân dân.
+c) Hàng quý, BHXH Bộ Quốc phòng, BHXH
+Công an nhân dân tổng hợp số trích kinh phí KCB tại quân y đơn vị, y tế cơ quan
+vào chi phí KCB được quyết toán trong quý.
+2. Tạm ứng, thanh toán, quyết toán
+chi KCB BHYT
+2.1. Tạm ứng kinh phí KCB BHYT
+a) Đối với BHXH Bộ Quốc phòng, BHXH
+Công an nhân dân
+- Cơ sở KCB: Lập mẫu QNCA-HD ban hành
+kèm theo Công văn số 2032/BHXH-CSYT ngày 03/6/2016 của BHXH Việt Nam về việc hướng
+dẫn giải quyết một số vướng mắc trong thực hiện chính sách BHYT gửi BHXH Bộ Quốc
+phòng, BHXH Công an nhân dân.
+- BHXH Bộ Quốc phòng, BHXH công an
+nhân dân:
++ Thực hiện tạm ứng kinh phí kinh ph
+í
+KCB BHYT cho cơ sở KCB theo quy định tại
+Điều 15 Quyết
+định số 1399/QĐ-BHXH
+ngày 22/12/2014 của Tổng Giám đốc BHXH Việt Nam về việc
+tổ chức thực hiện BHYT trong KCB;
++ Lập mẫu QNCA-HD ban hành kèm theo
+Công văn số 2032/BHXH-CSYT.
++ Thực hiện tạm ứng kinh phí KCB BHYT
+với BHXH Việt Nam theo quy định tại
+Khoản 1 Điều 16 Thông tư
+liên tịch số 85/2016/TTLT-BQP-BYT-BTC
+và
+Khoản 1 Điều 14
+Thông tư số 43/2016/TT-BCA
+.
+b) Đối với BHXH t
+ỉ
+nh, Trung tâm Giám định BHYT và Thanh toán đa tuyến
+Tổng hợp chi phí KCB BHYT của đ
+ố
+i tượng do BHXH Bộ Quốc phòng, BHXH Công an nhân dân phát hành thẻ BHYT
+tại các cơ sở KCB do BHXH t
+ỉ
+nh, Trung tâm Giám định BHYT
+và Thanh toán đa tuyến ký hợp đồng vào số liệu Tổng hợp thanh toán đa tuyến ngoại
+tỉnh (mẫu số 11/BHYT ban hành kèm theo Quyết định số 1399/QĐ-BHXH, mẫu này tách
+riêng dòng chi phí KCB BHYT của đối tượng do BHXH Bộ Quốc phòng, BHXH Công an
+nhân dân phát hành thẻ BHYT, chi phí trong phạm vi BHYT và ngoài phạm vi BHYT).
+2.2. Thanh quyết toán kinh phí KCB
+BHYT
+a) Thanh quyết toán với cơ sở KCB
+BHYT
+- Hàng quý, thực hiện thanh quyết
+toán chi phí KCB BHYT với cơ sở y tế theo quy định tại
+Khoản 3
+Điều 15 Quyết định số 1399/QĐ-BHXH
+.
+- Biểu mẫu báo cáo: BHXH Bộ Quốc
+phòng, BHXH Công an nhân dân, các cơ sở y tế lập biểu mẫu theo đúng quy định tại
+Quyết định số 1399/QĐ-BHXH. Việc tổng hợp chi phí KCB BHYT phải phân tích riêng
+chi phí trong phạm vi thanh toán của quỹ BHYT chi trả và chi phí ngoài phạm vi
+quỹ BHYT chi trả, đồng thời các biểu mẫu được lập chi tiết phù hợp với quyền lợi
+của đối tượng.
+b) Thanh quyết toán với BHXH Việt Nam
+Hàng quý, BHXH Bộ Quốc phòng, BHXH
+Công an nhân dân tổng hợp, báo cáo thanh quyết toán chi phí KCB BHYT theo mẫu số
+15/BHYT-QNCA ban hành kèm theo văn bản này gửi BHXH Việt Nam để quyết toán theo
+quy định tại
+Điểm b Khoản 4 Điều 18 Nghị định số 70/2015/NĐ-CP
+.
+III. Hướng dẫn mẫu biểu, hạch
+toán kế toán quyết toán chi phí KCB BHYT
+1. Nguyên tắc
+Việc cân đối quỹ KCB BHYT của đối tượng
+do BHXH Bộ Quốc phòng, BHXH Công an nhân dân phát hành thẻ BHYT được cân đối tại
+BHXH Bộ Quốc phòng, BHXH Công an nhân dân.
+2.
+Mẫu
+biểu, báo
+cáo tổng hợp và quyết toán kinh phí KCB BHYT
+2.1. BHXH Bộ Quốc phòng
+a) Hàng quý, lập Báo cáo tổng h
+ợ
+p t
+ì
+nh hình kinh phí và quyết toán kinh phí KCB
+BHYT của các đối tượng do BHXH Bộ quốc phòng phát hành thẻ BHYT (mẫu số 03/TCKT
+ban hành kèm theo văn bản này).
+b) Hàng quý, lập Báo cáo tổng hợp
+tình hình kinh phí và quyết toán kinh phí KCB BHYT theo mẫu số B08
+b
+-BH ban hành kèm theo Thông tư số 178/2012/TT-BTC ngày 23/10/2012 của Bộ
+Tài chính hướng dẫn kế toán áp dụng cho BHXH Việt Nam từ mẫu số 03/TCKT.
+c) Hàng năm tổng hợp phân tích chi
+phí vượt quỹ, lập mẫu số 05/TCKT ban hành kèm theo văn bản này.
+2.3. BHXH Công an nhân dân
+a) Hàng quý, lập Báo cáo tổng hợp
+tình hình kinh phí và quyết toán kinh phí KCB BHYT của các đối tượng do BHXH
+Công an nhân dân phát hành thẻ BHYT (mẫu số 04/TCKT ban hành kèm theo văn bản
+này).
+b) Hàng quý, lập Báo cáo tổng hợp
+tình hình kinh phí và quyết toán kinh phí KCB BHYT theo mẫu số B08b-BH ban hành
+kèm theo Thông tư số 178/2012/TT-BTC từ mẫu số 04/TCKT.
+c) Hàng năm tổng hợp phân tích chi
+phí vượt quỹ, lập mẫu số 05/TCKT ban hành kèm theo văn bản này.
+2.4. BHXH tỉnh, Trung tâm Giám định
+BHYT và Thanh toán đa tuyến
+Đối với kinh phí KCB BHYT của các đối
+tượng do BHXH Bộ Quốc phòng, BHXH Công an nhân dân phát hành thẻ đi KCB tại các
+cơ sở KCB ký hợp đồng KCB BHYT với BHXH tỉnh, BHXH huyện, Trung tâm Giám định BHYT
+và Thanh toán đa tuyến: BHXH tỉnh, BHXH huyện, Trung tâm Giám định BHYT và
+Thanh toán đa tuyến thực hiện hạch toán như đối với chi phí KCB BHYT đa tuyến đến
+ngoại tỉnh.
+2.5. BHXH Việt Nam
+Hàng năm, tổng hợp kinh phí và chi
+phí KCB BHYT lập Báo cáo Tổng hợp tình hình kinh phí và quyết toán kinh phí chi
+BHXH, BHYT, BHTN (mẫu số B08
+c
+-BH ban hành kèm theo Thông
+tư số 178/2012/TT-BTC từ các báo cáo: B08
+b
+-BH, mẫu số
+03/TCKT, mẫu số 04/TCKT và các mẫu biểu liên quan khác).
+3. Sử dụng quỹ KCB BHYT theo quy định
+tại Khoản 2 và Khoản 3 Điều 21 Nghị định số 70/2015/NĐ-CP
+a) Tổng hợp chi phí KCB BHYT của các
+đối tượng do BHXH Bộ Quốc Phòng, BHXH Công an nhân dân phát hành thẻ (trong qu
+ỹ
+và vượt quỹ KCB BHYT), ghi:
+Nợ TK 673 -Chi BHYT
+Có TK
+352 - Thanh toán về chi các loại bảo hiểm giữa Trung ương với t
+ỉ
+nh
+b) Trường hợp quỹ KCB BHYT của BHXH Bộ
+Quốc phòng, BHXH Công an nhân dân lớn hơn chi phí KCB BHYT trong phạm vi, mức
+hưởng quy định tại
+Điều 10, Điều 11 Nghị định số 70/2015/NĐ-CP
+,
+sau khi được BHXH Việt Nam thẩm định quyết toán, căn cứ biên bản thẩm định phần
+kinh phí chưa dùng hết hạch toán như sau:
+- Từ ngày Nghị định số 70/2015/NĐ-CP
+có hiệu lực thi hành đến hết ngày 31/12/2020, t
+ổ
+ng hợp phần
+kinh phí chưa dùng hết được giữ toàn bộ tại BHXH Bộ Quốc Phòng, BHXH Công an
+nhân dân sử dụng, điều tiết chung trong các cơ s
+ở
+y tế thuộc
+Bộ Quốc Phòng, Bộ Công an, ghi:
+Nợ TK 673 - Chi BHYT
+Có TK
+352 - Thanh toán về chi các loại bảo hiểm giữa Trung ương với t
+ỉ
+nh
+- Từ ngày 01/01/2021 trở đi
++ Tổng h
+ợ
+p 70%
+phần kinh phí chưa dùng hết được giữ tại BHXH Bộ Quốc Phòng, BHXH Công an nhân
+dân sử dụng
+tr
+ong các cơ sở y tế thuộc Bộ Quốc Phòng, Bộ
+Công an, điều tiết, ghi:
+Nợ TK 673 - Chi BHYT
+Có TK
+352 - Thanh toán về chi các loại b
+ả
+o hiểm giữa Tr
+u
+ng ương với tỉnh
++ Hạch toán phải thu 30% phần kinh
+phí chưa dùng hết BHXH Bộ Quốc Phòng, BHXH Công an nhân dân phải chuyển về BHXH
+Việt Nam, ghi:
+Nợ TK 311- Các khoản phải thu
+(311888)
+Có TK
+476 - Quỹ dự phòng KCB BHYT
+Khi nhận được 30% phần kinh phí chưa dùng
+hết do BHXH Bộ Quốc Phòng, BHXH Công an nhân dân chuyển về, ghi:
+Nợ TK 112- Tiền gửi Ngân hàng, Kho bạc
+Có TK
+311- Các khoản phải thu (311888)
+c) Trường hợp số chi KCB của các đối
+tượng do BHXH Bộ Quốc phòng, BHXH Công an nhân dân phát hành thẻ vượt quỹ và
+chi phí vượt quỹ là chi phí trong phạm vi mức hưởng, hạch toán như sau:
+Chuyển tiền từ quỹ dự phòng KCB BHYT
+sang qu
+ỹ
+KCB BHYT (theo số tiền vượt quỹ là chi phí KCB
+BHYT trong phạm vi mức hư
+ở
+ng), ghi:
+Nợ TK 476 - Quỹ dự phòng KCB BHYT
+Có TK
+473 - Quỹ khám, chữa bệnh
+d) Trường hợp s
+ố
+chi KCB của các đ
+ố
+i tượng do BHXH Bộ Quốc Phòng, BHXH Công
+an nhân dân phát hành thẻ vượt quỹ và chi phí vượt quỹ là chi phí ngoài phạm vi
+mức hưởng, hạch toán như sau:
++ Chi phí KCB vượt quỹ ngoài phạm vi
+mức hưởng ngân sách nhà nước phải cấp bổ sung
+Nợ TK 311- Các khoản phải thu
+(311888)
+Có TK
+473 - Quỹ khám, chữa bệnh
++ Khi Bộ Tài chính chuyển tiền về
+BHXH Việt Nam, ghi:
+Nợ TK 112 - Tiền gửi Ngân hàng, Kho bạc
+Có TK
+311- Các khoản phải thu (311888)
+e) Khi BHXH Việt Nam chuyển kinh phí
+chi vượt quỹ KCB BHYT cho BHXH Bộ Quốc phòng và BHXH Công an nhân dân, ghi:
+Nợ TK 352 - Thanh toán về chi các loại
+bảo hiểm giữa Trung ương với tỉnh
+Có TK
+112 - Tiền gửi Ngân hàng, Kho bạc
+Thực hiện quy định tại
+Khoản
+3 Điều 12 Thông tư liên tịch số 85/2016/TTLT-BQP-BYT-BTC
+, đối với các c
+ơ
+sở KCB áp dụng
+Khoản 6 Điều 11 Thông tư liên tịch số
+41/2014/TTLT-BYT-BTC
+ngày 24/11/2014 của liên Bộ Y tế, Bộ Tài chính hướng dẫn
+thực hiện BHYT thì từ ngày 01/01/2016 chi ph
+í
+KCB của nhóm
+đối tượng quân đội, công an, cơ yếu (mã QN, CA, CY) trừ chi phí ngoài phạm vi
+quỹ BHYT chi trả được tính vào tổng mức thanh toán KCB của cơ sở y t
+ế
+đó. BHXH tỉnh, BHXH Bộ Quốc phòng, BHXH Công an nhân dân thực hiện điều
+chỉnh vào quyết toán quý IV phần chi phí của đối tượng quân đội, công an, cơ yếu
+trong phạm vi BHYT phát sinh từ 01/01/2016 đến 31/12/2016 được tính trong trần
+như các đối tượng tham gia BHYT khác, chi phí, của đối tượng quân đội, công an,
+cơ yếu ngoài phạm vi BHYT được tính ngoài trần đa tuyến đến.
+Trong quá trình thực hiện, nếu có vướng
+mắc đề nghị đơn vị phản ánh kịp thời về BHXH Việt Nam (Vụ Tài chính - K
+ế
+toán) để xem xét, giải quyết./.
+Nơi nhận:
+- Như
+tr
+ên;
+- Tổng Giám đốc (để b/c);
+- Các PTGĐ (để biết);
+- Các đơn vị: Thu, CSYT;
+- Lưu: VT, TCKT(2b)
+.
+KT. TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Nguyễn Đình Khương
+Mẫu số 01/TCKT
+(
+Ban hành kèm theo Công văn s
+ố 79
+/B
+H
+XH-TCKT ngày 09/
+01
+/
+2017
+c
+ủ
+a BHXH
+Việt Nam)
+BHXH………….
+Phòng…………..
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+THÔNG BÁO KINH PHÍ KHÁM BỆNH, CHỮA BỆNH
+TẠI QUÂN Y ĐƠN VỊ, Y TẾ CƠ QUAN
+Tháng
+………..
+năm
+…………
+1. Tên cơ quan/đ
+ơn
+vị:
+………………………………………………………………………………………
+2. Mã cơ quan/đơn vị:
+………………………………………………………………………………………
+3. Địa chỉ:
+…………………………………………………………………………………………………….
+4. Số hiệu tài khoản:
+………………………………………………………………………………………..
+5. Nơi mở tài khoản:
+………………………………………………………………………………………..
+6. Số thu BHYT:
+……………
+đồng.
+7. Kinh phí khám bệnh, chữa bệnh tại
+y tế cơ quan/đơn vị (10% số thu):... đồng.
+Người
+  lập
+(Ký, ghi rõ Họ và tên)
+Trưởng
+  phòng Thu
+(Ký, ghi rõ Họ và tên)
+Giám
+  đốc BHXH tỉnh
+(Ký, ghi rõ Họ và tên)
+Đơn vị quản lý cấp trên:
+…………..
+Đơn vị báo cáo:
+Mẫu số 02/TCKT
+(
+Ban hành kèm theo Công văn s
+ố 79
+/B
+H
+XH-TCKT ngày 09/
+01
+/
+2017
+c
+ủ
+a
+  BHXH Việt Nam)
+BÁO CÁO TÌNH HÌNH QUYẾT TOÁN KINH PHÍ KCB
+TẠI QUÂN Y ĐƠN VỊ, Y TẾ CƠ QUAN
+QUÝ
+…….
+N
+Ă
+M
+…….
+TT
+Chỉ
+  tiêu
+Mã
+  số
+Số
+  tiền (đồng)
+A
+B
+C
+1
+I
+Kinh phí chưa sử dụng kỳ trước
+  chuy
+ể
+n
+01
+II
+Kinh phí được trích trong kỳ
+02=03+04
+1
+Kinh phí cơ quan BHXH đã chuy
+ể
+n
+03
+2
+Kinh phí cơ quan BHXH còn phải chuyển
+04
+III
+Kinh phí được sử dụng trong kỳ
+05=01+02
+V
+Kinh phí đã sử dụng đ
+ề n
+ghị quy
+ế
+t toán
+trong kỳ
+06=07+08+..+12
+1
+Thu
+ố
+c
+07
+2
+Bông băng
+08
+3
+Hóa ch
+ấ
+t
+09
+4
+Vật tư y t
+ế
+tiêu hao
+10
+5
+Chi phí dịch vụ kỹ thuật y tế
+11
+6
+Chi phí phục h
+ồ
+i chức năng
+12
+VI
+Ki
+n
+h
+  phí chưa sử dụng chuyển kỳ sau
+13=05-06
+………..,
+ngày
+……
+tháng
+…….
+năm
+Người
+  lập biểu
+(Ký, họ và tên)
+Cơ
+  quan quản lý
+(Ký, họ và tên)
+Thủ
+  trưởng đơn vị
+(Ký, họ và tên)
+BẢO HIỂM XÃ HỘI VIỆT NAM
+BẢO HIỂM XÃ HỘI
+………..
+Mẫu số 03/TCKT
+(
+Ban hành kèm theo Công văn s
+ố 79
+/B
+H
+XH-TCKT ngày 09/
+01
+/
+2017
+c
+ủ
+a
+  BHXH Việt Nam)
+BÁO CÁO TỔNG HỢP TÌNH HÌNH KINH PHÍ VÀ QUYẾT TOÁN
+KINH PHÍ CHI BHYT CỦA ĐỐI TƯỢNG DO BHXH BỘ QUỐC PHÒNG PHÁT HÀNH THẺ BHYT
+Quý
+……..
+Năm
+…….
+TT
+Chỉ
+  tiêu
+Trong
+  kỳ
+L
+ũy
+kế từ đầu năm
+T
+ổ
+ng số
+Trong
+  phạm vi
+Ngoài
+  phạm vi
+T
+ổ
+ng s
+ố
+Trong
+  phạm vi
+Ngoài
+  phạm vi
+A
+B
+C
+1
+2
+3
+4
+5
+6
+1
+Kinh phí y tế cơ quan (10% số thu
+  BHY
+T)
+01
+2
+Chi trực tiếp cho đối tượng
+02
+2.1
+Chi KCB BHYT tại t
+ỉ
+nh
+03
+2.2
+Chi KCB BHYT đa tuyến đi
+04
+3
+Chi cho cơ sở KCB
+05
+3.1
+Chi KCB BHYT tại tỉnh
+06
+3.2
+Chi KCB BHYT đa tuyến đi
+07
+4
+Chi kết dư quỹ KCB định suất
+08
+5
+Chi thanh toán cho cơ sở KCB năm
+  trước đưa vào quyết toán năm nay
+09
+5.1
+Chi KCB BHYT tại tỉnh
+10
+5.2
+Chi KCB BHYT đa tuyến đi
+11
+6
+Kết dư được sử dụng tại Bộ Quốc
+  phòng
+12
+7
+Khác
+13
+Tổng cộng:
+  (01+02+05+08+09+12+13)
+14
+BẢO HIỂM XÃ HỘI VIỆT NAM
+BẢO HIỂM XÃ HỘI
+………..
+Mẫu số 04/TCKT
+(
+Ban hành kèm theo Công văn s
+ố 79
+/B
+H
+XH-TCKT ngày 09/
+01
+/
+2017
+c
+ủ
+a
+  BHXH Việt Nam)
+BÁO CÁO TỔNG HỢP TÌNH HÌNH KINH PHÍ VÀ QUYẾT TOÁN
+KINH PHÍ CHI BHYT CỦA ĐỐI TƯỢNG DO BHXH BỘ CÔNG AN PHÁT HÀNH THẺ BHYT
+Quý
+…….
+Năm
+………
+T
+T
+Ch
+ỉ
+tiêu
+Trong
+  kỳ
+L
+ũy
+k
+ế
+từ đầu năm
+Tổng
+  s
+ố
+Trong
+  phạm vi
+Ngoài
+  phạm vi
+Tổng
+  s
+ố
+Trong
+  phạm vi
+Ngoài
+  phạm vi
+A
+B
+C
+1
+2
+3
+4
+5
+6
+1
+Kinh phí y tế cơ quan (10% số thu
+  BHY
+T)
+01
+2
+Chi trực tiếp cho đối tượng
+02
+2.1
+Chi KCB BHYT t
+ạ
+i tỉnh
+03
+2.2
+Chi KCB BHYT đa tuyến đi
+04
+3
+Chi cho cơ sở KCB
+05
+3.1
+Chi KCB BHYT t
+ạ
+i t
+ỉ
+nh
+06
+3.2
+Chi KCB BHYT đa tuyến đi
+07
+4
+Chi kết dư quỹ KCB định suất
+08
+5
+Chi thanh toán cho cơ sở KCB năm
+  trước đưa vào quyết toán năm nay
+09
+5.1
+Chi KCB BHYT tại tỉnh
+10
+5.2
+Chi KCB BHYT đa tuyến đi
+11
+6
+Kết dư được sử dụng tại Bộ Công an
+12
+7
+Khác
+13
+Tổng cộng:
+  (01+02+05+08+09+12+13)
+14
+BẢO HIỂM XÃ HỘI VIỆT NAM
+BẢO HIỂM XÃ HỘI
+………..
+Mẫu số 05/TCKT
+(
+Ban hành kèm theo Công văn s
+ố 79
+/B
+H
+XH-TCKT ngày 09/
+01
+/
+2017
+c
+ủ
+a
+  BHXH Việt Nam)
+BÁO CÁO TỔNG HỢP KINH PHÍ VÀ CHI PHÍ
+KHÁM CHỮA BỆNH BHYT
+Năm:
+STT
+Đơn
+  v
+ị
+S
+ố
+thu BHYT
+Quỹ
+  KCB BHYT
+T
+ổ
+ng số
+Chi
+  phí KCB BHYT
+Cân
+  đối quỹ
+Số
+  Chi < Số thu
+Số
+  Chi > Số thu
+Trong
+  đó
+Chi
+  phí KCB BHYT tại t
+ỉ
+nh
+Chi
+  phí KCB đa tuy
+ế
+n đi
+Chi
+  phí v
+ượ
+t quỹ trong phạm vi
+Chi
+  phí v
+ượ
+t quỹ ngoài ph
+ạ
+m vi
+Trong
+  phạm vi
+Ngoài
+  phạm vi
+Trong
+  phạm vi
+Ngoài
+  phạm vi
+A
+B
+1
+2
+3
+4
+5
+6
+7
+8=2-3>0
+9=2-3<0;
+  =10+11
+10
+11
+1
+Hà N
+ộ
+i
+2
+TP H
+ồ
+Chí Minh
+3
+4
+5
+6
+BHXH Bộ Qu
+ố
+c
+  phòng
+BHXH Công an nhân
+Cơ y
+ế
+u do BHXH
+  t
+ỉ
+nh phát hành
+Cộng
+Người lập biểu
+(Ký, họ và tên)
+Kế toán trưởng
+(Ký, họ và tên)
+Ngày……tháng……năm
+Thủ trưởng đơn vị
+(Ký, họ và tên)
+BẢO HIỂM XÃ HỘI VIỆT NAM
+BẢO HIỂM XÃ HỘI
+TỉNH
+Mẫu số 12/BHYT
+(
+Ban hành kèm theo Công văn s
+ố 79
+/B
+H
+XH-TCKT ngày 09/
+01
+/
+2017
+c
+ủ
+a BHXH
+  Việt Nam)
+BẢNG TỔNG HỢP ĐỀ NGHỊ TẠM ỨNG KINH PHÍ
+KHÁM BỆNH, CHỮA BỆNH BẢO HIỂM Y TẾ QUÝ…/…
+Kính
+gửi:
+Đơn vị: Đồng
+STT
+Tên
+  cơ s
+ở
+y tế
+Tổng
+  chi phí khám, chữa bệnh BHYT cơ sở đề nghị quyết toán quý trư
+ớ
+c
+Chi
+  phí đề nghị cấp tạm ứng
+Tổng
+  cộng
+Chi
+  phí KCB BHYT đối tư
+ợ
+ng theo Nghị định số
+  105/2014/NĐ-CP
+Chi
+  phí KCB BHYT đối tượng theo Nghị định số 70/2015/NĐ-CP (bao gồm cả trong phạm
+  vi thanh toán của quỹ BHYT và ngoài phạm vi thanh toán BHYT)
+Cộng
+Bệnh
+  nhân nội tỉnh KCB ban đầu
+Bệnh
+  nhân nội t
+ỉ
+nh đến
+Bệnh
+  nhân ngoại t
+ỉ
+nh đ
+ế
+n
+Cộng
+Bệnh
+  nhân nội tỉnh (cán bộ cơ y
+ế
+u do BHXH
+tỉnh
+phát hành thẻ)
+Bệnh
+  nhân ngoại tỉnh đến (do BHXH BQP, BCA phát hành thẻ)
+A
+B
+1=2+6
+2=3+4+5
+3
+4
+5
+6
+=
+7+8+9
+7
+8
+9=80%
+x
+cột 1
+1
+2
+3
+4
+5
+6
+7
+8
+Tổng
+  cộng
+Người
+  lập biểu
+Phó trưởng
+  phòng KH-TC
+Giám đốc
+BẢO HIỂM XÃ HỘI VIỆT NAM
+BẢO HI
+Ể
+M XÃ HỘI
+TỈNH………..
+Mẫu số 15/BHYT-QNCA
+(
+Ban hành kèm theo Công văn s
+ố 79
+/B
+H
+XH-TCKT ngày 09/
+01
+/
+2017
+c
+ủ
+a
+  BHXH Việt Nam)
+BÁO CÁO THANH QUYẾT TOÁN CHI PHÍ KHÁM BỆNH, CHỮA BỆNH
+BẢO HIỂM Y TẾ
+của đối tượng quân đội, công an, cơ yếu
+Quý
+... Năm
+…….
+Đơn vị: đồng
+TT
+Nội
+  dung
+Mã số
+Phát
+  sinh trong kỳ
+Lũy
+  kế
+S
+ố
+lượt/ số thẻ
+Số
+  tiền
+S
+ố
+lượ
+t
+số th
+ẻ
+Số
+  tiền
+A
+B
+C
+(1)
+(2)
+(3)
+(4)
+I
+CHI
+KCB ĐÃ THẦM ĐỊNH TẠI
+CƠ
+SỞ Y TẾ
+(1)
+1
+B
+ệnh nhân trong tỉnh (đối
+  tượng
+cơ
+yếu do
+B
+HXH
+  tỉnh phát hành thẻ)
+(2)
+1.1
+Trong phạm vi BHYT
+(3)
+1.2
+Ngoài phạm vi BHYT
+(4)
+2
+B
+ệnh nhân tỉnh khác
+(5)
+2.1
+Đối tượng do BHXH Bộ quốc phòng
+  phát hành thẻ
+(6)
+2.1.1
+Trong phạm vi BHYT
+(7)
+2.2.2
+Ngoài phạm vi BHYT
+(8)
+2.2
+Đối tượng do BHXH Công an nhân dân
+  phát hành th
+ẻ
+(9)
+2.2.1
+Trong phạm vi BHYT
+(10)
+2.2.2
+Ngoài phạm vi BHYT
+(11)
+2.3
+Đối tượng cơ yếu do BHXH tỉnh khác
+  phát hành thẻ
+(12)
+2.3.1
+Trong phạm vi BHYT
+(13)
+2.3.2
+Ngoài phạm vi BHYT
+(14)
+II
+CHI THANH TOÁN TR
+Ự
+C TI
+Ế
+P
+(15)
+1
+Bệnh nhân trong tỉnh (đối tượng
+  cơ yếu do BHXH tỉnh phát hành thẻ)
+(16)
+1.1
+Trong phạm vi BHYT
+(17)
+1.2
+Ngoài phạm vi BHYT
+(18)
+2
+Bệnh nhân tỉnh khác
+(19)
+2.1
+Đối tượng do BHXH Bộ quốc phòng
+  phát hành thẻ
+(20)
+2.1.1
+Trong phạm vi BHYT
+(21)
+2.2.2
+Ngoài phạm vi BHYT
+(22)
+2.2
+Đ
+ố
+i tượng do
+  BHXH Công an nhân dân phát hành thẻ
+(23)
+2.2.1
+Trong phạm vi BHYT
+(24)
+2.2.2
+Ngoài phạm vi BHYT
+(25)
+2.3
+Đ
+ố
+i tượng cơ y
+ế
+u do BHXH tỉnh khác phát hành thẻ
+(26)
+2.3.1
+Trong phạm vi BHYT
+(27)
+2.3.2
+Ngoài phạm vi BHYT
+(28)
+III
+TRÍCH CHUY
+Ể
+N 10% S
+Ố
+THU CỦA Đ
+Ố
+I TƯỢNG C
+Ơ
+YẾU DO BHXH TỈNH PHÁT HÀNH THẺ
+  CHO Y TẾ
+CƠ
+QUAN
+(29)
+IV
+CHI KCB TẠI TỈNH ĐÃ QUYẾT TOÁN
+(30)
+1
+Chi KCB trong kỳ
+(31)
+1.1
+Bệnh nhân trong tỉnh KCB tại tỉnh
+(32)
+1.2
+B
+ệnh n
+hân ngoại
+  tỉnh đến (thẻ BHYT QN,CA,CY do BHXH BQP, BCA và BHXH tỉ
+n
+h
+kh
+ác phát hành)
+(33)
+2
+C
+hi K
+CB kỳ trước
+  quyết toán tăng/giảm vào kỳ n
+à
+y
+(34)
+2.1
+Bệnh
+nhân trong tỉnh KCB tại tỉnh
+(35)
+2.2
+B
+ệnh
+nhân ngoại
+  tỉnh đến (thẻ BHYT
+QN,
+CA,CY do BHXH BQP, BCA và BHXH tỉ
+nh
+  kh
+ác phát hành)
+(36)
+V
+C
+HI KCB TẠI TỈNH CHƯA QUY
+Ế
+T TOÁN
+(37)
+1
+Bệ
+nh
+nhân
+  trong tỉnh KCB tại tỉnh
+(38)
+2
+Bện
+h
+nhân ngoại
+  tỉnh đến (thẻ BHYT QTN,CA,CY do BHXH BQP, BCA và BHXH tỉnh thác phát hành)
+(39)
+VI
+QU
+Ỹ KCB ĐƯỢC SỬ DỤNG
+  TRONG KỲ
+(40)
+…., ngày……,
+tháng…..,năm
+Người lập biểu
+(Ký, họ tên)
+Trưởng phòng GĐ
+BHYT
+(Ký, họ tên)
+Trưởng phòng
+  KHTC
+(Ký, họ tên)
+Giám đốc
+(Ký, họ tên, đóng dấu)
+Ghi chú:
+Mã số
+(1
+):Tổng
+chi KCB BHYT của các đối tượng QN, CA, CY phát sinh tại các cơ sở y tế
+tr
+ong t
+ỉ
+nh
+Căn cứ số
+li
+ệu tại
+biểu QNCA-HD do cơ quan BHXH lập ban hành kèm theo Công văn 2032/BHXH-CSYT
+Mã số (2): Chi KCB của bệnh nhân cơ yếu
+do BHXH tỉnh phát hành thẻ
+Các Mã số (3),(7),(10),(13) chi trong
+phạm vi BHYT lấy dữ liệu tại cột 14 mẫu QNCA-HD
+Các Mã số (4),(8),(
+11
+),(14) chi ngoài phạm vi BHYT lấy số liệu tại cột 15 mẫu QNCA-HD
+Mã số (5): chi KCB của bệnh nhân đối
+tượng QN, CA, CY do BHXH Bộ Quốc phòng, Bộ Công an, BHXH t
+ỉ
+nh khác phát hành thẻ KCB tại tỉnh
+Mã s
+ố
+(29): ghi
+bằng 10% số thu đã trích chuyển cho y tế cơ quan để thực hiện khám, chữa bệnh
+theo Khoản 2, Điều 8 Thông tư 85/2016/TTLT-BQP-BYT-BTC
+Mã số (40): Quỹ KCB của đối tượng cơ
+yếu do tỉnh phát hành thẻ trong kỳ. Nguồn quỹ này không phân bổ cho cơ sở y tế
+mà hạch toán riêng
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

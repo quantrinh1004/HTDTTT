@@ -1,0 +1,762 @@
+BẢO HIỂM XÃ HỘI
+  VIỆT NAM
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+----------------
+Số: 576/BHXH-TCKT
+V/v hướng dẫn tạm thời
+  một số nội dung thực hiện Chế độ kế toán
+Hà Nội, ngày 26
+  tháng 02 năm 2020
+Kính gửi:
+- Bảo hiểm xã hội các tỉnh, thành phố trực thuộc
+  Trung ương;
+- Văn phòng Bảo hiểm xã hội Việt Nam;
+- Các đơn vị sự nghiệp trực thuộc Bảo hiểm xã hội Việt Nam;
+- Các Ban Quản lý dự án trực thuộc Bảo hiểm xã hội Việt Nam.
+Thực hiện Thông tư số 107/2017/TT-BTC ngày
+10/10/2017 của Bộ Tài chính hướng dẫn chế độ kế toán hành chính sự nghiệp và
+Thông tư số 102/2018/TT-BTC ngày 14/11/2018 của Bộ Tài chính về việc hướng dẫn
+chế độ kế toán bảo hiểm xã hội (BHXH), BHXH Việt Nam hướng dẫn tạm thời một số
+nội dung hạch toán kế toán như sau:
+1. Hạch toán tài khoản ngoại bảng
+khi thực hiện chuyển đổi số dư
+Các tài khoản 011, 013, 014, 015 hạch toán phải thu
+BHXH, BHYT, BHTN và phải thu lãi phạt chậm đóng BHXH, BHYT, BHTN theo Thông tư
+số 178/2012/TT-BTC hạch toán đơn ngoại bảng, từ năm 2019 hạch toán theo dõi
+trong bảng theo quy định tại Thông tư số 102/2018/TT-BTC, ghi:
+Nợ TK139 - Phải thu của các đối tượng đóng bảo hiểm
+Có TK 335 - Tạm thu các loại bảo hiểm, lãi chậm
+đóng
+2. Sửa đổi, bổ sung một số nội
+dung hạch toán thu các loại bảo hiểm và lãi chậm đóng.
+a) Tại BHXH huyện
+- Phân bổ số đã thu, ghi:
+Nợ TK 335- Tạm thu các loại bảo hiểm, lãi chậm đóng
+Có TK 375- Thu các loại bảo hiểm của tỉnh, huyện
+(375231,...) (TK chi tiết tương ứng).
+Đồng thời, ghi:
+Nợ TK 339- Phải trả của các quỹ bảo hiểm (33914,
+33915)
+Có TK 139- Phải thu của các đối tượng đóng bảo hiểm
+(1391) (TK chi tiết tương ứng)
+Có TK 375 - Thu các loại bảo hiểm của tỉnh, huyện
+(375232) (nếu có thu trước cho năm sau)
+Có TK 339- Phải trả của các quỹ bảo hiểm (33911) (nếu
+thừa)
+- Đầu năm sau, kết chuyển số thu trước BHYT cho năm
+sau về số thu chưa phân bổ, ghi:
+TK 375 - Thu các loại bảo hiểm của tỉnh, huyện
+(375232)
+Có TK 339- Phải trả của các quỹ bảo hiểm (33914)
+b) Tại BHXH tỉnh
+- Phân bổ số đã thu, ghi:
+Nợ TK 335- Tạm thu các loại bảo hiểm, lãi chậm đóng
+Có TK 375- Thu các loại bảo hiểm của tỉnh, huyện
+(375131,...) (TK chi tiết tương ứng).
+Đồng thời, ghi:
+Nợ TK 339- Phải trả của các quỹ bảo hiểm (33914,
+33915)
+Có TK 139- Phải thu của các đối tượng đóng bảo hiểm
+(1391) (TK chi tiết tương ứng)
+Có TK 375 - Thu các loại bảo hiểm của tỉnh, huyện
+(375132)
+(nếu có thu trước cho năm sau)
+Có TK 339- Phải trả của các quỹ bảo hiểm (33911) (nếu
+thừa)
+- Tổng hợp số thu của BHXH các huyện về các loại bảo
+hiểm đã thực hiện trên địa bàn huyện khi quyết toán được duyệt:
+Phản ánh số phải thu BHXH huyện phải nộp về BHXH Việt
+Nam, ghi:
+Nợ TK 142- Phải thu nghiệp vụ thanh toán quỹ bảo hiểm
+(14211)
+Có TK 342- Phải trả nghiệp vụ thanh toán quỹ bảo hiểm
+(34221).
+Khi nhận được tiền thu bảo hiểm và lãi chậm đóng do
+BHXH huyện nộp, ghi:
+Nợ TK 112- Tiền gửi ngân hàng, kho bạc
+Có TK 142- Phải thu nghiệp vụ thanh toán quỹ bảo hiểm
+(14211)
+(TK chi tiết tương ứng).
+- Phản ánh số thu của BHXH tỉnh phải nộp về BHXH Việt
+Nam (số thu phát sinh tại Văn phòng tỉnh), ghi:
+Nợ TK 375- Thu các loại bảo hiểm của tỉnh, huyện
+(3751)
+Có TK 342- Phải trả nghiệp vụ thanh toán quỹ bảo hiểm
+(34221)
+- Khi chuyển nộp BHXH Việt Nam số thu BHXH toàn tỉnh,
+ghi:
+Nợ TK 342- Phải trả nghiệp vụ thanh toán quỹ bảo hiểm
+(34221)
+Nợ TK 112- Tiền gửi Ngân hàng, Kho bạc.
+- Tổng hợp số ghi thu số trích đóng BHYT cho các đối
+tượng tại BHXH huyện, ghi:
+Nợ TK 342- Phải trả nghiệp vụ thanh toán quỹ bảo hiểm
+(34212)
+Có TK 142- Phải thu nghiệp vụ thanh toán quỹ bảo hiểm
+(14211).
+- Đầu năm sau, kết chuyển số thu BHYT trước cho năm
+sau về số thu chưa phân bổ, ghi:
+TK 375 - Thu các loại bảo hiểm của tỉnh, huyện
+(375132)
+Có TK 339- Phải trả của các quỹ bảo hiểm (33914)
+3. Bổ sung hạch toán trong trường
+hợp Ngân sách địa phương chuyển tiền hỗ trợ đóng BHYT toàn tỉnh cho BHXH tỉnh
+a) BHXH tỉnh
+Khi nhận được tiền Ngân sách địa phương đã hỗ trợ
+đóng, ghi:
+Nợ TK 112 - Tiền gửi Ngân hàng, Kho bạc
+Có TK 139 - Phải thu của các đối tượng đóng bảo hiểm
+(1398) (Phần thuộc phân cấp BHXH tỉnh thu)
+Có TK 142- Phải thu nghiệp vụ thanh toán quỹ bảo hiểm
+(14211) (Chi tiết cho từng huyện đối với phần thuộc phân cấp BHXH huyện thu)
+b) BHXH huyện
+Căn cứ thông báo của BHXH tỉnh, ghi thu tiền Ngân
+sách địa phương đã hỗ trợ đóng, ghi:
+Nợ TK 342 - Phải trả nghiệp vụ thanh toán quỹ bảo
+hiểm (34211)
+Có TK 139 - Phải thu của các đối tượng đóng bảo hiểm
+(1398) (Phần thuộc phân cấp BHXH huyện thu)
+4. Sửa đổi hạch toán Ngân sách
+trung ương hỗ trợ đóng BHYT
+Ghi thu Ngân sách trung ương hỗ trợ đóng BHYT tại
+BHXH tỉnh, BHXH huyện, ghi:
+Nợ TK 342 - Phải trả nghiệp vụ thanh toán quỹ bảo
+hiểm (34211; 34221) Có TK 375 - Thu các loại bảo hiểm của tỉnh, huyện (37513)
+5. Bổ sung hướng dẫn hạch toán
+trong trường hợp thoái thu BHXH, BHYT, BHTN
+a) Khi phát hiện số thu nhầm các loại bảo hiểm,
+trong trường họp bộ phận thu đã ghi giảm số phải thu, kế toán phản ánh số phải
+trả và ghi giảm số đã thu các loại bảo hiểm, ghi:
+Nợ TK 339- Phải trả của các quỹ bảo hiểm (33914,
+33915)
+Có TK 339- Phải trả của các quỹ bảo hiểm (33918).
+b) Khi trả tiền cho đối tượng nộp nhầm, căn cứ vào
+quyết định của cấp có thẩm quyền và các chứng từ có liên quan, ghi:
+Nợ TK 339- Phải trả của các quỹ bảo hiểm (33918)
+Có TK 111, 112.
+6. Sửa đổi nội dung hạch toán
+chi lương hưu, trợ cấp BHXH qua Bưu điện
+6.1. BHXH tỉnh
+a) Căn cứ danh sách chi trả C72a-HD, Mẫu 7-CBH,
+C97-HD đã được phê duyệt, phản ánh số phải trả lương hưu và trợ cấp BHXH của đối
+tượng thuộc trách nhiệm của BHXH tỉnh theo phân cấp, ghi:
+Nợ TK 175 - Chi các loại BH của tỉnh, huyện
+(175113)
+Có TK 339 - Phải trả các quỹ bảo hiểm (339211,
+339212)
+b) Khi tạm ứng kinh phí chi lương hưu và trợ cấp
+BHXH cho cơ quan Bưu điện, căn cứ số kinh phí thuộc phân cấp BHXH tỉnh chi ghi:
+Nợ TK 343 - Thanh toán về chi BH với các đơn vị
+ngoài ngành (3431)
+Có TK 112- Tiền gửi Ngân hàng, Kho bạc
+c) Khi chuyển tiền tạm ứng kinh phí chi lương hưu
+và trợ cấp BHXH cho Bưu điện tỉnh để Bưu điện tỉnh chuyển tiền cho Bưu điện huyện,
+căn cứ số kinh phí thuộc phân cấp BHXH huyện chi, ghi:
+Nợ TK 342- Phải trả nghiệp vụ thanh toán quỹ bảo hiểm
+(34212)
+Có TK 112- Tiền gửi Ngân hàng, Kho bạc
+d) Khi quyết toán với cơ quan Bưu điện số chi trả
+lương hưu và trợ cấp BHXH của đối tượng thuộc trách nhiệm của BHXH tỉnh theo số
+Bưu điện thực chi, ghi:
+Nợ TK 339 - Phải trả các quỹ bảo hiểm (339211)
+Có TK 343 - Thanh toán về chi BH với các đơn vị
+ngoài ngành (3431)
+6.2. BHXH huyện
+a) Căn cứ Danh sách chi trả C72a-HD, Mẫu 7-CBH
+,C97-HD đã được phê duyệt, phản ánh số phải trả lương hưu và trợ cấp BHXH của đối
+tượng thuộc trách nhiệm của BHXH huyện theo phân cấp, ghi:
+Nợ TK 175 - Chi các loại BH của tỉnh, huyện
+(175113)
+Có TK 339 - Phải trả các quỹ bảo hiểm (339211,
+339212)
+b) Phản ánh kinh phí do BHXH tỉnh chuyển tiền tạm ứng
+kinh phí chi lương hưu và trợ cấp BHXH cho Bưu điện tỉnh để Bưu điện tỉnh chuyển
+tiền cho Bưu điện huyện, ghi:
+Nợ TK 343 - Thanh toán về chi BH với các đơn vị
+ngoài ngành (3431)
+Có TK 142 - Phải thu nghiệp vụ thanh toán quỹ bảo
+hiểm (14212)
+c) Phản ánh số quyết toán với cơ quan Bưu điện số
+chi trả lương hưu và trợ cấp BHXH của đối tượng thuộc trách nhiệm của BHXH huyện
+theo số Bưu điện thực chi, ghi:
+Nợ TK 339 - Phải trả các quỹ bảo hiểm (339211)
+Có TK 343 - Thanh toán về chi BH với các đơn vị
+ngoài ngành (3431)
+6.3. Hướng dẫn chuyển tiếp đối với năm 2019
+Điều chỉnh vào quý 4/2019 tại BHXH huyện, BHXH tỉnh
+như sau:
+a) BHXH huyện:
+- Căn cứ C74a-HD tháng 12/2019, phản ánh số còn phải
+trả lương hưu và trợ cấp BHXH của đối tượng thuộc trách nhiệm của BHXH huyện
+theo phân cấp, ghi:
+Nợ TK 175 - Chi các loại BH của tỉnh, huyện
+(175113)
+Có TK 339 - Phải trả các quỹ bảo hiểm (339211,
+339212)
+- Ghi đỏ bút toán phản ánh kinh phí do BHXH tỉnh
+chuyển tiền tạm ứng kinh phí chi lương hưu và trợ cấp BHXH cho Bưu điện tỉnh để
+Bưu điện tỉnh chuyển tiền cho Bưu điện huyện đã hạch toán, ghi đỏ:
+Nợ TK 339- Phải trả các quỹ bảo hiểm (339211,
+339212)
+Có TK 142 - Phải thu nghiệp vụ thanh toán quỹ bảo
+hiểm (1421)
+- Đồng thời, phản ánh kinh phí do BHXH tỉnh chuyển
+tiền tạm ứng kinh phí chi lương hưu và trợ cấp BHXH cho Bưu điện tỉnh để Bưu điện
+tỉnh chuyển tiền cho Bưu điện huyện, ghi:
+Nợ TK 343 - Thanh toán về chi BH với các đơn vị
+ngoài ngành (3431) Có TK 142 - Phải thu nghiệp vụ thanh toán quỹ bảo hiểm
+(1421)
+- Phản ánh số quyết toán với cơ quan Bưu điện số chi
+trả lương hưu và trợ cấp BHXH của đối tượng thuộc trách nhiệm của BHXH huyện
+theo số Bưu điện thực chi, ghi:
+Nợ TK 339 - Phải trả các quỹ bảo hiểm (339211)
+Có TK 343 - Thanh toán về chi BH với các đơn vị
+ngoài ngành (3431)
+a) BHXH tỉnh:
+Căn cứ C74a-HD tháng 12/2019, phản ánh số còn phải
+trả lương hưu và trợ cấp BHXH của đối tượng thuộc trách nhiệm của BHXH tỉnh
+theo phân cấp, ghi:
+Nợ TK 175 - Chi các loại BH của tỉnh, huyện
+(175113)
+Có TK 339 - Phải trả các quỹ bảo hiểm (339211,
+339212)
+7. Hạch toán chi BHTN qua Bưu
+điện tại BHXH tỉnh
+a) Căn cứ danh sách chi trả C72b-HD đã được phê duyệt,
+phản ánh số phải trả trợ cấp thất nghiệp, ghi:
+Nợ TK 175 - Chi các loại BH của tỉnh, huyện (17514)
+Có TK 339 - Phải trả các quỹ bảo hiểm (33923)
+b) Khi tạm ứng kinh phí cho cơ quan Bưu điện, ghi:
+Nợ TK 343 - Thanh toán về chi BH với các đơn vị
+ngoài ngành (3431)
+Có TK 112 - Tiền gửi Ngân hàng, Kho bạc
+c) Phản ánh số quyết toán với cơ quan Bưu điện,
+ghi:
+Nợ TK 339 - Phải trả các quỹ bảo hiểm (33923)
+Có TK 343 - Thanh toán về chi BH với các đơn vị
+ngoài ngành (3431)
+d) Hướng dẫn chuyển tiếp đối với năm 2019
+Điều chỉnh vào quý 4/2019 tại BHXH tỉnh như sau:
+Căn cứ C74a-HD tháng 12/2019, phản ánh số còn phải trả trợ cấp thất nghiệp,
+ghi:
+Nợ TK 175 - Chi các loại BH của tỉnh, huyện (17514)
+Có TK 339 - Phải trả các quỹ bảo hiểm (33923)
+8. Hạch toán số thu hồi BHTN
+Trong quá trình chi trả trợ cấp thất nghiệp, khi
+phát hiện các trường hợp phải dừng chi trợ cấp thất nghiệp, các đơn vị căn cứ
+quyết định hủy, tạm dừng hưởng trợ cấp thất nghiệp của Sở Lao động - Thương
+binh và Xã hội hoặc thông báo chấm dứt chi trả của Trung tâm dịch vụ việc làm,
+thực hiện ghi đỏ:
+Nợ TK 175 - Chi các loại bảo hiểm của tỉnh, huyện
+Có TK 339 - Phải trả của các quỹ bảo hiểm
+9. Sửa đổi hạch toán chi chế độ
+ốm đau, thai sản, dưỡng sức phục hồi sức khỏe (DSPHSK) cho người lao động qua
+đơn vị sử dụng lao động
+a) Căn cứ vào Danh sách giải quyết hưởng chế độ ốm
+đau, thai sản, DSPHSK (Mẫu số C70-HD) đã được duyệt, ghi:
+Nợ TK 175 - Chi các loại BH của tỉnh, huyện
+Có TK 343 - Thanh toán về chi BH với các đơn vị
+ngoài ngành (34321)
+b) Chuyển kinh phí cho đơn vị sử dụng lao động để
+chi trả cho người lao động, ghi:
+Nợ TK 343 - Thanh toán về chi BH với các đơn vị
+ngoài ngành
+Có TK 112 - Tiền gửi Ngân hàng, Kho bạc
+c) Trường hợp sau khi đơn vị sử dụng lao động tổ chức
+chi trả mà có người hưởng chưa nhận trong vòng 1 tháng kể từ khi nhận kinh phí
+do cơ quan BHXH chuyển sang căn cứ Danh sách chưa nhận chế độ chế độ ốm đau,
+thai sản, DSPHSK (Mẫu số 6-CBH) ban hành tại Quyết định số 166/QĐ-BHXH ngày
+31/01/2019 của BHXH Việt Nam về Quy trình giải quyết hưởng các chế độ BHXH, chi
+trả các chế độ BHXH, BHTN và số tiền đơn vị sử dụng lao động nộp lại cơ quan
+BHXH, ghi:
+- Hạch toán và theo dõi số phải trả cho người hưởng,
+ghi:
+Nợ TK 343 - Thanh toán về chi BH với các đơn vị
+ngoài ngành (số tiền đơn vị sử dụng lao động chưa chi do người hưởng chưa nhận)
+Có TK 339 - Phải trả của các quỹ bảo hiểm (3392) (số
+tiền người hưởng chưa nhận)
+- Khi nhận được tiền do đơn vị sử dụng lao động
+chuyển lại, ghi:
+Nợ TK 112 - Tiền gửi Ngân hàng, Kho bạc
+Có TK 343 - Thanh toán về chi BH với các đơn vị
+ngoài ngành (số tiền đơn vị sử dụng lao động chưa chi do người hưởng chưa nhận)
+- Khi người hưởng đến cơ quan BHXH để nhận tiền chế
+độ chi ốm đau, thai sản, DSPHSK chưa nhận tại đơn vị sử dụng lao động, ghi:
+Nợ TK 339- Phải trả của các quỹ bảo hiểm (3392)
+Có các TK 111, 112
+10. Bổ sung hướng dẫn hạch
+toán kế toán đối với việc thanh, quyết toán thuốc kháng HIV
+10.1. Cấp, tạm ứng kinh phí mua thuốc kháng HIV
+a) Tại BHXH Việt Nam
+- Khi tạm ứng kinh phí mua thuốc kháng HIV theo đề
+nghị của Trung tâm Giám định BHYT và Thanh toán đa tuyến khu vực phía Bắc, ghi:
+Nợ TK 142 - Phải thu nghiệp vụ thanh toán quỹ bảo
+hiểm (14228) (chi phí cùng chi trả thuốc kháng HIV của người bệnh tham gia điều
+trị có thẻ BHYT)
+(chi tiết từng tỉnh)
+Nợ TK 342 - Phải trả nghiệp vụ thanh toán quỹ bảo
+hiểm (34223) (chi phí thuốc kháng HIV do quỹ BHYT chi trả)
+(chi tiết từng tỉnh)
+Có TK 112 - Tiền gửi ngân hàng, Kho bạc Nhà nước
+- Khi nhận được chi phí cùng chi trả thuốc kháng
+HIV của người bệnh tham gia điều trị có thẻ BHYT do BHXH các tỉnh chuyển về,
+ghi:
+Nợ TK 112- Tiền gửi ngân hàng, Kho bạc Nhà nước.
+Có TK 142 - Phải thu nghiệp vụ thanh toán quỹ bảo
+hiểm (14228)
+b) Tại Trung tâm Giám định BHYT và Thanh toán đa
+tuyến khu vực phía Bắc
+- Khi nhận kinh phí mua thuốc kháng HIV do BHXH Việt
+Nam cấp tạm ứng, ghi:
+Nợ TK 112- Tiền gửi ngân hàng, Kho bạc nhà nước
+Có TK 342- Phải trả nghiệp vụ thanh toán quỹ bảo hiểm
+(34228)
+- Khi chuyển tiền tạm ứng mua thuốc kháng HIV cho
+nhà thầu, ghi:
+Nợ TK 342- Phải trả nghiệp vụ thanh toán quỹ bảo hiểm
+(34228)
+Có TK 112 - Tiền gửi ngân hàng, Kho bạc nhà nước
+10.2. Quyết toán chi phí thuốc kháng HIV do quỹ
+BHYT chi trả
+Hàng quý, BHXH tỉnh, BHXH huyện căn cứ Biên bản
+thanh quyết toán chi phí KCB BHYT (Mẫu số C82-HD) giữa cơ quan BHXH với cơ sở
+khám chữa bệnh đã quyết toán trong quý ghi thu, ghi chi chi phí thuốc kháng HIV
+do quỹ BHYT chi trả, ghi:
+Nợ TK 175 - Chi các loại BH của tỉnh, huyện
+(17513,17523)
+Có 142 - Phải thu nghiệp vụ thanh toán quỹ bảo hiểm
+(14223,14213)
+10.3. Hạch toán chi phí cùng chi trả thuốc kháng
+HIV của người bệnh tham gia điều trị có thẻ BHYT
+a) Tại BHXH huyện
+- Căn cứ Mẫu số 03/ARV hạch toán phải thu chi phí
+cùng chi trả thuốc kháng HIV của người bệnh tham gia điều trị có thẻ BHYT, ghi:
+Nợ TK 139 - Phải thu của các đối tượng đóng bảo hiểm
+(13988)
+Có TK 342- Phải trả nghiệp vụ thanh toán quỹ bảo hiểm
+(34218)
+- Khi nhận được kinh phí hỗ trợ phần cùng chi trả
+cho người bệnh nhận được từ cơ quan chuyên trách phòng, chống HIV/AIDS cấp tỉnh,
+Sở Y tế, Quỹ khám, chữa bệnh cho người nghèo, Quỹ hỗ trợ người nhiễm HIV, ghi:
+Nợ TK 112 - Tiền gửi ngân hàng, kho bạc
+Có TK 139 - Phải thu của các đối tượng đóng bảo hiểm
+(13988)
+- Khi chuyển kinh phí hỗ trợ phần cùng chi trả cho
+người bệnh về BHXH tỉnh, ghi:
+Nợ TK 342- Phải trả nghiệp vụ thanh toán quỹ bảo hiểm
+(34218)
+Có TK 112- Tiền gửi ngân hàng, kho bạc
+b) Tại BHXH tỉnh
+- Tổng hợp phải thu chi phí cùng chi trả thuốc
+kháng HIV của BHXH huyện phải nộp BHXH Việt Nam, ghi:
+Nợ TK 142 - Phải thu nghiệp vụ thanh toán quỹ bảo
+hiểm (14218)
+Có TK 342- Phải trả nghiệp vụ thanh toán quỹ bảo hiểm
+(34228)
+- Khi nhận được tiền do BHXH huyện chuyển về, ghi:
+Nợ TK 112- Tiền gửi ngân hàng, kho bạc
+Có TK 142 - Phải thu nghiệp vụ thanh toán quỹ bảo
+hiểm (14218)
+- Căn cứ Mẫu số 03/ARV hạch toán phải thu chi phí
+cùng chi trả thuốc kháng HIV của người bệnh tham gia điều trị có thẻ BHYT do
+BHXH tỉnh quản lý, ghi:
+Nợ TK 139 - Phải thu của các đối tượng đóng bảo hiểm
+(13988)
+Có TK 342- Phải trả nghiệp vụ thanh toán quỹ bảo hiểm
+(34228)
+- Khi nhận được kinh phí hỗ trợ phần cùng chi trả
+cho người bệnh nhận được từ cơ quan chuyên trách phòng, chống HIV/AIDS cấp tỉnh,
+Sở Y tế, Quỹ khám, chữa bệnh cho người nghèo, Quỹ hỗ trợ người nhiễm HIV, ghi:
+Nợ TK 112- Tiền gửi ngân hàng, kho bạc
+Có TK 139 - Phải thu của các đối tượng đóng bảo hiểm
+(13988)
+- Khi chuyển kinh phí hỗ trợ phần cùng chi trả cho
+người bệnh về BHXH Việt Nam, ghi:
+Nợ TK 342- Phải trả nghiệp vụ thanh toán quỹ bảo hiểm
+(34228)
+Có TK 112 - Tiền gửi ngân hàng, kho bạc
+10.4. Đối với chi phí thuốc kháng HIV bị mất mát,
+hư hỏng, hết hạn, hư hao và chi phí thanh toán chưa đúng quy định tại cơ sở y tế,
+từ nhà thầu thực hiện hạch toán như sau:
+a) Tại BHXH huyện
+- Căn cứ Mẫu số 03/ARV hạch toán phải thu chi phí
+thuốc kháng HIV bị mất mát, hư hỏng, hết hạn, hư hao và chi phí thanh toán chưa
+đúng quy định tại cơ sở y tế, ghi:
+Nợ TK 139 - Phải thu của các đối tượng đóng bảo hiểm
+(13988)
+Có TK 342- Phải trả nghiệp vụ thanh toán quỹ bảo hiểm
+(34218)
+- Khi nhận tiền thu hồi tại các cơ sở y tế, từ nhà
+thầu, ghi:
+Nợ TK 112- Tiền gửi ngân hàng, kho bạc
+Có TK 139 - Phải thu của các đối tượng đóng bảo hiểm
+(13988)
+- Khi chuyển tiền thu hồi về BHXH tỉnh, ghi:
+Nợ TK 342- Phải trả nghiệp vụ thanh toán quỹ bảo hiểm
+(34218)
+Có TK 112 - Tiền gửi ngân hàng, kho bạc
+b) Tại BHXH tỉnh
+- Tổng hợp số phải thu hồi đối với chi phí thuốc
+kháng HIV bị mất mát, hư hỏng, hết hạn, hư hao và chi phí thanh toán chưa đúng
+quy định tại cơ sở y tế, từ nhà thầu của BHXH huyện phải nộp BHXH Việt Nam,
+ghi:
+Nợ TK 142 - Phải thu nghiệp vụ thanh toán quỹ bảo
+hiểm (14218)
+Có TK 342- Phải trả nghiệp vụ thanh toán quỹ bảo hiểm
+(34228)
+- Khi nhận được tiền thu hồi do BHXH huyện chuyển về,
+ghi:
+Nợ TK 112- Tiền gửi ngân hàng, kho bạc
+Có TK 142 - Phải thu nghiệp vụ thanh toán quỹ bảo
+hiểm (14218)
+- Căn cứ Mẫu số 03/ARV, hạch toán phải thu chi phí
+thuốc kháng HIV bị mất mát, hư hỏng, hết hạn, hư hao và chi phí thanh toán chưa
+đúng quy định tại cơ sở y tế do BHXH tỉnh quản lý, ghi:
+Nợ TK 139 - Phải thu của các đối tượng đóng bảo hiểm
+(13988)
+Có TK 342- Phải trả nghiệp vụ thanh toán quỹ bảo hiểm
+(34228)
+- Khi nhận được tiền thu hồi tại các cơ sở y tế, từ
+nhà thầu, ghi:
+Nợ TK 112 - Tiền gửi ngân hàng, kho bạc
+Có TK 139 - Phải thu của các đối tượng đóng bảo hiểm
+(13988)
+- Khi chuyển tiền thu hồi về BHXH Việt Nam, ghi:
+Nợ TK 342- Phải trả nghiệp vụ thanh toán quỹ bảo hiểm
+(34228)
+Có TK 112 - Tiền gửi ngân hàng, kho bạc
+11. Bổ sung hướng dẫn hạch
+toán đối với tài khoản 018 - Thu hoạt động khác được để lại
+a) Khi nhận được kinh phí hoạt động do cấp trên cấp,
+ghi:
+Nợ TK 112 - Tiền gửi ngân hàng, kho bạc
+Có TK 337 - Tạm thu (3371)
+Đồng thời ghi:
+Nợ TK 018 - Thu hoạt động khác được để lại
+b) Khi sử dụng kinh phí hoạt động, ghi:
+Nợ các TK 152, 153, 211, 611,...
+Có các TK 111, 112
+Đồng thời ghi:
+Có TK 018 - Thu hoạt động khác được để lại
+(chi tiết
+Mục lục ngân sách)
+Đồng thời ghi:
+Nợ TK 337 - Tạm thu (3371)
+Có TK 366 - Các khoản nhận trước chưa ghi thu
+(nếu
+dùng để mua TSCĐ, nguyên liệu vật liệu, công cụ dụng cụ nhập kho)
+Có TK 511- Thu hoạt động do NSNN cấp
+c) Khi trích lập các quỹ từ kinh phí tiết kiệm tại
+BHXH tỉnh, các đơn vị trực thuộc, ghi:
+Nợ TK 421 - Thặng dư (thâm hụt) lũy kế
+Có TK 431 - Các quỹ (TK chi tiết tương ứng)
+Đồng thời ghi:
+Có TK 018 - Thu hoạt động khác được để lại
+d). Khi nộp nguồn chi phí quản lý về cấp trên, ghi:
+Nợ TK 337 - Tạm thu (3371)
+Có TK 112 - Tiền gửi Ngân hàng, Kho bạc
+Đồng thời ghi:
+Có TK 018 - Thu hoạt động khác được để lại
+e) Các đơn vị căn cứ tài khoản 018 - Thu hoạt động
+khác được để lại để lập Báo cáo quyết toán kinh phí hoạt động (Mẫu số B01/BCQT
+ban hành kèm theo Thông tư số 107/2017/TT-BTC)
+12. Sửa đổi, bổ sung hạch toán
+kế toán đối với ấn chỉ
+12.1. Tại BHXH tỉnh
+a) Khi nhập kho ấn chỉ, ghi:
+Nợ TK 152- Nguyên liệu, vật liệu
+Có TK 366- Các khoản nhận trước chưa ghi thu
+(36612) (đối với ấn chỉ BHXH tỉnh nhận từ Văn phòng BHXH Việt Nam).
+Có các TK 111, 112, 331,... (chi phí mua, vận chuyển,
+bốc dỡ...)
+(đối với ấn chỉ BHXH tỉnh tự in)
+Đồng thời ghi:
+Nợ TK 018 - Thu hoạt động khác được để lại
+(đối
+với ấn chỉ BHXH tỉnh tự in)
+Đồng thời ghi:
+Nợ TK 337 -Tạm thu (3371)
+Có TK 366- Các khoản nhận trước chưa ghi thu
+(36612)
+(đối với ấn chỉ BHXH tỉnh tự in)
+b) Khi xuất kho ấn chỉ để cấp cho BHXH các huyện,
+ghi:
+Nợ TK 366- Các khoản nhận trước chưa ghi thu
+(36612)
+Có TK 152- Nguyên liệu, vật liệu.
+c) Khi xuất kho ấn chỉ giao cho cán bộ, công chức,
+viên chức của BHXH tỉnh để cấp không thu phí và cấp đổi có thu phí cho các tổ
+chức, cá nhân theo chế độ quy định, ghi:
+Nợ TK 141- Tạm ứng
+Có TK 152- Nguyên liệu, vật liệu.
+d) Khi cán bộ, nhân viên của BHXH tỉnh báo cáo và
+thanh quyết toán số ấn chỉ đã cấp cho các tổ chức, cá nhân theo chế độ quy định
+được cấp có thẩm quyền phê duyệt, ghi:
+Nợ TK 611- Chi phí hoạt động (61112)
+Có TK 141-Tạm ứng.
+Đồng thời ghi:
+Nợ TK 366- Các khoản nhận trước chưa ghi thu
+(36612)
+Có TK 511- Thu hoạt động do NSNN cấp
+e) Khi BHXH huyện báo cáo và thanh quyết toán số ấn
+chỉ đã cấp cho các tổ chức, cá nhân theo chế độ quy định được cấp có thẩm quyền
+phê duyệt, ghi:
+Nợ TK 611- Chi phí hoạt động (61112)
+Có TK TK 511 - Thu hoạt động do NSNN cấp
+12.2. Tại BHXH huyện
+a) Khi nhận được ấn chỉ do BHXH tỉnh cấp, ghi:
+Nợ TK 152- Nguyên liệu, vật liệu
+Có TK 366- Các khoản nhận trước chưa ghi thu
+(36612)
+b) Khi xuất kho ấn chỉ giao cho cán bộ, công chức,
+viên chức của BHXH huyện để cấp không thu phí và cấp đổi có thu phí cho các tổ
+chức, cá nhân theo chế độ quy định, ghi:
+Nợ TK 141 - Tạm ứng
+Có TK 152- Nguyên liệu, vật liệu.
+c) Khi cán bộ, nhân viên của BHXH huyện báo cáo và
+thanh quyết toán số ấn chỉ đã cấp cho các tổ chức, cá nhân theo chế độ quy định
+được cấp có thẩm quyền phê duyệt, ghi:
+Nợ TK 337- Tạm thu (3371)
+Có TK 141- Tạm ứng.
+Đồng thời ghi:
+Nợ TK 366- Các khoản nhận trước chưa ghi thu
+(36612)
+Có TK337- Tạm thu (3371)
+13. Bổ sung hướng dẫn hạch
+toán kế toán đối với mua sắm tài sản từ nguồn chi phí quản lý BHXH, BHYT, BHTN
+13.1. Tại BHXH tỉnh, các đơn vị trực thuộc
+a) Căn cứ các chứng từ có liên quan đến việc mua sắm
+tài sản cố định (TSCĐ) hữu hình, kế toán xác định nguyên giá của TSCĐ, lập hồ
+sơ kế toán, lập biên bản giao nhận TSCĐ và tiến hành ghi sổ kế toán như sau:
+Nợ TK 211 - TSCĐ hữu hình
+Có các TK 111, 112,331,... (chi phí mua, vận chuyển,
+bốc dỡ...).
+Đồng thời, ghi:
+Có TK 018 - Thu hoạt động khác được để lại
+b) Đồng thời phản ánh nguồn hình thành TSCĐ, ghi:
+Nợ TK 337-Tạm thu (3371)
+Có TK 366- Các khoản nhận trước chưa ghi thu
+(36611)
+c) Cuối năm khi tính hao mòn, khấu hao TSCĐ, ghi:
+Nợ TK 611 - Chi hoạt động (nếu dùng cho hoạt động
+hành chính sự nghiệp), hoặc
+Nợ các TK 154, 642 (nếu dùng cho hoạt động SXKD, dịch
+vụ)
+Có TK 214- Khấu hao và hao mòn lũy kế TSCĐ.
+d) Cuối năm đơn vị căn cứ Bảng phân bổ khấu hao,
+hao mòn TSCĐ đã tính (trích) trong năm để kết chuyển, ghi:
+Nợ TK 366 - Các khoản nhận trước chưa ghi thu
+(36611)
+Có TK 511 - Thu hoạt động do NSNN cấp
+e) BHXH tỉnh tổng hợp khấu hao, hao mòn TSCĐ BHXH
+huyện đã trích để kết chuyển, ghi:
+Nợ TK 611 - Chi phí hoạt động (phần hao mòn TSCĐ
+BHXH huyện đã trích trong năm)
+Có TK 511 - Thu hoạt động do NSNN cấp
+13.2. Tại BHXH huyện
+a) Khi mua sắm tài sản cố định từ nguồn chi phí quản
+lý BHXH, BHYT, BHTN, ghi:
+Nợ TK 211- TSCĐ hữu hình
+Có các TK 111,112,331,366... (chi phí mua, vận chuyển,
+bốc dỡ...).
+Đồng thời, ghi:
+Có TK 018 - Thu hoạt động khác được để lại
+b) Đồng thời phản ánh nguồn hình thành TSCĐ, ghi:
+Nợ TK 337- Tạm thu (3371)
+Có TK 366- Các khoản nhận trước chưa ghi thu
+(36611)
+c) Cuối năm khi tính hao mòn, khấu hao TSCĐ, ghi:
+Nợ TK337- Tạm thu (3371)
+Có TK 214- Khấu hao và hao mòn lũy kế TSCĐ.
+d) Cuối năm, đơn vị kết chuyển số khấu hao, hao mòn
+đã tính (trích) trong năm, ghi:
+Nợ TK 366- Các khoản nhận trước chưa ghi thu
+(36611)
+Có TK 337 -Tạm thu (3371)
+13.3. Lưu ý
+Khi BHXH tỉnh tổng hợp các khoản chi từ nguồn chi
+phí quản lý tại BHXH huyện, ghi:
+Nợ TK 611 - Chi phí hoạt động
+(không bao gồm hao
+mòn tài sản)
+Nợ TK 337 - Tạm thu (3371)
+(giá trị tài sản,
+nguyên liệu, vật liệu, công cụ dụng cụ BHXH huyện đã mua)
+Có TK 346 - Kinh phí cấp cho cấp dưới (3462)
+14. Hạch toán đối với TSCĐ được
+tiếp nhận từ đơn vị khác.
+14.1. Tại BHXH tỉnh, các đơn vị trực thuộc
+a) Đối với TSCĐ nhận mới
+- Căn cứ Quyết định điều chuyển tài sản và biên bản
+bàn giao TSCĐ, ghi: Nợ TK 211 - TSCĐ hữu hình
+Có TK 366- Các khoản nhận trước chưa ghi thu
+(36611)
+- Khi tính hao mòn; trích khấu hao TSCĐ, ghi:
+Nợ TK 611- Chi hoạt động (nếu dùng cho hoạt động
+hành chính sự nghiệp), hoặc
+Nợ các TK 154, 642 (nếu dùng cho hoạt động SXKD, dịch
+vụ)
+Có TK 214- Khấu hao và hao mòn lũy kế TSCĐ.
+- Cuối năm đơn vị căn cứ Bảng phân bổ khấu hao, hao
+mòn TSCĐ đã tính (trích) trong năm để kết chuyển, ghi:
+Nợ TK 366 - Các khoản nhận trước chưa ghi thu
+(36611)
+Có TK 511- Thu hoạt động do NSNN cấp
+b) Đối với TSCĐ đã qua sử dụng
+- Khi nhận được TSCĐ đã qua sử dụng, căn cứ vào Quyết
+định điều chuyển tài sản và biên bản bàn giao TSCĐ, ghi:
+Nợ TK 211 - TSCĐ hữu hình
+Có TK 214- Khấu hao và hao mòn lũy kế TSCĐ (giá trị
+hao mòn lũy kế) Có TK 366- Các khoản nhận trước chưa ghi thu (36611) (giá trị
+còn lại)
+- Khi tính hao mòn; trích khấu hao TSCĐ, ghi:
+Nợ TK 611- Chi hoạt động (nếu dùng cho hoạt động
+hành chính sự nghiệp), hoặc
+Nợ các TK 154, 642 (nếu dùng cho hoạt động SXKD, dịch
+vụ)
+Có TK 214- Khấu hao và hao mòn lũy kế TSCĐ.
+- Cuối năm đơn vị căn cứ Bảng phân bổ khấu hao, hao
+mòn TSCĐ đã tính (trích) trong năm để kết chuyển, ghi:
+Nợ TK 366 - Các khoản nhận trước chưa ghi thu
+(36611)
+Có TK 511- Thu hoạt động do NSNN cấp
+14.2. Tại BHXH huyện
+a) Đối với TSCĐ nhận mới
+- Căn cứ Quyết định điều chuyển tài sản và biên bản
+bàn giao TSCĐ, ghi: Nợ TK 211 - TSCĐ hữu hình
+Có TK 366- Các khoản nhận trước chưa ghi thu
+(36611)
+- Khi tính hao mòn; trích khấu hao TSCĐ, ghi:
+Nợ TK 337 -Tạm thu (3371)
+Có TK 214- Khấu hao và hao mòn lũy kế TSCĐ.
+- Cuối năm đơn vị căn cứ Bảng phân bổ khấu hao, hao
+mòn TSCĐ đã tính (trích) trong năm để kết chuyển, ghi:
+Nợ TK 366 - Các khoản nhận trước chưa ghi thu
+(36611)
+Có TK 337 -Tạm thu (3371)
+b) Đối với TSCĐ đã qua sử dụng
+- Khi nhận được TSCĐ đã qua sử dụng, căn cứ vào Quyết
+định điều chuyển tài sản và biên bản bàn giao TSCĐ, ghi:
+Nợ TK 211-TSCĐ hữu hình
+Có TK 214- Khấu hao và hao mòn lũy kế TSCĐ
+(giá
+trị hao mòn lũy kế)
+Có TK 366 - Các khoản nhận trước chưa ghi thu
+(36611)
+(giá trị còn lại)
+- Khi tính hao mòn; trích khấu hao TSCĐ, ghi:
+Nợ TK 337-Tạm thu (3371)
+Có TK 214- Khấu hao và hao mòn lũy kế TSCĐ.
+- Cuối năm đơn vị căn cứ Bảng phân bổ khấu hao, hao
+mòn TSCĐ đã tính (trích) trong năm để kết chuyển, ghi:
+Nợ TK 366 - Các khoản nhận trước chưa ghi thu
+(36611)
+Có TK 337 -Tạm thu (3371)
+15. Bổ sung hướng dẫn hạch
+toán đối với TSCĐ từ nguồn kinh phí đầu tư xây dựng cơ bản đưa vào sử dụng
+nhưng chưa được cấp trên phê duyệt quyết toán
+a) Khi nhận được kinh phí đầu tư XDCB do BHXH Việt
+Nam cấp theo dự toán và kế hoạch vốn được phân bổ, ghi:
+Nợ TK 112 - Tiền gửi ngân hàng, kho bạc
+Có TK 3664 -Kinh phí đầu tư XDCB
+Số kinh phí được cấp
+b) Khi phát sinh chi phí đầu tư XDCB, ghi:
+Nợ TK 241: Chi phí XDCB dở dang (2412 - chi tiết
+DA)
+Có TK 111, 112, 331,...
+c) Khi công trình hoàn thành bàn giao đưa vào sử dụng
+Khi công trình hoàn thành, việc nghiệm thu tổng thể
+đã được thực hiện xong, tài sản được bàn giao đưa vào sử dụng: Nếu quyết toán
+được duyệt ngay thì căn cứ vào giá trị tài sản hình thành qua đầu tư được duyệt
+để ghi sổ. Nếu quyết toán chưa được phê duyệt thì ghi tăng giá trị của tài sản
+hình thành qua đầu tư theo giá tạm tính (Giá tạm tính theo thứ tự ưu tiên theo
+quy định tại
+Điều 7 Khoản 2 Mục a Thông tư 45/2018/TT-BTC
+ngày 07/5/2018 của Bộ Tài chính: 1. Giá trị đề nghị quyết toán; 2. Giá trị xác
+định theo biên bản nghiệm thu A-B; 3. Giá trị dự toán dự án đã được duyệt). Cả
+2 trường hợp, kế toán ghi:
+Nợ các TK 211, 213
+Có TK 241- XDCB dở dang (2412).
+Đồng Thời:
+Nợ TK 366- Các khoản nhận trước chưa ghi thu (3664)
+Có TK 366- Các khoản nhận trước chưa ghi thu
+(36611).
+Tính hao mòn, ghi:
+Nợ TK 366- Các khoản nhận trước chưa ghi thu
+  (36611)
+Có TK 214 - Khấu hao và hao mòn lũy kế TSCĐ
+Số hao mòn đã trích trong năm
+d) Khi quyết toán vốn đầu tư XDCB hoàn thành được duyệt
+thì kế toán điều chỉnh lại giá trị tạm tính theo giá trị tài sản được duyệt,
+ghi:
+- Nếu giá trị tài sản hình thành qua đầu tư XDCB được
+duyệt có giá trị lớn hơn giá tạm tính, ghi:
+Nợ các TK 211, 213
+Có TK 241- XDCB dở dang (2412).
+Đồng thời ghi:
+Nợ TK 366- Các khoản nhận trước chưa ghi thu (3664)
+Có TK 366- Các khoản nhận trước chưa ghi thu
+(36611).
+Ghi tăng hao mòn đã tính:
+Nợ TK 366- Các khoản nhận trước chưa ghi thu
+  (36611)
+Có TK 214 - Khấu hao và hao mòn lũy kế TSCĐ
+Số hao mòn đã trích trong năm
+- Nếu giá trị tài sản hình thành qua đầu tư XDCB được
+duyệt có giá trị nhỏ hơn giá trị tạm tính:
+Ghi đỏ:
+Nợ các TK 211, 213
+Có TK 241- XDCB dở dang (2412).
+Đồng Thời ghi đỏ:
+Nợ TK 366- Các khoản nhận trước chưa ghi thu (3664)
+Có TK 366- Các khoản nhận trước chưa ghi thu
+(36611).
+Giảm hao mòn đã tính, ghi đỏ:
+Nợ TK 366- Các khoản nhận trước chưa ghi thu
+  (36611)
+Có TK 214 - Khấu hao và hao mòn lũy kế TSCĐ
+Số hao mòn đã trích trong năm
+16. Sửa đổi một số bút toán hạch
+toán Quỹ bổ sung thu nhập
+a) Đối với BHXH tỉnh
+- Khi cấp kinh phí chi thu nhập bổ sung cho BHXH quận,
+huyện, thị xã, thành phố thuộc tỉnh (gọi chung là BHXH huyện), ghi:
+Nợ TK 336 - Phải trả nội bộ
+Có TK 112 - Tiền gửi ngân hàng, kho bạc.
+- Khi tổng hợp quyết toán thu nhập bổ sung được hưởng
+hàng năm đối với BHXH các huyện ghi:
+Nợ TK 431 - Các quỹ (43132)
+Có TK 336 - Phải trả nội bộ
+b) Đối với BHXH huyện
+- Khi nhận được tiền do BHXH tỉnh cấp về để chi thu
+nhập bổ sung cho công chức viên chức (CCVC), ghi:
+Nợ TK 112 -Tiền gửi
+Có TK 136 - Phải thu nội bộ
+- Hạch toán tiền thu nhập bổ sung phải trả cho CCVC
+từ Quỹ bổ sung thu nhập do BHXH tỉnh cấp, ghi:
+Nợ TK 136 - Phải thu nội bộ
+Có TK 334 - Phải trả CCVC
+- Khi tạm ứng, thanh toán thu nhập bổ sung cho
+CCVC, ghi:
+Nợ TK 334 - Phải trả CCVC
+Có TK 111- Tiền mặt
+Có TK 112 - Tiền gửi ngân hàng, kho bạc.
+Trong quá trình thực hiện, nếu có phát sinh vướng mắc,
+các đơn vị báo cáo kịp thời về Bảo hiểm xã hội Việt Nam (Vụ Tài chính - Kế
+toán) để xem xét, giải quyết./.
+Nơi nhận:
+- Như trên;
+- Tổng Giám đốc (để b/c);
+- Các Phó Tổng Giám đốc;
+- CNTT;
+- Lưu: VT, TCKT (4b).
+KT. TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Nguyễn Đình Khương
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

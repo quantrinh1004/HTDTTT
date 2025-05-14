@@ -1,0 +1,88 @@
+BẢO HIỂM XÃ HỘI VIỆT
+  NAM
+-------
+CỘNG HÒA XÃ HỘI CHỦ
+  NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 1232/BHXH-CNTT
+V/v
+  hướng dẫn thực hiện xem lịch sử KCB bằng việc xác thực qua tin nhắn OTP
+Hà Nội, ngày 18
+  tháng 4 năm 2019
+Kính
+gửi:
+Bảo hiểm xã hội các tỉnh, thành phố trực thuộc trung ương.
+Thực hiện Thông tư số
+48/2017/TT-BYT ngày 28/12/2017 của Bộ Y tế về việc quy định trích chuyển dữ
+liệu điện tử trong quản lý và thanh toán chi phí khám bệnh, chữa bệnh bảo hiểm
+y tế, Bảo hiểm xã hội (BHXH) Việt Nam có trách nhiệm đảm bảo bảo mật, an toàn,
+an ninh của cơ sở dữ liệu thông tin thẻ bảo hiểm y tế và dữ liệu điện tử của
+người khám bệnh, chữa bệnh (KCB) bảo hiểm y tế đã được chuyển lên Cổng tiếp
+nhận dữ liệu Hệ thống thông tin giám định bảo hiểm y tế, BHXH Việt Nam đã có
+công văn số 1090/QĐ-BHXH ngày 05/4/2019 về việc bảo mật thông tin của người sử dụng
+và công văn số 1130/BHXH-CNTT ngày 10/4/2019 về việc cung cấp danh sách cán bộ
+được phân quyền xem dữ liệu lịch sử KCB.
+Cán bộ sau khi được phân
+quyền xem dữ liệu lịch sử KCB trên Cổng tiếp nhận dữ liệu Hệ thống thông tin
+giám định bảo hiểm y tế sẽ được nhận được tin nhắn thông báo tới số điện thoại
+đã đăng ký với cơ quan BHXH. Nội dung tin nhắn: “
+Bạn đã được cấp quyền xem
+lịch sử KCB trên Cổng tiếp nhận Hệ thống thông tin giám định BHYT
+”.
+BHXH Việt Nam đề nghị
+Giám đốc BHXH các tỉnh, thành phố trực thuộc trung ương phối hợp, hướng dẫn các
+cơ sở KCB thuộc địa bàn thực hiện xem lịch sử KCB bằng việc xác thực qua tin
+nhắn OTP theo hướng dẫn tại Phụ lục gửi kèm theo công văn.
+Nơi nhận:
+-
+Như
+  trên;
+- Bộ Y tế;
+- Tổng Giám đốc (để b/c);
+- Các đơn vị: CSYT, GĐB, GĐN, TT;
+- Lưu: VT, CNTT.
+KT. TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Phạm Lương Sơn
+PHỤ
+LỤC
+(Gửi
+kèm theo công văn số 1232/BHXH-CNTT ngày 18/4/2019 của BHXH Việt Nam)
+Bước 1.
+Truy cập
+Cổng tiếp
+nhận dữ liệu Hệ thống thông tin giám định BHYT
+(https://gdbhyt.baohiemxahoi.gov.vn)
+với user và mật khẩu đã được BHXH Việt Nam cấp.
+Bước 2.
+Chọn
+Thông
+tuyến Khám chữa bệnh\Quản lý thông tuyến
+để tra cứu thông tin của người
+tham gia bảo hiểm y tế.
+Bước 3
+. Để xem
+lịch sử KCB của người tham gia bảo hiểm y tế, cán bộ sử dụng nhập mã số bảo
+hiểm xã hội của mình vào ô
+Mã BHXH
+.
+Bước 4.
+Chọn nút
+Lấy
+OTP
+và chờ tin nhắn có mã
+OTP
+được gửi đến số điện thoại mà cán bộ
+sử dụng đã đăng ký với cơ quan BHXH.
+Bước 5
+. Điền mã
+số xác nhận OTP trong tin nhắn nhận được để xem lịch sử KCB.
+Lưu ý:
+Nếu trong
+vòng 30 phút người dùng không thực hiện tra cứu thì mã OTP sẽ hết hiệu lực và
+phải tiến hành lấy lại mã OTP.
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

@@ -1,0 +1,152 @@
+BẢO HIỂM XÃ
+  HỘI VIỆT NAM
+--------
+CỘNG HÒA XÃ
+  HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 561/BHXH-CSYT
+V/v hướng dẫn thực hiện
+  một số nội dung của Thông tư số 30/2020/TT-BYT
+Hà Nội, ngày 10 tháng
+  3 năm 2021
+Kính gửi:
+- Bảo hiểm xã hội các tỉnh, thành phố trực thuộc
+  Trung ương;
+- Bảo hiểm xã hội Bộ Quốc phòng;
+- Bảo hiểm xã hội Công an nhân dân.
+(Sau đây viết tắt là BHXH các tỉnh)
+Bộ Y tế ban hành Thông tư số
+30/2020/TT-BYT ngày 31/12/2020 quy định chi tiết và hướng dẫn biện pháp thi
+hành một số điều của Nghị định số 146/2018/NĐ-CP ngày 17/10/2018 của Chính phủ
+quy định chi tiết và hướng dẫn biện pháp thi hành một số điều của Luật bảo hiểm
+y tế (BHYT), có hiệu lực thi hành từ ngày 01/3/2021 và Công văn số 1078/BYT-BH
+ngày 22/02/2021 gửi Bảo hiểm xã hội (BHXH) Việt Nam, đề nghị hướng dẫn việc
+thanh toán trong trường hợp chuyển dịch vụ cận lâm sàng liên quan đến đến khám,
+chữa bệnh(KCB) HIV/AIDSvà KCB Lao. Để thống nhất trong tổ chức thực hiện, BHXH
+Việt Nam đề nghị BHXH các tỉnh nghiên cứu các nội dung quy định tại Thông tư số
+30/2020/TT-BYT nêu trên, lưu ý một số nội dung sau:
+1. Về KCB BHYT tại xã
+giáp ranh của tỉnh giáp ranh
+a) BHXH các tỉnh căn cứ danh
+sách các trạm y tế (TYT) tuyến xã có địa giới hành chính tiếp giáp trực tiếp với
+xã của tỉnh khác do Sở Y tế các tỉnh cung cấp sau khi thống nhất với các Sở Y tế
+của tỉnh giáp ranh như quy định tại
+điểm b, khoản 3 Điều 14
+Thông tư số 30/2020/TT-BYT
+(bằng văn bản) để thực hiện thanh toán chi phí
+KCB BHYT tại xã giáp ranh của tỉnh giáp ranh theo đúng quy định tại
+khoản 4, Điều 14 Nghị định số 146/2018/NĐ-CP
+.
+b) Người có thẻ BHYT đăng ký
+KCB ban đầu tại TYT xã và tương đương đi KCB tại các TYT của xã giáp ranh của tỉnh
+khác là trường hợp đi KCB không đúng tuyến nhưng được hưởng 100% chi phí KCB
+trong phạm vi hưởng và mức hưởng quy định tại
+khoản 1, Điều 14
+Nghị định số 146/2018/NĐ-CP
+.
+c) Việc mã hóa dữ liệu và
+ghi chép chi phí KCB như sau:
+- Tại trường số 16
+(MA_LYDO_VVIEN) của Bảng 1 ban hành kèm theo Quyết định số 4210/QĐ-BYT ngày
+20/9/2017 của Bộ trưởng Bộ Y tế về định dạng và chuẩn dữ liệu đầu ra phục vụ quản
+lý và giám định, thanh toán chi phí KCB BHYT: ghi mã số 3;
+- Tại trường số 17
+(MUC_HUONG) của Bảng 2, Bảng 3 ban hành kèm theo Quyết định số 4210/QĐ-BYT: ghi
+mức hưởng 100;
+d) Tại mục 14 Phần I (Phần
+Hành chính) của Bảng kê chi phí KCB ban hành kèm theo Quyết định 6556/QĐ-BYT
+ngày 30/10/2018 của Bộ trưởng Bộ Y tế về ban hành mẫu bảng kê chi phí KCB sử dụng
+tại các cơ sở KCB: chọn mục “Trái tuyến”.
+2. Về quy định tại
+điểm b khoản 4 Điều 6 Thông tư số 30/2020/TT-BYT
+Các trường hợp người bệnh
+đang điều trị nội trú hoặc điều trị ngoại trú được xác định theo quy định tại
+Điều 57, Điều 58 Luật KCB số 40/2009/QH12
+.
+3. Về thanh toán chi
+phí KCB đối với người đã hiến bộ phận cơ thể
+Trường hợp sau khi phẫu thuật
+viên kết thúc thực hiện kỹ thuật lấy bộ phận cơ thể của người hiến mà có diễn
+biến bất thường xảy ra, được cơ sở KCB nơi thực hiện kỹ thuật lấy bộ phận cơ thể
+chỉ định điều trị ngay: BHXH các tỉnh thực hiện thanh toán phần chi phí KCB
+phát sinh của người đã hiến bộ phận cơ thể kể từ khi có diễn biến bất thường đó
+theo quy định tại
+khoản 4, Điều 15 Nghị định số 146/2018/NĐ-CP
+.
+4. Về việc chuyển thực
+hiện dịch vụ cận lâm sàng
+4.1. Một số lưu ý trong thực
+hiện giám định và thanh toán đối với việc chuyển dịch vụ cận lâm sàng:
+a) BHXH các tỉnh đề nghị cơ
+sở KCB cung cấp: Bản sao hợp đồng nguyên tắc theo quy định tại
+khoản
+2 Điều 9 Thông tư số 30/2020/TT-BYT
+; văn bản thông báo danh mục các dịch vụ
+kỹ thuật cận lâm sàng cần chuyển có nêu rõ lý do phải chuyển sang cơ sở khác thực
+hiện dịch vụ, làm cơ sở thống nhất ký bổ sung phụ lục hợp đồng KCB BHYT trước
+khi thực hiện.
+b) Đối với các dịch vụ cận
+lâm sàng không thuộc danh mục dịch vụ kỹ thuật y tế được cơ quan nhà nước có thẩm
+quyền phê duyệt thực hiện tại cơ sở KCB nhưng thực tế cần thiết cho các hoạt động
+chuyên môn,chỉ áp dụng đối vớingười bệnh đang điều trị nội trú từ tuyến huyện
+trở lên.
+c) Riêng việc chuyển các dịch
+vụ cận lâm sàng liên quan đến KCB của người nhiễm HIV/AIDS và mắc bệnh Lao: tiếp
+tục thực hiện theo quy định tại
+khoản 4, Điều 4 Thông tư số
+27/2018/TT-BYT
+ngày 26/10/2018 của Bộ trưởng Bộ Y tế về hướng dẫn thực hiện
+BHYT và KCB BHYT liên quan đến HIV/AIDS và
+khoản 3, Điều 7
+Thông tư số 04/2016/TT-BYT
+ngày 26/02/2016 của Bộ trưởng Bộ Y tế quy định về
+KCB và thanh toán chi phí KCB BHYT liên quan đến KCB Lao. Theo đó, việc chuyển
+dịch vụ cận lâm sàng liên quan đến KCB HIV/AIDS và KCB Lao tại các cơ sở y tế
+có chức năng điều trị HIV/AIDS và cơ sở thực hiện KCB Lao theo quy định tại 02
+Thông tư nêu trên được áp dụng cho cả người bệnh nội trú và ngoại trú.
+4.2. Cơ sở chuyển dịch vụ mã
+hóa các thuốc, vật tư y tế được thanh toán ngoài mức giá của các dịch vụ cận
+lâm sàng do cơ sở khác thực hiện như sau:
+a) MATHUOC: ghi mã hoạt chất
+theo quy định tại Bộ mã danh mục dùng chung do Bộ Y tế ban hành, bổ sung thêm
+chữ Kvà 5 ký tự mã cơ sở KCB nơi thực hiện dịch vụ cận lâm sàng. Giữa mã hoạt
+chất với chữ K và giữa chữ K với mã cơ sở cách nhau bằng dấu chấm (.).
+Ví dụ 1
+:
+Bệnh viện
+B chuyển người bệnh đến Bệnh viện A (mã cơ sở KCB là 01901) để thực hiện dịch vụ
+Chụp động mạch chi (trên, dưới) số hóa xóa nền (DSA), thuốc cản quang Ultravist
+300 (có mã hoạt chất là 40.646) được sử dụng trong dịch vụ được thanh toán
+riêng ngoài giá dịch vụ vì được ghi chú chưa bao gồm trong giá. Bệnh viện B ghi
+mã thuốc cản quang Ultravist 300 khi đề nghị thanh toán là 40.646.K.01901.
+b) MA VATTU: ghi mã vật tư y
+tế theo quy định tại Bộ mã danh mục dùng chung do Bộ Y tế ban hành, bổ sung
+thêm chữ K và 5 ký tự mã cơ sở KCB nơi thực hiện dịch vụ cận lâm sàng. Giữa mã
+hoạt chất với chữ K và giữa chữ K với mã cơ sở cách nhau bằng dấu chấm (.).
+Ví dụ 2
+:
+Bệnh
+viện B chuyển người bệnh đến Bệnh viện A (mã cơ sở KCB là 01901) để thực hiện dịch
+vụ 22.0130.0178 Thủ thuật sinh thiết tủy xương (chưa bao gồm kim sinh thiết một
+lần, có mã N03.03.090). Khi đề nghị thanh toán, Bệnh viện B mã hóa kim sinh thiết
+dùng một lần như sau N03.03.090.K.01901.
+Đề nghị BHXH các tỉnh chủ động
+phối hợp chặt chẽ với Sở Y tế, các cơ sở KCB và các đơn vị có liên quan triển
+khai thực hiện các quy định của Thông tư số 30/2020/TT-BYT, đảm bảo quyền lợi của
+người tham gia BHYT khi đi KCB. Trường hợp có khó khăn, vướng mắc, kịp thời báo
+cáo BHXH Việt Nam để được hướng dẫn giải quyết./.
+Nơi nhận:
+- Như trên;
+- Tổng Giám đốc (để b/c);
+- Vụ BHYT, Bộ Y tế;
+- Các đơn vị: TST, TCKT, TTKT, KTNB, TT, CNTT, GĐĐT;
+- Lưu: VT, CSYT.
+KT. TỔNG
+  GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Phạm Lương Sơn
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

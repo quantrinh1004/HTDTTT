@@ -1,0 +1,154 @@
+BẢO HIỂM XÃ HỘI
+  VIỆT NAM
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 1433/QĐ-BHXH
+Hà Nội, ngày 18
+  tháng 07 năm 2022
+QUYẾT ĐỊNH
+VỀ VIỆC BAN HÀNH DỊCH VỤ CÔNG TRỰC TUYẾN CHI TRẢ TRỢ CẤP THẤT
+NGHIỆP
+TỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM
+Căn cứ
+Luật Việc làm số 38/2013/QH13
+ngày 16/11/2013;
+Căn cứ Nghị định số
+89/2020/NĐ-CP
+ngày 04 tháng 8 năm 2020 của Chính
+phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm xã hội
+Việt Nam;
+Căn cứ Nghị định số
+28/2015/NĐ-CP
+ngày 12/3/2015 quy định chi tiết
+thi hành một số điều của
+Luật Việc làm
+về bảo
+hiểm thất nghiệp; Nghị định số
+61/2020/NĐ-CP
+ngày 20/5/2020 sửa đổi bổ sung một số điều của Nghị định số
+28/2015/NĐ-CP
+ngày 12/3/2015;
+Căn cứ Quyết định số
+06/QĐ-TTg
+ngày 06/01/2022 của Thủ tướng Chính phủ
+phê duyệt Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện
+tử phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025, tầm nhìn đến năm 2030;
+Căn cứ Quyết định số
+1872/QĐ-LĐTBXH
+ngày 04/12/2017 của Bộ Lao động -
+Thương binh và Xã hội về việc công bố các thủ tục hành chính về lĩnh vực việc
+làm thuộc phạm vi chức năng quản lý nhà nước của Bộ Lao động - Thương binh và
+Xã hội;
+Căn cứ Công văn số
+1399/LĐTBXH-VL
+ngày 04/5/2022 của Bộ Lao động -
+Thương binh và Xã hội về việc tiếp nhận, giải quyết hưởng trợ cấp thất nghiệp
+trên Cổng Dịch vụ công Quốc gia;
+Căn cứ Quyết định số
+1392/QĐ-BHXH
+ngày 01/7/2022 của Bảo hiểm xã hội
+Việt Nam ban hành quy trình tiếp nhận Quyết định hưởng và chi trả trợ cấp thất
+nghiệp theo dịch vụ công “Giải quyết hưởng trợ cấp thất nghiệp trên Cổng dịch vụ
+công Quốc gia”;
+Theo đề nghị của Chánh Văn
+phòng Bảo hiểm xã hội Việt Nam.
+QUYẾT ĐỊNH:
+Điều 1.
+Ban hành kèm theo Quyết định này dịch vụ công trực
+tuyến Chi trả trợ cấp thất nghiệp
+(chi tiết tại Phụ lục kèm theo).
+Điều 2.
+Trung tâm Công nghệ thông tin có trách nhiệm thực hiện
+việc kết nối, tích hợp để cung cấp dịch vụ công trực tuyến trên Cổng Dịch vụ
+công Quốc gia đảm bảo đúng quy định.
+Điều 3.
+Chánh Văn phòng Bảo hiểm xã hội Việt Nam, Trưởng ban
+Thực hiện chính sách bảo hiểm xã hội, Trưởng ban Quản lý Thu - Sổ, thẻ, Giám đốc
+Trung tâm Công nghệ thông tin, Thủ trưởng các đơn vị trực thuộc Bảo hiểm xã hội
+Việt Nam, Giám đốc Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương chịu
+trách nhiệm thi hành Quyết định này./.
+Nơi nhận:
+- Như Điều 3;
+- VPCP (để b/c);
+- Tổng giám đốc (để b/c);
+- Các Phó Tổng Giám đốc;
+- Các đơn vị trực thuộc BHXH VN;
+- Lưu: VT, VP.
+KT. TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Lê Hùng Sơn
+PHỤ LỤC
+DỊCH VỤ CÔNG TRỰC TUYẾN CHI TRẢ TRỢ CẤP THẤT NGHIỆP
+(Ban hành kèm theo Quyết định số 1433/QĐ-BHXH ngày 18 tháng 07 năm 2022 của
+Bảo hiểm xã hội Việt Nam)
+Tên thủ tục hành chính là
+  căn cứ thực hiện:
+Giải quyết hưởng trợ cấp thất nghiệp
+do Bộ Lao động
+  - Thương binh và
+Xã hội công bố tại Quyết định số
+1872/QĐ-LĐTBXH
+ngày 04/12/2017 (mã TTHC:
+  1.001978)
+STT
+Tên dịch vụ
+công
+Mô tả chi tiết
+1
+Chi trả trợ cấp thất nghiệp
+Mức độ thực hiện
+4
+Cơ quan thực hiện
+Bảo hiểm xã hội tỉnh
+Trường hợp áp dụng
+Người lao động thất nghiệp
+  theo quy định của
+Luật Việc làm
+đã được
+  cơ quan có thẩm quyền ra Quyết định hưởng trợ cấp thất nghiệp
+Thành phần hồ sơ
+Quyết định hưởng trợ cấp thất
+  nghiệp
+Số lượng hồ sơ
+01 bộ
+Biểu mẫu
+Không.
+Trình tự thực hiện
+Bước 1.
+Bộ phận một cửa tiếp nhận quyết
+  định hưởng trợ cấp thất nghiệp từ ngành Lao động - Thương binh và Xã hội (bản
+  giấy hoặc bản điện tử) chuyển trực tiếp hoặc qua bưu chính hoặc trên Cổng dịch
+  vụ công Quốc gia chuyển hồ sơ cho Phòng Chế độ bảo hiểm xã hội giải quyết.
+Bước 2.
+Phòng Chế độ bảo hiểm xã hội
+  xét duyệt hồ sơ và chuyển các Phòng/Bộ phận nghiệp vụ liên quan để thực hiện:
+- Chi trả Tiền trợ cấp thất
+  nghiệp (trả bằng tiền mặt hoặc chuyển khoản theo Quyết định hưởng trợ cấp);
+- Cấp thẻ bảo hiểm y tế cho
+  người hưởng.
+Cách thức thực hiện
+1. Quyết định hưởng trợ cấp
+  thất nghiệp được Ngành Lao động - Thương binh và Xã hội chuyển cho cơ quan Bảo
+  hiểm xã hội theo một trong những hình thức sau:
+a) Qua dịch vụ bưu chính công
+  ích;
+b) Trực tiếp tại Bộ phận một
+  cửa;
+c) Qua Cổng dịch vụ công Quốc
+  gia.
+2. Cơ quan BHXH chi trả tiền
+  trợ cấp thất nghiệp và cấp thẻ bảo hiểm y tế cho người lao động theo hình thức
+  đã đăng ký.
+Thời hạn giải quyết
+02 ngày làm việc, kể từ ngày
+  cơ quan Bảo hiểm xã hội nhận được quyết định hưởng trợ cấp thất nghiệp.
+Kết quả giải quyết
+- Tiền trợ cấp thất nghiệp;
+- Thẻ bảo hiểm y tế.
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

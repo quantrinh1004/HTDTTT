@@ -1,0 +1,1666 @@
+BẢO HIỂM XÃ HỘI
+  VIỆT NAM
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 3780/BHXH-KHĐT
+V/v hướng dẫn thực hiện
+  hoạt động đầu tư ứng dụng công nghệ thông tin trong ngành Bảo hiểm xã hội Việt
+  Nam
+Hà Nội, ngày 13 tháng
+  11 năm 2023
+Kính gửi:
+- Bảo hiểm xã hội các tỉnh, thành phố trực thuộc
+  Trung ương;
+- Các đơn vị trực thuộc Bảo hiểm xã hội Việt Nam.
+Căn cứ Nghị định số 73/2019/NĐ-CP ngày 05/9/2019 của
+Chính phủ quy định quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn
+ngân sách nhà nước; Nghị định số 63/2014/NĐ-CP ngày 26/6/2014 của Chính phủ quy
+định chi tiết thi hành một số điều của Luật đấu thầu về lựa chọn nhà thầu; Quyết
+định số 60/2015/QĐ-TTg ngày 27/11/2015 của Thủ tướng Chính phủ về cơ chế quản
+lý tài chính về bảo hiểm xã hội (BHXH), bảo hiểm y tế (BHYT), bảo hiểm thất
+nghiệp (BHTN) và chi phí quản lý BHXH, BHYT, BHTN; Quyết định số 38/2019/QĐ-TTg
+phủ ngày 31/12/2019 của Thủ tướng Chính phủ sửa đổi, bổ sung một số điều của
+Quyết định số 60/2015/QĐ-TTg ngày 27 tháng 11 năm 2015 của Thủ tướng Chính phủ
+về cơ chế quản lý tài chính về BHXH, BHYT, BHTN và chi phí quản lý BHXH, BHYT,
+BHTN; Thông tư số 58/2016/TT-BTC ngày 29/3/2016 của Bộ Tài chính quy định chi
+tiết việc sử dụng vốn nhà nước để mua sắm nhằm duy trì hoạt động thường xuyên của
+cơ quan nhà nước, đơn vị thuộc lực lượng vũ trang nhân dân, đơn vị sự nghiệp
+công lập, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội
+- nghề nghiệp, tổ chức xã hội, tổ chức xã hội nghề nghiệp; Thông tư số
+68/2022/TT-BTC ngày 11/11/2022 của Bộ Tài chính sửa đổi, bổ sung một số điều của
+Thông tư số 58/2016/TT-BTC ngày 29 tháng 3 năm 2016 quy định chi tiết việc sử dụng
+vốn nhà nước để mua sam nhằm duy trì hoạt động thường xuyên của cơ quan nhà nước,
+đơn vị thuộc lực lượng vũ trang nhân dân, đơn vị sự nghiệp công lập, tổ chức
+chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp,
+tổ chức xã hội, tổ chức xã hội - nghề nghiệp; Thông tư số 03/2020/TT-BTTTT ngày
+24/2/2020 của Bộ Thông tin và Truyền thông quy định về lập đề cương và dự toán
+chi tiết đối với hoạt động ứng dụng công nghệ thông tin sử dụng kinh phí chi
+thường xuyên nguồn ngân sách nhà nước; Công văn số 4115/BHXH-TCKT ngày
+20/10/2016 của BHXH Việt Nam về việc hướng dẫn mua sắm thường xuyên; Công văn số
+758/BHXH-KHĐT ngày 07/3/2018 của BHXH Việt Nam về việc báo cáo tình hình thực
+hiện, thanh toán và quyết toán kinh phí chi ứng dụng công nghệ thông tin; Quyết
+định số 1588/QĐ-BHXH ngày 12/11/2018 của Tổng Giám đốc BHXH Việt Nam về việc
+ban hành Quy chế quản lý, sử dụng tài sản công của các đơn vị trong hệ thống
+BHXH; Quyết định số 1589/QĐ-BHXH ngày 12/11/2018 của Tổng Giám đốc BHXH về việc
+ban hành Quy chế mua sắm tài sản công theo phương thức tập trung trong ngành
+BHXH. Để đảm bảo thống nhất trong tổ chức thực hiện, BHXH Việt Nam hướng dẫn cụ
+thể một số nội dung thực hiện hoạt động đầu tư ứng dụng công nghệ thông tin
+trong Ngành BHXH Việt Nam như sau:
+I. Phạm vi, đối tượng áp dụng
+1. Phạm vi áp dụng
+1.1. Quy định quy trình thực hiện hoạt động đầu tư ứng
+dụng công nghệ thông tin trong Ngành BHXH Việt Nam (bao gồm cả hoạt động theo
+phương thức mua sắm tập trung) sử dụng nguồn kinh phí chi ứng dụng công nghệ
+thông tin; chi thường xuyên dược BHXH Việt Nam giao dự toán hàng năm; kinh phí
+từ nguồn quỹ phát triển hoạt động của ngành BHXH Việt Nam; kinh phí từ nguồn quỹ
+phát triển hoạt động sự nghiệp và các quỳ hợp pháp của đơn vị sự nghiệp theo
+quy định cơ chế tự chủ tài chính của đơn vị sự nghiệp công lập.
+1.2. Văn bản này không áp dụng đối với hoạt động đầu
+tư ứng dụng công nghệ thông tin sử dụng nguồn kinh phí chi đầu tư phát triển
+quy định tại
+Khoản 9 Điều 9 Quyết định số 60/2015/QĐ-TTg
+.
+2. Đối tượng áp dụng
+Đơn vị trong Ngành BHXH Việt Nam có liên quan đến
+thực hiện các hoạt động đầu tư ứng dụng công nghệ thông tin được quy định tại
+điểm 1.1, khoản 1 mục I Công văn này.
+II. Phân loại hoạt động đầu tư ứng
+dụng công nghệ thông tin
+1. Hoạt động đầu tư ứng dụng công nghệ thông tin
+không phải lập dự án
+1.1. Hoạt động đầu tư ứng dụng công nghệ thông tin
+mua sắm quy định tại
+khoản 1 Điều 51 Nghị định số 73/2019/NĐ-CP
+(gọi tắt là hoạt động mua sắm), gồm:
+a) Mua sắm dự phòng, thay thế các thiết bị phần cứng
+thuộc hệ thống hạ tầng kỹ thuật hiện có.
+b) Mua sắm thiết bị không cần lắp đặt, phần mềm
+thương mại; bảo trì, bảo dưỡng, sửa chữa hệ thống hạ tầng kỹ thuật, phần mềm;
+quản lý vận hành, thuê quản trị, hỗ trợ kỹ thuật hệ thống thông tin, dịch vụ an
+ninh mạng, an toàn thông tin.
+c) Tạo lập, duy trì hệ thống cơ sở dữ liệu; bảo đảm
+hoạt động cho công/trang thông tin điện tử.
+d) Hoạt động ứng dụng công nghệ thông tin có mức
+kinh phí từ 200 triệu đồng trở xuống để thiết lập mới, mở rộng hoặc nâng cấp
+cho hệ thống hạ tầng kỹ thuật, phần mềm, cơ sở dữ liệu.
+e) Các hoạt động ứng dụng công nghệ thông tin sử dụng
+nguồn kinh phí chi thường xuyên để khắc phục ngay hoặc xử lý kịp thời hậu quả
+gây ra do sự cố thiên tai, hỏa hoạn hoặc thực thi nhiệm vụ giải quyết sự cố
+theo yêu cầu của Quốc hội, Chính phủ, Thủ tướng Chính phủ hoặc yêu cầu nghiệp vụ
+quy định tại văn bản quy phạm pháp luật.
+1.2. Hoạt động đầu tư ứng dụng công nghệ thông tin
+lập đề cương và dự toán chi tiết quy định tại
+khoản 2 Điều 51
+Nghị định số 73/2019/NĐ-CP
+(gọi tắt là hoạt động lập đề cương và dự toán
+chi tiết), gồm:
+Hoạt động đầu tư ứng dụng công nghệ thông tin có mức
+kinh phí trên 200 triệu đồng đến 15 tỷ đồng để thiết lập mới, mở rộng hoặc nâng
+cấp cho hệ thống hạ tầng kỹ thuật, phần mềm, cơ sở dữ liệu.
+1.3. Hoạt động thuê dịch vụ công nghệ thông tin được
+quy định tại
+Điều 52 Nghị định số 73/2019/NĐ-CP
+, gồm:
+a) Hoạt động thuê dịch vụ công nghệ thông tin sẵn
+có trên thị trường theo
+khoản 3 Điều 3 và khoản 1 Điều 52 Nghị định
+số 73/2019/NĐ-CP
+(gọi tắt là hoạt động thuê dịch vụ có sẵn).
+b) Hoạt động thuê dịch vụ công nghệ thông tin không
+sẵn có trên thị trường theo
+khoản 4 Điều 3 và khoản 2 Điều 52
+Nghị định số 73/2019/NĐ-CP
+(gọi tắt là hoạt động thuê dịch vụ theo yêu cầu
+riêng).
+2. Hoạt động đầu tư ứng dụng công nghệ thông tin
+phải lập dự án
+Hoạt động đầu tư ứng dụng công nghệ thông tin lập dự
+án quy định tại
+khoản 3 Điều 51 Nghị định số 73/2019/NĐ-CP
+(gọi tắt là hoạt động lập dự án), gồm: hoạt động đầu tư ứng dụng công nghệ
+thông tin có mức kinh phí trên 15 tỷ đồng để thiết lập mới, mở rộng hoặc nâng cấp
+cho hệ thống hạ tầng kỹ thuật, phần mềm, cơ sở dữ liệu.
+III. Nguyên tắc chung
+1. Tuân thủ đầy đủ, nghiêm túc các quy định tại Nghị
+định số 73/2019/NĐ-CP ngày 05/9/2019 của Chính phủ quy định quản lý đầu tư ứng
+dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước.
+2. Hoạt động ứng dụng công nghệ thông tin phải thuộc
+chương trình, kế hoạch ứng dụng công nghệ thông tin hàng năm được cấp có thẩm
+quyền phê duyệt hoặc được Tổng Giám đốc BHXH Việt Nam phê duyệt chủ trương bằng
+văn bản (trừ hoạt động không phải phê duyệt chủ trương).
+3. Hoạt động ứng dụng công nghệ thông tin phải tuân
+thủ tiêu chuẩn, định mức, chế độ quản lý, sử dụng tài sản hiện hành: trong phạm
+vi dự toán được giao và nguồn kinh phí được phép sử dụng, bảo đảm công khai,
+minh bạch, tiết kiệm và có hiệu quả.
+Đối với tài sản là máy chủ, hệ thống lưu trữ chuyên
+dùng, thiết bị và giải pháp đảm bảo an toàn thông tin và thiết bị mạng, phải có
+ý kiến của Trung tâm Công nghệ thông tin về tiêu chuẩn kỹ thuật trước khi thực
+hiện việc đầu tư, mua sắm.
+4. Hoạt động ứng dụng công nghệ thông tin phải bảo
+đảm tính đồng bộ, hiện đại phù hợp với yêu cầu, nội dung hoạt động và cải cách
+hành chính, chuyển đổi số trong ngành BHXH.
+5. Việc mua sắm, thuê dịch vụ phải tuân thủ quy định
+của pháp luật về đấu thầu và quy định pháp luật có liên quan.
+6. Việc quyết toán dự án hoàn thành phải được thực
+hiện ngay sau khi hoàn thành hoạt động (thời gian chủ đầu tư lập hồ sơ quyết
+toán trình phê duyệt tối đa 06 tháng đối với dự án nhóm B, 04 tháng đối với dự
+án nhóm C), đảm bảo tổng hợp đầy đủ, chính xác chi phí hợp pháp thực hiện trong
+phạm vi dự án, dự toán được duyệt và hợp đồng đã ký kết (đối với những công việc
+thực hiện theo hợp đồng phù hợp với quy định của pháp luật. Chi phí đầu tư được
+quyết toán phải nằm trong giới hạn tổng mức đầu tư được duyệt hoặc được điều chỉnh,
+bổ sung theo quy định của pháp luật; phù hợp với nguồn vốn được đầu tư.
+IV. Quy trình thực hiện hoạt động
+mua sắm
+1. Đối với hoạt động mua sắm
+trong phạm vi quản lý của đơn vị
+1.1. Thẩm quyền quyết định mua sắm
+a) Thực hiện theo quy định tại Điều 11, Điều 16, Điều
+41 Quy chế quản lý, sử dụng tài sản công tại các đơn vị trong hệ thống BHXH ban
+hành kèm theo Quyết định số 1588/QĐ-BHXH ngày 12/11/2018 của Tổng Giám đốc BHXH
+Việt Nam.
+b) Trường hợp thuộc thẩm quyền quyết định của Tổng
+Giám đốc
+- Phó Tổng Giám đốc phụ trách lĩnh vực công nghệ
+thông tin phê duyệt đối với hoạt động mua sắm trong phạm vi quản lý của đơn vị
+sử dụng nguồn kinh phí chi ứng dụng công nghệ thông tin; kinh phí từ nguồn quỹ
+phát triển hoạt động của ngành BHXH Việt Nam; kinh phí từ nguồn quỹ phát triển
+hoạt động sự nghiệp và các quỹ hợp pháp của đơn vị sự nghiệp theo quy định cơ
+chế tự chủ tài chính của đơn vị sự nghiệp công lập.
+- Phó Tổng Giám đốc phụ trách lĩnh vực tài chính, kế
+toán phê duyệt đối với hoạt động mua sắm trong phạm vi quản lý của đơn vị sử dụng
+nguồn kinh phí chi thường xuyên được BHXH Việt Nam giao dự toán hàng năm.
+1.2. Quy trình, hồ sơ, thời gian, thực hiện
+Thực hiện theo quy định tại Điều 12, Điều 13, Điều
+17, Điều 42 Quy chế quản lý, sử dụng tài sản công tại các đơn vị trong hệ thống
+BHXH ban hành kèm theo Quyết định số 1588/QĐ-BHXH ngày 12/11/2018 của Tổng Giám
+đốc BHXH Việt Nam; khoản 2, khoản 3, khoản 4 Mục I, Mục II, Mục III, Mục IV Phần
+B Công văn số 4115/BHXH-TCKT ngày 20/10/2016 của BHXH Việt Nam về hướng dẫn mua
+sắm thường xuyên trong Ngành.
+1.3. Trách nhiệm thẩm định
+Trường hợp thuộc thẩm quyền quyết định của Tổng
+Giám đốc:
+a) Đối với hoạt động mua sắm trong phạm vi quản lý
+của đơn vị sử dụng nguồn kinh phí chi ứng dụng công nghệ thông tin; kinh phí từ
+nguồn quỹ phát triển hoạt động của ngành BHXH Việt Nam; kinh phí từ nguồn quỹ
+phát triển hoạt động sự nghiệp và các quỹ hợp pháp của đơn vị sự nghiệp theo
+quy định cơ chế tự chủ tài chính của đơn vị sự nghiệp công lập: Vụ Kế hoạch và
+Đầu tư là đơn vị đầu mối trình phê duyệt chủ trương mua sắm.
+b) Đối với hoạt động mua sắm trong phạm vi quản lý
+của đơn vị sử dụng nguồn kinh phí chi thường xuyên được BHXH Việt Nam giao dự
+toán hàng năm: Vụ Tài chính - Kế toán là đơn vị đầu mối trình phê duyệt chủ
+trương mua sắm.
+c) Trung tâm Công nghệ thông tin thẩm định về tiêu
+chuẩn kỹ thuật đối với tài sản là máy chủ, hệ thống lưu trữ chuyên dùng, thiết
+bị và giải pháp đảm bảo an toàn thông tin và thiết bị mạng trước khi thực hiện
+việc mua sắm.
+2. Đối với hoạt động mua sắm
+phạm vi ngành
+2.1. Thẩm quyền quyết định mua sắm
+a) Thực hiện theo quy định tại khoản 1 Điều 11 Quy
+chế quản lý, sử dụng tài sản công tại các đơn vị trong hệ thống BHXH ban hành
+kèm theo Quyết định số 1588/QĐ-BHXH ngày 12/11/2018 của Tổng Giám đốc BHXH Việt
+Nam.
+b) Thẩm quyền phê duyệt
+- Phó Tổng Giám đốc phụ trách lĩnh vực công nghệ
+thông tin phê duyệt kế hoạch mua sắm.
+- Phó Tổng Giám đốc phụ trách đơn vị được giao triển
+khai thực hiện phê duyệt kế hoạch lựa chọn nhà thầu.
+2.2. Quy trình, hồ sơ, thời gian, thực hiện
+Thực hiện như quy định tại Điều 2 và Mục 2 Chương
+II Quy chế mua sắm tài sản công theo phương thức tập trung trong ngành BHXH ban
+hành kèm theo Quyết định số 1589/QĐ-BHXH ngày 12/11/2018 của Tổng Giám đốc BHXH
+Việt Nam, quy định của pháp luật về mua sắm tập trung.
+Đối với hoạt động mua sắm phục vụ nhiệm vụ chung
+toàn Ngành và tại các Trung tâm dữ liệu, Trung tâm Công nghệ thông tin chủ trì
+thực hiện khảo sát đánh giá hiện trạng; lập đề xuất nhu cầu (không cần thực hiện
+bước tổng hợp nhu cầu từ các đơn vị); xây dựng, trình phê duyệt kế hoạch mua sắm
+tập trung.
+2.3. Nghiệm thu, bàn giao sản phẩm và đưa vào sử dụng
+a) Nghiệm thu, bàn giao sản phẩm và đưa vào sử dụng
+a
+1
+) Đơn vị chỉ tiến hành nghiệm thu sau
+khi nhà thầu thực hiện hợp đồng bàn giao đúng, đầy đủ: (i) hàng hóa hoặc hoàn
+thành việc lắp đặt các hệ thống thiết bị (đối với các gói thầu mua sắm hàng hóa
+yêu cầu lắp đặt đấu nối hạ tầng), (ii) các giấy tờ, tài liệu chứng minh tính hợp
+lệ của hàng hóa theo quy định của Hợp đồng (hoặc Phụ lục điều chỉnh hợp đồng, nếu
+có); và hoàn thành việc chuyển giao công nghệ, đào tạo, hướng dẫn sử dụng, vận
+hành máy móc, thiết bị.
+a
+2
+) Trách nhiệm của các đơn vị trong
+nghiệm thu, bàn giao sản phẩm và đưa vào sử dụng
+- Đơn vị chủ trì mua sắm: tổ chức nghiệm thu, bàn
+giao sản phẩm và đưa vào sử dụng; chịu trách nhiệm trước pháp luật và Tổng Giám
+đốc về tính khách quan, minh bạch, trung thực, độ chính xác của kết quả nghiệm
+thu. Trường hợp được triển khai trên phạm vi toàn quốc tại nhiều địa điểm khác
+nhau (BHXH Việt Nam, BHXH tỉnh, BHXH huyện), trường hợp sản phẩm đòi hỏi có yêu
+cầu cao về kỹ thuật, có ảnh hưởng tới hệ thống hạ tầng của ngành, cần được đảm
+bảo an toàn thông tin, đơn vị chủ trì mua sắm xây dựng kế hoạch nghiệm thu, bàn
+giao sản phẩm, có văn bản đề nghị Trung tâm Công nghệ thông tin:
++ Tham gia vận hành thử đối với sản phẩm là hệ thống
+hạ tầng kỹ thuật, thiết bị, phần mềm thương mại.
++ Tham gia quá trình kiểm thử vận hành thử đối với
+sản phẩm là phần mềm nội bộ.
+- Trung tâm Công nghệ thông tin: Có trách nhiệm
+tham gia vận hành thử (đối với sản phẩm là hệ thống hạ tầng kỹ thuật, thiết bị,
+phần mềm thương mại) hoặc tham gia quá trình kiểm thử vận hành thử (đối với sản
+phẩm là phần mềm nội bộ) trong trường hợp được triển khai trên phạm vi nhiều địa
+điểm khác nhau trên toàn quốc (BHXH Việt Nam, BHXH tỉnh, BHXH huyện). Trường hợp
+Trung tâm Công nghệ thông tin không tham gia phải chịu trách nhiệm trước Tổng
+Giám đốc khi có sự cố xảy ra làm ảnh hưởng đến hệ thống công nghệ thông tin
+toàn ngành.
+- Các đơn vị chuyên môn khác: tham gia quá trình
+nghiệm thu kiểm thử hoặc vận hành thử về quy trình nghiệp vụ theo chức năng,
+nhiệm vụ được giao.
+2.4. Quyết toán hoạt động mua sắm
+Ngay sau khi hoàn thành việc mua sắm tài sản và
+thanh lý hợp đồng (nếu có), đơn vị chủ trì mua sắm có trách nhiệm:
+a) Thực hiện việc quyết toán theo hướng dẫn tại khoản
+1 Mục II Công văn số 758/BHXH-KHĐT ngày 07/3/2018 của BHXH Việt Nam và các quy
+định của pháp luật có liên quan.
+b) Kiểm tra, kiểm soát hồ sơ mua sắm tài sản (gồm hồ
+sơ kỹ thuật, hồ sơ đấu thầu và hồ sơ kế toán) đảm bảo hồ sơ đầy đủ theo yêu cầu
+và lưu trữ theo đúng quy định của chế độ lưu trữ chứng từ hiện hành.
+c) Quyết toán kinh phí và phê duyệt quyết toán hoàn
+thành: (i) Tổng hợp vào Báo cáo tài chính, báo cáo quyết toán theo quy định của
+chế độ kế toán tại Thông tư số 107/2017/TT-BTC ngày 10/10/2017 của Bộ Tài chính
+về hướng dẫn chế độ kế toán hành chính, sự nghiệp; (ii) Trên cơ sở báo cáo quyết
+toán hoàn thành, Thủ trưởng đơn vị giao Phòng/bộ phận chuyên môn trực thuộc tổng
+hợp, trình phê duyệt quyết toán hoàn thành. Nội dung chủ yếu của quyết định phê
+duyệt quyết toán hoàn thành, gồm: Thông tin chung về hoạt động quyết toán; kết
+quả quyết toán (nguồn kinh phí, chi phí quyết toán, giá trị tài sản hình thành,
+đơn vị quản lý tài sản, các khoản công nợ); trách nhiệm của các đơn vị.
+V. Quy trình thực hiện hoạt động
+lập đề cương và dự toán chi tiết
+1. Đối với hoạt động lập đề
+cương và dự toán chi tiết trong phạm vi quản lý của đơn vị
+1.1. Thẩm quyền quyết định, phê duyệt
+a) Thực hiện theo quy định tại
+khoản
+1 Điều 6 Thông tư số 03/2020/TT-BTTTT
+và Điều 11, Điều 16, Điều 41 Quy chế
+quản lý, sử dụng tài sản công tại các đơn vị trong hệ thống BHXH ban hành kèm
+theo Quyết định số 1588/QĐ-BHXH ngày 12/11/2018 của Tổng Giám đốc BHXH Việt
+Nam.
+b) Trường hợp thuộc thẩm quyền quyết định của Tổng
+Giám đốc
+- Phó Tổng Giám đốc phụ trách lĩnh vực công nghệ
+thông tin phê duyệt đối với hoạt động mua sắm trong phạm vi quản lý của đơn vị
+sử dụng nguồn kinh phí chi ứng dụng công nghệ thông tin; kinh phí từ nguồn quỹ
+phát triển hoạt động sự nghiệp và các quỹ hợp pháp của đơn vị sự nghiệp theo
+quy định cơ chế tự chủ tài chính của đơn vị sự nghiệp công lập.
+- Phó Tổng Giám đốc phụ trách lĩnh vực tài chính, kế
+toán phê duyệt đối với hoạt động mua sắm trong phạm vi quản lý của đơn vị sử dụng
+nguồn kinh phí chi thường xuyên được BHXH Việt Nam giao dự toán hàng năm.
+1.2. Quy trình, hồ sơ, thời gian, thực hiện
+Thực hiện theo quy định tại
+Điều 3,
+Điều 4, Điều 5
+,
+Điều 7, Điều 8 Thông tư số 03/2020/TT-BTTTT
+;
+khoản 2, khoản 3, khoản 4 Mục I, Mục II, Mục III, Mục IV Phần B Công văn số
+4115/BHXH-TCKT ngày 20/10/2016 của BHXH Việt Nam về hướng dẫn mua sắm thường
+xuyên trong Ngành.
+1.3. Trách nhiệm thẩm định
+Trường hợp thuộc thẩm quyền quyết định của Tổng
+Giám đốc:
+a) Đối với hoạt động mua sắm trong phạm vi quản lý
+của đơn vị sử dụng nguồn kinh phí chi ứng dụng công nghệ thông tin; kinh phí từ
+nguồn quỹ phát triển hoạt động của ngành BHXH Việt Nam; kinh phí từ nguồn quỹ
+phát triển hoạt động sự nghiệp và các quỹ hợp pháp của đơn vị sự nghiệp theo
+quy định cơ chế tự chủ tài chính của đơn vị sự nghiệp công lập: Vụ Kế hoạch và
+Đầu tư là đơn vị đầu mối trình phê duyệt chủ trương mua sắm.
+b) Đối với hoạt động mua sắm trong phạm vi quản lý
+của đơn vị sử dụng nguồn kinh phí chi thường xuyên được BHXH Việt Nam giao dự
+toán hằng năm: Vụ Tài chính - Kế toán là đơn vị đầu mối trình phê duyệt chủ
+trương mua sắm.
+c) Trung tâm Công nghệ thông tin thẩm định phương
+án, giải pháp kỹ thuật, công nghệ trước khi phê duyệt đề cương và dự toán chi
+tiết.
+2. Đối với hoạt động lập đề
+cương và dự toán chi tiết phạm vi ngành
+2.1. Thẩm quyền phê duyệt
+a) Phó Tổng Giám đốc phụ trách lĩnh vực công nghệ
+thông tin phê duyệt:
+- Chủ trương đầu tư (bao gồm cả quyết định điều chỉnh
+nếu có).
+- Đề cương và dự toán chi tiết (bao gồm cả quyết định
+điều chỉnh nếu có).
+- Kế hoạch lựa chọn nhà thầu giai đoạn thực hiện
+nhiệm vụ (bao gồm cả điều chỉnh nếu có).
+b) Thủ trưởng đơn vị được giao chủ trì thực hiện
+nhiệm vụ phê duyệt:
+- Dự toán chi phí, kế hoạch lựa chọn nhà thầu giai
+đoạn chuẩn bị thực hiện nhiệm vụ (nếu có).
+- Quyết toán hoạt động hoàn thành.
+2.2. Quy trình hồ sơ, thời gian, thực hiện
+a) Lập, thẩm định, phê duyệt chủ trương đầu tư: thực
+hiện theo hướng dẫn tại điểm 2.1, khoản 2, Mục VII Công văn này.
+b) Lập, thẩm định, phê duyệt đề cương và dự toán
+chi tiết
+b
+1
+) Lập đề cương và dự toán chi tiết
+Đơn vị chủ trì nhiệm vụ thực hiện lập đề cương và dự
+toán chi tiết theo quy định tại
+Điều 3, Điều 4, Điều 5 Thông tư
+số 03/2020/TT-BTTTT
+, gửi về Vụ Kế hoạch và Đầu tư trước ngày 31 tháng 10
+hàng năm.
+b
+2
+) Trách nhiệm thẩm định
+- Vụ Kế hoạch và Đầu tư: là đơn vị đầu mối thẩm định;
+thẩm định dự toán và các nội dung khác của đề cương và dự toán chi tiết. Thời
+gian thẩm định không quá 15 ngày làm việc kể từ ngày đơn vị đầu mối thẩm định
+nhận được đủ hồ sơ hợp lệ và không bao gồm thời gian bổ sung, hoàn chỉnh hồ sơ.
+Thời gian thẩm định bao gồm thời gian lấy ý kiến của đơn vị chuyên môn về công
+nghệ thông tin và các đơn vị chuyên môn khác về quy trình nghiệp vụ theo chức
+năng, nhiệm vụ được giao (nếu có). Trường hợp cần yêu cầu bổ sung hoặc giải
+trình thêm về nội dung đề cương và dự toán chi tiết, trong vòng 05 ngày làm việc
+kể từ ngày nhận hồ sơ, Vụ Kế hoạch và Đầu tư có văn bản yêu cầu đơn vị chủ trì
+lập đề cương và dự toán chi tiết bổ sung hoặc giải trình. Trong vòng 03 ngày
+làm việc kể từ ngày nhận được văn bản yêu cầu bổ sung hoặc giải trình, đơn vị
+chủ chủ trì có văn bản bổ sung hoặc giải trình gửi về Vụ Kế hoạch và Đầu tư. Thời
+gian thẩm định được tính từ khi có đầy đủ hồ sơ hợp lệ.
+- Trung tâm Công nghệ thông tin: là đơn vị chuyên
+môn về công nghệ thông tin; thẩm định thiết kế (nếu có), phương án, giải pháp kỹ
+thuật công nghệ của đề cương và dự toán chi tiết. Trường hợp Trung tâm Công nghệ
+thông tin là đơn vị chủ trì thực hiện nhiệm vụ, Trung tâm Công nghệ thông tin
+thành lập hội đồng thẩm định chuyên môn về công nghệ thông tin để thẩm định thiết
+kế (nếu có), phương án, giải pháp kỹ thuật công nghệ. Thời gian thẩm định thiết
+kế (nếu có), phương án, giải pháp kỹ thuật công nghệ không quá 05 ngày làm việc
+kể từ ngày nhận đủ hồ sơ hợp lệ.
+- Các đơn vị chuyên môn khác: tham gia ý kiến về quy
+trình nghiệp vụ theo chức năng, nhiệm vụ được giao và theo đề nghị của Vụ Kế hoạch
+và Đầu tư.
+- Đơn vị chủ trì thực hiện nhiệm vụ: hoàn chỉnh đề
+cương và dự toán chi tiết theo kết quả tổng hợp thẩm định (bao gồm cả ý kiến của
+các đơn vị liên quan), giải trình cụ thể những nội dung không tiếp thu (nếu
+có).
+b
+3
+) Phê duyệt đề cương và dự toán chi tiết
+- Trên cơ sở kết quả thẩm định, tổng hợp kết quả thẩm
+định, tổng hợp ý kiến của các đơn vị liên quan, Vụ Kế hoạch và Đầu tư đề xuất
+và trình cấp có thẩm quyền theo quy định tại tiết a, điểm 2.1, khoản 2 Mục V
+Công văn này phê duyệt đề cương và dự toán chi tiết.
+- Thời gian phê duyệt: không quá 03 ngày làm việc kể
+từ ngày cấp có thẩm quyền quyết định phê duyệt nhận đủ hồ sơ hợp lệ.
+b
+4
+) Đối với chi phí thuê tư vấn (nếu có)
+phục vụ lập đề cương và dự toán chi tiết: Thủ trưởng đơn vị chủ trì thực hiện
+nhiệm vụ quyết định sự cần thiết, phê duyệt dự toán chi phí, kế hoạch lựa chọn
+nhà thầu; tổ chức lựa chọn nhà thầu thực hiện theo hướng dẫn tại Thông tư số
+58/2016/TT-BTC.
+c) Tổ chức thực hiện nhiệm vụ
+- Lập kế hoạch lựa chọn nhà thầu:
+Đơn vị chủ trì nhiệm vụ lập kế hoạch lựa chọn nhà
+thầu giai đoạn thực hiện trình cấp có thẩm quyền theo quy định tại tiết a, điểm
+2.1, khoản 2 Mục V Công văn này phê duyệt. Kế hoạch lựa chọn nhà thầu được lập
+sau khi có quyết định phê duyệt đề cương và dự toán chi tiết hoặc đồng thời với
+quá trình lập đề cương và dự toán chi tiết.
+- Thẩm định, phê duyệt kế hoạch lựa chọn nhà thầu:
+Vụ Kế hoạch và Đầu tư chủ trì thẩm định kế hoạch lựa
+chọn nhà thầu giai đoạn thực hiện, trình cấp có thẩm quyền theo quy định tại tiết
+a, điểm 2.1, khoản 2 Mục V phê duyệt.
+- Đơn vị chủ trì nhiệm vụ thực hiện mua sắm theo
+quy định pháp luật về mua sắm nhằm duy trì hoạt động thường xuyên của cơ quan
+nhà nước theo hướng dẫn tại Thông tư số 58/2016/TT-BTC.
+d) Các nội dung khác: nghiệm thu, bàn giao sản phẩm
+và đưa vào sử dụng; quyết toán hoạt động: thực hiện như đối với quy trình tại
+điểm 2.3, điểm 2.4, khoản 2 Mục IV Công văn này.
+VI. Quy trình thực hiện hoạt động
+thuê dịch vụ công nghệ thông tin
+1. Đối với hoạt động thuê dịch
+vụ công nghệ thông tin sẵn có trên thị trường
+1.1. Quy trình thực hiện hoạt động thuê dịch vụ
+công nghệ thông tin sẵn có trong phạm vi đơn vị: thực hiện như đối với quy
+trình khoản 1 Mục IV Công văn này.
+1.2. Quy trình thực hiện hoạt động thuê dịch vụ sẵn
+có phạm vi ngành: thực hiện như đối với quy trình khoản 2 Mục IV Công văn này.
+2. Đối với hoạt động thuê dịch
+vụ công nghệ thông tin không sẵn có trên thị trường (thuê dịch vụ theo yêu cầu
+riêng)
+2.1. Thẩm quyền phê duyệt
+a) Phó Tổng Giám đốc phụ trách lĩnh vực công nghệ
+thông tin phê duyệt
+- Chủ trương đầu tư (bao gồm cả điều chỉnh nếu có).
+- Kế hoạch thuê dịch vụ theo yêu cầu riêng (bao gồm
+cả quyết định điều chỉnh nếu có).
+- Kế hoạch lựa chọn nhà thầu (bao gồm cả điều chỉnh
+nếu có).
+b) Trường hợp xây dựng thử nghiệm dịch vụ
+- Phó Tổng Giám đốc phụ trách đơn vị có nhu cầu
+thuê dịch vụ phê duyệt chủ trương thử nghiệm dịch vụ, phê duyệt đơn vị chủ trì
+thử nghiệm dịch vụ.
+- Phó Tổng Giám đốc phụ trách đơn vị chủ trì thử
+nghiệm dịch vụ phê duyệt đơn vị thử nghiệm dịch vụ và kết quả thử nghiệm dịch vụ.
+c) Thủ trưởng đơn vị được giao chủ trì thuê dịch vụ
+phê duyệt
+- Dự toán chi phí, kế hoạch lựa chọn nhà thầu giai đoạn
+chuẩn bị thực hiện nhiệm vụ (trường hợp cần thiết thuê tư vấn phục vụ lập kế hoạch
+thuê dịch vụ theo yêu cầu riêng).
+- Quyết toán hoạt động hoàn thành.
+2.2. Quy trình hồ sơ, thời gian, thực hiện
+a) Lập kế hoạch thuê dịch vụ theo yêu cầu riêng
+a
+1
+) Đơn vị lập kế hoạch theo yêu cầu
+riêng trình cấp có thẩm quyền theo quy định tại tiết a, điểm 2.1, khoản 2 Mục
+VI phê duyệt trước 31 tháng 12 hàng năm theo quy định tại
+Điều
+56, Điều 57 Nghị định số 73/2019/NĐ-CP
+.
+- Thời gian thẩm định kế hoạch thuê dịch vụ theo
+yêu cầu riêng không quá 20 ngày kể từ ngày đơn vị đầu mối thẩm định nhận đủ hồ
+sơ hợp lệ. Thời gian thẩm định kế hoạch thuê dịch vụ theo yêu cầu riêng bao gồm
+thời gian lấy ý kiến thẩm định của đơn vị chuyên môn về công nghệ thông tin (Mẫu
+số 08) và các đơn vị chuyên môn khác về quy trình nghiệp vụ theo chức năng, nhiệm
+vụ được giao (nếu có). Trường hợp cần yêu cầu bổ sung hoặc giải trình thêm về nội
+dung kế hoạch thuê, trong thời hạn 03 ngày làm việc kể từ ngày nhận hồ sơ, đơn
+vị đầu mối thẩm định có văn bản yêu cầu chủ trì thuê bổ sung hoặc giải trình.
+Trong vòng 03 ngày kể từ ngày nhận được văn bản yêu cầu bổ sung hoặc giải trình
+thêm về nội dung kế hoạch thuê, chủ trì thuê có văn bản bổ sung hoàn thiện hoặc
+giải trình hồ sơ, gửi về đơn vị đầu mối thẩm định.
+Trường hợp Trung tâm Công nghệ thông tin là chủ trì
+thuê, Trung tâm Công nghệ thông tin thành lập hội đồng thẩm định chuyên môn về
+công nghệ thông tin để thẩm định các nội dung của kế hoạch thuê (Mẫu số 08)
+theo
+khoản 2 Điều 54 Nghị định số 73/2019/NĐ-CP
+(trừ dự
+toán). Thời gian thẩm định của đơn vị chuyên môn về công nghệ thông tin không
+quá 05 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.
+- Thời gian phê duyệt kế hoạch thuê dịch vụ theo
+yêu cầu riêng không quá 10 ngày kể từ ngày cấp có thẩm quyền phê duyệt kế hoạch
+thuê nhận đủ hồ sơ hợp lệ.
+a
+2
+) Nội dung kế hoạch theo yêu cầu
+riêng: thực hiện theo quy định tại
+Điều 54, 55 Nghị định số
+73/2019/NĐ-CP
+.
+b) Kiểm thử hoặc vận hành thử
+b
+1
+) Dịch vụ theo yêu cầu riêng phải được
+kiểm thử hoặc vận hành thử trước khi chính thức đưa vào sử dụng nhằm bảo đảm
+đáp ứng các yêu cầu của kế hoạch thuê. Dịch vụ theo yêu cầu riêng sau khi được
+nhà thầu cung cấp dịch vụ bổ sung, hoàn thiện phải được chủ trì thuê tổ chức kiểm
+thử hoặc vận hành thử lại. Quá trình này chỉ kết thúc khi dịch vụ theo yêu cầu
+riêng đáp ứng các yêu cầu về chất lượng dịch vụ và yêu cầu về kỹ thuật, công
+nghệ cần đáp ứng.
+b
+2
+) Trách nhiệm của các đơn vị trong kiểm
+thử hoặc vận hành thử
+- Chủ trì thuê dịch vụ: tổ chức việc kiểm thử hoặc
+vận hành thử dịch vụ theo yêu cầu riêng. Kết quả kiểm thử hoặc vận hành thử phải
+được lập thành văn bản và được gọi là báo cáo kết quả kiểm thử hoặc vận hành thử.
+Trường hợp sản phẩm đòi hỏi có yêu cầu cao về kỹ thuật, có ảnh hưởng tới hệ thống
+hạ tầng của ngành, cần được đảm bảo an toàn thông tin, chủ trì thuê dịch vụ xây
+dựng kế hoạch tổ chức kiểm thử hoặc vận hành thử gửi Trung tâm Công nghệ thông
+tin:
+(i) Tham gia vận hành thử đối với sản phẩm là hệ thống
+hạ tầng kỹ thuật, thiết bị, phần mềm thương mại.
+(ii) Tham gia quá trình kiểm thử hoặc vận hành thử
+đối với sản phẩm là phần mềm nội bộ.
+- Trung tâm Công nghệ thông tin: Có trách nhiệm
+tham gia kiểm thử hoặc vận hành thử trong trường hợp được triển khai trên phạm
+vi toàn quốc tại nhiều địa điểm khác nhau (BHXH Việt Nam, BHXH tỉnh, BHXH huyện).
+Trường hợp Trung tâm Công nghệ thông tin không tham gia phải chịu trách nhiệm
+trước Tổng Giám đốc khi có sự cố xảy ra làm ảnh hưởng đến hệ thống công nghệ
+thông tin toàn ngành.
+- Các đơn vị chuyên môn khác: tham gia quá trình
+nghiệm thu kiểm thử hoặc vận hành thử về quy trình nghiệp vụ theo chức năng,
+nhiệm vụ được giao.
+2.3. Quyết toán
+Ngay sau khi hoàn thành việc thuê dịch vụ công nghệ
+thông tin và thanh lý hợp đồng (nếu có), chủ trì thuê dịch vụ có trách nhiệm:
+a) Thực hiện việc quyết toán theo hướng dẫn tại khoản
+1 mục II Công văn số 758/BHXH-KHĐT ngày 07/3/2018 của BHXH Việt Nam và các quy
+định của pháp luật có liên quan.
+b) Kiểm tra, kiểm soát hồ sơ mua sắm tài sản (gồm hồ
+sơ kỹ thuật, hồ sơ đấu thầu và hồ sơ kế toán) đảm bảo hồ sơ đầy đủ theo yêu cầu
+và lưu trữ theo đúng quy định của chế độ lưu trữ chứng từ hiện hành.
+c) Quyết toán kinh phí và phê duyệt quyết toán hoàn
+thành: (i) Tổng hợp vào Báo cáo tài chính, báo cáo quyết toán theo quy định của
+chế độ kế toán tại Thông tư 107/2017/TT-BTC ngày 10/10/2017 của Bộ Tài chính về
+hướng dẫn chế độ kế toán hành chính, sự nghiệp; (ii) Trên cơ sở báo cáo quyết
+toán hoàn thành, Thủ trưởng đơn vị giao Phòng/bộ phận chuyên môn trực thuộc tổng
+hợp, trình phê duyệt quyết toán hoàn thành. Nội dung chủ yếu của quyết định phê
+duyệt quyết toán hoàn thành, gồm: Thông tin chung về hoạt động quyết toán; kết
+quả quyết toán (nguồn kinh phí, chi phí quyết toán, giá trị tài sản hình thành,
+đơn vị quản lý tài sản, các khoản công nợ); trách nhiệm của các đơn vị.
+2.4. Trường hợp cần thiết, các đơn vị có nhu cầu
+thuê dịch vụ CNTT xem xét báo cáo cấp có thẩm quyền theo quy định tại tiết b,
+điểm 2.1, khoản 2 Mục VI phê duyệt để lựa chọn tổ chức, cá nhân nghiên cứu, đề
+xuất giải pháp, phương án kỹ thuật, công nghệ; xây dựng thử nghiệm dịch vụ.
+Các tổ chức, cá nhân xây dựng thử nghiệm dịch vụ chịu
+mọi chi phí phát sinh (nếu có). Sau khi thử nghiệm thành công, xác định được giải
+pháp kỹ thuật công nghệ, chi phí, các đơn vị thuê dịch vụ tiến hành các thủ tục
+theo hướng dẫn tại điểm 2.2, điểm 2.3 và điểm 2.5 khoản 2 Mục này. Quy trình
+triển khai thực hiện theo Phụ lục II Công văn này.
+2.5. Các nội dung khác
+Việc lập, thẩm định phê duyệt chủ trương thuê dịch
+vụ theo yêu cầu riêng; thẩm định, phê duyệt kế hoạch thuê dịch vụ theo yêu cầu
+riêng; lập, thẩm định phê duyệt kế hoạch lựa chọn nhà thầu; tổ chức lựa chọn
+nhà thầu: thực hiện như đối với dự án đầu tư, hướng dẫn tại Mục VII Công văn
+này.
+VII. Quy trình thực hiện hoạt động
+lập dự án
+1. Thẩm quyền phê duyệt
+1.1. Phó Tổng Giám đốc phụ trách lĩnh vực công nghệ
+thông tin phê duyệt
+a) Chủ trương đầu tư dự án (bao gồm cả quyết định
+điều chỉnh nếu có).
+b) Dự án (bao gồm cả quyết định điều chỉnh nếu có).
+c) Kế hoạch lựa chọn nhà thầu giai đoạn thực hiện dự
+án (bao gồm cả điều chỉnh nếu có).
+1.2. Trường hợp xây dựng thử nghiệm dịch vụ
+a) Phó Tổng Giám đốc phụ trách đơn vị có nhu cầu
+thuê dịch vụ phê duyệt chủ trương thử nghiệm dịch vụ, phê duyệt đơn vị chủ trì
+thử nghiệm dịch vụ.
+b) Phó Tổng Giám đốc phụ trách đơn vị chủ trì thử
+nghiệm dịch vụ phê duyệt đơn vị thử nghiệm dịch vụ và kết quả thử nghiệm dịch vụ.
+1.3. Phó Tổng Giám đốc phụ trách lĩnh vực kế hoạch,
+đầu tư phát triển phê duyệt quyết toán dự án hoàn thành.
+1.4. Thủ trưởng đơn vị được giao làm chủ đầu tư Phê
+duyệt
+a) Dự toán chi phí, kế hoạch lựa chọn nhà thầu giai
+đoạn chuẩn bị thực hiện nhiệm vụ (nếu có).
+b) Thiết kế chi tiết dự án (trường hợp thiết kế 2
+bước).
+2. Quy trình hồ sơ, thời
+gian, thực hiện
+2.1. Lập, thẩm định, phê duyệt chủ trương đầu tư:
+thực hiện theo quy định tại
+Điều 12 Nghị định số 73/2019/NĐ-CP
+a) Lập Báo cáo đề xuất chủ trương đầu tư: đơn vị được
+giao lập báo cáo đề xuất chủ trương đầu tư dự án tự thực hiện hoặc thuê tổ chức,
+cá nhân lập báo cáo đề xuất chủ trương đầu tư, gửi về Vụ Kế hoạch và Đầu tư trước
+ngày 15 tháng 5 hàng năm. Việc xác định sơ bộ tổng mức đầu tư đối với dự án
+trong nội dung báo cáo đề xuất chủ trương thực hiện theo phương pháp so sánh hoặc
+phương pháp chuyên gia hoặc theo báo giá thị trường hoặc kết hợp các phương
+pháp hoặc căn cứ theo kế hoạch ứng dụng công nghệ thông tin dược duyệt. Nội
+dung trình, nội dung báo cáo chủ trương đầu tư theo mẫu biểu hướng dẫn tại Phụ
+lục số I.
+b) Trách nhiệm thẩm định Báo cáo đề xuất chủ trương
+đầu tư:
+- Vụ Kế hoạch và Đầu tư: là đơn vị đầu mối thẩm định;
+thẩm định sơ bộ tổng mức kinh phí và các nội dung khác của Báo cáo đề xuất chủ
+trương đầu tư. Thời gian thẩm định báo cáo đề xuất chủ trương đầu tư dự án nhóm
+B, C không quá 30 ngày kể từ ngày đơn vị đầu mối thẩm định nhận đủ hồ sơ hợp lệ.
+Thời gian thẩm định báo cáo đề xuất chủ trương đầu tư bao gồm thời gian lấy ý
+kiến thẩm định của đơn vị chuyên môn về công nghệ thông tin và các đơn vị
+chuyên môn khác về quy trình nghiệp vụ theo chức năng, nhiệm vụ được giao (nếu
+có). Trường hợp cần yêu cầu bổ sung hoặc giải trình thêm về Báo cáo đề xuất chủ
+trương đầu tư, trong vòng 10 ngày kể từ ngày nhận được hồ sơ, Vụ Kế hoạch và Đầu
+tư có văn bản yêu cầu chủ đầu tư bổ sung hoặc giải trình. Trong vòng 05 ngày kể
+từ ngày nhận được văn bản yêu cầu bổ sung hoặc giải trình thêm về Báo cáo đề xuất
+chủ trương đầu tư, chủ đầu tư có văn bản gửi Vụ Kế hoạch và Đầu tư bổ sung hoặc
+giải trình thêm.
+- Trung tâm Công nghệ thông tin: là đơn vị chuyên
+môn về công nghệ thông tin; thẩm định thiết kế, phương án, giải pháp kỹ thuật
+công nghệ. Trường hợp Trung tâm Công nghệ thông tin là đơn vị chủ trì lập Báo
+cáo đề xuất chủ trương, Trung tâm Công nghệ thông tin chịu trách nhiệm về thiết
+kế, phương án, giải pháp kỹ thuật, công nghệ. Thời gian thẩm định thiết kế,
+phương án, giải pháp kỹ thuật công nghệ không quá 05 ngày kể từ ngày nhận đủ hồ
+sơ hợp lệ.
+- Vụ Tài chính - Kế toán: là đơn vị thẩm định về
+nguồn kinh phí và khả năng cân đối kinh phí (đối với các hoạt động ứng dụng
+công nghệ thông tin sử dụng các nguồn kinh phí khác ngoài nguồn chi ứng dụng
+CNTT), tham gia ý kiến về tiêu chuẩn, định mức sử dụng máy móc, thiết bị và đơn
+giá mua sắm của tài sản, dịch vụ theo quy định hiện hành của Nhà nước về tiêu
+chuẩn, định mức.
+- Đơn vị chủ trì lập Báo cáo đề xuất chủ trương đầu
+tư: hoàn chỉnh Báo cáo đề xuất chủ trương đầu tư theo kết quả tổng hợp thẩm định
+(bao gồm cả ý kiến của các đơn vị liên quan), giải trình cụ thể những nội dung
+không tiếp thu (nếu có).
+c) Phê duyệt chủ trương đầu tư: Trên cơ sở kết quả
+thẩm định, tổng hợp kết quả thẩm định, tổng hợp ý kiến của các đơn vị liên
+quan, Vụ Kế hoạch và Đầu tư đề xuất và trình cấp có thẩm quyền theo quy định tại
+điểm 1.1 khoản 1 Mục VII phê duyệt chủ trương đầu tư. Thời gian phê duyệt chủ
+trương đầu tư không quá 10 ngày kể từ ngày cấp có thẩm quyền quyết định chủ
+trương đầu tư nhận đủ hồ sơ hợp lệ.
+2.2. Lập, thẩm định, phê duyệt dự án
+a) Lập dự án: chủ đầu tư thực hiện theo quy định tại
+tại
+Điều 10, Điều 16, Điều 19, khoản 1 Điều 22 Nghị định số
+73/2019/NĐ-CP
+, gửi về Vụ Kế hoạch và Đầu tư trước ngày 31 tháng 10 hàng
+năm.
+b) Trách nhiệm thẩm định dự án:
+- Vụ Kế hoạch và Đầu tư: là đơn vị đầu mối thẩm định;
+thẩm định tổng mức đầu tư và các nội dung khác của dự án. Thời gian thẩm định dự
+án nhóm B, C không quá 30 ngày kể từ ngày đơn vị đầu mối thẩm định nhận đủ hồ
+sơ hợp lệ. Thời gian thẩm định báo cáo dự án bao gồm thời gian lấy ý kiến thẩm
+định của đơn vị chuyên môn về công nghệ thông tin và các đơn vị chuyên môn khác
+về quy trình nghiệp vụ theo chức năng, nhiệm vụ được giao (nếu có). Trường hợp
+cần yêu cầu bổ sung hoặc giải trình thêm về dự án, trong vòng 10 ngày kể từ
+ngày nhận được hồ sơ, Vụ Kế hoạch và Đầu tư có văn bản yêu cầu chủ đầu tư bổ
+sung hoặc giải trình. Trong vòng 05 ngày kể từ ngày nhận được văn bản yêu cầu bổ
+sung hoặc giải trình thêm về dự án, chủ đầu tư có văn bản gửi Vụ Kế hoạch và Đầu
+tư bổ sung hoặc giải trình thêm.
+- Trung tâm Công nghệ thông tin: là đơn vị chuyên
+môn về công nghệ thông tin thẩm định thiết kế. Trường hợp Trung tâm Công nghệ
+thông tin là chủ đầu tư, Trung tâm Công nghệ thông tin thành lập Hội đồng thẩm
+định để thẩm định thiết kế. Thời gian thẩm định thiết kế cơ sở (trường hợp thiết
+kế 2 bước)/thiết kế chi tiết (trường hợp lập báo cáo kinh tế kỹ thuật) kể từ
+ngày nhận đủ hồ sơ hợp lệ không quá 15 ngày đối với dự án nhóm B, không quá 10
+ngày đối với dự án nhóm C.
+- Các đơn vị chuyên môn khác: tham gia ý kiến về
+quy trình nghiệp vụ theo chức năng, nhiệm vụ được giao và theo đề nghị của Vụ Kế
+hoạch và Đầu tư.
+- Chủ đầu tư: hoàn chỉnh dự án theo kết quả tổng hợp
+thẩm định (bao gồm cả ý kiến của các đơn vị liên quan), giải trình cụ thể những
+nội dung không tiếp thu (nếu có).
+c) Phê duyệt dự án: Trên cơ sở kết quả thẩm định, tổng
+hợp kết quả thẩm định, tổng hợp ý kiến của các đơn vị liên quan, Vụ Kế hoạch và
+Đầu tư đề xuất và trình cấp có thẩm quyền theo quy định tại điểm 1.1 khoản 1 Mục
+VII Công văn này phê duyệt dự án. Thời gian phê duyệt dự án không quá 10 ngày kể
+từ ngày cấp có thẩm quyền quyết định đầu tư dự án nhận đủ hồ sơ hợp lệ.
+d) Đối với chi phí thuê tư vấn (nếu có) phục vụ lập
+dự án: Chủ đầu tư quyết định sự cần thiết, phê duyệt dự toán chi phí, kế hoạch
+lựa chọn nhà thầu; tổ chức lựa chọn nhà thầu thực hiện theo hướng dẫn tại Thông
+tư số 58/2016/TT-BTC.
+2.3. Lập, thẩm định, phê duyệt kế hoạch lựa chọn
+nhà thầu giai đoạn thực hiện dự án
+a) Lập kế hoạch lựa chọn nhà thầu: Chủ đầu tư lập kế
+hoạch lựa chọn nhà thầu giai đoạn thực hiện dự án. Trường hợp chưa đủ điều kiện
+lập kế hoạch lựa chọn nhà thầu cho toàn bộ dự án, kế hoạch thuê dịch vụ theo
+yêu cầu riêng thì lập kế hoạch lựa chọn nhà thầu cho một hoặc một số gói thầu để
+thực hiện trước.
+b) Thẩm định, phê duyệt kế hoạch lựa chọn nhà thầu:
+Vụ Kế hoạch và Đầu tư chủ trì thẩm định kế hoạch lựa chọn nhà thầu giai đoạn thực
+hiện dự án, trình cấp có thẩm quyền theo quy định tại điểm 1.1 khoản 1 Mục VII
+Công văn này phê duyệt.
+c) Chủ đầu tư tổ chức lựa chọn nhà thầu theo quy định
+pháp luật về mua sắm nhằm duy trì hoạt động thường xuyên của cơ quan nhà nước
+theo hướng dẫn tại Thông tư số 58/2016/TT-BTC.
+2.4. Lập, thẩm định và phê duyệt thiết kế chi tiết
+dự án
+a) Chủ đầu tư tổ chức lập, thẩm định và phê duyệt
+thiết kế chi tiết dự án (trường hợp thiết kế 2 bước) theo quy định tại
+Điều 26, Điều 27, Điều 28
+,
+Điều 29, Điều 30 và
+Điều 31 Nghị định số 73/2019/NĐ-CP
+. Thời gian thẩm định thiết kế chi tiết kể
+từ ngày nhận đủ hồ sơ hợp lệ không quá 30 ngày đối với dự án nhóm B, không quá
+20 ngày đối với dự án nhóm C. Thời gian phê duyệt thiết kế chi tiết dự án kể từ
+ngày cấp có thẩm quyền nhận đủ hồ sơ hợp lệ không quá 10 ngày đối với dự án
+nhóm B, không quá 05 ngày đối với dự án nhóm C.
+b) Chủ đầu tư lấy ý kiến góp ý của Trung tâm Công
+nghệ thông tin về thiết kế chi tiết, các đơn vị chuyên môn có liên quan về quy
+trình nghiệp vụ (nếu có) trước khi phê duyệt. Thời gian tham gia ý kiến không
+quá 08 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.
+2.5. Kiểm thử hoặc vận hành thử
+a) Sản phẩm của dự án phải được kiểm thử hoặc vận
+hành thử tại ít nhất một đơn vị thụ hưởng trước khi tiến hành nghiệm thu. Sản
+phẩm của dự án sau khi được nhà thầu bổ sung, hoàn thiện phải được chủ đầu tư tổ
+chức kiểm thử hoặc vận hành thử lại. Quá trình này chỉ kết thúc khi sản phẩm
+đáp ứng yêu cầu chất lượng. Việc kiểm thử hoặc vận hành thử thực hiện theo hướng
+dẫn tại
+Điều 10 Thông tư số 24/2020/TT-BTTTT
+này 09/9/2020
+của Bộ Thông tin và Truyền thông quy định chi tiết về công tác triển khai, giám
+sát công tác triển khai và nghiệm thu dự án đầu tư ứng dụng công nghệ thông tin
+sử dụng nguồn vốn ngân sách nhà nước.
+b) Trách nhiệm của các đơn vị trong kiểm thử hoặc vận
+hành thử
+b
+1
+) Chủ đầu tư: tổ chức việc kiểm thử hoặc
+vận hành thử sản phẩm của dự án. Kết quả kiểm thử hoặc vận hành thử phải được lập
+thành văn bản và được gọi là báo cáo kết quả kiểm thử hoặc vận hành thử. Trường
+hợp chủ đầu tư xây dựng kế hoạch tổ chức kiểm thử hoặc vận hành thử tại nhiều
+đơn vị sử dụng, chủ đầu tư xây dựng và triển khai thực hiện phương án kiểm thử
+hoặc vận hành thử bảo đảm chất lượng và yêu cầu kỹ thuật cần đáp ứng. Trường hợp
+sản phẩm đòi hỏi có yêu cầu cao về kỹ thuật, có ảnh hưởng tới hệ thống hạ tầng
+của ngành, cần được đảm bảo an toàn thông tin, chủ đầu tư xây dựng kế hoạch tổ
+chức kiểm thử hoặc vận hành thử gửi Trung tâm Công nghệ thông tin:
+- Tham gia vận hành thử đối với sản phẩm là hệ thống
+hạ tầng kỹ thuật, thiết bị, phần mềm thương mại.
+- Tham gia quá trình kiểm thử hoặc vận hành thử đối
+với sản phẩm là phần mềm nội bộ.
+b
+2
+) Trung tâm Công nghệ thông tin: Có
+trách nhiệm tham gia kiểm thử hoặc vận hành thử trong trường hợp được triển
+khai trên phạm vi toàn quốc tại nhiều địa điểm (BHXH Việt Nam, BHXH tỉnh, BHXH
+huyện). Trường hợp Trung tâm Công nghệ thông tin không tham gia phải chịu trách
+nhiệm trước Tổng Giám đốc khi có sự cố xảy ra làm ảnh hưởng đến hệ thống công
+nghệ thông tin toàn ngành.
+b
+3
+) Các đơn vị chuyên môn khác: tham gia
+quá trình nghiệm thu kiểm thử hoặc vận hành thử về quy trình nghiệp vụ theo chức
+năng, nhiệm vụ được giao.
+2.6. Nghiệm thu, bàn giao sản phẩm và đưa vào sử dụng
+a) Chủ đầu tư tổ chức nghiệm thu sản phẩm hoặc hạng
+mục công việc của dự án với sự tham gia của các tổ chức, cá nhân tư vấn, cung cấp
+thiết bị, triển khai và cơ quan, đơn vị liên quan.
+b) Trong vòng 10 ngày kể từ ngày nghiệm thu bàn
+giao sản phẩm hoặc hạng mục công việc của dự án vào khai thác sử dụng đạt yêu cầu
+và được các bên tham gia nghiệm thu chấp thuận, ký kết biên bản nghiệm thu, Chủ
+đầu tư phải gửi Báo cáo hoàn thành sản phẩm hoặc hạng mục công việc của dự án
+cùng danh mục hồ sơ hoàn thành sản phẩm hoặc hạng mục công việc của dự án cho
+Trung tâm Công nghệ thông tin để theo dõi, kiểm tra sự tuân thủ các quy định của
+pháp luật khi cần thiết.
+c) Trách nhiệm của các đơn vị trong nghiệm thu, bàn
+giao sản phẩm và đưa vào sử dụng
+Chủ đầu tư: tổ chức nghiệm thu. bàn giao sản phẩm
+và đưa vào sử dụng; chịu trách nhiệm trước pháp luật và Tổng Giám đốc về tính
+khách quan, minh bạch, trung thực, độ chính xác của kết quả nghiệm thu.
+2.7. Quyết toán hoàn thành
+a) Ngay sau khi dự án hoàn thành, chủ đầu tư thực
+hiện việc quyết toán theo hướng dẫn tại
+Mục 2 Chương III Nghị định
+số 99/2021/NĐ-CP
+ngày 11/11/2021 của Chính phủ quy định về quản lý, thanh
+toán, quyết toán dự án sử dụng vốn đầu tư công và Thông tư số 96/2021/TT-BTC
+ngày 11/11/2021 của Bộ Tài chính quy định về hệ thống mẫu biểu sử dụng trong
+công tác quyết toán.
+b) Trách nhiệm của các đơn vị trong quyết toán
+- Chủ đầu tư: kiểm tra, kiểm soát hồ sơ dự án (gồm
+hồ sơ kỹ thuật, hồ sơ đấu thầu và hồ sơ kế toán) đảm bảo hồ sơ đầy đủ theo yêu
+cầu và lưu trữ theo đúng quy định của chế độ lưu trữ chứng từ hiện hành. Lập và
+gửi hồ sơ quyết toán dự án hoàn thành về Vụ Kế hoạch và Đầu tư.
+- Vụ Kế hoạch và Đầu tư: chủ trì thẩm tra quyết
+toán dự án hoàn thành.
+2.8. Trường hợp dự án có sản phẩm chưa sẵn có trên
+thị trường, nếu cần thiết chủ đầu tư xem xét báo cáo cấp có thẩm quyền theo quy
+định tại điểm 1.2 khoản 1 Mục VII Công văn này để lựa chọn tổ chức, cá nhân
+nghiên cứu, đề xuất giải pháp, phương án kỹ thuật, công nghệ; xây dựng thử nghiệm
+dịch vụ.
+Các tổ chức, cá nhân xây dựng dịch vụ thử nghiệm chịu
+mọi chi phí phát sinh (nếu có). Sau khi thử nghiệm thành công, xác định được giải
+pháp kỹ thuật công nghệ, chi phí, các đơn vị chủ đầu tư tiến hành các thủ tục
+theo hướng dẫn tại khoản 2 Mục này. Quy trình triển khai thực hiện theo Phụ lục
+II Công văn này.
+VIII. Tổ chức thực hiện
+1. Các Phó Tổng Giám đốc báo cáo Tổng Giám đốc trước
+khi phê duyệt theo thẩm quyền quy định tại Công văn này.
+2. Trách nhiệm của các đơn vị
+2.1. Theo chức năng, nhiệm vụ được giao, Vụ trưởng Vụ
+Kế hoạch và Đầu tư, Vụ trưởng Vụ Tài chính - Kế toán, Giám đốc Trung tâm Công
+nghệ thông tin. Thủ trưởng các đơn vị trực thuộc BHXH Việt Nam và Giám đốc BHXH
+các tỉnh, thành phố trực thuộc trung ương có trách nhiệm thực hiện theo hướng dẫn
+tại Công văn này và các quy định hiện hành của Nhà nước.
+2.2. Vụ Kế hoạch và Đầu tư
+a) Chủ trì, phối hợp với Trung tâm Công nghệ thông
+tin hướng dẫn các đơn vị triển khai thực hiện các nội dung của Công văn này.
+b) Theo dõi, kiểm tra, kịp thời tháo gỡ những khó
+khăn, vướng mắc trong quá trình thực hiện các hoạt động ứng dụng công nghệ
+thông tin của các đơn vị; tổng hợp, báo cáo Tổng Giám đốc.
+c) Thực hiện trách nhiệm của đơn vị đầu mối thẩm định
+theo hướng dẫn tại Công văn này.
+2.3. Vụ Tài chính - Kế toán
+a) Chủ trì, theo dõi nguồn kinh phí thực hiện các
+hoạt động ứng dụng công nghệ thông tin sử dụng nguồn kinh phí khác (ngoài nguồn
+chi ứng dụng công nghệ thông tin).
+b) Thực hiện trách nhiệm của đơn vị theo hướng dẫn
+tại Công văn này.
+2.4. Trung tâm Công nghệ thông tin
+a) Giúp Tổng Giám đốc theo dõi, kiểm tra thực hiện
+chương trình, kế hoạch ứng dụng công nghệ thông tin trong Ngành BHXH Việt Nam,
+bảo đảm đầu tư tập trung, đúng mục tiêu, có hiệu quả.
+b) Phối hợp với Vụ Kế hoạch và Đầu tư tin hướng dẫn
+các đơn vị triển khai thực hiện các nội dung của Công văn này.
+c) Thực hiện trách nhiệm của đơn vị chuyên môn về
+công nghệ thông tin theo hướng dẫn tại Công văn này.
+d) Thực hiện trách nhiệm của chủ đầu tư, chủ trì
+mua sắm, chủ trì thuê dịch vụ trong trường hợp Trung tâm Công nghệ thông tin được
+giao chủ trì thực hiện.
+2.5. Đơn vị chủ trì thực hiện nhiệm vụ
+a) Triển khai thực hiện đầu tư ứng dụng công nghệ
+thông tin theo hướng dẫn tại Công văn này; chịu trách nhiệm trước Tổng Giám đốc
+về quản lý hoạt động đầu tư ứng dụng công nghệ thông tin được giao chủ trì.
+b) Thực hiện trách nhiệm của đơn vị được giao làm
+chủ đầu tư, chủ trì mua sắm, chủ trì thuê dịch vụ theo hướng dẫn tại công văn
+này.
+3. Các văn bản được dẫn chiếu để áp dụng tại Công
+văn này được sửa đổi, bổ sung hoặc thay thế bằng văn bản mới thì áp dụng theo
+các văn bản sửa đổi, bổ sung hoặc thay thế.
+4. Trong quá trình thực hiện nếu có khó khăn, vướng
+mắc, đề nghị các đơn vị phản ánh kịp thời về BHXH Việt Nam để được hướng dẫn,
+giải quyết./.
+Nơi nhận:
+- Như trên;
+- Các Phó Tổng Giám đốc;
+- Lưu: VT, KHĐT (03b).
+TỔNG GIÁM ĐỐC
+Nguyễn Thế Mạnh
+PHỤ LỤC I
+HỆ THỐNG MẪU BIỂU SỬ DỤNG TRONG CÔNG TÁC THỰC HIỆN HOẠT ĐỘNG
+ĐẦU TƯ ỨNG DỤNG CÔNG NGHỆ THÔNG TIN TRONG NGÀNH BẢO HIỂM XÃ HỘI VIỆT NAM
+(Ban hành kèm theo Công văn số 3780/BHXH-KHĐT ngày 13 tháng 11 năm 2023 của
+Bảo hiểm xã hội Việt Nam)
+Mẫu số 01
+Tờ trình đề nghị phê duyệt chủ trương đầu tư
+Mẫu số 02
+Báo cáo đề xuất chủ trương đầu tư
+Mẫu số 03
+Báo cáo thẩm định Báo cáo đề xuất chủ trương đầu
+  tư
+Mẫu số 04
+Báo cáo thẩm định thiết kế cơ sở
+Mẫu số 05
+Báo cáo thẩm định thiết kế chi tiết (trường hợp lập
+  báo cáo kinh tế - kỹ thuật)
+Mẫu số 06
+Báo cáo thẩm định phê duyệt dự án
+Mẫu số 07
+Báo cáo thẩm định thiết kế chi tiết, dự toán (trường
+  hợp thiết kế 02 bước)
+Mẫu số 08
+Báo cáo kết quả thẩm định chuyên môn CNTT kế hoạch
+  thuê (trừ dự toán)
+Mẫu số 09
+Báo cáo kết quả thẩm định kế hoạch thuê
+Mẫu
+số 01
+Tờ trình đề nghị phê duyệt chủ trương đầu tư
+(Ban hành kèm theo Công văn số 3780/BHXH-KHĐT ngày 13 tháng 11 năm 2023
+của Bảo hiểm xã hội Việt Nam)
+CƠ QUAN QUẢN LÝ CẤP
+  TRÊN
+TÊN ĐƠN VỊ TRÌNH
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: …./TTr-….
+Hà Nội, ngày … tháng
+  … năm …
+TỜ TRÌNH
+Về việc thẩm định,
+phê duyệt chủ trương đầu tư/thực hiện (Tên dự án/hoạt động ứng dụng công nghệ
+thông tin không phải lập dự án)
+Kính gửi: (Cấp có thẩm
+quyền)
+Căn cứ Nghị định số 73/2019/NĐ-CP ngày 5/9/2019 của
+Chính phủ về quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân
+sách nhà nước;
+Căn cứ …………..;
+(Tên đơn vị trình) trình thẩm định, phê duyệt chủ
+trương đầu tư... (tên dự án/hoạt động ứng dụng công nghệ thông tin không phải lập
+dự án)...., với các nội dung chính sau:
+I. THÔNG TIN CHUNG DỰ ÁN/HOẠT ĐỘNG ỨNG DỤNG CÔNG
+NGHỆ THÔNG TIN KHÔNG PHẢI LẬP DỰ ÁN
+1. Tên dự án/hoạt động ứng dụng công nghệ thông tin
+không phải lập dự án:
+2. Địa điểm:
+3. Chủ đầu tư/chủ trì thực hiện:
+4. Sự cần thiết phải đầu tư/thực hiện:
+5. Mục tiêu đầu tư/thực hiện:
+6. Quy mô đầu tư/nội dung và quy mô:
+7. Dự kiến Tổng mức đầu tư/kinh phí:
+8. Nguồn vốn/kinh phí:
+9. Dự kiến thời gian thực hiện:
+II. HỒ SƠ TRÌNH THẨM ĐỊNH, PHÊ DUYỆT
+……..
+Kính trình (Cấp có thẩm quyền) xem xét, phê duyệt./.
+Nơi nhận:
+- Như trên;
+- Lưu.
+ĐẠI DIỆN ĐƠN VỊ
+(Ký, ghi rõ họ tên, chức vụ và đóng dấu)
+Mẫu
+số 02
+Báo cáo đề xuất chủ trương đầu tư
+(Ban hành kèm theo Công văn số 3780/BHXH-KHĐT ngày 13 tháng 11 năm 2023
+của Bảo hiểm xã hội Việt Nam)
+CƠ QUAN QUẢN LÝ CẤP
+  TRÊN
+TÊN ĐƠN VỊ TRÌNH
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Hà Nội, ngày … tháng
+  … năm …
+BÁO CÁO
+Đề xuất chủ
+trương đầu tư/thực hiện dự án/hoạt động ứng dụng công nghệ thông tin không phải
+lập dự án …………
+Căn cứ Nghị định số 73/2019/NĐ-CP ngày 5/9/2019 của
+Chính phủ về quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân
+sách nhà nước;
+Các căn cứ pháp lý khác có liên quan ………………….
+I. THÔNG TIN CHUNG DỰ ÁN/HOẠT ĐỘNG ỨNG DỤNG CÔNG
+NGHỆ THÔNG TIN KHÔNG PHẢI LẬP DỰ ÁN
+1. Tên dự án/hoạt động ứng dụng công nghệ thông tin
+không phải lập dự án:
+2. Dự án nhóm:
+3. Người quyết định đầu tư dự án/ hoạt động ứng dụng
+công nghệ thông tin không phải lập dự án:
+4. Tên chủ đầu tư/chủ trì thực hiện:
+5. Địa điểm thực hiện:
+6. Dự kiến Tổng mức đầu tư/kinh phí:
+7. Nguồn vốn/kinh phí:
+9. Dự kiến thời gian thực hiện:
+8. Các thông tin khác (nếu có):
+II. NỘI DUNG CHỦ YẾU CỦA DỰ ÁN/HOẠT ĐỘNG ỨNG DỤNG
+CÔNG NGHỆ THÔNG TIN KHÔNG PHẢI LẬP DỰ ÁN
+II.1 Đối với dự án
+1. Sự cần thiết đầu tư, cơ sở pháp lý cho việc thực
+hiện dự án (các điều kiện để thực hiện đầu tư, đánh giá về sự phù hợp với quy
+hoạch, kế hoạch đầu tư, kiến trúc chính phủ điện tử);
+2. Mục tiêu, quy mô, địa điểm và phạm vi đầu tư;
+3. Sơ đồ bản vẽ, phương án, giải pháp kỹ thuật,
+công nghệ sơ bộ;
+4. Dự kiến tổng mức đầu tư và cơ cấu nguồn vốn đầu
+tư để thực hiện dự án;
+5. Dự kiến tiến độ triển khai thực hiện đầu tư, dự
+kiến kế hoạch bố trí vốn thực hiện từng năm, dự kiến các nội dung thực hiện
+theo năm.
+6. Xác định sơ bộ chi phí liên quan trong quá trình
+thực hiện và chi phí vận hành dự án sau khi hoàn thành;
+7. Phân tích, đánh giá sơ bộ tác động về môi trường,
+xã hội; xác định sơ bộ hiệu quả đầu tư về kinh tế - xã hội;
+8. Phân chia các dự án thành phần (nếu có);
+9. Giải pháp tổ chức thực hiện.
+II.2 Đối với hoạt động ứng dụng công nghệ thông
+tin không phải lập dự án
+1. Sự cần thiết thực hiện, cơ sở pháp lý cho việc
+thực hiện hoạt động (các điều kiện để thực hiện đầu tư, đánh giá về sự phù hợp
+với quy hoạch, kế hoạch đầu tư, kiến trúc chính phủ điện tử);
+2. Mục tiêu, nội dung, quy mô và địa điểm;
+3. Sơ đồ bản vẽ, phương án, giải pháp kỹ thuật,
+công nghệ sơ bộ;
+4. Dự kiến tổng mức kinh phí và cơ cấu nguồn kinh
+phí để thực hiện hoạt động;
+5. Dự kiến tiến độ triển khai thực hiện, dự kiến
+kinh phí thực hiện theo năm, dự kiến các nội dung thực hiện theo năm;
+6. Phương án tổ chức quản lý thực hiện, đưa vào vận
+hành, khai thác.
+ĐẠI DIỆN ĐƠN VỊ
+(Ký, ghi rõ họ tên, chức vụ và đóng dấu)
+Lưu ý: Ngoài những thông tin cơ bản nêu trên, theo yêu
+cầu cung cấp thông tin đối với từng dự án/hoạt động ứng dụng công nghệ thông
+tin không phải lập dự án, có thể bổ sung các nội dung khác theo quy định.
+Mẫu
+số 03
+Báo cáo thẩm định Báo cáo đề xuất chủ trương đầu tư
+(Ban hành kèm theo Công văn số 3780/BHXH-KHĐT ngày 13 tháng 11 năm 2023
+của Bảo hiểm xã hội Việt Nam)
+TÊN ĐƠN VỊ ĐẦU
+  MỐI THẨM ĐỊNH
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Hà Nội, ngày … tháng
+  … năm …
+BÁO CÁO THẨM ĐỊNH
+Báo cáo đề xuất
+chủ trương đầu tư/thực hiện dự án/hoạt động ứng dụng công nghệ thông tin không
+phải lập dự án……………
+Kính gửi: Cấp có thẩm
+quyền phê duyệt
+Căn cứ Nghị định số 73/2019/NĐ-CP ngày 5/9/2019 của
+Chính phủ về quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân
+sách nhà nước;
+Các căn cứ pháp lý khác có liên quan ……………………….
+Cơ quan (Tên đơn vị thẩm định) nhận được Tờ trình số
+... ngày ... tháng ... của Cơ quan (Tên đơn vị trình) trình thẩm định Báo cáo đề
+xuất chủ trương đầu tư/thực hiện dự án/hoạt động ứng dụng công nghệ thông tin
+không phải lập dự án (tên hoạt động). Sau khi xem xét, tổng hợp ý kiến và kết
+quả thẩm định của các cơ quan, tổ chức có liên quan, cơ quan (tên đơn vị thẩm định)
+báo cáo kết quả thẩm định báo cáo đề xuất chủ trương đầu tư/thực hiện dự án/hoạt
+động ứng dụng công nghệ thông tin không phải lập dự án (tên hoạt động) như sau:
+I. THÔNG TIN CHUNG DỰ ÁN/HOẠT ĐỘNG ỨNG DỤNG CÔNG
+NGHỆ THÔNG TIN KHÔNG PHẢI LẬP DỰ ÁN
+1. Tên dự án/hoạt động ứng dụng công nghệ thông tin
+không phải lập dự án:
+2. Dự án nhóm:
+3. Người quyết định đầu tư dự án/ hoạt động ứng dụng
+công nghệ thông tin không phải lập dự án:
+4. Tên chủ đầu tư/chủ trì thực hiện:
+5. Địa điểm thực hiện:
+6. Dự kiến Tổng mức đầu tư/kinh phí:
+7. Nguồn vốn/kinh phí:
+9. Dự kiến thời gian thực hiện:
+8. Các thông tin khác (nếu có):
+II. HỒ SƠ TRÌNH THẨM ĐỊNH BÁO CÁO ĐỀ XUẤT CHỦ
+TRƯƠNG ĐẦU TƯ
+1. Tờ trình thẩm định báo cáo đề xuất chủ trương đầu
+tư của đơn vị trình.
+2. Báo cáo đề xuất chủ trương đầu tư.
+3. Tài liệu làm căn cứ xây dựng dự kiến tổng mức đầu
+tư/kinh phí.
+4. Các tài liệu có liên quan khác (nếu có).
+III. TỔNG HỢP Ý KIẾN CỦA CÁC ĐƠN VỊ CÓ LIÊN QUAN
+1. Ý kiến của đơn vị thứ nhất
+2. Ý kiến của đơn vị thứ hai
+….
+IV. KẾT QUẢ THẨM ĐỊNH CỦA ĐƠN VỊ THẨM ĐỊNH
+1. Sự đầy đủ, hợp lệ của hồ sơ
+2. Sự cần thiết phải thực hiện nhiệm vụ
+3. Mục tiêu thực hiện nhiệm vụ
+4. Nội dung và quy mô đầu tư thực hiện nhiệm vụ
+5. Dự kiến tổng mức đầu tư/kinh phí và nguồn kinh
+phí thực hiện nhiệm vụ
+6. Thời gian, tiến độ triển khai thực hiện nhiệm vụ
+V. KẾT LUẬN
+1. Báo cáo đề xuất chủ trương đầu tư (tên hoạt động)
+đủ điều kiện (chưa đủ điều kiện để trình (cấp có thẩm quyền) phê duyệt và triển
+khai các bước tiếp theo.
+2. Tổ chức thực hiện
+Trên đây là ý kiến thẩm định của (tên đơn vị thẩm định),
+kính trình (cấp có thẩm quyền) xem xét phê duyệt báo cáo đề xuất chủ trương đầu
+tư (tên hoạt động)
+ĐẠI DIỆN ĐƠN VỊ
+  THẨM ĐỊNH
+(Ký, ghi rõ họ tên, chức vụ)
+Mẫu
+số 04
+Báo cáo thẩm định thiết kế cơ sở
+(Ban hành kèm theo Công văn số 3780/BHXH-KHĐT ngày 13 tháng 11 năm 2023
+của Bảo hiểm xã hội Việt Nam)
+ĐƠN VỊ THẨM ĐỊNH
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: ………….
+…., ngày … tháng …
+  năm …
+BÁO CÁO
+THẨM ĐỊNH THIẾT KẾ
+CƠ SỞ THUỘC DỰ ÁN …………..
+Kính gửi:……………………………………..
+Căn cứ Nghị định số 73/2019/NĐ-CP ngày 5/9/2019 của
+Chính phủ về quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân
+sách nhà nước;
+Căn cứ Quyết định...;
+Căn cứ văn bản số …. ngày ……………. của …………. về chủ
+trương đầu tư dự án (nếu có);
+Các căn cứ khác có liên quan,
+(Cơ quan thẩm định thiết kế cơ sở) báo cáo kết quả
+thẩm định thiết kế cơ sở của dự án đầu tư ……… do ………. lập với các nội dung sau:
+I. Thông tin chung:
+1. Tóm tắt các nội dung chủ yếu của dự án:
+- Tên dự án:
+- Cơ quan chủ quản:
+- Chủ đầu tư:
+- Địa điểm đầu tư:
+- Đơn vị lập dự án:
+- Đơn vị thực hiện khảo sát:
+2. Hồ sơ trình thẩm định gồm: [Liệt kê danh mục hồ
+sơ]
+II. Kết quả thẩm định thiết kế cơ sở:
+1. Căn cứ thẩm định
+2. Nội dung thẩm định
+a) Sự phù hợp về thành phần, quy cách của thiết kế
+cơ sở so với quy định của pháp luật, bao gồm: thuyết minh thiết kế cơ sở, các
+sơ đồ thiết kế cơ sở, các tài liệu khảo sát và các hồ sơ khác theo quy định của
+pháp luật có liên quan;
+b) Sự phù hợp với quy hoạch, chương trình, kế hoạch
+ứng dụng công nghệ thông tin;
+c) Sự tuân thủ với Khung Kiến trúc Chính phủ điện tử
+Việt Nam, Kiến trúc Chính phủ điện tử cấp bộ hoặc Kiến trúc Chính quyền điện tử
+cấp tỉnh.
+d) Sự phù hợp của việc lựa chọn phương án công nghệ,
+kỹ thuật, thiết bị.
+đ) Sự phù hợp của thiết kế cơ sở với các tiêu chuẩn,
+quy chuẩn kỹ thuật và các yêu cầu cơ bản về chức năng, tính năng kỹ thuật.
+e) Sự phù hợp của thiết kế cơ sở trong việc kết nối,
+liên thông, chia sẻ dữ liệu với các hệ thống hạ tầng kỹ thuật, phần mềm, cơ sở
+dữ liệu liên quan.
+III. Các nội dung khác (nếu có):
+IV. Kết luận, kiến nghị:
+a) Nội dung thiết kế cơ sở do <đơn vị được giao
+chủ trì, chủ đầu tư dự án> lập đủ điều kiện (hay chưa đủ điều kiện) để xem
+xét phê duyệt dự án.
+b) Trách nhiệm của <đơn vị được giao chủ trì, chủ
+đầu tư dự án> trong việc hoàn thiện thiết kế cơ sở dự án trước khi gửi về
+<Cơ quan đầu mối thẩm định> để thẩm định, trình phê duyệt:
+c) Những kiến nghị:
+(Cơ quan thẩm định) xin báo cáo kết quả thẩm định
+thiết kế sơ bộ dự án ……
+Nơi nhận:
+- …
+- Lưu.
+ĐƠN VỊ THẨM ĐỊNH
+(Ký, ghi rõ họ tên, chức vụ và đóng dấu)
+Mẫu
+số 05
+Báo cáo thẩm định thiết kế chi tiết (trường hợp lập
+báo cáo kinh tế - kỹ thuật)
+(Ban hành kèm theo Công văn số 3780/BHXH-KHĐT ngày 13 tháng 11 năm 2023
+của Bảo hiểm xã hội Việt Nam)
+ĐƠN VỊ THẨM ĐỊNH
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: ………
+…., ngày … tháng …
+  năm …
+BÁO CÁO
+THẨM ĐỊNH THIẾT KẾ
+CHI TIẾT THUỘC DỰ ÁN ………..
+Kính gửi:
+……………………………………
+Căn cứ Nghị định số 73/2019/NĐ-CP ngày 5/9/2019 của
+Chính phủ về quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân
+sách nhà nước;
+Căn cứ Quyết định...;
+Căn cứ văn bản số ……… ngày …….. của ………. về chủ
+trương đầu tư dự án (nếu có);
+Các căn cứ khác có liên quan,
+(Cơ quan thẩm định thiết kế cơ sở) báo cáo kết quả
+thẩm định thiết kế cơ sở của dự án đầu tư ……….. do ………. lập với các nội dung
+sau:
+I. Thông tin chung:
+1. Tóm tắt các nội dung chủ yếu của dự án:
+- Tên dự án:
+- Cơ quan chủ quản:
+- Chủ đầu tư:
+- Địa điểm đầu tư:
+- Đơn vị lập dự án:
+- Đơn vị thực hiện khảo sát:
+2. Hồ sơ trình thẩm định gồm: [Liệt kê danh mục hồ
+sơ]
+II. Kết quả thẩm định thiết kế:
+1. Căn cứ thẩm định
+2. Nội dung thẩm định
+a) Sự phù hợp về thành phần, quy cách của thiết kế
+chi tiết so với quy định của pháp luật, bao gồm: các nội dung chính của thiết kế
+chi tiết, các tài liệu khảo sát và các hồ sơ khác theo quy định của pháp luật
+có liên quan;
+b) Sự phù hợp với các tiêu chuẩn, quy chuẩn kỹ thuật
+được áp dụng;
+c) Sự tuân thủ Khung Kiến trúc Chính phủ điện tử Việt
+Nam, Kiến trúc Chính phủ điện tử cấp bộ hoặc Kiến trúc Chính quyền điện tử cấp
+tỉnh;
+d) Sự hợp lý của giải pháp, thiết bị (nếu có);
+đ) Sự phù hợp của biện pháp an toàn vận hành,
+phòng, chống cháy, nổ (nếu có).
+III. Các nội dung khác (nếu có):
+IV. Kết luận, kiến nghị:
+a) Nội dung thiết kế chi tiết do <đơn vị được
+giao chủ trì, chủ đầu tư dự án> lập đủ điều kiện (hay chưa đủ điều kiện) để
+xem xét phê duyệt báo cáo kinh tế - kỹ thuật.
+b) Trách nhiệm của <đơn vị được giao chủ trì, chủ
+đầu tư dự án> trong việc hoàn thiện thiết kế chi tiết trước khi gửi về
+<Cơ quan đầu mối thẩm định> để thẩm định, trình phê duyệt:
+c) Những kiến nghị:
+(Cơ quan thẩm định) xin báo cáo kết quả thẩm định
+thiết kế chi tiết dự án ……………
+Nơi nhận:
+- ….
+- Lưu.
+ĐƠN VỊ THẨM ĐỊNH
+(Ký, ghi rõ họ tên, chức vụ và đóng dấu)
+Mẫu
+số 06
+Báo cáo kết quả thẩm định phê duyệt dự án
+(Ban hành kèm theo Công văn số 3780/BHXH-KHĐT ngày 13 tháng 11 năm 2023
+của Bảo hiểm xã hội Việt Nam)
+[ĐƠN VỊ ĐẦU MỐI
+  THẨM ĐỊNH]
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: ………
+…., ngày … tháng …
+  năm 20…
+BÁO CÁO KẾT QUẢ
+THẨM ĐỊNH
+Dự án: ...
+[tên
+dự án]
+Kính gửi: …..
+Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm
+2006;
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4
+năm 2007 của Chính phủ về Ứng dụng công nghệ thông tin trong hoạt động của cơ
+quan nhà nước;
+Căn cứ Nghị định số 73/2019/NĐ-CP ngày 05/9/2019 của
+Chính phủ quy định quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn
+ngân sách nhà nước;
+Căn cứ pháp lý khác có liên quan;
+Căn cứ hồ sơ dự án <tên dự án, nhiệm vụ, hạng mục>
+kèm theo Tờ trình số .... ngày .... tháng.... năm…… của <chủ đầu tư>;
+Sau khi thẩm định, [Đơn vị đầu mối thẩm định dự án]
+báo cáo kết quả thẩm định dự án [Tên dự án] như sau:
+I. Thông tin chung
+1. Tóm tắt các nội dung chủ yếu của dự án:
+- Tên dự án:
+- Dự án nhóm:
+- Cơ quan chủ quản:
+- Chủ đầu tư:
+- Địa điểm đầu tư:
+- Tổng mức đầu tư:
+- Nguồn vốn:
+- Tổ chức, cá nhân lập dự án:
+- Tổ chức, cá nhân thực hiện khảo sát:
+2. Hồ sơ trình thẩm định gồm:
+<Liệt kê danh mục hồ sơ>
+II. Kết quả thẩm định dự án:
+1. Căn cứ thẩm định:
+2. Nội dung thẩm định:
+2.1. Sự đầy đủ, hợp lệ của hồ sơ
+2.2. Sự cần thiết đầu tư
+2.3. Nội dung và quy mô
+2.4. Phương án kỹ thuật, công nghệ
+2.5. Kết quả thẩm định thiết kế cơ sở
+<Nêu kết quả thẩm định thiết kế cơ sở>
+2.6. Tổng mức đầu tư
+- Sự phù hợp của phương pháp xác định tổng mức đầu
+tư với đặc điểm, tính chất kỹ thuật, công nghệ và yêu cầu của dự án;
+- Tính đầy đủ, hợp lý và phù hợp với yêu cầu thực tế
+của các khoản mục chi phí trong tổng mức đầu tư;
+- Sự phù hợp giữa khối lượng thiết kế cơ sở và khối
+lượng trong tổng mức đầu tư;
+- Tính đúng đắn của việc áp dụng các định mức kinh
+tế - kỹ thuật, mức chi phí, đơn giá; việc vận dụng định mức, đơn giá, phương
+pháp tính, các chế độ, chính sách có liên quan.
+- Xác định giá trị tổng mức đầu tư bảo đảm hiệu quả
+đầu tư của dự án.
+- Giá trị tổng mức đầu tư chi tiết như sau:
+Đơn vị tính: Đồng
+TT
+Nội dung
+Tổng mức đầu tư
+  đề nghị thẩm định
+Kết quả thẩm định
+Tăng (+)
+Giảm (-)
+I
+Chi phí xây lắp
+II
+Chi phí thiết bị
+III
+Chi phí quản lý
+IV
+Chi phí tư vấn
+V
+Chi phí khác có liên quan
+VI
+Chi phí dự phòng
+Tổng cộng
+- Nguyên nhân tăng, giảm: ...
+- Những điều cần lưu ý: ……
+2.7. Phân tích tài chính, hiệu quả kinh tế - xã hội
+của dự án
+2.8. Thời gian, tiến độ thực hiện dự án
+2.9. Các yếu tố đảm bảo tính khả thi của dự án
+a) Kinh nghiệm quản lý của Chủ đầu tư;
+b) Khả năng hoàn trả vốn đầu tư (nếu có yêu cầu thu
+hồi vốn đầu tư);
+c) Các yếu tố ảnh hưởng đến dự án như quốc phòng,
+an ninh.
+2.10. Ý kiến bằng văn bản của các Cơ quan liên quan
+III. Kết luận, kiến nghị:
+1) Kết luận:
+- Nội dung dự án do <chủ đầu tư dự án> lập đủ
+điều kiện (hay chưa đủ điều kiện) để phê duyệt.
+- Trách nhiệm của <chủ đầu tư dự án> trong việc
+hoàn thiện dự án trước khi gửi về <Đơn vị đầu mối thẩm định> để trình phê
+duyệt:
+2) Những kiến nghị (nếu có):
+Nơi nhận:
+- Như trên;
+- Lưu:...
+ĐẠI DIỆN ĐƠN VỊ
+  ĐẦU MỐI THẨM ĐỊNH
+(Ký, ghi rõ họ tên, chức vụ và đóng dấu)
+Mẫu
+số 07
+Báo cáo kết quả thẩm định thiết kế chi tiết, dự toán
+(Ban hành kèm theo Công văn số 3780/BHXH-KHĐT ngày 13 tháng 11 năm 2023
+của Bảo hiểm xã hội Việt Nam)
+[TÊN CHỦ ĐẦU
+  TƯ]
+[TÊN ĐƠN VỊ THẨM ĐỊNH]
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: ………
+…., ngày … tháng …
+  năm …
+BÁO CÁO KẾT QUẢ
+THẨM ĐỊNH
+THIẾT KẾ CHI TIẾT, DỰ TOÁN
+DỰ ÁN …………..
+- Căn cứ Luật Công nghệ thông tin ngày 29/6/2006;
+Căn cứ Nghị định số 73/2019/NĐ-CP ngày 05/9/2019 của
+Chính phủ quy định quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn
+ngân sách nhà nước;
+- Căn cứ (pháp lý khác có liên quan).
+Sau khi thẩm định, (Tên đơn vị thẩm định) báo cáo kết
+quả thẩm định thiết kế chi tiết, dự toán dự án…………….. như sau:
+1. Tóm tắt các nội dung chủ yếu của dự án:
+a) Loại dự án:
+b) Phạm vi, quy mô triển khai dự án:
+c) Nguồn vốn đầu tư
+d) Nhà thầu lập thiết kế chi tiết, dự toán:
+đ) Nhà thầu thực hiện khảo sát:
+e) Nội dung thiết kế:
+2. Kết quả thẩm định thiết kế chi tiết:
+a) Sự phù hợp về thành phần, quy cách của thiết kế
+chi tiết so với quy định của pháp luật, bao gồm: các nội dung chính của thiết kế
+chi tiết, các tài liệu khảo sát và các hồ sơ khác theo quy định của pháp luật
+có liên quan;
+b) Sự phù hợp với thiết kế cơ sở trong báo cáo
+nghiên cứu khả thi được duyệt và quy định của pháp luật có liên quan, trừ trường
+hợp dự án thực hiện lập báo cáo kinh tế - kỹ thuật;
+c) Sự phù hợp với các tiêu chuẩn, quy chuẩn kỹ thuật
+được áp dụng;
+d) Sự tuân thủ Khung Kiến trúc Chính phủ điện tử Việt
+Nam, Kiến trúc Chính phủ điện tử cấp bộ hoặc Kiến trúc Chính quyền điện tử cấp
+tỉnh;
+đ) Sự hợp lý của giải pháp, thiết bị (nếu có);
+e) Sự phù hợp của biện pháp an toàn vận hành,
+phòng, chống cháy, nổ (nếu có).
+3. Kết quả thẩm định dự toán:
+a) Sự phù hợp giữa khối lượng thiết kế chi tiết và
+khối lượng dự toán;
+b) Sự phù hợp của việc áp dụng các định mức kinh tế
+- kỹ thuật, mức chi, đơn giá; việc vận dụng định mức, đơn giá, phương pháp
+tính, các chế độ, chính sách có liên quan và các khoản mục chi phí trong dự
+toán theo quy định.
+c) Kết quả thẩm định dự toán được tổng hợp như sau:
+- Chi phí xây lắp:
+- Chi phí thiết bị:
+- Chi phí quản lý dự án:
+- Chi phí tư vấn đầu tư xây dựng:
+- Chi phí khác:
+- Chi phí dự phòng:
+Tổng cộng:
+4. Kết luận:
+- Đánh giá, nhận xét:
+- Những kiến nghị:
+Nơi nhận:
+- Như trên;
+- Lưu:...
+ĐẠI DIỆN ĐƠN VỊ
+  THẨM ĐỊNH
+(Ký, ghi rõ họ tên và đóng dấu)
+Mẫu
+số 08
+Báo cáo kết quả thẩm định chuyên môn về CNTT kế hoạch
+thuê
+(Ban hành kèm theo Công văn số 3780/BHXH-KHĐT ngày 13 tháng 11 năm 2023
+của Bảo hiểm xã hội Việt Nam)
+[ĐƠN VỊ THẨM ĐỊNH]
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: ………
+…., ngày … tháng …
+  năm 20…
+BÁO CÁO KẾT QUẢ
+THẨM ĐỊNH CHUYÊN MÔN VỀ CNTT KẾ HOẠCH THUÊ:
+[Tên hoạt động thuê]
+Kính gửi:
+………………………….
+Căn cứ Luật Công nghệ thông tin ngày 29/6/2006;
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của
+Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước;
+Căn cứ Nghị định số 73/2019/NĐ-CP ngày 05/9/2019 của
+Chính phủ quy định quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn
+ngân sách nhà nước;
+Căn cứ hồ sơ kế hoạch thuê của hoạt động thuê
+<tên hoạt động thuê> kèm theo Công văn số .... ngày .... tháng.... năm của
+<đơn vị đề nghị>,
+Căn cứ pháp lý khác có liên quan;
+Sau khi thẩm định, [Đơn vị thẩm định] báo cáo kết
+quả thẩm định chuyên môn về công nghệ thông tin kế hoạch thuê [Tên hoạt động
+thuê] như sau:
+I. Thông tin chung:
+1. Tóm tắt các nội dung chủ yếu:
+- Tên hoạt động thuê:
+- Chủ trì thuê:
+- Tổ chức tư vấn lập kế hoạch thuê (nếu có):
+- Mục tiêu:
+- Nội dung và quy mô:
+- Địa điểm:
+- Yêu cầu về kỹ thuật, công nghệ để đáp ứng yêu cầu
+chất lượng dịch vụ theo yêu cầu riêng; mô tả yêu cầu cần đáp ứng của phần mềm nội
+bộ:
+- Thời gian thuê và tiến độ, thời hạn xây dựng,
+phát triển, khai thác dịch vụ đặt hàng.
+2. Hồ sơ trình thẩm định gồm:
+[Liệt kê danh mục hồ sơ]
+II. Kết quả thẩm định chuyên môn về CNTT:
+a) Hiện trạng, sự cần thiết thuê dịch vụ;
+b) Các hạng mục chính cần thuê; mục tiêu, nội dung
+và quy mô, phạm vi, địa điểm và cơ quan, đơn vị sử dụng dịch vụ;
+c) Xác định yêu cầu về chất lượng dịch vụ công nghệ
+thông tin; yêu cầu về kỹ thuật, công nghệ để đáp ứng yêu cầu chất lượng dịch vụ;
+yêu cầu, điều kiện về khả năng kết nối, liên thông với ứng dụng, hệ thống thông
+tin khác; mô tả yêu cầu cần đáp ứng của phần mềm nội bộ; yêu cầu về an toàn bảo
+mật thông tin, dữ liệu và các yêu cầu khác;
+d) Việc sở hữu các thông tin, dữ liệu hình thành
+trong quá trình cung cấp dịch vụ và phương án quản lý, chuyển giao cho bên
+thuê;
+đ) Thời gian thuê và tiến độ, thời gian xây dựng,
+phát triển, hình thành dịch vụ;
+e) Yêu cầu về các phát sinh trong quá trình khai
+khác, sử dụng dịch vụ;
+III. Kết luận và kiến nghị:
+Kế hoạch thuê dịch vụ do <đơn vị chủ trì
+thuê> trình đề xuất tại kế hoạch thuê <Tên của hoạt động/nhiệm vụ ứng dụng
+CNTT> đáp ứng/không đáp ứng theo các nội dung thẩm định chuyên môn về công
+nghệ thông tin. Đề nghị <đơn vị đầu mối thẩm định> tổng hợp, báo cáo người
+có thẩm quyền xem xét, quyết định.
+ĐẠI DIỆN ĐƠN VỊ
+  THẨM ĐỊNH
+(Ký, ghi rõ họ tên và đóng dấu)
+Mẫu
+số 09
+Báo cáo kết quả thẩm định kế hoạch thuê
+(Ban hành kèm theo Công văn số 3780/BHXH-KHĐT ngày 13 tháng 11 năm 2023
+của Bảo hiểm xã hội Việt Nam)
+[ĐƠN VỊ ĐẦU MỐI
+  THẨM ĐỊNH]
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: ………
+…., ngày … tháng …
+  năm …
+BÁO CÁO KẾT QUẢ
+THẨM ĐỊNH KẾ HOẠCH THUÊ:
+[Tên hoạt động thuê]
+Kính gửi: ……………………
+<Đơn vị thẩm định> đã nhận văn bản số……
+ngày.../…./20... của ………. đề nghị thẩm định, phê duyệt kế hoạch thuê của hoạt động
+thuê <Tên của hoạt động thuê> kèm theo hồ sơ trình.
+1. Các căn cứ thẩm định:
+Căn cứ Luật Ngân sách nhà nước ngày 16/12/2002;
+Căn cứ Luật Công nghệ thông tin ngày 29/6/2006;
+Căn cứ Nghị định số 60/2003/NĐ-CP ngày 06/6/2003 của
+Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Ngân sách nhà nước;
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của
+Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước;
+Căn cứ Nghị định số 73/2019/NĐ-CP ngày 05/9/2019 của
+Chính phủ quy định quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn
+ngân sách nhà nước;
+Các căn cứ pháp lý khác có liên quan,
+2. Nội dung và chất lượng hồ sơ trình thẩm định:
+2.1. Hồ sơ trình thẩm định gồm:
+- ……….;
+- ……….;
+2.2. Nhận xét:
+- ……….;
+- ……….;
+3. Kết quả thẩm định nội dung kế hoạch thuê
+a) Hiện trạng, sự cần thiết thuê dịch vụ;
+b) Các hạng mục chính cần thuê; mục tiêu, nội dung
+và quy mô, phạm vi, địa điểm và cơ quan, đơn vị sử dụng dịch vụ;
+c) Xác định yêu cầu về chất lượng dịch vụ công nghệ
+thông tin; yêu cầu về kỹ thuật, công nghệ để đáp ứng yêu cầu chất lượng dịch vụ;
+yêu cầu, điều kiện về khả năng kết nối, liên thông với ứng dụng, hệ thống thông
+tin khác; mô tả yêu cầu cần đáp ứng của phần mềm nội bộ; yêu cầu về an toàn bảo
+mật thông tin, dữ liệu và các yêu cầu khác;
+d) Việc sở hữu các thông tin, dữ liệu hình thành
+trong quá trình cung cấp dịch vụ và phương án quản lý, chuyển giao cho bên
+thuê;
+đ) Thời gian thuê và tiến độ, thời gian xây dựng,
+phát triển, hình thành dịch vụ;
+e) Yêu cầu về các phát sinh trong quá trình khai
+khác, sử dụng dịch vụ;
+4. Kết quả thẩm định dự toán:
+- Tính đầy đủ, hợp lý của phương pháp xác định dự
+toán;
+- Tính đầy đủ, hợp lý và phù hợp với yêu cầu thực tế
+của các khoản mục chi phí trong dự toán.
+- Giá trị dự toán chi tiết như sau:
+Đơn vị tính: đồng
+TT
+Nội dung
+Dự toán do
+  <Chủ trì thuê> đề nghị thẩm định
+Kết quả thẩm định
+Tăng (+)
+Giảm (-)
+I
+Chi phí thuê dịch vụ theo yêu cầu riêng
+II
+Chi phí quản lý
+III
+Chi phí tư vấn
+IV
+Chi phí khác
+V
+Chi phí dự phòng
+Tổng cộng
+(Nội dung các khoản mục chi phí trong dự toán chi
+tiết như phụ lục kèm theo).
+- Nguyên nhân tăng, giảm: ...
+- Những điều cần lưu ý:
+4. Kết luận và kiến nghị:
+- Kế hoạch thuê do <Chủ trì thuê> trình đủ điều
+kiện (hay chưa đủ điều kiện) để phê duyệt.
+- Trách nhiệm của <Chủ trì thuê> trong việc
+hoàn thiện kế hoạch thuê trước khi gửi về <Đơn vị đầu mối thẩm định> để
+trình phê duyệt.
+ĐẠI DIỆN ĐƠN VỊ
+  ĐẦU MỐI THẨM ĐỊNH
+(Ký, ghi rõ họ tên và đóng dấu)
+PHỤ LỤC II
+QUY TRÌNH TRIỂN KHAI THỰC HIỆN XÂY DỰNG THỬ NGHIỆM DỊCH
+VỤ THUÊ
+(Ban hành kèm theo Công văn số 3780/BHXH-KHĐT ngày 13 tháng 11 năm 2023 của
+Bảo hiểm xã hội Việt Nam)
+I. Giải thích từ ngữ
+- Chủ trì thuê: Là đơn vị được cấp có thẩm quyền
+giao nhiệm vụ thuê dịch vụ công nghệ thông tin.
+- Đơn vị chủ trì thử nghiệm: Là đơn vị thụ hưởng và
+được cấp có thẩm quyền phê duyệt giao nhiệm vụ chủ trì lựa chọn đơn vị thử nghiệm.
+- Đơn vị có nhu cầu thuê dịch vụ công nghệ thông
+tin: là đơn vị có nhu cầu thử nghiệm, đề xuất thuê dịch vụ.
+II. Quy trình triển khai thực hiện
+1. Xác định dịch vụ công nghệ thông tin cần thuê có
+phải dịch vụ không sẵn có trên thị trường hay không;
+2. Xem xét sự cần thiết và lựa chọn các tổ chức, cá
+nhân tham gia nghiên cứu, đề xuất giải pháp phương án kỹ thuật dịch vụ công nghệ
+thông tin;
+3. Xây dựng, thử nghiệm dịch vụ công nghệ thông
+tin;
+4. Đánh giá quá trình, nội dung thử nghiệm dịch vụ
+công nghệ thông tin;
+5. Thông qua kết quả giải pháp kỹ thuật, công nghệ,
+chi phí của dịch vụ công nghệ thông tin.
+TT
+Trách nhiệm
+Trình tự
+Mô tả
+1.
+Đơn vị có nhu cầu thuê dịch vụ CNTT
+Xác định nhu cầu
+- Xác định sản phẩm dịch vụ CNTT cần thuê có dịch
+  vụ chưa sẵn có trên thị trường hay không căn cứ trên cơ sở: dịch vụ CNTT được
+  thiết lập, phát triển mới hoặc nâng cấp, mở rộng cho hệ thống hạ tầng kỹ thuật,
+  phần mềm, cơ sở dữ liệu theo yêu cầu đặc thù của cơ quan, đơn vị nhằm đáp ứng
+  các yêu cầu đặc thù của cơ quan, đơn vị đó.
+Thuyết minh nhu cầu
+- Đơn vị có nhu cầu thử nghiệm có trách nhiệm
+  thuyết minh sự cần thiết việc nghiên cứu, đề xuất giải pháp phương án kỹ thuật
+  dịch vụ CNTT, bao gồm yêu cầu nội dung, phạm vi, kế hoạch xây dựng, thử nghiệm
+  dịch vụ CNTT;
+- Đơn vị có nhu cầu thử nghiệm xin ý kiến Trung
+  tâm CNTT về tiêu chí dịch vụ như các tính năng, giải pháp kỹ thuật, công nghệ
+  không có sẵn trên thị trường làm căn cứ trình cấp thẩm quyền được phép thử
+  nghiệm.
+2
+Phó Tổng Giám đốc phụ trách đơn vị có nhu cầu
+  thuê dịch vụ
+Xem xét
+- Phê duyệt chủ trương, tiêu chí, giao đơn vị chủ
+  trì thử nghiệm.
+- Không đồng ý, chuyển đơn vị có nhu cầu thử nghiệm.
+3.
+Đơn vị chủ trì thử nghiệm
+Lựa chọn đơn vị thử nghiệm
+- Thông báo lựa chọn đơn vị thử nghiệm dịch vụ
+- Tổ chức đánh giá, lựa chọn đơn vị thử nghiệm
+- Thẩm định năng lực đơn vị thử nghiệm
+- Trình duyệt lựa chọn đơn vị thử nghiệm
+4.
+Phó Tổng Giám đốc phụ trách đơn vị chủ trì thử
+  nghiệm
+Phê duyệt đơn vị thử nghiệm
+- Quyết định đơn vị thử nghiệm
+- Không đồng ý, chuyển lại đơn vị chủ trì thử
+  nghiệm.
+5
+Đơn vị chủ trì thử nghiệm/đơn vị thử nghiệm
+Tổ chức
+- Đơn vị chủ trì thử nghiệm và đơn vị thử nghiệm
+  thực hiện thỏa thuận thử nghiệm;
+- Đơn vị thử nghiệm thực hiện thử nghiệm và báo
+  cáo tình hình trong triển khai thử nghiệm. Tổng hợp kết quả từng nội dung thử
+  nghiệm.
+Đánh giá nội bộ
+- Đơn vị chủ trì thực hiện thử nghiệm tổ chức
+  đánh giá quá trình thử nghiệm
+- Đơn vị chủ trì thử nghiệm lấy ý kiến đánh giá của
+  đơn vị có nhu cầu thuê dịch vụ với quá trình thử nghiệm và kết quả thử nghiệm
+  để tổng hợp báo cáo.
+Báo cáo kết quả
+Đơn vị chủ trì thực hiện nghiệm thu báo cáo kết
+  quả thử nghiệm với cấp có thẩm quyền quyết định
+6.
+Phó Tổng Giám đốc phụ trách đơn vị chủ trì thử
+  nghiệm
+Phê duyệt kết quả
+- Căn cứ báo cáo kết quả thử nghiệm của đơn vị được
+  giao chủ trì thực hiện thử nghiệm, cấp có thẩm quyền phê duyệt kết quả thử
+  nghiệm
+7.
+Đơn vị chủ trì thử nghiệm/đơn vị thử nghiệm
+Kết thúc thử nghiệm
+Xây dựng được tiêu chí kỹ thuật, công nghệ, dự
+  toán kinh phí dịch vụ CNTT cho kế hoạch thuê dịch vụ CNTT
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

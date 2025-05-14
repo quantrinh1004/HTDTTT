@@ -1,0 +1,87 @@
+BẢO HIỂM XÃ HỘI VIỆT
+  NAM
+TRUNG TÂM CÔNG NGHỆ
+THÔNG TIN
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 500/CNTT-PM
+V/v triển khai Hệ thống tương tác đa phương
+  tiện giữa người dân và doanh nghiệp với cơ quan BHXH
+Hà Nội, ngày 14
+  tháng 05 năm 2019
+Kính
+gửi:
+Bảo hiểm xã hội các tỉnh, thành phố trực thuộc trung ương.
+Thực hiện kế hoạch triển khai Hệ
+thống tương tác đa phương tiện giữa người dân và doanh nghiệp với cơ quan Bảo
+hiểm xã hội (Hệ thống SMS), Trung tâm Công nghệ thông tin (Trung tâm) đã có
+công văn số 330/BHXH- CNTT ngày 03/04/2019 và công văn số 393/BHXH-CNTT ngày
+16/04/2019. Được sự đồng của Phó Tổng Giám đốc Phạm Lương Sơn, để tiếp tục đáp ứng
+các yêu cầu quản lý của Ngành cũng như đem lại sự minh bạch, công khai đối với
+người dân và doanh nghiệp, Trung tâm tiếp tục triển khai các nội dung như sau:
+1. Triển khai tin nhắn tiếng
+Việt không dấu
+Hệ thống SMS đã thực hiện triển
+khai tin nhắn tiếng Việt có dấu bắt đầu từ ngày 03/04/2019. Tuy nhiên, trong
+quá trình triển khai Trung tâm đã nhận được một số phản hồi về việc tin nhắn do
+cơ quan bảo hiểm xã hội gửi đi bị lỗi font chữ gây khó khăn khi đọc nội dung
+tin nhắn (
+Nguyên nhân của việc này có thể do nhà mạng di động hoặc do một số
+loại điện thoại không hỗ trợ tiếng Việt có dấu
+). Để khắc phục vấn đề này,
+Trung tâm sẽ triển khai gửi tin nhắn tiếng Việt không dấu đối với tất cả các loại
+tin nhắn.
+2. Triển khai tin nhắn thông
+báo số tiền được BHXH chi trả đối với người có thẻ BHYT khi đi khám chữa bệnh
+BHYT:
+Để cung cấp thông tin cho người
+tham gia BHYT khi đi khám, chữa bệnh BHYT, Trung tâm triển khai bổ sung tin nhắn
+gửi thông báo số tiền được BHXH chi trả:
+- Thời gian gửi: Sau khi nhận
+được dữ liệu đề nghị thanh toán tiền BHYT từ cơ sở y tế, hệ thống phần mềm Giám
+định BHYT tự động gửi tin nhắn đến số điện thoại của người tham gia BHYT khi đi
+khám bệnh.
+- Số điện thoại gửi tin: được lấy
+theo Mã thẻ BHYT từ Phần mềm Thu và Quản lý Sổ thẻ.
+- Nội dung tin nhắn gửi (ví dụ):
++
+Trường hợp điều trị
+theo đợt (từ ngày - đến ngày):
+Ma the BHYT: GD4525220097290
+duoc Benh vien da khoa tinh Binh Dinh de nghi BHXH thanh toan so tien 97.460.15
+d trong thoi gian dieu tri tu ngay 09/12/2018 den ngay 13/12/2018. Tran trong
+cam on!
++
+Trường hợp điều trị
+trong ngày:
+Ma the BHYT: GD4797933351079
+duoc Trung tam y te quan Binh Tan de nghi BHXH thanh toan so tien 82.000 d kham
+ngay 08/01/2019. Tran trong cam on!
+3. Thời gian triển khai:
+bắt
+đầu từ ngày 15/05/2019.
+Trung tâm thông báo để BHXH các
+tỉnh, thành phố trực thuộc trung ương (BHXH các tỉnh) được biết và tổ chức triển
+khai trong phạm vi quản lý. Yêu cầu BHXH các tỉnh không thực hiện việc gửi tin
+nhắn trùng với các nội dung tin nhắn mà BHXH Việt Nam triển khai. Trong trường
+hợp BHXH các tỉnh có nhu cầu gửi tin nhắn khác với nội dung nêu trên, đề nghị
+BHXH các tỉnh báo cáo về Trung tâm để Trung tâm tổng hợp báo cáo Lãnh đạo
+Ngành.
+Nơi nhận:
+- Như trên;
+- Tổng Giám đốc (để b/c);
+- PTGĐ Phạm Lương Sơn (để b/c);
+- PTGĐ Trần Đình Liệu (để b/c);
+- PTGĐ Đào Việt Ánh (để b/c);
+- Các đơn vị: TCKT, PC, THU, ST, CSXH, CSYT, GĐB, TTTT (để p/h);
+- Phòng KHDA;
+- Lưu: VT, PM.
+GIÁM ĐỐC
+Lê Nguyên Bồng
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

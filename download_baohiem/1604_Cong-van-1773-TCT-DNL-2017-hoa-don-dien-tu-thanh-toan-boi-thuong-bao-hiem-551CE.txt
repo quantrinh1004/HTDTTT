@@ -1,0 +1,106 @@
+BỘ TÀI CHÍNH
+TỔNG CỤC THUẾ
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 1773/TCT-DNL
+V/v Hóa đơn điện tử thanh toán bồi thường bảo
+  hiểm
+Hà Nội, ngày 04
+  tháng 5 năm 2017
+Kính gửi:
+- Hiệp hội Bảo hiểm;
+- Tổng công ty cổ phần Bảo hiểm Bưu Điện.
+(Địa chỉ: Tầng 8 tòa nhà số 4A Láng Hạ, Ba Đình, Hà Nội)
+Tổng cục Thuế nhận được công văn số 1233/PTI-TCKT
+ngày 20/03/2017 và công văn số 735/PTI-TCKT ngày 20/02/2017 của Tổng công ty cổ
+phần Bảo hiểm Bưu Điện vướng mắc về hóa đơn điện tử để thanh toán bồi thường với
+các đơn vị bảo hiểm. Về vấn đề này, sau khi báo cáo Bộ Tài chính, Tổng cục Thuế
+có ý kiến như sau:
+Tại
+Khoản 1 và Khoản 3 Điều 3 Thông
+tư số 32/2011/TT-BTC
+ngày 14/03/2011 của Bộ Tài chính quy định:
+"1. Hóa đơn điện tử là tập hợp các thông điệp
+dữ liệu điện tử về bán hàng hóa, cung ứng dịch vụ, được khởi tạo, lập, gửi, nhận,
+lưu trữ và quản lý bằng phương tiện điện tử. Hóa đơn điện tử phải đáp ứng các nội
+dung quy định tại Điều 6 Thông tư này.
+…
+Hóa đơn điện tử đảm bảo nguyên tắc: xác định được số
+hóa đơn theo nguyên tắc liên tục và trình tự thời gian, mỗi số hóa đơn đảm bảo
+chỉ được lập và sử dụng một lần duy nhất.
+3. Hóa đơn điện tử có giá trị pháp lý nếu thỏa mãn
+đồng thời các điều kiện sau:
+a) Có sự đảm bảo đủ tin cậy về tính toàn vẹn của
+thông tin chứa trong hóa đơn điện tử từ khi thông tin được tạo ra ở dạng cuối
+cùng là hóa đơn điện tử.
+Tiêu chí đánh giá tính toàn vẹn là thông tin còn đầy
+đủ và chưa bị thay đổi, ngoài những thay đổi về hình thức phát sinh trong quá
+trình trao đổi, lưu trữ hoặc hiển thị hóa đơn điện tử.
+b) Thông tin chứa trong hóa đơn điện tử có thể truy
+cập, sử dụng được dưới dạng hoàn chỉnh khi cần thiết."
+Tại
+Điều 12 Thông tư số 32/2011/TT-BTC
+ngày 14/03/2011 của Bộ Tài chính quy định:
+"1. Nguyên tắc chuyển đổi
+Người bán hàng hóa được chuyển đổi hóa đơn điện tử
+sang hóa đơn giấy để chứng minh nguồn gốc xuất xứ hàng hóa hữu hình trong quá
+trình lưu thông và chỉ được chuyển đổi một (01) lần. Hóa đơn điện tử chuyển đổi
+sang hóa đơn giấy để chứng minh nguồn gốc xuất xứ hàng hóa phải đáp ứng các quy
+định nêu tại Khoản 2, 3, 4 Điều này và phải có chữ ký người đại diện theo pháp luật
+của người bán, dấu của người bán.
+Người mua, người bán được chuyển đổi hóa đơn điện tử
+sang hóa đơn giấy để phục vụ việc lưu trữ chứng từ kế toán theo quy định của Luật
+Kế toán. Hóa đơn điện tử chuyển đổi sang hóa đơn giấy phục vụ lưu trữ chứng từ
+kế toán phải đáp ứng các quy định nêu tại Khoản 2, 3, 4 Điều này.
+2. Điều kiện
+Hóa đơn điện tử chuyển sang hóa đơn giấy phải đáp ứng
+đủ các điều kiện sau:
+a) Phản ánh toàn vẹn nội dung của hóa đơn điện tử gốc;
+b) Có ký hiệu riêng xác nhận đã được chuyển đổi từ
+hóa đơn điện tử sang hóa đơn giấy;
+c) Có chữ ký và họ tên của người thực hiện chuyển từ
+hóa đơn điện tử sang hóa đơn giấy.
+3. Giá trị pháp lý của các hóa đơn điện tử chuyển đổi
+Hóa đơn điện tử chuyển đổi có giá trị pháp lý khi bảo
+đảm các yêu cầu về tính toàn vẹn của thông tin trên hóa đơn nguồn, ký hiệu
+riêng xác nhận đã được chuyển đổi và chữ ký, họ tên của người thực hiện chuyển
+đổi được thực hiện theo quy định của pháp luật về chuyển đổi chứng từ điện tử.
+4. Ký hiệu riêng trên hóa đơn chuyển đổi
+Ký hiệu riêng trên hóa đơn chuyển đổi từ hóa đơn điện
+tử sang hóa đơn dạng giấy bao gồm đầy đủ các thông tin sau: dòng chữ phân biệt
+giữa hóa đơn chuyển đổi và hóa đơn điện tử gốc - hóa đơn nguồn (ghi rõ “HÓA ĐƠN
+CHUYỂN ĐỔI TỪ HÓA ĐƠN ĐIỆN TỬ”); họ và tên, chữ ký của người được thực hiện
+chuyển đổi; thời gian thực hiện chuyển đổi."
+Căn cứ các quy định trên, trường hợp khách hàng sử
+dụng hóa đơn điện tử hoặc hóa đơn điện tử chuyển đổi ra giấy đáp ứng các điều
+kiện chuyển đổi theo quy định tại Thông tư số 32/2011/TT-BTC ngày 14/3/2011 của
+Bộ Tài chính để thanh toán tiền bồi thường bảo hiểm thì Công ty bảo hiểm căn cứ
+hóa đơn điện tử hoặc hóa đơn điện tử chuyển đổi sang giấy để thực hiện bồi thường
+bảo hiểm cho khách hàng theo quy định.
+Đồng thời, để hạn chế tình trạng trục lợi bảo hiểm,
+Tổng công ty cổ phần Bảo hiểm Bưu Điện cần báo cáo các cơ quan thẩm quyền có
+liên quan để hướng dẫn thực hiện việc thanh toán bồi thường bảo hiểm phù hợp với
+hình thức hóa đơn điện tử trên cơ sở đề xuất của Tổng công ty như: đóng dấu xác
+nhận đã thanh toán tiền bồi thường trên hồ sơ khám chữa bệnh gốc của cá nhân
+theo quy định hoặc thực hiện kết nối dữ liệu điện tử giữa các doanh nghiệp bảo
+hiểm trên cơ sở dữ liệu gắn với hồ sơ cá nhân.
+Tổng cục Thuế trả lời để Tổng công ty cổ phần Bảo
+hiểm Bưu Điện được biết và thực hiện./.
+Nơi nhận:
+- Như trên;
+- Cục Thuế các tỉnh, TP trực thuộc TƯ (để t/h);
+- Vụ CST, Vụ Pháp chế, Cục QLGSBH (BTC);
+- Vụ CS, vụ Pháp chế, Vụ Kê khai (TCT);
+- Website TCT;
+- Lưu: VT, DNL(2b).
+KT. TỔNG CỤC
+  TRƯỞNG
+PHÓ TỔNG CỤC TRƯỞNG
+Đặng Ngọc Minh
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

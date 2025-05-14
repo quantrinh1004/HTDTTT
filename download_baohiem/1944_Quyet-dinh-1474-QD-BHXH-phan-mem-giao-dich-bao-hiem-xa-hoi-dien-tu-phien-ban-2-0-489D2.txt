@@ -1,0 +1,79 @@
+BẢO HIỂM XÃ HỘI
+  VIỆT NAM
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+1474/
+QĐ-BHXH
+Hà
+  Nội, ngày
+03
+tháng
+12
+năm 2015
+QUYẾT ĐỊNH
+BAN HÀNH PHẦN MỀM
+GIAO DỊCH BẢO HIỂM XÃ HỘI ĐIỆN TỬ PHIÊN BẢN 2.0
+TỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM
+Căn cứ
+Luật Giao dịch điện
+tử ngày 29
+th
+áng 11 năm 2005;
+Căn cứ Nghị định số 05/2014/NĐ-CP
+ngày 17/01/2014 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu
+tổ chức của Bảo hiểm xã hội Việt Nam;
+Căn cứ Quyết định số
+08/2015/QĐ-TTg ngày 09/03/2015 của Thủ tướng Chính phủ thí điểm về giao dịch
+điện tử trong việc thực hiện thủ tục tham gia bảo hiểm xã hội, bảo hiểm y tế,
+bảo hiểm thất nghiệp và đề nghị cấp sổ bảo hiểm xã hội, thẻ bảo hiểm y tế;
+Căn cứ Quyết định số 3582/QĐ-BHXH
+ngày 26/12/2006 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam quy định về quản lý
+hoạt động công nghệ th
+ô
+ng tin trong hệ thống Bảo
+hiểm xã hội Việt Nam;
+Xét đề nghị của Giám đốc Trung tâm
+Công nghệ thông tin,
+QUYẾT ĐỊNH:
+Điều 1.
+Ban
+hành Phần mềm Giao dịch Bảo hiểm xã hội điện tử phiên bản 2.0 (viết tắt là GDĐT
+2.0). Phần mềm GDĐT 2.0 bao gồm các phần mềm sau:
+- Phần mềm Kê khai bảo hiểm xã hội
+(viết tắt là KBHXH);
+- Phần mềm Tiếp nhận và quản lý hồ sơ
+(viết tắt là TNHS);
+- Phần mềm cổng thông tin điện tử
+(viết tắt là BHXH-VAN);
+- Phần mềm cổng giao dịch điện tử
+(viết tắt là BHXH-IGW).
+Điều 2.
+Phần
+mềm GDĐT 2.0
+th
+uộc bản quyền của Bảo hiểm xã hội Việt Nam,
+là một phần mềm trong hệ thống phần mềm ứng dụng của Bảo hiểm xã hội Việt Nam.
+Điều 3.
+Quyết
+định này có hiệu lực kể từ ngày 04/12/2015 và thay thế Quyết định số
+592/QĐ-BHXH ngày 18/05/2015 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc
+ban hành Phần mềm Giao dịch Bảo hiểm xã hội điện tử 1.0. Chánh Văn phòng, Giám
+đốc Trung tâm Công nghệ thông tin, Thủ trưởng các đơn vị trực thuộc Bảo hiểm xã
+hội Việt Nam và Giám đốc Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung
+ương chịu trách nhiệm thi hành Quyết định
+này.
+Nơi nhận:
+- Như Điều 3;
+- Tổng Giám đốc;
+- Các Phó Tổng Giám đốc;
+- Lưu: VT, CNTT (03b).
+TỔNG GIÁM ĐỐC
+Nguyễn Thị Minh
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

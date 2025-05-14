@@ -1,0 +1,198 @@
+BẢO
+  HIỂM XÃ HỘI VIỆT NAM
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+3865/BHXH-BT
+V/v rà soát mã số BHXH để in M
+ẫ
+u
+  MS
+1
+và TK1-TS
+Hà
+  Nội
+, ngày
+01
+tháng
+9
+năm 20
+17
+Kính
+gửi:
+Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương
+Thực hiện Công văn số
+3799/BHXH-BT ngày 28/8/2017 của Bảo hiểm xã hội Việt Nam về việc hoàn thiện, cấp
+mã số bảo hiểm xã hội (BHXH) cho người tham gia BHXH, bảo hiểm y tế (BHYT); để
+đảm bảo chất lượng dữ liệu, giảm thiểu tối đa số lượng Tờ khai tham gia, điều
+chỉnh thông tin BHXH, BHYT (M
+ẫ
+u TK1-TS) phải in gửi
+người tham gia BHXH, BHYT hoàn thiện, bổ sung thông tin, BHXH Việt Nam yêu cầu
+BHXH các tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là BHXH tỉnh)
+thực hiện một số nội dung sau:
+1. Tổ chức rà soát,
+xác định mã số BHXH thông qua chức năng hỗ trợ rà soát mã số BHXH theo danh
+sách tại phần mềm quản lý danh sách hộ gia đình tham gia BHYT (phụ lục hướng dẫn
+kèm theo). Thời gian hoàn thành trước ngày 20/9/2017.
+2. Sau khi đã thực hiện
+xong việc rà soát, xác định mã số BHXH theo hướng dẫn tại Công văn này, báo cáo
+BHXH Việt Nam (Trung tâm Công nghệ thông tin) để kiểm tra và mở tính năng in
+Danh sách người tham gia BHXH, BHYT chưa có mã số BHXH (M
+ẫ
+u
+MS
+1
+), M
+ẫ
+u
+TK1-TS để in gửi người tham gia BHXH, BHYT hoàn thiện, cấp mã số BHXH theo hướng
+dẫn tại Công văn số 3799/BHXH-BT.
+Trong quá trình thực
+hiện nếu có vướng mắc, kịp thời báo cáo BHXH Việt Nam (Trung tâm Công nghệ
+thông tin) để giải quyết
+./.
+Nơi nhận:
+- Như trên;
+- Tổng Giám đốc (để b/c);
+- Các Phó Tổng Giám đốc;
+- Các đơn vị: BT, ST, TCKT, CNTT;
+- Lưu: VT,
+BT.
+KT.
+  TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Trần Đình Liệu
+PHỤ LỤC
+HƯỚNG
+DẪN RÀ SOÁT MÃ SỐ BHXH THEO FILE
+(Ban hành kèm theo Công văn số 3865/BHXH-BT ngày 01/9/2017 của Bảo hiểm xã hội
+Việt Nam)
+Bước 1:
+Cán bộ thu xuất file MS1 trên TST theo địa chỉ sau để xuất mẫu MS1:
+daotaotst.vssic.
+g
+ov.vn/tst595
+Vào chức năng
+DS chưa đồng
+bộ MS1
+Bước 2:
+Chọn
+đơn vị
+Bước 3: Xuất file Excel MS1
+Trong phần này có
+tích chọn Tách theo đơn vị:
+-
+Nếu tích chọn: Mỗi đơn vị xuất ra 1 file excel MS
+1
+tương ứng
+-
+Nếu bỏ tích: Tất cả các đơn vị xuất ra 1 file excel MS
+1
+chung.
+Bước 4:
+Cách 1:
+NSD vào đường dẫn:
+baohiemxahoi.
+g
+ov.vn/tracuu
+để tra c
+ứ
+u từng người
+Cách 2:
+NSD vào đường d
+ẫ
+n sau đ
+ể
+tra cứu theo file
+ho
+gia
+dinh.baohi
+em
+xahoi.
+g
+o
+v
+.vn
+Bước 5:
+Đơn vị vào chức năng
+Tra
+cứu số định danh->Xuất dữ liệu
+đối chiếu từ file import
+Sau đó tải file
+import mẫu về (gọi là file HGD)
+Bước 6:
+Đơn vị lấy thông tin MS1 chuyển sang mẫu file import HGD theo các tiêu chí mà
+file có:
+Chú ý:
+đối với những trường hợp Hộ gia đình Cận nghèo
+(AC),
+hoặc đối tượng Người nghèo (BN), khi đã xác định chính xác được mã huyện HK, hoặc
+xaHK thì nên điền vào file để kết quả trả ra chính xác và suy nhất
+Bước 7:
+Sau khi hoàn thiện mẫu file HGD, đơn vị import vào chương trình Hộ gia đình bằng
+cách
+Chọn tệp
+Sau đó
+Export
+file HGD ra
+Bước 8:
+Dựa vào file HGD vừa xuất ra như ảnh:
+- Với file tra cứu xuất
+ra, NSD cần chú ý cột số lượng trùng. Với trường hợp ô số lư
+ợ
+ng
+trùng >1 thì NSD cần kiểm tra thông tin trả ra, và loại bỏ những dòng dữ liệu
+k đúng, để đảm bảo mỗi đầu vào dữ liệu trả ra 1 kết quả với 1 người, và đảm bảo
+số STT trên file xuất ra khớp với MS
+1
+Bước 9:
+NSD copy cột mã số bhxh
+(bên file xuất ra từ
+HGD) paste vào cột mã số bhxh trên file MS1 (xuất ra từ TST)
+- C
+ó
+những trường hợp tra cứu có mã số bhxh, có trường hợp không, vậy những trường hợp
+tra được mã số, thì NSD làm MS
+1
+, còn lại sẽ xử lý TK
+1
+-ts
+- Khi có nguồn đầu
+vào là MS
+1
+, TST đã hỗ trợ xuất TK
+1
+-TS
+dạng PDF và excel
+-
+Cán
+bộ có thể tích chọn Nguồn từ TST hoặc hộ gia đình để lấy thông tin từ Nguồn nào
+để import
+Cột ghi chú: là cột
+thể hiện các thông tin sai (cần kiểm tra lại).
+- Nếu thông tin hi
+ể
+n
+thị nền có màu đen-> thông tin hợp lệ
+- Nếu thông tin hiển
+thị có nền màu vàng-> thông tin sai, không thể import.
+- Nếu thông tin hiển
+thị màu đỏ-> d
+ữ
+liệu trên TST khác với hộ gia đình->
+Vẫn có thể Import.
+Ch
+ú
+ý:
+3 thông tin: Họ tên, ngày sinh, giới tính luôn mặc định lấy
+trên TST
+3 thông tin: Tỉnh KS,
+huyện KS, xã KS được lấy theo nguồn tích chọn
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc
