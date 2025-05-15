@@ -1,0 +1,326 @@
+VIỆN KIỂM
+  SÁT NHÂN DÂN
+TỐI CAO
+--------
+CỘNG HÒA XÃ
+  HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 32/HD-VKSTC
+Hà Nội, ngày
+  05 tháng 11 năm 2020
+HƯỚNG DẪN
+THỐNG KÊ NGƯỜI DƯỚI 18 TUỔI LÀ BỊ HẠI TRONG
+CÁC VỤ ÁN HÌNH SỰ
+Căn cứ Quyết định số
+400/QĐ-VKSTC
+ngày 30/10/2020 của Viện trưởng VKSND tối cao về việc ban hành
+Biểu mẫu thống
+kê người dưới 18 tuổi là bị hại trong các vụ án hình sự
+, VKSND tối cao (Cục
+Thống kê tội phạm và Công nghệ thông tin) hướng dẫn thực hiện Biểu thống kê người
+dưới 18 tuổi là bị hại trong các vụ án hình sự như sau:
+I. TRÁCH NHIỆM
+THỐNG KÊ, KỲ BÁO CÁO, THỜI HẠN, PHƯƠNG THỨC GỬI VÀ HIỆU CHỈNH BÁO CÁO THỐNG KÊ
+1. Trách nhiệm
+thống kê
+Đơn vị có trách nhiệm thực hiện Biểu
+thống kê người dưới 18 tuổi là bị hại trong các vụ án hình sự là đơn vị ra Quyết
+định khởi tố vụ án hình sự hoặc nhận được Quyết định khởi tố vụ án hình sự để
+kiểm sát việc khởi tố.
+Trường hợp sau khi có Quyết định
+khởi tố vụ án hình sự, vụ án đã được
+chuyển
+đi nơi khác để điều
+tra theo thẩm quyền thì đơn vị có trách nhiệm thống kê đề nghị đơn vị đang giải
+quyết vụ án bổ sung những tiêu chí còn thiếu.
+2. Kỳ báo cáo
+thống kê
+Báo cáo thống kê người dưới 18 tuổi
+là bị hại trong các vụ án hình sự được lập theo Kỳ báo cáo thống kê
+Tháng
+(từ ngày 01 đến hết ngày cuối cùng của Tháng)
+. Vụ án được Viện kiểm sát
+ra Quyết định khởi tố vụ án hình sự hoặc nhận được Quyết định khởi tố vụ án
+hình sự của tháng nào thì thống kê vào tháng đó.
+Trong trường hợp có tiêu chí bắt
+buộc phải thống kê nhưng trong kỳ báo cáo thống kê (trong tháng) chưa xác định
+thì phải bổ sung vào kỳ thống kê tháng kế tiếp và thông báo rõ cho VKSND tối
+cao (Cục Thống kê tội phạm và Công nghệ thông tin).
+3. Thời hạn,
+phương thức gửi và hiệu chỉnh báo cáo thống kê
+Thời hạn, phương thức gửi và hiệu
+chỉnh báo cáo thống kê người dưới 18 tuổi là bị hại trong các vụ án hình sự được
+thực hiện theo
+Chế độ báo cáo thống kê thực hành quyền
+công tố, kiểm sát hoạt động tư pháp và thống kê vi phạm pháp luật trong hoạt động
+tư pháp trong ngành Kiểm sát nhân dân
+ban hành kèm theo
+Quyết định số 560/QĐ-VKSTC ngày 13/11/2019 của Viện trưởng VKSND tối cao.
+II. CÁCH GHI BIỂU
+THỐNG KÊ
+Đối với 11 tội danh trong Bộ luật
+Hình sự có tình tiết định tội là người dưới 18 tuổi (các
+điều
+124, 142, 144, 145, 146, 147, 151, 152, 153, 296 và Điều 329
+thì
+phải
+thống kê đầy đủ các tiêu chí của Biểu mẫu
+. Các tội danh (điều luật) còn
+lại
+phải thống kê đầy đủ các tiêu chí từ Cột 1 đến Cột 5
+; các cột
+còn lại (từ Cột 6 đến Cột 22) chỉ thống kê nếu có thông tin. Cách thống kê từng
+cột như sau:
+- Cột 1
+(Tội danh)
+: Ghi tội
+danh của bị can bị khởi tố mà có người dưới 18 tuổi là bị hại, không ghi theo tội
+danh của vụ án (tội danh của bị can đầu vụ).
++ Trường hợp trong vụ án hình sự
+mà bị can bị khởi tố theo
+nhiều
+tội danh
+, trong đó
+có tội danh
+thuộc 11 tội danh đã nêu trên
+,
+có tội danh không thuộc 11 tội danh này
+thì thống kê theo tội danh thuộc 11 tội danh đã nêu.
+Ví dụ: Trong vụ án hình sự, bị
+can bị khởi tố về Tội giết người (
+Điều 123
+) và Tội dâm ô đối
+với người dưới 16 tuổi (
+Điều 146
+) thì thống kê theo Tội dâm
+ô đối với người dưới 16 tuổi (người dưới 18 tuổi là tình tiết định tội).
++ Trường hợp trong vụ án hình sự
+mà bị can bị khởi tố theo
+nhiều
+tội danh
+thuộc 11 tội danh đã
+nêu trên
+thì thống kê theo tội danh nặng nhất. Nếu các tội danh có mức hình
+phạt bằng nhau thì thống kê theo tội danh có số thứ tự nhỏ nhất trong Bộ luật
+Hình sự.
+Ví dụ 1: Trong vụ án hình sự, bị
+can bị khởi tố về Tội hiếp dâm người dưới 16 tuổi (
+Điều 142
+)
+và Tội dâm ô đối với người dưới 16 tuổi (
+Điều 146
+) thì thống
+kê theo Tội hiếp dâm người dưới 16 tuổi (
+Điều 142
+).
+Ví dụ 2: Trong vụ án hình sự, bị
+can bị khởi tố về Tội dâm ô đối với người dưới 16 tuổi (
+Điều 146
+)
+và Tội sử dụng người dưới 16 tuổi vào mục đích khiêu dâm (
+Điều
+147
+) thì thống kê theo Tội dâm ô đối với người dưới 16 tuổi (
+Điều
+146
+).
++ Trường hợp trong vụ án hình sự
+mà bị can bị khởi tố theo
+nhiều
+tội danh ngoài 11 tội danh
+đã nêu
+trên nhưng trong đó
+có tội danh bị khởi tố theo tình tiết định khung tăng nặng
+là phạm tội đối với người dưới 18 tuổi
+thì thống kê theo tội danh có tình tiết
+định khung tăng nặng đó.
+Ví dụ: Trong vụ án hình sự, bị
+can vừa thực hiện hành vi cưỡng đoạt tài sản đối với người dưới 16 tuổi (bị khởi
+tố theo
+điểm c khoản 2 Điều 170
+), vừa thực hiện hành vi lừa
+đảo chiếm đoạt tài sản (bị khởi tố theo
+Điều 174
+) thì thống
+kê theo Tội cưỡng đoạt tài sản (
+Điều 170
+).
++ Trường hợp trong vụ án hình sự
+mà bị can bị khởi tố theo
+nhiều
+tội danh ngoài 11 tội danh
+đã nêu
+trên nhưng
+đều
+khởi tố theo khung hình phạt có tình tiết tăng nặng
+là
+phạm tội đối với người dưới 18 tuổi
+thì thống kê theo tội danh có
+khung hình phạt nặng nhất. Nếu các khung hình phạt có mức hình phạt bằng nhau
+thì thống kê theo tội danh có số thứ tự nhỏ nhất theo trong Bộ luật Hình sự.
+Ví dụ: Trong vụ án hình sự, bị
+can vừa bị khởi tố về Tội Giết người theo
+điểm b khoản 1 Điều
+123
+, vừa bị khởi tố về Tội hiếp dâm theo
+khoản 4 Điều 141
+thì thống kê theo Tội giết người (
+Điều 123
+).
++ Trường hợp trong vụ án hình sự
+mà bị can bị khởi tố theo
+nhiều
+tội danh ngoài 11 tội danh
+đã nêu
+trên
+và
+không thuộc tình tiết định khung tăng nặng (phạm tội đối với
+người dưới 18 tuổi)
+thì thống kê theo tội danh nặng nhất. Nếu các tội danh
+có mức hình phạt bằng nhau thì thống kê theo tội danh có số thứ tự nhỏ nhất
+trong Bộ luật Hình sự.
+Ví dụ: Trong vụ án hình sự, bị
+can vừa bị khởi tố về Tội lừa đảo chiếm đoạt tài sản (
+Điều 174
+),
+vừa bị khởi tố về Tội hủy hoại hoặc cố ý làm hư hỏng tài sản tài sản (
+Điều 178
+) thì thống kê theo Tội lừa đảo chiếm đoạt tài sản (
+Điều 174
+).
+- Cột 2
+(Điều luật)
+: Ghi
+tương ứng với tội danh (đã ghi tại Cột 1) được quy định trong Bộ luật Hình sự.
+- Cột 3
+(Số người bị hại dưới
+18 tuổi):
+Thống kê số người thực tế.
+- Cột 4 và Cột 5
+(Phân tổ theo
+giới tính):
+Thống kê giới tính
+(Nam, Nữ)
+của người dưới 18 tuổi là bị
+hại trong các vụ án hình sự trong kỳ thống kê. Giới tính khác không thống kê.
+(Cột
+4 + Cột 5 ≤ Cột 3)
+- Cột 6, 7, 8, 9 và Cột 10
+(Phân
+tổ theo độ tuổi):
+Thống kê theo từng nhóm tuổi của người dưới 18 tuổi bị xâm
+hại (người bị hại) trong kỳ thống kê. Việc thống kê theo nhóm tuổi của người dưới
+18 tuổi bị xâm hại (người bị hại) được căn cứ vào Hồ sơ vụ án hình sự (Kết luận
+điều tra, Sổ hộ khẩu, Giấy khai sinh hoặc theo kết quả giám định...)
+(Cột
+6 + Cột 7 + Cột 8 + Cột 9 + Cột 10 = Cột 3)
+- Cột 11 và Cột 12
+(Phân tổ
+theo dân tộc):
++ Cột 11: Thống kê số người dưới
+18 tuổi là bị hại thuộc dân tộc Kinh;
++ Cột 12: Thống kê số người dưới
+18 tuổi là bị hại thuộc các dân tộc còn lại.
+Lưu ý:
+Nếu
+bị hại (người dưới 18 tuổi) là người nước ngoài thì không thống kê vào 2 cột
+này.
+(Cột
+11 + Cột 12 ≤ Cột 3)
+- Cột 13
+(Bị hại là người khuyết
+tật):
+Thống kê số bị hại (người dưới 18 tuổi) trong các vụ án hình sự là
+người khuyết tật theo quy định tại
+khoản 1 Điều 2 và Điều 3 Luật
+Người khuyết tật
+, cụ thể:
++ Người khuyết tật là người bị
+khiếm khuyết một hoặc nhiều bộ phận cơ thể hoặc bị suy giảm chức năng được biểu
+hiện dưới dạng tật khiến cho lao động, sinh hoạt, học tập gặp khó khăn;
++ Dạng tật và mức độ khuyết tật
+như:
+Khuyết tật vận động, khuyết tật nghe, nói, khuyết tật nhìn, khuyết
+tật thần kinh, tâm thần, khuyết tật trí tuệ, khuyết tật khác…
+- Cột 14
+(Bị hại là người sống
+lang thang):
+Thống kê số người dưới 18 tuổi sống lang thang (thường là người
+không có gia đình hoặc bỏ gia đình, không có nơi cư trú và chỗ ở ổn định…).
+Cột
+13 + Cột 14 ≤ Cột 3)
+- Cột 15, 16, 17, 18 và Cột 19
+(Phân
+tổ theo quan hệ giữa bị hại với bị can):
++ Cột 15
+(Người thân thích)
+:
+Thống kê số người dưới 18 tuổi bị xâm hại là người có quan hệ thân thích với bị
+can. Người thân thích được hiểu là người có quan hệ hôn nhân, nuôi dưỡng, người
+có cùng dòng máu về trực hệ và người có họ trong phạm vi ba đời (
+Điều
+3 Luật Hôn nhân và Gia đình
+).
++ Cột 16
+(Người lệ thuộc)
+:
+Thống kê số người dưới 18 tuổi bị xâm hại là người lệ thuộc với bị can về quan
+hệ xã hội, tôn giáo, tài chính…
+(trừ các trường hợp có quan hệ thân thích đã
+thống kê tại Cột 15)
+, như: Thầy giáo, cô giáo, người chăm sóc, người khám
+chữa bệnh…
++ Cột 17
+(Người quen biết)
+:
+Thống kê số người dưới 18 tuổi bị xâm hại là người quen biết với bị can, trừ
+trường hợp ở Cột 15 và Cột 16.
++ Cột 18
+(Người quen biết qua mạng)
+:
+Thống kê số người dưới 18 tuổi bị xâm hại quen biết với bị can qua mạng (mạng
+Internet, mạng xã hội…).
+Lưu ý:
+Số “người quen biết qua mạng” tại Cột 18 không nằm trong số
+“người quen biết” tại Cột 17.
++ Cột 19
+(Người không quen biết)
+:
+Thống kê số người dưới 18 tuổi là bị hại không quen biết với bị can.
+(Cột
+15 + Cột 16 + Cột 17 + Cột 18 + Cột 19 = Cột 3)
+- Cột 20, 21 và Cột 22
+(Phân tổ
+theo hậu quả của tội phạm):
++ Cột 20: Thống kê hậu quả người
+dưới 18 tuổi bị xâm hại dẫn đến chết;
++ Cột 21: Thống kê hậu quả người
+dưới 18 tuổi bị xâm hại dẫn đến tự sát;
++ Cột 22: Thống kê hậu quả người
+dưới 18 tuổi bị xâm hại dẫn đến có thai.
+Cột
+20 + Cột 21 + Cột 22 ≤ Cột 3)
+Trong quá trình thực hiện nếu có vướng mắc, các đơn vị liên hệ trực tiếp
+Phòng Thống kê Hình sự,
+Cục Thống kê tội
+phạm và Công nghệ thông tin
+, VKSND tối cao (Cục 2) để được giải đáp hoặc hướng dẫn bổ sung./.
+Nơi nhận:
+- Đ/c
+  Viện trưởng VKSNDTC (để báo cáo);
+- Các Đồng chí PVT VKSTC (để báo cáo);
+- Văn phòng VKSND tối cao (để theo dõi);
+- Các đơn vị (Vụ 1, 2, 3, 4, 5, 6)
+VKSND tối cao (để thực hiện);
+- VKSQS Trung ương (để thực hiện);
+- VKSND cấp cao (để thực hiện);
+- VKSND cấp tỉnh (để thực hiện);
+- VKSND cấp huyện (để thực hiện);
+- Lưu: VT, Cục 2.
+TL. VIỆN TRƯỞNG
+CỤC TRƯỞNG CỤC THỐNG KÊ TỘI PHẠM
+VÀ CÔNG NGHỆ THÔNG TIN
+Trần Văn Trung
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt

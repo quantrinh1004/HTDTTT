@@ -1,0 +1,329 @@
+ỦY BAN NHÂN DÂN
+TỈNH QUẢNG NAM
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 373/QĐ-UBND
+Quảng Nam, ngày
+  14 tháng 02 năm 2022
+QUYẾT ĐỊNH
+BAN
+HÀNH QUY CHẾ QUẢN LÝ, SỬ DỤNG CƠ SỞ DỮ LIỆU VỀ VI BẰNG TRÊN ĐỊA BÀN TỈNH QUẢNG
+NAM
+ỦY BAN NHÂN DÂN TỈNH QUẢNG NAM
+Căn cứ Luật Tổ chức Chính
+quyền địa phương năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức
+Chính phủ và Luật Tổ chức Chính quyền địa phương năm 2019;
+Căn cứ Luật Công nghệ thông
+tin năm 2006;
+Căn cứ Nghị định số
+08/2020/NĐ-CP ngày 08/01/2020 của Chính phủ về tổ chức và hoạt động của Thừa
+phát lại;
+Căn cứ Thông tư
+05/2020/TT-BTP ngày 28/8/2020 của Bộ trưởng Bộ Tư pháp quy định chi tiết một số
+điều và biện pháp thi hành Nghị định số 08/2020/NĐ-CP ngày 08/01/2020 của Chính
+phủ về tổ chức và hoạt động của Thừa phát lại;
+Theo đề nghị của Giám đốc Sở
+Tư pháp tại Tờ trình số 12/TTr-STP ngày 09/02/2022.
+QUYẾT ĐỊNH:
+Điều 1.
+Ban hành kèm
+theo Quyết định này Quy chế quản lý, sử dụng Cơ sở dữ liệu về vi bằng trên địa
+bàn tỉnh Quảng Nam.
+Điều 2.
+Quyết định này
+có hiệu lực thi hành kể từ ngày ký.
+Điều 3.
+Chánh Văn phòng
+Ủy ban nhân dân tỉnh, Giám đốc Sở Tư pháp, Thủ trưởng các Sở, Ban, ngành; Chủ
+tịch Ủy ban nhân dân các huyện, thị xã, thành phố, các Văn phòng Thừa phát lại
+trên địa bàn tỉnh, các tổ chức và cá nhân có liên quan chịu trách nhiệm thi
+hành Quyết định này./.
+Nơi nhận:
+- Như Điều 3;
+- Bộ Tư pháp;
+- TT Tỉnh ủy, TT HĐND tỉnh;
+- Chủ tịch, các PCT UBND tỉnh;
+- Công an tỉnh;
+- TAND tỉnh;
+- Viện KSND tỉnh;
+- Cục THADS tỉnh;
+- Cổng TTĐT tỉnh;
+- CVP, PCVP Lê Ngọc Quảng;
+- Lưu: VT, NCKS.
+TM. ỦY BAN NHÂN
+  DÂN
+CHỦ TỊCH
+Lê Trí Thanh
+QUY CHẾ
+QUẢN
+LÝ, SỬ DỤNG CƠ SỞ DỮ LIỆU VỀ VI BẰNG TRÊN ĐỊA BÀN TỈNH QUẢNG NAM
+(Ban hành kèm theo Quyết định số      /QĐ-UBND
+ngày      /02/2022 của Ủy ban nhân dân tỉnh Quảng Nam)
+Chương I
+NHỮNG QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh,
+đối tượng áp dụng
+1. Phạm vi điều chỉnh: Quy chế
+này quy định việc quản lý, sử dụng Cơ sở dữ liệu về vi bằng trên địa bàn tỉnh
+Quảng Nam; quyền, nghĩa vụ của các tổ chức, cá nhân có liên quan.
+2. Đối tượng áp dụng: Quy chế
+này áp dụng đối với Sở Tư pháp, các Văn phòng Thừa phát lại trên địa bàn tỉnh
+Quảng Nam và các tổ chức, cá nhân có liên quan khác.
+Điều 2. Thông tin chung về
+Cơ sở dữ liệu về vi bằng
+1. Phần mềm Cơ sở dữ liệu về vi
+bằng tỉnh Quảng Nam được xây dựng và triển khai có chức năng hỗ trợ các Văn
+phòng Thừa phát lại trên địa bàn tỉnh trong việc cập nhật vi bằng vào Cơ sở dữ
+liệu theo quy định tại Khoản 1, Điều 30, Thông tư số 05/2020/TT-BTP ngày
+28/8/2020 của Bộ trưởng Bộ Tư pháp quy định chi tiết một số điều và biện pháp
+thi hành Nghị định số 08/2020//NĐ-CP ngày 08/01/2020 của Chính phủ về tổ chức
+và hoạt động của Thừa phát lại.
+2. Địa chỉ truy cập Phần mềm:
+https://vibang.sotuphapqnam.gov.vn.
+3. Phần mềm được triển khai
+trên mạng Internet, sử dụng máy tính có kết nối mạng, truy cập bằng các trình
+duyệt Internet thông dụng và đăng nhập bằng tài khoản hợp lệ để sử dụng.
+Điều 3. Giải thích từ ngữ
+1. Cơ sở dữ liệu về vi bằng là
+hệ thống cơ sở dữ liệu điện tử bao gồm các thông tin ghi nhận sự kiện, hành vi
+do Thừa phát lại trực tiếp chứng kiến, lập theo yêu cầu của tổ chức, cá nhân
+theo quy định của pháp luật.
+2. Người quản trị hệ thống Cơ
+sở dữ liệu về vi bằng là công chức Phòng chuyên môn thuộc Sở Tư pháp được Giám
+đốc Sở Tư pháp giao thực hiện nhiệm vụ quản lý nhà nước về thừa phát lại để
+thực hiện việc quản trị, vận hành phần mềm Cơ sở dữ liệu về vi bằng.
+3. Tài khoản là những thông tin
+nhất định mà người quản lý, khai thác, sử dụng được cấp để truy cập vào Cơ sở
+dữ liệu về vi bằng gồm tên người dùng và mật khẩu.
+Điều 4. Nguyên tắc quản lý,
+sử dụng Cơ sở dữ liệu về vi bằng
+1. Cơ sở dữ liệu về vi bằng
+phải bảo đảm an toàn, bảo mật, thuận tiện trong quá trình quản lý, sử dụng và
+có khả năng kết nối với các Văn phòng Thừa phát lại trên địa bàn tỉnh.
+2. Bảo đảm quyền của các tổ
+chức, cá nhân được tiếp cận, sử dụng thông tin trong Cơ sở dữ liệu về vi bằng
+phù hợp với quy định của pháp luật.
+3. Việc cập nhật thông tin vào
+Cơ sở dữ liệu về vi bằng phải bảo đảm đầy đủ, chính xác và kịp thời.
+Điều 5. Cấp tài khoản người
+dùng
+1. Mỗi Văn phòng Thừa phát lại
+trên địa bàn tỉnh sử dụng phần mềm Cơ sở dữ liệu về vi bằng được cấp 01 tài
+khoản riêng để truy cập, sử dụng Cơ sở dữ liệu về vi bằng phù hợp với chức
+năng, nhiệm vụ của tổ chức mình theo quy định của pháp luật.
+2. Phòng chuyên môn thuộc Sở Tư
+pháp được cấp tài khoản để duyệt nội dung vi bằng do các Văn phòng Thừa phát
+lại cập nhật trên Cơ sở dữ liệu về vi bằng theo quy định tại Khoản 4, Điều 39,
+Nghị định số 08/2020/NĐ-CP ngày 08/01/2020 của Chính phủ để theo dõi, quản lý
+việc lập vi bằng.
+3. Tài khoản truy cập vào Cơ sở
+dữ liệu về vi bằng đã được cấp sẽ bị khóa trong các trường hợp Văn phòng Thừa
+phát lại bị giải thể, tạm ngừng hoạt động, chấm dứt hoạt động, hợp nhất, sáp
+nhập và các trường hợp khác theo quy định của pháp luật.
+4. Tổ chức, cá nhân được cấp
+tài khoản quản lý, sử dụng Cơ sở dữ liệu về vi bằng có trách nhiệm bảo mật tài khoản
+được cấp và chịu trách nhiệm về quản lý, sử dụng đối với tài khoản được cấp
+theo quy định của pháp luật.
+5. Sở Tư pháp có trách nhiệm
+quản lý, cấp hoặc khóa tài khoản của các Văn phòng Thừa phát lại trong Cơ sở dữ
+liệu về vi bằng theo quy định của Quy chế này.
+Điều 6. Những hành vi bị
+nghiêm cấm
+1. Cấp tài khoản truy cập vào Cơ
+sở dữ liệu về vi bằng cho tổ chức, cá nhân không thuộc đối tượng được cấp tài khoản
+sử dụng Cơ sở dữ liệu về vi bằng theo quy định.
+2. Truy cập vào Cơ sở dữ liệu
+về vi bằng bằng tài khoản của người khác hoặc cho người khác sử dụng tài khoản
+của mình để truy cập vào Cơ sở dữ liệu khi chưa được sự đồng ý của người có
+thẩm quyền; tiết lộ tài khoản sử dụng Cơ sở dữ liệu của đơn vị, Văn phòng Thừa
+phát lại cho người không có thẩm quyền.
+3. Không cập nhật hoặc cập nhật
+thông tin về vi bằng không kịp thời, đầy đủ, chính xác hoặc có hành vi ngăn cản
+việc cập nhật thông tin về vi bằng vào Cơ sở dữ liệu.
+4. Sử dụng hoặc tiết lộ các
+thông tin của cá nhân, tổ chức, tài sản và các thông tin khác trong quá trình
+lập vi bằng hoặc trong quá trình quản lý, cập nhật và sử dụng Cơ sở dữ liệu về
+vi bằng.
+5. Những hành vi vi phạm pháp
+luật khác theo quy định của pháp luật.
+Chương II
+QUẢN LÝ, SỬ DỤNG CƠ SỞ DỮ LIỆU VỀ VI BẰNG
+Điều 7. Cơ sở dữ liệu về vi
+bằng
+Cơ sở dữ liệu về vi bằng tỉnh
+Quảng Nam phải có các thông tin theo quy định tại Khoản 1, Điều 31, Thông tư số
+05/2020/TT-BTP ngày 28/8/2020 của Bộ trưởng Bộ Tư pháp. Cụ thể:
+1. Tên Văn phòng Thừa phát lại;
+họ, tên Thừa phát lại lập vi bằng;
+2. Họ, tên, địa chỉ người yêu
+cầu lập vi bằng; họ, tên người tham gia khác (nếu có);
+3. Địa điểm, thời gian lập vi
+bằng; nội dung chính của sự kiện, hành vi được ghi nhận;
+4. Thời gian cập nhật, duyệt
+nội dung cập nhật vi bằng, tài liệu chứng minh (nếu có) trên Cơ sở dữ liệu;
+5. Bản sao điện tử vi bằng, tài
+liệu chứng minh (nếu có);
+6. Thông tin về việc vi bằng,
+tài liệu chứng minh vi phạm theo quy định của Nghị định số 08/2020/NĐ-CP ngày 08/01/2020
+của Chính phủ và biện pháp xử lý, khắc phục (nếu có).
+Điều 8. Quy trình cập nhật
+vào Cơ sở dữ liệu về vi bằng
+1. Cập nhật vi bằng
+Trong thời hạn 03 ngày làm
+việc, kể từ ngày kết thúc việc lập vi bằng, Văn phòng Thừa phát lại cập nhật vi
+bằng, tài liệu chứng minh (nếu có) vào Cơ sở dữ liệu về vi bằng theo quy định
+của pháp luật.
+2. Duyệt nội dung cập nhật trên
+Cơ sở dữ liệu
+Trong thời hạn 02 ngày làm
+việc, kể từ ngày Văn phòng Thừa phát lại cập nhật vi bằng vào Cơ sở dữ liệu,
+công chức Phòng chuyên môn thuộc Sở Tư pháp duyệt nội dung cập nhật trên Cơ sở
+dữ liệu về vi bằng tỉnh Quảng Nam.
+3. Sửa lỗi kỹ thuật vi bằng:
+thực hiện theo quy định tại Điều 41, Nghị định số 08/2020/NĐ-CP ngày 08/01/2020
+của Chính phủ.
+Việc sửa lỗi kỹ thuật vi bằng
+trên Cơ sở dữ liệu về vi bằng được thực hiện bằng cách Văn phòng Thừa phát lại
+đã lập vi bằng đó bổ sung thông tin cần chỉnh sửa vào vi bằng đã được lập và
+cập nhật trên Cơ sở dữ liệu để Sở Tư pháp theo dõi, quản lý vi bằng trên Cơ sở
+dữ liệu về vi bằng tỉnh Quảng Nam theo quy định của pháp luật.
+Điều 9. Nhập thông tin nội
+dung chính của sự kiện, hành vi được ghi nhận vào Cơ sở dữ liệu về vi bằng
+1. Văn phòng Thừa phát lại phải
+cập nhật thông tin, nội dung chính, hành vi được ghi nhận lên Cơ sở dữ liệu về
+vi bằng. Trường hợp cập nhật thông tin không chính xác, không đầy đủ, không kịp
+thời dẫn đến phát sinh hậu quả pháp lý thì Văn phòng Thừa phát lại phải liên đới
+chịu trách nhiệm bồi thường theo quy định của pháp luật.
+2. Các trường thông tin cơ bản
+khi lập mới vi bằng có gắn dấu * trong Cơ sở dữ liệu bắt buộc cập nhật.
+3. Các Văn phòng Thừa phát lại
+chịu trách nhiệm về tính chính xác của thông tin trong vi bằng do mình cập nhật
+trên Cơ sở dữ liệu. Trường hợp có sai sót trong quá trình cập nhật, người nhập
+vi bằng phải kịp thời bổ sung nội dung sửa chữa sai sót đó tại vi bằng đã cập
+nhật trên Cơ sở dữ liệu.
+4. Số lượng vi bằng đã cập nhật
+vào Cơ sở dữ liệu là cơ sở để Sở Tư pháp theo dõi, quản lý, thống kê, đối chiếu
+với báo cáo định kỳ 6 tháng, hằng năm theo quy định.
+Điều 10. Lưu trữ thông tin
+vi bằng trên Cơ sở dữ liệu
+1. Thông tin trên Cơ sở dữ liệu
+vi bằng được lưu trữ ở dạng văn bản, hồ sơ giấy và số hóa.
+2. Thông tin trên Cơ sở dữ liệu
+về vi bằng được lưu trữ, bảo quản cẩn thận, có hệ thống, đảm bảo khoa học, dễ
+tìm, dễ bảo quản và phải được bảo vệ an toàn tại Sở Tư pháp, các Văn phòng Thừa
+phát lại theo quy định của pháp luật.
+3. Vi bằng được lưu trữ tại các
+Văn phòng Thừa phát lại và Sở Tư pháp theo quy định của pháp luật về lưu trữ
+như đối với văn bản công chứng.
+4. Việc sao lưu Cơ sở dữ liệu
+về vi bằng phải được thực hiện thường xuyên, định kỳ, theo đúng hướng dẫn của
+đơn vị cung cấp Phần mềm và theo quy định của Quy chế này.
+Điều 11. Đảm bảo an toàn,
+bảo mật thông tin đối với Cơ sở dữ liệu về vi bằng
+1. Cơ sở dữ liệu về vi bằng
+được quản lý vận hành đảm bảo an toàn thông tin theo quy định của Luật An toàn
+thông tin mạng và Nghị định số 85/2016/NĐ- CP ngày 01/7/2016 của Chính phủ về
+bảo đảm an toàn hệ thống thông tin theo cấp độ.
+2. Sở Tư pháp có trách nhiệm
+phối hợp với đơn vị vận hành hệ thống Cơ sở dữ liệu về vi bằng thực hiện kiểm
+tra, đánh giá an toàn thông tin, bố trí các điều kiện để đảm bảo an toàn thông
+tin cho hệ thống Cơ sở dữ liệu về vi bằng.
+Điều 12. Chi phí quản lý,
+vận hành và sử dụng Cơ sở dữ liệu về vi bằng
+Các Văn phòng Thừa phát lại
+phải thanh toán chi phí quản lý Cơ sở dữ liệu về vi bằng (nếu có) theo quy định
+của pháp luật.
+Chương III
+TỔ CHỨC THỰC HIỆN
+Điều 13. Trách nhiệm của Sở
+Tư pháp
+1. Giúp Ủy ban nhân dân tỉnh
+triển khai, thực hiện việc quản lý Cơ sở dữ liệu về vi bằng theo quy định của
+pháp luật và Quy chế này.
+2. Chủ trì, phối hợp với các tổ
+chức, cá nhân có liên quan để vận hành, sử dụng, khai thác hiệu quả Cơ sở dữ liệu
+về vi bằng; phối hợp với đơn vị cung cấp Phần mềm thực hiện lưu trữ thông tin
+dữ liệu về vi bằng, sao lưu dữ liệu định kỳ theo đúng quy định.
+3. Chỉ đạo bộ phận chuyên môn
+thực hiện việc duyệt nội dung vi bằng do các Văn phòng Thừa phát lại cập nhật
+trên Cơ sở dữ liệu theo quy định tại Khoản 1, Điều 30, Thông tư số
+05/2020/TT-BTP ngày 28/8/2020 của Bộ trưởng Bộ Tư pháp; cung cấp thông tin trên
+Cơ sở dữ liệu về vi bằng phục vụ cho công tác giám sát, kiểm tra, thanh tra,
+điều tra, truy tố, xét xử, thi hành án liên quan đến việc lập vi bằng và nhu
+cầu cung cấp thông tin khác phù hợp với quy định của pháp luật.
+4. Quản lý và vận hành Cơ sở dữ
+liệu về vi bằng tỉnh Quảng Nam đảm bảo thông suốt, hiệu quả.
+5. Đôn đốc, theo dõi tình hình
+thực hiện Quy chế này; tham mưu Ủy ban nhân dân tỉnh sửa đổi, bổ sung Quy chế
+khi cần thiết.
+Điều 14. Trách nhiệm của đơn
+vị cung cấp Phần mềm
+1. Quản lý hạ tầng máy chủ, duy
+trì, chủ động sao lưu dữ liệu định kỳ, an toàn, an ninh thông tin, đảm bảo hệ
+thống hoạt động ổn định, liên tục phục vụ cho hoạt động khai thác, sử dụng Cơ
+sở dữ liệu về vi bằng.
+2. Phối hợp với Sở Tư pháp, các
+đơn vị và cá nhân có liên quan khai thác, sử dụng, quản lý, xử lý tốt cơ sở hạ
+tầng thông tin phục vụ cho hoạt động quản lý vi bằng.
+Điều 15. Trách nhiệm của các
+Văn phòng Thừa phát lại
+1. Các Văn phòng Thừa phát lại
+trên địa bàn tỉnh có trách nhiệm tham gia vào Cơ sở dữ liệu về vi bằng; cập
+nhật đầy đủ các thông tin về vi bằng do Thừa phát lại của tổ chức mình lập;
+chịu trách nhiệm về tính kịp thời, chính xác, trung thực, đầy đủ những thông
+tin về vi bằng và các tài liệu chứng minh (nếu có) đã cập nhật trên Cơ sở dữ
+liệu.
+2. Trưởng Văn phòng Thừa phát
+lại có trách nhiệm:
+a) Bảo đảm cơ sở vật chất,
+đường truyền để cài đặt và sử dụng Cơ sở dữ liệu về vi bằng đảm bảo an toàn,
+theo đúng quy định.
+b) Tổ chức quản lý, phân công
+Thừa phát lại hoặc nhân viên thực hiện việc cập nhập thông tin về vi bằng trên
+Cơ sở dữ liệu; lưu trữ dữ liệu về vi bằng, sao lưu dữ liệu định kỳ theo quy
+định.
+c) Tổ chức quản lý việc khai
+thác, sử dụng các tính năng của Phần mềm được phân quyền phục vụ cho việc quản
+lý hoạt động lập vi bằng tại tổ chức mình.
+d) Quyết định và chịu trách
+nhiệm về việc cập nhập, chỉnh sửa thông tin đã nhập vào Cơ sở dữ liệu về vi
+bằng của tổ chức mình; chịu trách nhiệm về tính chính xác, đầy đủ của thông tin
+cập nhật vào Cơ sở dữ liệu về vi bằng.
+đ) Chịu trách nhiệm bảo quản,
+bảo mật đối với tài khoản đã được cấp; kịp thời thay đổi mật khẩu của tài khoản
+khi thay đổi người cập nhật thông tin vào Cơ sở dữ liệu về vi bằng của tổ chức
+mình.
+e) Cử Thừa phát lại, nhân viên
+của tổ chức mình tham dự các lớp đào tạo, bồi dưỡng, tập huấn kỹ năng khai
+thác, sử dụng Cơ sở dữ liệu do Sở Tư pháp tổ chức.
+g) Kịp thời thông tin cho Sở Tư
+pháp các vấn đề phát sinh trong quá trình sử dụng Cơ sở dữ liệu về vi bằng.
+3. Thừa phát lại, nhân viên Văn
+phòng Thừa phát lại được phân công cập nhật, khai thác và sử dụng Cơ sở dữ liệu
+về vi bằng có trách nhiệm:
+a) Cập nhật thông tin, sửa chữa
+thông tin đã cập nhật vào Cơ sở dữ liệu về vi bằng; chịu trách nhiệm về tính chính
+xác, kịp thời, đầy đủ của thông tin đã cập nhật.
+b) Tham dự các lớp đào tạo, bồi
+dưỡng, tập huấn kỹ năng khai thác, sử dụng Cơ sở dữ liệu về vi bằng khi được
+phân công;
+c) Thực hiện các biện pháp quản
+lý, kỹ thuật cần thiết để bảo quản, bảo mật đối với tài khoản đã được cấp và
+bảo đảm an toàn, bí mật thông tin.
+Điều 16. Xử lý vi phạm
+Tổ chức, cá nhân vi phạm quy
+định tại Quy chế này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý theo
+quy định của pháp luật.
+Điều 17. Điều khoản thi hành
+Giao Sở Tư pháp theo dõi, đôn
+đốc, hướng dẫn và chủ trì tổ chức triển khai thực hiện Quy chế này. Trong quá
+trình thực hiện Quy chế, nếu phát sinh vướng mắc, đề nghị các tổ chức, cá nhân
+phản ánh kịp thời về Sở Tư pháp để tổng hợp, tham mưu Ủy ban nhân dân tỉnh xem
+xét sửa đổi, bổ sung Quy chế cho phù hợp./.
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

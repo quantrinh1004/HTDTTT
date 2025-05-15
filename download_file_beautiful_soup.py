@@ -12,7 +12,7 @@ import threading
 from bs4 import BeautifulSoup
 
 # Field to name the file
-field = "baohiem"
+field = "botrothuphap"
 
 # Setup logging
 logging.basicConfig(
@@ -104,7 +104,7 @@ def download_content(url, index):
 
 def main():
     # Read URLs from file
-    with open('link_downloads/file_link_download_baohiem.txt', 'r', encoding='utf-8') as file:
+    with open('link_downloads/file_link_download_botrothuphap.txt', 'r', encoding='utf-8') as file:
         download_urls = [
             line.strip()
             for line in file

@@ -1,0 +1,761 @@
+2025-05-15 03:05:01,159 - INFO - Total 557 links found inhinhsu.txt
+2025-05-15 03:05:01,159 - INFO - Processing batch 0 to 8
+2025-05-15 03:05:19,525 - INFO - ✅ Saved txt: download_hinhsu/0_Cong-dien-29-CD-TTg-2025-phong-ngua-su-dung-cong-nghe-cao-khong-gian-mang-chiem-doat-tai-san-9ECE7.txt
+2025-05-15 03:05:19,976 - INFO - ✅ Saved txt: download_hinhsu/2_Huong-dan-11-HD-BCA-V03-2025-phan-loai-xu-ly-to-giac-tin-bao-ve-toi-pham-cua-Cong-an-cap-xa-9D7EC.txt
+2025-05-15 03:05:20,333 - INFO - ✅ Saved txt: download_hinhsu/4_Thong-tu-lien-tich-01-2025-TTLT-VKSNDTC-BCA-TANDTC-BQP-huong-dan-Nghi-quyet-164-2024-QH15-9D786.txt
+2025-05-15 03:05:21,485 - INFO - ✅ Saved txt: download_hinhsu/5_Thong-tu-lien-tich-01-2025-TTLT-KTNN-VKSNDTC-BCA-BQP-xem-xet-vu-viec-co-dau-hieu-toi-pham-hoat-dong-kiem-toan-9C983.txt
+2025-05-15 03:05:21,923 - INFO - ✅ Saved txt: download_hinhsu/6_Thong-tu-lien-tich-01-2025-TTLT-BCA-BQP-BTP-BNN-PTNT-BTC-VKSNDTC-TANDTC-giam-dinh-tu-phap-to-tung-hinh-su-59016.txt
+2025-05-15 03:05:22,497 - INFO - ✅ Saved txt: download_hinhsu/1_Quyet-dinh-690-QD-TTg-2025-xay-dung-du-an-Bo-luat-Hinh-su-sua-doi-9E9B1.txt
+2025-05-15 03:05:22,498 - INFO - ✅ Saved txt: download_hinhsu/7_Cong-dien-139-CD-TTg-2024-tang-cuong-xu-ly-hoat-dong-lua-dao-chiem-doat-tai-san-khong-gian-mang-9B88B.txt
+2025-05-15 03:05:24,239 - INFO - ✅ Saved txt: download_hinhsu/3_Thong-tu-11-2025-TT-BCA-tham-quyen-dieu-tra-hinh-su-trong-Cong-an-nhan-dan-9D743.txt
+2025-05-15 03:05:36,240 - INFO - Processing batch 8 to 16
+2025-05-15 03:05:42,915 - INFO - ✅ Saved txt: download_hinhsu/10_Nghi-quyet-164-2024-QH15-thi-diem-xu-ly-vat-chung-trong-qua-trinh-truy-to-vu-an-hinh-su-9AD09.txt
+2025-05-15 03:05:43,557 - INFO - ✅ Saved txt: download_hinhsu/11_Cong-van-7477-VPCP-NC-2024-so-ket-nam-thu-4-Chi-thi-21-CT-TTg-99D21.txt
+2025-05-15 03:05:43,583 - INFO - ✅ Saved txt: download_hinhsu/8_Nghi-quyet-42-2024-NQ-HDND-ho-tro-kinh-phi-nguoi-truc-tiep-giai-quyet-kien-nghi-khoi-to-Dong-Nai-9BB56.txt
+2025-05-15 03:05:43,842 - INFO - ✅ Saved txt: download_hinhsu/9_Thong-tu-98-2024-TT-BCA-kham-nghiem-hien-truong-trong-to-tung-hinh-su-luc-luong-Cong-an-9C2FA.txt
+2025-05-15 03:05:43,843 - INFO - ✅ Saved txt: download_hinhsu/12_Nghi-dinh-118-2024-ND-CP-quy-dinh-chi-tiet-Luat-Thi-hanh-an-hinh-su-98ED8.txt
+2025-05-15 03:05:44,357 - INFO - ✅ Saved txt: download_hinhsu/13_Chi-thi-05-2024-CT-CA-tang-cuong-cong-tac-thi-hanh-an-hinh-su-trong-Toa-an-97B3F.txt
+2025-05-15 03:05:44,982 - INFO - ✅ Saved txt: download_hinhsu/15_Chi-thi-03-CT-UBND-2024-tang-cuong-chi-dao-cong-tac-thi-hanh-an-hinh-su-tai-cong-dong-Hai-Duong-976A1.txt
+2025-05-15 03:05:45,232 - INFO - ✅ Saved txt: download_hinhsu/14_Quyet-dinh-758-2024-QD-CTN-dac-xa-9757B.txt
+2025-05-15 03:05:57,234 - INFO - Processing batch 16 to 24
+2025-05-15 03:06:17,791 - INFO - ✅ Saved txt: download_hinhsu/16_Quyet-dinh-869-QD-UBND-2024-cong-bo-thu-tuc-hanh-chinh-lien-thong-dang-ky-khai-sinh-Lai-Chau-9611E.txt
+2025-05-15 03:06:18,218 - INFO - ✅ Saved txt: download_hinhsu/17_Nghi-quyet-04-2024-NQ-HDTP-ap-dung-Bo-luat-Hinh-su-truy-cuu-hanh-vi-mua-ban-trai-phep-thuy-san-95EA1.txt
+2025-05-15 03:06:18,390 - INFO - ✅ Saved txt: download_hinhsu/19_Nghi-quyet-02-2024-NQ-HDTP-huong-dan-ap-dung-Dieu-313-cua-Bo-luat-Hinh-su-917FF.txt
+2025-05-15 03:06:18,665 - INFO - ✅ Saved txt: download_hinhsu/18_Nghi-quyet-03-2024-NQ-HDTP-huong-dan-Bo-luat-Hinh-su-thoi-hieu-thi-hanh-ban-an-761AB.txt
+2025-05-15 03:06:19,237 - INFO - ✅ Saved txt: download_hinhsu/20_Thong-tu-10-2024-TT-BCA-tai-hoa-nhap-cong-dong-nguoi-xong-phat-tu-luc-luong-Cong-an-951A4.txt
+2025-05-15 03:06:20,182 - INFO - ✅ Saved txt: download_hinhsu/22_Quyet-dinh-503-QD-UBND-2024-De-an-Phong-chong-toi-pham-trom-cap-tai-san-Tay-Ninh-952B1.txt
+2025-05-15 03:06:20,462 - INFO - ✅ Saved txt: download_hinhsu/23_Quyet-dinh-194-QD-TTg-2024-thuc-hien-cam-ket-phong-chong-rua-tien-tai-tro-khung-bo-926BB.txt
+2025-05-15 03:06:20,702 - INFO - ✅ Saved txt: download_hinhsu/21_Quyet-dinh-170-QD-UBND-2024-Nang-cao-quan-ly-Nha-nuoc-thi-hanh-an-hinh-su-tai-cong-dong-Gia-Lai-931F4.txt
+2025-05-15 03:06:32,703 - INFO - Processing batch 24 to 32
+2025-05-15 03:06:39,624 - INFO - ✅ Saved txt: download_hinhsu/28_Quyet-dinh-2865-QD-UBND-2023-Ke-hoach-thuc-hien-dai-hoa-cong-tac-Ky-thuat-hinh-su-Vinh-Long-918E9.txt
+2025-05-15 03:06:39,758 - INFO - ✅ Saved txt: download_hinhsu/25_Quyet-dinh-299-QD-BYT-2024-Quy-trinh-Giam-dinh-tu-phap-theo-vu-viec-trong-to-tung-hinh-su-92BC4.txt
+2025-05-15 03:06:39,865 - INFO - ✅ Saved txt: download_hinhsu/27_Thong-tu-03-2023-TT-TANDTC-huong-dan-tham-quyen-xet-xu-Toa-an-quan-su-91CC5.txt
+2025-05-15 03:06:40,199 - INFO - ✅ Saved txt: download_hinhsu/26_Quyet-dinh-276-QD-UBND-2024-Quy-che-phoi-hop-thi-hanh-an-hinh-su-tai-hoa-nhap-cong-dong-Quang-Tri-938AF.txt
+2025-05-15 03:06:40,912 - INFO - ✅ Saved txt: download_hinhsu/24_Quyet-dinh-298-QD-BYT-2024-Quy-trinh-dinh-gia-tai-san-theo-vu-viec-trong-to-tung-hinh-su-92BC5.txt
+2025-05-15 03:06:41,207 - INFO - ✅ Saved txt: download_hinhsu/29_Nghi-quyet-209-NQ-CP-2023-ky-Hiep-dinh-hop-tac-phong-chong-toi-pham-Viet-Nam-Trung-Hoa-8FFE0.txt
+2025-05-15 03:06:42,004 - INFO - ✅ Saved txt: download_hinhsu/31_Thong-bao-6964-BNG-LPQT-2024-hieu-luc-cua-Hiep-dinh-chuyen-giao-nguoi-bi-ket-an-phat-tu-9C16B.txt
+2025-05-15 03:06:42,569 - INFO - ✅ Saved txt: download_hinhsu/30_Thong-bao-6965-BNG-LPQT-2024-hieu-luc-Hiep-dinh-dan-do-Cac-Tieu-vuong-quoc-A-rap-thong-nhat-9C064.txt
+2025-05-15 03:06:54,570 - INFO - Processing batch 32 to 40
+2025-05-15 03:07:01,412 - INFO - ✅ Saved txt: download_hinhsu/36_Quyet-dinh-1302-QD-CTN-2023-dam-phan-Hiep-dinh-Tuong-tro-tu-phap-hinh-su-Viet-Nam-Ma-roc-8F682.txt
+2025-05-15 03:07:01,427 - INFO - ✅ Saved txt: download_hinhsu/35_Cong-van-8727-VPCP-NC-2023-Hiep-dinh-tuong-tro-tu-hinh-su-Viet-Nam-Ma-roc-8F62B.txt
+2025-05-15 03:07:01,669 - INFO - ✅ Saved txt: download_hinhsu/33_Huong-dan-21-HD-VKSTC-2023-kiem-sat-thi-hanh-an-phat-tu-pham-nhan-chap-hanh-an-tam-giu-9377E.txt
+2025-05-15 03:07:01,742 - INFO - ✅ Saved txt: download_hinhsu/32_Huong-dan-22-HD-VKSTC-2023-noi-dung-kiem-sat-day-nghe-theo-Nghi-quyet-54-2022-QH15-93781.txt
+2025-05-15 03:07:02,250 - INFO - ✅ Saved txt: download_hinhsu/34_Quyet-dinh-2316-QD-UBND-2023-thuc-hien-Quyet-dinh-tin-dung-nguoi-xong-an-phat-tu-Son-La-8F00E.txt
+2025-05-15 03:07:02,957 - INFO - ✅ Saved txt: download_hinhsu/38_Huong-dan-lien-nganh-16-HDLN-BCA-BQP-TANDTC-VKSNDTC-2023-giai-quyet-kho-khan-thi-hanh-tam-giu-8E769.txt
+2025-05-15 03:07:03,029 - INFO - ✅ Saved txt: download_hinhsu/39_Cong-van-6084-BCT-DKT-2023-huong-dan-ap-dung-Dieu-227-Dieu-238-Bo-luat-Hinh-su-2015-8D2B6.txt
+2025-05-15 03:07:04,794 - INFO - ✅ Saved txt: download_hinhsu/37_Quyet-dinh-1196-QD-TTg-2023-tong-ket-thuc-hien-Cong-uoc-chong-toi-pham-co-to-chuc-xuyen-quoc-gia-8E330.txt
+2025-05-15 03:07:16,795 - INFO - Processing batch 40 to 48
+2025-05-15 03:07:22,869 - INFO - ✅ Saved txt: download_hinhsu/44_Quyet-dinh-1818-QD-UBND-2023-thuc-hien-xac-dinh-tinh-trang-nghien-ma-tuy-Vinh-Phuc-8CD37.txt
+2025-05-15 03:07:23,381 - INFO - ✅ Saved txt: download_hinhsu/40_Cong-van-174-TANDTC-PC-2023-ap-dung-diem-s-khoan-1-Dieu-51-Bo-luat-Hinh-su-8D10D.txt
+2025-05-15 03:07:23,590 - INFO - ✅ Saved txt: download_hinhsu/41_Cong-dien-766-CD-TTg-2023-tang-cuong-giai-phap-phong-ngua-ngan-chan-xu-ly-hoat-dong-tin-dung-den-8CD91.txt
+2025-05-15 03:07:23,819 - INFO - ✅ Saved txt: download_hinhsu/43_Quyet-dinh-22-2023-QD-TTg-tin-dung-doi-voi-nguoi-chap-hanh-xong-an-phat-tu-8CAA3.txt
+2025-05-15 03:07:23,864 - INFO - ✅ Saved txt: download_hinhsu/42_Thong-bao-1410-BNG-LPQT-2025-hieu-luc-Hiep-dinh-chuyen-giao-nguoi-bi-ket-an-phat-tu-9FCDB.txt
+2025-05-15 03:07:24,450 - INFO - ✅ Saved txt: download_hinhsu/45_Chi-thi-14-CT-UBND-2023-cong-tac-truy-na-toi-pham-trong-tinh-hinh-moi-Tien-Giang-8CA5E.txt
+2025-05-15 03:07:24,501 - INFO - ✅ Saved txt: download_hinhsu/46_Chi-thi-09-CT-UBND-2023-dau-tranh-phong-chong-te-nan-co-bac-so-lo-so-de-Lao-Cai-8D87A.txt
+2025-05-15 03:07:24,568 - INFO - ✅ Saved txt: download_hinhsu/47_Chi-thi-16-CT-UBND-2023-tang-cuong-phong-ngua-dau-tranh-toi-pham-danh-bac-Nam-Dinh-8C0BA.txt
+2025-05-15 03:07:36,569 - INFO - Processing batch 48 to 56
+2025-05-15 03:07:43,252 - INFO - ✅ Saved txt: download_hinhsu/48_Cong-van-3041-TCT-CNTT-2023-Thang-hanh-dong-tuyen-truyen-phong-chong-lua-dao-truc-tuyen-8BFF7.txt
+2025-05-15 03:07:43,392 - INFO - ✅ Saved txt: download_hinhsu/51_Quyet-dinh-255-QD-VKSTC-2023-dua-nguoi-nghien-ma-tuy-tu-du-12-den-duoi-18-cai-nghien-bat-buoc-8BED3.txt
+2025-05-15 03:07:43,567 - INFO - ✅ Saved txt: download_hinhsu/50_Quyet-dinh-256-QD-VKSTC-2023-Bieu-mau-kiem-sat-nguoi-nghien-ma-tuy-vao-co-so-cai-nghien-bat-buoc-8BED4.txt
+2025-05-15 03:07:43,895 - INFO - ✅ Saved txt: download_hinhsu/52_Nghi-quyet-18-2023-NQ-HDND-chinh-sach-thuc-hien-cai-nghien-ma-tuy-Quang-Ninh-8DF5E.txt
+2025-05-15 03:07:44,342 - INFO - ✅ Saved txt: download_hinhsu/49_Quyet-dinh-259-Q%C3%90-VKSTC-2023-Quy-che-cong-tac-kiem-sat-viec-tam-giu-tam-giam-thi-hanh-an-hinh-su-8E6EA.txt
+2025-05-15 03:07:44,853 - INFO - ✅ Saved txt: download_hinhsu/55_Chi-thi-16-CT-TTg-2023-tang-cuong-phong-ngua-dau-tranh-toi-pham-to-chuc-danh-bac-va-danh-bac-8A9DA.txt
+2025-05-15 03:07:44,927 - INFO - ✅ Saved txt: download_hinhsu/53_Quyet-dinh-10-2023-QD-UBND-phoi-hop-dau-tranh-phong-chong-buon-lau-gian-lan-thuong-mai-Ha-Noi-8AF1C.txt
+2025-05-15 03:07:45,159 - INFO - ✅ Saved txt: download_hinhsu/54_Cong-van-2160-VKSTC-V14-2023-giai-dap-vuong-mac-lien-quan-Bo-luat-Hinh-su-thi-hanh-tam-giu-8AEF6.txt
+2025-05-15 03:07:57,159 - INFO - Processing batch 56 to 64
+2025-05-15 03:08:03,459 - INFO - ✅ Saved txt: download_hinhsu/56_Thong-tu-lien-tich-03-2023-TTLT-BCA-VKSNDTC-TANDTC-phoi-hop-gui-thong-tin-nguoi-pham-toi-8A47D.txt
+2025-05-15 03:08:03,931 - INFO - ✅ Saved txt: download_hinhsu/57_Cong-van-2969-VPCP-V-I-2023-kien-nghi-sau-giam-sat-thu-hoi-tai-san-bi-chiem-doat-tham-nhung-8EAB2.txt
+2025-05-15 03:08:04,006 - INFO - ✅ Saved txt: download_hinhsu/58_Cong-van-67-TANDTC-PC-2023-tong-ket-thuc-tien-thi-hanh-Bo-luat-Hinh-su-ve-Toi-danh-bac-89B09.txt
+2025-05-15 03:08:04,193 - INFO - ✅ Saved txt: download_hinhsu/59_Quyet-dinh-533-QD-UBND-2023-Ke-hoach-phong-chong-toi-pham-ma-tuy-qua-tuyen-bien-gioi-Son-La-89639.txt
+2025-05-15 03:08:04,207 - INFO - ✅ Saved txt: download_hinhsu/60_Thong-tu-lien-tich-02-2023-TTLT-BCA-VKSNDTC-TANDTC-phoi-hop-dieu-tra-truy-to-xet-xu-toi-rua-tien-897FA.txt
+2025-05-15 03:08:04,791 - INFO - ✅ Saved txt: download_hinhsu/61_Cong-van-1043-BGDDT-GDCTHSSV-2023-thong-bao-tinh-hinh-thu-doan-lua-dao-phu-huynh-hoc-sinh-8921F.txt
+2025-05-15 03:08:05,090 - INFO - ✅ Saved txt: download_hinhsu/62_Chi-thi-04-CT-UBND-2023-phoi-hop-cong-tac-thi-hanh-an-hinh-su-tai-hoa-nhap-cong-dong-Hue-909C1.txt
+2025-05-15 03:08:05,257 - INFO - ✅ Saved txt: download_hinhsu/63_Nghi-dinh-09-2023-ND-CP-huong-dan-Nghi-quyet-54-2022-QH15-day-nghe-cho-pham-nhan-88920.txt
+2025-05-15 03:08:17,258 - INFO - Processing batch 64 to 72
+2025-05-15 03:08:25,041 - INFO - ✅ Saved txt: download_hinhsu/65_Cong-van-525-TCT-PC-2023-xac-dinh-tu-cach-tham-gia-to-tung-hinh-su-8F0ED.txt
+2025-05-15 03:08:25,144 - INFO - ✅ Saved txt: download_hinhsu/68_Quyet-dinh-97-QD-CTN-2023-dam-phan-Hiep-dinh-chuyen-giao-nguoi-bi-ket-an-phat-tu-voi-nuoc-Be-la-rut-87B60.txt
+2025-05-15 03:08:25,513 - INFO - ✅ Saved txt: download_hinhsu/67_Thong-tu-lien-tich-01-2023-TTLT-BCA-BQP-TANDTC-VKSNDTC-phoi-hop-thi-hanh-an-hinh-su-tai-cong-dong-8AB38.txt
+2025-05-15 03:08:25,686 - INFO - ✅ Saved txt: download_hinhsu/64_Cong-van-57-TANDTC-V1-2023-khang-nghi-ban-an-tu-hinh-theo-Dieu-367-Bo-luat-To-tung-hinh-su-87FF4.txt
+2025-05-15 03:08:25,780 - INFO - ✅ Saved txt: download_hinhsu/66_Quyet-dinh-03-2023-QD-UBND-Quy-che-phoi-hop-thi-hanh-an-hinh-su-Hung-Yen-87E02.txt
+2025-05-15 03:08:26,916 - INFO - ✅ Saved txt: download_hinhsu/69_Cong-van-20-VKSTC-V4-2023-ap-dung-tinh-tiet-pham-toi-doi-voi-02-nguoi-tro-len-979CA.txt
+2025-05-15 03:08:27,174 - INFO - ✅ Saved txt: download_hinhsu/71_Huong-dan-02-HD-VKSTC-2023-cong-tac-thuc-hanh-quyen-cong-to-xet-xu-hinh-su-8632A.txt
+2025-05-15 03:08:27,229 - INFO - ✅ Saved txt: download_hinhsu/70_Huong-dan-03-HD-VKSTC-2023-cong-tac-kiem-sat-viec-tam-giu-tam-giam-an-hinh-su-8632B.txt
+2025-05-15 03:08:39,230 - INFO - Processing batch 72 to 80
+2025-05-15 03:08:46,219 - INFO - ✅ Saved txt: download_hinhsu/73_Huong-dan-35-HD-VKSTC-2022-cong-tac-thuc-hanh-quyen-cong-to-truy-to-an-ma-tuy-2023-85FE3.txt
+2025-05-15 03:08:46,456 - INFO - ✅ Saved txt: download_hinhsu/72_Quyet-dinh-1623-QD-TTg-2022-Tang-cuong-phong-chong-toi-pham-da-dang-sinh-hoc-den-2030-85B9B.txt
+2025-05-15 03:08:46,677 - INFO - ✅ Saved txt: download_hinhsu/74_Thong-tu-89-2022-TT-BQP-Noi-quy-co-so-giam-giu-pham-nhan-8526C.txt
+2025-05-15 03:08:46,757 - INFO - ✅ Saved txt: download_hinhsu/76_Chi-thi-12-CT-UBND-2022-phoi-hop-tan-cong-tran-ap-toi-pham-dam-bao-an-ninh-Tet-2023-Binh-Duong-857B6.txt
+2025-05-15 03:08:46,940 - INFO - ✅ Saved txt: download_hinhsu/75_Huong-dan-34-HD-VKSTC-2022-ky-nang-phat-hien-vi-pham-giai-quyet-vu-an-hinh-su-de-khang-nghi-8589F.txt
+2025-05-15 03:08:47,301 - INFO - ✅ Saved txt: download_hinhsu/77_Cong-dien-1123-CD-TTg-2022-tang-cuong-phong-ngua-toi-pham-lien-quan-den-ca-do-bong-da-8419D.txt
+2025-05-15 03:08:47,524 - INFO - ✅ Saved txt: download_hinhsu/78_Cong-van-7908-VPCP-NC-2022-so-ket-nam-thu-2-thuc-hien-Chi-thi-21-CT-TTg-84BE3.txt
+2025-05-15 03:08:50,288 - INFO - ✅ Saved txt: download_hinhsu/79_Thong-bao-3130-BNG-LPQT-2024-hieu-luc-Hiep-dinh-Tuong-tro-tu-phap-hinh-su-9677F.txt
+2025-05-15 03:09:02,289 - INFO - Processing batch 80 to 88
+2025-05-15 03:09:08,739 - INFO - ✅ Saved txt: download_hinhsu/81_Quyet-dinh-1850-QD-UBND-2022-Quy-che-phoi-hop-thi-hanh-an-hinh-su-va-tai-hoa-nhap-Bac-Lieu-83F59.txt
+2025-05-15 03:09:08,739 - INFO - ✅ Saved txt: download_hinhsu/83_Chi-thi-12-CT-UBND-2022-tang-cuong-phong-ngua-toi-pham-tuoi-thanh-thieu-nien-Hung-Yen-85625.txt
+2025-05-15 03:09:08,740 - INFO - ✅ Saved txt: download_hinhsu/82_Quyet-dinh-1178-QD-CTN-2022-Hiep-dinh-chuyen-giao-nguoi-bi-ket-an-phat-tu-Viet-Nam-I-ta-li-a-82E53.txt
+2025-05-15 03:09:08,855 - INFO - ✅ Saved txt: download_hinhsu/80_Chi-thi-9-CT-UBND-2022-mo-dot-cao-diem-tran-ap-toi-pham-bao-dam-trat-tu-tet-Nguyen-dan-Bac-Giang-83ED2.txt
+2025-05-15 03:09:09,537 - INFO - ✅ Saved txt: download_hinhsu/84_Nghi-quyet-03-2022-NQ-HDTP-huong-dan-ap-dung-Dieu-304-305-306-307-308-Bo-luat-Hinh-su-73352.txt
+2025-05-15 03:09:09,963 - INFO - ✅ Saved txt: download_hinhsu/86_Thong-bao-25-2022-TB-LPQT-hieu-luc-Bien-ban-ghi-nho-dan-do-Nguyen-Canh-Anh-Vuong-quoc-Anh-8135D.txt
+2025-05-15 03:09:10,020 - INFO - ✅ Saved txt: download_hinhsu/87_Quyet-dinh-1320-QD-UBND-2022-Quy-che-phoi-hop-trong-cong-tac-thi-hanh-an-hinh-su-Dak-Nong-80E64.txt
+2025-05-15 03:09:10,155 - INFO - ✅ Saved txt: download_hinhsu/85_Van-ban-hop-nhat-02-VBHN-TANDTC-2022-Nghi-quyet-huong-dan-ap-dung-Dieu-65-Bo-luat-Hinh-su-81149.txt
+2025-05-15 03:09:22,156 - INFO - Processing batch 88 to 96
+2025-05-15 03:09:28,767 - INFO - ✅ Saved txt: download_hinhsu/91_Chi-thi-10-CT-UBND-2022-tang-cuong-chi-dao-thi-hanh-an-hinh-su-tai-cong-dong-Quang-Nam-8002E.txt
+2025-05-15 03:09:29,030 - INFO - ✅ Saved txt: download_hinhsu/89_Huong-dan-14-HDLN-BCA-VKSNDTC-2022-tiep-nhan-to-giac-toi-pham-mang-chiem-doat-tai-san-7FFCB.txt
+2025-05-15 03:09:29,178 - INFO - ✅ Saved txt: download_hinhsu/90_Thong-bao-14-2023-TB-LPQT-hieu-luc-Thoa-thuan-phong-chong-toi-pham-xuyen-quoc-gia-Ac-hen-ti-na-8CB06.txt
+2025-05-15 03:09:29,427 - INFO - ✅ Saved txt: download_hinhsu/92_Nghi-quyet-54-2022-QH15-thi-diem-mo-hinh-hoat-dong-lao-dong-pham-nhan-ngoai-trai-giam-7ECC2.txt
+2025-05-15 03:09:29,681 - INFO - ✅ Saved txt: download_hinhsu/88_Chi-thi-10-CT-UBND-2022-nang-cao-chat-luong-thi-hanh-an-hinh-su-tai-cong-dong-Lao-Cai-80257.txt
+2025-05-15 03:09:30,001 - INFO - ✅ Saved txt: download_hinhsu/93_Cong-van-2163-BTTTT-VP-2022-giai-phap-kiem-tra-cac-dich-vu-cho-vay-nang-lai-truc-tuyen-7E384.txt
+2025-05-15 03:09:30,273 - INFO - ✅ Saved txt: download_hinhsu/94_Quyet-dinh-774-QD-UBND-2022-Chuong-trinh-phong-chong-toi-pham-nganh-giao-duc-Bac-Kan-7DDF9.txt
+2025-05-15 03:09:30,291 - INFO - ✅ Saved txt: download_hinhsu/95_Cong-van-69-TANDTC-HTQT-2022-tong-ket-tap-huan-nghiep-vu-tuong-tro-tu-phap-nuoc-ngoai-7D187.txt
+2025-05-15 03:09:42,292 - INFO - Processing batch 96 to 104
+2025-05-15 03:09:49,353 - INFO - ✅ Saved txt: download_hinhsu/97_Nghi-quyet-01-2022-NQ-HDTP-sua-doi-Nghi-quyet-02-2018-NQ-HDTP-huong-dan-an-treo-7D2C6.txt
+2025-05-15 03:09:49,607 - INFO - ✅ Saved txt: download_hinhsu/99_Lenh-cong-bo-Phap-lenh-dua-nguoi-nghien-ma-tuy-tu-du-12-den-duoi-18-tuoi-vao-cai-nghien-bat-buoc-7C61A.txt
+2025-05-15 03:09:49,639 - INFO - ✅ Saved txt: download_hinhsu/96_Cong-dien-365-CD-TTg-2022-cong-tac-xac-dinh-tinh-trang-nghien-ma-tuy-va-cai-nghien-ma-tuy-7CBE7.txt
+2025-05-15 03:09:49,913 - INFO - ✅ Saved txt: download_hinhsu/100_Phap-lenh-01-2022-UBTVQH15-dua-nguoi-nghien-ma-tuy-vao-co-so-cai-nghien-bat-buoc-7C10E.txt
+2025-05-15 03:09:50,510 - INFO - ✅ Saved txt: download_hinhsu/98_Huong-dan-23-HD-VKSTC-2022-kiem-sat-viec-hoan-tam-dinh-chi-chap-hanh-an-phat-tu-7C86E.txt
+2025-05-15 03:09:50,846 - INFO - ✅ Saved txt: download_hinhsu/103_Van-ban-hop-nhat-03-VBHN-BCA-2022-Nghi-dinh-huong-dan-Luat-Thi-hanh-tam-giu-tam-giam-843F8.txt
+2025-05-15 03:09:50,921 - INFO - ✅ Saved txt: download_hinhsu/102_Quyet-dinh-116-QD-BXD-2022-Ke-hoach-thuc-hien-cong-tac-phong-chong-toi-pham-7C205.txt
+2025-05-15 03:09:51,147 - INFO - ✅ Saved txt: download_hinhsu/101_Quyet-dinh-579-QD-UBND-2022-phong-ngua-toi-pham-hoat-dong-van-hoa-du-lich-Tra-Vinh-7D317.txt
+2025-05-15 03:10:03,148 - INFO - Processing batch 104 to 112
+2025-05-15 03:10:09,549 - INFO - ✅ Saved txt: download_hinhsu/106_Cong-van-113-UBTVQH15-CTDB-2022-thuc-hien-Dieu-100-Luat-To-chuc-chinh-quyen-dia-phuong-7E34B.txt
+2025-05-15 03:10:10,081 - INFO - ✅ Saved txt: download_hinhsu/108_Huong-dan-04-HD-VKSTC-2022-cong-tac-thuc-hanh-quyen-cong-to-xet-xu-so-tham-an-ma-tuy-7A035.txt
+2025-05-15 03:10:10,604 - INFO - ✅ Saved txt: download_hinhsu/104_Van-ban-hop-nhat-02-VBHN-BCA-2022-Thong-tu-thu-tuc-tiep-nhan-phan-loai-tin-bao-toi-pham-843F7.txt
+2025-05-15 03:10:10,869 - INFO - ✅ Saved txt: download_hinhsu/105_Thong-tu-lien-tich-01-2022-TTLT-VKSNDTC-TANDTC-BCA-BQP-BLDTBXH-xam-hai-tinh-duc-nguoi-duoi-18-tuoi-7B31C.txt
+2025-05-15 03:10:10,940 - INFO - ✅ Saved txt: download_hinhsu/107_Quyet-dinh-05-QD-VKSTC-2022-quy-trinh-kiem-sat-xet-giam-thoi-han-chap-hanh-an-phat-tu-7A5F6.txt
+2025-05-15 03:10:11,074 - INFO - ✅ Saved txt: download_hinhsu/109_Huong-dan-07-HD-VKSTC-2022-kiem-sat-viec-tam-giu-tam-giam-va-thi-hanh-an-hinh-su-7A1FA.txt
+2025-05-15 03:10:11,405 - INFO - ✅ Saved txt: download_hinhsu/110_Thong-tu-129-2021-TT-BCA-sua-doi-Thong-tu-28-2020-TT-BCA-giai-quyet-tin-bao-toi-pham-7B7CC.txt
+2025-05-15 03:10:11,542 - INFO - ✅ Saved txt: download_hinhsu/111_Cong-van-485-TANDTC-PC-2021-tinh-tiet-gay-anh-huong-xau-den-an-ninh-trat-tu-an-toan-xa-hoi-7E1D6.txt
+2025-05-15 03:10:23,543 - INFO - Processing batch 112 to 120
+2025-05-15 03:10:30,226 - INFO - ✅ Saved txt: download_hinhsu/115_Nghi-dinh-113-2021-ND-CP-sua-doi-Nghi-dinh-120-2017-ND-CP-7973C.txt
+2025-05-15 03:10:30,365 - INFO - ✅ Saved txt: download_hinhsu/113_Cong-van-4960-BTP-VP-2021-sua-doi-bo-sung-Bo-luat-Hinh-su-7E1E5.txt
+2025-05-15 03:10:31,130 - INFO - ✅ Saved txt: download_hinhsu/114_Nghi-quyet-01-2021-NQ-HDTP-huong-dan-ap-dung-Dieu-201-cua-Bo-luat-Hinh-su-73350.txt
+2025-05-15 03:10:31,228 - INFO - ✅ Saved txt: download_hinhsu/112_Van-ban-hop-nhat-20-VBHN-BCA-2021-Thong-tu-lien-tich-phoi-hop-tiep-nhan-tin-bao-ve-toi-pham-7ADE0.txt
+2025-05-15 03:10:32,228 - INFO - ✅ Saved txt: download_hinhsu/117_Nghi-quyet-18-2021-NQ-HDND-bai-bo-Nghi-quyet-93-2015-NQ-HDND-Binh-Thuan-7AC76.txt
+2025-05-15 03:10:32,987 - INFO - ✅ Saved txt: download_hinhsu/119_Van-ban-hop-nhat-06-VBHN-VPQH-2021-Luat-To-chuc-co-quan-dieu-tra-hinh-su-80347.txt
+2025-05-15 03:10:33,363 - INFO - ✅ Saved txt: download_hinhsu/116_Cong-van-4571-BCA-V01-2021-nang-muc-phat-doi-voi-toi-chong-nguoi-thi-hanh-cong-vu-7E105.txt
+2025-05-15 03:10:34,760 - INFO - ✅ Saved txt: download_hinhsu/118_Thong-tu-119-2021-TT-BCA-bieu-mau-giay-to-so-sach-ve-dieu-tra-hinh-su-7986B.txt
+2025-05-15 03:10:46,761 - INFO - Processing batch 120 to 128
+2025-05-15 03:10:52,654 - INFO - ✅ Saved txt: download_hinhsu/121_Thong-tu-lien-tich-01-2021-TTLT-VKSNDTC-BCA-BQP-BNN-PTNT-BTC-huong-dan-Bo-luat-To-tung-hinh-su-792E4.txt
+2025-05-15 03:10:52,926 - INFO - ✅ Saved txt: download_hinhsu/123_Chi-thi-08-CT-VKSTC-2021-giai-quyet-yeu-cau-boi-thuong-Nha-nuoc-trong-to-tung-hinh-su-79414.txt
+2025-05-15 03:10:53,229 - INFO - ✅ Saved txt: download_hinhsu/124_Nghi-quyet-08-2021-NQ-UBTVQH15-giai-thich-Khoan-1-Dieu-289-Bo-luat-Hinh-su-791A1.txt
+2025-05-15 03:10:53,314 - INFO - ✅ Saved txt: download_hinhsu/120_Thong-tu-lien-tich-01-2021-TTLT-BCA-BQP-BTC-BNN-PTNT-VKSNDTC-tiep-nhan-tin-bao-toi-pham-79344.txt
+2025-05-15 03:10:54,420 - INFO - ✅ Saved txt: download_hinhsu/125_Thong-bao-24-2022-TB-LPQT-hieu-luc-Hiep-dinh-tuong-tro-tu-phap-hinh-su-voi-Nhat-Ban-8133D.txt
+2025-05-15 03:10:54,774 - INFO - ✅ Saved txt: download_hinhsu/127_Chi-thi-10-CT-UBND-2021-tang-cuong-thi-hanh-an-dan-su-Da-Nang-7B515.txt
+2025-05-15 03:10:54,847 - INFO - ✅ Saved txt: download_hinhsu/122_Quyet-dinh-43-2021-QD-UBND-phong-chong-toi-pham-trong-linh-vuc-thong-tin-Binh-Phuoc-7A624.txt
+2025-05-15 03:10:55,085 - INFO - ✅ Saved txt: download_hinhsu/126_Quyet-dinh-4145-QD-UBND-2021-phoi-hop-trong-cong-tac-thi-hanh-an-hinh-su-Quang-Ninh-79523.txt
+2025-05-15 03:11:07,092 - INFO - Processing batch 128 to 136
+2025-05-15 03:11:13,448 - INFO - ✅ Saved txt: download_hinhsu/128_Quyet-dinh-36-2021-QD-UBND-sua-doi-Quyet-dinh-39-2010-QD-UBND-tinh-Dak-Lak-79453.txt
+2025-05-15 03:11:13,718 - INFO - ✅ Saved txt: download_hinhsu/130_Luat-sua-doi-Bo-Luat-To-tung-hinh-su-2021-77699.txt
+2025-05-15 03:11:13,832 - INFO - ✅ Saved txt: download_hinhsu/129_Lenh-02-2021-L-CTN-cong-bo-Bo-luat-To-tung-hinh-su-bo-sung-2021-7975D.txt
+2025-05-15 03:11:13,918 - INFO - ✅ Saved txt: download_hinhsu/132_Quyet-dinh-4439-QD-UBND-2021-Cong-tac-thu-hoi-tai-san-trong-cong-tac-thi-hanh-an-noi-chung-Ha-Noi-780D5.txt
+2025-05-15 03:11:14,007 - INFO - ✅ Saved txt: download_hinhsu/131_Cong-van-8096-VPCP-NC-2021-so-ket-02-nam-thuc-hien-Chi-thi-12-CT-TTg-78711.txt
+2025-05-15 03:11:14,844 - INFO - ✅ Saved txt: download_hinhsu/134_Cong-van-7153-VPCP-NC-2021-so-ket-01-nam-thuc-hien-Chi-thi-21-CT-TTg-77A4F.txt
+2025-05-15 03:11:14,965 - INFO - ✅ Saved txt: download_hinhsu/133_Thong-tu-lien-tich-03-2021-TTLT-TANDTC-VKSNDTC-BCA-BQP-rut-ngan-thoi-gian-tha-tu-79E09.txt
+2025-05-15 03:11:15,044 - INFO - ✅ Saved txt: download_hinhsu/135_Quyet-dinh-1629-QD-TTg-2021-Chuong-trinh-phong-chong-mai-dam-giai-doan-2021-2025-7782B.txt
+2025-05-15 03:11:27,045 - INFO - Processing batch 136 to 144
+2025-05-15 03:11:33,901 - INFO - ✅ Saved txt: download_hinhsu/138_Quyet-dinh-1452-QD-TTg-2021-phe-duyet-Chuong-trinh-phong-chong-ma-tuy-76CCD.txt
+2025-05-15 03:11:34,369 - INFO - ✅ Saved txt: download_hinhsu/136_Cong-van-156-TANDTC-PC-2021-ra-quyet-dinh-thi-hanh-an-theo-doi-viec-thi-hanh-an-hinh-su-771A5.txt
+2025-05-15 03:11:34,510 - INFO - ✅ Saved txt: download_hinhsu/137_Quyet-dinh-1615-QD-UBND-2021-bao-dam-an-ninh-trat-tu-dau-tranh-phong-chong-toi-pham-Bac-Kan-77978.txt
+2025-05-15 03:11:35,061 - INFO - ✅ Saved txt: download_hinhsu/139_Thong-tu-lien-tich-02-2021-TTLT-TANDTC-VKSNDTC-BCA-BQP-giam-thoi-han-chap-hanh-an-phat-tu-77E24.txt
+2025-05-15 03:11:35,731 - INFO - ✅ Saved txt: download_hinhsu/142_Chi-thi-17-CT-UBND-2021-phoi-hop-thi-hanh-an-hinh-su-va-tai-hoa-nhap-cong-dong-Hai-Phong-76280.txt
+2025-05-15 03:11:35,903 - INFO - ✅ Saved txt: download_hinhsu/141_Quyet-dinh-252-QD-VKSTC-2021-bieu-mau-thong-ke-nguoi-duoi-18-tuoi-pham-toi-nganh-kiem-sat-95679.txt
+2025-05-15 03:11:35,993 - INFO - ✅ Saved txt: download_hinhsu/143_Chi-thi-06-CT-VKSTC-2021-thi-hanh-bien-phap-tu-phap-bat-buoc-chua-benh-trong-dieu-tra-hinh-su-750C3.txt
+2025-05-15 03:11:38,047 - INFO - ✅ Saved txt: download_hinhsu/140_Thong-tu-lien-tich-01-2021-TTLT-TANDTC-VKSNDTC-BCA-BQP-trinh-tu-mien-chap-hanh-an-phat-tu-7802E.txt
+2025-05-15 03:11:50,048 - INFO - Processing batch 144 to 152
+2025-05-15 03:11:56,312 - INFO - ✅ Saved txt: download_hinhsu/146_Chi-thi-04-CT-TW-2021-tang-cuong-su-lanh-dao-cua-Dang-doi-voi-thu-hoi-tai-san-bi-that-thoat-74924.txt
+2025-05-15 03:11:56,571 - INFO - ✅ Saved txt: download_hinhsu/148_Chi-thi-22-CT-BTTTT-2021-tang-cuong-phong-ngua-chong-vi-pham-phap-luat-tren-mang-Internet-741F4.txt
+2025-05-15 03:11:56,791 - INFO - ✅ Saved txt: download_hinhsu/147_Cong-van-1692-UBND-NC-2021-phong-ngua-toi-pham-mua-ban-trao-doi-hoa-lan-dot-bien-Ha-Noi-745A0.txt
+2025-05-15 03:11:56,902 - INFO - ✅ Saved txt: download_hinhsu/144_Huong-dan-26-HD-VKSTC-2021-kiem-sat-thi-hanh-an-thu-hoi-tai-san-trong-vu-an-hinh-su-ve-tham-nhung-747B2.txt
+2025-05-15 03:11:57,424 - INFO - ✅ Saved txt: download_hinhsu/145_Cong-dien-03-CD-BCA-V01-2021-tang-cuong-phong-ngua-dau-tranh-toi-pham-lien-quan-den-co-bac-74753.txt
+2025-05-15 03:11:57,608 - INFO - ✅ Saved txt: download_hinhsu/149_Cong-van-60-TANDTC-TH-2021-so-ket-01-nam-thuc-hien-Chi-thi-21-CT-TTg-73F80.txt
+2025-05-15 03:11:57,892 - INFO - ✅ Saved txt: download_hinhsu/150_Chi-thi-17-CT-UBND-2021-tang-cuong-phong-chong-toi-pham-su-dung-cong-nghe-cao-tinh-Nghe-An-75AAD.txt
+2025-05-15 03:11:57,996 - INFO - ✅ Saved txt: download_hinhsu/151_Cong-van-58-TANDTC-PC-2021-xac-dinh-thoi-han-chap-hanh-hinh-phat-tu-nhung-cho-huong-an-treo-73932.txt
+2025-05-15 03:12:09,997 - INFO - Processing batch 152 to 160
+2025-05-15 03:12:16,210 - INFO - ✅ Saved txt: download_hinhsu/154_Cong-van-1557-VKSTC-V1-2021-huong-dan-nghiep-vu-ap-dung-cac-dieu-347-348-va-349-Bo-luat-Hinh-su-7326E.txt
+2025-05-15 03:12:16,605 - INFO - ✅ Saved txt: download_hinhsu/155_Cong-van-48-TANDTC-PC-2021-tong-ket-thi-hanh-Bo-luat-Hinh-su-ve-toi-pham-ma-tuy-73190.txt
+2025-05-15 03:12:16,918 - INFO - ✅ Saved txt: download_hinhsu/153_Huong-dan-23-HD-VKSTC-2021-kiem-sat-bien-ban-phien-toa-xet-xu-vu-an-hinh-su-7356A.txt
+2025-05-15 03:12:17,220 - INFO - ✅ Saved txt: download_hinhsu/152_Quyet-dinh-1123-QD-UBND-2021-Chuong-trinh-phong-chong-mua-ban-nguoi-Ba-Ria-Vung-Tau-735D4.txt
+2025-05-15 03:12:17,296 - INFO - ✅ Saved txt: download_hinhsu/156_Quyet-dinh-416-QD-BXD-2021-Ke-hoach-thuc-hien-cong-tac-phong-chong-toi-pham-72F38.txt
+2025-05-15 03:12:17,629 - INFO - ✅ Saved txt: download_hinhsu/157_Cong-van-2639-BYT-TTrB-2021-cong-tac-phong-chong-toi-pham-va-vi-pham-phap-luat-72EA4.txt
+2025-05-15 03:12:17,901 - INFO - ✅ Saved txt: download_hinhsu/159_Quyet-dinh-521-QD-UBND-2021-thuc-hien-Chuong-trinh-phong-chong-mua-ban-nguoi-Quang-Ngai-74ABD.txt
+2025-05-15 03:12:18,394 - INFO - ✅ Saved txt: download_hinhsu/158_Lenh-01-2021-L-CTN-cong-bo-Luat-Phong-chong-ma-tuy-7317E.txt
+2025-05-15 03:12:30,395 - INFO - Processing batch 160 to 168
+2025-05-15 03:12:37,228 - INFO - ✅ Saved txt: download_hinhsu/161_Cong-van-30-TANDTC-PC-2021-tong-ket-thuc-tien-thi-hanh-Nghi-quyet-01-2018-NQ-HDTP-72994.txt
+2025-05-15 03:12:37,431 - INFO - ✅ Saved txt: download_hinhsu/163_Chi-thi-06-CT-UBND-2021-phong-ngua-toi-pham-va-vi-pham-phap-luat-lua-tuoi-thanh-nien-Quang-Ngai-74C8C.txt
+2025-05-15 03:12:37,619 - INFO - ✅ Saved txt: download_hinhsu/164_Quyet-dinh-980-QD-UBND-2021-De-an-thuc-hien-Chuong-trinh-thanh-pho-5-khong-Da-Nang-75C8E.txt
+2025-05-15 03:12:38,346 - INFO - ✅ Saved txt: download_hinhsu/160_Quyet-dinh-624-QD-NHNN-2021-Quy-che-hoat-dong-To-giup-viec-chong-rua-tien-doi-voi-Viet-Nam-72F96.txt
+2025-05-15 03:12:38,618 - INFO - ✅ Saved txt: download_hinhsu/162_Luat-Phong-chong-ma-tuy-2021-6CB01.txt
+2025-05-15 03:12:38,725 - INFO - ✅ Saved txt: download_hinhsu/165_Cong-van-989-VKSTC-V1-2021-huong-dan-nghiep-vu-ap-dung-Dieu-304-va-Dieu-305-Bo-luat-Hinh-su-80275.txt
+2025-05-15 03:12:38,975 - INFO - ✅ Saved txt: download_hinhsu/166_Quyet-dinh-928-Q%C3%90-BVHTTDL-2021-Phong-ngua-toi-pham-trong-hoat-dong-van-hoa-723EA.txt
+2025-05-15 03:12:39,058 - INFO - ✅ Saved txt: download_hinhsu/167_Quyet-dinh-526-QD-UBND-2021-thuc-hien-Chuong-trinh-phong-chong-mua-ban-nguoi-Vinh-Long-73546.txt
+2025-05-15 03:12:51,059 - INFO - Processing batch 168 to 176
+2025-05-15 03:12:57,879 - INFO - ✅ Saved txt: download_hinhsu/171_Quyet-dinh-379-QD-BCA-C10-2021-thuc-hien-133-2020-ND-CP-huong-dan-Luat-Thi-hanh-an-hinh-su-71576.txt
+2025-05-15 03:12:58,225 - INFO - ✅ Saved txt: download_hinhsu/172_Huong-dan-13-HD-VKSTC-2021-cong-tac-Thuc-hanh-quyen-cong-to-Kiem-sat-dieu-tra-tham-tra-ma-tuy-70F02.txt
+2025-05-15 03:12:58,286 - INFO - ✅ Saved txt: download_hinhsu/169_Quyet-dinh-1498-QD-BCD-2021-pho-bien-giao-duc-phap-luat-cho-nguoi-dang-chap-hanh-hinh-phat-tu-7256E.txt
+2025-05-15 03:12:58,612 - INFO - ✅ Saved txt: download_hinhsu/170_Cong-van-17-TANDTC-PC-2021-tong-ket-thuc-tien-thi-hanh-ve-cac-toi-xam-pham-quyen-so-huu-tri-tue-7214E.txt
+2025-05-15 03:12:58,659 - INFO - ✅ Saved txt: download_hinhsu/168_Quyet-dinh-473-QD-UBND-2021-thuc-hien-Chuong-trinh-phong-chong-mua-ban-nguoi-tinh-Ca-Mau-7224E.txt
+2025-05-15 03:12:59,524 - INFO - ✅ Saved txt: download_hinhsu/173_Thong-tu-lien-tich-08-2021-TTLT-BQP-BCA-VKSNDTC-bat-tam-giu-va-kiem-sat-viec-bat-tam-giu-71038.txt
+2025-05-15 03:12:59,546 - INFO - ✅ Saved txt: download_hinhsu/175_Cong-van-04-TANDTC-TH-2020-phoi-hop-tang-cuong-bien-phap-phong-ngua-toi-pham-giet-nguoi-711BF.txt
+2025-05-15 03:12:59,658 - INFO - ✅ Saved txt: download_hinhsu/174_Huong-dan-11-HD-VKSTC-2021-cong-tac-thuc-hanh-quyen-cong-to-xet-xu-so-tham-an-trat-tu-xa-hoi-71E37.txt
+2025-05-15 03:13:11,659 - INFO - Processing batch 176 to 184
+2025-05-15 03:13:18,824 - INFO - ✅ Saved txt: download_hinhsu/180_Quyet-dinh-5475-QD-BNN-TCLN-2020-Du-an-Trang-bi-ghi-am-trong-dieu-tra-hinh-su-cua-Kiem-lam-70B88.txt
+2025-05-15 03:13:19,064 - INFO - ✅ Saved txt: download_hinhsu/178_Huong-dan-03-HD-VKSTC-2021-Cong-tac-kiem-sat-viec-tam-giu-tam-giam-va-thi-hanh-an-hinh-su-70BA7.txt
+2025-05-15 03:13:19,129 - INFO - ✅ Saved txt: download_hinhsu/179_Quyet-dinh-17-QD-VKSTC-2021-Bieu-mau-thong-ke-giam-dinh-tu-phap-trong-to-tung-hinh-su-70B2A.txt
+2025-05-15 03:13:19,229 - INFO - ✅ Saved txt: download_hinhsu/177_Huong-dan-02-HD-VKSTC-2021-thong-ke-giam-dinh-tu-phap-trong-to-tung-hinh-su-70B25.txt
+2025-05-15 03:13:19,298 - INFO - ✅ Saved txt: download_hinhsu/176_Cong-van-02-TANDTC-TH-2021-phoi-hop-thuc-hien-cao-diem-tan-cong-tran-ap-toi-pham-711BE.txt
+2025-05-15 03:13:20,076 - INFO - ✅ Saved txt: download_hinhsu/181_Cong-van-646-CP-NC-2020-dinh-chinh-Nghi-dinh-133-2020-ND-CP-huong-dan-Luat-Thi-hanh-an-hinh-su-7096E.txt
+2025-05-15 03:13:20,282 - INFO - ✅ Saved txt: download_hinhsu/183_Chi-thi-14-CT-UBND-2020-dam-bao-an-ninh-trat-tu-Dai-hoi-Dang-toan-quoc-lan-thu-XIII-Binh-Duong-70C05.txt
+2025-05-15 03:13:20,351 - INFO - ✅ Saved txt: download_hinhsu/182_Nghi-quyet-03-2020-NQ-HDTP-ap-dung-quy-dinh-cua-Bo-luat-Hinh-su-ve-toi-pham-tham-nhung-6DB06.txt
+2025-05-15 03:13:32,352 - INFO - Processing batch 184 to 192
+2025-05-15 03:13:39,817 - INFO - ✅ Saved txt: download_hinhsu/187_Cong-van-1676-TTg-NC-2020-tang-cuong-bien-phap-phong-ngua-toi-pham-giet-nguoi-6FF28.txt
+2025-05-15 03:13:39,919 - INFO - ✅ Saved txt: download_hinhsu/185_Nghi-quyet-18-2020-NQ-HDND-ho-tro-nguoi-giai-quyet-nguon-tin-toi-pham-dieu-tra-vu-an-hinh-su-Binh-Duong-705B7.txt
+2025-05-15 03:13:40,013 - INFO - ✅ Saved txt: download_hinhsu/188_Quyet-dinh-1957-QD-TTg-2020-thuc-hien-Cong-uoc-ASEAN-phong-chong-buon-ban-phu-nu-va-tre-em-6FF5A.txt
+2025-05-15 03:13:40,068 - INFO - ✅ Saved txt: download_hinhsu/184_Thong-tu-lien-tich-03-2020-TTLT-BCA-BQP-BTP-NHNNVN-VKSNDTC-TANDTC-huong-dan-toi-khung-bo-70592.txt
+2025-05-15 03:13:41,498 - INFO - ✅ Saved txt: download_hinhsu/189_Thong-tu-lien-tich-14-2020-TTLT-BNNPTNT-BTP-BCA-VKSNDTC-TANDTC-toi-pham-ve-rung-6FE12.txt
+2025-05-15 03:13:41,817 - INFO - ✅ Saved txt: download_hinhsu/190_Cong-van-5086-VKSTC-C2-2020-thuc-hien-thong-ke-nguoi-duoi-18-tuoi-la-bi-hai-trong-vu-an-hinh-su-6F952.txt
+2025-05-15 03:13:42,098 - INFO - ✅ Saved txt: download_hinhsu/191_Huong-dan-32-HD-VKSTC-2020-thong-ke-nguoi-duoi-18-tuoi-la-bi-hai-trong-cac-vu-an-hinh-su-6F953.txt
+2025-05-15 03:13:46,027 - INFO - ✅ Saved txt: download_hinhsu/186_Cong-van-5442-VKSTC-V14-2020-giai-dap-kho-khan-lien-quan-den-quy-dinh-cua-Bo-luat-Hinh-su-74D41.txt
+2025-05-15 03:13:58,028 - INFO - Processing batch 192 to 200
+2025-05-15 03:14:03,943 - INFO - ✅ Saved txt: download_hinhsu/196_Cong-van-4688-VKSTC-V14-2020-giai-dap-vuong-mac-ap-dung-Dieu-201-Bo-luat-hinh-su-2015-6F61D.txt
+2025-05-15 03:14:04,843 - INFO - ✅ Saved txt: download_hinhsu/194_Quyet-dinh-1928-QD-BGTVT-2020-thuc-hien-Ke-hoach-399-KH-BCD389-phong-chong-buon-lau-6F3EB.txt
+2025-05-15 03:14:05,071 - INFO - ✅ Saved txt: download_hinhsu/195_Quyet-dinh-1588-QD-BTC-2020-thuc-hien-Chi-thi-21-CT-TTg-phong-ngua-lua-dao-chiem-doat-tai-san-6F244.txt
+2025-05-15 03:14:05,333 - INFO - ✅ Saved txt: download_hinhsu/193_Thong-tu-02-2020-TTLT-BCA-BQP-BYT-BNG-TANDTC-VKSNDTC-thi-hanh-an-tu-tiem-thuoc-doc-6F882.txt
+2025-05-15 03:14:05,501 - INFO - ✅ Saved txt: download_hinhsu/192_Quyet-dinh-400-QD-VKSTC-2020-thong-ke-nguoi-duoi-18-tuoi-la-bi-hai-trong-cac-vu-an-hinh-su-6F954.txt
+2025-05-15 03:14:05,993 - INFO - ✅ Saved txt: download_hinhsu/197_Chi-thi-11-CT-UBND-2020-tang-cuong-phong-ngua-xu-ly-hoat-dong-lua-dao-chiem-doat-tai-san-Ha-Tinh-6EE60.txt
+2025-05-15 03:14:06,282 - INFO - ✅ Saved txt: download_hinhsu/198_Chi-thi-09-CT-UBND-2020-cong-tac-phong-ngua-hoat-dong-lua-dao-chiem-doat-tai-san-tinh-Bac-Kan-6F5B8.txt
+2025-05-15 03:14:06,316 - INFO - ✅ Saved txt: download_hinhsu/199_Quyet-dinh-7570-QD-BCA-2020-hop-nhat-Ban-phong-chong-toi-pham-va-Ban-chong-buon-lau-6F284.txt
+2025-05-15 03:14:18,317 - INFO - Processing batch 200 to 208
+2025-05-15 03:14:24,507 - INFO - ✅ Saved txt: download_hinhsu/202_Chi-thi-15-CT-UBND-2020-tang-cuong-cong-tac-phong-ngua-xu-ly-hanh-vi-xam-hai-tre-em-Thai-Binh-6E5B6.txt
+2025-05-15 03:14:24,624 - INFO - ✅ Saved txt: download_hinhsu/204_Cong-van-9600-BTC-TCHQ-2020-tieu-huy-thuoc-la-nhap-lau-bi-tich-thu-6EECA.txt
+2025-05-15 03:14:25,098 - INFO - ✅ Saved txt: download_hinhsu/200_Cong-van-136-TANDTC-PC-2020-dinh-chinh-Cong-van-89-TANDTC-PC-6E333.txt
+2025-05-15 03:14:25,305 - INFO - ✅ Saved txt: download_hinhsu/201_Cong-van-121-TANDTC-PC-2020-thong-nhat-thuc-hien-quy-dinh-Bo-luat-Hinh-su-2015-7C06F.txt
+2025-05-15 03:14:25,489 - INFO - ✅ Saved txt: download_hinhsu/203_Quyet-dinh-1400-QD-UBND-2020-cong-tac-phong-chong-toi-pham-va-vi-pham-phap-luat-Phu-Yen-6FBAC.txt
+2025-05-15 03:14:26,025 - INFO - ✅ Saved txt: download_hinhsu/206_Cong-van-3269-VKSTC-V14-2020-huong-dan-ap-dung-phap-luat-hinh-su-toi-danh-bac-8019C.txt
+2025-05-15 03:14:26,137 - INFO - ✅ Saved txt: download_hinhsu/205_Cong-van-109-TANDTC-PC-2020-to-chuc-xet-xu-vu-an-lien-quan-phong-chong-dich-benh-Covid-19-6DAF7.txt
+2025-05-15 03:14:26,330 - INFO - ✅ Saved txt: download_hinhsu/207_Nghi-quyet-05-2020-NQ-HDND-chinh-sach-ho-tro-cong-tac-dau-tranh-voi-toi-pham-ma-tuy-Nghe-An-6F384.txt
+2025-05-15 03:14:38,332 - INFO - Processing batch 208 to 216
+2025-05-15 03:14:44,430 - INFO - ✅ Saved txt: download_hinhsu/211_Quyet-dinh-1126-QD-CTN-2020-ky-Hiep-dinh-tuong-tro-tu-phap-ve-hinh-su-giua-Viet-Nam-va-I-ta-li-a-6DAFB.txt
+2025-05-15 03:14:44,752 - INFO - ✅ Saved txt: download_hinhsu/210_Chi-thi-11-CT-UBND-2020-dau-tranh-chong-toi-pham-giet-nguoi-do-nguyen-nhan-xa-hoi-Hoa-Binh-733BA.txt
+2025-05-15 03:14:45,047 - INFO - ✅ Saved txt: download_hinhsu/212_Cong-van-5654-VPCP-V-I-2020-xu-ly-tieu-huy-thuoc-la-ngoai-nhap-lau-bi-tich-thu-6D39D.txt
+2025-05-15 03:14:45,112 - INFO - ✅ Saved txt: download_hinhsu/208_Cong-van-5867-VPCP-NC-2020-Truy-bat-vu-trom-cap-tai-san-hiep-dam-tinh-Quang-Nam-6D57A.txt
+2025-05-15 03:14:45,885 - INFO - ✅ Saved txt: download_hinhsu/209_Cong-van-3050-VKSTC-V14-2020-giai-dap-ap-dung-phap-luat-hinh-su-92B1C.txt
+2025-05-15 03:14:46,019 - INFO - ✅ Saved txt: download_hinhsu/213_Nghi-quyet-04-2020-NQ-HDND-bai-bo-Nghi-quyet-01-NQ-HDND-tinh-Lao-Cai-6D926.txt
+2025-05-15 03:14:46,556 - INFO - ✅ Saved txt: download_hinhsu/214_Cong-van-2871-VKSTC-V1-2020-tong-hop-kho-khan-ve-tham-quyen-dieu-tra-vu-an-hinh-su-77F10.txt
+2025-05-15 03:14:46,721 - INFO - ✅ Saved txt: download_hinhsu/215_Quyet-dinh-860-QD-BXD-2020-thuc-hien-Chi-thi-21-CT-TTg-xu-ly-lua-dao-chiem-doat-tai-san-6CECC.txt
+2025-05-15 03:14:58,722 - INFO - Processing batch 216 to 224
+2025-05-15 03:15:05,510 - INFO - ✅ Saved txt: download_hinhsu/216_Chi-thi-06-CT-VKSTC-2020-thi-hanh-an-thu-hoi-tai-san-bi-that-thoat-trong-vu-an-hinh-su-ve-tham-nhung-6CE82.txt
+2025-05-15 03:15:05,641 - INFO - ✅ Saved txt: download_hinhsu/220_Quyet-dinh-702-QD-LDTBXH-2020-Ke-hoach-thuc-hien-Chi-thi-21-CT-TTg-6CCCF.txt
+2025-05-15 03:15:05,924 - INFO - ✅ Saved txt: download_hinhsu/217_Cong-van-5192-VPCP-NC-2020-tinh-trang-doi-no-phi-phap-FR-Credit-6CE98.txt
+2025-05-15 03:15:06,016 - INFO - ✅ Saved txt: download_hinhsu/219_Thong-tu-lien-tich-01-2020-TTLT-BCA-BQP-TANDTC-VKSNDTC-trich-xuat-pham-nhan-phuc-vu-dieu-tra-6D100.txt
+2025-05-15 03:15:06,249 - INFO - ✅ Saved txt: download_hinhsu/218_Quyet-dinh-18-2020-QD-UBND-sua-doi-Quy-che-phong-chong-buon-lau-gian-lan-thuong-mai-Bac-Giang-6D365.txt
+2025-05-15 03:15:06,894 - INFO - ✅ Saved txt: download_hinhsu/221_Quyet-dinh-1073-QD-UBND-2020-phong-chong-toi-pham-Vien-kiem-sat-Toa-an-thi-hanh-an-Ca-Mau-6D22A.txt
+2025-05-15 03:15:07,018 - INFO - ✅ Saved txt: download_hinhsu/222_Thong-tu-53-2020-TT-BTC-kinh-phi-giao-duc-nguoi-duoi-18-tuoi-duoc-mien-trach-nhiem-hinh-su-6CB04.txt
+2025-05-15 03:15:07,052 - INFO - ✅ Saved txt: download_hinhsu/223_Quyet-dinh-629-QD-BLDTBXH-2020-thuc-hien-Chuong-trinh-phong-chong-mai-dam-giai-doan-2016-2020-6FB5A.txt
+2025-05-15 03:15:19,053 - INFO - Processing batch 224 to 232
+2025-05-15 03:15:26,243 - INFO - ✅ Saved txt: download_hinhsu/225_Thong-tu-lien-tich-01-2020-TTLT-VKSNDTC-TANDTC-BCA-BQP-BNN-PTNT-BTC-BTP-quan-ly-vu-an-6C82A.txt
+2025-05-15 03:15:26,487 - INFO - ✅ Saved txt: download_hinhsu/228_Nghi-dinh-55-2020-ND-CP-huong-dan-Luat-Thi-hanh-an-hinh-su-thi-hanh-an-phap-nhan-thuong-mai-6C485.txt
+2025-05-15 03:15:26,705 - INFO - ✅ Saved txt: download_hinhsu/227_Chi-thi-21-CT-TTg-2020-tang-cuong-phong-ngua-xu-ly-hoat-dong-lua-dao-chiem-doat-tai-san-6C480.txt
+2025-05-15 03:15:26,817 - INFO - ✅ Saved txt: download_hinhsu/226_Nghi-dinh-59-2020-ND-CP-co-so-du-lieu-ve-thi-hanh-an-hinh-su-6C545.txt
+2025-05-15 03:15:27,343 - INFO - ✅ Saved txt: download_hinhsu/224_Quyet-dinh-623-QD-BLDTBXH-2020-ho-tro-nan-nhan-bi-mua-ban-thuoc-Chuong-trinh-chong-mua-ban-nguoi-6DD76.txt
+2025-05-15 03:15:27,772 - INFO - ✅ Saved txt: download_hinhsu/229_Cong-van-3692-VPCP-V-I-2020-xu-ly-viec-van-chuyen-trai-phep-thuoc-la-qua-bien-gioi-tai-Kien-Giang-6C0F2.txt
+2025-05-15 03:15:27,805 - INFO - ✅ Saved txt: download_hinhsu/230_Cong-van-1712-UBND-TKBT-2020-phong-ngua-toi-pham-phat-sinh-tu-mau-thuan-noi-bo-Ha-Noi-6C176.txt
+2025-05-15 03:15:27,852 - INFO - ✅ Saved txt: download_hinhsu/231_Chi-thi-05-CT-VKSTC-2020-trach-nhiem-cong-to-trong-vu-an-hinh-su-phong-chong-toi-pham-6BB19.txt
+2025-05-15 03:15:39,852 - INFO - Processing batch 232 to 240
+2025-05-15 03:15:46,629 - INFO - ✅ Saved txt: download_hinhsu/232_Nghi-dinh-49-2020-ND-CP-2020-huong-dan-Luat-Thi-hanh-an-hinh-su-tai-hoa-nhap-cong-dong-6B82D.txt
+2025-05-15 03:15:46,999 - INFO - ✅ Saved txt: download_hinhsu/234_Nghi-dinh-43-2020-ND-CP-quy-dinh-thi-hanh-an-tu-hinh-bang-hinh-thuc-tiem-thuoc-doc-6B427.txt
+2025-05-15 03:15:47,283 - INFO - ✅ Saved txt: download_hinhsu/235_Chi-thi-03-CT-VKSTC-2020-quyen-cong-to-trong-xu-ly-toi-pham-lien-quan-den-phong-chong-Covid-19-6B301.txt
+2025-05-15 03:15:47,464 - INFO - ✅ Saved txt: download_hinhsu/236_Cong-van-45-TANDTC-PC-2020-xet-xu-lien-quan-den-phong-chong-dich-benh-Covid-19-6B14A.txt
+2025-05-15 03:15:47,709 - INFO - ✅ Saved txt: download_hinhsu/233_Cong-van-1435-BVHTTDL-VHCS-2020-bao-cao-xu-ly-vi-pham-phong-chong-dich-benh-COVID-19-6B6CE.txt
+2025-05-15 03:15:48,278 - INFO - ✅ Saved txt: download_hinhsu/238_Cong-van-218-TCLN-CTVN-2020-tiep-tuc-tang-cuong-kiem-soat-nuoi-van-chuyen-dong-vat-hoang-da-6B986.txt
+2025-05-15 03:15:48,325 - INFO - ✅ Saved txt: download_hinhsu/237_Thong-tu-28-2020-TT-BCA-trinh-tu-thu-tuc-tiep-nhan-to-giac-ve-toi-pham-cua-luc-luong-Cong-an-6C592.txt
+2025-05-15 03:15:48,482 - INFO - ✅ Saved txt: download_hinhsu/239_Chi-thi-02-CT-UBND-2020-nang-cao-cong-tac-phong-chong-toi-pham-xam-hai-tinh-duc-Quang-Ngai-6C1F1.txt
+2025-05-15 03:16:00,483 - INFO - Processing batch 240 to 248
+2025-05-15 03:16:07,772 - INFO - ✅ Saved txt: download_hinhsu/243_Cong-van-110-TCQLTT-CNV-2020-kiem-tra-kiem-soat-xu-ly-buon-ban-van-chuyen-tang-tru-phao-no-6C4DA.txt
+2025-05-15 03:16:08,046 - INFO - ✅ Saved txt: download_hinhsu/241_Cong-van-661-TCHQ-PC-2020-thuc-hien-Thong-tu-xu-ly-dong-vat-rung-la-tang-vat-vat-chung-6A794.txt
+2025-05-15 03:16:08,412 - INFO - ✅ Saved txt: download_hinhsu/242_Cong-van-617-TCHQ-GSQL-2020-canh-bao-thu-doan-nhap-lau-mat-hang-khi-N2O-6A787.txt
+2025-05-15 03:16:08,657 - INFO - ✅ Saved txt: download_hinhsu/244_Thong-bao-05-2021-TB-LPQT-hieu-luc-Hiep-dinh-tuong-tro-tu-phap-ve-hinh-su-giua-Viet-Nam-Lao-71F9F.txt
+2025-05-15 03:16:09,772 - INFO - ✅ Saved txt: download_hinhsu/245_Huong-dan-09-HD-VKSTC-2020-cong-tac-thuc-hanh-quyen-cong-to-va-kiem-sat-xet-xu-hinh-su-699F6.txt
+2025-05-15 03:16:10,031 - INFO - ✅ Saved txt: download_hinhsu/246_Huong-dan-07-HD-VKSTC-2020-cong-tac-thuc-hanh-quyen-cong-to-Kiem-sat-dieu-tra-xet-xu-an-ma-tuy-69A5F.txt
+2025-05-15 03:16:10,106 - INFO - ✅ Saved txt: download_hinhsu/247_Thong-bao-21-2021-TB-LPQT-hieu-luc-Hiep-dinh-chuyen-giao-nguoi-bi-ket-an-phat-tu-Lao-790DD.txt
+2025-05-15 03:16:10,798 - INFO - ✅ Saved txt: download_hinhsu/240_Thong-tu-14-2020-TT-BCA-quy-dinh-chi-tiet-che-do-gap-nhan-qua-va-lien-lac-cua-pham-nhan-6A34B.txt
+2025-05-15 03:16:22,799 - INFO - Processing batch 248 to 256
+2025-05-15 03:16:29,639 - INFO - ✅ Saved txt: download_hinhsu/249_Chi-thi-19-CT-UBND-2019-thi-hanh-an-hinh-su-tai-xa-phuong-thi-tran-tinh-Quang-Ngai-6C201.txt
+2025-05-15 03:16:29,724 - INFO - ✅ Saved txt: download_hinhsu/251_Nghi-quyet-24-2019-NQ-HDND-bien-phap-nang-cao-cong-tac-phong-chong-mua-ban-nguoi-Nghe-An-6A45F.txt
+2025-05-15 03:16:30,140 - INFO - ✅ Saved txt: download_hinhsu/248_Quyet-dinh-4939-QD-UBND-2019-kiem-soat-hoat-dong-hop-phap-lien-quan-den-ma-tuy-Quang-Binh-6BFCE.txt
+2025-05-15 03:16:30,588 - INFO - ✅ Saved txt: download_hinhsu/252_Chi-thi-17-CT-UBND-2019-tan-cong-tran-ap-toi-pham-dip-Tet-Nguyen-dan-Canh-Ty-tinh-Dak-Lak-699A0.txt
+2025-05-15 03:16:31,138 - INFO - ✅ Saved txt: download_hinhsu/250_Chi-thi-07-CT-UBND-2019-phong-ngua-dau-tranh-hanh-vi-vi-pham-vu-khi-vat-lieu-no-tinh-Ca-Mau-6A958.txt
+2025-05-15 03:16:31,412 - INFO - ✅ Saved txt: download_hinhsu/254_Thong-bao-09-2021-TB-LPQT-hieu-luc-Hiep-dinh-ve-chuyen-giao-nguoi-bi-ket-an-phat-tu-Mo-dam-bich-743F1.txt
+2025-05-15 03:16:31,855 - INFO - ✅ Saved txt: download_hinhsu/255_Thong-bao-10-2021-TB-LPQT-hieu-luc-Hiep-dinh-ve-dan-do-giua-Viet-Nam-va-Mo-dam-bich-743F2.txt
+2025-05-15 03:16:31,967 - INFO - ✅ Saved txt: download_hinhsu/253_Chi-thi-21-CT-UBND-2019-tang-cuong-bien-phap-phong-chong-toi-pham-giet-nguoi-tinh-Thai-Binh-6B9DC.txt
+2025-05-15 03:16:43,968 - INFO - Processing batch 256 to 264
+2025-05-15 03:16:50,712 - INFO - ✅ Saved txt: download_hinhsu/257_Thong-tu-65-2019-TT-BCA-thi-hanh-an-hinh-su-tai-cong-dong-6AB27.txt
+2025-05-15 03:16:50,787 - INFO - ✅ Saved txt: download_hinhsu/258_Chi-thi-02-CT-NHNN-2019-tang-cuong-quan-ly-rui-ro-rua-tien-tai-tro-khung-bo-linh-vuc-ngan-hang-6A1D6.txt
+2025-05-15 03:16:50,907 - INFO - ✅ Saved txt: download_hinhsu/259_Nghi-quyet-06-2019-NQ-HDTP-huong-dan-Bo-luat-Hinh-su-xet-xu-vu-an-xam-hai-tinh-duc-nguoi-duoi-18-tuoi-6542C.txt
+2025-05-15 03:16:51,069 - INFO - ✅ Saved txt: download_hinhsu/260_Cong-van-233-TANDTC-PC-2019-trao-doi-nghiep-vu-7108B.txt
+2025-05-15 03:16:51,796 - INFO - ✅ Saved txt: download_hinhsu/256_Cong-van-5887-VKSTC-V14-2019-giai-dap-kho-khan-vuong-mac-lien-quan-den-quy-dinh-Bo-luat-Hinh-su-6C6BA.txt
+2025-05-15 03:16:52,490 - INFO - ✅ Saved txt: download_hinhsu/262_Cong-van-3221-VKSTC-V14-2019-ap-dung-quy-dinh-tai-khoan-6-Dieu-353-Bo-luat-hinh-su-nam-2015-6B418.txt
+2025-05-15 03:16:52,738 - INFO - ✅ Saved txt: download_hinhsu/263_Thong-bao-14-2021-TB-LPQT-hieu-luc-Hiep-dinh-ve-dan-do-giua-Viet-Nam-Mong-Co-743F3.txt
+2025-05-15 03:16:53,081 - INFO - ✅ Saved txt: download_hinhsu/261_Cong-van-3544-VKSTC-V14-2019-tra-loi-thinh-thi-vuong-mac-trong-viec-ap-dung-phap-luat-hinh-su-6B419.txt
+2025-05-15 03:17:05,082 - INFO - Processing batch 264 to 272
+2025-05-15 03:17:11,566 - INFO - ✅ Saved txt: download_hinhsu/268_Cong-van-68-TANDTC-PC-2019-xet-xu-toi-pham-xam-hai-tinh-duc-va-bao-hanh-tre-em-6457C.txt
+2025-05-15 03:17:12,031 - INFO - ✅ Saved txt: download_hinhsu/266_Nghi-quyet-03-2019-NQ-HDTP-huong-dan-ap-dung-Dieu-324-cua-Bo-luat-Hinh-su-ve-toi-rua-tien-60383.txt
+2025-05-15 03:17:12,152 - INFO - ✅ Saved txt: download_hinhsu/265_Chi-thi-06-CT-VKSTC-2019-doi-moi-nang-cao-chat-luong-hieu-qua-cong-tac-kiem-sat-viec-tam-giu-65F41.txt
+2025-05-15 03:17:12,446 - INFO - ✅ Saved txt: download_hinhsu/267_Cong-van-1109-LS-QHLS-2019-phoi-hop-xu-ly-vu-viec-nguoi-nuoc-ngoai-tai-dia-phuong-7BB91.txt
+2025-05-15 03:17:12,486 - INFO - ✅ Saved txt: download_hinhsu/264_Lenh-cong-bo-Luat-Thi-hanh-an-hinh-su-2019-6681F.txt
+2025-05-15 03:17:13,152 - INFO - ✅ Saved txt: download_hinhsu/269_Cong-van-2538-VPCP-V-I-2019-xu-ly-vu-viec-van-chuyen-trai-phep-nga-voi-tu-nuoc-ngoai-vao-Viet-Nam-6437D.txt
+2025-05-15 03:17:13,234 - INFO - ✅ Saved txt: download_hinhsu/270_Nghi-quyet-02-2019-NQ-HDTP-huong-dan-ap-dung-quy-dinh-Bo-luat-Hinh-su-ve-toi-mua-ban-nguoi-5F673.txt
+2025-05-15 03:17:13,246 - INFO - ✅ Saved txt: download_hinhsu/271_Cong-van-276-TANDTC-PC-2018-thi-hanh-an-nguoi-bi-ket-an-phat-tu-huong-an-treo-truoc-01-01-2018-626D5.txt
+2025-05-15 03:17:25,247 - INFO - Processing batch 272 to 280
+2025-05-15 03:17:31,812 - INFO - ✅ Saved txt: download_hinhsu/275_Cong-van-254-TANDTC-PC-2018-nguoi-da-yeu-cau-khoi-to-vu-an-hinh-su-rut-yeu-cau-61D46.txt
+2025-05-15 03:17:32,004 - INFO - ✅ Saved txt: download_hinhsu/276_Cong-van-11363-VPCP-NC-2018-thong-tin-phan-anh-bao-chi-ve-hanh-vi-lua-dao-chiem-doat-tai-san-61CF9.txt
+2025-05-15 03:17:32,146 - INFO - ✅ Saved txt: download_hinhsu/273_Cong-van-11842-VPCP-NC-2018-dieu-tra-xu-ly-vu-viec-nhan-tin-de-doa-phong-vien-62179.txt
+2025-05-15 03:17:32,463 - INFO - ✅ Saved txt: download_hinhsu/272_Thong-tu-lien-tich-06-2018-TTLT-VKSNDTC-TANDTC-BCA-BTP-BLDTBXH-ve-thu-tuc-to-tung-hinh-su-62860.txt
+2025-05-15 03:17:32,682 - INFO - ✅ Saved txt: download_hinhsu/274_Huong-dan-33-HD-VKSTC-2018-cong-tac-quan-ly-danh-gia-dinh-chi-dieu-tra-do-khong-pham-toi-7A0F8.txt
+2025-05-15 03:17:33,514 - INFO - ✅ Saved txt: download_hinhsu/278_Nghi-quyet-05-2018-NQ-HDTP-huong-dan-ap-dung-toi-vi-pham-quy-dinh-bao-ve-dong-vat-hoang-da-5F90D.txt
+2025-05-15 03:17:33,726 - INFO - ✅ Saved txt: download_hinhsu/277_Thong-tu-lien-tich-05-2018-TTLT-VKSNDTC-TANDTC-BCA-BQP-thuc-hien-thong-ke-hinh-su-61EDF.txt
+2025-05-15 03:17:33,771 - INFO - ✅ Saved txt: download_hinhsu/279_Thong-tu-lien-tich-04-2018-TTLT-VKSNDTC-BCA-BQP-thuc-hien-quy-dinh-cua-Bo-luat-to-tung-hinh-su-622F6.txt
+2025-05-15 03:17:45,772 - INFO - Processing batch 280 to 288
+2025-05-15 03:17:52,411 - INFO - ✅ Saved txt: download_hinhsu/284_Cong-van-196-TANDTC-PC-2018-ap-dung-diem-c-khoan-2-Dieu-321-Dieu-322-cua-Bo-luat-Hinh-su-5FF20.txt
+2025-05-15 03:17:52,718 - INFO - ✅ Saved txt: download_hinhsu/282_Thong-tu-02-2018-TT-TANDTC-huong-dan-xet-xu-vu-an-hinh-su-co-nguoi-duoi-18-tuoi-5DC2A.txt
+2025-05-15 03:17:52,827 - INFO - ✅ Saved txt: download_hinhsu/280_Thong-tu-lien-tich-03-2018-TTLT-VKSNDTC-BCA-BQP-TTCP-phoi-hop-trao-doi-thong-tin-ve-toi-pham-622F5.txt
+2025-05-15 03:17:53,335 - INFO - ✅ Saved txt: download_hinhsu/283_Thong-tu-lien-tich-02-2018-TTLT-VKSTC-TATC-BCA-BQP-BTC-BNN-PTNT-giai-quyet-khieu-nai-to-cao-60461.txt
+2025-05-15 03:17:54,427 - INFO - ✅ Saved txt: download_hinhsu/285_Quyet-dinh-1844-QD-UBND-2018-to-chuc-hoat-dong-Hoi-dong-dinh-gia-tai-san-to-tung-hinh-su-Hue-60F8A.txt
+2025-05-15 03:17:54,879 - INFO - ✅ Saved txt: download_hinhsu/287_Cong-van-170-TANDTC-PC-2018-thuc-hien-Bo-luat-Hinh-su-ve-tha-tu-truoc-thoi-han-co-dieu-kien-5F0FF.txt
+2025-05-15 03:17:54,911 - INFO - ✅ Saved txt: download_hinhsu/286_Thong-tu-27-2018-TT-BCA-quy-dinh-Thu-truong-Pho-Thu-truong-Co-quan-quan-ly-thi-hanh-an-hinh-su-6CC34.txt
+2025-05-15 03:17:56,918 - INFO - ✅ Saved txt: download_hinhsu/281_Thong-bao-13-2021-TB-LPQT-hieu-luc-Hiep-dinh-ve-chuyen-giao-nguoi-bi-ket-an-phat-tu-Mong-Co-74466.txt
+2025-05-15 03:18:08,919 - INFO - Processing batch 288 to 296
+2025-05-15 03:18:15,009 - INFO - ✅ Saved txt: download_hinhsu/292_Chi-thi-05-CT-VKSTC-2018-tang-cuong-trach-nhiem-Vien-kiem-sat-trong-kiem-sat-viec-tam-giu-tam-giam-5D5E8.txt
+2025-05-15 03:18:15,145 - INFO - ✅ Saved txt: download_hinhsu/288_Cong-van-160-TANDTC-PC-2018-bieu-mau-ve-tha-tu-truoc-thoi-han-co-dieu-kien-5EC2C.txt
+2025-05-15 03:18:15,443 - INFO - ✅ Saved txt: download_hinhsu/291_Cong-van-2000-CSDT-C44-2018-huong-dan-ap-dung-quy-dinh-cua-Bo-luat-To-tung-hinh-su-2015-73AFC.txt
+2025-05-15 03:18:15,815 - INFO - ✅ Saved txt: download_hinhsu/290_Quyet-dinh-304-QD-VKSTC-2018-giai-quyet-yeu-cau-boi-thuong-cua-Nha-nuoc-trong-to-tung-hinh-su-5E72C.txt
+2025-05-15 03:18:16,122 - INFO - ✅ Saved txt: download_hinhsu/289_Quyet-dinh-314-QD-VKSTC-2018-Quy-che-phoi-hop-trong-viec-giai-quyet-vu-an-hinh-su-5EA95.txt
+2025-05-15 03:18:16,651 - INFO - ✅ Saved txt: download_hinhsu/294_Quyet-dinh-1052-QD-BTP-2018-to-chuc-Lop-Boi-duong-kien-thuc-chuyen-sau-ve-phap-luat-hinh-su-5D2E1.txt
+2025-05-15 03:18:16,666 - INFO - ✅ Saved txt: download_hinhsu/295_Chi-thi-09-CT-UBND-2018-tang-cuong-chi-dao-thuc-hien-cong-tac-thi-hanh-an-hinh-su-xa-Thanh-Hoa-5EC64.txt
+2025-05-15 03:18:16,711 - INFO - ✅ Saved txt: download_hinhsu/293_Nghi-quyet-02-2018-NQ-HDTP-huong-dan-ap-dung-Dieu-65-cua-Bo-luat-Hinh-su-ve-an-treo-5C656.txt
+2025-05-15 03:18:28,712 - INFO - Processing batch 296 to 304
+2025-05-15 03:18:34,717 - INFO - ✅ Saved txt: download_hinhsu/298_Cong-van-44-TANDTC-PC-2018-quan-triet-thi-hanh-van-ban-quy-pham-phap-luat-moi-duoc-ban-hanh-5C0FE.txt
+2025-05-15 03:18:35,156 - INFO - ✅ Saved txt: download_hinhsu/296_Nghi-quyet-01-2018-NQ-HDTP-huong-dan-Dieu-66-Dieu-106-Bo-Luat-hinh-su-ve-tha-tu-truoc-thoi-han-5C657.txt
+2025-05-15 03:18:35,335 - INFO - ✅ Saved txt: download_hinhsu/297_Thong-bao-55-2018-TB-LPQT-Hiep-dinh-tuong-tro-tu-phap-ve-hinh-su-giua-Viet-Nam-Cu-ba-6358C.txt
+2025-05-15 03:18:35,412 - INFO - ✅ Saved txt: download_hinhsu/300_Thong-tu-23-2018-TT-BQP-su-dung-ho-so-quan-ly-tam-giu-tam-giam-trong-Quan-doi-5BF09.txt
+2025-05-15 03:18:35,826 - INFO - ✅ Saved txt: download_hinhsu/299_Nghi-dinh-37-2018-ND-CP-bien-phap-giao-duc-nguoi-duoi-18-tuoi-pham-toi-5C327.txt
+2025-05-15 03:18:36,597 - INFO - ✅ Saved txt: download_hinhsu/302_Chi-thi-05-CT-UBND-2018-trien-khai-thi-hanh-Bo-luat-Hinh-su-2015-Quang-Ngai-5CAB5.txt
+2025-05-15 03:18:36,858 - INFO - ✅ Saved txt: download_hinhsu/301_Nghi-dinh-30-2018-ND-CP-thanh-lap-Hoi-dong-dinh-gia-tai-san-trong-to-tung-hinh-su-5C066.txt
+2025-05-15 03:18:37,231 - INFO - ✅ Saved txt: download_hinhsu/303_Chi-thi-06-CT-UBND-2018-trien-khai-thi-hanh-Bo-luat-Hinh-su-2015-Hue-5BCBB.txt
+2025-05-15 03:18:49,232 - INFO - Processing batch 304 to 312
+2025-05-15 03:18:55,459 - INFO - ✅ Saved txt: download_hinhsu/305_Chi-thi-07-CT-UBND-2018-trien-khai-thi-hanh-Bo-luat-Hinh-su-2015-Khanh-Hoa-5DD67.txt
+2025-05-15 03:18:55,756 - INFO - ✅ Saved txt: download_hinhsu/307_Thong-tu-lien-tich-01-2018-TTLT-BCA-BQP-TANDTC-VKSNDTC-phoi-hop-thi-hanh-tam-giu-tam-giam-5BCF2.txt
+2025-05-15 03:18:55,909 - INFO - ✅ Saved txt: download_hinhsu/304_Cong-van-1085-TCHQ-DTCBL-2018-bieu-mau-giay-to-so-sach-ve-dieu-tra-hinh-su-5BE7C.txt
+2025-05-15 03:18:56,234 - INFO - ✅ Saved txt: download_hinhsu/308_Chi-thi-02-CT-TTg-2018-trien-khai-thi-hanh-Bo-luat-Hinh-su-5ADDE.txt
+2025-05-15 03:18:56,867 - INFO - ✅ Saved txt: download_hinhsu/306_Nghi-dinh-19-2018-ND-CP-quy-dinh-viec-tinh-tong-khoi-luong-hoac-the-tich-chat-ma-tuy-5B6CA.txt
+2025-05-15 03:18:56,949 - INFO - ✅ Saved txt: download_hinhsu/309_Cong-van-128-VKSTC-V3-2018-xu-ly-hanh-vi-tang-tru-van-chuyen-buon-ban-phao-trong-noi-dia-5B78F.txt
+2025-05-15 03:18:57,160 - INFO - ✅ Saved txt: download_hinhsu/311_Chi-thi-21-CT-UBND-2018-nang-cao-vai-tro-trong-cong-tac-thi-hanh-an-hinh-su-tai-xa-phuong-An-Giang-5ADCA.txt
+2025-05-15 03:18:57,185 - INFO - ✅ Saved txt: download_hinhsu/310_Cong-van-04-TANDTC-PC-2018-ap-dung-Bo-luat-Hinh-su-2015-Nghi-quyet-41-2017-QH14-5AC25.txt
+2025-05-15 03:19:09,186 - INFO - Processing batch 312 to 320
+2025-05-15 03:19:16,264 - INFO - ✅ Saved txt: download_hinhsu/313_Thong-tu-lien-tich-01-2017-TTLT-BCA-BQP-BTC-BNN-PTNT-VKSNDTC-phoi-hop-tiep-nhan-to-giac-toi-pham-59FC7.txt
+2025-05-15 03:19:17,060 - INFO - ✅ Saved txt: download_hinhsu/316_Quyet-dinh-3530-QD-UBND-2017-Ke-hoach-trien-khai-thi-hanh-Bo-luat-Hinh-su-Khanh-Hoa-5A193.txt
+2025-05-15 03:19:17,293 - INFO - ✅ Saved txt: download_hinhsu/312_Huong-dan-02-HD-VKSTC-2018-cong-tac-Thuc-hanh-quyen-cong-to-Kiem-sat-dieu-tra-xet-xu-so-tham-5AC83.txt
+2025-05-15 03:19:17,374 - INFO - ✅ Saved txt: download_hinhsu/315_Chi-thi-10-CT-UBND-2017-mo-dot-cao-diem-tan-cong-tran-ap-truy-na-toi-pham-Bac-Giang-5B077.txt
+2025-05-15 03:19:17,791 - INFO - ✅ Saved txt: download_hinhsu/317_Nghi-dinh-128-2017-ND-CP-quy-dinh-che-do-bao-cao-ve-dieu-tra-hinh-su-59EDD.txt
+2025-05-15 03:19:18,459 - INFO - ✅ Saved txt: download_hinhsu/318_Nghi-dinh-121-2017-ND-CP-xay-dung-quan-ly-su-dung-co-so-du-lieu-thi-hanh-tam-giu-tam-giam-5984D.txt
+2025-05-15 03:19:18,620 - INFO - ✅ Saved txt: download_hinhsu/319_Nghi-dinh-120-2017-ND-CP-huong-dan-Luat-thi-hanh-tam-giu-tam-giam-5982B.txt
+2025-05-15 03:19:19,242 - INFO - ✅ Saved txt: download_hinhsu/314_Quyet-dinh-505-QD-VKSTC-2017-Quy-che-cong-tac-thuc-hanh-quyen-cong-to-5A532.txt
+2025-05-15 03:19:31,242 - INFO - Processing batch 320 to 328
+2025-05-15 03:19:37,470 - INFO - ✅ Saved txt: download_hinhsu/323_Quyet-dinh-2998-QD-UBND-2017-Ke-hoach-trien-khai-thi-hanh-Bo-luat-Hinh-su-Binh-Thuan-5A23F.txt
+2025-05-15 03:19:37,475 - INFO - ✅ Saved txt: download_hinhsu/324_Chi-thi-06-CT-VKSTC-2017-trach-nhiem-Vien-kiem-sat-giai-quyet-vu-an-hinh-su-tam-dinh-chi-5AC85.txt
+2025-05-15 03:19:37,578 - INFO - ✅ Saved txt: download_hinhsu/320_Thong-tu-49-2017-TT-BCA-boi-duong-giam-dinh-tu-phap-linh-vuc-ky-thuat-hinh-su-5569D.txt
+2025-05-15 03:19:37,873 - INFO - ✅ Saved txt: download_hinhsu/322_Quyet-dinh-2776-QD-UBND-2017-Ke-hoach-trien-khai-thi-hanh-Bo-luat-Hinh-su-Hung-Yen-59659.txt
+2025-05-15 03:19:38,053 - INFO - ✅ Saved txt: download_hinhsu/321_Quyet-dinh-1409-QD-UBND-2017-Ke-hoach-trien-khai-thi-hanh-Bo-luat-Hinh-su-Ninh-Binh-59706.txt
+2025-05-15 03:19:38,680 - INFO - ✅ Saved txt: download_hinhsu/326_Thong-tu-34-2017-TT-BCA-nguoi-bi-tam-giu-nguoi-bi-tam-giam-gap-than-nhan-5CA7C.txt
+2025-05-15 03:19:38,741 - INFO - ✅ Saved txt: download_hinhsu/327_Nghi-quyet-05-2017-NQ-HDTP-bieu-mau-van-ban-to-tung-ap-dung-xet-xu-luat-To-tung-hinh-su-4E492.txt
+2025-05-15 03:19:38,821 - INFO - ✅ Saved txt: download_hinhsu/325_Quyet-dinh-1559-QD-BTP-2017-Ke-hoach-trien-khai-thi-hanh-Bo-luat-Hinh-su-58832.txt
+2025-05-15 03:19:50,822 - INFO - Processing batch 328 to 336
+2025-05-15 03:19:57,934 - INFO - ✅ Saved txt: download_hinhsu/329_Cong-van-9353-VPCP-PL-2017-ban-hanh-nghi-dinh-huong-dan-thi-hanh-luat-580D0.txt
+2025-05-15 03:19:58,117 - INFO - ✅ Saved txt: download_hinhsu/330_Quy-che-3461-QCPH-TCCS-BHXH-2017-phoi-hop-giua-Tong-cuc-Canh-sat-va-Bao-hiem-xa-hoi-Viet-Nam-59013.txt
+2025-05-15 03:19:58,331 - INFO - ✅ Saved txt: download_hinhsu/328_Quyet-dinh-1359-QD-TTg-2017-Ke-hoach-trien-khai-thi-hanh-Bo-luat-Hinh-su-5841B.txt
+2025-05-15 03:19:58,395 - INFO - ✅ Saved txt: download_hinhsu/332_Quyet-dinh-151-QD-TANDTC-2017-ke-hoach-trien-khai-thi-hanh-Bo-luat-Hinh-su-41-2017-QH14-577DB.txt
+2025-05-15 03:19:58,600 - INFO - ✅ Saved txt: download_hinhsu/331_Cong-van-3010-VKSTC-V14-2017-huong-dan-41-2017-QH14-ve-thi-hanh-Bo-luat-Hinh-su-nam-2015-579FC.txt
+2025-05-15 03:19:58,964 - INFO - ✅ Saved txt: download_hinhsu/334_Cong-van-1863-BHXH-VP-2017-thong-tin-tuyen-truyen-ve-Bo-Luat-Hinh-su-Ha-Noi-58376.txt
+2025-05-15 03:19:59,115 - INFO - ✅ Saved txt: download_hinhsu/333_Cong-van-256-TANDTC-PC-2017-thi-hanh-khoan-2-Dieu-2-Nghi-quyet-41-2017-QH14-5737C.txt
+2025-05-15 03:19:59,329 - INFO - ✅ Saved txt: download_hinhsu/335_Cong-van-1864-BHXH-VP-2017-thong-tin-tuyen-truyen-ve-Bo-Luat-Hinh-su-Ha-Noi-58377.txt
+2025-05-15 03:20:11,330 - INFO - Processing batch 336 to 344
+2025-05-15 03:20:18,036 - INFO - ✅ Saved txt: download_hinhsu/338_Cong-van-2565-VKSTC-V8-2017-Huong-dan-truc-tiep-kiem-sat-Co-so-giam-giu-thi-hanh-an-hinh-su-56A11.txt
+2025-05-15 03:20:18,185 - INFO - ✅ Saved txt: download_hinhsu/340_Lenh-cong-bo-Luat-sua-doi-Bo-luat-Hinh-su-2017-579E3.txt
+2025-05-15 03:20:18,360 - INFO - ✅ Saved txt: download_hinhsu/336_Cong-van-148-TANDTC-PC-2017-thi-hanh-Bo-luat-Hinh-su-2015-Nghi-quyet-41-2017-QH14-56952.txt
+2025-05-15 03:20:18,432 - INFO - ✅ Saved txt: download_hinhsu/337_Huong-dan-27-HD-VKSTC-2017-thuc-hien-kiem-sat-co-so-giam-giu-co-quan-thi-hanh-an-hinh-su-56A12.txt
+2025-05-15 03:20:18,892 - INFO - ✅ Saved txt: download_hinhsu/341_Cong-van-6443-VPCP-V-I-2017-xu-ly-van-chuyen-trai-phep-nga-voi-5621E.txt
+2025-05-15 03:20:19,836 - INFO - ✅ Saved txt: download_hinhsu/343_Nghi-quyet-41-2017-QH14-thi-hanh-Bo-luat-Hinh-su-100-2015-QH13-duoc-sua-doi-tai-12-2017-QH14-5666C.txt
+2025-05-15 03:20:21,656 - INFO - ✅ Saved txt: download_hinhsu/342_Luat-sua-doi-Bo-luat-Hinh-su-2017-56705.txt
+2025-05-15 03:20:23,645 - INFO - ✅ Saved txt: download_hinhsu/339_Van-ban-hop-nhat-01-VBHN-VPQH-2017-Bo-luat-Hinh-su-58C87.txt
+2025-05-15 03:20:35,646 - INFO - Processing batch 344 to 352
+2025-05-15 03:20:41,990 - INFO - ✅ Saved txt: download_hinhsu/345_Thong-bao-04-2019-TB-LPQT-hieu-luc-Hiep-dinh-ve-hop-tac-phong-chong-toi-pham-giua-Viet-Nam-Sec-63DDD.txt
+2025-05-15 03:20:42,218 - INFO - ✅ Saved txt: download_hinhsu/348_Cong-van-91-TANDTC-PC-xu-ly-hanh-vi-tang-tru-van-chuyen-buon-ban-phao-no-noi-dia-2017-54D78.txt
+2025-05-15 03:20:42,407 - INFO - ✅ Saved txt: download_hinhsu/346_Thong-bao-34-2019-TB-LPQT-hieu-luc-Hiep-dinh-chuyen-giao-nguoi-bi-ke%CC%81t-an-giua-Viet-Nam-Sec-6A884.txt
+2025-05-15 03:20:42,661 - INFO - ✅ Saved txt: download_hinhsu/347_Cong-van-4739-VPCP-V-I-2017-xet-xu-tranh-chap-giua-Ngan-hang-Hang-Hai-Viet-Nam-Cong-ty-Quoc-Han-55296.txt
+2025-05-15 03:20:43,290 - INFO - ✅ Saved txt: download_hinhsu/344_Thong-bao-49-2019-TB-LPQT-hieu-luc-Hiep-dinh-tuong-tro-tu-phap-hinh-su-giua-Viet-Nam-Ca-dac-xtan-6B069.txt
+2025-05-15 03:20:43,959 - INFO - ✅ Saved txt: download_hinhsu/349_Cong-van-3920-VPCP-NN-xu-ly-khai-thac-van-chuyen-go-nghien-tai-Ha-Giang-2017-54A7A.txt
+2025-05-15 03:20:44,282 - INFO - ✅ Saved txt: download_hinhsu/351_Quyet-dinh-199-QD-TTg-Chuong-trinh-thuc-hien-05-KL-TW-phong-chong-toi-pham-trong-tinh-hinh-moi-2017-52E99.txt
+2025-05-15 03:20:44,747 - INFO - ✅ Saved txt: download_hinhsu/350_Quyet-dinh-1212-QD-UBND-2017-phong-chong-toi-pham-giet-nguoi-co-y-gay-thuong-tich-Thanh-Hoa-55212.txt
+2025-05-15 03:20:56,748 - INFO - Processing batch 352 to 360
+2025-05-15 03:21:02,922 - INFO - ✅ Saved txt: download_hinhsu/355_Cong-van-06-TANDTC-PC-xu-ly-hinh-su-hanh-vi-tang-tru-van-chuyen-buon-ban-phao-no-2017-5275F.txt
+2025-05-15 03:21:03,235 - INFO - ✅ Saved txt: download_hinhsu/352_Cong-van-1096-VPCP-V-I-bat-giu-thanh-cong-vu-van-chuyen-45-kg-ma-tuy-30-banh-heroin-tai-Nam-Dinh-2017-52D8A.txt
+2025-05-15 03:21:03,312 - INFO - ✅ Saved txt: download_hinhsu/353_Cong-van-1032-VPCP-V-I-bat-giu-vu-van-chuyen-08-kg-ma-tuy-qua-Cua-khau-san-bay-Tan-Son-Nhat-2017-52C96.txt
+2025-05-15 03:21:03,444 - INFO - ✅ Saved txt: download_hinhsu/356_Quyet-dinh-02-2017-QD-UBND-bai-bo-60-2014-QD-UBND-Phu-Yen-52DF3.txt
+2025-05-15 03:21:03,727 - INFO - ✅ Saved txt: download_hinhsu/354_Cong-van-34-TTLLTPQG-TTrC-2017-huong-dan-thuc-hien-duong-nhien-duoc-xoa-an-tich-58A7C.txt
+2025-05-15 03:21:04,438 - INFO - ✅ Saved txt: download_hinhsu/359_Cong-van-9310-VPCP-V-I-xu-ly-vu-viec-van-chuyen-trai-phep-nga-voi-2016-50100.txt
+2025-05-15 03:21:04,512 - INFO - ✅ Saved txt: download_hinhsu/357_Quyet-dinh-01-2017-QD-UBND-phoi-hop-phong-chong-toi-pham-linh-vuc-thong-tin-truyen-thong-Lam-Dong-523C3.txt
+2025-05-15 03:21:04,512 - INFO - ✅ Saved txt: download_hinhsu/358_Cong-van-327-TANDTC-PC-huong-dan-Toa-an-cac-cap-thuc-hien-cac-quy-dinh-co-loi-cho-nguoi-pham-toi-2016-518E3.txt
+2025-05-15 03:21:16,513 - INFO - Processing batch 360 to 368
+2025-05-15 03:21:23,002 - INFO - ✅ Saved txt: download_hinhsu/361_Chi-thi-06-CT-BCA-C41-cong-tac-phong-chong-toi-pham-trat-tu-xa-hoi-nong-thon-tinh-hinh-hien-nay-2016-50272.txt
+2025-05-15 03:21:23,213 - INFO - ✅ Saved txt: download_hinhsu/363_Cong-van-306-TANDTC-PC-ap-dung-tinh-tiet-bo-tron-de-chiem-doat-tai-san-khi-giai-quyet-vu-an-2016-5187C.txt
+2025-05-15 03:21:23,427 - INFO - ✅ Saved txt: download_hinhsu/360_Cong-van-9033-VPCP-NC-vu-giet-bao-ve-rung-tai-Dak-Nong-2016-4FC54.txt
+2025-05-15 03:21:23,584 - INFO - ✅ Saved txt: download_hinhsu/362_Quyet-dinh-2834-QD-UBND-Chien-luoc-quoc-gia-phong-chong-toi-pham-Thai-Binh-2016-2025-2030-4FC79.txt
+2025-05-15 03:21:23,816 - INFO - ✅ Saved txt: download_hinhsu/364_Cong-van-301-TANDTC-PC-quy-dinh-co-loi-cho-nguoi-pham-toi-Bo-luat-hinh-su-2015-2016-4FB6C.txt
+2025-05-15 03:21:24,758 - INFO - ✅ Saved txt: download_hinhsu/366_Cong-van-8522-VPCP-V-I-xu-ly-vu-viec-van-chuyen-trai-phep-nga-voi-2016-4F685.txt
+2025-05-15 03:21:24,847 - INFO - ✅ Saved txt: download_hinhsu/367_Quyet-dinh-2333-QD-UBND-thuc-hien-111-2015-QH13-phong-chong-vi-pham-phap-luat-Vinh-Long-2016-53DAB.txt
+2025-05-15 03:21:25,020 - INFO - ✅ Saved txt: download_hinhsu/365_Quyet-dinh-2388-QD-UBND-Chien-luoc-phong-chong-toi-pham-Vinh-Long-2016-2025-2030-53DB3.txt
+2025-05-15 03:21:37,021 - INFO - Processing batch 368 to 376
+2025-05-15 03:21:43,411 - INFO - ✅ Saved txt: download_hinhsu/372_Quyet-dinh-44-2016-QD-UBND-bai-bo-35-2011-QD-UBND-phong-chong-toi-pham-linh-vuc-truyen-thong-Long-An-4F088.txt
+2025-05-15 03:21:43,688 - INFO - ✅ Saved txt: download_hinhsu/368_Quyet-dinh-1533-QD-BCD-Ban-Chi-dao-phong-chong-toi-pham-te-nan-xa-hoi-phong-trao-Bac-Giang-2016-4F9A3.txt
+2025-05-15 03:21:43,748 - INFO - ✅ Saved txt: download_hinhsu/369_Quyet-dinh-3068-QD-TCHQ-nhiem-vu-quyen-han-to-chuc-cua-doi-dieu-tra-hinh-su-chong-buon-lau-2016-4ED15.txt
+2025-05-15 03:21:44,328 - INFO - ✅ Saved txt: download_hinhsu/370_Quyet-dinh-1972-QD-BTC-xay-dung-de-an-phong-chong-toi-pham-tai-chinh-chung-khoan-xuat-nhap-khau-2016-4EC1D.txt
+2025-05-15 03:21:45,515 - INFO - ✅ Saved txt: download_hinhsu/375_Quyet-dinh-1763-QD-UBND-2017-thuc-hien-Ke-hoach-11-KH-TU-trien-khai-Chi-thi-50-CT-TW-Tra-Vinh-58A3B.txt
+2025-05-15 03:21:45,537 - INFO - ✅ Saved txt: download_hinhsu/373_Thong-bao-34-2020-TB-LPQT-hieu-luc-Hiep-dinh-tuong-tro-tu-phap-hinh-su-giua-Viet-Nam-Phap-6D1A2.txt
+2025-05-15 03:21:45,621 - INFO - ✅ Saved txt: download_hinhsu/374_Thong-bao-33-2020-TB-LPQT-hieu-luc-cua-Hiep-dinh-dan-do-giua-Viet-Nam-Phap-6D1A1.txt
+2025-05-15 03:21:47,672 - INFO - ✅ Saved txt: download_hinhsu/371_Cong-van-276-TANDTC-PC-huong-dan-ap-dung-quy-dinh-co-loi-nguoi-pham-toi-Bo-luat-hinh-su-2015-2016-4E9A2.txt
+2025-05-15 03:21:59,672 - INFO - Processing batch 376 to 384
+2025-05-15 03:22:06,010 - INFO - ✅ Saved txt: download_hinhsu/376_Quyet-dinh-1902-QD-UBND-quan-ly-su-dung-Quy-phong-chong-toi-pham-Lam-Dong-2016-4E644.txt
+2025-05-15 03:22:06,237 - INFO - ✅ Saved txt: download_hinhsu/379_Cong-van-2955-CSDT-C44-giai-quyet-cac-vu-ve-ma-tuy-2016-4F28E.txt
+2025-05-15 03:22:06,444 - INFO - ✅ Saved txt: download_hinhsu/380_Quyet-dinh-1729-QD-BTP-cong-tac-phong-chong-vi-pham-phap-luat-toi-pham-cong-tac-thi-hanh-an-2016-4E2D4.txt
+2025-05-15 03:22:06,467 - INFO - ✅ Saved txt: download_hinhsu/378_Quyet-dinh-2045-QD-UBND-thuc-hien-Nghi-quyet-cong-tac-phong-chong-vi-pham-phap-luat-Phu-Yen-2016-4E83D.txt
+2025-05-15 03:22:06,573 - INFO - ✅ Saved txt: download_hinhsu/377_Quyet-dinh-1681-QD-TTg-thuc-hien-Nghi-quyet-96-2015-QH13-phong-chong-oan-sai-bao-dam-boi-thuong-2016-4E5AF.txt
+2025-05-15 03:22:07,488 - INFO - ✅ Saved txt: download_hinhsu/381_Cong-van-6721-VPCP-NC-vu-giet-nguoi-dac-biet-nghiem-trong-tai-huyen-Bat-Xat-Lao-Cai-2016-4E0C2.txt
+2025-05-15 03:22:07,523 - INFO - ✅ Saved txt: download_hinhsu/382_Quyet-dinh-5400-QD-UBND-de-an-khong-co-giet-nguoi-de-cuop-tai-san-Da-Nang-2020-2016-4EC37.txt
+2025-05-15 03:22:07,751 - INFO - ✅ Saved txt: download_hinhsu/383_Quyet-dinh-1379-QD-TTg-thuc-hien-cong-tac-phong-chong-vi-pham-phap-luat-toi-pham-thi-hanh-an-2016-4D704.txt
+2025-05-15 03:22:19,752 - INFO - Processing batch 384 to 392
+2025-05-15 03:22:41,540 - INFO - ✅ Saved txt: download_hinhsu/384_Cong-van-5747-VPCP-NC-su-dung-sung-giet-nguoi-dac-biet-nghiem-trong-Ha-Nam-2016-4D678.txt
+2025-05-15 03:22:44,310 - INFO - ✅ Saved txt: download_hinhsu/388_Huong-dan-lien-nganh-1946-HDLN-CT-CA-2016-phong-chong-toi-pham-thue-Nghe-An-7DB4B.txt
+2025-05-15 03:22:46,057 - INFO - ✅ Saved txt: download_hinhsu/386_Lenh-10-2016-L-CTN-cong-bo-Nghi-quyet-144-2016-QH13-lui-hieu-luc-thi-hanh-Bo-luat-hinh-su-to-tung-hinh-su-4D655.txt
+2025-05-15 03:22:47,351 - INFO - ✅ Saved txt: download_hinhsu/387_Quyet-dinh-1951-QD-UBND-thanh-lap-quan-ly-su-dung-quy-phong-chong-toi-pham-Lao-Cai-2016-4EEB6.txt
+2025-05-15 03:22:47,670 - INFO - ✅ Saved txt: download_hinhsu/389_Cong-van-2307-VKSTC-V8-huong-dan-thuc-hien-noi-dung-lien-quan-den-bat-tam-giu-tam-giam-2016-4CF91.txt
+2025-05-15 03:22:47,702 - INFO - ✅ Saved txt: download_hinhsu/390_Quyet-dinh-1643-QD-UBND-chuong-trinh-phong-chong-mua-ban-nguoi-Binh-Thuan-2016-2020-51A50.txt
+2025-05-15 03:22:52,929 - INFO - ✅ Saved txt: download_hinhsu/391_Quyet-dinh-714-QD-UBND-Ke-hoach-trien-khai-thi-hanh-luat-thi-hanh-tam-giu-tam-giam-Ninh-Binh-2016-4CFE4.txt
+2025-05-15 03:22:53,456 - INFO - ✅ Saved txt: download_hinhsu/385_Nghi-quyet-01-2016-NQ-HDTP-huong-dan-ap-dung-quy-dinh-khoan-3-dieu-7-bo-luat-hinh-su-2015-4D4EB.txt
+2025-05-15 03:23:05,457 - INFO - Processing batch 392 to 400
+2025-05-15 03:23:18,047 - INFO - ✅ Saved txt: download_hinhsu/395_Chi-thi-07-CT-UBND-tang-cuong-cong-tac-phat-hien-xu-ly-vu-viec-vu-an-tham-nhung-Phu-Tho-2016-4CD08.txt
+2025-05-15 03:23:18,821 - INFO - ✅ Saved txt: download_hinhsu/392_Quyet-dinh-715-QD-UBND-ke-hoach-trien-khai-thi-hanh-luat-to-chuc-co-quan-dieu-tra-hinh-su-Ninh-Binh-2016-4CFE5.txt
+2025-05-15 03:23:19,586 - INFO - ✅ Saved txt: download_hinhsu/396_Quyet-dinh-1164-QD-UBND-ke-hoach-trien-khai-thi-hanh-Luat-Thi-hanh-tam-giu-tam-giam-Son-La-2016-4CF31.txt
+2025-05-15 03:23:29,122 - INFO - ✅ Saved txt: download_hinhsu/399_Quyet-dinh-638-QD-UBND-ke-hoach-trien-khai-thi-hanh-Luat-thi-hanh-tam-giu-tam-giam-Dien-Bien-2016-4D1E8.txt
+2025-05-15 03:23:29,656 - INFO - ✅ Saved txt: download_hinhsu/397_Quyet-dinh-21-2016-QD-UBND-phoi-hop-tam-thoi-quan-ly-su-dung-Quy-phong-chong-toi-pham-Bac-Ninh-4C1A2.txt
+2025-05-15 03:23:30,092 - INFO - ✅ Saved txt: download_hinhsu/393_Quyet-dinh-1389-QD-UBND-thuc-hien-chien-luoc-quoc-gia-phong-chong-toi-pham-Hoa-Binh-2016-2025-4C6AE.txt
+2025-05-15 03:23:30,240 - INFO - ✅ Saved txt: download_hinhsu/398_Quyet-dinh-640-QD-UBND-ke-hoach-trien-khai-thi-hanh-Bo-luat-To-tung-hinh-su-Dien-Bien-2016-4D1E9.txt
+2025-05-15 03:23:30,455 - INFO - ✅ Saved txt: download_hinhsu/394_Cong-van-1531-C45-P8-2016-huong-dan-dieu-tra-xu-ly-toi-Dieu-250-Bo-luat-hinh-su-56470.txt
+2025-05-15 03:23:42,456 - INFO - Processing batch 400 to 408
+2025-05-15 03:23:49,020 - INFO - ✅ Saved txt: download_hinhsu/401_Quyet-dinh-1080-QD-UBND-thanh-lap-Hoi-dong-dinh-gia-tai-san-trong-to-tung-hinh-su-Ha-Tinh-2016-4C12E.txt
+2025-05-15 03:23:49,338 - INFO - ✅ Saved txt: download_hinhsu/402_Cong-van-1620-VKSTC-V2-2016-vu-an-Chua-chap-tieu-thu-tai-san-sua-doi-Thong-tu-lien-tich-09-2011-56471.txt
+2025-05-15 03:23:49,514 - INFO - ✅ Saved txt: download_hinhsu/403_Quyet-dinh-1239-QD-UBND-trien-khai-thi-hanh-luat-thi-hanh-tam-giu-tam-giam-Dak-Lak-2016-4C4F1.txt
+2025-05-15 03:23:49,580 - INFO - ✅ Saved txt: download_hinhsu/400_Quyet-dinh-1093-QD-UBND-ke-hoach-trien-khai-thi-hanh-luat-to-chuc-co-quan-dieu-tra-hinh-su-Son-La-2016-4EF11.txt
+2025-05-15 03:23:49,649 - INFO - ✅ Saved txt: download_hinhsu/404_Quyet-dinh-1238-QD-UBND-trien-khai-thi-hanh-luat-to-chuc-co-quan-dieu-tra-hinh-su-Dak-Lak-2016-4C4F0.txt
+2025-05-15 03:23:50,630 - INFO - ✅ Saved txt: download_hinhsu/405_Quyet-dinh-1053-QD-UBND-trien-khai-thi-hanh-bo-luat-to-tung-hinh-su-Son-La-2016-4F11E.txt
+2025-05-15 03:23:50,912 - INFO - ✅ Saved txt: download_hinhsu/406_Quyet-dinh-1047-QD-UBND-Ke-hoach-trien-khai-thi-hanh-Bo-Luat-Hinh-su-Tay-Ninh-2016-4FFF8.txt
+2025-05-15 03:23:50,964 - INFO - ✅ Saved txt: download_hinhsu/407_Chi-thi-12-CT-TTg-cong-tac-phat-hien-xu-ly-vu-viec-vu-an-tham-nhung-2016-4BA93.txt
+2025-05-15 03:24:02,965 - INFO - Processing batch 408 to 416
+2025-05-15 03:24:09,769 - INFO - ✅ Saved txt: download_hinhsu/408_Quyet-dinh-677-QD-UBND-Chuong-trinh-phong-chong-mua-ban-nguoi-Quang-Ngai-2016-2020-4BA46.txt
+2025-05-15 03:24:10,028 - INFO - ✅ Saved txt: download_hinhsu/411_Quyet-dinh-653-QD-UBND-Ke-hoach-thi-hanh-Luat-To-chuc-co-quan-dieu-tra-hinh-su-Ca-Mau-2016-4BCB2.txt
+2025-05-15 03:24:11,048 - INFO - ✅ Saved txt: download_hinhsu/410_Quyet-dinh-623-QD-TTg-phe-duyet-Chien-luoc-quoc-gia-phong-chong-toi-pham-2016-2025-2030-4B6B5.txt
+2025-05-15 03:24:11,092 - INFO - ✅ Saved txt: download_hinhsu/412_Quyet-dinh-654-QD-UBND-Ke-hoach-trien-khai-thi-hanh-Bo-luat-To-tung-hinh-su-Ca-Mau-2016-4BC47.txt
+2025-05-15 03:24:11,935 - INFO - ✅ Saved txt: download_hinhsu/413_Cong-van-100-TANDTC-PC-2016-truy-cuu-trach-nhiem-hinh-su-chua-chap-tai-san-do-nguoi-khac-pham-toi-ma-co-8D560.txt
+2025-05-15 03:24:12,326 - INFO - ✅ Saved txt: download_hinhsu/414_Quyet-dinh-1147-QD-UBND-Ke-hoach-trien-khai-thi-hanh-Bo-luat-Hinh-su-Binh-Dinh-2016-4CBAE.txt
+2025-05-15 03:24:12,564 - INFO - ✅ Saved txt: download_hinhsu/415_Cong-van-80-TANDTC-PC-xu-ly-danh-bac-trai-phep-duoi-5000000-dong-2016-4B078.txt
+2025-05-15 03:24:13,140 - INFO - ✅ Saved txt: download_hinhsu/409_Quyet-dinh-659-QD-UBND-trien-khai-thuc-hien-chuong-trinh-phong-chong-mua-ban-nguoi-Ca-Mau-2016-2020-4BC48.txt
+2025-05-15 03:24:25,141 - INFO - Processing batch 416 to 424
+2025-05-15 03:24:31,420 - INFO - ✅ Saved txt: download_hinhsu/416_Quyet-dinh-515-QD-UBND-ke-hoach-trien-khai-thi-hanh-bo-luat-hinh-su-Ca-Mau-2016-4B237.txt
+2025-05-15 03:24:31,551 - INFO - ✅ Saved txt: download_hinhsu/420_Quyet-dinh-370-QD-TTg-trien-khai-thi-hanh-luat-to-chuc-co-quan-dieu-tra-hinh-su-2016-4A779.txt
+2025-05-15 03:24:31,845 - INFO - ✅ Saved txt: download_hinhsu/417_Quyet-dinh-703-QD-UBND-thanh-lap-Hoi-dong-dinh-gia-tai-san-trong-to-tung-hinh-su-Ha-Tinh-2016-4C313.txt
+2025-05-15 03:24:31,879 - INFO - ✅ Saved txt: download_hinhsu/418_Thong-bao-31-2017-TB-LPQT-hieu-luc-Hiep-dinh-tuong-tro-tu-phap-hinh-su-Viet-Nam-Hunggari-571B8.txt
+2025-05-15 03:24:32,033 - INFO - ✅ Saved txt: download_hinhsu/419_Quyet-dinh-753-QD-BNN-PC-ke-hoach-trien-khai-thi-hanh-Bo-luat-Hinh-su-2016-4A9D5.txt
+2025-05-15 03:24:33,119 - INFO - ✅ Saved txt: download_hinhsu/422_Quyet-dinh-371-QD-TTg-thi-hanh-bo-luat-to-tung-hinh-su-2016-4A789.txt
+2025-05-15 03:24:33,119 - INFO - ✅ Saved txt: download_hinhsu/421_Quyet-dinh-372-QD-TTg-thi-hanh-luat-thi-hanh-tam-giu-tam-giam-2016-4A77A.txt
+2025-05-15 03:24:33,136 - INFO - ✅ Saved txt: download_hinhsu/423_Quyet-dinh-206-QD-UBND-quy-che-phoi-hop-kiem-soat-cac-hoat-dong-hop-phap-lien-quan-den-ma-tuy-Son-La-49F93.txt
+2025-05-15 03:24:45,137 - INFO - Processing batch 424 to 432
+2025-05-15 03:24:51,441 - INFO - ✅ Saved txt: download_hinhsu/428_Lenh-cong-bo-Bo-luat-to-tung-hinh-su-2015-49663.txt
+2025-05-15 03:24:51,523 - INFO - ✅ Saved txt: download_hinhsu/427_Cong-van-315-TANDTC-PC-2015-thuc-hien-Thong-tu-lien-tich-huong-dan-toi-pham-ve-ma-tuy-5A69E.txt
+2025-05-15 03:24:51,921 - INFO - ✅ Saved txt: download_hinhsu/426_Quyet-dinh-2546-QD-TTg-chuong-trinh-phong-chong-mua-ban-nguoi-giai-doan-2016-2020-493F4.txt
+2025-05-15 03:24:52,314 - INFO - ✅ Saved txt: download_hinhsu/425_Cong-van-326-TANDTC-PC-thi-hanh-khoan-2-Dieu-1-Nghi-quyet-109-2015-QH13-2015-54A0B.txt
+2025-05-15 03:24:52,384 - INFO - ✅ Saved txt: download_hinhsu/424_Van-ban-hop-nhat-08-VBHN-BCA-Thong-tu-lien-tich-huong-dan-ap-dung-Cac-toi-pham-ve-ma-tuy-497DF.txt
+2025-05-15 03:24:52,669 - INFO - ✅ Saved txt: download_hinhsu/429_Lenh-cong-bo-Nghi-quyet-thi-hanh-Bo-luat-to-tung-hinh-su-2015-49664.txt
+2025-05-15 03:24:53,093 - INFO - ✅ Saved txt: download_hinhsu/430_Chi-thi-so-50-CT-TW-tang-cuong-su-lanh-dao-Dang-cong-tac-phat-hien-xu-ly-vu-viec-vu-an-tham-nhung-2015-4945F.txt
+2025-05-15 03:24:56,194 - INFO - ✅ Saved txt: download_hinhsu/431_Bo-luat-to-tung-hinh-su-2015-487B4.txt
+2025-05-15 03:25:08,195 - INFO - Processing batch 432 to 440
+2025-05-15 03:25:15,273 - INFO - ✅ Saved txt: download_hinhsu/433_Luat-to-chuc-co-quan-dieu-tra-hinh-su-2015-48D8A.txt
+2025-05-15 03:25:15,273 - INFO - ✅ Saved txt: download_hinhsu/435_Chi-thi-04-CT-VKSTC-2015-phong-chong-oan-sai-trach-nhiem-giai-quyet-boi-thuong-thiet-hai-59317.txt
+2025-05-15 03:25:15,795 - INFO - ✅ Saved txt: download_hinhsu/436_Nghi-quyet-96-2015-QH13-phong-chong-oan-sai-bao-dam-boi-thuong-cho-nguoi-bi-thiet-hai-to-tung-hinh-su-45208.txt
+2025-05-15 03:25:17,481 - INFO - ✅ Saved txt: download_hinhsu/437_Thong-bao-50-2017-TB-LPQT-hieu-luc-Hiep-dinh-hop-tac-chong-toi-pham-Viet-Nam-Bun-ga-ri-5B8B8.txt
+2025-05-15 03:25:17,744 - INFO - ✅ Saved txt: download_hinhsu/438_Quyet-dinh-1059-QD-TCHQ-2015-thanh-lap-Nhom-lam-viec-trien-khai-Chuong-trinh-Kiem-soat-Cong-ten-no-422C7.txt
+2025-05-15 03:25:18,274 - INFO - ✅ Saved txt: download_hinhsu/434_Thong-tu-lien-tich-27-2015-TTLT-BCT-BCA-VKSNDTC-TANDTC-huong-dan-chuyen-ho-so-vu-trom-cap-dien-46342.txt
+2025-05-15 03:25:18,678 - INFO - ✅ Saved txt: download_hinhsu/439_Quyet-dinh-65-2014-QD-UBND-che-do-ho-tro-cong-tac-giam-dinh-phap-y-tam-than-ky-thuat-hinh-su-Binh-Duong-42862.txt
+2025-05-15 03:25:23,073 - INFO - ✅ Saved txt: download_hinhsu/432_Bo-luat-hinh-su-2015-486D5.txt
+2025-05-15 03:25:35,074 - INFO - Processing batch 440 to 448
+2025-05-15 03:25:41,641 - INFO - ✅ Saved txt: download_hinhsu/443_Quyet-dinh-41-2014-QD-UBND-thanh-lap-quan-ly-su-dung-Quy-Phong-chong-toi-pham-Long-An-3D3E5.txt
+2025-05-15 03:25:41,860 - INFO - ✅ Saved txt: download_hinhsu/440_Nghi-quyet-178-2014-NQ-HDND-phong-chong-vi-pham-phap-luat-toi-pham-Long-An-471CB.txt
+2025-05-15 03:25:41,963 - INFO - ✅ Saved txt: download_hinhsu/441_Quyet-dinh-590-QD-VKSTC-V3-2014-lap-ho-so-kiem-sat-an-hinh-su-43E30.txt
+2025-05-15 03:25:43,143 - INFO - ✅ Saved txt: download_hinhsu/444_Quyet-dinh-1491-QD-NHNN-2014-thuc-hien-312-QD-TTg-phong-chong-toi-pham-nganh-ngan-hang-3DDFF.txt
+2025-05-15 03:25:43,145 - INFO - ✅ Saved txt: download_hinhsu/442_Nghi-quyet-821-NQ-UBTVQH13-2014-thanh-lap-Doan-giam-sat-Tinh-hinh-oan-sai-3E59A.txt
+2025-05-15 03:25:43,199 - INFO - ✅ Saved txt: download_hinhsu/446_Thong-bao-77-2016-TB-LPQT-hieu-luc-hiep-dinh-hop-tac-dau-tranh-phong-chong-toi-pham-Viet-Nam-I-ta-li-a-528C7.txt
+2025-05-15 03:25:43,216 - INFO - ✅ Saved txt: download_hinhsu/445_Quyet-dinh-2260-QD-UBND-nam-2014-thanh-lap-Quy-Phong-chong-toi-pham-Dong-Nai-3B2B5.txt
+2025-05-15 03:25:43,231 - INFO - ✅ Saved txt: download_hinhsu/447_Quyet-dinh-899-QD-UBND-nam-2014-thanh-lap-quan-ly-su-dung-Quy-phong-chong-toi-pham-Tien-Giang-38297.txt
+2025-05-15 03:25:55,231 - INFO - Processing batch 448 to 456
+2025-05-15 03:26:01,270 - INFO - ✅ Saved txt: download_hinhsu/451_Chi-thi-22-CT-UBND-nam-2013-dau-tranh-phong-chong-te-nan-co-bac-so-de-Ha-Noi-33AC4.txt
+2025-05-15 03:26:01,850 - INFO - ✅ Saved txt: download_hinhsu/452_Thong-tu-lien-tich-09-2013-TTLT-BCA-BQP-BTP-VKSNDTC-TANDTC-xam-pham-trat-tu-an-toan-giao-thong-33644.txt
+2025-05-15 03:26:01,866 - INFO - ✅ Saved txt: download_hinhsu/448_Nghi-dinh-25-2014-ND-CP-phong-chong-toi-pham-vi-pham-phap-luat-co-su-dung-cong-nghe-cao-371CB.txt
+2025-05-15 03:26:02,162 - INFO - ✅ Saved txt: download_hinhsu/449_Quyet-dinh-521-QD-UBND-2014-Ke-hoach-thuc-hien-Quyet-dinh-312-QD-TTg-phong-chong-toi-pham-Ca-Mau-384DE.txt
+2025-05-15 03:26:02,284 - INFO - ✅ Saved txt: download_hinhsu/450_Thong-tu-lien-tich-13-2013-TTLT-BCA-BQP-VKSNDTC-TANDTC-huong-dan-Bo-luat-to-tung-hinh-su-35CC9.txt
+2025-05-15 03:26:02,984 - INFO - ✅ Saved txt: download_hinhsu/453_Thong-tu-lien-tich-02-2013-TTLT-VKSNDTC-TANDTC-BCA-BTP-BNG-tiep-nhan-chuyen-giao-ho-so-vat-chung-33547.txt
+2025-05-15 03:26:03,537 - INFO - ✅ Saved txt: download_hinhsu/454_Thong-tu-lien-tich-10-2013-TTLT-BTP-BCA-TANDTC-VKSNDTC-BTC-huong-dan-BLHS-1999-308B8.txt
+2025-05-15 03:26:03,594 - INFO - ✅ Saved txt: download_hinhsu/455_Quyet-dinh-1871-QD-UBND-phoi-hop-xu-ly-viec-co-dau-hieu-vi-pham-hinh-su-doi-voi-hanh-vi-vi-pham-hanh-chinh-ve-hang-gia-xam-pham-quyen-so-huu-tri-tue-33063.txt
+2025-05-15 03:26:15,595 - INFO - Processing batch 456 to 464
+2025-05-15 03:26:22,141 - INFO - ✅ Saved txt: download_hinhsu/456_Thong-tu-lien-tich-02-2013-TTLT-BCA-BQP-TANDTC-VKSNDTC-huong-dan-thi-hanh-2F4C4.txt
+2025-05-15 03:26:22,620 - INFO - ✅ Saved txt: download_hinhsu/459_Quyet-dinh-11-2013-QD-UBND-phong-chong-toi-pham-thong-tin-truyen-thong-Soc-Trang-2CDE3.txt
+2025-05-15 03:26:23,184 - INFO - ✅ Saved txt: download_hinhsu/460_Quyet-dinh-648-QD-UBND-nam-2012-Ke-hoach-thuc-hien-Chuong-trinh-muc-tieu-25A27.txt
+2025-05-15 03:26:23,369 - INFO - ✅ Saved txt: download_hinhsu/458_Quyet-dinh-807-QD-NHNN-2013-Ke-hoach-chuong-trinh-muc-tieu-quoc-gia-phong-chong-toi-pham-3DE0B.txt
+2025-05-15 03:26:23,700 - INFO - ✅ Saved txt: download_hinhsu/457_Thong-tu-lien-tich-03-2013-TTLT-BCA-TANDTC-VKSNDTC-BQP-BYT-huong-dan-an-phat-tu-2F4C6.txt
+2025-05-15 03:26:23,905 - INFO - ✅ Saved txt: download_hinhsu/462_Quyet-dinh-1450-QD-UBND-nam-2012-Ke-hoach-thuc-hien-Chuong-trinh-muc-tieu-24EBF.txt
+2025-05-15 03:26:24,224 - INFO - ✅ Saved txt: download_hinhsu/461_Quyet-dinh-1775-QD-UBND-nam-2012-Ke-hoach-thuc-hien-Chuong-trinh-muc-tieu-251EB.txt
+2025-05-15 03:26:24,336 - INFO - ✅ Saved txt: download_hinhsu/463_Thong-tu-lien-tich-13-2012-TTLT-BCA-BTP-VKSNDTC-TANDTC-huong-dan-Bo-luat-to-tung-24B0C.txt
+2025-05-15 03:26:36,337 - INFO - Processing batch 464 to 472
+2025-05-15 03:26:42,837 - INFO - ✅ Saved txt: download_hinhsu/467_Quyet-dinh-911-QD-UBND-nam-2012-phong-chong-toi-pham-mua-ban-nguoi-2012-2015-23401.txt
+2025-05-15 03:26:43,021 - INFO - ✅ Saved txt: download_hinhsu/468_Quyet-dinh-188-QD-UBND-Chuong-trinh-hanh-dong-phong-chong-toi-pham-21BBB.txt
+2025-05-15 03:26:43,026 - INFO - ✅ Saved txt: download_hinhsu/465_Thong-tu-lien-tich-10-2012-TTLT-BCA-BQP-BTP-BTTTT-VKSNDTC-TANDTC-huong-dan-24585.txt
+2025-05-15 03:26:43,062 - INFO - ✅ Saved txt: download_hinhsu/466_Quyet-dinh-2332-QD-UBND-Chuong-trinh-hanh-dong-phong-chong-toi-pham-mua-ban-223AD.txt
+2025-05-15 03:26:43,457 - INFO - ✅ Saved txt: download_hinhsu/464_Quyet-dinh-1236-QD-TTg-nam-2012-phe-duyet-Ke-hoach-tong-ket-thi-hanh-Bo-luat-23FD5.txt
+2025-05-15 03:26:43,845 - INFO - ✅ Saved txt: download_hinhsu/469_Quyet-dinh-86-QD-UBND-2012-thanh-lap-BCD-phong-chong-toi-pham-bao-ve-an-ninh-Binh-Phuoc-38475.txt
+2025-05-15 03:26:44,145 - INFO - ✅ Saved txt: download_hinhsu/471_Quyet-dinh-3087-QD-UBND-phong-chong-toi-pham-mua-ban-nguoi-20036.txt
+2025-05-15 03:26:44,363 - INFO - ✅ Saved txt: download_hinhsu/470_Thong-tu-lien-tich-09-2011-TTLT-BCA-BQP-BTP-NHNNVN-VKSNDTC-TANDTC-20933.txt
+2025-05-15 03:26:56,363 - INFO - Processing batch 472 to 480
+2025-05-15 03:27:02,378 - INFO - ✅ Saved txt: download_hinhsu/475_Thong-bao-hieu-luc-Hiep-dinh-hop-tac-trong-linh-vuc-phong-chong-toi-pham-20509.txt
+2025-05-15 03:27:02,659 - INFO - ✅ Saved txt: download_hinhsu/474_Quyet-dinh-1173-QD-TTg-thi-hanh-Luat-Phong-chong-mua-ban-nguoi-1EEDF.txt
+2025-05-15 03:27:02,990 - INFO - ✅ Saved txt: download_hinhsu/473_Quyet-dinh-1427-QD-TTg-Chuong-trinh-hanh-dong-phong-chong-toi-1F45F.txt
+2025-05-15 03:27:03,183 - INFO - ✅ Saved txt: download_hinhsu/476_Quyet-dinh-1039-QD-BNV-Ke-hoach-thuc-hien-Quyet-dinh-282-QD-TTg-1E55B.txt
+2025-05-15 03:27:04,147 - INFO - ✅ Saved txt: download_hinhsu/478_Quyet-dinh-218-QD-UBND-2011-lanh-dao-cong-tac-phong-chong-toi-pham-Binh-Dinh-2F9F7.txt
+2025-05-15 03:27:04,345 - INFO - ✅ Saved txt: download_hinhsu/479_Quyet-dinh-410-QD-BCNDA4-Ke-hoach-hanh-dong-cua-De-an-4-1D944.txt
+2025-05-15 03:27:04,350 - INFO - ✅ Saved txt: download_hinhsu/477_Quyet-dinh-1576-QD-BCA-C41-kien-toan-Ban-Chi-dao-thuc-hien-Chuong-trinh-1E77C.txt
+2025-05-15 03:27:04,444 - INFO - ✅ Saved txt: download_hinhsu/472_Thong-tu-so-63-2011-TT-BCA-quy-dinh-cac-loai-bieu-mau-so-sach-ve-cong-tac-thi-hanh-an-hinh-su-31A5A.txt
+2025-05-15 03:27:16,444 - INFO - Processing batch 480 to 488
+2025-05-15 03:27:23,407 - INFO - ✅ Saved txt: download_hinhsu/482_Chi-thi-02-CT-UBND-2011-dau-tranh-ngan-chan-xu-ly-hanh-vi-danh-bac-to-chuc-danh-bac-Thanh-Hoa-463D6.txt
+2025-05-15 03:27:23,434 - INFO - ✅ Saved txt: download_hinhsu/480_Quyet-dinh-282-QD-TTg-cong-tac-phong-chong-toi-pham-1D201.txt
+2025-05-15 03:27:23,541 - INFO - ✅ Saved txt: download_hinhsu/481_Quyet-dinh-207-QD-TTg-phe-duyet-Hiep-dinh-hop-tac-phong-chong-buon-nguoi-2B36D.txt
+2025-05-15 03:27:23,584 - INFO - ✅ Saved txt: download_hinhsu/484_Chi-thi-25-CT-UBND-tang-cuong-cong-tac-dau-tranh-phong-chong-toi-pham-1C281.txt
+2025-05-15 03:27:23,776 - INFO - ✅ Saved txt: download_hinhsu/483_Quyet-dinh-15-QD-TTg-Ke-hoach-trien-khai-thi-hanh-Luat-Thi-hanh-an-hinh-su-1C984.txt
+2025-05-15 03:27:24,648 - INFO - ✅ Saved txt: download_hinhsu/486_Chi-thi-98-CT-BCStang-cuong-cong-tac-phong-chong-vi-pham-phap-luat-1BA35.txt
+2025-05-15 03:27:24,674 - INFO - ✅ Saved txt: download_hinhsu/487_Thong-bao-hieu-luc-Hiep-dinh-ve-hop-tac-phong-chong-khung-bo-toi-pham-co-to-chu-1DCAD.txt
+2025-05-15 03:27:24,686 - INFO - ✅ Saved txt: download_hinhsu/485_Chi-thi-48-CT-TW-cong-tac-phong-chong-toi-pham-trong-tinh-hinh-moi-1F3D6.txt
+2025-05-15 03:27:36,687 - INFO - Processing batch 488 to 496
+2025-05-15 03:27:43,273 - INFO - ✅ Saved txt: download_hinhsu/491_Chi-thi-1762-CT-TTg-trien-khai-thi-hanh-luat-sua-doi-bo-sung-Bo-luat-hinh-su-Nghi-quyet-33-2009-QH12-17B1C.txt
+2025-05-15 03:27:43,444 - INFO - ✅ Saved txt: download_hinhsu/488_Quyet-dinh-782-QD-UBND-nam-2010-thanh-vien-ban-chi-dao-phong-chong-toi-pham-An-Giang-2D275.txt
+2025-05-15 03:27:43,602 - INFO - ✅ Saved txt: download_hinhsu/489_Chi-thi-16-CT-UBND-2010-ve-tang-cuong-cong-tac-thi-hanh-an-hinh-su-Thua-Thien-Hue-46459.txt
+2025-05-15 03:27:43,688 - INFO - ✅ Saved txt: download_hinhsu/490_Bao-cao-128-BC-LDTBXH-CT138-ket-qua-cong-tac-phong-chong-toi-pham-nganh-lao-dong-thuong-binh-va-xa-hoi-nam-2009-17E80.txt
+2025-05-15 03:27:43,823 - INFO - ✅ Saved txt: download_hinhsu/492_Quyet-dinh-19-2009-QD-UBND-tuyen-truyen-van-dong-toan-dan-phong-chong-toi-pham-2A9BB.txt
+2025-05-15 03:27:44,115 - INFO - ✅ Saved txt: download_hinhsu/493_Lenh-cong-bo-Luat-bo-sung-Bo-luat-Hinh-su-13-2009-L-CTN-16C1B.txt
+2025-05-15 03:27:44,769 - INFO - ✅ Saved txt: download_hinhsu/494_Nghi-quyet-33-2009-QH12-thi-hanh-Luat-bo-sung-Bo-luat-Hinh-su-16421.txt
+2025-05-15 03:27:44,783 - INFO - ✅ Saved txt: download_hinhsu/495_Thong-tu-lien-tich-06-2008-TTLT-BCA-VKSNDTC-TANDTC-huong-dan-truy-cuu-trach-nhiem-hinh-su-su-dung-trai-phep-phao-no-va-thuoc-phao-14709.txt
+2025-05-15 03:27:56,783 - INFO - Processing batch 496 to 504
+2025-05-15 03:28:03,827 - INFO - ✅ Saved txt: download_hinhsu/499_Quyet-dinh-245-QD-TTg-phe-duyet-de-an-tang-cuong-nang-luc-giao-duc-day-nghe-cho-pham-nhan-trong-cac-trai-giam-F6B0.txt
+2025-05-15 03:28:04,076 - INFO - ✅ Saved txt: download_hinhsu/500_Quyet-dinh-107-2008-QD-UBND-quy-dinh-cong-tac-phoi-hop-phong-chong-toi-pham-trong-linh-vuc-buu-chinh-vien-thong-va-CNTT-tren-dia-ban-Thanh-Hoa-F0B7.txt
+2025-05-15 03:28:04,237 - INFO - ✅ Saved txt: download_hinhsu/498_Hiep-dinh-hop-tac-song-phuong-nham-loai-tru-nan-buon-ban-nguoi-phu-nu-tre-em-giup-do-nan-nhan-bi-buon-ban-giua-Viet-Nam-Thai-Lan-2008-162D9.txt
+2025-05-15 03:28:04,406 - INFO - ✅ Saved txt: download_hinhsu/496_Chi-thi-26-CT-UBND-tang-cuong-cong-tac-bao-ve-moi-truong-phong-chong-toi-pham-1CD70.txt
+2025-05-15 03:28:05,564 - INFO - ✅ Saved txt: download_hinhsu/502_Quy-che-phoi-hop-5341-QCPH-TCHQ-TCCS-giua-luc-luong-Hai-quan-Canh-sat-nhan-dan-trong-dau-tranh-phong-chong-toi-pham-va-cac-hanh-vi-vi-pham-phap-luat-118B5.txt
+2025-05-15 03:28:05,686 - INFO - ✅ Saved txt: download_hinhsu/503_Quyet-dinh-34-2007-QD-UBND-phong-chong-toi-pham-buu-chinh-vien-thong-Can-Tho-2E491.txt
+2025-05-15 03:28:05,886 - INFO - ✅ Saved txt: download_hinhsu/501_Thong-tu-lien-tich-17-2007-TTLT-BCA-VKSNDTC-TANDTC-BTP-huong-dan-ap-dung-quy-dinh-tai-Chuong-18-Cac-toi-pham-ve-ma-tuy-F0F3.txt
+2025-05-15 03:28:06,499 - INFO - ✅ Saved txt: download_hinhsu/497_Quyet-dinh-836-2008-QD-UBND-Quy-che-cong-tac-phoi-hop-phong-chong-toi-pham-25726.txt
+2025-05-15 03:28:18,500 - INFO - Processing batch 504 to 512
+2025-05-15 03:28:24,504 - INFO - ✅ Saved txt: download_hinhsu/505_Hiep-dinh-hop-tac-dau-tranh-phong-chong-khung-bo-quoc-te-toi-pham-co-to-chuc-buon-ban-trai-phep-chat-ma-tuy-chat-huong-than-tien-chat-2007-162D8.txt
+2025-05-15 03:28:24,824 - INFO - ✅ Saved txt: download_hinhsu/507_Chi-thi-26-2007-CT-UBND-phong-chong-toi-pham-buon-ban-phu-nu-tre-em-Phu-Yen-2DEF0.txt
+2025-05-15 03:28:24,872 - INFO - ✅ Saved txt: download_hinhsu/504_Quyet-dinh-70-2007-QD-UBND-phoi-hop-phong-chong-toi-pham-buu-chinh-vien-thong-2E3EB.txt
+2025-05-15 03:28:25,330 - INFO - ✅ Saved txt: download_hinhsu/508_Chi-thi-15-2007-CT-UBND-phong-chong-toi-pham-buu-chinh-vien-thong-Quang-Ninh-2EB70.txt
+2025-05-15 03:28:25,649 - INFO - ✅ Saved txt: download_hinhsu/509_Chi-thi-05-CT-TU-tang-cuong-lanh-dao-cong-tac-dau-tranh-phong-chong-toi-pham-dia-ban-Ho-Chi-Minh-E5AE.txt
+2025-05-15 03:28:25,971 - INFO - ✅ Saved txt: download_hinhsu/510_Chi-thi-16-2007-CT-TTg-tang-cuong-thuc-hien-Chuong-trinh-hanh-dong-phong-chong-toi-pham-buon-ban-phu-nu-tre-em-56EC.txt
+2025-05-15 03:28:26,005 - INFO - ✅ Saved txt: download_hinhsu/511_Chi-thi-18-2007-CT-UBND-phong-ngua-dau-tranh-chong-toi-pham-tien-gia-Dong-Thap-2DCB2.txt
+2025-05-15 03:28:27,539 - INFO - ✅ Saved txt: download_hinhsu/506_Quyet-dinh-2486-QD-BNN-dinh-chinh-Thong-tu-lien-tich-19-2007-TTLT-BNNPTNT-BTP-BCA-VKSNDTC-TANDTC-toi-pham-quan-ly-bao-ve-rung-lam-san-D8DA.txt
+2025-05-15 03:28:39,540 - INFO - Processing batch 512 to 520
+2025-05-15 03:28:45,733 - INFO - ✅ Saved txt: download_hinhsu/512_Chi-thi-22-CT-UBND-nam-2007-phoi-hop-phong-chong-toi-pham-buu-chinh-vien-thong-Son-La-2DE05.txt
+2025-05-15 03:28:45,825 - INFO - ✅ Saved txt: download_hinhsu/515_Quyet-dinh-261-2006-QD-TTg-Hiep-dinh-giua-Viet-Nam-va-Lien-bang-Duc-hop-tac-chong-toi-pham-nguy-hiem-co-to-chuc-3D88.txt
+2025-05-15 03:28:45,958 - INFO - ✅ Saved txt: download_hinhsu/513_Thong-tu-04-2007-TT-BTC-huong-dan-lap-du-toan-quan-ly-su-dung-kinh-phi-ngan-sach-nha-nuoc-bao-dam-cong-tac-thong-ke-hinh-su-toi-pham-4036.txt
+2025-05-15 03:28:46,238 - INFO - ✅ Saved txt: download_hinhsu/514_Chi-thi-02-2007-CT-UBND-tang-cuong-nang-cao-hieu-qua-cong-tac-thi-hanh-an-phat-tu-huong-an-treo-hinh-phat-cai-tao-khong-giam-giu-E08C.txt
+2025-05-15 03:28:46,386 - INFO - ✅ Saved txt: download_hinhsu/516_Thong-tu-lien-tich-09-2006-TTLT-BLDTBXH-BCA-VKSNDTC-TANDTC-huong-dan-truy-cuu-trach-nhiem-hinh-su-nguoi-co-hanh-vi-pham-phap-luat-xuat-khau-lao-dong-3440.txt
+2025-05-15 03:28:47,036 - INFO - ✅ Saved txt: download_hinhsu/517_Chi-thi-09-CT-UBND-tang-cuong-phong-chong-toi-pham-tai-nan-te-nan-xa-hoi-dam-bao-an-ninh-trat-tu-to-chuc-Dai-hoi-Dang-toan-quoc-lan-10-Tien-Giang-2D3C.txt
+2025-05-15 03:28:47,153 - INFO - ✅ Saved txt: download_hinhsu/518_Cong-van-225-2005-KHXX-hieu-luc-cua-TT-21-2004-TTLT-BCA-TANDTC-VKSNDTC-BTP-E567.txt
+2025-05-15 03:28:47,261 - INFO - ✅ Saved txt: download_hinhsu/519_Chi-thi-01-2005-CT-CA-cong-tac-dau-tranh-phong-chong-toi-pham-hinh-su-nganh-toa-an-nhan-dan-tinh-hinh-hien-nay-422C.txt
+2025-05-15 03:28:59,261 - INFO - Processing batch 520 to 528
+2025-05-15 03:29:05,186 - INFO - ✅ Saved txt: download_hinhsu/523_Quyet-dinh-59-2004-QD-TTg-thanh-lap-Ban-Chi-dao-Chuong-trinh-quoc-gia-phong-chong-toi-pham-CB57.txt
+2025-05-15 03:29:05,419 - INFO - ✅ Saved txt: download_hinhsu/521_Quyet-dinh-55-2005-QD-TTg-Quy-che-hoat-dong-Ban-Chi-dao-Chuong-trinh-Quoc-gia-phong-chong-toi-pham-CEC9.txt
+2025-05-15 03:29:05,704 - INFO - ✅ Saved txt: download_hinhsu/522_Nghi-quyet-727-2004-NQ-UBTVQH11-thi-hanh-Phap-lenh-To-chuc-dieu-tra-hinh-su-CC6F.txt
+2025-05-15 03:29:05,904 - INFO - ✅ Saved txt: download_hinhsu/520_Quyet-dinh-1306-QD-CT-nam-2005-Quy-che-hoat-dong-Ban-chi-dao-phong-chong-toi-pham-ma-tuy-mai-dam-Phu-Tho-3F7DA.txt
+2025-05-15 03:29:06,327 - INFO - ✅ Saved txt: download_hinhsu/525_Cong-van-97-2003-KHXX-xac-dinh-tinh-tiet-gay-co-tat-nhe-cho-nan-nhan-6E7C.txt
+2025-05-15 03:29:06,359 - INFO - ✅ Saved txt: download_hinhsu/524_Cong-van-105-2003-KHXX-ap-dung-luat-Hinh-su-C818.txt
+2025-05-15 03:29:06,758 - INFO - ✅ Saved txt: download_hinhsu/526_Hiep-dinh-hop-tac-chong-toi-pham-co-to-chuc-giua-Viet-Nam-Balan-2003-E006.txt
+2025-05-15 03:29:06,807 - INFO - ✅ Saved txt: download_hinhsu/527_Cong-van-174-2002-KHXX-giai-quyet-yeu-cau-bi-can-bi-cao-nguoi-bi-hai-giam-dinh-hoac-giam-dinh-bo-sung-C445.txt
+2025-05-15 03:29:18,808 - INFO - Processing batch 528 to 536
+2025-05-15 03:29:25,501 - INFO - ✅ Saved txt: download_hinhsu/529_Cong-van-173-2002-KHXX-ap-dung-phap-luat-khi-xet-xu-toi-hiep-dam-tre-em-chua-du-13-tuoi-C448.txt
+2025-05-15 03:29:25,573 - INFO - ✅ Saved txt: download_hinhsu/532_Cong-van-96-2002-KHXX-hoan-chap-hanh-hinh-phat-tu-C451.txt
+2025-05-15 03:29:26,081 - INFO - ✅ Saved txt: download_hinhsu/531_Cong-van-148-2002-KHXX-huong-dan-ap-dung-Dieu-46-47-Bo-luat-hinh-su-C44A.txt
+2025-05-15 03:29:26,130 - INFO - ✅ Saved txt: download_hinhsu/528_Cong-van-172-2002-KHXX-giai-quyet-de-nghi-cua-Luat-su-xac-dinh-tuoi-cua-nguoi-bi-hai-bang-giam-dinh-xuong-C447.txt
+2025-05-15 03:29:26,131 - INFO - ✅ Saved txt: download_hinhsu/530_Cong-van-162-2002-KHXX-ap-dung-hinh-phat-tien-C44E.txt
+2025-05-15 03:29:31,896 - ERROR - ❌ Error saving document TXT 533: Message: 
+Stacktrace:
+#0 0x5f7f5b88c75a <unknown>
+#1 0x5f7f5b32f0a0 <unknown>
+#2 0x5f7f5b3809b0 <unknown>
+#3 0x5f7f5b380ba1 <unknown>
+#4 0x5f7f5b3ceea4 <unknown>
+#5 0x5f7f5b3a63cd <unknown>
+#6 0x5f7f5b3cc2a0 <unknown>
+#7 0x5f7f5b3a6173 <unknown>
+#8 0x5f7f5b372d4b <unknown>
+#9 0x5f7f5b3739b1 <unknown>
+#10 0x5f7f5b85190b <unknown>
+#11 0x5f7f5b85580a <unknown>
+#12 0x5f7f5b839662 <unknown>
+#13 0x5f7f5b856394 <unknown>
+#14 0x5f7f5b81e49f <unknown>
+#15 0x5f7f5b87a538 <unknown>
+#16 0x5f7f5b87a716 <unknown>
+#17 0x5f7f5b88b5c6 <unknown>
+#18 0x723b2ecc2609 start_thread
+
+2025-05-15 03:29:31,974 - ERROR - ❌ Error saving document TXT 534: Message: 
+Stacktrace:
+#0 0x584a6cd9875a <unknown>
+#1 0x584a6c83b0a0 <unknown>
+#2 0x584a6c88c9b0 <unknown>
+#3 0x584a6c88cba1 <unknown>
+#4 0x584a6c8daea4 <unknown>
+#5 0x584a6c8b23cd <unknown>
+#6 0x584a6c8d82a0 <unknown>
+#7 0x584a6c8b2173 <unknown>
+#8 0x584a6c87ed4b <unknown>
+#9 0x584a6c87f9b1 <unknown>
+#10 0x584a6cd5d90b <unknown>
+#11 0x584a6cd6180a <unknown>
+#12 0x584a6cd45662 <unknown>
+#13 0x584a6cd62394 <unknown>
+#14 0x584a6cd2a49f <unknown>
+#15 0x584a6cd86538 <unknown>
+#16 0x584a6cd86716 <unknown>
+#17 0x584a6cd975c6 <unknown>
+#18 0x782a53266609 start_thread
+
+2025-05-15 03:29:32,315 - ERROR - ❌ Error saving document TXT 535: Message: 
+Stacktrace:
+#0 0x600181b0675a <unknown>
+#1 0x6001815a90a0 <unknown>
+#2 0x6001815fa9b0 <unknown>
+#3 0x6001815faba1 <unknown>
+#4 0x600181648ea4 <unknown>
+#5 0x6001816203cd <unknown>
+#6 0x6001816462a0 <unknown>
+#7 0x600181620173 <unknown>
+#8 0x6001815ecd4b <unknown>
+#9 0x6001815ed9b1 <unknown>
+#10 0x600181acb90b <unknown>
+#11 0x600181acf80a <unknown>
+#12 0x600181ab3662 <unknown>
+#13 0x600181ad0394 <unknown>
+#14 0x600181a9849f <unknown>
+#15 0x600181af4538 <unknown>
+#16 0x600181af4716 <unknown>
+#17 0x600181b055c6 <unknown>
+#18 0x70d47872e609 start_thread
+
+2025-05-15 03:29:40,175 - ERROR - ❌ Error saving document TXT 533: Message: 
+Stacktrace:
+#0 0x5f7f5b88c75a <unknown>
+#1 0x5f7f5b32f0a0 <unknown>
+#2 0x5f7f5b3809b0 <unknown>
+#3 0x5f7f5b380ba1 <unknown>
+#4 0x5f7f5b3ceea4 <unknown>
+#5 0x5f7f5b3a63cd <unknown>
+#6 0x5f7f5b3cc2a0 <unknown>
+#7 0x5f7f5b3a6173 <unknown>
+#8 0x5f7f5b372d4b <unknown>
+#9 0x5f7f5b3739b1 <unknown>
+#10 0x5f7f5b85190b <unknown>
+#11 0x5f7f5b85580a <unknown>
+#12 0x5f7f5b839662 <unknown>
+#13 0x5f7f5b856394 <unknown>
+#14 0x5f7f5b81e49f <unknown>
+#15 0x5f7f5b87a538 <unknown>
+#16 0x5f7f5b87a716 <unknown>
+#17 0x5f7f5b88b5c6 <unknown>
+#18 0x723b2ecc2609 start_thread
+
+2025-05-15 03:29:40,256 - ERROR - ❌ Error saving document TXT 534: Message: 
+Stacktrace:
+#0 0x584a6cd9875a <unknown>
+#1 0x584a6c83b0a0 <unknown>
+#2 0x584a6c88c9b0 <unknown>
+#3 0x584a6c88cba1 <unknown>
+#4 0x584a6c8daea4 <unknown>
+#5 0x584a6c8b23cd <unknown>
+#6 0x584a6c8d82a0 <unknown>
+#7 0x584a6c8b2173 <unknown>
+#8 0x584a6c87ed4b <unknown>
+#9 0x584a6c87f9b1 <unknown>
+#10 0x584a6cd5d90b <unknown>
+#11 0x584a6cd6180a <unknown>
+#12 0x584a6cd45662 <unknown>
+#13 0x584a6cd62394 <unknown>
+#14 0x584a6cd2a49f <unknown>
+#15 0x584a6cd86538 <unknown>
+#16 0x584a6cd86716 <unknown>
+#17 0x584a6cd975c6 <unknown>
+#18 0x782a53266609 start_thread
+
+2025-05-15 03:29:40,594 - ERROR - ❌ Error saving document TXT 535: Message: 
+Stacktrace:
+#0 0x600181b0675a <unknown>
+#1 0x6001815a90a0 <unknown>
+#2 0x6001815fa9b0 <unknown>
+#3 0x6001815faba1 <unknown>
+#4 0x600181648ea4 <unknown>
+#5 0x6001816203cd <unknown>
+#6 0x6001816462a0 <unknown>
+#7 0x600181620173 <unknown>
+#8 0x6001815ecd4b <unknown>
+#9 0x6001815ed9b1 <unknown>
+#10 0x600181acb90b <unknown>
+#11 0x600181acf80a <unknown>
+#12 0x600181ab3662 <unknown>
+#13 0x600181ad0394 <unknown>
+#14 0x600181a9849f <unknown>
+#15 0x600181af4538 <unknown>
+#16 0x600181af4716 <unknown>
+#17 0x600181b055c6 <unknown>
+#18 0x70d47872e609 start_thread
+
+2025-05-15 03:29:43,568 - INFO - ✅ Saved txt: download_hinhsu/533_Cong-van-988-KSDT-TA-xin-y-kien-ve-dinh-luong-Dieu-253-Bo-luat-hinh-su-2002-49828.txt
+2025-05-15 03:29:43,770 - INFO - ✅ Saved txt: download_hinhsu/534_Thong-tu-lien-tich-01-2001-TTLT-BTP-BCA-TANDTC-VKSNDTC-quy-dinh-tai-Chuong-XV-toi-xam-pham-che-do-hon-nhan-gia-dinh-theo-bo-luat-hinh-su-1999-BD63.txt
+2025-05-15 03:29:44,168 - INFO - ✅ Saved txt: download_hinhsu/535_Cong-van-93-2000-KHXX-tham-quyen-xet-xu-cua-Toa-an-lien-quan-den-thi-hanh-Bo-luat-hinh-su-nam-1999-B5F8.txt
+2025-05-15 03:29:56,169 - INFO - Processing batch 536 to 544
+2025-05-15 03:30:03,345 - INFO - ✅ Saved txt: download_hinhsu/540_Cong-van-03-VKS-huong-dan-thong-nhat-duong-loi-xu-ly-truong-hop-cu-the-thuoc-cac-toi-pham-ve-ma-tuy-E5D6.txt
+2025-05-15 03:30:03,440 - INFO - ✅ Saved txt: download_hinhsu/539_Lenh-cong-bo-Bo-luat-hinh-su-01-L-CTN-E981.txt
+2025-05-15 03:30:03,527 - INFO - ✅ Saved txt: download_hinhsu/537_Nghi-quyet-229-2000-NQ-UBTVQH10-trien-khai-thuc-hien-Muc-3-Nghi-quyet-cua-Quoc-hoi-Ve-viec-thi-hanh-Bo-luat-Hinh-su-B5FB.txt
+2025-05-15 03:30:03,576 - INFO - ✅ Saved txt: download_hinhsu/538_Cong-van-10-2000-KHXX-thi-hanh-NQ-thi-hanh-Bo-luat-Hinh-su-B528.txt
+2025-05-15 03:30:03,648 - INFO - ✅ Saved txt: download_hinhsu/536_Chi-thi-04-2000-CT-TTg-to-chuc-thi-hanh-Bo-luat-Hinh-su-B4CE.txt
+2025-05-15 03:30:04,537 - INFO - ✅ Saved txt: download_hinhsu/542_Cong-van-77-1999-KHXX-huong-dan-ap-dung-khoan-3-Dieu-38-BLHS-B2FC.txt
+2025-05-15 03:30:04,537 - INFO - ✅ Saved txt: download_hinhsu/543_Cong-van-52-1999-KHXX-thuc-hien-quy-dinh-cua-Bo-luat-To-tung-Hinh-su-bi-cao-la-nguoi-chua-thanh-nien-B205.txt
+2025-05-15 03:30:04,547 - INFO - ✅ Saved txt: download_hinhsu/541_Nghi-quyet-32-1999-NQ-QH10-thi-hanh-Bo-luat-Hinh-su-B3ED.txt
+2025-05-15 03:30:16,548 - INFO - Processing batch 544 to 552
+2025-05-15 03:30:24,588 - INFO - ✅ Saved txt: download_hinhsu/547_Cong-van05-1999-KHXX-xac-dinh-gia-tri-tai-san-theo-Bo-luat-Hinh-su-B208.txt
+2025-05-15 03:30:24,747 - INFO - ✅ Saved txt: download_hinhsu/545_Cong-van-53-1999-KHXX-huong-dan-ap-dung-Bo-luat-hinh-su-B2F9.txt
+2025-05-15 03:30:24,821 - INFO - ✅ Saved txt: download_hinhsu/544_Quyet-dinh-45-1999-QD-UB-Ban-chi-dao-phong-chong-toi-pham-Hoa-Binh-2BD6E.txt
+2025-05-15 03:30:25,239 - INFO - ✅ Saved txt: download_hinhsu/546_Cong-van-24-1999-KHXX-giai-dap-van-de-ap-dung-phap-luat-B206.txt
+2025-05-15 03:30:25,781 - INFO - ✅ Saved txt: download_hinhsu/549_Chi-thi-09-1998-CT-UB-quan-ly-giao-duc-dau-tranh-phong-chong-toi-pham-Bac-Lieu-2BF13.txt
+2025-05-15 03:30:26,147 - INFO - ✅ Saved txt: download_hinhsu/548_Nghi-quyet-1-1998-NQ-HDTP-huong-dan-viec-ap-dung-quy-dinh-Bo-Luat-hinh-su-20C83.txt
+2025-05-15 03:30:26,215 - INFO - ✅ Saved txt: download_hinhsu/551_Thong-bao-11-1997-TBLN-xu-ly-hinh-su-hanh-vi-san-xuat-van-chuyen-mua-ban-dot-phao-9DC1.txt
+2025-05-15 03:30:26,295 - INFO - ✅ Saved txt: download_hinhsu/550_Cong-van-59-KHXX-ap-dung-quy-dinh-cua-Luat-bo-sung-Bo-luat-Hinh-su-B6FD.txt
+2025-05-15 03:30:38,295 - INFO - Processing batch 552 to 557
+2025-05-15 03:30:45,417 - INFO - ✅ Saved txt: download_hinhsu/552_Thong-tu-lien-nganh-01-TTLN-huong-dan-Dieu-95-96-Bo-luat-hinh-su-9971.txt
+2025-05-15 03:30:45,773 - INFO - ✅ Saved txt: download_hinhsu/556_Cong-van-785-HS-xu-ly-toi-pham-gay-thiet-hai-cho-cong-trinh-phuong-tien-giao-thong-van-tai-thong-tin-2901.txt
+2025-05-15 03:30:45,805 - INFO - ✅ Saved txt: download_hinhsu/554_Cong-van-48-VP-xet-xu-hanh-vi-cat-pha-duong-day-thong-tin-lien-lac-293E.txt
+2025-05-15 03:30:45,828 - INFO - ✅ Saved txt: download_hinhsu/555_Cong-van-03-TATC-huong-dan-Bo-luat-hinh-su-A76A.txt
+2025-05-15 03:30:45,906 - INFO - ✅ Saved txt: download_hinhsu/553_Cong-van-133-NCPL-huong-dan-duong-loi-xu-ly-nguoi-tron-di-nuoc-ngoai-da-tu-nguyen-hoi-huong-A766.txt
+2025-05-15 03:30:57,907 - INFO - 🎉 All TXT content saved.
