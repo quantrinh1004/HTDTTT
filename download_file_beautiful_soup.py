@@ -12,7 +12,7 @@ import threading
 from bs4 import BeautifulSoup
 
 # Field to name the file
-field = "botrothuphap"
+field = "botrothuphap2"
 
 # Setup logging
 logging.basicConfig(
@@ -75,7 +75,7 @@ def download_content(url, index):
         driver.get(full_url)
 
         # Dynamic wait for content
-        WebDriverWait(driver, 6).until(
+        WebDriverWait(driver, 3).until(
             EC.presence_of_element_located((By.CSS_SELECTOR, "div.col-md-12.py-4"))
         )
 
@@ -90,7 +90,7 @@ def download_content(url, index):
         # Save content
         doc_id_with_ext = url.rstrip("/").split("/")[-1]
         doc_id, _ = os.path.splitext(doc_id_with_ext) 
-        file_path = os.path.join(download_dir, f"{index + 0}_{doc_id}.txt")
+        file_path = os.path.join(download_dir, f"{index + 1120}_{doc_id}.txt")
         with open(file_path, "w", encoding="utf-8") as file:
             file.write(text)
 
@@ -104,7 +104,7 @@ def download_content(url, index):
 
 def main():
     # Read URLs from file
-    with open('link_downloads/file_link_download_botrothuphap.txt', 'r', encoding='utf-8') as file:
+    with open('link_downloads/botrothuphap2.txt', 'r', encoding='utf-8') as file:
         download_urls = [
             line.strip()
             for line in file
@@ -135,7 +135,7 @@ def main():
                     logging.error(f"Failed to process {url}: {e}")
 
         # Optional: Small delay between batches to avoid server overload
-        time.sleep(12)
+        time.sleep(10)
 
     logging.info("🎉 All TXT content saved.")
 
