@@ -1,0 +1,485 @@
+2025-05-20 02:39:24,593 - INFO - Total 1340 links found inbotrothuphap2.txt
+2025-05-20 02:39:24,593 - INFO - Processing batch 0 to 8
+2025-05-20 02:39:35,588 - ERROR - ❌ Error saving document TXT 2: Message: 
+Stacktrace:
+#0 0x5a162524275a <unknown>
+#1 0x5a1624ce50a0 <unknown>
+#2 0x5a1624d369b0 <unknown>
+#3 0x5a1624d36ba1 <unknown>
+#4 0x5a1624d84ea4 <unknown>
+#5 0x5a1624d5c3cd <unknown>
+#6 0x5a1624d822a0 <unknown>
+#7 0x5a1624d5c173 <unknown>
+#8 0x5a1624d28d4b <unknown>
+#9 0x5a1624d299b1 <unknown>
+#10 0x5a162520790b <unknown>
+#11 0x5a162520b80a <unknown>
+#12 0x5a16251ef662 <unknown>
+#13 0x5a162520c394 <unknown>
+#14 0x5a16251d449f <unknown>
+#15 0x5a1625230538 <unknown>
+#16 0x5a1625230716 <unknown>
+#17 0x5a16252415c6 <unknown>
+#18 0x71478dc6c609 start_thread
+
+2025-05-20 02:39:35,779 - ERROR - ❌ Error saving document TXT 0: Message: 
+Stacktrace:
+#0 0x6433a087b75a <unknown>
+#1 0x6433a031e0a0 <unknown>
+#2 0x6433a036f9b0 <unknown>
+#3 0x6433a036fba1 <unknown>
+#4 0x6433a03bdea4 <unknown>
+#5 0x6433a03953cd <unknown>
+#6 0x6433a03bb2a0 <unknown>
+#7 0x6433a0395173 <unknown>
+#8 0x6433a0361d4b <unknown>
+#9 0x6433a03629b1 <unknown>
+#10 0x6433a084090b <unknown>
+#11 0x6433a084480a <unknown>
+#12 0x6433a0828662 <unknown>
+#13 0x6433a0845394 <unknown>
+#14 0x6433a080d49f <unknown>
+#15 0x6433a0869538 <unknown>
+#16 0x6433a0869716 <unknown>
+#17 0x6433a087a5c6 <unknown>
+#18 0x795c1040c609 start_thread
+
+2025-05-20 02:39:35,884 - ERROR - ❌ Error saving document TXT 3: Message: 
+Stacktrace:
+#0 0x6065ee0b175a <unknown>
+#1 0x6065edb540a0 <unknown>
+#2 0x6065edba59b0 <unknown>
+#3 0x6065edba5ba1 <unknown>
+#4 0x6065edbf3ea4 <unknown>
+#5 0x6065edbcb3cd <unknown>
+#6 0x6065edbf12a0 <unknown>
+#7 0x6065edbcb173 <unknown>
+#8 0x6065edb97d4b <unknown>
+#9 0x6065edb989b1 <unknown>
+#10 0x6065ee07690b <unknown>
+#11 0x6065ee07a80a <unknown>
+#12 0x6065ee05e662 <unknown>
+#13 0x6065ee07b394 <unknown>
+#14 0x6065ee04349f <unknown>
+#15 0x6065ee09f538 <unknown>
+#16 0x6065ee09f716 <unknown>
+#17 0x6065ee0b05c6 <unknown>
+#18 0x7395a9dae609 start_thread
+
+2025-05-20 02:39:35,911 - ERROR - ❌ Error saving document TXT 4: Message: 
+Stacktrace:
+#0 0x5e2a7277a75a <unknown>
+#1 0x5e2a7221d0a0 <unknown>
+#2 0x5e2a7226e9b0 <unknown>
+#3 0x5e2a7226eba1 <unknown>
+#4 0x5e2a722bcea4 <unknown>
+#5 0x5e2a722943cd <unknown>
+#6 0x5e2a722ba2a0 <unknown>
+#7 0x5e2a72294173 <unknown>
+#8 0x5e2a72260d4b <unknown>
+#9 0x5e2a722619b1 <unknown>
+#10 0x5e2a7273f90b <unknown>
+#11 0x5e2a7274380a <unknown>
+#12 0x5e2a72727662 <unknown>
+#13 0x5e2a72744394 <unknown>
+#14 0x5e2a7270c49f <unknown>
+#15 0x5e2a72768538 <unknown>
+#16 0x5e2a72768716 <unknown>
+#17 0x5e2a727795c6 <unknown>
+#18 0x7d530f8a5609 start_thread
+
+2025-05-20 02:39:36,131 - ERROR - ❌ Error saving document TXT 1: Message: 
+Stacktrace:
+#0 0x61f87b61975a <unknown>
+#1 0x61f87b0bc0a0 <unknown>
+#2 0x61f87b10d9b0 <unknown>
+#3 0x61f87b10dba1 <unknown>
+#4 0x61f87b15bea4 <unknown>
+#5 0x61f87b1333cd <unknown>
+#6 0x61f87b1592a0 <unknown>
+#7 0x61f87b133173 <unknown>
+#8 0x61f87b0ffd4b <unknown>
+#9 0x61f87b1009b1 <unknown>
+#10 0x61f87b5de90b <unknown>
+#11 0x61f87b5e280a <unknown>
+#12 0x61f87b5c6662 <unknown>
+#13 0x61f87b5e3394 <unknown>
+#14 0x61f87b5ab49f <unknown>
+#15 0x61f87b607538 <unknown>
+#16 0x61f87b607716 <unknown>
+#17 0x61f87b6185c6 <unknown>
+#18 0x75f576eb4609 start_thread
+
+2025-05-20 02:39:41,211 - ERROR - ❌ Error saving document TXT 2: Message: 
+Stacktrace:
+#0 0x5a162524275a <unknown>
+#1 0x5a1624ce50a0 <unknown>
+#2 0x5a1624d369b0 <unknown>
+#3 0x5a1624d36ba1 <unknown>
+#4 0x5a1624d84ea4 <unknown>
+#5 0x5a1624d5c3cd <unknown>
+#6 0x5a1624d822a0 <unknown>
+#7 0x5a1624d5c173 <unknown>
+#8 0x5a1624d28d4b <unknown>
+#9 0x5a1624d299b1 <unknown>
+#10 0x5a162520790b <unknown>
+#11 0x5a162520b80a <unknown>
+#12 0x5a16251ef662 <unknown>
+#13 0x5a162520c394 <unknown>
+#14 0x5a16251d449f <unknown>
+#15 0x5a1625230538 <unknown>
+#16 0x5a1625230716 <unknown>
+#17 0x5a16252415c6 <unknown>
+#18 0x71478dc6c609 start_thread
+
+2025-05-20 02:39:41,321 - ERROR - Failed to process https://lawnet.vn/vb/Quyet-dinh-32-2020-QD-UBND-xet-duyet-ho-so-de-nghi-thanh-lap-Van-phong-cong-chung-Vinh-Phuc-6E598.html: Message: 
+Stacktrace:
+#0 0x5a162524275a <unknown>
+#1 0x5a1624ce50a0 <unknown>
+#2 0x5a1624d369b0 <unknown>
+#3 0x5a1624d36ba1 <unknown>
+#4 0x5a1624d84ea4 <unknown>
+#5 0x5a1624d5c3cd <unknown>
+#6 0x5a1624d822a0 <unknown>
+#7 0x5a1624d5c173 <unknown>
+#8 0x5a1624d28d4b <unknown>
+#9 0x5a1624d299b1 <unknown>
+#10 0x5a162520790b <unknown>
+#11 0x5a162520b80a <unknown>
+#12 0x5a16251ef662 <unknown>
+#13 0x5a162520c394 <unknown>
+#14 0x5a16251d449f <unknown>
+#15 0x5a1625230538 <unknown>
+#16 0x5a1625230716 <unknown>
+#17 0x5a16252415c6 <unknown>
+#18 0x71478dc6c609 start_thread
+
+2025-05-20 02:39:41,681 - ERROR - ❌ Error saving document TXT 3: Message: 
+Stacktrace:
+#0 0x6065ee0b175a <unknown>
+#1 0x6065edb540a0 <unknown>
+#2 0x6065edba59b0 <unknown>
+#3 0x6065edba5ba1 <unknown>
+#4 0x6065edbf3ea4 <unknown>
+#5 0x6065edbcb3cd <unknown>
+#6 0x6065edbf12a0 <unknown>
+#7 0x6065edbcb173 <unknown>
+#8 0x6065edb97d4b <unknown>
+#9 0x6065edb989b1 <unknown>
+#10 0x6065ee07690b <unknown>
+#11 0x6065ee07a80a <unknown>
+#12 0x6065ee05e662 <unknown>
+#13 0x6065ee07b394 <unknown>
+#14 0x6065ee04349f <unknown>
+#15 0x6065ee09f538 <unknown>
+#16 0x6065ee09f716 <unknown>
+#17 0x6065ee0b05c6 <unknown>
+#18 0x7395a9dae609 start_thread
+
+2025-05-20 02:39:41,723 - ERROR - ❌ Error saving document TXT 0: Message: 
+Stacktrace:
+#0 0x6433a087b75a <unknown>
+#1 0x6433a031e0a0 <unknown>
+#2 0x6433a036f9b0 <unknown>
+#3 0x6433a036fba1 <unknown>
+#4 0x6433a03bdea4 <unknown>
+#5 0x6433a03953cd <unknown>
+#6 0x6433a03bb2a0 <unknown>
+#7 0x6433a0395173 <unknown>
+#8 0x6433a0361d4b <unknown>
+#9 0x6433a03629b1 <unknown>
+#10 0x6433a084090b <unknown>
+#11 0x6433a084480a <unknown>
+#12 0x6433a0828662 <unknown>
+#13 0x6433a0845394 <unknown>
+#14 0x6433a080d49f <unknown>
+#15 0x6433a0869538 <unknown>
+#16 0x6433a0869716 <unknown>
+#17 0x6433a087a5c6 <unknown>
+#18 0x795c1040c609 start_thread
+
+2025-05-20 02:39:41,767 - ERROR - ❌ Error saving document TXT 4: Message: 
+Stacktrace:
+#0 0x5e2a7277a75a <unknown>
+#1 0x5e2a7221d0a0 <unknown>
+#2 0x5e2a7226e9b0 <unknown>
+#3 0x5e2a7226eba1 <unknown>
+#4 0x5e2a722bcea4 <unknown>
+#5 0x5e2a722943cd <unknown>
+#6 0x5e2a722ba2a0 <unknown>
+#7 0x5e2a72294173 <unknown>
+#8 0x5e2a72260d4b <unknown>
+#9 0x5e2a722619b1 <unknown>
+#10 0x5e2a7273f90b <unknown>
+#11 0x5e2a7274380a <unknown>
+#12 0x5e2a72727662 <unknown>
+#13 0x5e2a72744394 <unknown>
+#14 0x5e2a7270c49f <unknown>
+#15 0x5e2a72768538 <unknown>
+#16 0x5e2a72768716 <unknown>
+#17 0x5e2a727795c6 <unknown>
+#18 0x7d530f8a5609 start_thread
+
+2025-05-20 02:39:41,819 - ERROR - Failed to process https://lawnet.vn/vb/Quyet-dinh-248-QD-UBND-2020-cach-thuc-xet-duyet-ho-so-thanh-lap-Van-phong-cong-chung-Bac-Lieu-6FB5F.html: Message: 
+Stacktrace:
+#0 0x6065ee0b175a <unknown>
+#1 0x6065edb540a0 <unknown>
+#2 0x6065edba59b0 <unknown>
+#3 0x6065edba5ba1 <unknown>
+#4 0x6065edbf3ea4 <unknown>
+#5 0x6065edbcb3cd <unknown>
+#6 0x6065edbf12a0 <unknown>
+#7 0x6065edbcb173 <unknown>
+#8 0x6065edb97d4b <unknown>
+#9 0x6065edb989b1 <unknown>
+#10 0x6065ee07690b <unknown>
+#11 0x6065ee07a80a <unknown>
+#12 0x6065ee05e662 <unknown>
+#13 0x6065ee07b394 <unknown>
+#14 0x6065ee04349f <unknown>
+#15 0x6065ee09f538 <unknown>
+#16 0x6065ee09f716 <unknown>
+#17 0x6065ee0b05c6 <unknown>
+#18 0x7395a9dae609 start_thread
+
+2025-05-20 02:39:41,895 - ERROR - Failed to process https://lawnet.vn/vb/Quyet-dinh-2120-QD-UBND-2020-cong-bo-thu-tuc-hanh-chinh-duoc-Tu-van-phap-luat-So-Tu-phap-Hue-957B5.html: Message: 
+Stacktrace:
+#0 0x6433a087b75a <unknown>
+#1 0x6433a031e0a0 <unknown>
+#2 0x6433a036f9b0 <unknown>
+#3 0x6433a036fba1 <unknown>
+#4 0x6433a03bdea4 <unknown>
+#5 0x6433a03953cd <unknown>
+#6 0x6433a03bb2a0 <unknown>
+#7 0x6433a0395173 <unknown>
+#8 0x6433a0361d4b <unknown>
+#9 0x6433a03629b1 <unknown>
+#10 0x6433a084090b <unknown>
+#11 0x6433a084480a <unknown>
+#12 0x6433a0828662 <unknown>
+#13 0x6433a0845394 <unknown>
+#14 0x6433a080d49f <unknown>
+#15 0x6433a0869538 <unknown>
+#16 0x6433a0869716 <unknown>
+#17 0x6433a087a5c6 <unknown>
+#18 0x795c1040c609 start_thread
+
+2025-05-20 02:39:41,917 - ERROR - Failed to process https://lawnet.vn/vb/Quyet-dinh-1223-QD-UBND-2020-cong-bo-thu-tuc-hanh-chinh-Tu-van-phap-luat-So-Tu-phap-Dak-Nong-70CA2.html: Message: 
+Stacktrace:
+#0 0x5e2a7277a75a <unknown>
+#1 0x5e2a7221d0a0 <unknown>
+#2 0x5e2a7226e9b0 <unknown>
+#3 0x5e2a7226eba1 <unknown>
+#4 0x5e2a722bcea4 <unknown>
+#5 0x5e2a722943cd <unknown>
+#6 0x5e2a722ba2a0 <unknown>
+#7 0x5e2a72294173 <unknown>
+#8 0x5e2a72260d4b <unknown>
+#9 0x5e2a722619b1 <unknown>
+#10 0x5e2a7273f90b <unknown>
+#11 0x5e2a7274380a <unknown>
+#12 0x5e2a72727662 <unknown>
+#13 0x5e2a72744394 <unknown>
+#14 0x5e2a7270c49f <unknown>
+#15 0x5e2a72768538 <unknown>
+#16 0x5e2a72768716 <unknown>
+#17 0x5e2a727795c6 <unknown>
+#18 0x7d530f8a5609 start_thread
+
+2025-05-20 02:39:42,035 - ERROR - ❌ Error saving document TXT 1: Message: 
+Stacktrace:
+#0 0x61f87b61975a <unknown>
+#1 0x61f87b0bc0a0 <unknown>
+#2 0x61f87b10d9b0 <unknown>
+#3 0x61f87b10dba1 <unknown>
+#4 0x61f87b15bea4 <unknown>
+#5 0x61f87b1333cd <unknown>
+#6 0x61f87b1592a0 <unknown>
+#7 0x61f87b133173 <unknown>
+#8 0x61f87b0ffd4b <unknown>
+#9 0x61f87b1009b1 <unknown>
+#10 0x61f87b5de90b <unknown>
+#11 0x61f87b5e280a <unknown>
+#12 0x61f87b5c6662 <unknown>
+#13 0x61f87b5e3394 <unknown>
+#14 0x61f87b5ab49f <unknown>
+#15 0x61f87b607538 <unknown>
+#16 0x61f87b607716 <unknown>
+#17 0x61f87b6185c6 <unknown>
+#18 0x75f576eb4609 start_thread
+
+2025-05-20 02:39:42,157 - ERROR - Failed to process https://lawnet.vn/vb/Quyet-dinh-2118-QD-UBND-2020-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Luat-su-So-Tu-phap-Hue-6F6C0.html: Message: 
+Stacktrace:
+#0 0x61f87b61975a <unknown>
+#1 0x61f87b0bc0a0 <unknown>
+#2 0x61f87b10d9b0 <unknown>
+#3 0x61f87b10dba1 <unknown>
+#4 0x61f87b15bea4 <unknown>
+#5 0x61f87b1333cd <unknown>
+#6 0x61f87b1592a0 <unknown>
+#7 0x61f87b133173 <unknown>
+#8 0x61f87b0ffd4b <unknown>
+#9 0x61f87b1009b1 <unknown>
+#10 0x61f87b5de90b <unknown>
+#11 0x61f87b5e280a <unknown>
+#12 0x61f87b5c6662 <unknown>
+#13 0x61f87b5e3394 <unknown>
+#14 0x61f87b5ab49f <unknown>
+#15 0x61f87b607538 <unknown>
+#16 0x61f87b607716 <unknown>
+#17 0x61f87b6185c6 <unknown>
+#18 0x75f576eb4609 start_thread
+
+2025-05-20 02:39:45,283 - ERROR - ❌ Error saving document TXT 5: Message: 
+Stacktrace:
+#0 0x5a162524275a <unknown>
+#1 0x5a1624ce50a0 <unknown>
+#2 0x5a1624d369b0 <unknown>
+#3 0x5a1624d36ba1 <unknown>
+#4 0x5a1624d84ea4 <unknown>
+#5 0x5a1624d5c3cd <unknown>
+#6 0x5a1624d822a0 <unknown>
+#7 0x5a1624d5c173 <unknown>
+#8 0x5a1624d28d4b <unknown>
+#9 0x5a1624d299b1 <unknown>
+#10 0x5a162520790b <unknown>
+#11 0x5a162520b80a <unknown>
+#12 0x5a16251ef662 <unknown>
+#13 0x5a162520c394 <unknown>
+#14 0x5a16251d449f <unknown>
+#15 0x5a1625230538 <unknown>
+#16 0x5a1625230716 <unknown>
+#17 0x5a16252415c6 <unknown>
+#18 0x71478dc6c609 start_thread
+
+2025-05-20 02:39:45,748 - ERROR - ❌ Error saving document TXT 7: Message: 
+Stacktrace:
+#0 0x6433a087b75a <unknown>
+#1 0x6433a031e0a0 <unknown>
+#2 0x6433a036f9b0 <unknown>
+#3 0x6433a036fba1 <unknown>
+#4 0x6433a03bdea4 <unknown>
+#5 0x6433a03953cd <unknown>
+#6 0x6433a03bb2a0 <unknown>
+#7 0x6433a0395173 <unknown>
+#8 0x6433a0361d4b <unknown>
+#9 0x6433a03629b1 <unknown>
+#10 0x6433a084090b <unknown>
+#11 0x6433a084480a <unknown>
+#12 0x6433a0828662 <unknown>
+#13 0x6433a0845394 <unknown>
+#14 0x6433a080d49f <unknown>
+#15 0x6433a0869538 <unknown>
+#16 0x6433a0869716 <unknown>
+#17 0x6433a087a5c6 <unknown>
+#18 0x795c1040c609 start_thread
+
+2025-05-20 02:39:45,804 - ERROR - ❌ Error saving document TXT 6: Message: 
+Stacktrace:
+#0 0x6065ee0b175a <unknown>
+#1 0x6065edb540a0 <unknown>
+#2 0x6065edba59b0 <unknown>
+#3 0x6065edba5ba1 <unknown>
+#4 0x6065edbf3ea4 <unknown>
+#5 0x6065edbcb3cd <unknown>
+#6 0x6065edbf12a0 <unknown>
+#7 0x6065edbcb173 <unknown>
+#8 0x6065edb97d4b <unknown>
+#9 0x6065edb989b1 <unknown>
+#10 0x6065ee07690b <unknown>
+#11 0x6065ee07a80a <unknown>
+#12 0x6065ee05e662 <unknown>
+#13 0x6065ee07b394 <unknown>
+#14 0x6065ee04349f <unknown>
+#15 0x6065ee09f538 <unknown>
+#16 0x6065ee09f716 <unknown>
+#17 0x6065ee0b05c6 <unknown>
+#18 0x7395a9dae609 start_thread
+
+2025-05-20 02:39:50,898 - ERROR - ❌ Error saving document TXT 5: Message: 
+Stacktrace:
+#0 0x5a162524275a <unknown>
+#1 0x5a1624ce50a0 <unknown>
+#2 0x5a1624d369b0 <unknown>
+#3 0x5a1624d36ba1 <unknown>
+#4 0x5a1624d84ea4 <unknown>
+#5 0x5a1624d5c3cd <unknown>
+#6 0x5a1624d822a0 <unknown>
+#7 0x5a1624d5c173 <unknown>
+#8 0x5a1624d28d4b <unknown>
+#9 0x5a1624d299b1 <unknown>
+#10 0x5a162520790b <unknown>
+#11 0x5a162520b80a <unknown>
+#12 0x5a16251ef662 <unknown>
+#13 0x5a162520c394 <unknown>
+#14 0x5a16251d449f <unknown>
+#15 0x5a1625230538 <unknown>
+#16 0x5a1625230716 <unknown>
+#17 0x5a16252415c6 <unknown>
+#18 0x71478dc6c609 start_thread
+
+2025-05-20 02:39:51,533 - ERROR - ❌ Error saving document TXT 6: Message: 
+Stacktrace:
+#0 0x6065ee0b175a <unknown>
+#1 0x6065edb540a0 <unknown>
+#2 0x6065edba59b0 <unknown>
+#3 0x6065edba5ba1 <unknown>
+#4 0x6065edbf3ea4 <unknown>
+#5 0x6065edbcb3cd <unknown>
+#6 0x6065edbf12a0 <unknown>
+#7 0x6065edbcb173 <unknown>
+#8 0x6065edb97d4b <unknown>
+#9 0x6065edb989b1 <unknown>
+#10 0x6065ee07690b <unknown>
+#11 0x6065ee07a80a <unknown>
+#12 0x6065ee05e662 <unknown>
+#13 0x6065ee07b394 <unknown>
+#14 0x6065ee04349f <unknown>
+#15 0x6065ee09f538 <unknown>
+#16 0x6065ee09f716 <unknown>
+#17 0x6065ee0b05c6 <unknown>
+#18 0x7395a9dae609 start_thread
+
+2025-05-20 02:39:51,533 - ERROR - ❌ Error saving document TXT 7: Message: 
+Stacktrace:
+#0 0x6433a087b75a <unknown>
+#1 0x6433a031e0a0 <unknown>
+#2 0x6433a036f9b0 <unknown>
+#3 0x6433a036fba1 <unknown>
+#4 0x6433a03bdea4 <unknown>
+#5 0x6433a03953cd <unknown>
+#6 0x6433a03bb2a0 <unknown>
+#7 0x6433a0395173 <unknown>
+#8 0x6433a0361d4b <unknown>
+#9 0x6433a03629b1 <unknown>
+#10 0x6433a084090b <unknown>
+#11 0x6433a084480a <unknown>
+#12 0x6433a0828662 <unknown>
+#13 0x6433a0845394 <unknown>
+#14 0x6433a080d49f <unknown>
+#15 0x6433a0869538 <unknown>
+#16 0x6433a0869716 <unknown>
+#17 0x6433a087a5c6 <unknown>
+#18 0x795c1040c609 start_thread
+
+2025-05-20 02:39:54,449 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77c559bd4aa0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/27a1f13c19ff7ec3ce9da9cf152b7cb7/element
+2025-05-20 02:39:54,450 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77c559bd4bf0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/27a1f13c19ff7ec3ce9da9cf152b7cb7/element
+2025-05-20 02:39:54,453 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77c559bd4bc0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/27a1f13c19ff7ec3ce9da9cf152b7cb7/element
+2025-05-20 02:39:54,457 - ERROR - ❌ Error saving document TXT 5: HTTPConnectionPool(host='localhost', port=50895): Max retries exceeded with url: /session/27a1f13c19ff7ec3ce9da9cf152b7cb7/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77c559bd6690>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-05-20 02:39:54,470 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77c559bd6990>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/27a1f13c19ff7ec3ce9da9cf152b7cb7/screenshot
+2025-05-20 02:39:54,474 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77c559bd6b40>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/27a1f13c19ff7ec3ce9da9cf152b7cb7/screenshot
+2025-05-20 02:39:54,478 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77c559bd6cf0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/27a1f13c19ff7ec3ce9da9cf152b7cb7/screenshot
+2025-05-20 02:39:54,640 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77c559dbac60>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/5a1b424d2ffc7686c82c724b34ea79ec/element
+2025-05-20 02:39:54,641 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77c559bd7200>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/5a1b424d2ffc7686c82c724b34ea79ec/element
+2025-05-20 02:39:54,644 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77c559bd7440>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/5a1b424d2ffc7686c82c724b34ea79ec/element
+2025-05-20 02:39:54,645 - ERROR - ❌ Error saving document TXT 6: HTTPConnectionPool(host='localhost', port=34281): Max retries exceeded with url: /session/5a1b424d2ffc7686c82c724b34ea79ec/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77c559bd7680>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-05-20 02:39:54,646 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77c559bd7980>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/5a1b424d2ffc7686c82c724b34ea79ec/screenshot
+2025-05-20 02:39:54,649 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77c559bd7b30>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/5a1b424d2ffc7686c82c724b34ea79ec/screenshot
+2025-05-20 02:39:54,650 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77c559bd7ce0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/5a1b424d2ffc7686c82c724b34ea79ec/screenshot
+2025-05-20 02:39:54,676 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77c559bd4560>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/124f2ad71e45f12fc8753c984c09c5cc/element
+2025-05-20 02:39:54,677 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77c559c34230>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/124f2ad71e45f12fc8753c984c09c5cc/element
+2025-05-20 02:39:54,678 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77c559c34470>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/124f2ad71e45f12fc8753c984c09c5cc/element
+2025-05-20 02:39:54,679 - ERROR - ❌ Error saving document TXT 7: HTTPConnectionPool(host='localhost', port=60923): Max retries exceeded with url: /session/124f2ad71e45f12fc8753c984c09c5cc/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77c559c346b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-05-20 02:39:54,680 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77c559c349b0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/124f2ad71e45f12fc8753c984c09c5cc/screenshot
+2025-05-20 02:39:54,680 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77c559c34b60>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/124f2ad71e45f12fc8753c984c09c5cc/screenshot
+2025-05-20 02:39:54,681 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77c559c34d10>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/124f2ad71e45f12fc8753c984c09c5cc/screenshot

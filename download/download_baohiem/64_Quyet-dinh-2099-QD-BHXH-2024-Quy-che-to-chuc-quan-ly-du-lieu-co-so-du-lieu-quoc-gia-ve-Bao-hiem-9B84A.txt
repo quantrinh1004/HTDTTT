@@ -1,0 +1,1836 @@
+BẢO HIỂM XÃ HỘI
+  VIỆT NAM
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 2099/QĐ-BHXH
+Hà Nội, ngày 23
+  tháng 12 năm 2024
+QUYẾT ĐỊNH
+VỀ VIỆC BAN HÀNH QUY CHẾ TỔ CHỨC, QUẢN LÝ DỮ LIỆU, CƠ SỞ DỮ
+LIỆU TỪ CƠ SỞ DỮ LIỆU NGÀNH BẢO HIỂM XÃ HỘI VIỆT NAM; CƠ SỞ DỮ LIỆU QUỐC GIA VỀ
+BẢO HIỂM VÀ BẢO VỆ DỮ LIỆU CÁ NHÂN THUỘC PHẠM VI QUẢN LÝ CỦA NGÀNH BẢO HIỂM XÃ
+HỘI VIỆT NAM
+TỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM
+Căn cứ Luật Công nghệ thông
+tin ngày 29 tháng 6 năm 2006;
+Căn cứ Luật An toàn thông
+tin mạng ngày 19 tháng 11 năm 2015;
+Căn cứ Luật Tiếp cận thông
+tin số 104/2016/QH13 ngày 06 tháng 4 năm 2016;
+Căn cứ Luật An ninh mạng
+ngày 12 tháng 6 năm 2018;
+Căn cứ Luật Bảo vệ bí mật
+nhà nước số 29/2018/QH14 ngày 15 tháng 11 năm 2018;
+Căn cứ Luật Giao dịch điện tử
+số 20/2023/QH15 ngày 22 tháng 6 năm 2023;
+Căn cứ Nghị định số
+64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về việc ứng dụng công nghệ
+thông tin trong hoạt động của các cơ quan nhà nước;
+Căn cứ Nghị định số
+01/2013/NĐ-CP ngày 03 tháng 01 năm 2013 của Chính phủ quy định chi tiết thi
+hành một số điều của Luật Lưu trữ;
+Căn cứ Nghị định số
+89/2020/NĐ-CP ngày 04 tháng 8 năm 2020 của Chính phủ quy định chức năng, nhiệm
+vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam;
+Căn cứ Nghị định số
+47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ về Quản lý, kết nối và
+chia sẻ dữ liệu số của cơ quan nhà nước;
+Căn cứ Nghị định số
+43/2021/NĐ-CP ngày 31 tháng 3 năm 2021 của Chính phủ quy định Cơ sở dữ liệu quốc
+gia về Bảo hiểm;
+Căn cứ Nghị định số
+13/2023/NĐ-CP ngày 17 tháng 4 năm 2023 của Chính phủ về Bảo vệ dữ liệu cá nhân;
+Căn cứ Nghị định số
+47/2024/NĐ-CP ngày 09 tháng 05 năm 2024 của Chính phủ Quy định về danh mục cơ sở
+dữ liệu quốc gia; việc xây dựng, cập nhật, duy trì, khai thác và sử dụng cơ sở
+dữ liệu quốc gia;
+Căn cứ Thông tư số
+02/2019/TT-BNV ngày 24 tháng 01 năm 2019 của Bộ Nội vụ qui định tiêu chuẩn dữ
+liệu thông tin đầu vào và yêu cầu bảo quản tài liệu lưu trữ điện tử;
+Căn cứ Quyết định
+967/QĐ-BHXH ngày 20 tháng 06 năm 2017 của Tổng Giám đốc Bảo hiểm xã hội Việt
+Nam về việc ban hành quy chế bảo đảm an toàn thông tin trong ứng dụng công nghệ
+thông tin của ngành Bảo hiểm xã hội;
+Căn cứ Quyết định số
+1556/QĐ-BHXH ngày 25 tháng 10 năm 2019 của Tổng Giám đốc Bảo hiểm xã hội Việt
+Nam về việc ban hành Quy định thời hạn bảo quản hồ sơ, tài liệu hình thành
+trong hoạt động của hệ thống Bảo hiểm xã hội Việt Nam;
+Căn cứ Quyết định số
+3735/QĐ-BHXH ngày 29 tháng 12 năm 2022 của Tổng Giám đốc Bảo hiểm xã hội Việt
+Nam về việc ban hành Quy chế quản lý, triển khai, vận hành và khai thác hệ thống
+hạ tầng thông tin trong ngành Bảo hiểm xã hội Việt Nam;
+Căn cứ Quyết định số
+3766/QĐ-BHXH ngày 30 tháng 12 năm 2022 của Tổng Giám đốc BHXH Việt Nam về việc
+ban hành quy định về phân cấp quản lý đối với người được áp dụng chế độ công chức,
+viên chức, người lao động ngành BHXH Việt Nam;
+Căn cứ Quyết định số
+1668/QĐ-BHXH ngày 20 tháng 11 năm 2023 của Bảo hiểm xã hội Việt Nam về việc ban
+hành Quy chế bảo đảm an toàn hệ thống thông tin theo cấp độ ngành Bảo hiểm xã hội
+Việt Nam;
+Căn cứ Quyết định số
+929/QĐ-BHXH ngày 28 tháng 6 năm 2024 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam
+về việc ban hành danh mục cơ sở dữ liệu ngành Bảo hiểm xã hội Việt Nam;
+Căn cứ công văn số 2404/BHXH-CNTT
+ngày 18 tháng 7 năm 2024 của BHXH Việt Nam về việc công bố danh sách nền tảng,
+hệ thống thông tin do BHXH Việt Nam triển khai trên toàn quốc;
+Theo đề nghị của Giám đốc
+Trung tâm Công nghệ thông tin.
+QUYẾT ĐỊNH:
+Điều 1.
+Ban
+hành kèm theo Quyết định này Quy chế tổ chức, quản lý dữ liệu, cơ sở dữ liệu từ
+cơ sở dữ liệu ngành Bảo hiểm xã hội Việt Nam; Cơ sở dữ liệu quốc gia về Bảo hiểm
+và bảo vệ dữ liệu cá nhân thuộc phạm vi quản lý của ngành Bảo hiểm xã hội Việt
+Nam.
+Điều 2.
+Quyết
+định này có hiệu lực thi hành từ ngày ký và thay thế Quyết định số 2366/QĐ-BHXH
+ngày 28/11/2018 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành Quy
+chế Quản lý, khai thác và sử dụng thông tin từ cơ sở dữ liệu tập trung ngành bảo
+hiểm xã hội.
+Điều 3.
+Giám
+đốc Trung tâm Công nghệ thông tin, Chánh Văn phòng Bảo hiểm xã hội Việt Nam, Thủ
+trưởng các đơn vị trực thuộc Bảo hiểm xã hội Việt Nam, Giám đốc Bảo hiểm xã hội
+các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan
+chịu trách nhiệm thi hành Quyết định này./.
+Nơi nhận:
+- Như Điều 3;
+- Tổng Giám đốc (để b/c);
+- Các Phó Tổng Giám đốc;
+- Lưu: VT, CNTT.
+KT. TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Chu Mạnh Sinh
+QUY CHẾ
+QUY CHẾ TỔ CHỨC, QUẢN LÝ DỮ LIỆU, CƠ SỞ DỮ LIỆU TỪ CƠ SỞ DỮ
+LIỆU NGÀNH BẢO HIỂM XÃ HỘI VIỆT NAM; CƠ SỞ DỮ LIỆU QUỐC GIA VỀ BẢO HIỂM VÀ BẢO
+VỆ DỮ LIỆU CÁ NHÂN THUỘC PHẠM VI QUẢN LÝ CỦA NGÀNH BẢO HIỂM XÃ HỘI VIỆT NAM
+(Ban hành kèm theo Quyết định số ……/QĐ-BHXH ngày …/…/2024 của Tổng Giám đốc
+Bảo hiểm xã hội Việt Nam)
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1.
+Phạm vi điều chỉnh
+1. Quy chế này quy định việc tổ
+chức, quản lý dữ liệu, cơ sở dữ liệu từ cơ sở dữ liệu tập trung ngành Bảo hiểm
+xã hội Việt Nam; Cơ sở dữ liệu quốc gia về Bảo hiểm; việc bảo vệ dữ liệu cá
+nhân thuộc phạm vi quản lý của ngành Bảo hiểm xã hội; trách nhiệm và quyền hạn
+của các cá nhân, đơn vị trong và ngoài ngành Bảo hiểm xã hội Việt Nam.
+2. Quy chế này không áp dụng đối
+với thông tin, dữ liệu thuộc phạm vi bí mật nhà nước ngành BHXH Việt Nam.
+Điều 2. Đối
+tượng áp dụng
+1. Công chức, viên chức và lao
+động hợp đồng làm chuyên môn nghiệp vụ theo Nghị định số 111/2022/NĐ-CP ngày
+30/12/2022 của Chính phủ về hợp đồng đối với một số loại công việc trong cơ
+quan hành chính và đơn vị sự nghiệp công lập (trừ lao động hợp đồng thực hiện
+các công việc hỗ trợ, phục vụ quy định tại
+khoản 1, khoản 2 Điều
+4 thuộc Nghị định số 111/2022/NĐ-CP
+) của các đơn vị trực thuộc Bảo hiểm xã
+hội Việt Nam; Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương; Bảo hiểm
+xã hội quận, huyện, thị xã, thành phố trực thuộc Bảo hiểm xã hội tỉnh.
+2. Các cơ quan, tổ chức, đơn vị,
+cá nhân ngoài ngành Bảo hiểm xã hội Việt Nam có hoạt động liên quan đến việc tổ
+chức, quản lý dữ liệu, cơ sở dữ liệu từ cơ sở dữ liệu ngành Bảo hiểm xã hội Việt
+Nam và cơ sở dữ liệu quốc gia về Bảo hiểm.
+Điều 3.
+Giải thích từ ngữ và viết tắt
+1. Từ ngữ viết tắt, rút gọn
+- BHXH: Bảo hiểm xã hội.
+- CSDL: Cơ sở dữ liệu.
+- CNTT: Công nghệ thông tin.
+- Các đơn vị trực thuộc Bảo hiểm
+xã hội Việt Nam: Các đơn vị chuyên môn giúp việc Tổng Giám đốc và các đơn vị sự
+nghiệp trực thuộc Bảo hiểm xã hội Việt Nam.
+- BHXH tỉnh: Bảo hiểm xã hội tỉnh,
+thành phố trực thuộc Trung ương.
+- BHXH huyện: BHXH huyện, quận,
+thị xã, thành phố trực thuộc BHXH tỉnh.
+2. Thuật ngữ
+2.1.
+Tổ chức, quản lý dữ liệu,
+CSDL
+là việc thu thập dữ liệu, tạo lập dữ liệu
+để hình thành các CSDL; quản
+lý, duy trì, cập nhật dữ liệu, quản lý sự thay đổi dữ liệu; chia sẻ dữ liệu và
+quản lý chia sẻ dữ liệu; khai thác, sử dụng dữ liệu do mình quản lý và khai
+thác, sử dụng dữ liệu được chia sẻ từ cơ quan nhà nước khác.
+2.2.
+Tài khoản
+là những
+thông số nhất định mà người thiết lập, tổ chức quản lý và sử dụng được cấp để
+truy cập vào hệ thống thông tin hoặc CSDL ngành BHXH Việt Nam và CSDL quốc gia
+về Bảo hiểm thực hiện các tác vụ theo chức năng, nhiệm vụ được phân quyền, bao
+gồm: tên tài khoản và mật khẩu hoặc hình thức xác thực khác.
+2.3.
+Dữ liệu
+là thông
+tin dưới dạng ký hiệu, chữ viết, chữ số, hình ảnh, âm thanh hoặc dạng tương tự
+có thể xử lý được trên máy tính.
+2.4.
+Dữ liệu cá nhân
+là
+thông tin dưới dạng ký hiệu, chữ viết, chữ số, hình ảnh, âm thanh hoặc dạng
+tương tự trên môi trường điện tử gắn liền với một con người cụ thể hoặc giúp
+xác định một con người cụ thể. Dữ liệu cá nhân bao gồm dữ liệu cá nhân cơ bản
+và dữ liệu cá nhân nhạy cảm (được quy định tại
+khoản 3, khoản 4,
+Điều 2 Nghị định số 13/2023/NĐ-CP
+ngày 17/4/2023 của Chính phủ về Bảo vệ dữ
+liệu cá nhân.
+2.5.
+Bảo vệ dữ liệu cá nhân
+là
+hoạt động phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi vi phạm liên quan đến
+dữ liệu cá nhân theo quy định của pháp luật.
+2.6.
+Chủ thể dữ liệu
+là
+cá nhân được dữ liệu cá nhân phản ánh.
+2.7.
+Xử lý dữ liệu cá nhân
+là
+một hoặc nhiều hoạt động tác động tới dữ liệu cá nhân, như: thu thập, ghi, phân
+tích, xác nhận, lưu trữ, chỉnh sửa, công khai, kết hợp, truy cập, truy xuất,
+thu hồi, mã hóa, giải mã, sao chép, chia sẻ, truyền đưa, cung cấp, chuyển giao,
+xóa, hủy dữ liệu cá nhân hoặc các hành động khác có liên quan.
+2.8.
+CSDL
+là tập hợp các
+dữ liệu điện tử được sắp xếp, tổ chức để truy cập, khai thác, chia sẻ, quản lý
+và cập nhật thông qua phương tiện điện tử.
+2.9.
+CSDL ngành BHXH Việt
+Nam
+là CSDL do BHXH Việt Nam xây dựng, phát triển nhằm mục đích phục vụ
+riêng cho từng lĩnh vực để đáp ứng yêu cầu quản lý, chỉ đạo, điều hành của đơn
+vị; phục vụ công tác chỉ đạo điều hành của Lãnh đạo BHXH Việt Nam; phục vụ dữ
+liệu phân tích vĩ mô, đánh giá tác động chính sách trong các lĩnh vực quản lý của
+BHXH Việt Nam và kết nối, cập nhật dữ liệu với CSDL quốc gia về Bảo hiểm.
+2.10.
+CSDL quốc gia về Bảo
+hiểm
+là CSDL quốc gia lưu trữ thông tin về BHXH, BHYT, BHTN và thông tin về
+y tế, an sinh xã hội được cơ quan có thẩm quyền ghi nhận và đảm bảo quyền lợi,
+nghĩa vụ về bảo hiểm của công dân. CSDL quốc gia về Bảo hiểm là CSDL của Chính
+phủ được xây dựng thống nhất trên toàn quốc, dùng chung cho các cơ quan, tổ chức,
+cá nhân nhằm cung cấp chính xác, kịp thời thông tin về bảo hiểm phục vụ công
+tác quản lý nhà nước, đáp ứng yêu cầu phát triển kinh tế - xã hội và yêu cầu
+chính đáng của các cơ quan, tổ chức, cá nhân.
+2.11.
+Hệ thống hạ tầng thông
+tin
+là tập hợp trang thiết bị (máy chủ, thiết bị lưu trữ, thiết bị mạng,
+thiết bị bảo mật, máy trạm, máy tính xách tay, các thiết bị đầu cuối), đường
+truyền dẫn kết nối phục vụ chung hoạt động nghiệp vụ của ngành Bảo hiểm xã hội
+Việt Nam.
+2.12.
+Hệ thống thông tin
+là
+tập hợp phần cứng, phần mềm và hệ quản trị CSDL được thiết lập phục vụ mục đích
+tạo lập, cung cấp, truyền đưa, thu thập, xử lý, lưu trữ và trao đổi thông tin
+trên mạng.
+2.13.
+Trung tâm dữ liệu
+Ngành
+(bao gồm Trung tâm dữ liệu chính và Trung tâm dữ liệu dự phòng) là
+nơi tập trung các thiết bị phần cứng, ứng dụng và các thành phần liên quan để
+lưu trữ và quản lý CSDL ngành BHXH Việt Nam
+2.14.
+Đơn vị cung cấp dịch vụ
+là tổ chức ngoài ngành BHXH Việt Nam được cơ quan BHXH thuê hoặc thỏa thuận
+thông qua hợp đồng để tham gia xây dựng, quản trị, vận hành, khai thác, nâng cấp,
+phát triển hệ thống thông tin và CSDL ngành BHXH Việt Nam.
+2.15.
+Đơn vị chủ quản CSDL
+là
+đơn vị được giao chủ trì quản lý, cập nhật, tổ chức khai thác, sử dụng CSDL.
+a)
+Đơn vị chủ quản CSDL cấp
+Trung ương
+là đơn vị được Tổng Giám đốc BHXH Việt Nam giao chủ trì quản lý,
+cập nhật, tổ chức khai thác, sử dụng CSDL tại Phụ lục danh mục CSDL ngành BHXH
+Việt Nam ban hành kèm theo Quyết định số 929/QĐ-BHXH ngày 28/6/2024 của Tổng
+Giám đốc BHXH Việt Nam về việc ban hành danh mục cơ sở dữ liệu ngành BHXH Việt
+Nam và Phụ lục danh mục nền tảng, hệ thống thông tin do BHXH Việt Nam triển
+khai trên toàn quốc đính kèm Công văn số 2405/BHXH-CNTT ngày 18/7/2024 của BHXH
+Việt Nam về việc công bố danh sách nền tảng, hệ thống thông tin do BHXH Việt
+Nam triển khai trên toàn quốc.
+b)
+Đơn vị chủ quản CSDL cấp
+tỉnh
+là đơn vị được Giám đốc BHXH tỉnh giao chủ trì quản lý, cập nhật, tổ
+chức khai thác, sử dụng CSDL theo chuyên môn, nghiệp vụ.
+2.16.
+Quản trị CSDL
+là
+các cá nhân công tác trong ngành BHXH Việt Nam và cá nhân thuộc các đơn vị cung
+cấp dịch vụ được Bảo hiểm xã hội Việt Nam giao tổ chức, quản trị dữ liệu, CSDL
+từ CSDL ngành BHXH Việt Nam.
+2.17.
+Quản trị tài khoản
+truy cập
+là các cá nhân công tác trong ngành BHXH Việt Nam và cá nhân thuộc
+các đơn vị cung cấp dịch vụ được giao vận hành các thông số kỹ thuật và quản
+lý, cấp phát, thu hồi, thay đổi hoặc hủy bỏ thông tin tài khoản, quyền truy cập
+đến hệ thống thông tin. Bao gồm:
+a)
+Quản trị tài khoản truy cập
+cấp Trung ương
+là các cá nhân công tác tại Trung tâm CNTT, cá nhân thuộc
+các đơn vị cung cấp dịch vụ được Giám đốc Trung tâm Công nghệ thông tin giao vận
+hành các thông số kỹ thuật và quản lý, cấp phát, thu hồi, thay đổi hoặc hủy bỏ
+thông tin tài khoản, quyền truy cập đến hệ thống thông tin sau khi được sự đồng
+ý của Tổng Giám đốc BHXH Việt Nam.
+b)
+Quản trị tài khoản truy cập
+cấp tỉnh
+là các cá nhân đầu mối phụ trách CNTT trực thuộc BHXH tỉnh được
+Giám đốc BHXH tỉnh giao vận hành các thông số kỹ thuật và quản lý, cấp phát,
+thu hồi, thay đổi hoặc hủy bỏ thông tin tài khoản, quyền truy cập đến hệ thống
+thông tin thuộc phạm vi quản lý của BHXH tỉnh.
+2.18
+. Quản trị phân quyền
+truy cập thông tin, dữ liệu
+là các cá nhân công tác trong ngành BHXH Việt
+Nam được giao phân quyền chức năng, phạm vi và các tham số trong Hệ thống thông
+tin. Bao gồm:
+a) Quản trị phân quyền truy
+cập thông tin, dữ liệu cấp Trung ương
+là các cá nhân công tác tại đơn vị chủ
+quản CSDL cấp Trung ương được đơn vị chủ quản CSDL cấp Trung ương giao quyền quản
+trị hệ thống thông tin để phân quyền chức năng, phạm vi và các tham số trong hệ
+thống thông tin để truy cập đến thông tin, dữ liệu sau khi được sự đồng ý của Tổng
+Giám đốc BHXH Việt Nam.
+b) Quản trị phân quyền truy
+cập thông tin, dữ liệu cấp tỉnh
+là các cá nhân công tác tại đơn vị chủ quản
+CSDL cấp tỉnh được Giám đốc BHXH tỉnh giao quyền quản trị hệ thống thông tin để
+phân quyền chức năng, phạm vi và các tham số trong hệ thống thông tin để truy cập
+đến thông tin, dữ liệu.
+2.19.
+Người sử dụng
+là
+công chức, viên chức, lao động hợp đồng theo quy định tại
+khoản
+1 Điều 2 của Quy chế này
+được lãnh đạo đơn vị phân công nhiệm vụ và được cấp
+tài khoản truy cập vào CSDL thông qua hệ thống thông tin; các cá nhân ngoài
+ngành BHXH Việt Nam được sự cho phép của Tổng Giám đốc BHXH Việt Nam.
+2.20.
+Hệ thống IAM
+: Là hệ
+thống kiểm soát truy nhập và xác thực tài khoản tập trung ngành BHXH Việt Nam.
+2.21.
+Giao diện lập trình ứng
+dụng - API
+(Application Programming Interface): là một giao diện mà một hệ
+thống máy tính hay ứng dụng cung cấp để cho phép các yêu cầu dịch vụ có thể được
+tạo ra từ các chương trình máy tính khác hoặc cho phép dữ liệu có thể được trao
+đổi qua lại với nhau.
+Điều 4.
+Nguyên tắc chung tổ chức, quản lý dữ liệu, CSDL từ CSDL ngành BHXH Việt Nam và
+CSDL quốc gia về Bảo hiểm
+1. Tuân thủ các quy định của Luật
+Công nghệ thông tin ngày 29 tháng 6 năm 2006; Luật An toàn thông tin mạng ngày
+19 tháng 11 năm 2015; Luật Tiếp cận thông tin số 104/2016/QH13 ngày 06 tháng 4
+năm 2016; Luật An ninh mạng ngày 12 tháng 6 năm 2018; Luật Bảo vệ bí mật nhà nước
+số 29/2018/QH14 ngày 15 tháng 11 năm 2018; Luật Giao dịch điện tử số
+20/2023/QH15 ngày 22 tháng 6 năm 2023; Nghị định số 13/2023/NĐ-CP ngày
+17/4/2023 của Chính phủ về Bảo vệ dữ liệu cá nhân; Nghị định số 47/2020/NĐ-CP
+ngày 09/4/2020 của Chính phủ về Quản lý, kết nối và chia sẻ dữ liệu số của cơ
+quan nhà nước; Nghị định số 47/2024/NĐ-CP ngày 09/05/2024 của Chính phủ Quy định
+về Danh mục cơ sở dữ liệu quốc gia và các quy định khác của pháp luật hiện hành
+về bảo đảm an toàn hệ thống thông tin theo cấp độ đối với CSDL quốc gia và các
+hệ thống thông tin kết nối với CSDL quốc gia.
+2. Phù hợp với chủ trương, mục
+tiêu, nhiệm vụ, giải pháp, kế hoạch ứng dụng CNTT phát triển chính phủ số và bảo
+đảm an toàn thông tin mạng trong hoạt động của ngành BHXH Việt Nam. Mô hình kết
+nối, chia sẻ dữ liệu thông qua các hệ thống trung gian như: nền tảng, chia sẻ dữ
+liệu quốc gia; hạ tầng kết nối, chia sẻ dữ liệu cấp Bộ, cấp tỉnh; Nền tảng chia
+sẻ, điều phối dữ liệu tại Trung tâm dữ liệu quốc gia hoặc kết nối trực tiếp giữa
+các hệ thống thông tin, CSDL trong trường hợp Bộ, ngành chưa đáp ứng được mô
+hình kết nối, chia sẻ qua các hệ thống trung gian. Phương thức kết nối thông
+qua giao diện lập trình ứng dụng.
+3. CSDL ngành BHXH Việt Nam và
+CSDL quốc gia về Bảo hiểm được chia sẻ với tổ chức, cá nhân theo quy định của
+pháp luật; không cung cấp thông tin qua hình thức văn bản đối với thông tin đã
+được khai thác qua hình thức kết nối, chia sẻ dữ liệu giữa các hệ thống thông
+tin; không thu thập, tổ chức thu thập lại dữ liệu hoặc yêu cầu người dân, doanh
+nghiệp cung cấp thông tin, dữ liệu trong quá trình giải quyết các thủ tục hành
+chính của ngành BHXH Việt Nam nếu dữ liệu này đã được cơ quan nhà nước khác
+cung cấp, sẵn sàng cung cấp thông qua kết nối, chia sẻ dữ liệu, trừ trường hợp
+dữ liệu đó không bảo đảm yêu cầu về chất lượng theo tiêu chuẩn, quy chuẩn
+chuyên ngành hoặc sử dụng cho mục đích xác minh, thẩm tra dữ liệu hoặc pháp luật
+có quy định khác.
+4. Không làm ảnh hưởng đến quyền
+lợi và trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan, không xâm phạm
+quyền về đời sống riêng tư, bí mật cá nhân, bí mật gia đình trừ trường hợp pháp
+luật khác có quy định.
+5. Dữ liệu phải đảm bảo tính cập
+nhật, chính xác, khoa học, đầy đủ, an toàn, bảo mật thông tin và lưu trữ lâu
+dài; đảm bảo triển khai ứng dụng CNTT đồng bộ, thống nhất, hạn chế trùng lặp,
+đáp ứng các yêu cầu nghiệp vụ theo mô hình kiến trúc, quy hoạch thiết kế tổng
+thể, có khả năng dùng chung, chia sẻ thông tin, dữ liệu giữa các hệ thống khác
+trong ngành BHXH Việt Nam.
+6. Nhật ký tự động được thiết kế
+sẵn trong CSDL ngành BHXH Việt Nam và nhật ký sử dụng hệ thống thông tin là căn
+cứ chứng minh cho các hoạt động có tác động đến dữ liệu trong CSDL ngành BHXH
+Việt Nam.
+7. Dữ liệu chia sẻ giữa các cơ
+quan nhà nước là không thu phí, trừ trường hợp khai thác, sử dụng dữ liệu thuộc
+danh mục được quy định trong Luật Phí và lệ phí.
+8. Việc tạo lập, thông tin dữ
+liệu trong CSDL ngành BHXH Việt Nam và CSDL quốc gia về Bảo hiểm phải sử dụng
+thống nhất các bảng mã danh mục dùng chung, thống nhất với dữ liệu chủ do cơ
+quan nhà nước có thẩm quyền ban hành.
+9. Cơ quan, tổ chức, cá nhân được
+kết nối, chia sẻ, khai thác thông tin với CSDL ngành BHXH Việt Nam và CSDL quốc
+gia về Bảo hiểm phải đảm bảo điều kiện hạ tầng, hệ thống thông tin, mô hình kết
+nối, cấu trúc dữ liệu, an ninh, an toàn, bảo mật thông tin theo quy định của
+pháp luật và của BHXH Việt Nam.
+10. Khuyến khích, thúc đẩy việc
+trao đổi, chia sẻ thông tin, dữ liệu giữa BHXH Việt Nam với các Bộ, ngành, địa
+phương, các cơ quan quản lý nhà nước, các cơ quan, tổ chức quốc tế khác tuân thủ
+quy định của pháp luật và của ngành BHXH Việt Nam.
+11. Tổ chức, cá nhân được quyền
+khai thác dữ liệu của mình hoặc dữ liệu của tổ chức, cá nhân khác trong CSDL
+ngành BHXH Việt Nam và CSDL quốc gia về Bảo hiểm khi được tổ chức, cá nhân đó
+chấp nhận, trừ trường hợp pháp luật có quy định khác. Các trường hợp ngoài quy
+định tại điểm này được thực hiện theo quy định của Luật Tiếp cận thông tin và
+các quy định của pháp luật hiện hành.
+12. Việc xử lý dữ liệu cá nhân
+tại các đơn vị trong ngành BHXH Việt Nam phải tuân thủ quy định của pháp luật về
+bảo vệ dữ liệu cá nhân, an toàn thông tin mạng, an ninh mạng; quy định của pháp
+luật chuyên ngành và các quy định tại Quy chế này.
+Điều 5. Vận
+hành hệ thống thông tin và sao lưu CSDL
+1. Trung tâm CNTT và các đơn vị
+cung cấp dịch vụ chịu trách nhiệm quản lý, theo dõi, vận hành kỹ thuật hệ thống
+thông tin, CSDL ngành BHXH Việt Nam, CSDL quốc gia về Bảo hiểm bảo đảm an toàn,
+hoạt động thông suốt, ổn định.
+2. Các thông tin, dữ liệu lưu
+giữ trong CSDL ngành BHXH Việt Nam, CSDL quốc gia về Bảo hiểm phải được sao lưu
+trên các thiết bị lưu trữ định kỳ hằng ngày, hằng tuần, hằng tháng. Việc sao
+lưu CSDL được theo dõi trên Sổ nhật ký sao lưu CSDL theo mẫu
+Phụ lục 05
+của Quy chế này.
+3. Thời hạn lưu trữ dữ liệu thực
+hiện theo quy định của BHXH Việt Nam về thời hạn bảo quản hồ sơ, tài liệu hình
+thành trong hoạt động của hệ thống BHXH Việt Nam ban hành kèm theo Quyết định số
+1556/QĐ-BHXH ngày 25/10/2019 và quy định của pháp luật về lưu trữ.
+4. CSDL ngành BHXH Việt Nam,
+CSDL quốc gia về Bảo hiểm sau khi được sao lưu phải được bảo vệ an toàn, định kỳ
+kiểm tra và phục hồi thử để sẵn sàng sử dụng khi cần thiết và được bảo mật tại
+Trung tâm dữ liệu ngành BHXH Việt Nam.
+Điều 6. Các
+hành vi bị cấm
+1. Các hành vi bị nghiêm cấm được
+quy định tại Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Luật An toàn
+thông tin mạng ngày 19 tháng 11 năm 2015; Luật Tiếp cận thông tin số
+104/2016/QH13 ngày 06 tháng 4 năm 2016; Luật An ninh mạng ngày 12 tháng 6 năm
+2018; Luật Bảo vệ bí mật nhà nước số 29/2018/QH14 ngày 15 tháng 11 năm 2018; Luật
+Giao dịch điện tử số 20/2023/QH15 ngày 22 tháng 6 năm 2023; Nghị định số
+13/2023/NĐ-CP ngày 17/4/2023 của Chính phủ về Bảo vệ dữ liệu cá nhân; Nghị định
+số 47/2020/NĐ- CP ngày 09/4/2020 của Chính phủ về Quản lý, kết nối và chia sẻ dữ
+liệu số của cơ quan nhà nước; Nghị định số 47/2024/NĐ-CP ngày 09/05/2024 của
+Chính phủ Quy định về Danh mục cơ sở dữ liệu quốc gia và các quy định khác của
+pháp luật hiện hành.
+2. Cấp tài khoản truy cập các hệ
+thống thông tin, CSDL ngành BHXH Việt Nam, CSDL quốc gia về Bảo hiểm cho người,
+tổ chức không phải là đối tượng được cấp tài khoản theo quy định của Quy chế
+này.
+3. Tự ý sao chép, cung cấp, tiết
+lộ thông tin, dữ liệu của ngành BHXH Việt Nam cho cá nhân, tổ chức không có
+trách nhiệm, thẩm quyền.
+4. Tự ý xóa, sửa dữ liệu trên
+CSDL ngành BHXH Việt Nam, CSDL quốc gia về Bảo hiểm; xóa bỏ, thay đổi quyền
+truy cập hệ thống thông tin ngành BHXH Việt Nam khi chưa được sự đồng ý của cấp
+có thẩm quyền.
+Chương II
+TỔ CHỨC, QUẢN LÝ DỮ LIỆU,
+CƠ SỞ DỮ LIỆU TỪ CƠ SỞ DỮ LIỆU NGÀNH BẢO HIỂM XÃ HỘI VIỆT NAM
+Điều 7. Tổ
+chức, quản lý dữ liệu, CSDL từ CSDL ngành BHXH Việt Nam
+1. CSDL ngành BHXH Việt Nam được
+thu thập, cập nhật từ các hoạt động nghiệp vụ thông qua hệ thống thông tin; từ
+việc kết nối và liên thông khai thác từ các CSDL quốc gia, CSDL chuyên ngành
+khác theo quy định hoặc được cập nhật theo kế hoạch của BHXH Việt Nam.
+2. CSDL ngành BHXH Việt Nam được
+xây dựng phù hợp với Khung Kiến trúc chính phủ điện tử Việt Nam và Kiến trúc
+chính phủ điện tử ngành BHXH Việt Nam và các quy định nghiệp vụ do BHXH Việt
+Nam ban hành.
+3. CSDL ngành BHXH Việt Nam phải
+được xây dựng, thiết lập các giải pháp đảm bảo an toàn và bảo mật thông tin; phải
+được phân loại theo cấp độ an toàn hệ thống thông tin, đáp ứng yêu cầu theo
+tiêu chuẩn, quy chuẩn kỹ thuật theo quy định của pháp luật và của ngành BHXH Việt
+Nam về an toàn thông tin mạng.
+4. Việc tổ chức, quản lý, khai
+thác dữ liệu, CSDL từ CSDL ngành BHXH Việt Nam được thực hiện trên cơ sở phân
+quyền phù hợp với chức năng, nhiệm vụ và quyền hạn của đơn vị chủ quản CSDL
+thông qua hệ thống thông tin hoặc qua hệ quản trị CSDL. Đối với các thông tin cần
+khai thác mà chưa xây dựng chức năng trên hệ thống phần mềm, đơn vị chủ quản
+CSDL có yêu cầu khai thác thông tin phải trình Lãnh đạo ngành BHXH Việt Nam phê
+duyệt trước khi chuyển đến Trung tâm CNTT hỗ trợ kết xuất thông tin.
+5. Các thiết bị dùng để xây dựng,
+quản lý, cập nhật, khai thác, kết nối, chia sẻ và sử dụng thông tin từ CSDL
+ngành BHXH Việt Nam phải được cài đặt thường trú giải pháp an toàn thông tin
+cho thiết bị đầu cuối và đảm bảo yêu cầu theo quy định tại quy chế quản lý, triển
+khai, vận hành và khai thác hệ thống hạ tầng thông tin trong ngành BHXH Việt
+Nam.
+Điều 8. Kết
+nối, chia sẻ dữ liệu, CSDL từ CSDL ngành BHXH Việt Nam
+1. Trung tâm Công nghệ thông
+tin là đơn vị chủ trì thực hiện kết nối, chia sẻ dữ liệu, CSDL từ CSDL ngành
+BHXH Việt Nam trên cơ sở đề xuất của đơn vị chủ quản CSDL cấp Trung ương.
+2. Việc quản lý duy trì, tạm
+ngưng kết nối, chấm dứt kết nối thực hiện theo quy định tại
+Mục
+4, Chương III của Nghị định số 47/2020/NĐ-CP
+ngày 09/4/2020 của Chính phủ về
+Quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước. Trung tâm CNTT báo
+cáo, xin ý kiến Tổng Giám đốc BHXH Việt Nam trước khi triển khai kết nối, chia
+sẻ; tạm ngưng kết nối; chấm dứt kết nối dữ liệu, CSDL.
+3. Việc xây dựng, chỉnh sửa các
+API kết nối, chia sẻ dữ liệu tuân thủ theo quy định về quản lý và phát triển phần
+mềm.
+4. CSDL ngành BHXH Việt Nam được
+kết nối, chia sẻ trên môi trường điện tử phục vụ quản lý, khai thác, cung cấp,
+sử dụng thông tin, dữ liệu; đáp ứng các tiêu chuẩn, quy chuẩn kỹ thuật về CNTT
+và quy chuẩn kỹ thuật cấu trúc thông điệp dữ liệu trao đổi với CSDL quốc gia về
+Bảo hiểm.
+5. Đối với dữ liệu đã sẵn sàng
+được chia sẻ theo hình thức mặc định, thực hiện theo các quy định chi tiết tại
+Mục 2, Chương III của Nghị định số 47/2020/NĐ-CP
+ngày 09/4/2020
+của Chính phủ về Quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước.
+6. Đối với dữ liệu chưa sẵn
+sàng chia sẻ theo hình thức mặc định, các cơ quan cung cấp và khai thác dữ liệu
+phối hợp, thống nhất thực hiện chia sẻ theo yêu cầu đặc thù quy định tại
+Mục 3, Chương III của Nghị định 47/2020/NĐ-CP
+ngày 09/4/2020 của
+Chính phủ về Quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước.
+Chương
+III
+TỔ CHỨC, QUẢN LÝ DỮ LIỆU,
+CƠ SỞ DỮ LIỆU TỪ CƠ SỞ DỮ LIỆU QUỐC GIA VỀ BẢO HIỂM
+Điều 9.
+Nguyên tắc xây dựng, quản lý, khai thác và sử dụng CSDL quốc gia về Bảo hiểm
+1. CSDL quốc gia về Bảo hiểm được
+xây dựng, quản lý tập trung, thống nhất từ Trung ương đến địa phương.
+2. CSDL quốc gia về Bảo hiểm được
+cập nhật đầy đủ, chính xác và kịp thời ngay sau khi các thủ tục hành chính,
+nghiệp vụ có liên quan đã hoàn thành; duy trì hoạt động liên tục, ổn định,
+thông suốt đáp ứng yêu cầu khai thác và sử dụng của các cơ quan, tổ chức, cá
+nhân theo quy định pháp luật.
+3. CSDL quốc gia về Bảo hiểm được
+lưu trữ, bảo mật, bảo đảm an toàn thông tin.
+4. Việc xây dựng, quản lý, khai
+thác, sử dụng CSDL quốc gia về Bảo hiểm tuân thủ các quy định của Luật BHXH, Luật
+Việc làm, Luật An toàn vệ sinh lao động, Luật BHYT, Luật CNTT, Luật Giao dịch
+điện tử; các quy định pháp luật về kiến trúc Chính phủ điện tử Việt Nam; quy định
+về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước; các quy định về
+bảo đảm bảo về đời sống riêng tư, bí mật cá nhân, bí mật gia đình và các quy định
+pháp luật khác có liên quan.
+Điều 10. Đối
+tượng và phương thức khai thác, sử dụng CSDL quốc gia về Bảo hiểm
+1. Thông tin trong CSDL quốc
+gia về Bảo hiểm được thu thập, cập nhật và điều chỉnh theo quy định tại
+Điều 7, Điều 8 của Nghị định số 43/2021/NĐ-CP
+ngày 31/3/2021 của
+Chính phủ quy định Cơ sở dữ liệu quốc gia về Bảo hiểm.
+2. Đối tượng và cách thức khai
+thác, sử dụng CSDL quốc gia về Bảo hiểm theo quy định tại
+Điều
+10, Điều 11 của Nghị định số 43/2021/NĐ-CP
+ngày 31/3/2021 của Chính phủ quy
+định CSDL quốc gia về Bảo hiểm.
+3. Trường hợp CSDL quốc gia về
+Bảo hiểm chưa được xây dựng đầy đủ, BHXH Việt Nam thực hiện thu thập dữ liệu và
+đưa vào CSDL thuộc danh mục CSDL của ngành BHXH Việt Nam sẵn sàng phục vụ tích
+hợp vào CSDL quốc gia. Việc khai thác, sử dụng dữ liệu thuộc phạm vi của CSDL
+quốc gia về Bảo hiểm được trích xuất tạm thời từ danh mục CSDL của ngành BHXH
+Việt Nam tuân thủ quy chế này và các quy định của pháp luật đối với CSDL quốc
+gia và các nguồn dữ liệu khác có liên quan.
+Điều 11. Kết
+nối, chia sẻ dữ liệu, CSDL từ CSDL quốc gia về Bảo hiểm
+1. Việc kết nối, chia sẻ thông
+tin, dữ liệu giữa CSDL quốc gia về Bảo hiểm với các CSDL quốc gia khác, các
+CSDL chuyên ngành, Cổng Dịch vụ công quốc gia, Hệ thống thông tin giải quyết thủ
+tục hành chính cấp bộ, cấp tỉnh, Hệ thống thông tin khác được thực hiện thông
+qua nền tảng tích hợp, chia sẻ dữ liệu quốc gia, trục liên thông văn bản quốc
+gia; nền tảng chia sẻ, điều phối dữ liệu tại Trung tâm dữ liệu quốc gia và các
+nền tảng kết nối, tích hợp khác theo quy định tại Nghị định số 47/2020/NĐ-CP
+ngày 09/4/2020 của Chính phủ về quản lý, kết nối và chia sẻ dữ liệu số trong cơ
+quan nhà nước; phù hợp với Khung Kiến trúc Chính phủ điện tử Việt Nam.
+2. Phương thức kết nối thông
+qua giao diện lập trình ứng dụng.
+3. Trung tâm CNTT là đơn vị được
+BHXH Việt Nam giao chủ trì thực hiện kết nối để chia sẻ dữ liệu từ CSDL quốc
+gia về Bảo hiểm; chủ trì cung cấp dữ liệu mở ngành BHXH Việt Nam.
+Điều 12.
+Điều kiện kết nối với CSDL quốc gia về Bảo hiểm
+1. Hệ thống thông tin của các
+cơ quan, tổ chức kết nối với CSDL quốc gia về Bảo hiểm phải đáp ứng các yêu cầu
+bảo đảm an toàn hệ thống thông tin cấp độ 3 trở lên theo quy định của pháp luật
+về bảo đảm an toàn hệ thống thông tin theo cấp độ; phải phù hợp với tiêu chuẩn
+kỹ thuật theo quy định tại Quyết định số 3680/QĐ-BHXH ngày 23/12/2022 của Tổng
+Giám đốc BHXH Việt Nam ban hành Quy định kỹ thuật về cấu trúc thông điệp dữ liệu
+trao đổi với Cơ sở dữ liệu quốc gia về Bảo hiểm.
+2. Trước khi thực hiện kết nối
+hoặc sau khi thực hiện kết nối với CSDL quốc gia về Bảo hiểm mà hệ thống thông
+tin của các cơ quan, tổ chức có sự điều chỉnh, thay đổi về thiết kế hệ thống
+thì phải cung cấp cho BHXH Việt Nam các tài liệu liên quan để đánh giá an ninh,
+an toàn thông tin. Nội dung kiểm tra, đánh giá an ninh, an toàn thông tin bao gồm:
+Việc thiết lập cấu hình bảo mật trên thiết bị hệ thống, máy chủ, ứng dụng và cơ
+sở dữ liệu; Phát hiện mã độc, lỗ hổng, điểm yếu, thử nghiệm xâm nhập hệ thống đối
+với thiết bị hệ thống, máy chủ và ứng dụng; An toàn thông tin cho mã nguồn ứng
+dụng; An ninh, an toàn phần cứng; Việc ban hành các quy định, chính sách quản
+lý tài khoản, ra, vào khu vực máy chủ, quản lý mật khẩu các tài khoản quản trị,
+quản lý truy cập, các văn bản thỏa thuận về quyền, nghĩa vụ, trách nhiệm của chủ
+thể tham gia quản lý, vận hành, cung cấp dịch vụ đối với hệ thống thông tin.
+3. Trung tâm CNTT là đơn vị chủ
+trì xây dựng quy trình, biểu mẫu thực hiện việc kiểm tra, đánh giá an ninh, an
+toàn thông tin của hệ thống thông tin có yêu cầu kết nối với CSDL quốc gia về Bảo
+hiểm trước khi kết nối và có văn bản xác nhận việc bảo đảm an ninh, an toàn
+thông tin theo quy định tại khoản 2 Điều này.
+Điều 13.
+Quy trình thực hiện kết nối giữa CSDL quốc gia về Bảo hiểm với CSDL quốc gia,
+CSDL chuyên ngành và hệ thống thông tin khác
+1. Cơ quan, tổ chức quản lý hệ
+thống thông tin có văn bản đề nghị kết nối với CSDL về Bảo hiểm gửi BHXH Việt
+Nam trong đó hồ sơ đề nghị bao gồm các thông tin chính: Tên đơn vị đăng ký; Tên
+hệ thống thông tin, CSDL đề nghị được kết nối, chia sẻ; thông tin cán bộ phụ
+trách kết nối, chia sẻ, khai thác thông tin; số lượng trường thông tin cần chia
+sẻ; tài liệu mô tả kỹ thuật thành phần hệ thống có kết nối với CSDL quốc gia về
+Bảo hiểm.
+2. Khi nhận được văn bản đề nghị,
+BHXH Việt Nam giao Trung tâm CNTT thực hiện: cung cấp tài liệu kỹ thuật phục vụ
+kết nối, chia sẻ, khai thác thông tin trong CSDL quốc gia về Bảo hiểm; hỗ trợ
+các cơ quan, tổ chức thực hiện kết nối, điều chỉnh phần mềm và kiểm thử kỹ thuật
+các dịch vụ chia sẻ, khai thác thông tin trong CSDL quốc gia về Bảo hiểm; thực
+hiện kiểm tra, đánh giá việc đảm bảo an ninh, an toàn hệ thống thông tin của cơ
+quan, tổ chức đề nghị kết nối.
+Điều 14.
+Lưu trữ nhật ký kết nối, chia sẻ, khai thác thông tin với CSDL quốc gia về Bảo
+hiểm
+1. BHXH Việt Nam và cơ quan, tổ
+chức có hoạt động kết nối, chia sẻ, khai thác thông tin với CSDL quốc gia về Bảo
+hiểm có trách nhiệm lưu lại nhật ký thực hiện kết nối, chia sẻ, khai thác thông
+tin để phục vụ công tác theo dõi, kiểm tra, giám sát.
+2. Thời hạn tối thiểu lưu trữ
+nhật ký về kết nối, chia sẻ, khai thức thông tin trong hệ thống CSDL quốc gia về
+Bảo hiểm là 02 năm kể từ thời điểm thực hiện việc kết nối, chia sẻ, khai thác
+thông tin.
+Điều 15. Xử
+lý sự cố, hỗ trợ, giải đáp vướng mắc trong kết nối, chia sẻ, khai thác, thông
+tin trong CSDL quốc gia về Bảo hiểm
+1. Cơ quan, tổ chức có hoạt động
+kết nối, chia sẻ và khai thác thông tin trong CSDL quốc gia về Bảo hiểm có
+trách nhiệm xây dựng tài liệu hướng dẫn sử dụng, thực hiện các dịch vụ khai
+thác thông tin trong CSDL quốc gia về Bảo hiểm của cơ quan, đơn vị mình.
+2. Cơ quan, tổ chức, cá nhân đề
+nghị xử lý sự cố, hỗ trợ, giải đáp vướng mắc trong quá trình thực hiện kết nối,
+chia sẻ, khai thác thông tin với CSDL quốc gia về Bảo hiểm thông qua hộp thư
+qldl.cntt@vss.gov.vn
+hoặc bằng văn bản đề nghị hỗ trợ, giải quyết vướng mắc.
+Chương IV
+QUẢN LÝ TÀI KHOẢN, PHÂN
+QUYỀN NGƯỜI DÙNG
+Điều 16.
+Quản lý tài khoản
+1. Tài khoản truy cập các hệ thống
+thông tin và CSDL ngành BHXH Việt Nam được cấp và phân quyền cho đơn vị, cá
+nhân theo đúng chức năng và nhiệm vụ được phân công.
+2. Các đơn vị, cá nhân được cấp
+tài khoản có trách nhiệm quản lý, bảo mật tài khoản đã được cấp để truy cập vào
+các hệ thống thông tin và CSDL ngành BHXH Việt Nam theo đúng quy định tại
+Điều 4, Quyết định số 3735/QĐ-BHXH ngày 29/12/2022
+của Tổng
+Giám đốc BHXH Việt Nam ban hành Quy chế quản lý, triển khai, vận hành và khai
+thác hệ thống hạ tầng thông tin trong ngành Bảo hiểm xã hội Việt Nam.
+3. Việc sử dụng tài khoản chỉ
+phục vụ các công vụ của Ngành theo nhiệm vụ được giao, không dùng cho mục đích
+khác.
+Điều 17.
+Quy định phân quyền
+1. Trung tâm CNTT là đơn vị thực
+hiện việc cấp, hủy, khóa, thay đổi tài khoản quản trị tài khoản truy cập cấp
+Trung ương thuộc các đơn vị chủ quản CSDL cấp Trung ương, các tài khoản quản trị
+tài khoản truy cập cấp tỉnh, tài khoản thuộc các đơn vị cung cấp dịch vụ. Khi
+có đề nghị cấp, khóa, thu hồi hoặc thay đổi, bổ sung quyền của tài khoản truy cập
+hệ thống các đơn vị trên lập danh sách gửi Trung tâm CNTT theo mẫu
+Phụ lục 02
+của Quy chế này.
+2. Đầu mối phụ trách CNTT tại
+BHXH tỉnh có trách nhiệm thực hiện cấp, hủy, khóa, thay đổi quyền truy cập hệ
+thống thông tin theo phân cấp quản lý.
+3. Đầu mối chủ quản CSDL cấp tỉnh
+của hệ thống thông tin thực hiện cấp/thu hồi/thay đổi tài khoản quản trị phân
+quyền truy cập thông tin, dữ liệu cấp tỉnh; phân quyền sử dụng chức năng trên hệ
+thống thông tin cho các tài khoản thuộc đơn vị mình theo phân cấp quản lý.
+4. Thời gian thực hiện cấp/thu
+hồi/thay đổi quyền truy cập hệ thống thông tin, quyền sử dụng chức năng trên hệ
+thống thông tin cho người sử dụng không quá 02 ngày làm việc kể từ ngày nhận được
+văn bản đề nghị cấp mới/thu hồi/thay đổi quyền của các đơn vị.
+5. Trường hợp người sử dụng
+thay đổi vai trò, vị trí việc làm trong một cơ quan BHXH hoặc luân chuyển giữa
+các cơ quan BHXH: Ngay khi thời điểm quyết định điều động công việc có hiệu lực,
+Lãnh đạo đơn vị cũ có văn bản đề nghị thu hồi/thay đổi quyền truy cập hệ thống
+thông tin của tài khoản gửi BHXH Việt Nam (qua Trung tâm CNTT) hoặc đầu mối phụ
+trách CNTT tại BHXH tỉnh theo phân cấp để thực hiện việc thu hồi, thay đổi quyền
+truy cập. Sau khi thu hồi quyền truy cập, việc cấp mới/thay đổi quyền truy cập
+được thực hiện theo quy định về cấp mới quyền truy cập trong Quy chế này.
+Điều 18.
+Quy định cấp/thu hồi tài khoản, quyền đăng nhập
+1. Đối với các quyền Quản trị
+1.1. Quản trị tài khoản truy cập
+cấp Trung ương: Căn cứ nhu cầu về cấp/thu hồi quyền Quản trị tài khoản truy cập
+cấp Trung ương, Trung tâm CNTT tổng hợp danh sách cá nhân được cấp/thu hồi theo
+mẫu tại
+Phụ lục 02
+của Quy chế này trình Lãnh đạo
+BHXH Việt Nam phê duyệt trước khi thực hiện việc cấp/thu hồi quyền trên hệ thống
+thông tin.
+1.2. Quản trị tài khoản truy cập
+cấp tỉnh: BHXH các tỉnh lập danh sách cấp/thu hồi/thay đổi quyền quản trị theo mẫu
+tại
+Phụ lục 02
+của Quy chế này gửi về BHXH Việt
+Nam (qua Trung tâm CNTT). Trung tâm CNTT tổng hợp trình Lãnh đạo BHXH Việt Nam
+phê duyệt cấp/thu hồi quyền quản trị hệ thống thông tin và thông báo cho đơn vị
+quản lý người được cấp/thu hồi quản trị theo mẫu tại
+Phụ
+lục 03
+của Quy chế này.
+1.3. Quản trị phân quyền truy cập
+thông tin, dữ liệu cấp Trung ương: Căn cứ nhu cầu về cấp/thu hồi quyền Quản trị
+phân quyền truy cập thông tin, dữ liệu cấp Trung ương, Đơn vị chủ quản CSDL cấp
+Trung ương tổng hợp danh sách cá nhân được cấp/thu hồi trình Lãnh đạo BHXH Việt
+Nam phê duyệt và giao Trung tâm CNTT thực hiện việc cấp/thu hồi quyền trên hệ
+thống thông tin.
+1.4. Quản trị phân quyền truy cập
+thông tin, dữ liệu cấp cấp tỉnh: BHXH các tỉnh lập danh sách cấp/thu hồi/thay đổi
+quyền quản trị theo mẫu tại
+Phụ lục 02
+của Quy chế
+này gửi về BHXH Việt Nam (qua Đơn vị chủ quản CSDL). Đơn vị chủ quản CSDL tổng
+hợp trình Lãnh đạo BHXH Việt Nam phê duyệt cấp/thu hồi quyền quản trị; thực hiện
+việc cấp/thu hồi quyền trên hệ thống thông tin và thông báo cho BHXH tỉnh theo mẫu
+tại
+Phụ lục 03
+của Quy chế này.
+2. Đối với quyền truy cập hệ thống
+thông tin của các đơn vị trực thuộc BHXH Việt Nam
+2.1. Căn cứ chức trách, nhiệm vụ,
+quyền hạn; phân công công việc, đơn vị thuộc BHXH Việt Nam lập danh sách đề nghị
+cấp, khóa, thu hồi hoặc thay đổi, bổ sung quyền của tài khoản truy cập hệ thống
+gửi Trung tâm CNTT và đơn vị chủ quản CSDL theo mẫu
+Phụ
+lục 02
+của Quy chế này.
+2.2. Trung tâm CNTT tổng hợp
+danh sách quyền truy cập hệ thống thông tin của các đơn vị trực thuộc BHXH Việt
+Nam trình Lãnh đạo BHXH Việt Nam phê duyệt trước khi giao cho Quản trị tài khoản
+truy cập cấp Trung ương thực hiện cấp/thu hồi/thay đổi quyền truy cập đến hệ thống
+thông tin và thông báo cho đơn vị quản lý người được cấp/thu hồi quyền truy cập
+theo mẫu tại
+Phụ lục 03
+của Quy chế này, đồng thời
+thông báo cho Đơn vị chủ quản CSDL (trường hợp đề xuất quyền truy cập hệ thống
+thông tin tại Trung ương).
+2.3. Sau khi nhận danh sách đề
+nghị cấp, khóa, thu hồi hoặc thay đổi, bổ sung quyền của tài khoản truy cập hệ
+thống theo
+Phụ lục 02
+và thông báo theo mẫu
+Phụ lục 03
+do Trung tâm CNTT gửi (nếu có), Quản trị
+phân quyền truy cập thông tin, dữ liệu cấp Trung ương báo cáo thực hiện phân
+quyền hoặc báo cáo Thủ trưởng đơn vị chủ quản CSDL về việc từ chối và lý do từ
+chối phân quyền, lập thông báo theo mẫu tại
+Phụ lục
+03
+gửi đơn vị thuộc BHXH Việt Nam và Trung tâm CNTT.
+3. Đối với quyền truy cập hệ thống
+thông tin của các đơn vị trực thuộc BHXH tỉnh
+3.1. Căn cứ chức trách, nhiệm vụ,
+quyền hạn; phân công công việc, các phòng, BHXH các huyện lập danh sách đề nghị
+cấp, khóa, thu hồi hoặc thay đổi, bổ sung quyền của tài khoản truy cập hệ thống
+thông tin gửi BHXH tỉnh theo mẫu
+Phụ lục 02
+của
+Quy chế này.
+3.2. Quản trị tài khoản truy cập
+cấp tỉnh tổng hợp danh sách đề nghị cấp, khóa, thu hồi hoặc thay đổi tài khoản
+truy cập hệ thống thông tin của các phòng, BHXH các huyện trình Giám đốc BHXH tỉnh
+gửi Trung tâm CNTT theo mẫu
+Phụ lục 02
+của Quy chế
+này đối với những thay đổi thuộc phạm vi quy định tại
+Điều
+17
+, Trung
+tâm CNTT thực hiện tương tự điểm 2.2, khoản 2 Điều này; Quản trị tài khoản truy
+cập cấp tỉnh thực hiện thay đổi thông tin, thay đổi quyền truy cập đến các hệ
+thống thông tin và trình Giám đốc BHXH tỉnh thông báo cho đơn vị quản lý người
+được cấp/thu hồi quyền truy cập theo mẫu tại
+Phụ lục
+03
+của Quy chế này đối với những thay đổi thuộc phạm vi tại
+Điều
+17
+, đồng thời thông báo cho Đơn vị chủ quản CSDL cấp tỉnh (nếu có đề xuất
+phân quyền truy cập thông tin, dữ liệu đến hệ thống thông tin do đơn vị chủ quản
+quản lý).
+3.3. Sau khi nhận danh sách đề
+nghị cấp, khóa, thu hồi hoặc thay đổi, bổ sung quyền của tài khoản truy cập hệ
+thống theo
+Phụ lục 02
+và thông báo theo mẫu
+Phụ lục 03
+do Trung tâm CNTT, BHXH tỉnh gửi (nếu
+có); Quản trị phân quyền truy cập thông tin, dữ liệu cấp tỉnh báo cáo Thủ trưởng
+đơn vị chủ quản CSDL cấp tỉnh về việc đã thực hiện phân quyền hoặc từ chối phân
+quyền, lý do từ chối phân quyền, lập thông báo theo mẫu tại
+Phụ lục 03
+gửi các phòng, BHXH các huyện đã đề nghị.
+Điều 19.
+Quy định thay đổi nhóm người sử dụng
+1. Một người sử dụng có thể thuộc
+một hoặc nhiều nhóm người sử dụng được định nghĩa trên hệ thống tùy theo nhiệm
+vụ được phân công. Việc thay đổi nhóm người sử dụng trên hệ thống thông tin được
+thực hiện trong trường hợp người sử dụng thay đổi vai trò công việc trong cơ
+quan BHXH.
+2. Quy định thay đổi nhóm người
+sử dụng được thực hiện theo quy trình thu hồi các quyền thuộc nhóm người sử dụng
+cũ sau đó cấp mới các quyền thuộc nhóm người sử dụng mới.
+Điều 20.
+Các trường hợp bị khóa tài khoản
+1. Cá nhân đang nghỉ thai sản,
+nghỉ ốm dài ngày, nghỉ không lương, thôi việc.
+2. Cá nhân được cấp tài khoản
+chuyển công tác sang lĩnh vực khác.
+3. Cá nhân vi phạm các nội quy,
+quy định về việc sử dụng tài khoản.
+4. Trong trường hợp phát hiện
+việc sử dụng tài khoản không đúng mục đích hoặc vi phạm quy định sử dụng; Trung
+tâm CNTT sẽ chủ động khóa tài khoản vi phạm; đồng thời gửi thông báo về đơn vị
+trực thuộc BHXH Việt Nam, cơ quan BHXH cấp tỉnh, cơ quan BHXH cấp huyện có
+trách nhiệm quản lý tài khoản đó để phối hợp rà soát, kiểm tra, kịp thời ngăn
+chặn, xử lý các hành vi vi phạm, đảm bảo an toàn thông tin.
+5.
+Trường hợp nghi ngờ
+hoặc phát hiện nguy cơ mất an toàn: Trong mọi trường hợp, khi nghi ngờ hoặc
+phát hiện nguy cơ mất an toàn từ phía người sử dụng, người phát hiện phải thông
+báo ngay cho Lãnh đạo đơn vị để chỉ đạo, kiểm tra và thông báo cho Trung tâm
+CNTT và đơn vị chủ quản CSDL để kịp thời thu hồi quyền truy cập.
+Chương V
+BẢO VỆ DỮ LIỆU CÁ NHÂN
+Điều 21. Dữ
+liệu cá nhân được xử lý tại BHXH Việt Nam
+1. Dữ liệu cá nhân phát sinh
+trong quá trình thực hiện chức năng, nhiệm vụ của BHXH Việt Nam và của pháp luật
+khác có quy định cụ thể về trách nhiệm, nhiệm vụ của BHXH Việt Nam.
+2. Dữ liệu cá nhân của công chức,
+viên chức và lao động hợp đồng làm việc tại BHXH Việt Nam theo quy định của
+pháp luật về công chức, viên chức, thi đua, khen thưởng và pháp luật khác có
+liên quan.
+3. Thông tin về tài khoản số của
+cá nhân và dữ liệu cá nhân phản ánh hoạt động, lịch sử hoạt động trên các hệ thống
+thông tin do BHXH Việt Nam, đơn vị thuộc BHXH Việt Nam làm chủ quản theo quy định
+của pháp luật về giao dịch điện tử, an toàn thông tin mạng và an ninh mạng.
+4. Dữ liệu cá nhân khác phát
+sinh trong hoạt động quản lý, thực hiện nhiệm vụ của các đơn vị trực thuộc BHXH
+Việt Nam không thuộc quy định tại khoản 1, 2, 3 của Điều này.
+Điều 22. Xử
+lý dữ liệu cá nhân không cần sự đồng ý của chủ thể dữ liệu
+1. Xử lý dữ liệu cá nhân thuộc
+khoản 1, khoản 2, khoản 3 Điều 21 của Quy chế này
+theo quy định
+tại
+khoản 5, Điều 17 Nghị định số 13/2023/NĐ-CP
+ngày
+17/4/2023 của Chính phủ về bảo vệ dữ liệu cá nhân.
+2. Các trường hợp khác theo quy
+định tại
+Điều 17 Nghị định số 13/2023/NĐ-CP
+ngày 17/4/2023
+của Chính phủ về Bảo vệ dữ liệu cá nhân.
+Điều 23. Xử
+lý dữ liệu cá nhân phải có sự đồng ý của chủ thể dữ liệu
+Việc xử lý dữ liệu cá nhân
+ngoài quy định tại
+Điều 22 của Quy chế này
+phải được sự đồng
+ý của chủ thể dữ liệu theo quy định tại
+Điều 11, Điều 12, Điều
+13
+,
+Điều 15 và Điều 16 Nghị định số 13/2023/NĐ-CP
+ngày
+17/4/2023 của Chính phủ về Bảo vệ dữ liệu cá nhân.
+Điều 24.
+Xác định vai trò theo quy định của pháp luật về bảo vệ dữ liệu cá nhân
+1. BHXH Việt Nam là Bên Kiểm soát
+và xử lý dữ liệu cá nhân đối với các dữ liệu nêu tại
+Điều 21
+.
+2. Các đơn vị có ký hợp đồng
+triển khai các hoạt động CNTT với BHXH Việt Nam hoặc các đơn vị trực thuộc BHXH
+Việt Nam, BHXH tỉnh, BHXH huyện (các đơn vị cung cấp dịch vụ I-VAN, các tổ chức
+dịch vụ thu) khi triển khai các hoạt động có liên quan đến thu thập, xử lý dữ
+liệu cá nhân thuộc quyền kiểm soát của BHXH Việt Nam chủ động xác định các vai
+trò Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên xử lý dữ liệu cá nhân (nếu có)
+để áp dụng các quy định tương ứng của Nghị định số 13/2023/NĐ-CP ngày 17/4/2023
+của Chính phủ về Bảo vệ dữ liệu cá nhân và quy định của Quy chế này.
+Điều 25. Bảo
+vệ dữ liệu cá nhân trong quá trình xử lý dữ liệu cá nhân bên ngoài hệ thống
+thông tin xử lý dữ liệu cá nhân
+1. Dữ liệu cá nhân phải được xử
+lý trong phạm vi quy định của pháp luật.
+Cá nhân, đơn vị thực hiện xử lý
+dữ liệu cá nhân có trách nhiệm:
+1.1. Xác định căn cứ pháp luật
+cho việc xử lý dữ liệu cá nhân (Điều, Khoản của văn bản quy phạm pháp luật quy
+định mục đích và phạm vi dữ liệu cá nhân được phép xử lý).
+1.2. Trường hợp được yêu cầu tiếp
+nhận, xử lý dữ liệu cá nhân nằm ngoài phạm vi quy định của pháp luật, cần làm
+rõ căn cứ thực hiện với bên yêu cầu xử lý dữ liệu và có sự đồng ý của chủ thể dữ
+liệu trước khi thực hiện.
+2. Công chức, viên chức, lao động
+hợp đồng được phân công xử lý dữ liệu cá nhân có trách nhiệm:
+2.1. Không cung cấp, chia sẻ dữ
+liệu cá nhân đã thu thập cho tổ chức, cá nhân không thuộc phạm vi phải cung cấp
+theo quy định của pháp luật.
+2.2. Sử dụng máy tính đáp ứng
+yêu cầu về an toàn an ninh mạng: cài đặt phần mềm phòng, diệt mã độc; xử lý lỗ
+hổng bảo mật (nếu có) và được kiểm tra an ninh mạng.
+2.3. Áp dụng mã hóa tệp dữ liệu
+khi thực hiện trao đổi dữ liệu cá nhân trên môi trường mạng hoặc mang dữ liệu
+cá nhân ra khỏi cơ quan bằng thiết bị, phương tiện điện tử (trừ dữ liệu thuộc
+danh mục bí mật nhà nước thực hiện theo quy định của pháp luật về bảo vệ bí mật
+nhà nước). Không sử dụng mạng xã hội để trao đổi dữ liệu cá nhân, trừ trường hợp
+được sự đồng ý của chủ thể dữ liệu.
+2.4. Kiểm soát chặt các phiên bản
+bản điện tử, bản in chứa dữ liệu cá nhân; giới hạn truy cập tới dữ liệu cá nhân
+trong phạm vi các cá nhân có trách nhiệm tham gia kiểm soát và xử lý dữ liệu cá
+nhân; xóa, hủy dữ liệu cá nhân đã được lưu giữ khi đã hoàn thành mục đích sử dụng
+hoặc hết thời hạn lưu trữ; xóa không thể khôi phục được hoặc hủy các thiết bị
+chứa dữ liệu cá nhân khi không còn tiếp tục sử dụng. Việc thu hồi, xoá, huỷ dữ
+liệu tuân thủ quy định của pháp luật về dữ liệu và phải được theo dõi, ghi nhật
+ký đầy đủ.
+Điều 26. Bảo
+vệ dữ liệu cá nhân trong quá trình xử lý dữ liệu cá nhân trên hệ thống thông
+tin xử lý dữ liệu cá nhân
+1. Đơn vị tham gia sử dụng hệ
+thống thông tin xử lý dữ liệu cá nhân có trách nhiệm xác định chính xác các cá
+nhân được phép truy cập hệ thống thông tin để xử lý dữ liệu cá nhân; gửi đề nghị
+thay đổi, thu hồi tài khoản truy cập hệ thống thông tin tới đơn vị vận hành hệ
+thống thông tin ngay sau khi có sự thay đổi phân công về xử lý dữ liệu cá nhân
+tại đơn vị.
+2. Cá nhân được cấp tài khoản
+truy cập hệ thống thông tin để xử lý dữ liệu cá nhân trên hệ thống có trách nhiệm:
+2.1. Giữ bí mật mật khẩu và bảo
+vệ các phương tiện xác thực khác (nếu có) để truy cập hệ thống thông tin.
+2.2. Không thực hiện các hoạt động
+xử lý hoặc khai thác dữ liệu cá nhân trên hệ thống thông tin ngoài phạm vi
+trách nhiệm, nhiệm vụ được phân công.
+2.3. Khi không còn được phân
+công xử lý dữ liệu cá nhân trên hệ thống thông tin, yêu cầu đơn vị quản lý thực
+hiện thay đổi, thu hồi tài khoản; có trách nhiệm bàn giao tài khoản cho người
+tiếp nhận công việc này theo phân công của đơn vị quản lý.
+Điều 27. Bảo
+đảm an toàn hệ thống thông tin xử lý dữ liệu cá nhân
+1. Đối với các hệ thống thông
+tin xử lý dữ liệu cá nhân (được xây dựng, nâng cấp sau thời điểm Quy chế này có
+hiệu lực), phải nêu rõ căn cứ pháp luật của việc xử lý thông tin tại thuyết
+minh chủ trương đầu tư, dự án, kế hoạch thuê dịch vụ.
+2. Bảo đảm an toàn hệ thống
+thông tin theo quy định của pháp luật về bảo đảm an toàn hệ thống thông tin
+theo cấp độ, bảo vệ an ninh mạng; quy định tại Quy chế đảm bảo an toàn hệ thống
+thông tin theo cấp độ ngành BHXH Việt Nam.
+3. Có tính năng ghi và lưu trữ
+nhật ký hệ thống quá trình xử lý dữ liệu cá nhân; khuyến khích hiển thị trên
+giao diện người dùng căn cứ pháp luật của việc xử lý dữ liệu cá nhân.
+4. Không xử lý dữ liệu cá nhân
+trên hệ thống thông tin thử nghiệm (sử dụng thông tin giả lập, mô phỏng dữ liệu
+cá nhân trên hệ thống thông tin thử nghiệm nếu cần thiết).
+5. Kiểm tra, đánh giá tuân thủ quy
+định của pháp luật về bảo vệ dữ liệu cá nhân đồng thời với việc kiểm tra đánh
+giá an toàn an ninh mạng đối với hệ thống thông tin.
+6. Thực hiện xóa, hủy dữ liệu
+cá nhân trên hệ thống thông tin khi kết thúc sử dụng hệ thống thông tin tuân thủ
+theo đúng quy định của pháp luật về dữ liệu và phải được theo dõi, ghi nhật ký
+đầy đủ.
+Điều 28.
+Thông báo trường hợp vi phạm quy định của pháp luật về bảo vệ dữ liệu cá nhân
+1. Trường hợp công chức, viên
+chức, lao động hợp đồng (sau đây gọi chung là cá nhân) làm việc tại các đơn vị
+trực thuộc BHXH Việt Nam có hành vi vi phạm quy định về bảo vệ dữ liệu cá nhân:
+1.1. Cá nhân thuộc thẩm quyền
+quản lý của Tổng Giám đốc BHXH Việt Nam, đơn vị trực tiếp quản lý cá nhân có
+hành vi vi phạm phối hợp với Trung tâm CNTT đánh giá, xác định mức độ vi phạm
+và báo cáo Tổng Giám đốc BHXH Việt Nam xem xét.
+1.2. Cá nhân thuộc thẩm quyền
+quản lý của đơn vị trực thuộc, thủ trưởng đơn vị trực tiếp quản lý cá nhân có
+trách nhiệm xác định mức độ vi phạm và quyết định biện pháp xử lý phù hợp với
+quy định của pháp luật.
+2. Trường hợp hành vi vi phạm
+quy định của pháp luật về bảo vệ dữ liệu cá nhân do các đối tượng không thuộc
+phạm vi quản lý của BHXH Việt Nam thực hiện:
+2.1. Nếu hành vi vi phạm thuộc
+lĩnh vực quản lý của BHXH Việt Nam, Đơn vị chủ quản CSDL phối hợp với Trung tâm
+CNTT báo cáo BHXH Việt Nam phương án xử lý theo quy định của pháp luật.
+2.2. Nếu hành vi vi phạm thuộc
+các lĩnh vực thuộc phạm vi quản lý của Đơn vị chủ quản CSDL, Đơn vị chủ quản
+CSDL có trách nhiệm đánh giá, xác định mức độ vi phạm và xử lý theo quy định của
+pháp luật.
+3. Việc thông báo hành vi vi phạm
+quy định của pháp luật về bảo vệ dữ liệu cá nhân cho Bộ Công an thực hiện theo
+Điều 23 Nghị định số 13/2023/NĐ-CP
+ngày 17/4/2023 của Chính phủ
+về Bảo vệ dữ liệu cá nhân.
+4. Cơ quan, tổ chức, cá nhân vi
+phạm quy định bảo vệ dữ liệu cá nhân sẽ bị xử lý kỷ luật, xử phạt vi phạm theo
+quy định của pháp luật.
+Điều 29.
+Đánh giá tác động xử lý dữ liệu cá nhân
+1. Trung tâm Công nghệ thông
+tin có trách nhiệm:
+1.1. Phối hợp với các đơn vị
+liên quan xây dựng Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân, Hồ sơ đánh
+giá tác động chuyển dữ liệu cá nhân ra nước ngoài (nếu có);
+1.2. Trình Tổng Giám đốc BHXH
+Việt Nam ban hành quyết định phê duyệt hồ sơ theo quy định tại Nghị định số
+13/2023/NĐ-CP ngày 17/4/2023 của Chính phủ về Bảo vệ dữ liệu cá nhân; công văn
+gửi hồ sơ cho Bộ Công an (Cục An ninh mạng và phòng, chống tội phạm sử dụng
+công nghệ cao);
+1.3. Lưu giữ 01 bản hồ sơ, sẵn
+sàng phục vụ hoạt động kiểm tra, đánh giá của Bộ Công an;
+1.4. Phối hợp với các đơn vị
+liên quan cập nhật hồ sơ trong vòng 10 ngày sau khi Bộ Công an có ý kiến yêu cầu
+hoàn thiện hồ sơ; trong vòng 60 ngày khi có sự thay đổi về nội dung hồ sơ đã gửi
+Bộ Công an.
+2. Trường hợp Bên Kiểm soát dữ
+liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân là đơn vị thuộc BHXH Việt
+Nam, đơn vị có trách nhiệm:
+2.1. Tổ chức xây dựng, ban hành
+quyết định phê duyệt Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân, Hồ sơ đánh
+giá tác động chuyển dữ liệu cá nhân ra nước ngoài (nếu có);
+2.2. Gửi hồ sơ cho Bộ Công an
+(Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao), đồng thời gửi
+bản điện tử của hồ sơ cho Trung tâm CNTT để phục vụ công tác quản lý về bảo vệ
+dữ liệu cá nhân;
+2.3. Lưu giữ 01 bản hồ sơ, sẵn
+sàng phục vụ hoạt động kiểm tra, đánh giá của Bộ Công an và của BHXH Việt Nam;
+2.4. Cập nhật hồ sơ trong vòng
+10 ngày sau khi Bộ Công an có ý kiến yêu cầu hoàn thiện hồ sơ; trong vòng 60
+ngày khi có sự thay đổi về nội dung hồ sơ đã gửi Bộ Công an.
+3. Đơn vị thuộc BHXH Việt Nam
+khi ký thỏa thuận, hợp đồng với tổ chức, cá nhân về việc xử lý dữ liệu cá nhân
+có trách nhiệm yêu cầu Bên xử lý dữ liệu cá nhân cung cấp cho Trung tâm CNTT 01
+bản Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân do Bên xử lý dữ liệu cá nhân
+thực hiện. Trung tâm CNTT sử dụng các hồ sơ này để giám sát chung về công tác bảo
+vệ dữ liệu cá nhân tại ngành BHXH Việt Nam.
+4. Việc lập, cập nhật, lưu giữ,
+gửi Bộ Công an Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân, Hồ sơ đánh giá
+tác động chuyển dữ liệu cá nhân ra nước ngoài thực hiện theo quy định tại
+Điều 24 và Điều 25 Nghị định số 13/2023/NĐ-CP
+ngày 17/4/2023 của
+Chính phủ về Bảo vệ dữ liệu cá nhân.
+Chương VI
+TRÁCH NHIỆM CỦA CÁC TỔ
+CHỨC, CÁ NHÂN TRONG TỔ CHỨC, QUẢN LÝ DỮ LIỆU TỪ CƠ SỞ DỮ LIỆU NGÀNH BHXH VIỆT
+NAM, CƠ SỞ DỮ LIỆU QUỐC GIA VỀ BẢO HIỂM VÀ BẢO VỆ DỮ LIỆU CÁ NHÂN
+Điều 30.
+Trách nhiệm của các đơn vị trực thuộc BHXH Việt Nam
+1. Mỗi CSDL thuộc danh mục CSDL
+của BHXH Việt Nam được giao trách nhiệm cho một đơn vị trực thuộc BHXH Việt Nam
+làm chủ quản quản lý, cập nhật, tổ chức khai thác, sử dụng, chia sẻ CSDL tại cấp
+Trung ương.
+2. Đơn vị chủ quản CSDL cấp
+Trung ương chịu trách nhiệm quản lý và đề nghị Trung tâm CNTT cấp/khóa/thu hồi
+tài khoản truy cập trên hệ thống IAM, quyền truy cập vào hệ thống thông tin của
+người sử dụng thuộc đơn vị, cấp/khóa/thu hồi tài khoản Quản trị phân quyền truy
+cập thông tin, dữ liệu; chỉ đạo quản lý phân quyền truy cập cấp Trung ương; thực
+hiện thay đổi quyền truy cập chức năng hệ thống thông tin của người sử dụng thuộc
+đơn vị theo chức năng, nhiệm vụ và phân công công việc.
+3. Thủ trưởng đơn vị là người
+chịu trách nhiệm trực tiếp chỉ đạo công tác bảo đảm an toàn dữ liệu, đảm bảo
+công tác bảo vệ dữ liệu cá nhân trong việc tổ chức quản lý khai thác, sử dụng dữ
+liệu, CSDL từ CSDL ngành BHXH Việt Nam; Cơ sở dữ liệu quốc gia về Bảo hiểm và bảo
+vệ dữ liệu cá nhân thuộc phạm vi quản lý của ngành Bảo hiểm xã hội Việt Nam
+theo chức năng, nhiệm vụ của đơn vị và theo quy định của pháp luật về bảo vệ dữ
+liệu cá nhân.
+4. Triển khai đầy đủ quy định tại
+các văn bản chỉ đạo của BHXH Việt Nam và hướng dẫn của Trung tâm CNTT về tổ chức,
+quản lý, khai thác dữ liệu, CSDL của CSDL ngành BHXH Việt Nam; Cơ sở dữ liệu quốc
+gia về Bảo hiểm và bảo vệ dữ liệu cá nhân thuộc phạm vi quản lý của ngành Bảo
+hiểm xã hội Việt Nam trên các hệ thống thông tin.
+5. Nghiên cứu, rà soát và tổng
+hợp nhu cầu thông tin, phạm vi dữ liệu cần thu thập, trao đổi, chia sẻ bên
+trong và ngoài ngành BHXH Việt Nam để đề nghị Trung tâm CNTT cập nhật, bổ sung
+đảm bảo CSDL có đầy đủ thông tin phục vụ yêu cầu quản lý; các yêu cầu thay đổi
+trình Tổng Giám đốc BHXH Việt Nam giao Trung tâm CNTT nâng cấp, bổ sung.
+6. Tổ chức khai thác, sử dụng
+thông tin, dữ liệu trong hệ thống thông tin và CSDL ngành BHXH Việt Nam; Cơ sở
+dữ liệu quốc gia về Bảo hiểm
+6.1. Tiếp nhận, xử lý hoặc
+trình Tổng Giám đốc BHXH Việt Nam phê duyệt đối với các yêu cầu khai thác thông
+tin, dữ liệu (thuộc chức năng, nhiệm vụ được giao) khi có đề nghị của các Bộ,
+ngành, địa phương và các cơ quan quản lý nhà nước khác hoặc của công dân; phối
+hợp với Trung tâm CNTT giải thích, hướng dẫn, thống nhất các chỉ tiêu thống kê;
+kiểm tra, xác nhận kết quả thống kê dữ liệu theo các yêu cầu khai thác CSDL phức
+tạp, chưa xây dựng chức năng hoặc không thể khai thác thông qua hệ thống thông
+tin.
+6.2. Phối hợp với Trung tâm
+CNTT rà soát, đối chiếu dữ liệu giữa CSDL mà đơn vị được giao chủ quản với CSDL
+quốc gia về Bảo hiểm.
+6.3. Thực hiện báo cáo định kỳ
+hàng năm, đột xuất về tình hình tổ chức, quản lý dữ liệu, CSDL từ CSDL ngành
+BHXH Việt Nam; báo cáo về bảo vệ dữ liệu cá nhân khi có yêu cầu từ các cơ quan
+có thẩm quyền gửi Trung tâm CNTT để tổng hợp, báo cáo Tổng Giám đốc BHXH Việt
+Nam.
+7. Phối hợp với Trung tâm CNTT
+và các đơn vị có liên quan triển khai và vận hành hệ thống thông tin.
+8. Chỉ đạo BHXH tỉnh cung cấp,
+cập nhật thông tin, dữ liệu đầy đủ, kịp thời vào hệ thống thông tin và chịu
+trách nhiệm về độ chính xác của các thông tin, dữ liệu đơn vị mình quản lý,
+cung cấp.
+9. Đóng vai trò Bên Kiểm soát dữ
+liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân thực hiện các trách nhiệm
+tương ứng quy định tại Nghị định số 13/2023/NĐ-CP ngày 17/4/2023 của Chính phủ
+về Bảo vệ dữ liệu cá nhân và quy định tại Quy chế này.
+10. Rà soát, bổ sung trong các
+quy trình nghiệp vụ, biểu mẫu tương tác với cá nhân để đảm bảo thực hiện đầy đủ
+các quyền của chủ thể dữ liệu theo các quy định của nhà nước về bảo vệ dữ liệu
+cá nhân.
+11. Hướng dẫn, phổ biến các quy
+định của pháp luật về bảo vệ dữ liệu cá nhân.
+12. Tổ chức triển khai, kiểm
+tra, giám sát việc thực hiện Quy chế này và các quy định của pháp luật về bảo vệ
+dữ liệu cá nhân tại đơn vị và các đơn vị trực thuộc; Tuyên truyền, nâng cao nhận
+thức của công chức, viên chức thuộc đơn vị và các đối tượng thuộc lĩnh vực được
+giao quản lý theo quy định của pháp luật về bảo vệ dữ liệu cá nhân.
+13. Phân công nhân sự thuộc đơn
+vị phụ trách bảo vệ dữ liệu cá nhân thuộc chức năng, nhiệm vụ và phạm vi quản
+lý của đơn vị; bảo đảm các hệ thống thông tin do đơn vị làm chủ quản hoặc được ủy
+quyền thực hiện trách nhiệm của chủ quản hệ thống thông tin đáp ứng quy định về
+bảo vệ dữ liệu cá nhân.
+Điều 31.
+Trách nhiệm của Trung tâm CNTT
+1. Là đơn vị chuyên trách tham
+mưu giúp Tổng Giám đốc BHXH Việt Nam tổ chức, quản lý thông tin, dữ liệu, CSDL
+từ các CSDL ngành BHXH Việt Nam; CSDL quốc gia về Bảo hiểm; quản lý, triển khai
+công tác bảo vệ dữ liệu cá nhân của BHXH Việt Nam; thực hiện các yêu cầu cung cấp,
+thống kê số liệu khi được sự cho phép của Lãnh đạo ngành BHXH Việt Nam.
+2. Chủ trì, phối hợp với các
+đơn vị chủ quản CSDL cấp Trung ương tổ chức triển khai thực hiện Quy chế này;
+hướng dẫn, theo dõi, kiểm tra, đôn đốc các đơn vị trực thuộc BHXH Việt Nam,
+BHXH tỉnh, BHXH huyện triển khai, thực hiện các quy định của pháp luật, các quy
+định của Bộ Công an, Bộ Thông tin và Truyền thông về bảo vệ dữ liệu cá nhân
+trong phạm vi quản lý của BHXH Việt Nam; Báo cáo BHXH Việt Nam sửa đổi, bổ sung
+Quy chế trong trường hợp cần thiết để đảm bảo sự phù hợp của Quy chế với các
+quy định, tiêu chuẩn liên quan và thực tế áp dụng.
+3. Phối hợp với các đơn vị trực
+thuộc BHXH Việt Nam thực hiện tuyên truyền, nâng cao nhận thức của công chức,
+viên chức và tổ chức, cá nhân liên quan về quy định của pháp luật về bảo vệ dữ
+liệu cá nhân.
+4. Chủ trì, phối hợp với các
+đơn vị liên quan tổ chức quản lý tài khoản truy cập CSDL tại Trung tâm dữ liệu
+Ngành.
+5. Quản lý, vận hành hệ thống hạ
+tầng thông tin và CSDL ngành BHXH Việt Nam; CSDL quốc gia về Bảo hiểm đảm bảo
+hoạt động ổn định thường xuyên, liên tục, bảo mật và an toàn dữ liệu, an toàn hệ
+thống thông tin, hệ thống hạ tầng thông tin ngành BHXH Việt Nam.
+6. Đảm bảo các hệ thống thông
+tin do BHXH Việt Nam làm chủ quản đáp ứng quy định về bảo vệ dữ liệu cá nhân;
+hoàn thiện hệ thống thông tin để đáp ứng các yêu cầu về bảo vệ dữ liệu cá nhân
+theo đề xuất của đơn vị chủ quản CSDL cấp Trung ương.
+7. Tiếp nhận và xử lý các đề
+nghị cấp/khóa/thu hồi tài khoản truy cập trên hệ thống IAM.
+8. Tiếp nhận, cấp tài khoản cho
+người dùng truy cập vào CSDL ngành BHXH Việt Nam để phục vụ khai thác, nghiên cứu,
+thử nghiệm khi được Tổng Giám đốc BHXH Việt Nam cho phép. Bao gồm:
+8.1. Tài khoản cấp cho cá nhân
+thuộc các đơn vị trực thuộc BHXH Việt Nam như: Thanh tra BHXH Việt Nam; Vụ Tài
+chính - Kế toán; Vụ Kiểm toán nội bộ; Ban Quản lý Thu - Sổ, Thẻ; Ban Thực hiện
+chính sách BHXH; Ban Thực hiện chính sách BHYT; BHXH các tỉnh, thành phố trực
+thuộc TW để phục vụ kế hoạch kiểm tra hằng năm hoặc phục vụ thanh tra, kiểm
+toán chuyên đề, đột xuất.
+8.2. Tài khoản cấp cho các cá
+nhân ngoài ngành BHXH Việt Nam truy cập vào hệ thống để khai thác CSDL phục vụ
+nghiên cứu, thử nghiệm công nghệ mới hoặc phục vụ công tác thanh tra, kiểm tra,
+giám sát, kiểm toán, điều tra theo các quyết định thanh tra, kiểm tra, giám
+sát, kiểm toán, điều tra đối với BHXH Việt Nam. Việc triển khai phải thực hiện
+các giải pháp an toàn, bảo mật thông tin theo quy định.
+9. Thu hồi quyền truy cập vào
+các CSDL ngành BHXH Việt Nam của các tài khoản cấp cho người dùng tại điểm 8.2,
+khoản 8 Điều này khi kế hoạch thanh tra, kiểm tra, kiểm toán, điều tra tại Bảo
+hiểm xã hội Việt Nam và BHXH các tỉnh, thành phố hoàn thành hoặc kết thúc nội
+dung nghiên cứu, thử nghiệm.
+10. Cung cấp, khai thác và chia
+sẻ dữ liệu từ CSDL ngành BHXH Việt Nam cho các đơn vị trong ngành BHXH Việt Nam
+để phục vụ các hoạt động nghiệp vụ theo yêu cầu, kế hoạch của BHXH Việt Nam và
+cho các cơ quan, đơn vị khác khi có sự đồng ý của Tổng Giám đốc BHXH Việt Nam.
+11. Định kỳ 6 tháng, thực hiện
+kiểm tra, giám sát việc quản lý, khai thác, sử dụng CSDL ngành BHXH Việt Nam của
+các đơn vị, cá nhân trong Ngành và đơn vị cung cấp dịch vụ.
+12. Xử lý theo thẩm quyền và kiến
+nghị Tổng Giám đốc BHXH Việt Nam xử lý các vi phạm Quy chế này và các quy định
+khác liên quan của pháp luật hiện hành.
+13. Quản lý việc sao lưu dữ liệu
+định kỳ hàng ngày, hàng tuần, hàng tháng; kiểm tra việc sao lưu, lưu trữ CSDL
+ngành BHXH Việt Nam.
+14. Thực hiện quản trị, vận
+hành, theo dõi, giám sát để đảm bảo hệ thống hoạt động liên tục, ổn định, an
+toàn, an ninh thông tin; chủ động thông báo với các đơn vị liên quan về tình trạng
+và tiến độ khắc phục khi có sự cố kỹ thuật xảy ra; chủ động rà soát, phát hiện
+và cập nhật các lỗi trong quá trình vận hành; hỗ trợ kỹ thuật và sự cố phát
+sinh trong quá trình vận hành hệ thống.
+15. Nâng cấp, chỉnh sửa, mở rộng
+và phát triển hệ thống thông tin và CSDL ngành BHXH Việt Nam khi có sự thay đổi
+về chế độ chính sách, quy trình và theo yêu cầu từ các đơn vị chủ quản CSDL
+ngành BHXH Việt Nam. Việc nâng cấp, chỉnh sửa, mở rộng và phát triển tuân thủ
+Quy định về quản lý hoạt động Công nghệ thông tin trong hệ thống BHXH Việt Nam;
+quy định về quản lý, phát triển, vận hành các hệ thống thông tin.
+16. Phối hợp với các đơn vị chủ
+quản CSDL cấp Trung ương trong việc xác định các loại dữ liệu cần cung cấp khi
+kết nối đến các Bộ, ngành liên quan và Văn phòng Chính phủ.
+17. Hỗ trợ kết xuất dữ liệu,
+xây dựng các báo cáo thống kê, báo cáo phân tích, dự báo trên CSDL phục vụ cho
+công tác quản lý của các đơn vị trực thuộc BHXH Việt Nam trên hệ thống thông
+tin ngành BHXH Việt Nam và phục vụ công tác chỉ đạo, điều hành của Tổng Giám đốc
+BHXH Việt Nam.
+18. Phối hợp với các đơn vị trực
+thuộc BHXH Việt Nam tổ chức kiểm tra, rà soát, đối chiếu và chuẩn bị số liệu để
+phục vụ các cuộc họp giao ban trực tuyến của cơ quan BHXH và của ngành BHXH Việt
+Nam trên hệ thống tổng hợp và phân tích dữ liệu tập trung ngành BHXH Việt Nam.
+19. Ban hành quy định về quản
+lý, phát triển, vận hành các hệ thống thông tin phù hợp quy định này.
+20. Trên cơ sở đề xuất của đơn
+vị chủ quản CSDL, tham mưu trình Tổng Giám đốc BHXH Việt Nam ban hành quy định
+khai thác, sử dụng, phân quyền sử dụng của người dùng cuối đối với từng hệ thống
+thông tin.
+21. Tổng hợp kế hoạch, báo cáo
+về bảo vệ dữ liệu cá nhân, trình Tổng Giám đốc BHXH Việt Nam gửi các cơ quan quản
+lý về bảo vệ dữ liệu cá nhân, an toàn an ninh mạng.
+Điều 32.
+Trách nhiệm của BHXH tỉnh
+1. Cập nhật, khai thác, kết xuất,
+sử dụng thông tin từ các hệ thống thông tin, CSDL theo phân cấp quản lý.
+2. Quản lý, theo dõi, tiếp nhận
+và xử lý đề nghị cấp mới, thu hồi, thay đổi quyền truy cập hệ thống thông tin đối
+với người sử dụng/nhóm người do mình quản lý; hỗ trợ khắc phục, xử lý các sự cố
+phát sinh trong quá trình vận hành hệ thống thông tin ngành BHXH Việt Nam.
+3. Mỗi CSDL thuộc phạm vi quản
+lý của BHXH tỉnh được giao trách nhiệm cho một đơn vị thuộc BHXH tỉnh làm chủ
+quản CSDL cấp tỉnh quản lý và khai thác để phục vụ yêu cầu công việc chuyên môn
+của BHXH tỉnh. Đơn vị chủ quản CSDL cấp tỉnh có trách nhiệm:
+3.1. Quản lý, phân quyền người
+dùng sử dụng hệ thống thông tin do mình làm chủ quản CSDL theo tài khoản được cấp
+trên IAM sau khi được Giám đốc BHXH tỉnh phê duyệt.
+3.2. Chỉ đạo BHXH huyện và cá
+nhân đang công tác tại đơn vị cung cấp, cập nhật đầy đủ, trung thực, kịp thời
+thông tin, dữ liệu; chịu trách nhiệm về độ chính xác của các thông tin, dữ liệu
+theo phân cấp quản lý thuộc quy trình nghiệp vụ do BHXH Việt Nam ban hành tại hệ
+thống thông tin tương ứng của ngành BHXH Việt Nam.
+4. Trên cơ sở đề xuất của đơn vị
+chủ quản CSDL cấp tỉnh, ban hành các quy trình, quy định để quản lý tài khoản;
+quản lý truy cập vào hệ thống thông tin; quản lý cập nhật, khai thác, cung cấp,
+chia sẻ thông tin, dữ liệu ngành BHXH Việt Nam; quy định về bảo vệ dữ liệu cá
+nhân tại BHXH tỉnh, BHXH huyện phù hợp với quy định của pháp luật và của ngành
+BHXH Việt Nam; có cơ chế kiểm tra, giám sát việc triển khai thực hiện các quy định
+để kịp thời phát hiện, chấn chỉnh, xử lý các sai phạm (nếu có).
+5. Tổ chức vận hành, giám sát
+và sử dụng hệ thống thông tin ngành BHXH Việt Nam trên địa bàn bảo đảm an toàn,
+chính xác, đúng quy định; quản lý người sử dụng theo trách nhiệm được nêu tại
+Quy chế này.
+6. Giám đốc BHXH tỉnh là người
+chịu trách nhiệm trực tiếp chỉ đạo công tác bảo đảm an toàn dữ liệu, đảm bảo
+công tác bảo vệ dữ liệu cá nhân trong việc tổ chức quản lý khai thác, sử dụng dữ
+liệu, CSDL từ CSDL ngành BHXH Việt Nam trên địa bàn thuộc phạm vi quản lý theo
+chức năng, nhiệm vụ, theo quy định của pháp luật về bảo vệ dữ liệu cá nhân.
+7. Hàng tháng (trước ngày 5),
+BHXH tỉnh tổ chức kiểm tra đối chiếu việc cấp, quản lý tài khoản, phân quyền
+truy cập hệ thống thông tin:
+7.1. Căn cứ Quyết định phân
+công, thay đổi công việc trong tháng do bộ phận tổ chức cán bộ cung cấp, văn bản
+chỉ đạo về việc cấp, phân quyền truy cập của lãnh đạo BHXH tỉnh.
+7.2. Căn cứ Danh sách tổng cấp,
+thu hồi, thay đổi quyền Quản trị, quyền truy cập hệ thống thông tin đối với người
+sử dụng trên hệ thống IAM do Quản trị tài khoản truy cập cấp tỉnh cung cấp.
+7.3. Căn cứ phân quyền truy cập
+vào hệ thống thông tin do Quản trị phân quyền truy cập thông tin, dữ liệu cấp tỉnh
+cung cấp.
+7.4. BHXH tỉnh tổ chức rà soát,
+đối chiếu và lập bảng tổng hợp theo mẫu tại
+Phụ lục 04
+của Quy chế này. Lưu trữ toàn bộ hồ sơ phục vụ việc kiểm tra định kỳ của BHXH
+Việt Nam và của cơ quan chức năng khi có yêu cầu. Khi phát hiện việc cấp, quản
+lý tài khoản, phân quyền truy cập không đúng quy định thì báo cáo ngay về Trung
+tâm CNTT để tạm dừng hoạt động của tài khoản trong thời gian xác minh, làm rõ.
+8. Hàng quý (trước ngày 10 của
+tháng đầu quý sau), sau khi tổ chức kiểm tra đối chiếu việc cấp, quản lý tài
+khoản, phân quyền truy cập. BHXH tỉnh báo cáo BHXH Việt Nam (qua Trung tâm
+CNTT) theo mẫu tại
+Phụ lục 04
+của Quy chế này.
+9. Tổ chức triển khai đầy đủ
+quy định tại các văn bản hướng dẫn của BHXH Việt Nam về tổ chức, quản lý, khai
+thác dữ liệu, CSDL từ CSDL ngành BHXH Việt Nam trên các hệ thống thông tin.
+10. Tuyên truyền, nâng cao nhận
+thức của công chức, viên chức, lao động hợp đồng tại BHXH tỉnh, BHXH huyện các
+quy định của pháp luật về bảo vệ dữ liệu cá nhân.
+11. Báo cáo về bảo vệ dữ liệu
+cá nhân khi có yêu cầu từ các cơ quan có thẩm quyền và gửi Trung tâm CNTT tổng
+hợp, báo cáo Tổng Giám đốc BHXH Việt Nam.
+12. Phối hợp với các đơn vị
+liên quan trong quá trình vận hành hệ thống thông tin ngành BHXH Việt Nam trên
+địa bàn.
+Điều 33.
+Trách nhiệm của BHXH huyện
+1. Cập nhật, khai thác, kết xuất
+thông tin từ các hệ thống thông tin theo phân cấp của BHXH tỉnh.
+2. Tổ chức vận hành, giám sát
+và sử dụng hệ thống thông tin ngành BHXH Việt Nam trên địa bàn bảo đảm an toàn,
+chính xác, đúng quy định; Quản lý người sử dụng theo trách nhiệm được nêu tại
+Quy chế này.
+3. Quản lý, theo dõi, đề nghị
+quản trị tài khoản truy cập cấp tỉnh và quản trị phân quyền truy cập thông tin,
+dữ liệu cấp tỉnh cấp mới, thu hồi, thay đổi quyền truy cập hệ thống thông tin đối
+với người sử dụng trên địa bàn thuộc phạm vi quản lý.
+4. Hàng tháng (trước ngày 25 của
+tháng), tổng hợp, báo cáo BHXH tỉnh tình hình đề nghị cấp phát, thu hồi, thay đổi
+quyền truy cập hệ thống thông tin đối với người sử dụng tại BHXH huyện theo mẫu
+tại
+Phụ lục 04
+của Quy chế này.
+5. Cập nhật kịp thời, khai
+thác, kiểm soát và chịu trách nhiệm về tính chính xác của dữ liệu theo phân cấp
+quản lý thuộc quy trình nghiệp vụ do BHXH Việt Nam ban hành tại hệ thống thông
+tin tương ứng ngành BHXH Việt Nam.
+6. Tổ chức triển khai đầy đủ
+các quy định tại các văn bản hướng dẫn của BHXH Việt Nam về việc khai thác dữ
+liệu trên hệ thống thông tin, các quy định của pháp luật về bảo vệ dữ liệu cá
+nhân.
+7. Phối hợp với các đơn vị liên
+quan trong quá trình vận hành hệ thống thông tin, CSDL ngành BHXH Việt Nam thuộc
+phạm vi quản lý.
+Điều 34.
+Trách nhiệm của đơn vị cung cấp dịch vụ
+1. Tham gia xây dựng, cập nhật,
+quản lý, khai thác, kết nối, chia sẻ và sử dụng thông tin, dữ liệu từ các hệ thống
+thông tin và CSDL ngành BHXH Việt Nam theo các hợp đồng hoặc thỏa thuận đã ký với
+cơ quan BHXH và phải được sự đồng ý của Tổng Giám đốc BHXH Việt Nam.
+2. Xây dựng, ban hành các quy
+trình, quy chế, quy định nội bộ trong công tác xây dựng, quản trị, vận hành,
+khai thác, kết nối, tích hợp, chia sẻ dữ liệu, nâng cấp hệ thống thông tin và
+CSDL ngành BHXH Việt Nam trong đó quy định rõ quyền hạn, trách nhiệm của các cá
+nhân, tập thể được giao nhiệm vụ thực hiện công việc theo các hợp đồng hoặc thỏa
+thuận đã ký với cơ quan BHXH; cam kết của tập thể, cá nhân tuân thủ đúng quy định
+của pháp luật và của ngành BHXH Việt Nam khi thực hiện nhiệm vụ được giao, kịp
+thời đề nghị Trung tâm CNTT thay đổi, hủy, khóa quyền truy cập đối với các cá
+nhân trong đơn vị khi có sự thay đổi vị trí công việc, nghỉ dài ngày, thôi việc,
+chuyển công tác.
+3. Đối với đơn vị ký thỏa thuận
+với BHXH Việt Nam là Bên Xử lý dữ liệu cá nhân có trách nhiệm tuân thủ các quy
+định tại Quy chế này và quy định tại
+Điều 39 Nghị định số
+13/2023/NĐ-CP
+ngày 17/4/2023 của Chính phủ về Bảo vệ dữ liệu cá nhân.
+Điều 35.
+Trách nhiệm của Người sử dụng
+1. Bảo mật thông tin tài khoản,
+mật khẩu đăng nhập được cấp. Không chia sẻ, cho người khác mượn thông tin tài
+khoản để truy cập vào hệ thống thông tin và CSDL ngành BHXH Việt Nam.
+2. Không sử dụng các công cụ, ứng
+dụng không do BHXH Việt Nam trang bị hoặc có quyết định triển khai để truy cập
+hệ thống thông tin, CSDL ngành BHXH Việt Nam.
+3. Tuân thủ các chính sách, quy
+định về bảo mật dữ liệu và an toàn thông tin bao gồm việc sử dụng mật khẩu mạnh,
+thay đổi mật khẩu định kỳ và bảo mật thông tin cá nhân theo quy định của ngành
+BHXH Việt Nam.
+4. Quản lý và khai thác dữ liệu
+đúng mục đích, không truy cập, sao chép, hoặc chia sẻ dữ liệu khi chưa có sự
+cho phép của người có thẩm quyền.
+5. Kịp thời phát hiện và báo
+cáo cho bộ phận chuyên trách về công nghệ thông tin hoặc quản trị dữ liệu, quản
+trị hệ thống các sự cố an ninh, truy cập trái phép, mất dữ liệu, hoặc phát hiện
+lỗ hổng bảo mật gây mất an toàn thông tin cho hệ thống.
+6. Sử dụng quyền truy cập hệ thống
+thông tin, CSDL đúng mục đích, trong phạm vi cho phép. Không sử dụng quyền truy
+cập hệ thống thông tin, CSDL không liên quan hoặc không thuộc thẩm quyền để thực
+hiện các hành động bất hợp pháp.
+7. Tuân thủ quy định của pháp
+luật về bảo vệ dữ liệu cá nhân và quy định của Quy chế này.
+8. Thực hiện quyền và nghĩa vụ
+của chủ thể dữ liệu đối với dữ liệu cá nhân của bản thân theo quy định tại
+Điều 9 và Điều10 Nghị định số 13/2023/NĐ-CP
+ngày 17/4/2023 của
+Chính phủ về Bảo vệ dữ liệu cá nhân.
+9. Thực hiện biện pháp bảo vệ dữ
+liệu cá nhân; Khi phát hiện dữ liệu cá nhân có rủi ro bị lộ hoặc không được bảo
+vệ theo quy định, yêu cầu đơn vị quản lý, xử lý dữ liệu cá nhân có biện pháp bảo
+vệ dữ liệu phù hợp, theo đúng quy định.
+10. Thông báo các trường hợp vi
+phạm quy định về bảo vệ dữ liệu cá nhân cho thủ trưởng đơn vị; chịu trách nhiệm
+trước pháp luật và BHXH Việt Nam về các vi phạm, thất thoát dữ liệu cá nhân do
+không tuân thủ quy chế, quy định của pháp luật và của ngành BHXH Việt Nam.
+11. Tham gia vào các khóa đào tạo
+và nâng cao nhận thức về an toàn, bảo mật thông tin và quản lý dữ liệu do BHXH
+Việt Nam tổ chức để nắm rõ các quy định và kỹ năng cần thiết trong việc tổ chức,
+quản lý dữ liệu, CSDL từ CSDL ngành BHXH Việt Nam; Cơ sở dữ liệu quốc gia về Bảo
+hiểm và bảo vệ dữ liệu cá nhân thuộc phạm vi quản lý của ngành Bảo hiểm xã hội
+Việt Nam.
+Điều 36.
+Trách nhiệm của Quản trị tài khoản truy cập cấp Trung ương
+1. Quản lý, thiết lập giá trị
+các tham số liên quan đến kỹ thuật trên hệ thống thông tin.
+2. Thực hiện cấp phát, thu hồi,
+thay đổi các quyền Quản lý tài khoản truy cập cấp tỉnh , quyền truy cập đến hệ
+thống thông tin của người dùng đang công tác tại BHXH Việt Nam và các cá nhân
+ngoài ngành BHXH Việt Nam khi được Tổng Giám đốc BHXH Việt Nam cho phép.
+3. Thực hiện tạo các nhóm người
+sử dụng dùng chung cho toàn quốc và phân quyền chi tiết cho các nhóm người sử dụng
+trên hệ thống thông tin theo chức năng, nhiệm vụ của các đơn vị được giao.
+4. Thực hiện quản lý các tiến
+trình đồng bộ dữ liệu từ các hệ thống nguồn; xử lý các dữ liệu bị lỗi sau chuẩn
+hóa.
+5. Phối hợp việc tích hợp, trao
+đổi dữ liệu giữa hệ thống thông tin của ngành BHXH Việt Nam với các hệ thống của
+các Bộ, ngành, địa phương và các cơ quan quản lý nhà nước khác.
+6. Chủ trì hỗ trợ người sử dụng,
+phối hợp với các đơn vị liên quan xử lý các sự cố trong quá trình vận hành hệ
+thống thông tin.
+Điều 37.
+Trách nhiệm của Quản trị tài khoản truy cập cấp tỉnh
+1. Quản lý, thực hiện cấp phát,
+thu hồi, thay đổi quyền truy cập vào hệ thống thông tin của người sử dụng theo
+quyết định của Lãnh đạo BHXH tỉnh.
+2. Giám sát, hỗ trợ người sử dụng
+hệ thống thông tin trên địa bàn tỉnh; phối hợp với các đơn vị liên quan xử lý
+các sự cố trong quá trình vận hành hệ thống thông tin.
+Điều 38.
+Trách nhiệm của Quản trị phân quyền truy cập thông tin, dữ liệu cấp Trung ương
+1. Quản trị, phân quyền chức
+năng, phạm vi và các tham số trong hệ thống thông tin cho người sử dụng đang
+công tác tại các đơn vị chủ quản CSDL cấp Trung ương truy cập đến thông tin, dữ
+liệu sau khi có sự đồng ý của Tổng Giám đốc BHXH Việt Nam.
+2. Quản lý, tham mưu cho thủ
+trưởng đơn vị chủ quản CSDL cấp Trung ương đề nghị Trung tâm CNTT cấp/khóa/thu
+hồi tài khoản truy cập trên hệ thống IAM, quyền truy cập vào hệ thống thông
+tin, dữ liệu của người sử dụng thuộc đơn vị theo chức năng, nhiệm vụ và phân
+công công việc.
+Điều 39.
+Trách nhiệm của Quản trị phân quyền truy cập thông tin, dữ liệu cấp tỉnh
+1. Quản trị, phân quyền chức
+năng, phạm vi và các tham số trong hệ thống thông tin cho người sử dụng đang công
+tác tại các phòng thuộc BHXH tỉnh được giao chủ quản CSDL cấp cấp tỉnh hoặc
+công tác tại các tổ nghiệp vụ thuộc BHXH cấp huyện truy cập đến thông tin, dữ
+liệu khi có sự đồng ý của Giám đốc BHXH tỉnh, Giám đốc BHXH huyện.
+2. Quản lý, tham mưu cho thủ
+trưởng đơn vị chủ quản CSDL cấp tỉnh đề nghị Trung tâm CNTT cấp/khóa/thu hồi
+tài khoản truy cập trên hệ thống IAM, quyền truy cập vào hệ thống thông tin, dữ
+liệu của người sử dụng thuộc đơn vị theo chức năng, nhiệm vụ và phân công công
+việc.
+Điều 40.
+Trách nhiệm của Quản trị CSDL
+1. Quản lý cấu hình, thiết lập,
+đề xuất tinh chỉnh giá trị các tham số liên quan đến kỹ thuật (tham số cấu hình
+hệ quản trị CSDL, tham số thiết kế hệ thống CSDL, tối ưu hóa hệ thống, tối ưu
+hóa hoạt động) cho các CSDL ngành BHXH Việt Nam; CSDL dữ liệu quốc gia về Bảo
+hiểm.
+2. Thực hiện cấp phát, thu hồi,
+thay đổi quyền của các tài khoản truy cập các CSDL ngành BHXH Việt Nam; CSDL dữ
+liệu quốc gia về Bảo hiểm cho các cá nhân đang công tác tại BHXH Việt Nam và
+các cá nhân ngoài ngành BHXH Việt Nam khi được Tổng Giám đốc BHXH Việt Nam cho
+phép.
+3. Thực hiện cài đặt hệ quản trị
+CSDL; theo dõi, xử lý, khắc phục các sự cố liên quan đến CSDL, không gian lưu
+trữ dữ liệu; hệ thống lưu trữ, sao lưu dữ liệu; đồng bộ, đối soát dữ liệu giữa
+các CSDL; thực hiện khôi phục dữ liệu định kỳ; kiểm tra, đánh giá việc khôi phục
+dữ liệu.
+4. Phối hợp việc tích hợp, trao
+đổi dữ liệu thông qua dịch vụ API giữa hệ thống thông tin, CSDL của BHXH Việt
+Nam; CSDL dữ liệu quốc gia về Bảo hiểm với các hệ thống thông tin; CSDL quốc
+gia, CSDL của các Bộ, ngành, địa phương và các cơ quan nhà nước khác.
+5. Chủ trì phối hợp với các đơn
+vị liên quan xử lý các sự cố trong quá trình vận hành các CSDL ngành BHXH Việt
+Nam; CSDL quốc gia về Bảo hiểm.
+Chương
+VII
+TỔ CHỨC THỰC HIỆN
+Điều 41.
+Khen thưởng và xử lý vi phạm
+1. Trung tâm CNTT theo dõi, tổng
+hợp, báo cáo, trên cơ sở đó đề xuất BHXH Việt Nam xem xét khen thưởng các cá
+nhân, tổ chức có thành tích, sáng kiến trong việc tổ chức, quản lý dữ liệu,
+CSDL từ CSDL ngành BHXH Việt Nam; CSDL quốc gia về Bảo hiểm và bảo vệ dữ liệu
+cá nhân thuộc phạm vi quản lý của ngành Bảo hiểm xã hội Việt Nam.
+2. Các đơn vị và cá nhân trong
+ngành BHXH Việt Nam nếu vi phạm Quy chế này tùy theo tính chất, mức độ vi phạm
+mà bị xử lý kỷ luật theo quy định tại
+Điều 20, Điều 21 của Quyết
+định số 3766/QĐ-BHXH ngày 30/12/2022
+của Tổng Giám đốc BHXH Việt Nam về việc
+ban hành quy định về phân cấp quản lý đối với người được áp dụng chế độ công chức,
+viên chức, người lao động ngành BHXH Việt Nam, xử phạt hành chính hoặc bị truy
+cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của
+BHXH Việt Nam và của pháp luật.
+3. Người đứng đầu đơn vị phải
+chịu trách nhiệm liên đới nếu để xảy ra các vi phạm của cá nhân, tổ chức thuộc
+phạm vi quản lý do không thực hiện việc quán triệt, phổ biến, kiểm tra, giám
+sát tình hình thực hiện quy chế của tổ chức, cá nhân trong đơn vị.
+4. Các đơn vị cung cấp dịch vụ,
+cá nhân thuộc đơn vị cung cấp dịch vụ tùy theo tính chất, mức độ vi phạm sẽ phải
+chịu trách nhiệm theo hợp đồng đã ký hoặc thỏa thuận với BHXH Việt Nam, bị xử
+phạt hành chính, đình chỉ hoạt động, nếu gây thiệt hại thì phải bồi thường theo
+quy định của pháp luật.
+Điều 42. Tổ
+chức thực hiện
+1. Thủ trưởng các đơn vị trực
+thuộc BHXH Việt Nam, Giám đốc BHXH tỉnh, Giám đốc BHXH huyện có trách nhiệm phổ
+biến, quán triệt đến từng công chức, viên chức thuộc phạm vi quản lý các quy định
+của Quy chế này và quy định pháp luật liên quan; tổ chức rà soát toàn diện việc
+tổ chức, quản lý, dữ liệu, CSDL thuộc phạm vi chỉ đạo; việc xử lý dữ liệu cá
+nhân tại đơn vị theo quy định của Quy chế.
+2. Trung tâm CNTT chủ trì, phối
+hợp với các đơn vị có liên quan xây dựng, trình Tổng Giám đốc BHXH Việt Nam ban
+hành các quy định, quy trình liên quan được giao trong Quy chế này; chủ trì tổ
+chức hướng dẫn, triển khai thực hiện Quy chế.
+3. Trong thời gian chưa xây dựng
+đầy đủ các cấu phần của CSDL quốc gia về Bảo hiểm, các đơn vị khi kết nối, chia
+sẻ dữ liệu thuộc phạm vi CSDL quốc gia về Bảo hiểm đảm bảo tuân thủ Nghị định
+43/2021/NĐ-CP; Nghị định 47/2020/NĐ-CP; Nghị định 13/2023/NĐ-CP; Nghị định
+47/2024/NĐ-CP và quy chế này.
+Trong quá trình thực hiện, nếu
+khó khăn, vướng mắc hoặc có những vấn đề mới phát sinh, các tổ chức, cá nhân phản
+ánh về Trung tâm CNTT để tổng hợp, trình Tổng Giám đốc BHXH Việt Nam xem xét sửa
+đổi, bổ sung Quy chế cho phù hợp./.
+PHỤ LỤC 01
+(Ban
+hành kèm theo Quyết định số: ........./QĐ-BHXH ngày ..../.... / 2023 của Tổng
+Giám đốc Bảo hiểm xã hội Việt Nam)
+BẢO HIỂM XÃ HỘI
+  VIỆT NAM
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+DANH SÁCH CÁC ĐƠN VỊ CHỦ TRÌ
+HỆ THỐNG THÔNG TIN, CƠ SỞ DỮ LIỆU NGÀNH BHXH VIỆT
+NAM
+TT
+Tên hệ thống thông tin/CSDL
+Đơn vị chủ trì cấp TW
+Đơn vị chủ trì cấp tỉnh
+1
+Văn bản điều hành
+Văn phòng
+Văn phòng
+2
+Hội nghị truyền hình trực tuyến
+Văn phòng
+Văn phòng
+3
+Quản lý Thu và Quản lý Sổ Thẻ
+Ban Quản lý Thu, Sổ - Thẻ
+Phòng Quản lý Thu- Sổ thẻ
+4
+Cấp mã số BHXH và Quản lý
+  BHYT hộ gia đình
+Ban Quản lý Thu, Sổ - Thẻ
+Phòng Quản lý Thu- Sổ thẻ
+5
+Kế toán tập trung
+Vụ Tài chính - Kế toán
+Phòng Kế hoạch- Tài chính
+6
+Thu nộp, chi trả BHXH điện tử
+Vụ Tài chính - Kế toán
+Phòng Kế hoạch- Tài chính
+7
+Quản lý tài khoản đầu tư tự động
+Vụ Tài chính - Kế toán
+8
+Xét duyệt Chính sách
+Ban THCS BHXH
+Phòng Chế độ BHXH
+9
+Đấu thầu thuốc
+Ban THCS BHYT
+Phòng Giám định BHYT
+10
+Cổng tiếp nhận dữ liệu (từ Cơ
+  sở KCB)
+Trung tâm Giám định BHYT và
+  Thanh toán đa tuyến
+Phòng Giám định BHYT
+11
+Hệ thống thông tin giám định
+  BHYT
+Trung tâm Giám định BHYT và
+  Thanh toán đa tuyến
+Phòng Giám định BHYT
+12
+Giám sát giám định BHYT
+Trung tâm Giám định BHYT và
+  Thanh toán đa tuyến
+Phòng Giám định BHYT
+13
+Quản lý thuốc
+Trung tâm Giám định BHYT và
+  Thanh toán đa tuyến
+Phòng Giám định BHYT
+14
+Đầu tư Quỹ
+Vụ Đầu tư quỹ
+15
+Lưu trữ hồ sơ điện tử
+Trung tâm Lưu trữ
+Văn phòng
+16
+Hồ sơ hành chính điện tử (hồ
+  sơ số hóa)
+Trung tâm Lưu trữ
+Văn phòng
+17
+Quản lý Nhân sự
+Vụ Tổ chức cán bộ
+Phòng Tổ chức cán bộ
+18
+Quản lý hoạt động Thanh tra -
+  Kiểm tra
+Thanh tra BHXH Việt Nam
+Phòng Thanh tra - Kiểm tra
+19
+Đào tạo trực tuyến
+Trường Đào tạo nghiệp vụ BHXH
+20
+Thi đua khen thưởng
+Vụ Thi đua _ khen thưởng
+Phòng Tổ chức cán bộ
+21
+Chăm sóc khách hàng
+Trung tâm Chăm sóc khách hàng
+Phòng Truyền thông
+22
+Hệ thống tổng hợp và phân
+  tích dữ liệu tập trung (DWH)
+Trung tâm CNTT
+Phòng Kế hoạch- Tài chính
+23
+Cổng thông tin điện tử
+Trung tâm Truyền thông
+Phòng Truyền thông
+24
+Quản lý định danh và truy cập
+  người dùng
+Trung tâm CNTT
+Văn phòng
+25
+Tiếp nhận và quản lý hồ sơ
+Trung tâm CNTT
+Văn phòng
+26
+Cổng dịch vụ công
+Văn phòng
+Văn phòng
+27
+VssID - BHXH số
+Trung tâm CNTT
+Văn phòng
+28
+Thư điện tử
+Trung tâm CNTT
+Văn phòng
+29
+Quản lý Thiết bị CNTT
+Trung tâm CNTT
+Văn phòng
+30
+Quản lý tài sản tập trung
+Vụ Tài chính - Kế toán
+Phòng Kế hoạch- Tài chính
+31
+Quản lý dòng tiền
+Vụ Tài chính - Kế toán
+32
+Thẩm định Quyết toán
+Vụ Tài chính - Kế toán
+Phòng Kế hoạch- Tài chính
+33
+Tương tác đa phương tiện giữa
+  người dân và doanh nghiệp với cơ quan BHXH
+Trung tâm CNTT
+34
+Trao đổi và tích hợp thông
+  tin thống nhất ngành BHXH
+Trung tâm CNTT
+35
+Chữ ký số chuyên dùng
+Trung tâm CNTT
+Văn phòng
+PHỤ LỤC 02
+(Ban
+hành kèm theo Quyết định số: ........./QĐ-BHXH ngày ..../.... / 20….. của Tổng Giám
+đốc Bảo hiểm xã hội Việt Nam)
+BẢO HIỂM XÃ HỘI
+  ……..
+ĐƠN VỊ:……………
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+…………., ngày……
+  tháng…… năm……
+DANH SÁCH ĐỀ NGHỊ CẤP/HỦY/KHÓA/THAY ĐỔI TÀI KHOẢN,
+QUYỀN TRUY CẬP
+Kính
+gửi:
+……………………………
+STT
+Họ và Tên người dùng
+Chức vụ
+Đơn vị
+Địa chỉ thư điện tử
+Tài khoản truy cập đang dùng (Nếu có)
+Nội dung đề nghị
+1
+1
+2
+3
+4
+5
+Người lập
+(Ký, ghi rõ họ tên)
+Lãnh đạo bộ phận
+(Ký, ghi rõ họ tên)
+Thủ trưởng đơn vị
+(Ký tên, đóng dấu)
+___________________
+1
+Mô tả đầy đủ chi
+tiết quyền đề nghị được cấp trên hệ thống thông tin
+PHỤ LỤC 03
+(Ban
+hành kèm theo Quyết định số: ........./QĐ-BHXH ngày ..../.... / 20… của Tổng
+Giám đốc Bảo hiểm xã hội Việt Nam)
+BẢO HIỂM XÃ HỘI
+  ……..
+ĐƠN VỊ:……………
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+…………., ngày……
+  tháng…… năm……
+THÔNG BÁO KẾT QUẢ XỬ LÝ YÊU CẦU
+Kính
+gửi:………………………
+Thông báo kết quả tiếp nhận, xử
+lý yêu cầu cấp/khóa, hủy/thu hồi, thay đổi quyền truy cập vào hệ thống thông
+tin, CSDL ngành BHXH Việt Nam đối với các tài khoản:
+STT
+Tên Tài khoản
+Kết quả
+Ghi chú
+Đã thực hiện
+Từ chối
+Lý do từ chối
+Nơi nhận:
+-
+-
+Người lập
+(Ký, ghi rõ họ tên)
+Lãnh đạo bộ phận
+(Ký, ghi rõ họ tên)
+Thủ trưởng đơn
+  vị
+(Ký tên, đóng dấu)
+PHỤ LỤC 04
+(Ban
+hành kèm theo Quyết định số: ........./QĐ-BHXH ngày ..../.... / 20…. của Tổng Giám
+đốc Bảo hiểm xã hội Việt Nam)
+BẢO HIỂM XÃ HỘI
+  ……..
+ĐƠN VỊ BÁO CÁO
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+…………., ngày……
+  tháng…… năm……
+TỔNG HỢP CẤP MỚI/KHÓA/HỦY/THU HỒI/THAY ĐỔI QUYỀN TRUY
+CẬP THÁNG/QUÝ … NĂM
+….
+Kính
+gửi: Tên đơn vị nhận báo cáo
+STT
+Họ và Tên
+Chức vụ
+Phòng/ Ban/ Bộ phận
+Địa chỉ thư điện tử ngành
+Tài khoản truy cập phần mềm đã được cấp
+Ngày,tháng, năm cấp mới/thu
+hồi/hủy/thay đổi quyền truy cập
+Lý do, mục đích cấp mới/thu hồi/thay đổi quyền truy cập
+Ghi chú
+Người lập
+(Ký, ghi rõ họ tên)
+Lãnh đạo bộ phận
+(Ký, ghi rõ họ tên)
+Thủ trưởng đơn vị
+(Ký tên, đóng dấu)
+PHỤ LỤC 05
+(Ban
+hành kèm theo Quyết định số: ........./QĐ-BHXH ngày ..../.... / 20… của Tổng
+Giám đốc Bảo hiểm xã hội Việt Nam)
+BẢO HIỂM XÃ HỘI VIỆT
+  NAM
+ĐƠN VỊ: ............................................
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+NHẬT KÝ SAO LƯU DỮ LIỆU
+Tháng….năm….
+STT
+Ngày/Giờ thực hiện sao lưu
+Họ và Tên người thực hiện/kiểm tra
+Tài khoản truy cập hệ thống
+Tên CSDL sao lưu
+Kích thước CSDL sao lưu
+Tình trạng sao lưu
+Ghi chú
+1
+2
+3
+4
+5
+Người lập
+(Ký, ghi rõ họ tên)
+Lãnh đạo bộ phận
+(Ký, ghi rõ họ tên)
+........., ngày ..... tháng ...... năm 20....
+Thủ trưởng đơn vị
+(Ký tên, đóng dấu)
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

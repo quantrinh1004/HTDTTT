@@ -1,0 +1,432 @@
+BỘ TÀI CHÍNH
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 2813/QĐ-BTC
+Hà Nội, ngày 20
+  tháng 12 năm 2023
+QUYẾT ĐỊNH
+BAN
+HÀNH QUY CHẾ BẢO VỆ DỮ LIỆU CÁ NHÂN TẠI BỘ TÀI CHÍNH
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+Căn cứ Nghị định số
+13/2023/NĐ-CP
+ngày 17 tháng 4 năm 2023 của Chính phủ về bảo vệ dữ liệu cá nhân;
+Căn cứ Nghị định số
+85/2016/NĐ-CP
+ngày 01 tháng 7 năm 2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin
+theo cấp độ;
+Căn cứ Nghị định số
+14/2023/NĐ-CP
+ngày 20 tháng 4 năm 2023 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn
+và cơ cấu tổ chức của Bộ Tài chính;
+Căn cứ Quyết định số
+538/QĐ-BTC
+ngày 24 tháng 3 năm 2017 của Bộ Tài
+chính quy định về phân cấp quản lý công chức, viên chức tại các đơn vị thuộc và
+trực thuộc Bộ Tài chính;
+Căn cứ Quyết định số
+1013/QĐ-BTC
+ngày 19 tháng 5 năm 2023 của Bộ Tài
+chính ban hành Quy chế An toàn thông tin mạng và An ninh mạng Bộ Tài chính;
+Theo đề nghị của Cục trưởng Cục Tin học và Thống
+kê tài chính.
+QUYẾT ĐỊNH:
+Điều 1.
+Ban hành kèm theo Quyết
+định này Quy chế Bảo vệ dữ liệu cá nhân tại Bộ Tài chính.
+Điều 2.
+Quyết định này có
+hiệu lực từ ngày ký.
+Điều 3.
+Cục trưởng Cục Tin
+học và Thống kê tài chính, Thủ trưởng các tổ chức hành chính, sự nghiệp thuộc cơ
+cấu tổ chức của Bộ Tài chính; các đơn vị và cá nhân thuộc Bộ Tài chính có liên
+quan chịu trách nhiệm thi hành Quyết định này./.
+Nơi nhận:
+- Như Điều 3;
+- Bộ Công an;
+- Bộ Thông tin và Truyền thông;
+- Cổng Thông tin điện tử Bộ Tài chính;
+- Lưu: VT, THTK.
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+Nguyễn Đức Chi
+QUY CHẾ
+BẢO
+VỆ DỮ LIỆU CÁ NHÂN TẠI BỘ TÀI CHÍNH
+(Kèm theo Quyết định số 2813/QĐ-BTC ngày 20 tháng 12 năm 2023 của Bộ Tài
+chính)
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh, đối
+tượng áp dụng
+1. Quy chế này quy định về công tác bảo vệ dữ liệu
+cá nhân của Bộ Tài chính.
+2. Quy chế này áp dụng với các đơn vị thuộc Bộ Tài
+chính; cán bộ, công chức, viên chức, người lao động (sau đây gọi chung là công
+chức, viên chức) của các đơn vị thuộc Bộ.
+Điều 2. Giải thích từ ngữ sử
+dụng trong Quy chế
+1. Hệ thống thông tin xử lý dữ liệu cá nhân:
+là hệ thống thông tin có chức năng quản lý dữ liệu cá nhân (hệ thống Quản lý
+cán bộ, hệ thống Định danh và xác thực điện tử) hoặc tiếp nhận, xử lý dữ liệu
+cá nhân để thực hiện thủ tục hành chính, dịch vụ công trực tuyến.
+2. Các đơn vị thuộc Bộ Tài chính:
+các tổ chức
+hành chính, sự nghiệp thuộc cơ cấu tổ chức của Bộ Tài chính quy định tại Nghị định
+số
+14/2023/NĐ-CP
+ngày 20/4/2023 của Chính
+phủ quy định về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài
+chính.
+3. Tổng cục:
+bao gồm Tổng cục Thuế, Tổng cục
+Hải quan, Tổng cục Dự trữ Nhà nước, Kho bạc Nhà nước, Ủy ban Chứng khoán Nhà nước.
+Điều 3. Nguyên tắc bảo vệ dữ
+liệu cá nhân tại Bộ Tài chính
+1. Việc xử lý dữ liệu cá nhân tại các đơn vị thuộc
+Bộ Tài chính phải tuân thủ quy định của pháp luật về bảo vệ dữ liệu cá nhân, an
+toàn thông tin mạng, an ninh mạng; quy định của pháp luật chuyên ngành và các
+quy định tại Quy chế này.
+2. Phân cấp trách nhiệm bảo vệ dữ liệu cá nhân phù
+hợp với tổ chức bộ máy và quy chế làm việc của Bộ Tài chính.
+3. Mỗi công chức, viên chức của các đơn vị thuộc Bộ
+Tài chính nêu cao tinh thần chủ động, tự giác trong việc áp dụng các biện pháp
+bảo vệ dữ liệu cá nhân, góp phần ngăn chặn, xử lý hành vi vi phạm liên quan đến
+dữ liệu cá nhân theo quy định của pháp luật.
+Chương II
+QUY ĐỊNH CỤ THỂ
+Điều 4. Phân loại dữ liệu cá
+nhân được xử lý tại Bộ Tài chính
+1. Dữ liệu cá nhân được xử lý tại Bộ Tài chính bao
+gồm:
+a) Dữ liệu cá nhân phát sinh trong quá trình thực
+hiện chức năng, nhiệm vụ quản lý nhà nước của Bộ Tài chính và của pháp luật
+khác có quy định cụ thể về trách nhiệm, nhiệm vụ của Bộ Tài chính;
+b) Dữ liệu cá nhân của công chức, viên chức làm việc
+tại Bộ Tài chính theo quy định của pháp luật về công chức, viên chức, thi đua,
+khen thưởng và pháp luật khác có liên quan;
+c) Thông tin về tài khoản số của cá nhân và dữ liệu
+cá nhân phản ánh hoạt động, lịch sử hoạt động trên các hệ thống thông tin do Bộ
+Tài chính, đơn vị thuộc Bộ Tài chính làm chủ quản theo quy định của pháp luật về
+giao dịch điện tử, an toàn thông tin mạng và an ninh mạng;
+d) Dữ liệu cá nhân khác phát sinh trong hoạt động
+quản lý, thực hiện nhiệm vụ của các đơn vị thuộc Bộ Tài chính không thuộc quy định
+tại điểm a, b, c khoản này.
+2. Các trường hợp xử lý dữ liệu cá nhân không cần sự
+đồng ý của chủ thể dữ liệu:
+a) Xử lý dữ liệu cá nhân thuộc điểm a, b và c khoản
+1 Điều này theo quy định tại
+khoản 5 Điều 17 Nghị định số 13/2023/NĐ-CP
+ngày 17 tháng 4 năm 2023 của Chính phủ về bảo vệ dữ liệu cá nhân;
+b) Xử lý dữ liệu cá nhân ghi nhận từ camera giám
+sát trụ sở làm việc của các đơn vị thuộc Bộ Tài chính theo quy định tại
+Điều 18 Nghị định số 13/2023/NĐ-CP
+;
+c) Các trường hợp khác theo quy định tại
+Điều 17 Nghị định số 13/2023/NĐ-CP
+.
+3. Việc xử lý dữ liệu cá nhân ngoài khoản 2 Điều
+này phải được sự đồng ý của chủ thể dữ liệu theo quy định tại
+Điều
+11, 12, 13
+,
+15 và 16 Nghị định số 13/2023/NĐ-CP
+.
+Điều 5. Xác định các vai trò
+theo quy định của pháp luật về bảo vệ dữ liệu cá nhân
+1. Bộ Tài chính là Bên Kiểm soát và xử lý dữ liệu
+cá nhân đối với:
+a) Dữ liệu cá nhân được quy định tại
+điểm
+a và b khoản 1 Điều 4 của Quy chế này
+, trừ các dữ liệu cá nhân thuộc các
+lĩnh vực được phân cấp quản lý cho các Tổng cục;
+b) Thông tin về tài khoản số của cá nhân và dữ liệu
+cá nhân phản ánh hoạt động, lịch sử hoạt động trên các hệ thống thông tin do Bộ
+Tài chính làm chủ quản (không bao gồm hệ thống thông tin đã được ủy quyền thực
+hiện trách nhiệm của chủ quản hệ thống thông tin).
+2. Tổng cục là Bên Kiểm soát và xử lý dữ liệu cá
+nhân đối với:
+a) Dữ liệu cá nhân thuộc chức năng, nhiệm vụ của Tổng
+cục, thuộc các lĩnh vực được phân cấp quản lý và của pháp luật khác có quy định
+cụ thể về trách nhiệm, nhiệm vụ của Tổng cục;
+b) Thông tin về tài khoản số của cá nhân và dữ liệu
+cá nhân phản ánh hoạt động, lịch sử hoạt động trên các hệ thống thông tin do Tổng
+cục làm chủ quản hoặc được Bộ Tài chính ủy quyền thực hiện trách nhiệm của chủ
+quản hệ thống thông tin.
+3. Đơn vị có hoạt động xử lý dữ liệu cá nhân ngoài
+khoản 1 và 2 Điều này chủ động xác định các vai trò “Bên Kiểm soát dữ liệu cá
+nhân”, “Bên Kiểm soát và xử lý dữ liệu cá nhân”, “Bên xử lý dữ liệu cá nhân” (nếu
+có) để áp dụng các quy định tương ứng của Nghị định số
+13/2023/NĐ-CP
+và quy định tại Quy chế này.
+Điều 6. Bảo vệ dữ liệu cá nhân
+trong quá trình xử lý dữ liệu cá nhân bên ngoài hệ thống thông tin xử lý dữ liệu
+cá nhân
+Việc xử lý dữ liệu cá nhân bên ngoài hệ thống thông
+tin xử lý dữ liệu cá nhân phải tuân thủ các quy định sau:
+1. Dữ liệu cá nhân phải được xử lý trong phạm vi
+quy định của pháp luật. Cá nhân, đơn vị thực hiện xử lý dữ liệu cá nhân có
+trách nhiệm:
+a) Xác định căn cứ pháp luật cho việc xử lý dữ liệu
+cá nhân (Điều, khoản của văn bản quy phạm pháp luật quy định mục đích và phạm
+vi dữ liệu cá nhân được phép xử lý).
+b) Trường hợp được yêu cầu tiếp nhận, xử lý dữ liệu
+cá nhân nằm ngoài phạm vi quy định của pháp luật, cần làm rõ căn cứ thực hiện với
+bên yêu cầu xử lý dữ liệu và có sự đồng ý của chủ thể dữ liệu trước khi thực hiện.
+2. Công chức, viên chức được phân công xử lý dữ liệu
+cá nhân có trách nhiệm:
+a) Không cung cấp, chia sẻ dữ liệu cá nhân đã thu
+thập cho tổ chức, cá nhân không thuộc phạm vi phải cung cấp theo quy định của
+pháp luật.
+b) Sử dụng máy tính đáp ứng yêu cầu về an toàn an
+ninh mạng: cài đặt phần mềm phòng, diệt mã độc; xử lý lỗ hổng bảo mật (nếu có)
+và được kiểm tra an ninh mạng.
+c) Áp dụng mã hóa tệp dữ liệu khi thực hiện trao đổi
+dữ liệu cá nhân trên môi trường mạng hoặc mang dữ liệu cá nhân ra khỏi cơ quan
+bằng thiết bị, phương tiện điện tử (trừ dữ liệu thuộc danh mục bí mật nhà nước
+thực hiện theo quy định của pháp luật về bảo vệ bí mật nhà nước). Không sử dụng
+mạng xã hội để trao đổi dữ liệu cá nhân, trừ trường hợp được sự đồng ý của chủ
+thể dữ liệu.
+d) Kiểm soát chặt các phiên bản bản điện tử, bản in
+chứa dữ liệu cá nhân; giới hạn truy cập tới dữ liệu cá nhân trong phạm vi các
+cá nhân có trách nhiệm tham gia kiểm soát và xử lý dữ liệu cá nhân; xóa, hủy dữ
+liệu cá nhân đã được lưu giữ khi đã hoàn thành mục đích sử dụng hoặc hết thời hạn
+lưu trữ; xóa không thể khôi phục được hoặc hủy các thiết bị chứa dữ liệu cá
+nhân khi không còn tiếp tục sử dụng.
+Điều 7. Bảo vệ dữ liệu cá nhân
+trong quá trình xử lý dữ liệu cá nhân trên hệ thống thông tin xử lý dữ liệu cá
+nhân
+1. Đơn vị tham gia sử dụng hệ thống thông tin xử lý
+dữ liệu cá nhân có trách nhiệm xác định chính xác các cá nhân được phép truy cập
+hệ thống thông tin để xử lý dữ liệu cá nhân; gửi đề nghị thay đổi, thu hồi tài
+khoản truy cập hệ thống thông tin tới đơn vị vận hành hệ thống thông tin ngay
+sau khi có sự thay đổi phân công về xử lý dữ liệu cá nhân tại đơn vị.
+2. Cá nhân được cấp tài khoản truy cập hệ thống
+thông tin để xử lý dữ liệu cá nhân trên hệ thống có trách nhiệm:
+a) Giữ bí mật mật khẩu và bảo vệ các phương tiện
+xác thực khác (nếu có) để truy cập hệ thống thông tin.
+b) Không thực hiện các hoạt động xử lý hoặc khai
+thác dữ liệu cá nhân trên hệ thống thông tin ngoài phạm vi trách nhiệm, nhiệm vụ
+được phân công.
+c) Khi không còn được phân công xử lý dữ liệu cá
+nhân trên hệ thống thông tin, yêu cầu đơn vị quản lý thực hiện thay đổi, thu hồi
+tài khoản; có trách nhiệm bàn giao tài khoản cho người tiếp nhận công việc này
+theo phân công của đơn vị quản lý.
+Điều 8. Bảo đảm an toàn hệ thống
+thông tin xử lý dữ liệu cá nhân
+1. Đối với các hệ thống thông tin xử lý dữ liệu cá
+nhân (được xây dựng, nâng cấp sau thời điểm Quy chế này có hiệu lực), phải nêu
+rõ căn cứ pháp luật của việc xử lý thông tin tại thuyết minh chủ trương đầu tư,
+dự án, kế hoạch thuê dịch vụ.
+2. Bảo đảm an toàn hệ thống thông tin theo quy định
+của pháp luật về bảo đảm an toàn hệ thống thông tin theo cấp độ, bảo vệ an ninh
+mạng; quy định tại Quy chế An toàn thông tin mạng và An ninh mạng Bộ Tài chính
+(đối với hệ thống thông tin do Bộ Tài chính làm chủ quản); quy định/quy chế an
+toàn an ninh mạng của Tổng cục (đối với hệ thống thông tin do Tổng cục làm chủ
+quản hoặc được ủy quyền thực hiện trách nhiệm của chủ quản hệ thống thông tin).
+3. Có tính năng ghi và lưu trữ nhật ký hệ thống quá
+trình xử lý dữ liệu cá nhân; khuyến khích hiển thị trên giao diện người dùng
+căn cứ pháp luật của việc xử lý dữ liệu cá nhân.
+4. Áp dụng xác thực, mã hóa kênh kết nối truyền nhận
+dữ liệu cá nhân giữa các hệ thống thông tin, giữa người dùng và hệ thống thông
+tin.
+5. Không xử lý dữ liệu cá nhân trên hệ thống thông
+tin thử nghiệm (sử dụng thông tin giả lập, mô phỏng dữ liệu cá nhân trên hệ thống
+thông tin thử nghiệm nếu cần thiết).
+6. Kiểm tra, đánh giá tuân thủ quy định của pháp luật
+về bảo vệ dữ liệu cá nhân đồng thời với việc kiểm tra đánh giá an toàn an ninh
+mạng đối với hệ thống thông tin.
+7. Thực hiện xóa, hủy dữ liệu cá nhân trên hệ thống
+thông tin khi kết thúc sử dụng hệ thống thông tin.
+Điều 9. Bảo vệ dữ liệu cá nhân
+trong hoạt động biên tập, công khai thông tin trên trang/cổng thông tin điện tử,
+dịch vụ công trực tuyến
+Đơn vị vận hành trang/cổng thông tin điện tử, dịch
+vụ công trực tuyến có trách nhiệm áp dụng biện pháp kiểm soát việc hiển thị dữ
+liệu cá nhân trên trang/Cổng Thông tin điện tử, dịch vụ công trực tuyến; không
+để lộ lọt, công khai dữ liệu cá nhân không đúng quy định của pháp luật từ trang/cổng
+thông tin điện tử, dịch vụ công trực tuyến và hoạt động biên tập trang/cổng
+thông tin điện tử:
+1. Bổ sung nhiệm vụ rà soát dữ liệu cá nhân tại các
+bài viết, phim, ảnh, âm thanh gửi đăng trên trang/cổng thông tin vào quy trình
+biên tập.
+2. Rà soát, đảm bảo các trường thông tin được hiển
+thị trên trang/cổng thông tin, dịch vụ công trực tuyến không vi phạm quy định của
+pháp luật về bảo vệ dữ liệu cá nhân.
+3. Khuyến khích hiển thị cảnh báo về rủi ro lộ, lọt
+dữ liệu cá nhân tại các chuyên mục hỏi, đáp trên trang/cổng thông tin điện tử,
+dịch vụ công trực tuyến (trường hợp câu hỏi của người dùng chứa dữ liệu cá
+nhân); áp dụng công cụ kỹ thuật để kiểm soát nội dung chứa dữ liệu cá nhân hiển
+thị trên trang/cổng thông tin điện tử, dịch vụ công trực tuyến.
+Điều 10. Đánh giá tác động xử
+lý dữ liệu cá nhân
+1. Trường hợp Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm
+soát và xử lý dữ liệu cá nhân là Bộ Tài chính, Cục Tin học và Thống kê tài
+chính có trách nhiệm:
+a) Phối hợp với các đơn vị liên quan xây dựng Hồ sơ
+đánh giá tác động xử lý dữ liệu cá nhân, Hồ sơ đánh giá tác động chuyển dữ liệu
+cá nhân ra nước ngoài (nếu có);
+b) Trình Bộ ban hành quyết định phê duyệt hồ sơ
+theo quy định tại Nghị định số
+13/2023/NĐ-CP
+;
+c) Thừa lệnh Bộ trưởng ký công văn gửi hồ sơ cho Bộ
+Công an (Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao);
+d) Lưu giữ 01 bản hồ sơ, sẵn sàng phục vụ hoạt động
+kiểm tra, đánh giá của Bộ Công an;
+đ) Phối hợp với các đơn vị liên quan cập nhật hồ sơ
+trong vòng 10 ngày sau khi Bộ Công an có ý kiến yêu cầu hoàn thiện hồ sơ; trong
+vòng 60 ngày khi có sự thay đổi về nội dung hồ sơ đã gửi Bộ Công an.
+2. Trường hợp Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm
+soát và xử lý dữ liệu cá nhân là đơn vị thuộc Bộ, đơn vị có trách nhiệm:
+a) Tổ chức xây dựng, ban hành quyết định phê duyệt Hồ
+sơ đánh giá tác động xử lý dữ liệu cá nhân, Hồ sơ đánh giá tác động chuyển dữ
+liệu cá nhân ra nước ngoài (nếu có);
+b) Gửi hồ sơ cho Bộ Công an (Cục An ninh mạng và
+phòng, chống tội phạm sử dụng công nghệ cao), đồng thời gửi bản điện tử của hồ
+sơ cho Cục Tin học và Thống kê Tài chính để phục vụ công tác quản lý về bảo vệ
+dữ liệu cá nhân của Bộ Tài chính;
+c) Lưu giữ 01 bản hồ sơ, sẵn sàng phục vụ hoạt động
+kiểm tra, đánh giá của Bộ Công an và của Bộ Tài chính;
+d) Cập nhật hồ sơ trong vòng 10 ngày sau khi Bộ
+Công an có ý kiến yêu cầu hoàn thiện hồ sơ; trong vòng 60 ngày khi có sự thay đổi
+về nội dung hồ sơ đã gửi Bộ Công an.
+3. Đơn vị thuộc Bộ khi ký thỏa thuận, hợp đồng với
+tổ chức, cá nhân về việc xử lý dữ liệu cá nhân có trách nhiệm yêu cầu Bên xử lý
+dữ liệu cá nhân cung cấp cho Cục Tin học và Thống kê tài chính 01 bản điện tử Hồ
+sơ đánh giá tác động xử lý dữ liệu cá nhân do Bên xử lý dữ liệu cá nhân thực hiện.
+Cục Tin học và Thống kê tài chính sử dụng các hồ sơ này để giám sát chung về
+công tác bảo vệ dữ liệu cá nhân tại Bộ Tài chính.
+4. Việc lập, cập nhật, lưu giữ, gửi Bộ Công an Hồ
+sơ đánh giá tác động xử lý dữ liệu cá nhân, Hồ sơ đánh giá tác động chuyển dữ
+liệu cá nhân ra nước ngoài thực hiện theo quy định tại
+Điều 24
+và 25 Nghị định số 13/2023/NĐ-CP
+.
+Điều 11. Thông báo trường hợp
+vi phạm quy định của pháp luật về bảo vệ dữ liệu cá nhân
+1. Trường hợp công chức, viên chức (sau đây gọi
+chung là cá nhân) làm việc tại các đơn vị thuộc Bộ Tài chính có hành vi vi phạm
+quy định về bảo vệ dữ liệu cá nhân:
+a) Nếu cá nhân thuộc thẩm quyền quản lý của Bộ trưởng
+Bộ Tài chính, đơn vị trực tiếp quản lý cá nhân có hành vi vi phạm phối hợp với
+Cục Tin học và Thống kê tài chính đánh giá, xác định mức độ vi phạm và báo cáo
+Bộ xem xét.
+b) Nếu cá nhân thuộc thẩm quyền quản lý của Tổng cục
+trưởng, đơn vị trực tiếp quản lý cá nhân có hành vi vi phạm báo cáo Tổng cục
+xem xét.
+c) Đối với các trường hợp không thuộc phạm vi quy định
+tại điểm a, b khoản này, thủ trưởng đơn vị trực tiếp quản lý cá nhân có trách
+nhiệm xác định mức độ vi phạm và quyết định biện pháp xử lý phù hợp với quy định
+của pháp luật.
+d) Trường hợp vi phạm quy định của pháp luật về bảo
+vệ dữ liệu cá nhân, cấp có thẩm quyền quyết định về công tác nhân sự đối với cá
+nhân vi phạm (theo quy định về phân cấp quản lý công chức, viên chức tại các
+đơn vị thuộc và trực thuộc Bộ Tài chính) thông báo cho Bộ Công an.
+2. Trường hợp hành vi vi phạm quy định của pháp luật
+về bảo vệ dữ liệu cá nhân thuộc lĩnh vực quản lý nhà nước của Bộ Tài chính do
+các đối tượng không thuộc phạm vi quản lý của Bộ Tài chính thực hiện:
+a) Nếu hành vi vi phạm thuộc lĩnh vực quản lý của Bộ
+Tài chính và không phân cấp cho Tổng cục, đơn vị được giao thực hiện chức năng
+tham mưu, giúp Bộ trưởng Bộ Tài chính quản lý nhà nước trong lĩnh vực đó phối hợp
+với Cục Tin học và Thống kê tài chính đánh giá, xác định mức độ vi phạm. Cục
+Tin học và Thống kê tài chính báo cáo Bộ phương án xử lý theo quy định của pháp
+luật.
+b) Nếu hành vi vi phạm thuộc các lĩnh vực thuộc phạm
+vi quản lý của Tổng cục, Tổng cục hoặc giao các đơn vị trực thuộc Tổng cục đánh
+giá, xác định mức độ vi phạm và xử lý theo quy định của pháp luật.
+3. Việc thông báo hành vi vi phạm quy định của pháp
+luật về bảo vệ dữ liệu cá nhân cho Bộ Công an thực hiện theo
+Điều
+23 Nghị định số 13/2023/NĐ-CP
+.
+Điều 12. Trách nhiệm bảo vệ dữ
+liệu cá nhân
+1. Cục Tin học và Thống kê tài chính có trách nhiệm:
+a) Tham mưu giúp Bộ trưởng quản lý, triển khai công
+tác bảo vệ dữ liệu cá nhân của Bộ Tài chính; Hướng dẫn, đôn đốc, kiểm tra việc
+thực hiện Quy chế này và các quy định của pháp luật, hướng dẫn của Bộ Công an,
+Bộ Thông tin và Truyền thông về bảo vệ dữ liệu cá nhân trong phạm vi quản lý của
+Bộ Tài chính; Báo cáo Bộ về việc sửa đổi, bổ sung Quy chế trong trường hợp cần
+thiết để đảm bảo sự phù hợp của Quy chế với các quy định, tiêu chuẩn liên quan
+và thực tế áp dụng tại Bộ Tài chính.
+b) Phối hợp với các đơn vị thuộc Bộ thực hiện tuyên
+truyền, nâng cao nhận thức của công chức, viên chức thuộc Bộ Tài chính và các đối
+tượng quản lý của Bộ Tài chính về quy định của pháp luật về bảo vệ dữ liệu cá
+nhân.
+c) Đảm bảo các hệ thống thông tin do Bộ Tài chính
+làm chủ quản (không bao gồm các hệ thống thông tin đã được Bộ ủy quyền thực hiện
+trách nhiệm của chủ quản hệ thống thông tin theo Quy chế An toàn thông tin mạng
+và an ninh mạng Bộ Tài chính) đáp ứng quy định về bảo vệ dữ liệu cá nhân.
+d) Tổng hợp kế hoạch, báo cáo về bảo vệ dữ liệu cá
+nhân, trình Lãnh đạo Bộ Tài chính gửi các cơ quan quản lý về bảo vệ dữ liệu cá
+nhân, an toàn an ninh mạng.
+đ) Chỉ định bộ phận, nhân sự thuộc đơn vị phụ trách
+bảo vệ dữ liệu cá nhân của Bộ Tài chính.
+2. Các đơn vị trực thuộc Bộ Tài chính có trách nhiệm:
+a) Tổ chức triển khai và giám sát, Kiểm tra việc thực
+hiện Quy chế này và các quy định của pháp luật về bảo vệ dữ liệu cá nhân tại
+đơn vị và các đơn vị trực thuộc; Tuyên truyền, nâng cao nhận thức của công chức,
+viên chức thuộc đơn vị và các đối tượng thuộc lĩnh vực được giao quản lý về quy
+định của pháp luật về bảo vệ dữ liệu cá nhân.
+b) Báo cáo về bảo vệ dữ liệu cá nhân khi có yêu cầu
+từ các cơ quan có thẩm quyền và gửi Cục Tin học và Thống kê tài chính tổng hợp,
+báo cáo Bộ.
+c) Tổng cục chỉ định bộ phận, nhân sự thuộc đơn vị
+phụ trách bảo vệ dữ liệu cá nhân thuộc chức năng, nhiệm vụ và phạm vi quản lý của
+đơn vị; bảo đảm các hệ thống thông tin do đơn vị làm chủ quản hoặc được ủy quyền
+thực hiện trách nhiệm của chủ quản hệ thống thông tin đáp ứng quy định về bảo vệ
+dữ liệu cá nhân.
+d) Đơn vị đóng vai trò Bên Kiểm soát dữ liệu cá
+nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân thực hiện các trách nhiệm tương ứng
+quy định tại Nghị định số
+13/2023/NĐ-CP
+và
+quy định tại Quy chế này.
+3. Thủ trưởng đơn vị trực thuộc Bộ chịu trách nhiệm
+trước Lãnh đạo Bộ Tài chính về việc đảm bảo công tác bảo vệ dữ liệu cá nhân tại
+đơn vị thực hiện đúng quy định của pháp luật và Quy chế này.
+4. Công chức, viên chức làm việc tại các đơn vị thuộc
+Bộ Tài chính có trách nhiệm:
+a) Tuân thủ quy định của pháp luật về bảo vệ dữ liệu
+cá nhân và quy định của Quy chế này;
+b) Thực hiện quyền và nghĩa vụ của chủ thể dữ liệu đối
+với dữ liệu cá nhân của bản thân theo quy định tại
+Điều 9 và 10 Nghị
+định số 13/2023/NĐ-CP
+;
+c) Thực hiện biện pháp bảo vệ dữ liệu cá nhân; Khi
+phát hiện dữ liệu cá nhân có rủi ro bị lộ hoặc không được bảo vệ theo quy định,
+yêu cầu đơn vị quản lý, xử lý dữ liệu cá nhân có biện pháp bảo vệ dữ liệu phù hợp,
+theo đúng quy định;
+d) Thông báo các trường hợp vi phạm quy định về bảo
+vệ dữ liệu cá nhân cho thủ trưởng đơn vị; chịu trách nhiệm trước pháp luật và Bộ
+Tài chính về các vi phạm, thất thoát dữ liệu cá nhân do không tuân thủ Quy chế,
+quy định của pháp luật.
+5. Cơ quan, tổ chức, cá nhân vi phạm quy định bảo vệ
+dữ liệu cá nhân sẽ bị xử lý kỷ luật, xử phạt vi phạm theo quy định của pháp luật.
+Chương III
+TỔ CHỨC THỰC HIỆN
+Điều 13. Tổ chức thực hiện
+1. Thủ trưởng các đơn vị có trách nhiệm phổ biến,
+quán triệt đến từng công chức, viên chức thuộc phạm vi quản lý các quy định của
+pháp luật về bảo vệ dữ liệu cá nhân và Quy chế này; tổ chức rà soát công tác xử
+lý dữ liệu cá nhân tại đơn vị theo quy định của Quy chế.
+2. Cục Tin học và Thống kê tài chính, các Tổng cục
+tổ chức xây dựng Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân; rà soát các hệ
+thống thông tin xử lý dữ liệu cá nhân và triển khai phương án nhằm đảm bảo các
+hệ thống thông tin này đáp ứng quy định tại Quy chế; thực hiện kiểm tra an ninh
+mạng đối với các máy tính xử lý dữ liệu cá nhân.
+3. Trong quá trình thực hiện Quy chế này, nếu phát
+sinh khó khăn, vướng mắc, các đơn vị, cá nhân gửi ý kiến về Cục Tin học và Thống
+kê tài chính để tổng hợp, báo cáo, đề xuất trình Bộ trưởng Bộ Tài chính xem
+xét, quyết định./.
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

@@ -1,0 +1,845 @@
+BẢO
+  HIỂM XÃ HỘI VIỆT NAM
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+5591
+/BHXH-T
+CKT
+V/v hướng
+  dẫn khóa sổ, lập báo cáo quyết toán năm 2017
+Hà
+  Nội, ngày
+13
+tháng
+12
+năm 2017
+Kính
+  gửi:
+- Bảo hiểm xã hội các tỉnh, thành
+  phố trực thuộc Trung ương;
+- Bảo hiểm xã hội Bộ Quốc phòng;
+- Bảo hiểm xã hội Bộ Công an;
+- Cục Việc làm thuộc Bộ Lao động
+-
+Thương
+  binh v
+à
+Xã hội;
+- Văn phòng Bảo hiểm xã hội Việt Nam;
+- Các đơn vị sự nghiệp trực thuộc Bảo hiểm xã hội
+V
+iệt Nam;
+- Ban Quản lý dự án Đầu tư và Xây dựng ngành Bảo, hiểm xã hội.
+Ngày 16/11/2016, Bảo hiểm xã hội Việt
+Nam đã ban hà
+n
+h Công văn số 4593/BHXH-TCKT về hướng dẫn
+công tác khóa sổ, lập báo cá
+o
+tài chính hàng năm. Để thực
+hiện công tác
+khóa
+sổ và lập Báo cáo tài chính nă
+m
+2017 đảm bảo chất lượng, đúng quy định, Bảo hiểm xã hội (BHXH) Việt Na
+m
+hướng dẫn bổ sung một số nội dung sau:
+1. Hạch toán, quyết
+toán số thu BHXH, bảo hiểm y tế (BHYT), bảo hiểm thất nghiệp (BHTN)
+1.1. Thu BHYT
+a) Thực hiện hạch toán kế toán đối với kinh phí cấp
+trùng thẻ BHYT
+- H
+ằ
+ng năm, căn
+cứ vào s
+ố
+ti
+ề
+n phải hoàn trả ngân s
+á
+ch địa phương
+(NSĐP) theo thông báo của Bộ Tài chính, kết luận của
+cơ quan thanh tra, Kiểm toán Nhà nước về kết quả rà soát cấp trùng thẻ BHYT, BHXH
+Việt Nam thực hiện trích quỹ dự phòng KCB BHYT chuyển cho BHXH các tỉnh để hoàn
+trả NSĐP theo đúng quy định.
+- Trường hợp BHXH tỉnh bù trừ kinh phí cấp trùng thẻ
+BHYT với số
+ngân sách nhà nước (NSNN) đóng, hỗ trợ đóng BHYT: Thực
+hiện quyết toán
+đủ số thu BHYT trong năm và hạch toán kế
+toán theo hướng
+dẫn tại Công văn
+số 4428/BHXH-TCKT ngày 17/11/2014
+về việc hoàn trả NSNN trùng thẻ BHYT năm 2013.
+- Trường hợp các năm trước BHXH tỉnh đã
+bù trừ kinh phí cấp trùng thẻ BHYT với số NSNN đóng, hỗ trợ đóng BHYT nhưng ch
+ư
+a hạch toán kế toán theo hướng dẫn tại Công văn số 4428/BHXH-TCKT, thực
+hiện hạch toán kế toán như sau:
++
+Căn cứ văn bản của Ủy ban nhân dân
+(UBND) tỉnh hoặc Sở Tài chính thông
+b
+áo số giảm trừ kinh
+phí cấp trùng thẻ BHYT của các năm trước, BHXH tỉnh tổ
+n
+g hợp
+toàn bộ số phải thu BHYT đã giảm trừ từ các năm trước do giảm trừ ki
+nh
+phí cấp trùng thẻ BHYT vào số phải thu NSNN đóng, hỗ trợ đóng BHYT
+trong năm 2017, ghi:
+N
+ợ TK 311 - Các khoản phải thu (3118)
+Có TK 573 - Thu BHYT
+Đồ
+ng thời ghi Nợ TK013 - Phải thu
+BHYT
++
+Trên cơ sở số phải thu
+BHYT đã giảm trừ từ các năm trước
+đã hạch
+toán,
+ghi
+:
+Nợ
+TK 342
+-
+Thanh
+toán nội bộ (3428)
+Có TK 311 - Các khoản phải thu (3118)
+Đồ
+ng thời ghi: Có TK 013 - Phải thu
+BHYT
++ Tổng hợp s
+ố
+thu B
+H
+YT phải nộp cấp trên, ghi:
+Nợ TK 351 - Thanh toán về thu các loại
+bảo hiểm giữa Trung ương với tỉnh
+Có TK 342 - Thanh toán nội bộ (3428)
+b) Đối với số tiền đóng, hỗ trợ BHYT năm 2016 NSNN
+chuyển trả trong năm 2017, BHXH tỉnh thực hiện hạch toán vào số thu BHYT trong
+năm 2017. Số thu này được tính để xác định quỹ KCB BHYT năm 2017 của tỉnh.
+c) Trường hợp NSĐP hỗ trợ thêm mức
+đ
+óng BHYT cho một số đối tượng l
+ú
+c hỗ trợ đóng BHYT
+theo quy định tại Luật sửa đổi, bổ sung một số điều của Luật BHYT), BHXH tỉnh
+thực hiện hạch toán số thu BHYT này vào phần NSĐP hỗ trợ.
+d)
+Đối với
+khoản 20% phần kinh
+phí chưa sử dụng
+hết khi số thu BHYT dành cho KCB lớn hơn s
+ố
+chi KCB trong năm của BHXH tỉnh (gọi chung là khoản 20% được sử dụng
+tại đơn vị): Trường hợp UBND tỉnh phê duyệt hỗ trợ mức đóng BHYT cho một số
+nhóm đối tượng, BHXH tỉnh hạch toán vào số thu BHYT của tỉnh theo hướng dẫn tại
+Công văn số 4057/BHXH-TCKT ngày 18/10/2016 của BHXH Việt Nam về việc hướng dẫn
+một số nội dung hạch toán kế toán. Số th
+u
+này được tính để
+xác định quỹ KCB BHYT của tỉnh.
+1.2. Thu BHTN: Đối với số NSNN hỗ trợ
+quỹ BHTN từ năm 2014 trở về trước, BHXH tỉnh hạch toán nhầm từ nguồn ngân sách
+Trung ương hỗ trợ sang NSĐP h
+o
+ặc số thu BHTN của đối tượng
+hợp đồng ngoài chỉ tiêu biên chế, NSĐP không đồng ý hỗ trợ từ NSĐP, BHXH tỉnh
+phối hợp với Sở Tài chính địa phương ký xác nhận số liệu và tổng hợp báo cáo về
+BHXH Việt Nam (Ban Thu) để tổng hợp báo cáo Bộ Tài chính.
+2. Quyết toán
+thu, chi quỹ khám bệnh, chữa bệnh (KCB) BHYT
+2.1. Quyết toán chi KCB BHYT
+Đối với các cơ sở KCB sử dụng hóa đơn
+điện tử khi thanh
+q
+uyết toán kinh phí KCB BHYT: Thực hiện
+theo hướng dẫn tại Công văn s
+ố
+3991/BHXH-TCKT ngày 11/9/2017
+của BHXH Việt Nam về việc sử dụng
+h
+óa đơn điện tử trong
+thanh toán chi phí KCB BHYT.
+2.2. H
+ạ
+ch toán,
+quyết toán khoản 20% kết dư quỹ KCB
+n
+ăm 2015 được sử dụng
+tại địa phương: BHXH tỉnh tổng hợp số kinh phí đã sử dụng vào quyết toán KCB
+BHYT năm 2017 của BHXH tỉnh, số chi phí này không tính vào chi phí KCB BHYT
+trong năm để cân đối quỹ KCB BHYT của tỉnh.
+Trường hợp, phần kinh phí được để lại
+địa phương chư
+a
+sử dụng hoặc không sử dụng hết, BHXH tỉnh
+chịu trách nhiệm thu hồi và ch
+u
+yển về BHXH Việt Nam để bổ
+sung quỹ dự phòng theo quy định tại
+Điểm c, Khoản 3, Điều 7
+Thông tư số 20/2016/TT-BTC
+ngày 03/02/2016 của Bộ T
+à
+i
+chính hướng dẫn thực hiện cơ chế quản lý tài chính về BHXH, BHYT, BHTN và chi
+phí quản lý BHXH, BHYT, BHTN
+2.3. Đối với thu BHYT, chi KCB BHYT
+cho quân nhân, công an nhân dân và người làm công tác cơ yếu: Các đơn vị quản
+lý, hạch toá
+n
+và lập các báo cáo theo hướng dẫn tại Công
+văn số 79/BHXH-TCKT ngày 09/01/2017 về việc hướng dẫn một số nội dung về hạch
+toán, tạm ứng, thanh quyết toán kinh phí KCB BHYT đối với quân nhân, công an và
+người làm công tác cơ yếu do BHXH Bộ Quốc phòng, BHXH Bộ Công an phát hành thẻ
+BHYT và Công văn số 81/BHXH-TCKT ngày 09/01/2017 hướng dẫn một số nội du
+n
+g về hạch toán, tạm ứng, thanh quyết toán kinh phí KCB BHYT đối với người
+làm công tác cơ yếu do BHXH tỉnh phát hành thẻ BHYT.
+Trường hợp quỹ khám bệnh, chữa bệnh bảo
+hiểm y
+t
+ế đối với quân nhân, công an nhân dân và người làm
+công tác cơ yếu lớn hơn số chi KCB và chi phí vận chuyển trong năm: Phần kinh phí
+chưa dùng h
+ế
+t được sử dụng theo quy định tại
+Khoản
+2, Điều 21 Nghị định số 70/2015/NĐ-CP
+, BHXH B
+ộ
+Quốc
+phòng, BHXH Bộ Công an tổng hợp vào quyết toán
+c
+hi KCB
+BHYT của BHXH Bộ Quốc phòng, Bộ Công an nhưng không tính vào chi phí KCB BHYT
+trong năm để cân đối quỹ.
+3. Quyết toán chi
+phí quản lý BHXH, BHYT, BHTN
+3.1. Một số nội dung chi như: Chi thù
+lao cho tổ chức làm đại lý thu BHXH tự nguyện, BHYT của người tham gia theo hộ
+gia đình, của học sinh, sinh viên đang theo học tại các cơ sở giáo dục thuộc hệ
+thống giáo dục quốc dân; Chi hỗ trợ cho UBND xã, phường, thị trấn lập danh sác
+h
+người tham gia BHYT trên địa bàn; Chi phí chi trả lương hưu, trợ
+cấp BHXH và trợ cấp thất nghiệp; Chi rà soát và bàn giao sổ BHXH cho người lao
+động; Chi cấp mã số BHXH cho người tham gia BHXH, BHYT; Kinh phí CSSKBĐ của y tế
+cơ quan. Trong năm đơn vị chi không hết số dự toán được BHXH Việt Nam giao, phải
+chuyển
+sang năm sau tiếp tục sử dụng, không được sử dụng
+cho mục đích khác, không được tính là kinh phí tiết kiệm chi phí quản lý BHXH,
+BHYT, BHTN.
+3.2. Căn cứ số kinh phí tiết kiệm
+trong năm, các đơn vị thực hiện trích lập các quỹ và chuyển nộp về BHXH Việt
+Nam theo đúng quy định. Khi chuyển tiền nộp các quỹ về BHXH Việt Nam phải ghi
+chi tiết số tiền nộp theo từng quỹ để làm cơ
+s
+ở h
+ạ
+ch toán kế toán.
+3
+.
+3. Chi ứng dụng
+công nghệ thông tin (CNTT)
+Trung tâm Công nghệ thông tin, Ban Quản
+lý dự án đầu tư xây dựng Ngành
+r
+à soát, phân tích, thuyết
+minh các nội dung chi, kinh phí chi ứng dụng CNTT t
+ừ
+nguồn
+kinh phí được giao hàng n
+ă
+m.
+4. Hạch toán, quản
+lý tài sản nhà nước
+4.1. Thực hiện hạch toán, quản lý tài
+sản nhà nước theo quy định tại
+Mục VI Công văn số 4593/BHXH-TCKT
+ngày 16/11/2016 của BHXH Vi
+ệ
+t Nam.
+4.2.
+V
+ề mua sắm,
+sửa chữa tài sản: Yêu cầu các đơn vị rà soát hồ sơ mua sắm,
+sửa
+chữa tài sản theo đúng quy định hiện hành của Nhà nước và hướng dẫn của
+BH
+X
+H Việt Nam về phân cấp thẩm quyền; trình tự, thủ tục;
+tiêu chuẩn, định mức; thanh quyết toán; hạch toán kế toán; báo cáo và quản lý,
+sử dụng tài sản; đảm bảo triệt để tiết kiệm, hiệu quả.
+4.3. Đối với tài sản cố định hình
+thành qua mua sắm tập trung và đầu tư: Thực hiện bàn giao, tiếp nhận và xác định
+nguyên giá tài sản cố định theo hướng dẫn của BHXH Việt Nam tại Công văn số
+4311/BHXH-TCKT ngày 28/9/2017.
+5. Lập, nộp báo
+cáo tài chính
+5.
+1.
+Các đơn vị
+khẩn trương hoàn thành công tác lập báo cáo tài chính Quý IV, báo cáo tài chính
+năm 2017 nộp về BHXH Việt Nam theo đúng quy định. Đơn vị n
+ộ
+p báo cáo tài chính chậm so với thời gian quy định, không đảm bảo chất
+lượng sẽ trừ vào điểm thi đua năm. Các bộ phận nghiệp vụ thực hiện rà soát kỹ
+các chi p
+h
+í phát sinh trong quý, năm để tổng hợp đầy đủ, kịp
+thời vào báo cáo tài chính; tăng cường phối hợp để đối chiếu thống nhất số liệu
+trước khi lập báo cáo tài chính
+Quý
+IV và năm 2016.
+5.2. BHXH tỉnh lập các phụ lục số 01,
+03, 05 ban hành kèm theo công văn này và đ
+ó
+ng vào Báo cáo
+quyết toán năm gửi BHXH Việt Nam.
+5.3. Bãi bỏ phụ lục số 01 và phụ lục
+số 03 ban hành kèm theo Công văn số 4593/BHXH-TCKT.
+5.4. Yêu cầu BHXH các tỉnh, thành phố
+trực thuộc Trung ương, BHXH Bộ Quốc phòng, BHXH Bộ Công an, Cục Việc làm thuộc
+Bộ Lao động - Thương binh và Xã hội, Văn phòng BHXH Việt Nam, các đơn vị sự
+nghiệp trực thuộc BHXH Việt Nam, Ban Quản lý dự án Đầu tư và Xây dựng ngành
+BHXH tổ chức thực hiện theo đúng hướng dẫn tại văn bản này. Trong quá trình thực
+hiện nếu có vướng mắc, đề nghị phản ánh kịp thời về BHXH Vi
+ệ
+t Nam để xem xét, giải quyết./
+.
+Nơi nhận:
+- Như trên;
+- Tổng Giám đốc (để b/c);
+- Các Phó Tổng Giám đốc;
+- Các Tổ chức giúp việc TGĐ;
+- Website BHXH Việt Nam;
+- Lưu: VT, TCKT (
+10
+bản)
+.
+KT.
+  TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Nguyễn Đình Khương
+Phụ
+lục số 01
+BẢO HIỂM XÃ HỘI VIỆT NAM
+BẢO HIỂM XÃ HỘI TỈNH, TP..
+TỔNG HỢP THU HỒI CHI SAI BẢO HIỂM XÃ HỘI,
+BẢO HIỂM THẤT NGHIỆP, BẢO HIỂM Y TẾ NĂM TRƯỚC
+Năm...
+(Phụ
+l
+ục ban hành kèm theo C
+ô
+ng văn số 55
+91/
+BHXH-TCKT ngày
+13
+/
+1
+2/2017 của BHXH Việt Nam)
+ĐVT:
+Đồng
+STT
+CHỈ
+  TIÊU
+T
+HỰ
+C HI
+Ệ
+N
+THU HỒI
+CỦA TỈNH
+NỘP
+  S
+Ố
+TH
+U
+H
+Ồ
+I CHI SAI BHXH, BHTN, BHYT VỀ BHXH
+Số
+  còn phải thu hồi năm trước chuyển sang
+Số
+  phải thu trong năm
+Số
+  đã thu hồi trong năm
+Số
+  còn phải thu hồi chuyển năm sau
+Số
+  năm trước còn phải nộp
+Số
+  phải nộp trong năm
+Số
+  đã nộp trong năm
+Số
+  còn phải nộp chuyển năm sau
+Trong
+  đó
+Số
+  tiền đã thu chưa nộp
+Số
+  còn phải thu hồi
+A
+B
+1
+2
+3
+4 =
+  1+2-3
+5
+6=2
+7
+8-5+6-7=9+10
+9
+10
+I
+NSNN đảm bảo
+1
+Lương hưu
+2
+Trợ cấp
+II
+Quỹ BHXH
+1
+Quỹ ốm đau, thai sản
+2
+Quỹ TNLĐ-BNN
+3
+Quỹ hưu trí, tử tuất
+3
+.
+1
+Quỹ BHXH bắt buộc
+3
+.
+2
+Quỹ BHXH tự nguyện
+III
+Quỹ BH thất nghiệp
+IV
+Quỹ BHYT
+CỘNG
+1
+Người lập biểu
+(Ký tên)
+Trưởng phòng KHTC
+(K
+ý
+tên)
+...,
+  Ngày...tháng...năm...
+Giám đốc BHXH
+(K
+ý
+tên, đóng dấu)
+* THUYẾT MINH THU H
+Ồ
+I CHI SAI
+Chỉ
+  tiêu
+Mã
+  chỉ tiêu
+Số
+  tiền
+Thuyết
+  minh thu hồi chi sai
+Đơn
+  vị tính: Đồng
+A
+B
+1
+2
+Nguồn NSNN
+THN
+00
+Số chưa nộp về BHXH Việt Nam năm
+  trước chuyển sang
+THN01
+Số phải nộp trong năm
+T
+ổ
+ng
+  cộng
+THN02
+Cơ quan BHXH
+THN03
+Đại diện chi trả xã, phường
+THN04
+Cơ quan B
+ưu
+điện
+THN05
+Cá nhân,
+đơn
+vị khác
+THN06
+Số đã nộp trong năm
+THN07
+Số
+còn phải nộp BHXH Việt Nam chuyển
+  kỳ sau
+Tổng cộng
+THN08
+Cơ quan BHXH
+THN09
+Đại diện chi trả xã, phường
+THN10
+Cơ quan Bưu điện
+THN
+1
+1
+Cá nhân, đơn vị khác
+THN12
+Nguồn Quỹ
+THQ
+00
+Số chưa nộp về BHXH Việt Nam năm
+  trước chuyển sang
+THQ01
+S
+ố
+phải nộp
+  trong năm
+Quỹ BHXH, BHTN
+Tổng cộng
+THQ02
+Cơ quan BHXH
+THQ03
+Đại diện ch
+i
+trả
+  xã, phường
+THQ04
+Cơ quan Bưu điện
+THQ05
+Trung tâm dịch vụ việc làm
+THQ06
+Đơn vị sử dụng lao động
+THQ07
+Cá nhân, đơn vị khác
+THQ08
+Quỹ BHYT
+Tổng cộng
+THQ09
+Cơ sở KCB
+THQ
+10
+Cá nhân, đơn vị khác
+THQ11
+Số đã nộp trong năm
+THQ13
+S
+ố
+còn phải nộp
+  BHXH Việt Nam chuyển kỳ sau
+Tổng cộng
+THQ13
+Cơ quan BHXH
+THQ14
+Đại diện chi trả xã, phường
+THQ15
+Cơ quan Bưu điện
+THQ
+16
+Trung tâm dịch vụ việc làm
+THQ17
+Đơn vị sử dụng lao động
+THQ18
+Cơ sở KCB
+THQ19
+Cá nhân, đơn vị khác
+THQ20
+Phụ
+lục số 03
+B
+Ả
+O HI
+Ể
+M
+XÃ HỘI VIỆT NAM
+BẢO HIỂM XÃ HỘI TỈNH, TP....
+BÁO CÁO TÌNH HÌNH QUYẾT TOÁN SỬ DỤNG
+KINH PHÍ 20% ĐƯỢC SỬ DỤNG TẠI ĐỊA PHƯƠNG
+Năm:
+..............................
+(Phụ
+lục ban hành kèm theo Công văn số 55
+91
+/BHXH-TCKT
+ngày
+13/12/2017
+của BHXH Việt Nam)
+ĐV
+T:
+Đồng
+STT
+Chỉ tiêu
+Mã số
+Số tiền
+I
+Tình hình sử dụng kinh phí
+  năm trước chuyển sang (được sử dụng tính đến hết ngày .....)
+01
+1
+Tổng kinh phí năm trước
+  chuyển sang
+02=03+04
+1.1
+Kinh phí hỗ trợ quỹ KCB
+  cho người nghèo
+03
+1.2
+Kinh phí mua trang thiết
+  bị y tế, mua phương tiện vận chuyển người bệnh ở tuyến huyện
+04
+2
+Kinh phí đề nghị quyết
+  toán
+05=06+07
+2.1
+Hỗ trợ quỹ KCB cho người
+  nghèo
+06
+2.2
+Chi mua trang thiết bị
+  y tế, mua phương tiện vận chuyển người bệnh ở tuyến huyện
+07
+3
+Kinh phí chưa sử dụng
+  hoặc không sử dụng hết nộp về Quỹ Dự phòng BHYT (BHXH Việt Nam)
+08=02-05
+II
+Tình hình sử dụng kinh
+  phí năm nay
+09
+1
+Kinh phí 20% kết dư quỹ
+  KCB BHYT năm...
+(theo Thông báo... của
+  BHXHVN)
+10
+2
+Kế hoạch sử dụng kinh
+  phí 20% (theo Quyết định số.... của Chủ tịch UBND tỉnh...)
+11=12+13+14
+2.1
+Kinh phí hỗ trợ quỹ KCB
+  cho người nghèo
+12
+2.2
+Kinh phí hỗ trợ mức đóng
+  BHYT cho 1 số nhóm đối tượng
+13
+2.3
+Kinh phí mua trang thiết
+  bị y tế, mua phương tiện vận chuyển người bệnh ở tuyến huyện
+14
+3
+Kinh phí thực nhận
+  trong năm
+15=16+17
+3.1
+Cấp trên cấp
+16
+3.2
+Kinh phí ghi thu hỗ trợ
+  mức đóng BHYT cho 1 số nhóm đối tượng
+17
+4
+Kinh phí đề nghị quyết
+  toán
+18=19+20+21
+4.1
+Hỗ trợ quỹ KCB cho người
+  nghèo
+19
+4.2
+Hỗ trợ mức đóng BHYT
+  cho 1 số nhóm đối tượng
+20
+4.3
+Chi mua trang thiết bị
+  y tế, mua phương tiện vận chuyển người bệnh ở tuyến huyện
+21
+5
+Kinh phí còn chưa sử dụng
+  chuyển năm sau (được sử dụng tính đến hết ngày.......)
+22=23+24
+5.1
+Kinh phí hỗ trợ quỹ KCB
+  cho người nghèo
+23=12-19
+5.2
+Kinh phí mua trang thiết
+  bị y tế, mua phương tiện vận chuyển người bệnh ở tuyến huyện
+24=14-21
+III
+Tổng cộng kinh phí đề
+  nghị quyết toán trong năm
+25=05+18
+Người lập biểu
+(Ký tên)
+Kế toán Trưởng
+(Ký tên)
+......., ngày……
+  tháng ..... năm …
+Giám đốc BHXH
+(Ký tên, đóng dấu)
+Phụ lục số 05
+BẢO HIỂM XÃ HỘI VIỆT NAM
+BẢO HIỂM XÃ HỘI TỈNH .........
+ĐỐI CHIẾU KINH PHÍ CHI TRẢ, THU HỒI
+CÁC CHẾ ĐỘ BHXH, BHTN VỚI CƠ QUAN BƯU ĐIỆN
+Năm...
+(Phụ
+lục ban hành kèm theo Công văn số
+5591/
+BHXH-TCKT
+ngày
+13/12/2017
+của BHXH Việt Nam)
+Đvt:
+Đồng
+STT
+LOẠI CHẾ ĐỘ
+MÃ CHỈ TIÊU
+KINH PHÍ CHI TRẢ
+KINH PHÍ THU HỒI
+KP còn dư năm trước chuyển sang
+KP cấp trong năm
+KP đã quyết toán trong năm
+KP còn dư cuối năm
+Phải hoàn trả
+Đã hoàn trả
+Còn phải hoàn trả
+Số ngày hoàn trả quỹ BHXH kể từ ngày phát hiện chi
+  sai chi vượt
+Số người
+Số tiền
+Số người
+Số tiền
+Số người
+Số tiền
+Số người
+Số tiền
+Số người
+Số tiền
+Số người
+Số tiền
+Số người
+Số tiền
+A
+B
+C
+1
+2
+3
+4
+5
+6
+7=1+3-5
+8=2+4-6
+9
+10
+11
+12
+13=9-11
+14=10-12
+15
+I
+Ngân
+  sách Nhà nước đảm bảo, trong đó:
+37CBH00
+1
+Chi hàng
+  tháng
+37CBH01
+2
+Chi m
+ộ
+t lần
+37CBH02
+II
+Quỹ BHXH
+37CBH03
+-
+1
+Quỹ Hưu
+tr
+í, tử
+  tuất
+37CBH04
+1.1
+Quỹ BHXH bắt
+  buộc trong đó:
+37CBH05
+1.1.1
+Chi hàng
+  tháng
+37CBH06
+1.1.2
+Chi một lần
+37CBH07
+1.2
+Quỹ BHXH tự
+  nguyện, trong đó:
+37CBH08
+1.2.1
+Chi hàng
+  tháng
+37CBH09
+1.2.2.
+Chi m
+ộ
+t l
+ầ
+n
+37CBH10
+2
+Quỹ tai nạn
+  lao động - bệnh nghề nghiệp, trong đó:
+37CBH11
+2.1
+Chi hàng
+  tháng
+37CBH12
+2.2
+Chi m
+ột
+lần
+37CBH13
+III
+Quỹ bảo hiểm thất
+  nghiệp
+37CBH15
+Tổng cộng
+  I+II+
+III
+37CBH16
+Kế toán trưởng
+(Ký, họ tên)
+......,
+  ngày   tháng    năm
+Giám đốc BHXH tỉnh...
+(Ký, họ tên, đóng dấu)
+Kế toán trưởng
+(Ký, họ tên)
+......,
+  ngày   tháng    năm
+Giám đốc Bưu điện tỉnh...
+(Ký, họ tên, đóng dấu)
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

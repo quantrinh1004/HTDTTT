@@ -1,0 +1,175 @@
+BẢO HIỂM XÃ HỘI
+  VIỆT NAM
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 1099/QĐ-BHXH
+Hà Nội, ngày 20
+  tháng 8 năm 2007
+QUYẾT ĐỊNH
+VỀ
+CHẾ ĐỘ QUẢN TRỊ MẠNG TRONG HỆ THỐNG BẢO HIỂM XÃ HỘI VIỆT NAM
+TỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM
+- Căn cứ Nghị định số 100/2002/NĐ-CP ngày
+06/12/2002 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ
+chức của Bảo hiểm xã hội Việt Nam;
+- Căn cứ Quyết định số 3582/QĐ-BHXH ngày
+26/12/2006 của Tổng giám đốc BHXH Việt Nam về việc ban hành Quy định về quản lý
+hoạt động công nghệ thông tin trong hệ thống BHXH Việt Nam;
+- Theo đề nghị của Giám đốc Trung tâm Công nghệ
+Thông tin,
+QUYẾT ĐỊNH
+Điều 1. Quy định chung về quản
+trị mạng
+1. Quản trị mạng phải có hai tài khoản (account)
+trên mạng. Một tài khoản quản trị và một tài khoản người sử dụng bình thường có
+tên (username) và mật khẩu (password) đăng ký riêng biệt. Khi làm việc thông
+thường trên mạng (không phải các công việc quản trị mạng), người quản trị phải
+đăng nhập với tên người sử dụng thông thường và phải tuân thủ mọi quy định
+giành cho người sử dụng thông thường. Không được sử dụng tên đăng ký quản trị
+trong trường hợp công việc thực hiện không đòi hỏi quyền quản trị để đảm bảo an
+ninh và an toàn dữ liệu.
+2. Tất cả những công việc đã thực hiện, quản trị mạng
+đều phải ghi chép đầy đủ trong nhật ký bảo hành, bảo trì. Đối với những thay đổi
+về mặt thiết bị, chương trình cũng như cơ cấu tổ chức, quản trị mạng đều phải cập
+nhật vào hồ sơ mạng để nội dung hồ sơ luôn phản ánh đúng thực trạng của mạng.
+3. Hạn chế đăng nhập và thực hiện các công việc quản
+trị trên nhiều máy trạm khác nhau. Trong trường hợp bắt buộc phải đăng nhập với
+tên quản trị trên máy trạm khác, nhất thiết phải kiểm tra virus trước khi login
+để ngăn chặn khả năng virus tấn công và chiếm quyền kiểm soát hệ thống mạng.
+4. Quản trị mạng chịu trách nhiệm bảo quản hồ sơ mạng,
+mọi tài liệu kỹ thuật, đĩa cài đặt và cấu hình của mọi thiết bị phần cứng, phần
+mềm hệ thống và phần mềm ứng dụng trên mạng.
+Điều 2. Quy định về an ninh, an
+toàn dữ liệu
+1. Để đảm bảo an toàn dữ liệu, mọi máy chủ và máy
+trạm đều phải được bảo vệ bằng bộ lưu điện và ổn áp. Các phòng đặt máy phải
+trang bị đầy đủ máy điều hòa nhiệt độ, máy hút bụi, hút ẩm. Thực hiện vệ sinh
+lau chùi định kỳ đối với các thiết bị máy tính và môi trường làm việc. Tuân thủ
+mọi yêu cầu về môi trường do nhà cung cấp thiết bị đề ra.
+2. Đối với những dữ liệu quan trọng, phải thực hiện
+cơ chế sao lưu định kỳ bằng các thiết bị lưu trữ chuyên dụng. Khi thiết lập chế
+độ sao lưu cụ thể, thực hiện chế độ sao lưu theo quy định của BHXH Việt Nam.
+Cần thiết lập cơ chế máy chủ hoặc ổ đĩa dự phòng,
+đường cáp dự phòng hay hệ thống nguồn dự phòng để hoạt động của mạng không bị
+gián đoạn khi xảy ra sự cố.
+3. Phải thực hiện nghiêm chỉnh chế độ mật khẩu đã
+quy định để đảm bảo an ninh mạng. Địa điểm và vị trí đặt máy phải được bảo vệ về
+mặt vật lý, đặc biệt là nơi đặt máy chủ và cất giữ dữ liệu sao lưu. Những người
+không có trách nhiệm không được tiếp cận và làm việc trên các thiết bị máy
+tính.
+4. Hạn chế tối đa làm việc trực tiếp trên máy chủ.
+Tuyệt đối không cài ứng dụng không cần thiết lên máy chủ. Có chế độ theo dõi chặt
+chẽ máy chủ, giảm thiểu khả năng xảy ra sự cố làm ngưng trệ hoạt động của toàn
+bộ mạng.
+Điều 3. Quản trị mạng của Bảo
+hiểm xã hội Việt Nam ở Trung ương (Cấp I)
+là người đại diện
+chính thức trong tất cả các hoạt động có liên quan đến môi trường mạng
+(Network) của hệ thống BHXH Việt Nam, do một hoặc một nhóm cán bộ có đủ trình độ
+năng lực đảm nhiệm, có nhiệm vụ và quyền hạn:
+1. Xây dựng kế hoạch, chiến lược phát triển tổng thể
+cho các hoạt động quản trị mạng trong hệ thống BHXH Việt Nam trình Lãnh đạo
+BHXH Việt Nam phê duyệt và tổ chức thực hiện nhằm đáp ứng yêu cầu phát triển
+công nghệ thông tin của ngành.
+2. Lập hồ sơ kỹ thuật, thiết kế hệ thống cho hệ thống
+mạng diện rộng của ngành và mạng nội bộ (LAN) tại cơ quan BHXH Việt Nam ở Trung
+ương. Quản lý toàn bộ các hồ sơ, các thông tin về hệ thống mạng trong toàn hệ
+thống BHXH. Có trách nhiệm tổ chức đánh giá công tác quản trị mạng trong hệ thống
+BHXH hàng năm.
+3. Thiết lập phần mềm hệ thống quản trị mạng trên
+máy chủ để quản lý các nhóm làm việc (workgroup), người dùng (user), cấp phát
+và quản lý các địa chỉ mạng (IP Address), tên miền (Domain) thống nhất trong hệ
+thống BHXH Việt Nam nhằm phân bố các địa chỉ IP và tên miền một cách hiệu quả.
+Hướng dẫn người dùng (user) công tác khai báo thông tin địa chỉ mạng, địa chỉ
+Internet, tên miền, kiểm tra kết nối mạng.
+4. Quy định các tiêu chuẩn, cấu hình chuẩn, tên, địa
+chỉ...của hệ thống mạng, máy chủ, bộ định tuyến, modem...và các thiết bị có kết
+nối vào mạng máy tính của BHXH các địa phương và BHXH Việt Nam. Thiết lập và
+duy trì hệ thống cho các máy chủ dịch vụ như DNS Server, DHCP Server, File
+Server Web Server, Mail Server, Antivirus Server. Trực tiếp quản trị máy chủ
+website trong trường hợp BHXH Việt Nam tự triển khai máy chủ Web, phối hợp với
+người quản trị website để vận hành website an toàn, thông suốt, thông báo cho
+quản trị Web các lỗ hổng bảo mật phát hiện được để kịp thời phối hợp khắc phục.
+5. Theo dõi và duy trì hoạt động 24 giờ/ngày liên tục
+trong năm đối với hệ thống mạng. Lập kế hoạch thường xuyên và định kỳ duy trì,
+sửa chữa và cập nhật tài liệu kiến trúc mạng máy tính như hệ thống chuyển mạch
+tại trung tâm và các nhánh, hệ thống máy chủ mạng, hệ thống cấp truyền dẫn, hệ
+thống tín hiệu truyền dẫn, xử lý các yêu cầu về di chuyển, thêm, thay đổi, tài
+khoản sử dụng mạng hoặc các máy tính hay các hệ thống mạng của các đơn vị CNTT.
+6. Quản lý các cơ sở dữ liệu an toàn, khai thác có
+hiệu quả. Có quyền từ chối hoặc ngừng bất kỳ 1 kết nối hoặc truy cập nào mà quản
+trị mạng cho là bất hợp pháp và làm phương hại đến hệ thống mạng để đảm bảo an
+toàn mạng, từ chối các truy nhập không lành mạnh, có nội dung xấu... sử dụng mạng
+vào việc riêng, chơi trò chơi...
+7. Phối hợp với các Phòng, Ban nghiệp vụ đảm bảo
+cho mọi hoạt động của các thiết bị mạng, các máy tính đang kết nối mạng, bảo vệ
+tài nguyên, các thông tin, dữ liệu trên mạng trong phạm vi quản lý. Thường
+xuyên theo dõi kiểm tra, phát hiện kịp thời các vấn đề bất thường để có biện
+pháp xử lý tức thời. Phải đảm bảo an toàn cháy nổ, có biện pháp cụ thể phòng chống
+các sự cố do chập điện hoặc do thiên tai để đảm bảo sự ổn định của hệ thống mạng
+không làm gián đoạn các công việc đang xử lý trên mạng.
+8. Phối hợp với các Phòng, Ban chuyên môn trong
+công tác tổ chức các lớp tập huấn CNTT cho cán bộ đảm nhiệm công tác quản trị mạng
+tại các đơn vị CNTT. Xây dựng các bộ tài liệu hướng dẫn, vận hành các thiết bị
+đầu mối mạng nhằm đảm bảo hệ thống được vận hành thống nhất và dễ cài đặt sử dụng.
+9. Thẩm định hồ sơ kỹ thuật, thiết kế hệ thống mạng
+của các Dự án xây dựng hệ thống mạng tại BHXH các tỉnh, thành phố và Văn phòng
+BHXH Việt Nam. Trực tiếp hướng dẫn quản trị mạng và hỗ trợ kỹ thuật quản trị mạng
+cho BHXH tỉnh, thành phố (Cấp 2) chưa đủ điều kiện và năng lực.
+Điều 4. Quản trị mạng của BHXH
+tỉnh, thành phố (cấp II):
+là người đại diện chính thức trong tất cả các
+hoạt động có liên quan đến môi trường mạng (Network) tại đơn vị mình do một hoặc
+một nhóm cán bộ có đủ trình độ năng lực đảm nhiệm, có nhiệm vụ và quyền hạn:
+1. Chịu trách nhiệm thiết lập hệ thống thư mục và
+file trên máy chủ, khai báo và thiết lập hệ thống User, gán mật khẩu ban đầu và
+phân quyền thích hợp. Các công việc này phải thực hiện đúng quy định do quản trị
+mạng cấp 1 đề ra để đảm bảo tính thống nhất trên toàn hệ thống.
+2. Chịu trách nhiệm giải quyết các sự cố về mạng, ứng
+dụng chạy trên mạng khi người dùng có yêu cầu. Quản trị mạng có thể tư vấn và
+giúp đỡ người dùng thực hiện các thao tác truy nhập mạng, thoát khỏi mạng, thay
+đổi mật khẩu... trong công việc hàng ngày. Biên soạn các tài liệu hướng dẫn sử
+dụng mạng an toàn phù hợp với điều kiện của địa phương
+3. Trong trường hợp công việc do quản trị mạng cấp
+1 trực tiếp quản lý, cán bộ được giao nhiệm vụ quản trị mạng cấp 2 phải có sự
+liên hệ thường xuyên với nhóm cán bộ chuyên trách quản trị mạng cấp 1, đặc biệt
+là khi xảy ra sự cố nghiêm trọng với máy chủ, đối với những thay đổi lớn về mặt
+tổ chức mạng và hệ thống trên máy chủ như thay đổi hệ thống người sử dụng, nhóm
+người sử dụng, cài đặt nâng cấp các ứng dụng quan trọng chạy trên mạng, cải đặt
+thêm các phần mềm mới lên máy chủ, thay đổi nâng cấp thiết bị mạng... không tự
+ý thực hiện nếu chưa có ý kiến của quản trị mạng cấp 1.
+4. Có nhiệm vụ khởi động, tắt máy chủ và các ứng dụng
+chạy trên máy chủ do mình quản lý. Khi cần tắt máy chủ hoặc các ứng dụng mạng
+(vào cuối ngày làm việc hoặc khi thực hiện công việc bảo trì, sửa chữa), phải
+kiểm tra những kết nối hiện tại và gửi thông báo đến những người sử dụng đang
+truy cập mạng hoặc ứng dụng để họ kịp thời kết thúc công việc một cách an toàn,
+không làm hỏng, mất dữ liệu hay treo máy.
+5. Chịu trách nhiệm tiến hành Backup dữ liệu theo lịch
+quy định, bảo quản dữ liệu sao lưu, quản lý các máy in mạng và hàng đợi in. Nếu
+đi công tác vắng, có thể ủy quyền cho một đồng nghiệp đủ năng lực thực hiện một
+hoặc một số nhiệm vụ cần thiết thuộc trách nhiệm của mình.
+Điều 5. Tổ chức thực hiện
+1. Giám đốc Trung tâm Công nghệ Thông tin chịu
+trách nhiệm hướng dẫn, kiểm tra thực hiện Quyết định này.
+2. Quản trị mạng của BHXH Việt Nam do Tổng giám đốc
+quyết định; Quản trị mạng của BHXH các tỉnh, thành phố do Giám đốc BHXH tỉnh,
+thành phố quyết định sau khi có ý kiến thỏa thuận của BHXH Việt Nam.
+3. Quyết định này có hiệu lực thi hành kể từ ngày
+ký. Giám đốc Trung tâm Công nghệ Thông tin, Chánh Văn phòng, Thủ trưởng các đơn
+vị trực thuộc Bảo hiểm xã hội Việt Nam, Giám đốc Bảo hiểm xã hội các tỉnh,
+thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này.
+Nơi nhận:
+- HĐQL BHXH Việt Nam (để b/c);
+- Tổng giám đốc, các Phó TGĐ;
+- Văn phòng BHXH Việt Nam;
+- Các đơn vị trực thuộc BHXH Việt Nam;
+- BHXH các tỉnh, thành phố;
+- Lưu CNTT (6b);
+- Lưu VT.
+TỔNG GIÁM ĐỐC
+Nguyễn Huy Ban
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt

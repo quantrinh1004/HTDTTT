@@ -1,0 +1,314 @@
+BẢO HIỂM XÃ
+  HỘI VIỆT NAM
+-------
+CỘNG HÒA XÃ
+  HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 3881/BHXH-ST
+V/v cập nhật, tra cứu thông tin thẻ BHYT
+Hà Nội
+, ngày
+07
+tháng
+10
+năm 2016
+Kính gửi:
+- Bảo hiểm xã hội các tỉnh, thành phố
+  trực thuộc Trung ương;
+-
+  Trung tâm Giám định BHYT và thanh toán đa tuyến khu vực phía Bắc, Trung tâm
+  Giám định BHYT và thanh toán đa tuyến khu vực phía Nam.
+Ngày 20/6/2016, Tổng Giám đốc Bảo hiểm
+xã hội (BHXH) Việt Nam đã có Quyết định số 917/QĐ-BHXH ban hành Cổng tiếp nhận
+dữ liệu Hệ thống thông tin Giám định bảo hiểm y tế (BHYT) phiên bản 2.0; tiếp
+theo ngày 21/7/2016, BHXH Việt Nam ban hành Công văn số 2723/BHXH-CSYT về việc
+hướng dẫn gửi dữ liệu điện tử đến Hệ thống thông tin giám định BHYT. Đ
+ể
+thống nhất
+việc quản lý dữ liệu và tra cứu thông tin về giá trị sử dụng của thẻ BHYT trên Cổng
+tiếp nhận dữ liệu Hệ thống thông tin Giám định BHYT, BHXH Việt Nam hướng dẫn
+BHXH các tỉnh, thành phố trực thuộc Trung ương (viết tắt là BHXH tỉnh), Trung
+tâm Giám định BHYT và thanh toán đa tuyến khu vực phía Bắc, Trung tâm Giám định
+BHYT và thanh toán đa tuyến khu vực phía Nam một số nội dung như sau:
+1. Quy định về quản
+lý dữ liệu thu và cấp thẻ BHYT
+Mọi phát sinh tăng, giảm đối tượng
+tham gia BHYT cập nhật vào chương trình quản lý thu và quản lý sổ thẻ được tự động
+chuyển về BHXH Việt Nam. Cơ sở dữ liệu cấp thẻ BHYT của người tham gia BHYT, được
+tập trung tại Trung tâm dữ liệu của BHXH Việt Nam do Trung tâm Công nghệ thông
+tin quản lý và vận hành.
+2. Quy trình cập nhật
+và tra cứu thông tin về thẻ BHYT
+2.1. Đối với đơn vị sử dụng lao động
+cùng tham gia BHXH, BHYT (viết tắt là đơn vị).
+Khi có phát sinh tăng, giảm người tham
+gia BHYT, đơn vị phải kịp thời lập danh sách tăng, giảm gửi cơ quan BHXH theo m
+ẫ
+u quy định tại
+Quyết định 959/QĐ-BHXH ngày 09/9/2015 của Tổng Giám đốc BHXH Việt Nam. Trường hợp
+đơn vị lập danh sách báo giảm chậm, đơn vị phải đóng s
+ố
+tiền BHYT của
+các tháng báo giảm chậm và thẻ BHYT có giá trị sử dụng đ
+ế
+n hết các
+tháng đó.
+2.2. Đối với cơ quan BHXH
+Phòng/Tổ quản lý thu tiếp nhận hồ sơ
+và dữ liệu điện tử (nếu có) do bộ phận một cửa hoặc đơn vị chuyển đến; kiểm
+tra, đối chiếu các chỉ tiêu trên danh sách, tờ khai; cập nhật và xử lý dữ liệu
+trên phần mềm quản lý thu, cụ th
+ể
+:
+- Giảm đối tượng; điều chỉnh mức đóng
+BHYT của những trường hợp báo giảm; giảm giá trị sử dụng thẻ B
+H
+YT.
+- Chuy
+ể
+n dữ liệu tăng, giảm
+người tham gia BHYT sang phần mềm quản lý sổ thẻ để tự động kết chuyển về BHXH
+Việt Nam.
+2.3. Đối với các cơ sở khám bệnh, chữa
+bệnh (KCB) BHYT
+Các cơ sở KCB BHYT khi tiếp nhận thẻ
+BHYT của bệnh nhân đến KCB BHYT thực hiện tra cứu thông tin về thẻ BHYT trên Cổng
+tiếp nhận dữ liệu Hệ thống thông tin Giám định BHYT theo hướng dẫn tại
+Điểm 4 Công văn số 2723/BHXH-CSYT
+, để hệ thống tự động rà soát
+giá trị sử dụng của thẻ BHYT
+(c
+ó
+Phụ lục hướng d
+ẫ
+n thao tác kỹ
+thuật trên
+phần
+mềm
+Hệ
+th
+ố
+ng giám định
+BHYT kèm theo)
+. Trên cơ sở kết quả tra cứu, cơ sở KCB BHYT thực hiện:
+- Thanh toán chi phí KCB BHYT đối với
+các trường hợp thẻ BHYT còn hạn sử dụng và người tham gia BHYT đang đóng BHYT.
+- Không thanh toán chi phí KCB BHYT đối
+với các trường hợp thẻ BHYT còn hạn sử dụng, nhưng tại thời điểm KCB người tham
+gia đã báo giảm đóng BHYT.
+3. Tổ chức thực hiện
+3.1. Trung tâm Công nghệ thông tin có
+trách nhiệm t
+ổ
+chức, quản
+lý vận hành, hướng dẫn tra c
+ứu
+thông tin về thẻ BHYT trên Cổng tiếp nhận dữ
+liệu Hệ thốn
+g
+thông tin
+Giám định BHYT.
+3.2. BHXH tỉnh, Trung tâm Giám định
+BHYT và thanh toán đa tuyến khu vực phía Bắc, Trung tâm Giám định BHYT và thanh
+toán đa tuyến khu vực phía Nam có trách nhiệm hướng dẫn các cơ sở KCB BHYT thực
+hiện việc tra cứu thông tin về thẻ BHYT trên Cổng tiếp nhận dữ liệu Hệ thống
+thông tin Giám định BHYT.
+Công văn này có hiệu lực kể từ ngày ký
+và thay thế Công văn số 1814/BHXH-ST ngày 24/5/2016 về việc thu hồi thẻ BHYT của
+BHXH Việt Nam. Trong quá trình thực hiện nếu có khó khăn, vướng mắc kịp thời
+báo cáo BHXH Việt Nam để xem xét, giải quyết./
+.
+Nơi nhận:
+-
+Như trên;
+-
+  Các Bộ: LĐTB&XH, YT;
+-
+  Tổng Giám đốc (để b/c);
+-
+  Các Phó Tổng Giám đốc;
+-
+  Các đơn vị: BT, CSYT, PC, CNTT, TT;
+-
+  Lưu: VT, ST (03b)
+.
+KT.
+TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Trần
+  Đình Liệu
+PHỤ LỤC
+HƯỚNG
+DẪN THAO TÁC KỸ THUẬT TRÊN PHẦN MỀM HỆ THỐNG GIÁM ĐỊNH BHYT
+(Ban hành kèm theo Công văn số 3881/BHXH-ST ngày 07/10/2016 của BHXH Việt
+Nam)
+1. Thông tuyến khám chữa bệnh
+Mục đích
+Tra cứu lịch sử khám chữa bệnh liên
+  tuyến của người bệnh
+Cách truy cập
+Vào menu [Thông tuyến khám chữa bệnh/
+Q
+uản lý
+  thông tuyến
+]
+1.1. Giao diện
+M
+ô
+tả các thành
+phần trên giao di
+ệ
+n
+Trường /
+  Nút bấm
+Ý nghĩa /
+  Chức năng
+<Mã
+Q
+R>
+Mã
+Q
+R code
+<Mã thẻ>
+Mã thẻ BHYT do cơ quan BHXH cấp
+<H
+ọ
+tên>
+Họ và tên người bệnh
+<Ngày sinh>
+Ngày sinh ghi trên thẻ
+1.2. Thao tác
+Bước
+Thao tác
+1
+Chức năng “Tìm kiếm”:
+- Nhập mã QR code sau đó nhấn phím
+  Tab, hoặc nhập đầy đ
+ủ
+các thông
+  tin Mã thẻ, Họ tên, Ngày sinh.
+- Chọn biểu tượng
+-> Hiển thị lịch
+  sử khám chữa bệnh liên tuyến của người bệnh
+2. Chuyển tuyến đi
+Mục đích
+Xem danh sách, sửa, gửi giấy chuyển
+  tuyến đi
+Cách truy cập
+Vào menu
+[Thông tuyến
+  khám chữa bệnh/Thông tin chuyển tuyến/Chuyển tuyến đi
+]
+2.1. Giao diện
+Mô tả các
+thành phần trên giao diện
+Trường/Nút
+  bấm
+Ý nghĩa /
+  Chức năng
+<Cơ sở KCB>
+Cơ sở khám chữa bệnh theo user đăng
+  nhập
+<
+S
+ố thẻ>
+Số thẻ BHYT
+<Trạng thái>
+Trạng thái gồm: Chưa gửi, đã gửi
+<Từ ngày>
+Ngày tạo
+<Đến ngày>
+Ngày tạo
+2.2. Thao tác
+Bước
+Thao tác
+1
+Chức năng “Tìm kiếm”:
+-
+Nhập số thẻ cần tìm kiếm
+- Chọn trạng thái
+- Chọn/Nhập từ ngày/đến ngày
+- Chọn biểu tượng
+->Hi
+ể
+n thị kết
+  quả tìm ki
+ế
+m theo điều
+  kiện đã chọn
+2
+Chức năng “Gửi”:
+- Thực hiện tìm kiếm hồ sơ cần gửi
+- Chọn hồ sơ cần gửi
+- Chọn biểu tượng
+trên lưới -> Hệ thống thông
+  báo gửi thành công
+3
+Chức năng “In”:
+-
+Th
+ự
+c hiện tìm kiếm hồ
+  sơ cần in
+- Chọn hồ sơ cần in
+- Chọn biểu tượng
+trên lưới
+  -> In ra thông tin hồ sơ
+4
+Chức năng “Sửa”:
+- Thực hiện tìm kiếm hồ sơ cần sửa
+-
+Chọn hồ sơ cần sửa
+-
+Thực hiện click vào Mã thẻ của hồ sơ
+  -> Hiển thị màn hình sửa hồ sơ
+3. Giấy chu
+y
+ển tuyến đến
+Mục đích
+Xem danh sách giấy chuyển tuyến đến
+Cách truy cập
+Vào menu
+[Thông tuyến
+  khám chữa bệnh/Thông tin chuyển tuyến/Chuyển tuyến đến
+]
+3.1. Giao diện
+M
+ô
+tả các thành
+phần trên giao diện
+Trường/Nút
+  bấm
+Ý nghĩa /
+  Chức năng
+<Cơ sở KCB>
+Cơ sở khám chữa bệnh theo user đăng
+  nhập
+<
+S
+ố thẻ>
+Số thẻ BHYT
+<Từ ngày>
+Ngày chuyển tuyến
+<Đến ngày>
+Ngày chuyển tuyến
+<Tìm kiếm>
+Thực hiện tìm kiếm theo điều kiện
+3.2. Thao tác
+Bước
+Thao tác
+1
+Chức năng “Tìm kiếm”:
+- Nhập số thẻ cần tìm kiếm
+-
+Chọn/Nhập từ ngày,
+đến ngày
+- Chọn biểu tượng
+->
+Hiển thị kết
+  quả tìm kiếm theo điều kiện đã chọn
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

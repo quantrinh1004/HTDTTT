@@ -1,0 +1,131 @@
+BẢO
+  HIỂM XÃ HỘI VIỆT NAM
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+1741
+/BHXH-CSYT
+V/v triển khai hệ thống thông tin
+  giám định bảo hiểm y tế
+Hà
+  Nội, ngày
+19
+tháng 0
+5
+năm 20
+16
+Kính
+  gửi:
+- Bảo hiểm xã hội các tỉnh, thành
+  phố trực thuộc Trung ương;
+- Bảo hiểm xã hội Bộ Quốc phòng;
+- Bảo hiểm xã hội Công an nhân dân;
+- Trung tâm Giám định BHYT và Thanh toán đa tuyến khu vực phía Bắc;
+- Trung tâm Giám định BHYT và Thanh toán đa tuyến khu vực phía Nam.
+(Sau đây gọi chung là BHXH các tỉnh)
+Thời gian qua, Bảo hiểm xã hội Việt
+Nam nhận được phản ánh của BHXH một số tỉnh, thành phố đề nghị hướng dẫn, chỉ đạo
+giải quyết một số khó khăn vướng mắc đối với các cơ sở khám chữa bệnh BHYT đã
+và đang sử dụng phần mềm quản lý khám chữa bệnh tập trung, đường truyền
+Internet VNPT (miễn phí khi dùng phần mềm KCB của VNPT) của VNPT. Về vấn đề
+này, Bảo hiểm xã hội Việt Nam có ý kiến như sau:
+Hệ thống HIS của VNPT là cung cấp hệ
+thống quản lý bệnh viện với Mục tiêu và chức năng chính về quy trình khám bệnh,
+chữa bệnh theo tiêu chuẩn của Bộ Y tế ban hành. Việc tập trung dữ liệu (nếu có)
+chỉ nhằm Mục đích tổng hợp hồ sơ khám chữa bệnh tập trung theo địa bàn cấp tỉnh.
+Trong khi đó, Hệ thống thông tin giám định BHYT của BHXH Việt Nam chỉ phục vụ Mục
+đích giám định hồ sơ thanh toán BHYT tập trung toàn quốc, không phải là hệ thống
+quản lý bệnh viện. Do đó, việc triển khai Hệ thống thông tin giám định BHYT
+không ảnh hưởng tới Hệ thống HIS của VNPT. Công cụ Too
+l
+HIS
+được BHXH Việt Nam cung cấp miễn phí chỉ thực hiện các tác vụ sau:
+- Quét và xác nhận định danh file xml
+kết xuất từ các hệ thống HIS tại các cơ sở KCB và gửi file về hệ thống giám định
+tại Trung ương.
+- Đối với các cơ sở KCB chưa có HIS,
+ToolHIS còn cung cấp công cụ để các cơ sở KCB có thể nhập trực tiếp chi phí KCB
+và xuất ra file xml theo định dạng chuẩn để gửi về hệ thống giám định của BHXH
+Việt Nam (tương tự như các phần mềm Vienphi 2.0 và HMS hiện tại của BHXH Việt
+Nam)
+Để đảm bảo hoạt động thông suốt và
+liên tục của hệ thống Giám định BHYT và tránh lãng phí ngân sách nhà nước, BHXH
+Việt Nam đề nghị BHXH các tỉnh báo cáo với UBND tỉnh và phối h
+ợ
+p với Sở Y tế, các cơ sở KCB đang sử dụng phần mềm HIS của VNPT làm việc
+với VNPT để thực hiện một số các công việc sau:
+1. Đ
+ề
+nghị VNPT
+thực hiện miễn phí các công việc như yêu cầu của BHXH Việt Nam đối với hệ thống
+giám định BHYT. Bao gồm:
+a) Đảm bảo tốc độ đường truyền kết nối
+từ các cơ sở KCB tới hệ thống giám định BHYT tập trung của BHXH Việt Nam.
+(15Mpbs đối với đường truyền cáp FTTH; 4Mpbs đối với đường truyền ADSL).
+b) Chuẩn hóa danh Mục các dịch vụ kỹ
+thuật; danh Mục thuốc và danh Mục vật tư y tế trong khám bệnh, chữa bệnh theo
+quy định của Bộ Y tế.
+c) Chuẩn hóa và kết xuất hồ sơ thanh
+toán khám chữa bệnh từ các hệ thống HIS của VNPT theo định dạng
+fi
+le xml tiêu chuẩn ban hành tại Quyết định số: 324/QĐ-BHXH ngày
+02/3/2016.
+2. Đối với các tỉnh sử dụng phần mềm
+H
+I
+S tập trung của VNPT, để đảm bảo tốc độ chuyển dữ liệu hồ
+sơ thanh toán giám định tới hệ thống giám định tập trung của BHXH. Đ
+ề
+nghị VNPT cung cấp miễn phí đường truyền cáp quang trực tiếp từ Trung
+tâm dữ liệu của VNPT tới Trung tâm dữ liệu của BHXH Việt Nam.
+3. Đề nghị VNPT thuyết minh và thực
+hiện phương án đảm bảo tính toàn vẹn dữ liệu hồ sơ thanh toán KCB BHYT khi chuyển
+dữ liệu từ hệ thống HIS tập trung của VNPT tới hệ thống giám định của BHXH. Đồng
+thời đảm bảo khả năng tương tác 2 chiều trên hệ thống công nghệ thông tin giữa
+cơ sở KCB và BHXH Việt Nam trong công tác giám định BHYT.
+4. Đề nghị VNPT cung cấp quy trình,
+phương án đảm bảo hệ thống hoạt động thông suốt và liên tục. Khi xảy ra sự cố,
+VNPT có trách nhiệm đảm bảo xử lý xong sự cố trong thời gian làm việc của ngày
+làm việc kế tiếp.
+5. Để VNPT có thể thực hiện kết nối
+vào hệ thống giám định của BHXH Việt Nam, đề nghị VNPT cam kết không cung cấp
+thông tin hồ sơ thanh toán KCB BHYT cho các đơn vị khác và phải có được sự đ
+ồ
+ng ý của BHXH Bộ Quốc phòng và BHXH Công an nhân dân khi thực hiện chức
+năng làm trung gian tiếp nhận hồ sơ thanh toán KCB BHYT đối với các đối tượng
+là cán bộ, chiến sỹ và thân nhân thuộc lực lượng vũ trang.
+6. Thống nhất và cụ thể hóa trong h
+ợ
+p đồng việc Sở Y tế và VNPT đảm bảo cung cấp dịch v
+ụ
+miễn phí, liên tục, không giới hạn thời gian cho cơ quan BHXH. Đồng thời
+đảm bảo hoàn thành kết nối tới hệ thống Giám định BHYT của BHXH Việt Nam trước
+ngày 30/6/2016 theo yêu cầu của Thủ tướng Chính phủ.
+Yêu cầu BHXH các tỉnh khẩn trương thực
+hiện, báo cáo về BHXH Việt Nam trước ngày 25/5/2016 bằng văn bản và thư điện tử
+tại địa chỉ:
+quanlydulieu.thcsbhyt@vss.gov.vn
+.
+để có phương án thực hiện kịp tiến độ theo quy định của Chính phủ
+.
+Nơi nhận:
+- Như trên;
+- Văn phòng Chính phủ;
+- Bộ Y tế;
+- UBND tỉnh, TP trực thuộc TW;
+- Tổng Giám đốc (để b/c);
+- Các Phó Tổng Giám đốc;
+- Sở Y tế các t
+ỉ
+nh, TP trực thuộc TW; Y tế các Bộ, Ngành;
+- Các Bệnh viện, Viện có giường bệnh trực thuộc Bộ Y tế;
+- Tập đoàn VTQĐ Viettel;
+- Các đơn vị: KHĐT, TTTT, QLDA;
+- Lưu: VT, CSYT (2b).
+TỔNG GIÁM ĐỐC
+Nguyễn Thị Minh
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt

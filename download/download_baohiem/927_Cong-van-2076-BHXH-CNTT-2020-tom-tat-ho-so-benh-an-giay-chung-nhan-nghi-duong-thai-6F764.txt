@@ -1,0 +1,59 @@
+BẢO HIỂM XÃ HỘI VIỆT NAM
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 2076/BHXH-CNTT
+V/v tạo lập tóm tắt hồ sơ bệnh án, giấy
+  chứng nhận nghỉ dưỡng thai và bổ sung hàm gửi hồ sơ
+Hà Nội, ngày 25
+  tháng 6 năm 2020
+Kính
+  gửi:
+- Bảo hiểm xã hội các tỉnh, thành phố trực thuộc
+  Trung ương;
+- Bảo hiểm xã hội Bộ Quốc phòng;
+- Bảo hiểm xã hội Công an nhân dân;
+(Sau đây gọi chung là BHXH các tỉnh)
+Bảo hiểm xã hội (BHXH) Việt Nam
+đã bổ sung chức năng hỗ trợ các cơ sở khám bệnh, chữa bệnh (KBCB) tạo lập tóm
+tắt hồ sơ bệnh án, giấy chứng nhận nghỉ dưỡng thai theo quy định tại Thông tư
+56/2017/TT-BYT ngày 29/12/2017 của Bộ Y tế trên Cổng tiếp nhận dữ liệu Hệ thống
+thông tin giám định bảo hiểm y tế (Cổng tiếp nhận dữ liệu BHYT) tại địa chỉ:
+https://gdbhyt.baohiemxahoi.gov.vn
+và
+bổ sung hàm gửi hồ sơ
+GuiHoSoChungTu
+để
+phần mềm của các cơ sở KBCB kết nối với Cổng tiếp nhận dữ liệu BHYT thông qua
+dịch vụ web. BHXH Việt Nam đề nghị Giám đốc BHXH các tỉnh, thành phố trực thuộc
+trung ương chỉ đạo Phòng Công nghệ thông tin chủ trì, phối hợp với phòng Chế độ
+BHXH và phòng Giám định thực hiện:
+-
+Hướng dẫn các cơ sở KBCB tạo lập tắt hồ sơ bệnh án, giấy chứng nhận nghỉ dưỡng
+thai trên Cổng tiếp nhận dữ liệu BHYT (chi tiết theo hướng dẫn tại Phục lục 01
+gửi kèm).
+-
+Thông báo để cơ sở KBCB chủ động trong việc điều chỉnh phần mềm quản lý (chi
+tiết theo hướng dẫn tại Phục lục 02 gửi kèm) gửi dữ liệu giấy ra viện, giấy
+chứng sinh, tóm tắt hồ sơ bệnh án, giấy chứng nhận nghỉ dưỡng thai và giấy
+chứng nhận nghỉ việc hưởng bảo hiểm xã hội lên Cổng tiếp nhận dữ liệu BHYT.
+Trong
+quá trình thực hiện, nếu có phát sinh vướng mắc, đề nghị BHXH các tỉnh báo cáo
+kịp thời về Bảo hiểm xã hội Việt Nam (Trung tâm Công nghệ thông tin) để xem
+xét, giải quyết./.
+Nơi nhận:
+- Như trên;
+- Bộ Y tế;
+- Tổng Giám đốc (để b/c);
+- Các Phó Tổng Giám đốc;
+- Các đơn vị: TT, CSYT, CSXH, GĐB, GĐN;
+- Lưu: VT, CNTT.
+KT. TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Phạm Lương Sơn
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

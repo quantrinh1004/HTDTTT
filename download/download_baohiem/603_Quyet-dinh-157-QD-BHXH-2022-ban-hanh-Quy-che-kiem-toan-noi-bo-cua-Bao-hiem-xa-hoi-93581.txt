@@ -1,0 +1,566 @@
+BẢO HIỂM XÃ HỘI
+  VIỆT NAM
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 157/QĐ-BHXH
+Hà Nội, ngày 22
+  tháng 02 năm 2022
+QUYẾT ĐỊNH
+BAN
+HÀNH QUY CHẾ KIỂM TOÁN NỘI BỘ CỦA BẢO HIỂM XÃ HỘI VIỆT NAM
+TỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM
+Căn cứ Nghị định số 89/2020/NĐ-CP ngày 04 tháng
+08 năm 2020 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ
+chức của Bảo hiểm xã hội Việt Nam;
+Căn cứ Nghị định số 05/2019/NĐ-CP ngày 22 tháng
+01 năm 2019 của Chính phủ về kiểm toán nội bộ;
+Căn cứ Thông tư số 67/2020/TT-BTC ngày 10 tháng
+07 năm 2020 của Bộ trưởng Bộ Tài chính ban hành Quy chế mẫu về kiểm toán nội bộ
+áp dụng cho cơ quan nhà nước, đơn vị sự nghiệp công lập.
+Căn cứ Thông tư số 08/2021/TT-BTC ngày 25 tháng
+01 năm 2021 của Bộ trưởng Bộ Tài chính ban hành chuẩn mực kiểm toán nội bộ Việt
+Nam và các nguyên tắc đạo đức nghề nghiệp kiểm toán nội bộ;
+Căn cứ Quyết định số 2299/QĐ-BHXH ngày 21 tháng
+12 năm 2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam quy định chức năng, nhiệm
+vụ, quyền hạn và cơ cấu tổ chức của Vụ Kiểm toán nội bộ;
+Theo đề nghị của Vụ trưởng Vụ Kiểm toán nội bộ.
+QUYẾT ĐỊNH:
+Điều 1.
+Ban hành kèm theo
+Quyết định này Quy chế kiểm toán nội bộ của Bảo hiểm xã hội Việt Nam.
+Điều 2.
+Quyết định này có
+hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 742/QĐ-BHXH ngày 29
+tháng 6 năm 2015 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành Quy chế hoạt
+động kiểm toán nội bộ trong hệ thống Bảo hiểm xã hội Việt Nam.
+Điều 3.
+Vụ trưởng Vụ Kiểm
+toán nội bộ, Chánh Văn phòng Bảo hiểm xã hội Việt Nam, Thủ trưởng các đơn vị trực
+thuộc Bảo hiểm xã hội Việt Nam và Giám đốc Bảo hiểm xã hội các tỉnh, thành phố
+trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.
+Nơi nhận:
+- Như Điều 3;
+- Tổng Giám đốc;
+- Các Phó TGĐ;
+- Lưu: VT, KTNB (01b).
+TỔNG GIÁM ĐỐC
+Nguyễn Thế Mạnh
+QUY CHẾ
+KIỂM
+TOÁN NỘI BỘ CỦA BẢO HIỂM XÃ HỘI VIỆT NAM
+(Ban hành kèm theo Quyết định số 157/QĐ-BHXH ngày 22/02/2022 của Tổng Giám đốc
+Bảo hiểm xã hội Việt Nam)
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Quy chế này quy định về mục tiêu, phạm vi, nguyên tắc
+hoạt động, chuẩn mực, năng lực chuyên môn và nguyên tắc đạo đức nghề nghiệp kiểm
+toán nội bộ; Trách nhiệm và quyền hạn của Vụ Kiểm toán nội bộ, Vụ trưởng Vụ Kiểm
+toán nội bộ và Người làm công tác kiểm toán nội bộ; Hoạt động kiểm toán nội bộ
+và trách nhiệm của các đơn vị thuộc Bảo hiểm xã hội (sau đây viết tắt là BHXH)
+Việt Nam đối với kiểm toán nội bộ.
+Điều 2. Đối tượng áp dụng
+1. Quy chế này áp dụng cho hoạt động kiểm toán nội
+bộ của BHXH Việt Nam.
+2. Quy chế này áp dụng cho Vụ Kiểm toán nội bộ,
+công chức, viên chức Vụ Kiểm toán nội bộ của BHXH Việt Nam và các tổ chức, cá
+nhân trong ngành BHXH Việt Nam có liên quan đến hoạt động kiểm toán nội bộ.
+Điều 3. Giải thích từ ngữ
+1. Kiểm toán nội bộ: Là việc kiểm tra, đánh giá,
+giám sát tính đầy đủ, thích hợp và tính hữu hiệu của kiểm soát nội bộ.
+2. Người làm công tác kiểm toán nội bộ: Là người thực
+hiện công tác kiểm toán nội bộ thuộc Vụ Kiểm toán nội bộ của BHXH Việt Nam.
+3. Người có liên quan của người làm công tác kiểm
+toán nội bộ: Là bố đẻ, mẹ đẻ, bố nuôi, mẹ nuôi, bố chồng, mẹ chồng, bố vợ, mẹ vợ,
+vợ, chồng, con đẻ, con nuôi, anh ruột, chị ruột, em ruột, anh rể, em rể, chị
+dâu, em dâu.
+Điều 4. Mục tiêu của kiểm toán
+nội bộ
+Thông qua các hoạt động kiểm tra, đánh giá và tư vấn,
+kiểm toán nội bộ đưa ra các đảm bảo mang tính độc lập, khách quan và các khuyến
+nghị về các nội dung sau:
+1. Hệ thống kiểm soát nội bộ của BHXH Việt Nam được
+thiết lập và vận hành một cách phù hợp nhằm phòng ngừa, phát hiện, xử lý các rủi
+ro của các đơn vị trong ngành BHXH Việt Nam.
+2. Các quy trình quản trị và quy trình quản lý rủi
+ro của BHXH Việt Nam đảm bảo tính hiệu quả và có hiệu suất cao.
+3. Các mục tiêu hoạt động và mục tiêu chiến lược, kế
+hoạch và nhiệm vụ công tác mà BHXH Việt Nam đạt được.
+Điều 5. Vị trí của kiểm toán nội
+bộ
+1. Vụ Kiểm toán nội bộ là đơn vị chuyên môn giúp việc
+Tổng Giám đốc BHXH Việt Nam, có chức năng tham mưu giúp Tổng Giám đốc BHXH Việt
+Nam thực hiện công tác kiểm toán nội bộ các đơn vị thuộc hệ thống BHXH Việt Nam
+theo quy định của pháp luật và của BHXH Việt Nam.
+2. Tổng Giám đốc BHXH Việt Nam quản lý trực tiếp,
+toàn diện chuyên môn của Vụ Kiểm toán nội bộ, đảm bảo tính độc lập về mặt
+chuyên môn với các đơn vị khác. Tổng Giám đốc BHXH Việt Nam có thể ủy quyền cho
+Phó Tổng Giám đốc quản lý công tác kiểm toán nội bộ theo quy định của Pháp luật.
+3. Vụ Kiểm toán nội bộ báo cáo chuyên môn cho Tổng
+Giám đốc BHXH Việt Nam và báo cáo hành chính theo trình tự từ cấp quản lý trực
+tiếp lên cấp trên.
+4. Tổng Giám đốc BHXH Việt Nam quản lý trực tiếp,
+toàn diện về mặt chuyên môn của Vụ Kiểm toán nội bộ, bao gồm:
+a) Ban hành và phê duyệt Quy chế kiểm toán nội bộ.
+b) Phê duyệt kế hoạch kiểm toán nội bộ dựa trên rủi
+ro.
+c) Phê duyệt ngân sách kiểm toán nội bộ và kế hoạch
+nguồn lực.
+d) Nhận thông tin báo cáo từ Vụ trưởng Vụ Kiểm toán
+nội bộ về kết quả hoạt động của Vụ Kiểm toán nội bộ liên quan đến kế hoạch kiểm
+toán nội bộ và các vấn đề khác.
+đ) Phê chuẩn các quyết định liên quan đến việc bổ
+nhiệm và miễn nhiệm Vụ trưởng Vụ Kiểm toán nội bộ.
+e) Đánh giá và xác định xem có giới hạn nguồn lực
+hoặc phạm vi kiểm toán nội bộ không phù hợp hay không.
+5. Vụ trưởng Vụ Kiểm toán nội bộ định kỳ báo cáo Tổng
+Giám đốc BHXH Việt Nam về mục đích, quyền hạn, trách nhiệm và hiệu suất của Vụ
+Kiểm toán nội bộ; những vấn đề về rủi ro, gian lận, quản trị và các vấn đề cần
+thiết khác theo yêu cầu của Tổng Giám đốc BHXH Việt Nam.
+Điều 6. Phạm vi của kiểm toán nội
+bộ
+1. Đưa ra đảm bảo thông qua việc kiểm tra và đánh
+giá tính đầy đủ và hiệu quả của hoạt động quản lý, quản trị rủi ro và kiểm soát
+nội bộ nhằm giúp BHXH Việt Nam đạt được các mục tiêu, chiến lược, hoạt động,
+tuân thủ và tài chính.
+2. Đưa ra các phân tích và các kiến nghị dựa trên
+đánh giá dữ liệu và các quy trình nghiệp vụ của BHXH Việt Nam.
+3. Đưa ra các tư vấn, kiến nghị một cách độc lập
+khách quan liên quan đến quy trình quản trị, quy trình nghiệp vụ, quản lý rủi
+ro và kiểm soát nội bộ phù hợp với BHXH Việt Nam.
+4. Thực hiện kiểm toán trước: Được thực hiện trước
+khi diễn ra việc thực hiện các dự án, chương trình, kế hoạch hoạt động của các
+đơn vị được kiểm toán, nhằm đánh giá độ tin cậy của các thông tin, tài liệu,
+tính kinh tế, tính khả thi và hiệu quả của dự án, chương trình, kế hoạch hoạt động;
+giúp các cấp quản lý có được những thông tin tin cậy để đưa ra các quyết định.
+5. Thực hiện kiểm toán đồng thời: Được thực hiện
+trong khi việc thực hiện các dự án, chương trình, kế hoạch hoạt động của đơn vị
+được kiểm toán đang diễn ra, nhằm đánh giá tiến độ, chất lượng quá trình thực
+hiện hoạt động; phát hiện và kiến nghị kịp thời các biện pháp sửa chữa những
+sai lệch, thiếu sót, yếu kém trong quá trình thực hiện dự án, chương trình, kế
+hoạch hoạt động; nhằm đảm bảo thực hiện tốt nhất các mục tiêu của dự án, chương
+trình, kế hoạch của đơn vị được kiểm toán.
+6. Thực hiện kiểm toán sau: Được thực hiện sau khi
+việc thực hiện dự án, chương trình, kế hoạch hoạt động của đơn vị được kiểm
+toán đã hoàn thành, nhằm thực hiện nội dung, mục tiêu kiểm toán báo cáo tài
+chính, kiểm toán tuân thủ và kiểm toán hoạt động đối với hoạt động của đơn vị
+được kiểm toán.
+7. Tư vấn cho các đơn vị trực thuộc BHXH Việt Nam
+trong việc lựa chọn, sử dụng dịch vụ kiểm toán độc lập bảo đảm tiết kiệm, hiệu
+quả.
+8. Báo cáo định kỳ về mục đích, quyền hạn, trách
+nhiệm và hiệu suất của Vụ Kiểm toán nội bộ liên quan đến kế hoạch kiểm toán nội
+bộ.
+9. Kiểm tra và đánh giá các hoạt động cụ thể theo
+yêu cầu của Tổng Giám đốc BHXH Việt Nam.
+10. Tùy thuộc vào đối tượng kiểm toán, khi lập kế
+hoạch kiểm toán nội bộ có thể kết hợp cả kiểm toán trước, kiểm toán đồng thời
+và kiểm toán sau.
+Điều 7. Nguyên tắc cơ bản của
+hoạt động kiểm toán nội bộ
+1. Tính độc lập:
+a) Người làm công tác kiểm toán nội bộ không được đồng
+thời đảm nhận các công việc thuộc đối tượng của kiểm toán nội bộ; Không chịu bất
+cứ sự can thiệp nào trong khi thực hiện nhiệm vụ báo cáo và đánh giá.
+b) Người làm công tác kiểm toán nội bộ không được
+tham gia kiểm toán các hoạt động và các đơn vị mà người đó chịu trách nhiệm thực
+hiện hoạt động hoặc quản lý đơn vị đó trong 03 năm gần nhất.
+c) Người làm công tác kiểm toán nội bộ không được
+tham gia kiểm toán các hoạt động và các đơn vị mà người có liên quan của người làm
+công tác kiểm toán nội bộ chịu trách nhiệm thực hiện hoạt động hoặc quản lý đơn
+vị đó.
+2. Tính khách quan: Người làm công tác kiểm toán nội
+bộ phải đảm bảo khách quan, chính xác, trung thực, công bằng trong quá trình thực
+hiện nhiệm vụ của kiểm toán nội bộ.
+3. Tuân thủ các quy định của pháp luật và chịu
+trách nhiệm trước pháp luật về hoạt động kiểm toán nội bộ. Đồng thời phải đảm bảo
+tuân thủ các quy trình, quy định và kế hoạch kiểm toán đã được Tổng Giám đốc
+BHXH Việt Nam phê duyệt; Không làm cản trở hoạt động của các đơn vị được kiểm
+toán nội bộ.
+Điều 8. Chuẩn mực chuyên môn
+Vụ Kiểm toán nội bộ phải tuân thủ các quy định pháp
+luật về kiểm toán nội bộ, Quy tắc đạo đức và Chuẩn mực kiểm toán nội bộ do cơ
+quan Nhà nước có thẩm quyền ban hành hoặc công bố và các quy định về kiểm toán
+nội bộ do Tổng Giám đốc BHXH Việt Nam ban hành.
+Điều 9. Nguyên tắc đạo đức nghề
+nghiệp kiểm toán nội bộ
+1. Các nguyên tắc đạo đức nghề nghiệp kiểm toán nội
+bộ thực hiện theo quy định tại Phụ lục số II ban hành kèm theo Thông tư số
+08/2021/TT-BTC ngày 25/01/2021 của Bộ trưởng Bộ Tài chính ban hành chuẩn mực kiểm
+toán nội bộ Việt Nam và các nguyên tắc đạo đức nghề nghiệp kiểm toán nội bộ, cụ
+thể:
+a) Tính chính trực: Người làm công tác kiểm toán nội
+bộ phải thực hiện các công việc chuyên môn với sự trung thực, tính cẩn trọng và
+tinh thần trách nhiệm; tuân thủ các quy định pháp luật và công bố các thông tin
+cần thiết theo yêu cầu của pháp luật và yêu cầu chuyên môn của kiểm toán nội bộ;
+không tham gia các hoạt động phi pháp hay tham gia các hoạt động làm tổn hại đến
+uy tín của nghề nghiệp, uy tín của BHXH Việt Nam.
+b) Tính khách quan: Người làm công tác kiểm toán nội
+bộ phải thể hiện mức độ cao nhất về tính khách quan chuyên môn trong việc thu
+thập, đánh giá và trao đổi thông tin về các hoạt động và quy trình được kiểm
+toán. Người làm công tác kiểm toán nội bộ được đưa ra những đánh giá khách quan
+về tất cả các tình huống liên quan và không bị ảnh hưởng chi phối từ các lợi
+ích cá nhân hoặc từ bất kỳ ai trong việc đưa ra các xét đoán và kết luận của
+mình.
+c) Năng lực chuyên môn và tính thận trọng: Người
+làm công tác kiểm toán nội bộ áp dụng kiến thức, kỹ năng và kinh nghiệm chuyên
+môn trong công tác kiểm toán nội bộ. Đồng thời hành động một cách thận trọng,
+phù hợp với các chuẩn mực chuyên môn và kỹ thuật được áp dụng.
+d) Tính bảo mật: Người làm công tác kiểm toán nội bộ
+phải tôn trọng các giá trị và quyền sở hữu của các thông tin được cung cấp và
+không tiết lộ các thông tin này nếu không được phép của các cấp có thẩm quyền
+trừ khi việc tiết lộ thông tin thuộc trách nhiệm chuyên môn hoặc theo yêu cầu của
+pháp luật.
+đ) Tư cách nghề nghiệp: Người làm công tác kiểm
+toán nội bộ phải tuân thủ pháp luật và các quy định có liên quan, tránh bất kỳ
+hành động phát ngôn nào làm giảm uy tín nghề nghiệp của mình.
+2. Vụ trưởng Vụ Kiểm toán nội bộ ngoài việc đảm bảo
+thực hiện các nguyên tắc đạo đức nghề nghiệp nêu trên phải có biện pháp theo
+dõi, đánh giá, quản lý nhằm đảm bảo người làm công tác kiểm toán nội bộ tuân thủ
+nguyên tắc đạo đức nghề nghiệp kiểm toán nội bộ.
+Điều 10. Năng lực chuyên môn của
+kiểm toán nội bộ
+1. Vụ trưởng Vụ Kiểm toán nội bộ xem xét quy mô, độ
+phức tạp của hoạt động kiểm toán và công việc kiểm toán để trình Tổng Giám đốc
+BHXH Việt Nam quyết định nguồn lực cần thiết cho Vụ Kiểm toán nội bộ.
+2. Tiêu chuẩn tối thiểu của người làm công tác kiểm
+toán nội bộ:
+a) Có bằng đại học trở lên các chuyên ngành phù hợp
+với yêu cầu kiểm toán, có kiến thức đầy đủ và luôn được cập nhật về các lĩnh vực
+được giao thực hiện kiểm toán nội bộ.
+b) Đã có thời gian từ 05 năm trở lên làm việc theo
+chuyên ngành được đào tạo hoặc từ 03 năm trở lên làm việc tại BHXH Việt Nam hoặc
+từ 03 năm trở lên làm công tác kiểm toán, kế toán hoặc thanh tra.
+c) Có kiến thức, hiểu biết chung về pháp luật và hoạt
+động của BHXH Việt Nam; có khả năng thu thập, phân tích, đánh giá và tổng hợp
+thông tin; có kiến thức, kỹ năng về kiểm toán nội bộ.
+d) Chưa bị kỷ luật ở mức cảnh cáo trở lên do sai phạm
+trong quản lý kinh tế, tài chính, kế toán hoặc không đang trong thời gian bị
+thi hành kỷ luật.
+3. Vụ trưởng Vụ Kiểm toán nội bộ phải có trình độ
+chuyên môn, kinh nghiệm kiểm toán đầy đủ; các kiến thức chuyên sâu về tổ chức,
+kỹ thuật, truyền thông và các kỹ năng liên quan khác.
+4. Vụ trưởng Vụ kiểm toán nội bộ cần đánh giá về kỹ
+năng và kiến thức của Vụ kiểm toán nội bộ cho việc thực hiện kiểm toán quy
+trình một cách hiệu quả. Trường hợp cần thiết phải sử dụng chuyên gia bên ngoài
+đối với một số lĩnh vực chuyên môn ngoài năng lực của kiểm toán nội bộ và của
+các đơn vị trong ngành, Vụ Kiểm toán nội bộ lập kế hoạch sử dụng chuyên gia bên
+ngoài báo cáo Tổng Giám đốc BHXH Việt Nam phê duyệt.
+5. Vụ trưởng Vụ kiểm toán nội bộ chịu trách nhiệm về
+hoạt động kiểm toán của người làm công tác kiểm toán nội bộ; đảm bảo đạt được
+các mục tiêu kiểm toán nêu trong kế hoạch kiểm toán đã được phê duyệt. Vụ trưởng
+Vụ kiểm toán nội bộ cần thiết lập kế hoạch chi tiết hợp lý để hoàn thành mỗi cuộc
+kiểm toán (kể từ khi bắt đầu thực hiện đến khi ban hành báo cáo kiểm toán) sau
+khi xem xét tính chất và sự phức tạp của cuộc kiểm toán.
+6. Người làm công tác kiểm toán nội bộ cần thường
+xuyên được đào tạo, bồi dưỡng, học tập nhằm nâng cao năng lực, kỹ năng chuyên
+môn phục vụ nhiệm vụ kiểm toán nội bộ.
+Điều 11. Quyền hạn của Vụ Kiểm
+toán nội bộ
+1. Được chủ động thực hiện nhiệm vụ theo quy định về
+kiểm toán nội bộ, quy trình, quy chế và kế hoạch kiểm toán đã được Tổng Giám đốc
+BHXH Việt Nam phê duyệt.
+2. Được trang bị nguồn lực cần thiết để thực hiện
+công việc theo kế hoạch được Tổng Giám đốc BHXH Việt Nam phê duyệt.
+3. Được cung cấp đầy đủ, kịp thời các thông tin,
+tài liệu, dữ liệu, số liệu, hồ sơ cần thiết cho hoạt động kiểm toán nội bộ.
+4. Được tiếp cận, xem xét tất cả các quy trình nghiệp
+vụ, tài sản khi thực hiện kiểm toán nội bộ.
+5. Được tiếp cận, phỏng vấn công chức, viên chức,
+người lao động của đơn vị về các vấn đề liên quan đến nội dung kiểm toán.
+6. Được nhận tài liệu, văn bản chỉ đạo của Lãnh đạo
+BHXH Việt Nam và các đơn vị trực thuộc BHXH Việt Nam có liên quan đến công việc
+của kiểm toán nội bộ.
+7. Được giám sát, đánh giá và theo dõi các hoạt động
+sửa chữa, khắc phục hoàn thiện của Thủ trưởng các đơn vị đối với các vấn đề mà
+kiểm toán nội bộ đã ghi nhận và có kiến nghị.
+8. Được bảo vệ an toàn trước hành động bất hợp tác
+của đơn vị được kiểm toán.
+9. Được đào tạo, bồi dưỡng để nâng cao năng lực
+chuyên môn, nghiệp vụ kiểm toán nội bộ cho người làm công tác kiểm toán nội bộ.
+Điều 12. Trách nhiệm của Vụ Kiểm
+toán nội bộ
+1. Phải bảo mật tài liệu, thông tin theo đúng quy định
+của pháp luật hiện hành và văn bản quy định của BHXH Việt Nam.
+2. Chịu trách nhiệm trước Tổng Giám đốc BHXH Việt
+Nam về kết quả công việc kiểm toán nội bộ và những đánh giá, kết luận, kiến nghị,
+đề xuất trong các báo cáo kiểm toán nội bộ.
+3. Phải kịp thời theo dõi, đôn đốc và kiểm tra kết
+quả thực hiện các kiến nghị sau kiểm toán của các đơn vị trực thuộc BHXH Việt
+Nam.
+4. Thường xuyên tổ chức tập huấn, đào tạo nhằm nâng
+cao và đảm bảo năng lực chuyên môn cho người làm công tác kiểm toán nội bộ.
+5. Các trách nhiệm khác theo quy định của pháp luật
+và Quy chế kiểm toán nội bộ của BHXH Việt Nam.
+Điều 13. Trách nhiệm và quyền
+hạn của Vụ trưởng Vụ Kiểm toán nội bộ
+1. Trách nhiệm:
+a) Quản lý và điều hành Vụ Kiểm toán nội bộ thực hiện
+nhiệm vụ theo quy định của BHXH Việt nam.
+b) Thực hiện các biện pháp nhằm đảm bảo tính độc lập,
+khách quan, trung thực của kiểm toán nội bộ.
+c) Chịu trách nhiệm trước Tổng Giám đốc BHXH Việt
+Nam về kết quả hoạt động kiểm toán nội bộ; tính đúng đắn, trung thực của nhận
+xét, đánh giá, kết luận và kiến nghị trong Báo cáo kết quả kiểm toán, Thông báo
+kết quả kiểm toán.
+d) Định kỳ hoặc đột xuất nhận xét, đánh giá kết quả
+thực hiện nhiệm vụ đối với Trưởng Đoàn kiểm toán, Phó trưởng Đoàn kiểm toán và
+người làm công tác kiểm toán nội bộ để làm căn cứ đánh giá công chức, viên chức,
+người lao động hằng năm.
+đ) Bảo mật thông tin theo đúng quy định của pháp luật.
+e) Các trách nhiệm khác theo quy định của pháp luật
+và Quy chế kiểm toán nội bộ của BHXH Việt Nam.
+2. Quyền hạn:
+a) Đề xuất với Tổng Giám đốc BHXH Việt Nam ban hành
+quy chế, quy trình kiểm toán nội bộ và các phương pháp nghiệp vụ kiểm toán nội
+bộ.
+b) Trường hợp cần thiết được đề nghị trưng tập người
+ở các đơn vị trực thuộc BHXH Việt Nam; được đề xuất thuê chuyên gia để thiết lập
+bộ phận kiểm toán nội bộ tham gia các cuộc kiểm toán nội bộ.
+c) Trong khi thực hiện kiểm toán có quyền độc lập
+trong việc nhận xét, đánh giá, kết luận và kiến nghị về những nội dung đã kiểm
+toán.
+d) Có quyền yêu cầu các đơn vị được kiểm toán cung
+cấp đầy đủ, chính xác và kịp thời hồ sơ, tài liệu phục vụ cho việc kiểm toán và
+giải trình các vấn đề liên quan đến kết quả, kiến nghị kiểm toán.
+đ) Bảo lưu ý kiến bằng văn bản về kết quả kiểm toán
+trong phạm vi được phân công.
+e) Đề nghị Tổng Giám đốc BHXH Việt Nam xem xét xử
+lý kỷ luật theo quy định khi phát hiện tổ chức, cá nhân vi phạm pháp luật thông
+qua hoạt động kiểm toán nội bộ.
+g) Đề nghị Tổng Giám đốc BHXH Việt Nam xem xét thay
+thế, bổ sung thành phần Đoàn kiểm toán khi phát hiện vi phạm quy chế hoạt động
+của Đoàn kiểm toán và quy định của BHXH Việt Nam.
+h) Đề nghị Tổng Giám đốc BHXH Việt Nam khen thưởng,
+kỷ luật, đình chỉ đối với Trưởng Đoàn kiểm toán, Phó trưởng Đoàn kiểm toán và
+người làm công tác kiểm toán nội bộ khi có thành tích đột xuất hoặc có sai phạm
+trong thời gian thực hiện nhiệm vụ kiểm toán;
+i) Yêu cầu Trưởng Đoàn kiểm toán, Phó trưởng đoàn
+kiểm toán và các thành viên Đoàn kiểm toán báo cáo kết quả kiểm toán, cung cấp
+thông tin, tài liệu, hồ sơ, giải trình và làm rõ các vấn đề liên quan đến kết
+quả kiểm toán.
+k) Báo cáo Tổng Giám đốc BHXH Việt Nam các vấn đề cấp
+thiết, các vấn đề vượt thẩm quyền giải quyết trong quá trình hoạt động của Đoàn
+kiểm toán.
+l) Thực hiện các quyền hạn khác theo quy định pháp
+luật và Quy chế về kiểm toán nội bộ của BHXH Việt Nam.
+Điều 14. Trách nhiệm và quyền
+hạn của người làm công tác kiểm toán nội bộ
+1. Trách nhiệm:
+a) Thực hiện kế hoạch kiểm toán đã được Tổng Giám đốc
+BHXH Việt Nam phê duyệt.
+b) Xác định các thông tin đầy đủ, tin cậy, phù hợp
+và hữu ích cho việc thực hiện các mục tiêu kiểm toán.
+c) Căn cứ vào các phân tích, đánh giá phù hợp để
+đưa ra kết luận và các kết quả kiểm toán một cách độc lập, khách quan.
+d) Lưu các thông tin liên quan để hỗ trợ các kết luận
+và đưa ra kết quả kiểm toán.
+đ) Chịu trách nhiệm về kết quả kiểm toán được giao
+thực hiện.
+e) Bảo mật thông tin theo đúng quy định của pháp luật.
+g) Không ngừng nâng cao năng lực chuyên môn, giữ
+gìn đạo đức nghề nghiệp.
+h) Các trách nhiệm khác theo quy định của pháp luật
+và Quy chế kiểm toán nội bộ của BHXH Việt Nam.
+2. Quyền hạn:
+a) Trong khi thực hiện kiểm toán có quyền độc lập
+trong việc nhận xét, đánh giá, kết luận và kiến nghị về những nội dung đã kiểm
+toán.
+b) Có quyền yêu cầu các đơn vị được kiểm toán cung
+cấp kịp thời, đầy đủ hồ sơ, tài liệu, thông tin có liên quan đến nội dung kiểm
+toán.
+c) Bảo lưu ý kiến bằng văn bản về kết quả kiểm toán
+trong phạm vi được phân công.
+d) Thực hiện các quyền hạn khác theo quy định pháp
+luật và Quy chế kiểm toán nội bộ của BHXH Việt Nam.
+Điều 15. Tính độc lập và khách
+quan của kiểm toán nội bộ
+1. Vụ Kiểm toán nội bộ không bị can thiệp bởi bất kỳ
+yếu tố nào trong việc lựa chọn đối tượng kiểm toán, phạm vi, thủ tục, tần suất,
+thời gian hoặc nội dung báo cáo để cho phép duy trì tính độc lập và khách quan
+cần thiết.
+2. Người làm công tác kiểm toán nội bộ không thực
+hiện kiểm soát nội bộ, xây dựng quy trình, chuẩn bị hồ sơ hoặc tham gia vào bất
+kỳ hoạt động nào khác có thể làm giảm xét đoán của người làm công tác kiểm toán
+nội bộ.
+3. Người làm công tác kiểm toán nội bộ thể hiện mức
+độ khách quan chuyên nghiệp cao nhất trong việc thu thập, đánh giá và truyền đạt
+thông tin về hoạt động hoặc quy trình được kiểm tra. Người làm công tác kiểm
+toán nội bộ đánh giá tất cả các tình huống có liên quan và không bị ảnh hưởng bởi
+lợi ích của họ hoặc những người khác trong việc đưa ra các xét đoán.
+Chương II
+HOẠT ĐỘNG KIỂM TOÁN NỘI
+BỘ
+Điều 16. Phương pháp thực hiện
+kiểm toán nội bộ
+Phương pháp thực hiện kiểm toán nội bộ là phương
+pháp kiểm toán “định hướng theo rủi ro”, ưu tiên tập trung nguồn lực để kiểm
+toán các đơn vị, quy trình được đánh giá có mức độ rủi ro cao.
+Điều 17. Kế hoạch kiểm toán nội
+bộ năm
+1. Hằng năm, Vụ Kiểm toán nội bộ xây dựng kế hoạch
+kiểm toán nội bộ trình Tổng Giám đốc BHXH Việt Nam xem xét, phê duyệt xong trước
+ngày 31 tháng 01 năm kế hoạch.
+2. Kế hoạch kiểm toán nội bộ bao gồm phạm vi kiểm
+toán, đối tượng kiểm toán, các mục tiêu kiểm toán, nội dung kiểm toán, niên độ
+kiểm toán, thời gian kiểm toán.
+3. Kế hoạch kiểm toán nội bộ được xây dựng dựa trên
+sự ưu tiên của kiểm toán bằng phương pháp định hướng theo rủi ro. Vụ Kiểm toán
+nội bộ phải đánh giá rủi ro toàn diện các hoạt động, quy trình nghiệp vụ, các
+đơn vị để lập kế hoạch kiểm toán nội bộ; Báo cáo Tổng Giám đốc BHXH Việt Nam
+xem xét và điều chỉnh kế hoạch nếu cần đề đáp ứng những thay đổi trong hoạt động,
+chương trình, hệ thống và kiểm soát của BHXH Việt Nam.
+4. Vụ Kiểm toán nội bộ phối hợp với các đơn vị liên
+quan có trách nhiệm đánh giá các rủi ro và các thông tin đầu vào cho việc lập kế
+hoạch kiểm toán nội bộ; đảm bảo tránh chồng chéo với kế hoạch kiểm toán, thanh
+tra, kiểm tra của BHXH Việt Nam và các cơ quan có thẩm quyền khác.
+Điều 18. Báo cáo kiểm toán nội
+bộ và kiểm tra việc thực hiện kiến nghị kiểm toán
+1. Báo cáo từng cuộc kiểm toán nội bộ
+a) Báo cáo từng cuộc kiểm toán nội bộ do Trưởng
+đoàn kiểm toán chịu trách nhiệm lập, báo cáo Vụ trưởng Vụ Kiểm toán nội bộ xem
+xét, phê duyệt để trình Tổng Giám đốc BHXH Việt Nam trong thời hạn tối đa 20
+ngày sau hoàn thành cuộc kiểm toán. Báo cáo kiểm toán phải có chữ ký của Trưởng
+đoàn kiểm toán hoặc người phụ trách cuộc kiểm toán.
+b) Báo cáo kiểm toán phải trình bày rõ: nội dung kiểm
+toán, phạm vi kiểm toán; những đánh giá, kết luận về nội dung đã được kiểm toán
+và cơ sở đưa ra các ý kiến này; các yếu kém, tồn tại, các sai sót, vi phạm và
+kiến nghị các biện pháp sửa chữa, khắc phục sai sót và xử lý vi phạm; đề xuất
+các biện pháp điều chỉnh, cải tiến quy trình nghiệp vụ; hoàn thiện cơ chế,
+chính sách quản lý rủi ro của Ngành.
+c) Báo cáo kiểm toán phải có ý kiến của Thủ trưởng
+đơn vị được kiểm toán. Trường hợp đơn vị được kiểm toán không thống nhất với kết
+quả kiểm toán, báo cáo kiểm toán nội bộ cần nêu rõ những vấn đề chưa thống nhất
+của đơn vị được kiểm toán và lý do.
+d) Báo cáo kiểm toán nội bộ sau khi hoàn thành được
+gửi cho Tổng Giám đốc BHXH Việt Nam và đơn vị có liên quan theo quy định của
+BHXH Việt Nam.
+2. Báo cáo kiểm toán nội bộ hằng năm
+a) Chậm nhất 45 ngày kể từ ngày kết thúc năm tài
+chính, Vụ trưởng Vụ Kiểm toán nội bộ phải gửi báo cáo kiểm toán nội bộ hằng năm
+cho Tổng Giám đốc BHXH Việt Nam.
+b) Báo cáo kiểm toán nội bộ hằng năm tối thiểu gồm
+các nội dung:
+- Kế hoạch kiểm toán đề ra; công việc kiểm toán đã
+thực hiện.
+- Những tồn tại, hạn chế được phát hiện; biện pháp
+khắc phục mà kiểm toán nội bộ kiến nghị.
+- Đánh giá về hệ thống kiểm soát nội bộ liên quan đến
+hoạt động được kiểm toán và đề xuất nhằm hoàn thiện hệ thống kiểm soát nội bộ.
+- Tình hình thực hiện các biện pháp, kiến nghị, đề
+xuất của kiểm toán nội bộ.
+3. Báo cáo đột xuất
+Trường hợp phát hiện các sai phạm nghiêm trọng ở
+các đơn vị được kiểm toán hoặc nhận thấy có nguy cơ rủi ro cao có thể ảnh hưởng
+xấu đến hoạt động của ngành BHXH. Vụ trưởng Vụ Kiểm toán nội bộ báo cáo Tổng
+Giám đốc BHXH Việt Nam hoặc Lãnh đạo ngành BHXH phụ trách có biện pháp ngăn chặn
+và khắc phục kịp thời. Báo cáo đột xuất gồm các nội dung:
+a) Những vấn đề rủi ro mà kiểm toán nội bộ quan
+tâm, chú ý.
+b) Bộc lộ, phát sinh sự yếu kém trong hệ thống kiểm
+soát nội bộ tại một bộ phận hoặc đơn vị.
+c) Những phát hiện nghiêm trọng cần có sự chỉ đạo xử
+lý, khắc phục của Tổng Giám đốc BHXH Việt Nam.
+d) Báo cáo đột xuất trình bày các vấn đề phát sinh
+hoặc phát hiện cùng với những kiến nghị xử lý.
+4. Kiểm tra việc thực hiện các kiến nghị của kiểm
+toán nội bộ
+a) Kiểm tra, đánh giá thời gian, kết quả những công
+việc mà đơn vị được kiểm toán đã thực hiện theo kiến nghị và thông báo kết luận
+kiểm toán nội bộ.
+b) Báo cáo kết quả kiểm tra thực hiện kiến nghị và
+thông báo kết luận kiểm toán nội bộ đối với các đơn vị được kiểm toán gửi Tổng
+Giám đốc BHXH Việt Nam và đơn vị liên quan theo quy định của BHXH Việt Nam.
+Điều 19. Lưu trữ báo cáo, hồ
+sơ, tài liệu kiểm toán nội bộ
+1. Hồ sơ, tài liệu trong mỗi cuộc kiểm toán phải được
+ghi chép thành văn bản (Giấy hoặc điện tử), lưu trữ theo trình tự đế các cá
+nhân, tổ chức có thẩm quyền khai thác, phục vụ công tác quản lý, điều hành của
+Lãnh đạo ngành BHXH.
+2. Các báo cáo, hồ sơ, tài liệu kiểm toán nội bộ được
+lưu giữ theo quy định của Luật Lưu trữ và quy định về công tác lưu trữ của BHXH
+Việt Nam.
+Điều 20. Đảm bảo và nâng cao
+chất lượng kiểm toán nội bộ
+1. Vụ Kiểm toán nội bộ duy trì một chương trình đảm
+bảo và nâng cao chất lượng kiểm toán nội bộ. Chương trình bao gồm đánh giá về
+tính tuân thủ của Vụ kiểm toán nội bộ với các quy định, chuẩn mực kiểm toán nội
+bộ; Đánh giá việc tuân thủ Quy tắc đạo đức của người làm công tác kiểm toán nội
+bộ; Đánh giá hiệu quả, hiệu suất hoạt động của kiểm toán nội bộ và xác định các
+nội dung để cải tiến quy trình nghiệp vụ.
+2. Vụ Kiểm toán nội bộ thực hiện đánh giá lại hoạt
+động kiểm toán nội bộ vào cuối cuộc kiểm toán và tự đánh giá lai hàng năm về tổng
+thể hoạt động kiểm toán nội bộ nhằm đảm bảo chất lượng của hoạt động kiểm toán
+nội bộ.
+Chương III
+TRÁCH NHIỆM CỦA CÁC BÊN
+ĐỐI VỚI KIỂM TOÁN NỘI BỘ
+Điều 21. Trách nhiệm của Tổng
+Giám đốc BHXH Việt Nam
+1. Ban hành các văn bản quy định liên quan đến kiểm
+toán nội bộ của BHXH Việt Nam.
+2. Bổ nhiệm, miễn nhiệm Vụ trưởng Vụ Kiểm toán nội
+bộ và các chức danh khác của kiểm toán nội bộ.
+3. Tạo điều kiện thuận lợi để đảm bảo Vụ Kiểm toán
+nội bộ thực hiện đầy đủ các quyền hạn và hoàn thành các nhiệm vụ theo quy định.
+4. Phê duyệt kế hoạch kiểm toán nội bộ hằng năm.
+5. Chỉ đạo các đơn vị có liên quan thực hiện kiến
+nghị của kiểm toán nội bộ; có biện pháp xử lý kịp thời các kiến nghị, đề xuất của
+kiểm toán nội bộ.
+Điều 22. Trách nhiệm của Thủ
+trưởng các đơn vị trực thuộc BHXH Việt Nam
+1. Tạo điều kiện thuận lợi để kiểm toán nội bộ thực
+hiện nhiệm vụ được giao; Chỉ đạo các bộ phận có liên quan thực hiện phối hợp
+công tác với kiểm toán nội bộ theo quy định của quy chế về kiểm toán nội bộ.
+2. Đôn đốc các bộ phận liên quan thực hiện những kiến
+nghị đã thống nhất với Vụ Kiểm toán nội bộ hoặc theo chỉ đạo của Tổng Giám đốc BHXH
+Việt Nam; Thông báo cho Vụ Kiểm toán nội bộ tình hình thực hiện những kiến nghị
+đã thống nhất với Vụ Kiểm toán nội bộ.
+3. Đảm bảo thông báo đầy đủ, kịp thời về các thay đổi,
+những vấn đề phát sinh mới trong hoạt động của đơn vị cho Vụ Kiểm toán nội bộ
+nhằm xác định sớm những rủi ro liên quan.
+4. Thực hiện các kiến nghị của kiểm toán nội bộ đã
+được phê duyệt; có biện pháp xử lý kịp thời khi có các kiến nghị, đề xuất của
+kiểm toán nội bộ.
+Điều 23. Trách nhiệm của đơn vị
+được kiểm toán
+1. Cung cấp đầy đủ thông tin, dữ liệu, số liệu, tài
+liệu, hồ sơ cần thiết cho công việc của kiểm toán nội bộ theo yêu cầu của Vụ Kiểm
+toán nội bộ đảm bảo chính xác, trung thực, không che giấu thông tin.
+2. Thông báo kịp thời cho Vụ Kiểm toán nội bộ khi
+phát hiện những yếu kém, tồn tại, các sai phạm, rủi ro, thất thoát lớn về tài sản
+hoặc nguy cơ thất thoát tài sản nhằm xác định sớm những rủi ro liên quan.
+3. Thực hiện đầy đủ, kịp thời các kết luận, kiến
+nghị kiểm toán đã được thống nhất với Vụ Kiểm toán nội bộ hoặc theo chỉ đạo của
+Tổng Giám đốc BHXH Việt Nam. Đồng thời, báo cáo bằng văn bản tình hình thực hiện
+các kiến nghị kiểm toán gửi Vụ Kiểm toán nội bộ theo đúng thời hạn quy định.
+4. Các trách nhiệm khác đối với kiểm toán nội bộ
+theo quy định của pháp luật và của BHXH Việt Nam.
+Chương IV
+TỔ CHỨC THỰC HIỆN
+Điều 24. Hiệu lực thi hành
+Quy chế này có hiệu lực thi hành kể từ ngày ký và
+thay thế Quy chế hoạt động kiểm toán nội bộ trong hệ thống Bảo hiểm xã hội Việt
+Nam ban hành kèm theo Quyết định số 742/QĐ-BHXH ngày 29 tháng 6 năm 2015 của Tổng
+Giám đốc Bảo hiểm xã hội Việt Nam.
+Điều 25. Sửa đổi, bổ sung và
+thay thế quy chế
+1. Vụ trưởng Vụ Kiểm toán nội bộ có trách nhiệm đề
+xuất các nội dung sửa đổi, bổ sung, thay thế cho phù hợp.
+2. Việc sửa đổi, bổ sung, thay thế Quy chế này do Tổng
+Giám đốc BHXH Việt Nam quyết định.
+Điều 26. Tổ chức thực hiện
+Vụ trưởng Vụ Kiểm toán nội bộ, Chánh văn phòng Bảo
+hiểm xã hội Việt Nam, Thủ trưởng các đơn vị trực thuộc Bảo hiểm xã hội Việt Nam
+và Giám đốc Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương chịu
+trách nhiệm thi hành Quy chế này.
+Trong quá trình thực hiện, nếu có vướng mắc, các
+đơn vị, cá nhân kịp thời phản ánh về Vụ Kiểm toán nội bộ để xem xét, trình Tổng
+Giám đốc BHXH Việt Nam sửa đổi, bổ sung Quy chế cho phù hợp./.
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

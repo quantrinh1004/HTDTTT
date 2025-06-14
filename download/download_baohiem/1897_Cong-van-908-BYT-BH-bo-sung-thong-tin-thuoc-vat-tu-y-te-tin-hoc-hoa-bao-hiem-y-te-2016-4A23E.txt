@@ -1,0 +1,8200 @@
+BỘ Y TẾ
+--------
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 908/BYT-BH
+V/v hướng dẫn bổ
+  sung thông tin thuốc và vật tư y tế để thực hiện tin học hóa BHYT
+Hà Nội, ngày 22 tháng 02 năm 2016
+Kính gửi:
+- Sở Y tế các tỉnh, thành phố trực thuộc Trung ương
+- Các Bệnh viện/Viện có giường bệnh trực thuộc Bộ Y tế
+- Các cơ sở khám bệnh, chữa bệnh trực thuộc các Bộ, ngành
+(Sau đây gọi tắt là các đơn vị)
+Để tiếp tục bổ sung và hoàn thiện Bộ mã danh Mục dùng chung
+ban hành Quyết định số 5084/QĐ-BYT ngày 30/11/2015 của Bộ Y tế , phục vụ trích
+xuất dữ liệu đáp ứng yêu cầu quản lý khám, chữa bệnh và thanh toán bảo hiểm y
+tế, Bộ Y tế đề nghị Thủ trưởng các đơn vị chỉ đạo các cơ sở khám bệnh, chữa
+bệnh công lập và tư nhân trên địa bàn thực hiện một số việc sau:
+1. Lập danh Mục thuốc (tân dược, y
+học cổ truyền và thuốc tự bào chế) và danh Mục vật tư y tế thanh toán bảo hiểm
+y tế đang sử dụng tại cơ sở khám bệnh, chữa bệnh theo cấu trúc tại Bảng 1, Bảng
+2 của Phụ lục 1; việc mã hóa thực hiện theo hướng dẫn tại Phụ lục 2 kèm theo
+Công văn này.
+Các cơ sở khám bệnh, chữa bệnh có tổ
+chức khám, chữa bệnh bảo hiểm y tế tại trạm y tế xã lập riêng danh Mục thuốc và
+vật tư y tế thanh toán bảo hiểm y tế tại các trạm y tế xã theo hướng dẫn trên.
+2. Cơ sở khám bệnh, chữa bệnh thống
+nhất Bảng 1, Bảng 2 với cơ quan Bảo hiểm xã hội và chuyển vào hệ thống quản lý
+danh Mục dùng chung tại địa chỉ dmdc.csdlyt.vn theo hướng dẫn tại Phụ lục 3 kèm
+theo Công văn này.
+Bộ Y tế đề nghị Thủ trưởng các đơn
+vị khẩn trương chỉ đạo, thực hiện, hoàn thành việc lập và chuyển Bảng 1 trước
+ngày 29/02/2016, Bảng 2 trước ngày 15/3/2016 vào hệ thống quản lý danh Mục dùng
+chung tại địa chỉ nói trên.
+Các khó khăn, vướng mắc phản ánh về
+Bộ Y tế (Vụ Bảo hiểm y tế) qua địa chỉ email: cnttbhyt@gmail.com; số điện thoại
+liên lạc để hướng dẫn kỹ thuật: 01668587575./.
+Nơi nhận:
+-
+  Như trên;
+- BT. Nguyễn Thị Kim Tiến (để b/c);
+- BHXH Việt Nam (để phối hợp);
+- Các Vụ, Cục: KH-TC, CNTT, TTB&CTYT, YDCT, QLD, KCB;
+- Lưu: VT, BH.
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+Phạm
+  Lê Tuấn
+PHỤ LỤC 1
+(Ban hành kèm theo Công văn số 908/BYT-BH ngày 22/02/2016 của Bộ Y
+tế)
+BẢNG 1. CHỈ TIÊU THUỐC THANH TOÁN BHYT
+TT
+Tên
+  trường
+Định
+  dạng
+(độ
+  dài)
+Chú
+  thích
+1
+Stt
+Số (6)
+Số thứ tự của thuốc có trong danh Mục
+  này
+2
+ma_hoat_chat
+Chuỗi
+Ghi mã hoạt chất theo hướng dẫn
+  tại Phụ lục 2
+3
+hoat_chat
+Chuỗi
+Ghi tên hoạt chất hoặc thành phần
+  của thuốc theo kết quả trúng thầu.
+- Đối với các thuốc đa chất thì
+  ghi lần lượt từng tên hoạt chất, giữa các hoạt chất cách nhau bằng dấu cộng
+  “+”
+- Đối với chế phẩm thuốc đông y,
+  thuốc từ dược liệu, các thành phần của thuốc cách nhau bằng dấu phẩy “,”
+4
+ma_duong_dung
+Chuỗi
+Ghi mã đường dùng theo Bảng 3, Phụ
+  lục số 1 ban hành kèm theo Quyết định số 5084/QĐ-BYT
+5
+duong_dung
+Chuỗi
+Ghi đường dùng theo Bảng 3, Phụ
+  lục số 1 ban hành kèm theo Công văn số 5084/QĐ-BYT
+6
+ham_luong
+Chuỗi
+Ghi hàm lượng và đơn vị hàm lượng
+  của thuốc theo
+kết quả trúng thầu. Đối với các
+  thuốc đa chất thì ghi hàm lượng tương ứng với từng hoạt chất/thành phần tại
+  trường số 3, giữa các hàm lượng cách nhau bằng dấu “+”
+7
+ten_thuoc
+Chuỗi
+Ghi tên thuốc theo kết quả trúng
+  thầu
+8
+so_dang_ky
+Chuỗi
+Ghi mã số đăng ký
+theo hướng dẫn tại Phụ
+  lục 2
+9
+dong_goi
+Chuỗi
+Ghi dạng đóng gói của thuốc
+(Ví
+  dụ: hộp 20 viên ghi H/20)
+10
+don_vi_tinh
+Chuỗi
+Ghi đơn vị tính nhỏ nhất
+(Ví
+  dụ: viên, gói, lọ, tube, hộp, gam)
+11
+don_gia
+Số (12)
+Ghi đơn giá của thuốc trúng thầu (
+tính
+  trên đơn vị tính nhỏ nhất
+)
+12
+don_gia_tt
+Số (12)
+Ghi đơn giá bảo hiểm y tế thanh
+  toán
+(tính trên đơn vị tính nhỏ nhất)
+13
+so_luong
+Số (12)
+Ghi số lượng thuốc trúng thầu
+14
+ma_cskcb
+Chuỗi
+Ghi mã cơ sở KCB theo Phụ lục số
+  08 ban hành kèm theo Quyết định số 5084/QĐ-BYT của Bộ Y tế
+15
+hang_sx
+Chuỗi
+Ghi tên hãng sản xuất
+16
+nuoc_sx
+Chuỗi
+Ghi tên nước sản xuất
+17
+nha_thau
+Chuỗi
+Ghi tên đơn vị trúng thầu
+18
+quyet_dinh
+Chuỗi
+Ghi số quyết định trúng thầu
+19
+cong_bo
+Date
+Ghi ngày áp dụng kết quả trúng
+  thầu
+20
+ma_thuoc_bv
+Chuỗi
+Ghi mã thuốc trong phần mềm sử
+  dụng tại cơ sở KCB.
+Lưu ý :
+Dữ liệu được lập trên bảng Excel, sử
+dụng phông chữ Unicode
+BẢNG
+2. CHỈ TIÊU VẬT TƯ Y TẾ THANH TOÁN BHYT
+TT
+Tên
+  trường
+Định
+  dạng
+(độ
+  dài)
+Chú
+  thích
+1
+stt
+Số (6)
+Số thứ tự từ 1 đến hết
+2
+ma_nhom_vtyt
+Chuỗi
+Ghi mã nhóm vật tư y tế theo quy
+  định tại cột 3 của Phụ lục 5 ban hành kèm theo Công văn này
+3
+ten_nhom_vtyt
+Chuỗi
+Ghi tên nhóm vật tư y tế theo quy
+  định tại cột 4 của Phụ lục 5 ban hành kèm theo Công văn này
+4
+ma_hieu
+Chuỗi
+Ghi mã hiệu sản phẩm in trên bao
+  bì hoặc trên sản phẩm do nhà sản xuất đặt
+5
+ma_vtyt_bv
+Chuỗi
+Ghi mã vật tư y tế trong phần mềm
+  sử dụng tại bệnh viện
+6
+ten_vtyt_bv
+Chuỗi
+Ghi tên vật tư y tế đang được
+  thanh toán cho bệnh nhân tại phần mềm bệnh viện
+7
+quy_cach
+Chuỗi
+Ghi quy cách đóng gói của vật tư y
+  tế (Ví dụ: 10 chiếc/hộp; 10 cái/túi)
+8
+nuoc_sx
+Chuỗi
+Ghi tên nước sản xuất
+9
+hang_sx
+Chuỗi
+Ghi tên hãng sản xuất
+10
+don_vi_tinh
+Chuỗi
+Ghi đơn vị tính nhỏ nhất
+11
+don_gia
+Số (12)
+Ghi đơn giá vật tư y tế trúng thầu
+12
+don_gia_tt
+Số (12)
+Ghi đơn giá vật tư y tế thanh toán
+  BHYT
+13
+nha_thau
+Chuỗi
+Ghi tên đơn vị trúng thầu
+14
+quyet_dinh
+Chuỗi
+Ghi số Quyết định trúng thầu
+15
+cong_bo
+Date
+Ghi ngày áp dụng kết quả trúng
+  thầu
+16
+dinh_muc
+Số (5,2)
+Ghi định mức sử dụng cho từng loại
+  vật tư (nếu có) (Ví dụ: quả lọc thận nhân tạo sử dụng 06 lần ghi 6,00)
+17
+so_luong
+Số (12)
+Ghi số lượng vật tư y tế trúng
+  thầu
+18
+ma_cskcb
+Chuỗi
+Ghi mã cơ sở KCB theo Phụ lục số
+  08 ban hành kèm theo Quyết định số 5084/QĐ-BYT của Bộ Y tế
+Lưu ý :
+Dữ liệu được lập trên bảng Excel, sử
+dụng phông chữ Unicode
+PHỤ LỤC 2
+HƯỚNG DẪN
+ĐIỀN THÔNG TIN THUỐC, VẬT TƯ Y TẾ
+(Ban hành kèm theo
+Công văn số 908/BYT-BH ngày 22/02/2016 của Bộ Y tế)
+1. Mã thuốc tân dược thanh toán bảo
+hiểm y tế
+1.1. Mã hoạt chất:
+- Thuốc đơn chất, thuốc đa chất có quy
+định trong Thông tư số 40/2014/TT-BYT được mã hóa bằng chuỗi ký tự chứa số
+Thông tư và số thứ tự tại cột 2 ( cột số thứ tự thuốc). Giữa số Thông tư và số
+thứ tự phân cách bằng dấu chấm “.”;
+Ví dụ: Thuốc Falipan có thành phần
+là Lidocain hydroclorid. Trong đó Lidocain (hydroclorid) có số thứ tự tại cột 2
+trong Thông tư số 40 là 12. Mã hoạt chất của thuốc Falipan được mã hóa là
+“40.12”.
+- Thuốc đa chất chưa quy định trong
+Thông tư số 40/2014/TT-BYT được mã hóa bằng chuỗi ký tự chứa số Thông tư và số
+thứ tự của từng hoạt chất tại cột 1 (cột số thứ tự hoạt chất), giữa số Thông tư
+và số thứ tự hoạt chất phân cách bằng dấu chấm “.”, giữa số thứ tự của từng
+hoạt chất tại cột 1 được phân cách nhau bằng dấu cộng “+”.
+Ví dụ: Thuốc Greatcet có thành phần
+Acetaminophen 325mg và Tramadol HCl 37,5mg. Trong đó Acetaminophen, Tramadol có
+số thứ tự tại cột 1 trong Thông tư số 40 lần lượt là 43 và 47. Mã hoạt chất của
+thuốc Greatcet được mã hóa là: “40.43+47”.
+- Thuốc phóng xạ và hợp chất đánh
+dấu được ghi theo Bảng 2, Phụ lục số 01 ban hành kèm theo Quyết định số
+5084/QĐ-BYT ngày 30/11/2015.
+1.2. Mã đường dùng được quy định tại
+Phụ lục số 01 ban hành theo Quyết định số 5084/QĐ-BYT của Bộ Y tế.
+1.3. Mã số đăng ký:
+- Trường hợp thuốc đã có số đăng ký
+do Cục Quản lý Dược cấp, mã số đăng ký là số đăng ký đã được cấp. Mã số đăng ký
+không chứa các ký tự đặc biệt như gạch chéo “/” hoặc ký tự trống “ ’’.
+Ví dụ: Thuốc Gramadol Capsules có số
+đăng ký là VD-8283-09 thì mã số đăng ký của thuốc Gramadol Capsules là
+“VD-8283-09”.
+- Trường hợp thuốc chưa có số đăng
+ký nhưng có giấy phép nhập khẩu do Cục Quản lý Dược cấp thì được mã hóa theo số
+giấy phép nhập khẩu, 2 ký tự cuối của năm cấp giấy phép và số thứ tự của thuốc
+đó trong danh Mục thuốc được cấp phép nhập khẩu. Số giấy phép nhập khẩu, năm
+cấp phép và số thứ tự của thuốc được phân cách bằng dấu chấm “.”. Mã mặt hàng
+thuốc không chứa các ký tự đặc biệt như “/” hoặc “-”.
+Ví dụ: Thuốc Aciclovir được cấp giấy
+phép nhập khẩu theo Công văn số 12628/QLD-KD ngày 21/10/2015, số thứ tự trong
+danh Mục được cấp phép nhập khẩu là 23 sẽ được mã hóa là: “12628.KD.15.23”.
+- Thuốc tự bào chế
+Thuốc tự bào chế được mã hóa theo
+chữ cái “TD” (tân dược), mã của cơ sở khám chữa bệnh, hai ký tự cuối của năm
+ban hành và số thứ tự của thuốc trong danh Mục thuốc tự bào chế do thủ trưởng
+cơ sở khám chữa bệnh ban hành, cách nhau bằng dấu chấm “.”. Mã thuốc tự bào chế
+được ghi vào trường “so_dang_ky” của Bảng 1 Phụ lục 1
+Ví dụ : Thuốc A được bào chế tại cơ
+sở khám chữa bệnh B có mã cơ sở khám chữa bệnh là 19010. Thuốc A có số thứ tự
+trong danh Mục thuốc tự bào chế do thủ trưởng cơ sở khám chữa bệnh ban hành
+trong năm 2015 là 3; Mã thuốc tự bào chế A là “TD.19010.15.3”.
+2. Mã thuốc y học cổ truyền thanh
+toán bảo hiểm y tế
+2.1. Mã thành phần thuốc đối với chế
+phẩm thuốc đông y, thuốc từ dược liệu được quy định tại Phụ lục 4 ban hành kèm
+theo Công văn này. Mã thành phần được ghi vào trường “ma_hoat_chat” của Bảng 1
+Phụ lục 1.
+2.2. Mã đường dùng được quy định tại
+Phụ lục số 01 ban hành theo Quyết định số 5084/QĐ-BYT của Bộ Y tế.
+2.3. Mã số đăng ký:
+- Trường hợp thuốc đã có số đăng ký
+do Cục Quản lý Dược cấp, mã số đăng ký là số đăng ký đã được cấp. Mã số đăng ký
+không chứa các ký tự đặc biệt như gạch chéo “/” hoặc ký tự trống “ ’’.
+Ví dụ: Thuốc Bình can ACP được Cục
+Quản lý Dược cấp số đăng ký là GC-220-14 thì mã số đăng ký là “GC-220-14”.
+- Thuốc tự bào chế
+Thuốc tự bào chế được mã hóa theo
+chữ cái “CP” (chế phẩm), mã của cơ sở khám chữa bệnh, hai ký tự cuối của năm
+ban hành và số thứ tự của thuốc trong danh Mục thuốc tự bào chế do thủ trưởng
+cơ sở khám chữa bệnh ban hành, cách nhau bằng dấu chấm “.”. Mã thuốc tự bào chế
+được ghi vào trường “so_dang_ky” của Bảng 1 Phụ lục 1.
+Ví dụ: Thuốc C được bào chế tại cơ
+sở khám chữa bệnh B có mã cơ sở khám chữa bệnh là 19010. Thuốc C có số thứ tự
+trong danh Mục thuốc tự bào chế do thủ trưởng cơ sở khám chữa bệnh ban hành năm
+2015 là 3. Mã thuốc tự bào chế C là “CP.19010.15.3”.
+3. Mã vật tư y tế thanh toán bảo
+hiểm y tế
+Mã vật tư y tế thuộc phạm vi thanh
+toán của quỹ bảo hiểm y tế là tổ hợp của mã nhóm vật tư y tế quy định tại cột 3
+của Phụ lục 5 ban hành kèm theo Công văn này và mã hiệu sản phẩm được nhà sản
+xuất in trên bao bì hoặc trên sản phẩm; giữa mã nhóm vật tư y tế và mã hiệu sản
+phẩm cách nhau bằng dấu chấm “.”.
+Ví dụ: Khớp toàn phần nhân tạo các
+loại có mã nhóm vật tư y tế quy định tại cột 3 của Phụ lục 5 ban hành kèm theo
+Công văn này là N06.04.050.1, bộ khớp háng lưỡng cực Multipolar Bipolar có xi
+măng chuôi ngắn thuộc nhóm khớp toàn phần nhân tạo có 08 thành phần chi tiết
+được mã hóa như sau:
+1. Vỏ đầu chỏm Bipolar (mã hiệu sản
+phẩm 5001-38) được mã hóa là: N06.04.050.1.5001-38
+2. Lót đầu chỏm Bipolar (mã hiệu sản
+phẩm 5001-38-22) được mã hóa là: N06.04.050.1.5001-38-22
+3. Chỏm khớp (mã hiệu sản phẩm 8011-01-22)
+được mã hóa là: N06.04.050.1.8011-01-22
+4. Chuôi khớp (mã hiệu sản phẩm 8011-00-05)
+được mã hóa là: N06.04.050.1.8011-00-05
+5. Định vị trung tâm (mã hiệu sản
+phẩm 32-8333-55) được mã hóa là: N06.04.050.1.32-8333-55
+6. Nút chặn (mã hiệu sản phẩm 8011-20-12)
+được mã hóa là: N06.04.050.1.8011-20-12
+7. Bơm xi măng (mã hiệu sản phẩm 5069-52)
+mã hóa là: N06.04.050.1.5069-52
+8. Xi măng (mã hiệu sản phẩm
+1102-12) mã hóa là: N06.04.050.1.1102-12
+PHỤ LỤC 3
+HƯỚNG DẪN
+CẬP NHẬT DANH MỤC THUỐC, VẬT TƯ Y TẾ SỬ DỤNG TẠI CƠ SỞ KHÁM BỆNH, CHỮA BỆNH LÊN
+HỆ THỐNG QUẢN LÝ DANH MỤC DÙNG CHUNG
+(Ban hành kèm theo Công
+văn số 908/BYT-BH ngày 22/02/2016 của Bộ Y tế)
+Đăng nhập hệ thống
+- Bước 1: Người dùng vào hệ thống
+theo đường link: dmdc.csdlyt.vn
+- Bước 2: Nhập tên đăng nhập và mật
+khẩu theo quy tắc sau:
+Tên đăng nhập: mã cơ sở khám chữa
+bệnh_dmdc (ví dụ: 19002_dmdc)
+(Mã cơ sở khám chữa bệnh được quy
+định tại Phụ lục số 8 Quyết định số 5084/QĐ-BYT ngày 30/11/2015 của Bộ Y tế)
+Mật khẩu:
+Vtict@123
+- Bước 3: Người dùng thực hiện nhập
+mật khẩu mới (yêu cầu mật khẩu phải đầy đủ chữ thường, chữ hoa, số, ký tự đặc
+biệt và độ dài ít nhất 8 ký tự)
+1. Chuẩn hóa Danh Mục thuốc
+1.1. Thêm mới dữ liệu thuốc tại cơ
+sở KCB
+Ý nghĩa: Cho phép người sử dụng thêm
+mới dữ liệu danh Mục thuốc tại bệnh viện bằng file excel.
+Thao tác: Tại màn hình danh Mục thuốc
+tại cơ sở KCB, nhấn chọn “Thêm dữ liệu” để thực hiện thêm mới dữ liệu, màn hình
+thêm mới hiển thị:
+Bước 1: Tại màn hình thêm mới này,
+người dùng thực hiện tải file mẫu tại link “File thu thập” để nhập thông tin
+danh Mục theo phụ lục 1, sau đó chọn các thông tin cần thiết, nhấn chọn đến
+file excel đã có tại link “Chọn file” để thực hiện thêm dữ liệu vào hệ thống.
+Bước 2: Hệ thống thực hiện đọc dữ
+liệu file excel, nhấn “Lưu dữ liệu” để thực hiện thêm dữ liệu vào hệ thống,
+nhấn “Đóng” để hủy bỏ thao tác.
+1.2. Chuẩn hóa thuốc bệnh viện
+Ý nghĩa: Cho phép người sử dụng
+chuẩn hóa thủ công dữ liệu danh Mục thuốc tại bệnh viện với danh Mục hoạt chất
+và đường dùng theo thông tư 40, 05 (thực hiện đối với các thuốc sai tên, đường
+dùng…).
+Thao tác: Vào chức năng Chuẩn hóa
+danh Mục → Danh Mục thuốc. Màn hình thông tin hiển thị như sau:
+Quy trình chuẩn hóa thủ công:
+Bước 1: Người dùng thực hiện tìm
+kiếm các thuốc chưa chuẩn hóa (thuốc chưa có mã BYT, cần kiểm tra lại) ở màn
+hình bên trái.
+Bước 2: Tìm danh Mục thuốc trong
+danh Mục chuẩn của BYT (ở màn hình bên phải).
+Bước 3: Sau khi chọn đúng thuốc
+trong danh Mục của BYT, nhấn “Đồng ý” để thực hiện chuẩn hóa.
+Chú ý: Người dùng có thể chọn danh Mục
+thuốc để loại bỏ không thực hiện chuẩn hóa bằng cách chọn danh Mục muốn loại bỏ
+không chuẩn hóa và nhấn
+Loại bỏ
+.
+2. Danh Mục vật tư y tế
+2.1. Thêm mới danh Mục vật tư y tế
+tại cơ sở KCB
+- Ý nghĩa: Cho phép người import
+file danh Mục vật tư y tế của cơ sở khám chữa bệnh lên hệ thống.
+- Thao tác: Tại màn hình danh Mục
+vật tư y tế tại cơ sở KCB, nhấn chọn “Thêm dữ liệu” để thực hiện thêm mới dữ
+liệu, màn hình thêm mới hiển thị:
+Bước 1: Nhập thông tin Tỉnh và chọn
+file dữ liệu cần import lên hệ thống (file mẫu để điền thông tin danh Mục theo
+phụ lục 1 có thể tải từ link “Tải file mẫu”).
+Bước 2: Chọn “Lưu dữ liệu” để lưu dữ
+liệu danh Mục vật tư y tế của cơ sở KCB.
+Xuất dữ liệu: Cho phép người dùng có
+thể xuất dữ liệu danh Mục vật tư y tế của cơ sở KCB ra file excel.
+2.2. Khai báo - chuẩn hóa vật tư y
+tế tại bệnh viện
+Ý nghĩa: Cho phép người sử dụng có
+thể tìm kiếm, thêm dữ liệu hoặc xuất dữ liệu danh sách vật tư y tế bệnh viện;
+thực hiện chuẩn hóa vật tư y tế bệnh viện với danh Mục nhóm vật tư y tế theo
+quyết định 5084.
+Thao tác: Vào chức năng chuẩn hóa
+danh Mục → Danh Mục vật tư y tế. Màn hình hiển thị như sau:
+Quy trình chuẩn hóa thủ công:
+Bước 1: Chọn vật tư y tế cần chuẩn
+hóa trong danh sách vật tư y tế của cơ sở KCB → tên VTYT cần chuẩn hóa sẽ được
+đưa vào ô text để thực hiện tìm kiếm VTYT đó bên danh Mục vật tư y tế theo quyết
+định 5084.
+Bước 2: Tích chọn VTYT tương ứng ở
+danh Mục vật tư y tế theo quyết định 5084 ở màn hình bên phải
+Bước 3: Chọn “Đồng ý” để hoàn thành
+thao tác chuẩn hóa.
+PHỤ LỤC 4
+BẢNG MÃ THÀNH PHẦN CHẾ PHẨM Y HỌC CỔ
+TRUYỀN THEO THÔNG TƯ SỐ 05/2015/TT-BYT
+(Ban hành kèm theo Công văn số           /BYT-BH ngày     /02/2016 của Bộ Y
+tế)
+STT
+MÃ THÀNH PHẦN
+Thành phần thuốc
+Đường dùng
+1
+05C.1
+Gừng
+Uống
+2
+05C.2.1
+Hoắc hương, Tía tô, Bạch chỉ, Bạch linh, Đại phúc bì,
+  Thương truật, Hậu phác, Trần bì, Cam thảo, Bán hạ
+Uống
+3
+05C.2.2
+Hoắc hương, Tía tô, Bạch chỉ, Bạch linh, Đại phúc bì,
+  Thương truật, Hậu phác, Trần bì, Cam thảo,Bán hạ chế
+Uống
+4
+05C.2.3
+Hoắc hương, Tía tô, Bạch chỉ,Phục linh, Đại phúc bì,
+  Thương truật, Hậu phác, Trần bì, Cam thảo, Bán hạ
+Uống
+5
+05C.2.4
+Hoắc hương, Tía tô, Bạch chỉ,Phục linh, Đại phúc bì,
+  Thương truật, Hậu phác, Trần bì, Cam thảo,Bán hạ chế
+Uống
+6
+05C.2.5
+Hoắc hương,Tử tô diệp, Bạch chỉ, Bạch linh, Đại phúc bì,
+  Thương truật, Hậu phác, Trần bì, Cam thảo, Bán hạ
+Uống
+7
+05C.2.6
+Hoắc hương,Tử tô diệp, Bạch chỉ, Bạch linh, Đại phúc bì,
+  Thương truật, Hậu phác, Trần bì, Cam thảo,Bán hạ chế
+Uống
+8
+05C.2.7
+Hoắc hương,Tử tô diệp, Bạch chỉ,Phục linh, Đại phúc bì,
+  Thương truật, Hậu phác, Trần bì, Cam thảo, Bán hạ
+Uống
+9
+05C.2.8
+Hoắc hương,Tử tô diệp, Bạch chỉ,Phục linh, Đại phúc bì,
+  Thương truật, Hậu phác, Trần bì, Cam thảo,Bán hạ chế
+Uống
+10
+05C.2.9
+Quảng hoắc hương, Tía tô, Bạch chỉ, Bạch linh, Đại phúc
+  bì, Thương truật, Hậu phác, Trần bì, Cam thảo, Bán hạ
+Uống
+11
+05C.2.10
+Quảng hoắc hương, Tía tô, Bạch chỉ, Bạch linh, Đại phúc
+  bì, Thương truật, Hậu phác, Trần bì, Cam thảo,Bán hạ chế
+Uống
+12
+05C.2.11
+Quảng hoắc hương, Tía tô, Bạch chỉ,Phục linh, Đại phúc bì,
+  Thương truật, Hậu phác, Trần bì, Cam thảo, Bán hạ
+Uống
+13
+05C.2.12
+Quảng hoắc hương, Tía tô, Bạch chỉ,Phục linh, Đại phúc bì,
+  Thương truật, Hậu phác, Trần bì, Cam thảo,Bán hạ chế
+Uống
+14
+05C.2.13
+Quảng hoắc hương,Tử tô diệp, Bạch chỉ, Bạch linh, Đại phúc
+  bì, Thương truật, Hậu phác, Trần bì, Cam thảo, Bán hạ
+Uống
+15
+05C.2.14
+Quảng hoắc hương,Tử tô diệp, Bạch chỉ, Bạch linh, Đại phúc
+  bì, Thương truật, Hậu phác, Trần bì, Cam thảo,Bán hạ chế
+Uống
+16
+05C.2.15
+Quảng hoắc hương,Tử tô diệp, Bạch chỉ,Phục linh, Đại phúc
+  bì, Thương truật, Hậu phác, Trần bì, Cam thảo, Bán hạ
+Uống
+17
+05C.2.16
+Quảng hoắc hương,Tử tô diệp, Bạch chỉ,Phục linh, Đại phúc
+  bì, Thương truật, Hậu phác, Trần bì, Cam thảo,Bán hạ chế
+Uống
+18
+05C.2.17
+Hoắc hương, Tía tô, Bạch chỉ, Bạch linh, Đại phúc bì,
+  Thương truật, Hậu phác, Trần bì, Cam thảo, Bán hạ, Cát cánh, Can khương
+Uống
+19
+05C.2.18
+Hoắc hương, Tía tô, Bạch chỉ, Bạch linh, Đại phúc bì,
+  Thương truật, Hậu phác, Trần bì, Cam thảo,Bán hạ chế, Cát cánh, Can khương
+Uống
+20
+05C.2.19
+Hoắc hương, Tía tô, Bạch chỉ,Phục linh, Đại phúc bì,
+  Thương truật, Hậu phác, Trần bì, Cam thảo, Bán hạ, Cát cánh, Can khương
+Uống
+21
+05C.2.20
+Hoắc hương, Tía tô, Bạch chỉ,Phục linh, Đại phúc bì,
+  Thương truật, Hậu phác, Trần bì, Cam thảo,Bán hạ chế, Cát cánh, Can khương
+Uống
+22
+05C.2.21
+Hoắc hương,Tử tô diệp, Bạch chỉ, Bạch linh, Đại phúc bì,
+  Thương truật, Hậu phác, Trần bì, Cam thảo, Bán hạ, Cát cánh, Can khương
+Uống
+23
+05C.2.22
+Hoắc hương,Tử tô diệp, Bạch chỉ, Bạch linh, Đại phúc bì,
+  Thương truật, Hậu phác, Trần bì, Cam thảo,Bán hạ chế, Cát cánh, Can khương
+Uống
+24
+05C.2.23
+Hoắc hương,Tử tô diệp, Bạch chỉ,Phục linh, Đại phúc bì,
+  Thương truật, Hậu phác, Trần bì, Cam thảo, Bán hạ, Cát cánh, Can khương
+Uống
+25
+05C.2.24
+Hoắc hương,Tử tô diệp, Bạch chỉ,Phục linh, Đại phúc bì,
+  Thương truật, Hậu phác, Trần bì, Cam thảo,Bán hạ chế, Cát cánh, Can khương
+Uống
+26
+05C.2.25
+Quảng hoắc hương, Tía tô, Bạch chỉ, Bạch linh, Đại phúc
+  bì, Thương truật, Hậu phác, Trần bì, Cam thảo, Bán hạ, Cát cánh, Can khương
+Uống
+27
+05C.2.26
+Quảng hoắc hương, Tía tô, Bạch chỉ, Bạch linh, Đại phúc
+  bì, Thương truật, Hậu phác, Trần bì, Cam thảo,Bán hạ chế, Cát cánh, Can
+  khương
+Uống
+28
+05C.2.27
+Quảng hoắc hương, Tía tô, Bạch chỉ,Phục linh, Đại phúc bì,
+  Thương truật, Hậu phác, Trần bì, Cam thảo, Bán hạ, Cát cánh, Can khương
+Uống
+29
+05C.2.28
+Quảng hoắc hương, Tía tô, Bạch chỉ,Phục linh, Đại phúc bì,
+  Thương truật, Hậu phác, Trần bì, Cam thảo,Bán hạ chế, Cát cánh, Can khương
+Uống
+30
+05C.2.29
+Quảng hoắc hương,Tử tô diệp, Bạch chỉ, Bạch linh, Đại phúc
+  bì, Thương truật, Hậu phác, Trần bì, Cam thảo, Bán hạ, Cát cánh, Can khương
+Uống
+31
+05C.2.30
+Quảng hoắc hương,Tử tô diệp, Bạch chỉ, Bạch linh, Đại phúc
+  bì, Thương truật, Hậu phác, Trần bì, Cam thảo,Bán hạ chế, Cát cánh, Can
+  khương
+Uống
+32
+05C.2.31
+Quảng hoắc hương,Tử tô diệp, Bạch chỉ,Phục linh, Đại phúc
+  bì, Thương truật, Hậu phác, Trần bì, Cam thảo, Bán hạ, Cát cánh, Can khương
+Uống
+33
+05C.2.32
+Quảng hoắc hương,Tử tô diệp, Bạch chỉ,Phục linh, Đại phúc
+  bì, Thương truật, Hậu phác, Trần bì, Cam thảo,Bán hạ chế, Cát cánh, Can
+  khương
+Uống
+34
+05C.3.1
+Sài hồ, Tiền hồ, Xuyên khung, Chỉ xác, Khương hoạt, Độc
+  hoạt, Phục linh, Cát cánh, Nhân sâm, Cam thảo
+Uống
+35
+05C.3.2
+Sài hồ, Tiền hồ, Xuyên khung, Chỉ xác, Khương hoạt, Độc
+  hoạt, Phục linh, Cát cánh, Đảng sâm, Cam thảo
+Uống
+36
+05C.3.3
+Sài hồ, Tiền hồ, Xuyên khung, Chỉ xác, Khương hoạt, Độc
+  hoạt,Bạch linh, Cát cánh, Nhân sâm, Cam thảo
+Uống
+37
+05C.3.4
+Sài hồ, Tiền hồ, Xuyên khung, Chỉ xác, Khương hoạt, Độc
+  hoạt,Bạch linh, Cát cánh, Đảng sâm, Cam thảo
+Uống
+38
+05C.4.1
+Thanh cao, Kim ngân hoa, Địa liền, Tía tô, Kinh giới,
+  Thích gia đằng, Bạc hà
+Uống
+39
+05C.4.2
+Thanh hao, Kim ngân hoa, Địa liền, Tía tô, Kinh giới,
+  Thích gia đằng, Bạc hà
+Uống
+40
+05C.5
+Xuyên khung, Bạch chỉ, Hương phụ, Quế,  Gừng,  Cam thảo
+  bắc
+Uống
+41
+05C.6
+Xuyên khung, Khương hoạt, bạch chỉ, Hoàng cầm, Phòng
+  phong, Sinh địa, Thương truật, Cam thảo, Tế tân
+Uống
+42
+05C.7
+Actisô
+Uống
+43
+05C.8.1
+Actiso, Biển súc, Bìm bìm
+Uống
+44
+05C.8.2
+Actiso, Biển súc, Bìm bìm biếc
+Uống
+45
+05C.8.3
+Actiso, Biển súc, Bìm bìm, Nghệ
+Uống
+46
+05C.8.4
+Actiso, Biển súc, Bìm bìm biếc, Nghệ
+Uống
+47
+05C.8.5
+Actiso, Biển súc,Bìm bìm, Diệp hạ châu
+Uống
+48
+05C.8.6
+Actiso, Biển súc,Bìm bìm biếc, Diệp hạ châu
+Uống
+49
+05C.8.7
+Actiso, Biển súc,Bìm bìm , Diệp hạ châu, Nghệ
+Uống
+50
+05C.8.8
+Actiso, Biển súc,Bìm bìm biếc, Diệp hạ châu, Nghệ
+Uống
+51
+05C.8.9
+Actiso,Rau đắng đất, Bìm bìm
+Uống
+52
+05C.8.10
+Actiso,Rau đắng đất, Bìm bìm biếc
+Uống
+53
+05C.8.11
+Actiso,Rau đắng đất, Bìm bìm, Nghệ
+Uống
+54
+05C.8.12
+Actiso,Rau đắng đất, Bìm bìm biếc, Nghệ
+Uống
+55
+05C.8.13
+Actiso,Rau đắng đất,Bìm bìm, Diệp hạ châu
+Uống
+56
+05C.8.14
+Actiso,Rau đắng đất,Bìm bìm biếc, Diệp hạ châu
+Uống
+57
+05C.8.15
+Actiso,Rau đắng đất,Bìm bìm, Diệp hạ châu, Nghệ
+Uống
+58
+05C.8.16
+Actiso,Rau đắng đất,Bìm bìm biếc, Diệp hạ châu, Nghệ
+Uống
+59
+05C.9
+Actiso, Cao mật lợn khô, Tỏi, Than hoạt tính
+Uống
+60
+05C.10.1
+Actiso, Rau đắng, Bìm bìm
+Uống
+61
+05C.10.2
+Actiso, Rau đắng đất,Dứa gai
+Uống
+62
+05C.10.4
+Actiso, Rau đắng,Dứa gai
+Uống
+63
+05C.11
+Actiso, Rau má
+Uống
+64
+05C.12
+Actiso, Sài đất, Thương nhĩ tử, Kim ngân, Hạ khô thảo
+Uống
+65
+05C.13
+Bạch mao căn, Đương quy, Kim tiền thảo, Xa tiền tử, Ý dĩ,
+  Sinh địa
+Uống
+66
+05C.14
+Bạch thược, Bạch truật, Cam thảo, Diệp hạ châu, Đương quy,
+  Đảng sâm, Nhân trần, Phục linh, Trần bì.
+Uống
+67
+05C.15
+Bồ bồ
+Uống
+68
+05C.16
+Bồ công anh, Kim ngân hoa, Thương nhĩ tử, Hạ khô thảo, Thổ
+  phục linh, Huyền sâm, Sài đất
+Uống
+69
+05C.17
+Cam thảo, Bạch mao căn, Bạch thược, Đan sâm, Bản lam căn,
+  Hoắc hương, Sài hồ, Liên kiều, Thần khúc, Chỉ thực, Mạch nha, Nghệ
+Uống
+70
+05C.18
+Cao khô lá dâu tằm
+Uống
+71
+05C.19
+Cỏ tranh, Sâm đại hành, Actiso, Cỏ mực, Lá dâu tằm, Sả,
+  Cam thảo, Ké đầu ngựa, Gừng tươi, Vỏ quýt
+Uống
+72
+05C.20
+Diếp cá, Rau má
+Uống
+73
+05C.21
+Diệp hạ châu
+Uống
+74
+05C.22
+Diệp hạ châu, Bồ bồ, Chi tử
+Uống
+75
+05C.23
+Diệp hạ châu, Bồ công anh, Nhân trần
+Uống
+76
+05C.24
+Diệp hạ châu, Chua ngút, Cỏ nhọ nồi
+Uống
+77
+05C.25
+Diệp hạ châu, Hoàng bá, Mộc hương, Quế nhục, Tam thất
+Uống
+78
+05C.26.1
+Diệp hạ châu, Nhân trần, Cỏ nhọ nồi, Râu ngô
+Uống
+79
+05C.26.2
+Diệp hạ châu, Nhân trần, Cỏ nhọ nồi, Râu bắp
+Uống
+80
+05C.26.3
+Diệp hạ châu, Nhân trần, Cỏ nhọ nồi, Râu ngô, Kim ngân hoa
+Uống
+81
+05C.26.4
+Diệp hạ châu, Nhân trần, Cỏ nhọ nồi, Râu bắp, Kim ngân hoa
+Uống
+82
+05C.26.5
+Diệp hạ châu, Nhân trần, Cỏ nhọ nồi, Râu ngô, Kim ngân
+  hoa, Nghệ
+Uống
+83
+05C.26.6
+Diệp hạ châu, Nhân trần, Cỏ nhọ nồi, Râu bắp, Kim ngân
+  hoa, Nghệ
+Uống
+84
+05C.26.7
+Diệp hạ châu, Nhân trần, Cỏ nhọ nồi, Râu ngô, Nghệ
+Uống
+85
+05C.26.8
+Diệp hạ châu, Nhân trần, Cỏ nhọ nồi, Râu bắp, Nghệ
+Uống
+86
+05C.27
+Diệp hạ châu, Tam thất, Kim ngân hoa, Cam thảo, Thảo quyết
+  minh,  Cúc hoa
+Uống
+87
+05C.28
+Diệp hạ châu, Xuyên tâm liên, Bồ công anh, Cỏ mực.
+Uống
+88
+05C.29
+Hoạt thạch, Cam thảo
+Uống
+89
+05C.30
+Kim ngân, Hoàng cầm, Liên kiều, Thăng ma
+Uống
+90
+05C.31
+Kim ngân hoa, Ké đầu ngựa
+Uống
+91
+05C.32.1
+Kim ngân hoa, Liên kiều, Cát cánh, Bạc hà, Đạm trúc diệp,
+  Cam thảo, Kinh giới tuệ, Ngưu bàng tử
+Uống
+92
+05C.32.2
+Kim ngân hoa, Liên kiều, Cát cánh, Bạc hà, Đạm trúc diệp,
+  Cam thảo, Kinh giới, Ngưu bàng tử
+Uống
+93
+05C.32.3
+Kim ngân hoa, Liên kiều, Cát cánh, Bạc hà, Đạm trúc diệp,
+  Cam thảo, Kinh giới tuệ, Ngưu bàng tử, Đạm đậu sị
+Uống
+94
+05C.32.4
+Kim ngân hoa, Liên kiều, Cát cánh, Bạc hà, Đạm trúc diệp,
+  Cam thảo, Kinh giới, Ngưu bàng tử, Đạm đậu sị
+Uống
+95
+05C.33
+Kim ngân hoa, Liên kiều, Diệp hạ châu, Bồ công anh, Mẫu
+  đơn bì, Đại hoàng.
+Uống
+96
+05C.34
+Kim ngân hoa, Nhân trần, Thương nhĩ tử, Nghệ, Sinh địa, Bồ
+  công anh, Cam thảo
+Uống
+97
+05C.35
+Kim tiền thảo
+Uống
+98
+05C.36
+Kim tiền thảo, Chỉ thực, Nhân trần, Hậu phác, Hoàng cầm,
+  Bạch mao căn, Nghệ, Binh lang, Mộc hương, Đại hoàng
+Uống
+99
+05C.37.1
+Kim tiền thảo, Râu mèo
+Uống
+100
+05C.37.2
+Kim tiền thảo, Râu ngô
+Uống
+101
+05C.38.1
+Kim tiền thảo, Trạch tả
+Uống
+102
+05C.38.2
+Kim tiền thảo, Trạch tả, Đường kính trắng
+Uống
+103
+05C.38.3
+Kim tiền thảo, Trạch tả, Thục địa
+Uống
+104
+05C.38.4
+Kim tiền thảo, Trạch tả, Thục địa, Đường kính trắng
+Uống
+105
+05C.39
+Long đởm, Actiso, Chi tử,  Đại hoàng, Trạch tả, Địa hoàng,
+  Nhân trần, Hoàng cầm, Sài hồ, Cam thảo
+Uống
+106
+05C.40
+Long đởm, Sài hồ, Nhân trần, Kim ngân hoa, Hoàng cầm, Sinh
+  địa, Trạch tả, Chi tử, Đương qui, Xa tiền tử, Cam thảo
+Uống
+107
+05C.41.1
+Long đởm thảo, Chi tử, Đương quy, Sài hồ, Hoàng cầm, Trạch
+  tả, Xa tiền tử, Sinh địa, Cam thảo
+Uống
+108
+05C.41.2
+Long đởm thảo, Chi tử, Đương quy, Sài hồ, Hoàng cầm, Trạch
+  tả, Xa tiền tử,Địa hoàng, Cam thảo
+Uống
+109
+05C.41.3
+Long đởm thảo, Chi tử, Đương quy, Sài hồ, Hoàng cầm, Trạch
+  tả, Xa tiền tử, Sinh địa, Cam thảo, Mộc thông
+Uống
+110
+05C.41.4
+Long đởm thảo, Chi tử, Đương quy, Sài hồ, Hoàng cầm, Trạch
+  tả, Xa tiền tử,Địa hoàng, Cam thảo, Mộc thông
+Uống
+111
+05C.42
+Nghể hoa đầu
+Uống
+112
+05C.43
+Ngưu hoàng, Thạch cao, Đại hoàng, Hoàng cầm, Cát cánh, Cam
+  thảo, Băng phiến
+Uống
+113
+05C.44
+Nhân trần, Bồ công anh, Cúc hoa, Actiso, Cam thảo, Kim
+  ngân hoa
+Uống
+114
+05C.45.1
+Nhân trần, Trạch tả, Đại hoàng, Sinh địa, Đương qui, Mạch
+  môn, Long đởm, Chi tử, Hoàng cầm
+Uống
+115
+05C.45.2
+Nhân trần, Trạch tả, Đại hoàng, Sinh địa, Đương qui, Mạch
+  môn, Long đởm, Chi tử, Hoàng cầm, Cam thảo
+Uống
+116
+05C.45.3
+Nhân trần, Trạch tả, Đại hoàng, Sinh địa, Đương qui, Mạch
+  môn, Long đởm, Chi tử, Hoàng cầm, Mộc thông
+Uống
+117
+05C.45.4
+Nhân trần, Trạch tả, Đại hoàng, Sinh địa, Đương qui, Mạch
+  môn, Long đởm, Chi tử, Hoàng cầm, Cam thảo, Mộc thông
+Uống
+118
+05C.46
+Pygeum africanum
+Uống
+119
+05C.47.1
+Râu mèo, Actiso
+Uống
+120
+05C.47.2
+Râu mèo, Actiso, Sorbitol
+Uống
+121
+05C.48
+Sài đất, Kim ngân hoa, thổ phục linh, Thương nhĩ tử, Bồ
+  công anh, Sinh địa, Thảo quyết minh
+Uống
+122
+05C.49
+Sài đất, Thương nhĩ tử, Kinh giới, Thổ phục linh, Phòng
+  phong, Đại hoàng, Kim ngân hoa, Liên kiều, Hoàng liên, bạch chỉ, Cam thảo
+Uống
+123
+05C.50
+Sài hồ, Bạch truật, Gừng tươi, Bạch linh, Đương quy, Bạch
+  thược, Cam thảo, Bạc hà
+Uống
+124
+05C.51
+Than hoạt, Cao cam thảo, Calci carbonat, Tricalci
+  phosphate
+Uống
+125
+05C.52
+Cam thảo, Đương quy, Hoàng kỳ, Khương hoạt, Khương hoàng,
+  Phòng phong, Xích thược, Can khương.
+Uống
+126
+05C.53
+Cao toàn phần không xà phòng hóa quả bơ, Cao toàn phần
+  không xà phòng hóa dầu đậu nành
+Uống
+127
+05C.54.1
+Cao xương hỗn hợp, Hoàng bá, Tri mẫu, Trần bì, Bạch thược,
+  Can khương, Thục địa
+Uống
+128
+05C.54.2
+Cao quy bản, Hoàng bá, Tri mẫu, Trần bì, Bạch thược, Can
+  khương, Thục địa
+Uống
+129
+05C.55.1
+Đỗ trọng, Ngũ gia bì chân chim, Thiên niên kiện, Tục đoạn,
+  Đại hoàng, Xuyên khung, Tần giao, Sinh địa, Uy linh tiên, Đương quy, Quế, Cam
+  thảo
+Uống
+130
+05C.55.2
+Đỗ trọng, Ngũ gia bì chân chim, Thiên niên kiện, Tục đoạn,
+  Đại hoàng, Xuyên khung, Tần giao, Sinh địa, Uy linh tiên, Đương quy,Quế chi,
+  Cam thảo
+Uống
+131
+05C.55.3
+Đỗ trọng,Ngũ gia bì, Thiên niên kiện, Tục đoạn, Đại hoàng,
+  Xuyên khung, Tần giao, Sinh địa, Uy linh tiên, Đương quy, Quế, Cam thảo
+Uống
+132
+05C.55.4
+Đỗ trọng,Ngũ gia bì, Thiên niên kiện, Tục đoạn, Đại hoàng,
+  Xuyên khung, Tần giao, Sinh địa, Uy linh tiên, Đương quy,Quế chi, Cam thảo
+Uống
+133
+05C.56
+Độc hoạt, Phòng phong, Tang ký sinh, Đỗ trọng, Ngưu tất,
+  Trinh nữ, Hồng hoa, Bạch chỉ, Tục đoạn, Bổ cốt chỉ
+Uống
+134
+05C.57.1
+Độc hoạt, Phòng phong, Tang ký sinh, Tần giao, Bạch thược,
+  Ngưu tất , Sinh địa, Cam thảo, Đỗ trọng , Tế tân, Quế nhục, Nhân sâm, Đương
+  quy, Xuyên khung
+Uống
+135
+05C.57.2
+Độc hoạt, Phòng phong, Tang ký sinh, Tần giao, Bạch thược,
+  Ngưu tất , Sinh địa, Cam thảo, Đỗ trọng , Tế tân, Quế nhục,Đảng sâm, Đương
+  quy, Xuyên khung
+Uống
+136
+05C.57.3
+Độc hoạt, Phòng phong, Tang ký sinh, Tần giao, Bạch thược,
+  Ngưu tất ,Thục địa , Cam thảo, Đỗ trọng , Tế tân, Quế nhục, Nhân sâm, Đương
+  quy, Xuyên khung
+Uống
+137
+05C.57.4
+Độc hoạt, Phòng phong, Tang ký sinh, Tần giao, Bạch thược,
+  Ngưu tất ,Thục địa , Cam thảo, Đỗ trọng , Tế tân, Quế nhục,Đảng sâm, Đương
+  quy, Xuyên khung
+Uống
+138
+05C.58.1
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh, Sinh địa, Đỗ trọng, Ngưu tất, Phục
+  linh, Cam thảo
+Uống
+139
+05C.58.2
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh, Sinh địa, Đỗ trọng, Ngưu tất,Bạch
+  linh, Cam thảo
+Uống
+140
+05C.58.3
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh,Thục địa, Đỗ trọng, Ngưu tất, Phục
+  linh, Cam thảo
+Uống
+141
+05C.58.4
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh,Thục địa, Đỗ trọng, Ngưu tất,Bạch
+  linh, Cam thảo
+Uống
+142
+05C.58.5
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh, Địa hoàng, Đỗ trọng, Ngưu tất,
+  Phục linh, Cam thảo
+Uống
+143
+05C.58.6
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh, Địa hoàng, Đỗ trọng, Ngưu tất,Bạch
+  linh, Cam thảo
+Uống
+144
+05C.58.7
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh, Sinh địa, Đỗ trọng, Ngưu tất, Phục
+  linh, Cam thảo
+Uống
+145
+05C.58.8
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh, Sinh địa, Đỗ trọng, Ngưu tất,Bạch
+  linh, Cam thảo
+Uống
+146
+05C.58.9
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh,Thục địa, Đỗ trọng, Ngưu tất, Phục
+  linh, Cam thảo
+Uống
+147
+05C.58.10
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh,Thục địa, Đỗ trọng, Ngưu tất,Bạch
+  linh, Cam thảo
+Uống
+148
+05C.58.11
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh, Địa hoàng, Đỗ trọng, Ngưu tất,
+  Phục linh, Cam thảo
+Uống
+149
+05C.58.12
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh, Địa hoàng, Đỗ trọng, Ngưu tất,Bạch
+  linh, Cam thảo
+Uống
+150
+05C.58.13
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh, Sinh địa, Đỗ trọng, Ngưu tất, Phục
+  linh, Cam thảo, Đảng sâm
+Uống
+151
+05C.58.14
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Xuyên khung,
+  Tần giao, Bạch thược, Tang ký sinh, Sinh địa, Đỗ trọng, Ngưu tất,Bạch linh,
+  Cam thảo, Đảng sâm
+Uống
+152
+05C.58.15
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh,Thục địa, Đỗ trọng, Ngưu tất, Phục
+  linh, Cam thảo, Đảng sâm
+Uống
+153
+05C.58.16
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh,Thục địa, Đỗ trọng, Ngưu tất,Bạch
+  linh, Cam thảo, Đảng sâm
+Uống
+154
+05C.58.17
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh, Địa hoàng, Đỗ trọng, Ngưu tất,
+  Phục linh, Cam thảo, Đảng sâm
+Uống
+155
+05C.58.18
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh, Địa hoàng, Đỗ trọng, Ngưu tất,Bạch
+  linh, Cam thảo, Đảng sâm
+Uống
+156
+05C.58.19
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh, Sinh địa, Đỗ trọng, Ngưu tất, Phục
+  linh, Cam thảo, Đảng sâm
+Uống
+157
+05C.58.20
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh, Sinh địa, Đỗ trọng, Ngưu tất,Bạch
+  linh, Cam thảo, Đảng sâm
+Uống
+158
+05C.58.21
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh,Thục địa, Đỗ trọng, Ngưu tất, Phục
+  linh, Cam thảo, Đảng sâm
+Uống
+159
+05C.58.22
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh,Thục địa, Đỗ trọng, Ngưu tất,Bạch
+  linh, Cam thảo, Đảng sâm
+Uống
+160
+05C.58.23
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh, Địa hoàng, Đỗ trọng, Ngưu tất,
+  Phục linh, Cam thảo, Đảng sâm
+Uống
+161
+05C.58.24
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh, Địa hoàng, Đỗ trọng, Ngưu tất,Bạch
+  linh, Cam thảo, Đảng sâm
+Uống
+162
+05C.58.25
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh, Sinh địa, Đỗ trọng, Ngưu tất, Phục
+  linh, Cam thảo,Nhân sâm
+Uống
+163
+05C.58.26
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh, Sinh địa, Đỗ trọng, Ngưu tất,Bạch
+  linh, Cam thảo,Nhân sâm
+Uống
+164
+05C.58.27
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh,Thục địa, Đỗ trọng, Ngưu tất, Phục
+  linh, Cam thảo,Nhân sâm
+Uống
+165
+05C.58.28
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh,Thục địa, Đỗ trọng, Ngưu tất,Bạch
+  linh, Cam thảo,Nhân sâm
+Uống
+166
+05C.58.29
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh, Địa hoàng, Đỗ trọng, Ngưu tất,
+  Phục linh, Cam thảo,Nhân sâm
+Uống
+167
+05C.58.30
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh, Địa hoàng, Đỗ trọng, Ngưu tất,Bạch
+  linh, Cam thảo,Nhân sâm
+Uống
+168
+05C.58.31
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh, Sinh địa, Đỗ trọng, Ngưu tất, Phục
+  linh, Cam thảo,Nhân sâm
+Uống
+169
+05C.58.32
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh, Sinh địa, Đỗ trọng, Ngưu tất,Bạch
+  linh, Cam thảo,Nhân sâm
+Uống
+170
+05C.58.33
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh,Thục địa, Đỗ trọng, Ngưu tất, Phục
+  linh, Cam thảo,Nhân sâm
+Uống
+171
+05C.58.34
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh,Thục địa, Đỗ trọng, Ngưu tất,Bạch
+  linh, Cam thảo,Nhân sâm
+Uống
+172
+05C.58.35
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh, Địa hoàng, Đỗ trọng, Ngưu tất,
+  Phục linh, Cam thảo,Nhân sâm
+Uống
+173
+05C.58.36
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Xuyên
+  khung, Tần giao, Bạch thược, Tang ký sinh, Địa hoàng, Đỗ trọng, Ngưu tất,Bạch
+  linh, Cam thảo,Nhân sâm
+Uống
+174
+05C.58.37
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh, Sinh địa, Đỗ trọng,
+  Ngưu tất, Phục linh, Cam thảo
+Uống
+175
+05C.58.38
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh, Sinh địa, Đỗ trọng,
+  Ngưu tất,Bạch linh, Cam thảo
+Uống
+176
+05C.58.39
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh,Thục địa, Đỗ trọng,
+  Ngưu tất, Phục linh, Cam thảo
+Uống
+177
+05C.58.40
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh,Thục địa, Đỗ trọng,
+  Ngưu tất,Bạch linh, Cam thảo
+Uống
+178
+05C.58.41
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh, Địa hoàng, Đỗ trọng,
+  Ngưu tất, Phục linh, Cam thảo
+Uống
+179
+05C.58.42
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh, Địa hoàng, Đỗ trọng,
+  Ngưu tất,Bạch linh, Cam thảo
+Uống
+180
+05C.58.43
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh, Sinh địa, Đỗ trọng,
+  Ngưu tất, Phục linh, Cam thảo
+Uống
+181
+05C.58.44
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh, Sinh địa, Đỗ trọng,
+  Ngưu tất,Bạch linh, Cam thảo
+Uống
+182
+05C.58.45
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh,Thục địa, Đỗ trọng,
+  Ngưu tất, Phục linh, Cam thảo
+Uống
+183
+05C.58.46
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh,Thục địa, Đỗ trọng,
+  Ngưu tất,Bạch linh, Cam thảo
+Uống
+184
+05C.58.47
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh, Địa hoàng, Đỗ trọng,
+  Ngưu tất, Phục linh, Cam thảo
+Uống
+185
+05C.58.48
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh, Địa hoàng, Đỗ trọng,
+  Ngưu tất,Bạch linh, Cam thảo
+Uống
+186
+05C.58.49
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh, Sinh địa, Đỗ trọng,
+  Ngưu tất, Phục linh, Cam thảo, Đảng sâm
+Uống
+187
+05C.58.50
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh, Sinh địa, Đỗ trọng,
+  Ngưu tất,Bạch linh, Cam thảo, Đảng sâm
+Uống
+188
+05C.58.51
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh,Thục địa, Đỗ trọng,
+  Ngưu tất, Phục linh, Cam thảo, Đảng sâm
+Uống
+189
+05C.58.52
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh,Thục địa, Đỗ trọng,
+  Ngưu tất,Bạch linh, Cam thảo, Đảng sâm
+Uống
+190
+05C.58.53
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh, Địa hoàng, Đỗ trọng,
+  Ngưu tất, Phục linh, Cam thảo, Đảng sâm
+Uống
+191
+05C.58.54
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh, Địa hoàng, Đỗ trọng,
+  Ngưu tất,Bạch linh, Cam thảo, Đảng sâm
+Uống
+192
+05C.58.55
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh, Sinh địa, Đỗ trọng,
+  Ngưu tất, Phục linh, Cam thảo, Đảng sâm
+Uống
+193
+05C.58.56
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh, Sinh địa, Đỗ trọng,
+  Ngưu tất,Bạch linh, Cam thảo, Đảng sâm
+Uống
+194
+05C.58.57
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh,Thục địa, Đỗ trọng,
+  Ngưu tất, Phục linh, Cam thảo, Đảng sâm
+Uống
+195
+05C.58.58
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh,Thục địa, Đỗ trọng,
+  Ngưu tất,Bạch linh, Cam thảo, Đảng sâm
+Uống
+196
+05C.58.59
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh, Địa hoàng, Đỗ trọng,
+  Ngưu tất, Phục linh, Cam thảo, Đảng sâm
+Uống
+197
+05C.58.60
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh, Địa hoàng, Đỗ trọng,
+  Ngưu tất,Bạch linh, Cam thảo, Đảng sâm
+Uống
+198
+05C.58.61
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh, Sinh địa, Đỗ trọng,
+  Ngưu tất, Phục linh, Cam thảo,Nhân sâm
+Uống
+199
+05C.58.62
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh, Sinh địa, Đỗ trọng,
+  Ngưu tất,Bạch linh, Cam thảo,Nhân sâm
+Uống
+200
+05C.58.63
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh,Thục địa, Đỗ trọng,
+  Ngưu tất, Phục linh, Cam thảo,Nhân sâm
+Uống
+201
+05C.58.64
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh,Thục địa, Đỗ trọng,
+  Ngưu tất,Bạch linh, Cam thảo,Nhân sâm
+Uống
+202
+05C.58.65
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh, Địa hoàng, Đỗ trọng,
+  Ngưu tất, Phục linh, Cam thảo,Nhân sâm
+Uống
+203
+05C.58.66
+Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh, Địa hoàng, Đỗ trọng,
+  Ngưu tất,Bạch linh, Cam thảo,Nhân sâm
+Uống
+204
+05C.58.67
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh, Sinh địa, Đỗ trọng,
+  Ngưu tất, Phục linh, Cam thảo,Nhân sâm
+Uống
+205
+05C.58.68
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh, Sinh địa, Đỗ trọng,
+  Ngưu tất,Bạch linh, Cam thảo,Nhân sâm
+Uống
+206
+05C.58.69
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh,Thục địa, Đỗ trọng,
+  Ngưu tất, Phục linh, Cam thảo,Nhân sâm
+Uống
+207
+05C.58.70
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh,Thục địa, Đỗ trọng,
+  Ngưu tất,Bạch linh, Cam thảo,Nhân sâm
+Uống
+208
+05C.58.71
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh, Địa hoàng, Đỗ trọng,
+  Ngưu tất, Phục linh, Cam thảo,Nhân sâm
+Uống
+209
+05C.58.72
+Độc hoạt,Quế nhục, Phòng phong, Đương quy, Tế tân, Dây đau
+  xương, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh, Địa hoàng, Đỗ trọng,
+  Ngưu tất,Bạch linh, Cam thảo,Nhân sâm
+Uống
+210
+05C.59
+Độc hoạt, Tang ký sinh, Tri mẫu, Trần bì, Hoàng bá, Phòng
+  phong, Cao xương, Qui bản, Bạch thược, Cam thảo, Đảng sâm, Đỗ trọng, Đương
+  quy, Ngưu tất, Phục linh, Quế chi, Sinh địa, Tần giao, Tế tân, Xuyên khung.
+Uống
+211
+05C.60
+Đương quy, Đỗ trọng, Cẩu tích, Đan sâm, Liên nhục, Tục
+  đoạn, Thiên ma, Cốt toái bổ, Độc hoạt, Sinh địa, Uy linh tiên, Thông thảo,
+  Khương hoạt, Hà thủ ô đỏ
+Uống
+212
+05C.61.1
+Hà thủ ô đỏ, Thổ phục linh, Thương nhĩ Tử, Hy Thiêm, Thiên
+  niên kiện, Đương quy, Huyết giác
+Uống
+213
+05C.61.2
+Hà thủ ô đỏ, Thổ phục linh, Thương nhĩ Tử, Hy Thiêm, Thiên
+  niên kiện, Đương quy, Huyết giác, Phòng kỷ
+Uống
+214
+05C.62.1
+Hy thiêm, Hà thủ ô đỏ chế, Thương nhĩ tử,Thổ phục linh,
+  Phòng kỷ, Thiên niên kiện, Huyết giác
+Uống
+215
+05C.62.2
+Hy thiêm, Hà thủ ô đỏ chế, Thương nhĩ tử,Thổ phục linh,Dây
+  đau xương, Thiên niên kiện, Huyết giác
+Uống
+216
+05C.63
+Hy thiêm, Ngũ gia bì gai, Thiên niên kiện, Cẩu tích, Thổ
+  phục linh
+Uống
+217
+05C.64
+Hy thiêm, Ngưu tất, Quế chi, Cẩu tích, Sinh địa, Ngũ gia
+  bì
+Uống
+218
+05C.65
+Hy thiêm, Thiên niên kiện
+Uống
+219
+05C.66
+Hy thiêm, Thục địa, Tang ký sinh, Khương hoạt, Phòng
+  phong, Đương quy, Đỗ trọng, Thiên niên kiện
+Uống
+220
+05C.67
+Lá lốt, Hy thiêm, Ngưu tất, Thổ phục linh.
+Uống
+221
+05C.68
+Mã tiền, Ma hoàng, Tằm vôi, Nhũ hương, Một dược, Ngưu tất,
+  Cam thảo, Thương truật
+Uống
+222
+05C.69
+Mã tiền chế, Độc hoạt, Xuyên khung, Tế tân, Phòng phong,
+  Quế chi, Hy thiêm, Đỗ trọng, Đương quy, Tần giao, Ngưu tất
+Uống
+223
+05C.70
+Mã tiền chế, Đương qui, Đỗ trọng, Ngưu tất, Quế Chi, Độc
+  hoạt, Thương truật, Thổ phục linh
+Uống
+224
+05C.71.1
+Mã tiền chế, Hy thiêm, Ngũ gia bì
+Uống
+225
+05C.71.2
+Mã tiền chế, Hy thiêm, Ngũ gia bì, Tam Thất
+Uống
+226
+05C.72
+Mã tiền chế, Thương truật, Hương phụ tứ chế, Mộc hương,
+  Địa liền, Quế chi
+Uống
+227
+05C.73
+Tần giao, Đỗ trọng, Ngưu tất, Độc hoạt, Phòng phong, Phục
+  linh, Xuyên khung, Tục đoạn, Hoàng kỳ, Bạch thược, Cam thảo, Đương quy, Thiên
+  niên kiện.
+Uống
+228
+05C.74.1
+Tần giao, Thạch cao, Khương hoạt, Bạch chỉ, Xuyên khung,
+  Tế tân, Độc hoạt, Phòng phong, Đương quy, Thục địa, Bạch thược, Cam thảo,
+  Phục linh, Hoàng cầm, Sinh địa
+Uống
+229
+05C.74.2
+Tần giao, Thạch cao, Khương hoạt, Bạch chỉ, Xuyên khung,
+  Tế tân, Độc hoạt, Phòng phong, Đương quy, Thục địa,Bạch truật, Cam thảo, Phục
+  linh, Hoàng cầm, Sinh địa
+Uống
+230
+05C.75
+Thanh phong đằng, Quế chi, độc hoạt, Khương hoạt, Ngưu
+  tất, Tang ký sinh, Phục linh, Tần giao, Lộc nhung, Uy linh tiên, Ý dĩ nhân,
+  Đẳng sâm, Hoàng kỳ, Câu kỷ tử, Bạch truật, Đương quy, Xích thược, Mộc hương,
+  Diên hồ sách, Hoàng cầm
+Uống
+231
+05C.76.1
+Tục đoạn, Phòng phong, Hy thiêm, Độc hoạt, Tần giao, Bạch
+  thược, Đương quy, Xuyên khung, Thiên niên kiện, Ngưu tất, Hoàng kỳ, Đỗ trọng
+Uống
+232
+05C.76.2
+Tục đoạn, Phòng phong, Hy thiêm, Độc hoạt, Tần giao, Bạch
+  thược, Đương quy, Xuyên khung, Thiên niên kiện, Ngưu tất, Hoàng kỳ, Đỗ trọng,
+  Mã tiền
+Uống
+233
+05C.77
+Bạch phục linh, Kha tử nhục, Nhục đậu khấu, Hoàng liên,
+  Mộc hương, Sa nhân, Gừng
+Uống
+234
+05C.78.1
+Bạch truật, Đảng sâm, Ý dĩ, Liên nhục, Hoài sơn,Sa nhân,
+  Cam thảo, Bạch linh, Trần bì, Mạch nha
+Uống
+235
+05C.78.2
+Bạch truật, Đảng sâm, Ý dĩ, Liên nhục, Hoài sơn, Cát cánh,
+  Sa nhân, Cam thảo, Bạch linh, Trần bì, Mạch nha
+Uống
+236
+05C.78.3
+Bạch truật, Đảng sâm, Ý dĩ, Liên nhục, Hoài sơn, Sa nhân,
+  Cam thảo, Bạch linh, Trần bì, Mạch nha, Thần khúc
+Uống
+237
+05C.78.4
+Bạch truật, Đảng sâm, Ý dĩ, Liên nhục, Hoài sơn, Cát cánh
+  , Sa nhân, Cam thảo, Bạch linh, Trần bì, Mạch nha,Thần khúc
+Uống
+238
+05C.78.5
+Bạch truật, Đảng sâm, Ý dĩ, Liên nhục, Hoài sơn, Sa nhân,
+  Cam thảo, Bạch linh, Trần bì, Sơn tra
+Uống
+239
+05C.78.6
+Bạch truật, Đảng sâm, Ý dĩ, Liên nhục, Hoài sơn, Cát cánh,
+  Sa nhân, Cam thảo, Bạch linh, Trần bì, Sơn tra
+Uống
+240
+05C.78.7
+Bạch truật, Đảng sâm, Ý dĩ, Liên nhục, Hoài sơn, Sa nhân,
+  Cam thảo, Bạch linh, Trần bì, Sơn tra, Thần khúc
+Uống
+241
+05C.78.8
+Bạch truật, Đảng sâm, Ý dĩ, Liên nhục, Hoài sơn, Cát cánh,
+  Sa nhân, Cam thảo, Bạch linh, Trần bì, Sơn tra, Thần khúc
+Uống
+242
+05C.79
+Bạch truật; Đảng sâm; Liên nhục; Cát cánh; Sa nhân; Cam
+  thảo, Bạch linh; Trần bì, Mạch nha, Long nhãn, Sử quân tử, Bán hạ
+Uống
+243
+05C.80
+Bạch truật, Mộc hương, Hoàng Đằng, Hoài sơn, Trần bì,
+  Hoàng liên, Bạch linh, Sa nhân, Bạch thược, Cam thảo, Đảng sâm
+Uống
+244
+05C.80
+Bạch truật, Mộc hương, Hoàng Đằng,Sơn Dược, Trần bì, Hoàng
+  liên, Bạch linh, Sa nhân, Bạch thược, Cam thảo, Đảng sâm
+Uống
+245
+05C.81
+Bạch truật, Mộc hương, Hoàng liên, Cam thảo, Bạch linh,
+  Đảng sâm, Thần khúc, Trần bì, Sa nhân, Mạch nha, Sơn tra, Hoài sơn, Nhục đậu
+  khấu
+Uống
+246
+05C.81
+Bạch truật, Mộc hương, Hoàng liên, Cam thảo, Bạch linh,
+  Đảng sâm, Thần khúc, Trần bì, Sa nhân, Mạch nha, Sơn tra,Sơn dược, Nhục đậu
+  khấu
+Uống
+247
+05C.82.1
+Bạch truật, Phục thần, Hoàng kỳ, Toan táo nhân, Nhân sâm,
+  Mộc hương, Cam thảo, Đương quy, Viễn chí
+Uống
+248
+05C.82.2
+Bạch truật, Phục thần, Hoàng kỳ, Toan táo nhân,Đẳng sâm,
+  Mộc hương, Cam thảo, Đương quy, Viễn chí
+Uống
+249
+05C.82.3
+Bạch truật,Bạch linh, Hoàng kỳ, Toan táo nhân, Nhân sâm,
+  Mộc hương, Cam thảo, Đương quy, Viễn chí
+Uống
+250
+05C.82.4
+Bạch truật,Bạch linh, Hoàng kỳ, Toan táo nhân,Đẳng sâm,
+  Mộc hương, Cam thảo, Đương quy, Viễn chí
+Uống
+251
+05C.82.5
+Bạch truật, Phục thần, Hoàng kỳ, Toan táo nhân, Nhân sâm,
+  Mộc hương, Cam thảo, Đương quy, Viễn chí, Đại táo.
+Uống
+252
+05C.82.6
+Bạch truật, Phục thần, Hoàng kỳ, Toan táo nhân,Đẳng sâm,
+  Mộc hương, Cam thảo, Đương quy, Viễn chí, Đại táo.
+Uống
+253
+05C.82.7
+Bạch truật,Bạch linh, Hoàng kỳ, Toan táo nhân, Nhân sâm,
+  Mộc hương, Cam thảo, Đương quy, Viễn chí, Đại táo.
+Uống
+254
+05C.82.8
+Bạch truật,Bạch linh, Hoàng kỳ, Toan táo nhân,Đẳng sâm,
+  Mộc hương, Cam thảo, Đương quy, Viễn chí, Đại táo.
+Uống
+255
+05C.82.9
+Bạch truật, Phục thần, Hoàng kỳ, Toan táo nhân, Nhân sâm,
+  Mộc hương, Cam thảo, Đương quy, Viễn chí, Long nhãn
+Uống
+256
+05C.82.10
+Bạch truật, Phục thần, Hoàng kỳ, Toan táo nhân,Đẳng sâm,
+  Mộc hương, Cam thảo, Đương quy, Viễn chí, Long nhãn
+Uống
+257
+05C.82.11
+Bạch truật,Bạch linh, Hoàng kỳ, Toan táo nhân, Nhân sâm,
+  Mộc hương, Cam thảo, Đương quy, Viễn chí, Long nhãn
+Uống
+258
+05C.82.12
+Bạch truật,Bạch linh, Hoàng kỳ, Toan táo nhân,Đẳng sâm,
+  Mộc hương, Cam thảo, Đương quy, Viễn chí, Long nhãn
+Uống
+259
+05C.82.13
+Bạch truật, Phục thần, Hoàng kỳ, Toan táo nhân, Nhân sâm,
+  Mộc hương, Cam thảo, Đương quy, Viễn chí, Long nhãn, Đại táo.
+Uống
+260
+05C.82.14
+Bạch truật, Phục thần, Hoàng kỳ, Toan táo nhân,Đẳng sâm,
+  Mộc hương, Cam thảo, Đương quy, Viễn chí, Long nhãn, Đại táo.
+Uống
+261
+05C.82.15
+Bạch truật,Bạch linh, Hoàng kỳ, Toan táo nhân, Nhân sâm,
+  Mộc hương, Cam thảo, Đương quy, Viễn chí, Long nhãn, Đại táo.
+Uống
+262
+05C.82.16
+Bạch truật,Bạch linh, Hoàng kỳ, Toan táo nhân,Đẳng sâm,
+  Mộc hương, Cam thảo, Đương quy, Viễn chí, Long nhãn, Đại táo.
+Uống
+263
+05C.83
+Bạch Truật, Ý dĩ, Cam thảo, Mạch nha, Liên nhục, Sơn tra,
+  Đẳng sâm, Thần khúc, Phục linh, Phấn hoa, Hoài sơn, Cao xương hỗn hợp
+Uống
+264
+05C.84
+Bìm bìm biếc, Phan tả diệp, Đại hoàng, Chỉ xác, Cao mật
+  heo.
+Uống
+265
+05C.85
+Cam thảo, Đảng sâm, Dịch chiết men bia.
+Uống
+266
+05C.86
+Cát lâm sâm, Đảng sâm, Bạch linh, Bạch truật, Cam thảo, Ý
+  dĩ, Hoài sơn, Khiếm thực, Liên nhục, Mạch nha, Sử quân tử, Sơn tra, Thần
+  khúc, Cốc tinh thảo, Ô tặc cốt, Bạch biển đậu
+Uống
+267
+05C.87
+Chè dây
+Uống
+268
+05C.88.1
+Chỉ thực, Nhân sâm, Bạch truật, Bạch linh, Bán hạ, Mạch
+  nha, Hậu phác, Cam thảo, Can khương, Hoàng liên
+Uống
+269
+05C.88.2
+Chỉ thực, Nhân sâm, Bạch truật, Phục linh, Bán hạ, Mạch
+  nha, Hậu phác, Cam thảo, Can khương, Hoàng liên
+Uống
+270
+05C.88.3
+Chỉ thực,Đảng sâm, Bạch truật, Bạch linh, Bán hạ, Mạch
+  nha, Hậu phác, Cam thảo, Can khương, Hoàng liên
+Uống
+271
+05C.88.4
+Chỉ thực, Đảng sâm, Bạch truật, Phục linh, Bán hạ, Mạch
+  nha, Hậu phác, Cam thảo, Can khương, Hoàng liên
+Uống
+272
+05C.88.5
+Chỉ thực, Nhân sâm, Bạch truật, Bạch linh, Bán hạ, Mạch
+  nha, Hậu phác, Cam thảo, Can khương, Hoàng liên, Ngô thù du
+Uống
+273
+05C.88.6
+Chỉ thực, Nhân sâm, Bạch truật, Phục linh, Bán hạ, Mạch
+  nha, Hậu phác, Cam thảo, Can khương, Hoàng liên, Ngô thù du
+Uống
+274
+05C.88.7
+Chỉ thực,Đảng sâm, Bạch truật, Bạch linh, Bán hạ, Mạch
+  nha, Hậu phác, Cam thảo, Can khương, Hoàng liên, Ngô thù du
+Uống
+275
+05C.88.8
+Chỉ thực, Đảng sâm, Bạch truật, Phục linh, Bán hạ, Mạch
+  nha, Hậu phác, Cam thảo, Can khương, Hoàng liên, Ngô thù du
+Uống
+276
+05C.89
+Cỏ sữa lá to, Hoàng đằng, Măng cụt
+Uống
+277
+05C.90.1
+Cóc khô, Ý dĩ, Hạt sen, Hoài sơn, Sơn tra, Thục địa, Mạch
+  nha, Mật ong
+Uống
+278
+05C.90.2
+Cóc khô, Ý dĩ, Hạt sen, Hoài sơn, Sơn tra, Thục địa, Mạch
+  nha, Mật ong, Tricalci phosphat
+Uống
+279
+05C.91.1
+Hoài sơn, Đậu ván trắng, Ý dĩ, Sa nhân, Mạch nha, Trần bì,
+  Nhục đấu khấu, Đảng sâm, Liên nhục
+Uống
+280
+05C.91.2
+Hoài sơn,Bạch biển đậu, Ý dĩ, Sa nhân, Mạch nha, Trần bì,
+  Nhục đấu khấu, Đảng sâm, Liên nhục
+Uống
+281
+05C.92
+Hoàng liên, Vân Mộc hương, Đại hồi, Sa nhân, Quế nhục,
+  Đinh hương
+Uống
+282
+05C.93
+Huyền hồ sách, Mai mực, Phèn chua
+Uống
+283
+05C.94
+Kha tử, Mộc hương, Hoàng liên, Bạch truật, Cam thảo, Bạch
+  thược
+Uống
+284
+05C.95
+Lá khôi, Dạ cẩm, Cỏ hàn the, Khổ sâm, Ô tặc cốt
+Uống
+285
+05C.96
+Ma tử nhân,Hạnh nhân, Đại hoàng, Chỉ thực, Hậu phác, Bạch
+  thược
+Uống
+286
+05C.97.1
+Mật ong, Nghệ
+Uống
+287
+05C.97.2
+Cao mật heo, Nghệ
+Uống
+288
+05C.97.3
+Mật ong, Nghệ, Trần bì
+Uống
+289
+05C.97.4
+Cao mật heo, Nghệ, Trần bì
+Uống
+290
+05C.98
+Men bia ép tinh chế
+Uống
+291
+05C.99
+Mộc hoa trắng
+Uống
+292
+05C.100.1
+Mộc hương,Berberin
+Uống
+293
+05C.100.2
+Mộc hương, Hoàng liên
+Uống
+294
+05C.100.3
+Mộc hương,Berberin, Ngô thù du.
+Uống
+295
+05C.100.4
+Mộc hương, Hoàng liên, Ngô thù du.
+Uống
+296
+05C.100.5
+Mộc hương,Berberin, Xích thược
+Uống
+297
+05C.100.6
+Mộc hương, Hoàng liên, Xích thược
+Uống
+298
+05C.100.7
+Mộc hương,Berberin,Bạch thược
+Uống
+299
+05C.100.8
+Mộc hương, Hoàng liên,Bạch thược
+Uống
+300
+05C.100.9
+Mộc hương,Berberin,Bạch thược, Ngô thù du.
+Uống
+301
+05C.100.10
+Mộc hương, Hoàng liên,Bạch thược, Ngô thù du.
+Uống
+302
+05C.100.11
+Mộc hương,Berberin,Xích thược, Ngô thù du.
+Uống
+303
+05C.100.12
+Mộc hương, Hoàng liên,Xích thược, Ngô thù du.
+Uống
+304
+05C.101
+Nghệ vàng
+Uống
+305
+05C.102
+Ngũ vị tử
+Uống
+306
+05C.103
+Ngưu nhĩ phong, La liễu
+Uống
+307
+05C.104
+Nha đạm tử, Berberin, Tỏi, Cát căn, Mộc hương
+Uống
+308
+05C.105.1
+Nhân sâm, Bạch linh, Bạch truật, Cam thảo, Trần bì, Bán
+  hạ, Sa nhân, Mộc hương
+Uống
+309
+05C.105.2
+Nhân sâm, Bạch linh, Bạch truật, Cam thảo, Trần bì,Bán hạ
+  chế, Sa nhân, Mộc hương
+Uống
+310
+05C.105.3
+Đảng sâm, Bạch linh, Bạch truật, Cam thảo, Trần bì, Bán
+  hạ, Sa nhân, Mộc hương
+Uống
+311
+05C.105.4
+Đảng sâm, Bạch linh, Bạch truật, Cam thảo, Trần bì,Bán hạ
+  chế, Sa nhân, Mộc hương
+Uống
+312
+05C.105.5
+Nhân sâm, Bạch linh, Bạch truật, Cam thảo, Trần bì, Bán
+  hạ, Sa nhân, Mộc hương, Gừng tươi
+Uống
+313
+05C.105.6
+Nhân sâm, Bạch linh, Bạch truật, Cam thảo, Trần bì,Bán hạ
+  chế, Sa nhân, Mộc hương, Gừng tươi
+Uống
+314
+05C.105.7
+Đảng sâm, Bạch linh, Bạch truật, Cam thảo, Trần bì, Bán
+  hạ, Sa nhân, Mộc hương, Gừng tươi
+Uống
+315
+05C.105.8
+Đảng sâm, Bạch linh, Bạch truật, Cam thảo, Trần bì,Bán hạ
+  chế, Sa nhân, Mộc hương, Gừng tươi
+Uống
+316
+05C.105.9
+Nhân sâm, Bạch linh, Bạch truật, Cam thảo, Trần bì, Bán
+  hạ, Sa nhân, Mộc hương,Sinh khương
+Uống
+317
+05C.105.10
+Nhân sâm, Bạch linh, Bạch truật, Cam thảo, Trần bì,Bán hạ
+  chế, Sa nhân, Mộc hương,Sinh khương
+Uống
+318
+05C.105.11
+Đảng sâm, Bạch linh, Bạch truật, Cam thảo, Trần bì, Bán
+  hạ, Sa nhân, Mộc hương,Sinh khương
+Uống
+319
+05C.105.12
+Đảng sâm, Bạch linh, Bạch truật, Cam thảo, Trần bì,Bán hạ
+  chế, Sa nhân, Mộc hương,Sinh khương
+Uống
+320
+05C.106
+Nhân sâm, Bạch truật, Cam thảo, Đại táo, Bạch linh, Hoài
+  sơn, Cát cánh, Sa nhân, Bạch biển đậu, Ý dĩ, Liên nhục
+Uống
+321
+05C.107.1
+Nhân sâm, Hoàng kỳ, Đương quy, Bạch truật, Thăng ma, Sài
+  hồ, Trần bì, Cam thảo
+Uống
+322
+05C.107.2
+Đảng sâm, Hoàng kỳ, Đương quy, Bạch truật, Thăng ma, Sài
+  hồ, Trần bì, Cam thảo
+Uống
+323
+05C.107.3
+Nhân sâm, Hoàng kỳ, Đương quy, Bạch truật, Thăng ma, Sài
+  hồ, Trần bì, Cam thảo, Đại táo
+Uống
+324
+05C.107.4
+Đảng sâm, Hoàng kỳ, Đương quy, Bạch truật, Thăng ma, Sài
+  hồ, Trần bì, Cam thảo, Đại táo
+Uống
+325
+05C.107.5
+Nhân sâm, Hoàng kỳ, Đương quy, Bạch truật, Thăng ma, Sài
+  hồ, Trần bì, Cam thảo,Sinh khương
+Uống
+326
+05C.107.6
+Đảng sâm, Hoàng kỳ, Đương quy, Bạch truật, Thăng ma, Sài
+  hồ, Trần bì, Cam thảo,Sinh khương
+Uống
+327
+05C.107.7
+Nhân sâm, Hoàng kỳ, Đương quy, Bạch truật, Thăng ma, Sài
+  hồ, Trần bì, Cam thảo,Sinh khương, Đại táo
+Uống
+328
+05C.107.8
+Đảng sâm, Hoàng kỳ, Đương quy, Bạch truật, Thăng ma, Sài
+  hồ, Trần bì, Cam thảo,Sinh khương, Đại táo
+Uống
+329
+05C.108
+Nhân sâm, Hoàng kỳ, Đương quy, Bạch truật, Thăng ma, Sài
+  hồ, Trần bì, Cam thảo, Hòe hoa, Cỏ nhọ nồi, Kim ngân hoa, Đào nhân
+Uống
+330
+05C.109
+Phấn hoa cải dầu
+Uống
+331
+05C.110
+Phòng đảng sâm, Thương truật, Hoài sơn, Hậu phác, Mộc
+  hương, Ô tặc cốt, Cam thảo
+Uống
+332
+05C.111
+Sinh địa, Hồ ma, Đào nhân, Tang diệp, Thảo quyết minh,
+  Trần bì
+Uống
+333
+05C.112
+Sử quân tử, Binh lang, Nhục đậu khấu, Lục thần khúc, Mạch
+  nha, Hồ hoàng liên, Mộc hương
+Uống
+334
+05C.113.1
+Thương truật, Hậu phác, Trần bì, Cam thảo
+Uống
+335
+05C.113.2
+Thương truật, Hậu phác, Trần bì, Cam thảo, Sinh khương
+Uống
+336
+05C.114
+Tô mộc
+Uống
+337
+05C.115
+Tỏi, Nghệ
+Uống
+338
+05C.116
+Trần bì, Đương quy, Mạch nha, Phục linh, Chỉ xác, Thanh
+  bì, Bạch Truật, Hậu phác, Bạch đậu khấu, Can khương, Mộc hương.
+Uống
+339
+05C.117
+Cao khô Trinh nữ hoàng cung.
+Uống
+340
+05C.118
+Trinh nữ hoàng cung, Tri mẫu, Hoàng bá, ích mẫu, Đào nhân,
+  Trạch tả, Xích thược, Nhục quế.
+Uống
+341
+05C.119
+Xích đồng nam, Ngấy hương, Thục địa, Hoài sơn, Đan bì,
+  Bạch linh, Trạch tả, Mật ong
+Uống
+342
+05C.120.1
+Xuyên bối mẫu, Đại hoàng, Diên hồ sách, Bạch cập, Ô tặc
+  cốt, Cam thảo
+Uống
+343
+05C.120.2
+Xuyên bối mẫu, Đại hoàng, Diên hồ sách, Bạch cập,Mai mực,
+  Cam thảo
+Uống
+344
+05C.120.3
+Bối mẫu, Đại hoàng, Diên hồ sách, Bạch cập, Ô tặc cốt, Cam
+  thảo
+Uống
+345
+05C.120.4
+Bối mẫu, Đại hoàng, Diên hồ sách, Bạch cập,Mai mực, Cam
+  thảo
+Uống
+346
+05C.121
+Xuyên tâm liên
+Uống
+347
+05C.122
+Bạch truật, Cam thảo, Mạch nha, Đảng sâm, Đỗ trọng, Đương
+  quy, Phục linh, Sa nhân, Hoài sơn, Táo nhân, Liên nhục, Bạch thược, Trần bì,
+  Viễn chí, Ý dĩ, Bạch tật lê
+Uống
+348
+05C.123.1
+Dừa cạn, Cúc hoa, Hòe hoa, Tâm sen
+Uống
+349
+05C.123.2
+Dừa cạn, Cúc hoa, Hòe hoa, Tâm sen, Cỏ ngọt
+Uống
+350
+05C.124
+Đan sâm, Tam thất
+Uống
+351
+05C.125.1
+Đan sâm, Tam thất, Borneol
+Uống
+352
+05C.125.2
+Đan sâm, Tam thất,Băng phiến
+Uống
+353
+05C.125.3
+Đan sâm, Tam thất,Camphor
+Uống
+354
+05C.126
+Đăng tâm thảo, Táo nhân, Thảo quyết minh, Tâm sen
+Uống
+355
+05C.127.1
+Đinh lăng, Bạch quả
+Uống
+356
+05C.127.2
+Đinh lăng, Bạch quả, Đậu tương
+Uống
+357
+05C.128
+Địa long, Hoàng kỳ, Đương quy, Xích thược, Xuyên khung,
+  Đào nhân, Hồng hoa.
+Uống
+358
+05C.129
+Đương quy, Bạch quả
+Uống
+359
+05C.130
+Đương quy, Xuyên khung, Bạch thược, Thục địa hoàng, Câu
+  đằng, Kê huyết đằng, Hạ khô thảo, Quyết minh tử, Trân châu mẫu, Diên hồ sách,
+  Tế tân
+Uống
+360
+05C.131
+Hoài sơn, Liên nhục, Liên tâm, Lá dâu, Lá vông, Bá tử
+  nhân, Toan táo nhân, Long nhãn
+Uống
+361
+05C.132
+Hoàng bá, Khiếm thực, Liên tu, Tri mẫu, mẫu lệ, Phục linh,
+  Sơn thù, Viễn chí
+Uống
+362
+05C.133.1
+Hồng hoa, Đương quy, Sinh địa, Sài hồ, Cam thảo, Xích
+  thược, Xuyên khung, Chỉ xác, Ngưu tất, Bạch quả
+Uống
+363
+05C.133.2
+Hồng hoa, Đương quy, Sinh địa, Sài hồ, Cam thảo, Xích
+  thược, Xuyên khung, Chỉ xác, Ngưu tất, Bạch quả, Cát cánh.
+Uống
+364
+05C.133.3
+Hồng hoa, Đương quy, Sinh địa, Sài hồ, Cam thảo, Xích
+  thược, Xuyên khung, Chỉ xác, Ngưu tất, Bạch quả, Đào nhân
+Uống
+365
+05C.133.4
+Hồng hoa, Đương quy, Sinh địa, Sài hồ, Cam thảo, Xích
+  thược, Xuyên khung, Chỉ xác, Ngưu tất, Bạch quả, Đào nhân, Cát cánh.
+Uống
+366
+05C.134.1
+Lá sen, Lá vông, Bình vôi
+Uống
+367
+05C.134.2
+Lá sen, Lá vông,Rotundin
+Uống
+368
+05C.134.3
+Tâm sen, Lá vông, Bình vôi
+Uống
+369
+05C.134.4
+Tâm sen, Lá vông,Rotundin
+Uống
+370
+05C.135.1
+Lá sen, Lá vông,  Lạc tiên
+Uống
+371
+05C.135.2
+Lá sen,Vông nem,  Lạc tiên
+Uống
+372
+05C.135.3
+Lá sen, Lá vông,  Lạc tiên, Bình vôi
+Uống
+373
+05C.135.4
+Lá sen,Vông nem,  Lạc tiên, Bình vôi
+Uống
+374
+05C.135.5
+Lá sen, Lá vông,  Lạc tiên, Bình vôi, Trinh nữ
+Uống
+375
+05C.135.6
+Lá sen,Vông nem,  Lạc tiên, Bình vôi, Trinh nữ
+Uống
+376
+05C.135.7
+Lá sen, Lá vông,  Lạc tiên, Tâm sen
+Uống
+377
+05C.135.8
+Lá sen,Vông nem,  Lạc tiên, Tâm sen
+Uống
+378
+05C.135.9
+Lá sen, Lá vông,  Lạc tiên, Tâm sen, Bình vôi
+Uống
+379
+05C.135.10
+Lá sen,Vông nem,  Lạc tiên, Tâm sen, Bình vôi
+Uống
+380
+05C.135.11
+Lá sen, Lá vông,  Lạc tiên, Tâm sen, Bình vôi, Trinh nữ
+Uống
+381
+05C.135.12
+Lá sen,Vông nem,  Lạc tiên, Tâm sen, Bình vôi, Trinh nữ
+Uống
+382
+05C.135.13
+Lá sen, Lá vông,  Lạc tiên, Tâm sen, Trinh nữ
+Uống
+383
+05C.135.14
+Lá sen,Vông nem,  Lạc tiên, Tâm sen, Trinh nữ
+Uống
+384
+05C.135.15
+Lá sen, Lá vông,  Lạc tiên, Trinh nữ
+Uống
+385
+05C.135.16
+Lá sen,Vông nem,  Lạc tiên, Trinh nữ
+Uống
+386
+05C.136.1
+Lạc tiên, Vông nem, Lá dâu
+Uống
+387
+05C.136.2
+Lạc tiên, Vông nem,Tang diệp
+Uống
+388
+05C.137.1
+Nhân sâm, Trần bì, Hà thủ ô đỏ, Đại táo, Hoàng kỳ, Cam
+  thảo, Đương quy, Thăng ma, Táo nhân, Bạch truật, Sài hồ
+Uống
+389
+05C.137.2
+Nhân sâm, Trần bì, Hà thủ ô đỏ, Đại táo, Hoàng kỳ, Cam
+  thảo, Đương quy, Thăng ma, Táo nhân, Bạch truật, Sài hồ, Bạch thược
+Uống
+390
+05C.138.1
+Sinh địa, Mạch môn, Thiên môn, Táo nhân, Bá tử nhân, Huyền
+  sâm, Viễn chí, Ngũ vị tử, Đảng sâm, Đương quy, Đan sâm, Phục thần, Cát cánh.
+Uống
+391
+05C.138.2
+Sinh địa, Mạch môn,Thiên môn đông, Táo nhân, Bá tử nhân,
+  Huyền sâm, Viễn chí, Ngũ vị tử, Đảng sâm, Đương quy, Đan sâm, Phục thần, Cát
+  cánh.
+Uống
+392
+05C.139.1
+Sinh địa, Nhân sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân
+Uống
+393
+05C.139.2
+Sinh địa, Nhân sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân
+Uống
+394
+05C.139.3
+Sinh địa,Đảng sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân
+Uống
+395
+05C.139.4
+Sinh địa,Đảng sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân
+Uống
+396
+05C.139.5
+Địa hoàng, Nhân sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân
+Uống
+397
+05C.139.6
+Địa hoàng, Nhân sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân
+Uống
+398
+05C.139.7
+Địa hoàng,Đảng sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân
+Uống
+399
+05C.139.8
+Địa hoàng,Đảng sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân
+Uống
+400
+05C.139.9
+Sinh địa, Nhân sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân
+Uống
+401
+05C.139.10
+Sinh địa, Nhân sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân
+Uống
+402
+05C.139.11
+Sinh địa,Đảng sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân
+Uống
+403
+05C.139.12
+Sinh địa,Đảng sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân
+Uống
+404
+05C.139.13
+Địa hoàng, Nhân sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân
+Uống
+405
+05C.139.14
+Địa hoàng, Nhân sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân
+Uống
+406
+05C.139.15
+Địa hoàng,Đảng sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân
+Uống
+407
+05C.139.16
+Địa hoàng,Đảng sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân
+Uống
+408
+05C.139.17
+Sinh địa, Nhân sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Chu sa
+Uống
+409
+05C.139.18
+Sinh địa, Nhân sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Chu sa
+Uống
+410
+05C.139.19
+Sinh địa,Đảng sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Cam
+  thảo
+Uống
+411
+05C.139.20
+Sinh địa,Đảng sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Cam
+  thảo
+Uống
+412
+05C.139.21
+Địa hoàng, Nhân sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Chu sa
+Uống
+413
+05C.139.22
+Địa hoàng, Nhân sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Chu sa
+Uống
+414
+05C.139.23
+Địa hoàng,Đảng sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Chu sa
+Uống
+415
+05C.139.24
+Địa hoàng,Đảng sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Chu sa
+Uống
+416
+05C.139.25
+Sinh địa, Nhân sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Cam
+  thảo
+Uống
+417
+05C.139.26
+Sinh địa, Nhân sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Cam
+  thảo
+Uống
+418
+05C.139.27
+Sinh địa,Đảng sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Chu sa
+Uống
+419
+05C.139.28
+Sinh địa,Đảng sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Chu sa
+Uống
+420
+05C.139.29
+Địa hoàng, Nhân sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Cam
+  thảo
+Uống
+421
+05C.139.30
+Địa hoàng, Nhân sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Cam
+  thảo
+Uống
+422
+05C.139.31
+Địa hoàng,Đảng sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Cam
+  thảo
+Uống
+423
+05C.139.32
+Địa hoàng,Đảng sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Cam
+  thảo
+Uống
+424
+05C.139.33
+Sinh địa, Nhân sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân, Chu sa
+Uống
+425
+05C.139.34
+Sinh địa, Nhân sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân, Chu sa,
+Uống
+426
+05C.139.35
+Sinh địa,Đảng sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân, Chu sa,
+Uống
+427
+05C.139.36
+Sinh địa,Đảng sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân, Chu sa
+Uống
+428
+05C.139.37
+Địa hoàng, Nhân sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân, Chu sa
+Uống
+429
+05C.139.38
+Địa hoàng, Nhân sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân, Chu sa
+Uống
+430
+05C.139.39
+Địa hoàng,Đảng sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân, Chu sa
+Uống
+431
+05C.139.40
+Địa hoàng,Đảng sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân, Chu sa
+Uống
+432
+05C.139.41
+Sinh địa, Nhân sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân, Cam thảo
+Uống
+433
+05C.139.42
+Sinh địa, Nhân sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân, Cam thảo
+Uống
+434
+05C.139.43
+Sinh địa,Đảng sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân,Cam thảo
+Uống
+435
+05C.139.44
+Sinh địa,Đảng sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân, Cam thảo
+Uống
+436
+05C.139.45
+Địa hoàng, Nhân sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân, Cam thảo
+Uống
+437
+05C.139.46
+Địa hoàng, Nhân sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân, Cam thảo
+Uống
+438
+05C.139.47
+Địa hoàng,Đảng sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân, Cam thảo
+Uống
+439
+05C.139.48
+Địa hoàng,Đảng sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân, Cam thảo
+Uống
+440
+05C.139.49
+Sinh địa, Nhân sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Chu
+  sa, Cam thảo
+Uống
+441
+05C.139.50
+Sinh địa, Nhân sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Chu
+  sa, Cam thảo
+Uống
+442
+05C.139.51
+Sinh địa,Đảng sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Chu
+  sa, Cam thảo
+Uống
+443
+05C.139.52
+Sinh địa,Đảng sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Chu
+  sa, Cam thảo
+Uống
+444
+05C.139.53
+Địa hoàng, Nhân sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Chu
+  sa, Cam thảo
+Uống
+445
+05C.139.54
+Địa hoàng, Nhân sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Chu
+  sa, Cam thảo
+Uống
+446
+05C.139.55
+Địa hoàng,Đảng sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Chu
+  sa, Cam thảo
+Uống
+447
+05C.139.56
+Địa hoàng,Đảng sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Chu
+  sa, Cam thảo
+Uống
+448
+05C.139.57
+Sinh địa, Nhân sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân, Chu sa, Cam thảo
+Uống
+449
+05C.139.58
+Sinh địa, Nhân sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân, Chu sa, Cam thảo
+Uống
+450
+05C.139.59
+Sinh địa,Đảng sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân, Chu sa, Cam thảo
+Uống
+451
+05C.139.60
+Sinh địa,Đảng sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân, Chu sa, Cam thảo
+Uống
+452
+05C.139.61
+Địa hoàng, Nhân sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân, Chu sa, Cam thảo
+Uống
+453
+05C.139.62
+Địa hoàng, Nhân sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân Chu sa, Cam thảo
+Uống
+454
+05C.139.63
+Địa hoàng,Đảng sâm, Đan sâm, Huyền sâm, Bạch linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân, Chu sa, Cam thảo
+Uống
+455
+05C.139.64
+Địa hoàng,Đảng sâm, Đan sâm, Huyền sâm, Phục linh, Ngũ vị
+  tử, Viễn chí, Cát cánh, Đương quy, Thiên môn, Mạch môn, Toan táo nhân, Bá tử
+  nhân, Chu sa, Cam thảo
+Uống
+456
+05C.140
+Thỏ ty tử, Hà thủ ô, Dây đau xương, Cốt toái bổ, Đỗ trọng,
+  Cúc bất tử, Nấm sò khô
+Uống
+457
+05C.141
+Toan táo nhân, Đương quy, Hoài sơn, Nhục thung dung, Kỷ
+  tử, Ngũ vị tử, Ích trí nhân, Hổ phách, Thiên trúc hoàng, Long cốt, Xương bồ,
+  Thiên ma, Đan sâm, Nhân sâm, Trắc bách diệp
+Uống
+458
+05C.142
+Toan táo nhân, Tri mẫu, Phục linh, Xuyên khung, Cam thảo
+Uống
+459
+05C.143
+Xuyên khung, Tần giao, Bạch chỉ, Đương quy, Mạch môn, Hồng
+  sâm, Ngô thù du, Ngũ vị tử, Băng phiến
+Uống
+460
+05C.144
+A giao, Bạc hà, Bách bộ, Bách hợp, Bối mẫu, Cam thảo,
+  Đương qui, Sinh khương, Hạnh nhân, Cát cánh, Mã đậu linh, Ngũ vị tử, Thiên
+  hoa phấn, Thiên môn, Tri mẫu, Tử tô, Tử uyển, Ý dĩ.
+Uống
+461
+05C.145
+Bách bộ
+Uống
+462
+05C.146
+Bách bộ, Bối mẫu, Cam thảo, Huyền sâm, Kim ngân hoa, Liên
+  kiều, Mạch môn, Sa sâm, Tang bạch bì
+Uống
+463
+05C.147
+Bách bộ, Cát cánh, Mạch môn, Trần bì, Cam thảo, Bối mẫu,
+  Bạch quả, Hạnh nhân, Ma hoàng
+Uống
+464
+05C.148.1
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Thiên môn đông, Bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn,
+  Tinh dầu bạc hà
+Uống
+465
+05C.148.2
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Thiên môn đông, Bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch
+  phàn,mentol
+Uống
+466
+05C.148.3
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Thiên môn đông, Bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn, Tinh
+  dầu bạc hà
+Uống
+467
+05C.148.4
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Thiên môn đông, Bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn,mentol
+Uống
+468
+05C.148.5
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Thiên môn đông,Lá bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn,
+  Tinh dầu bạc hà
+Uống
+469
+05C.148.6
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Thiên môn đông,Lá bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch
+  phàn,mentol
+Uống
+470
+05C.148.7
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Thiên môn đông,Lá bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn,
+  Tinh dầu bạc hà
+Uống
+471
+05C.148.8
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Thiên môn đông,Lá bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch
+  phàn,mentol
+Uống
+472
+05C.148.9
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Mạch môn, Bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn, Tinh dầu
+  bạc hà
+Uống
+473
+05C.148.10
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Mạch môn, Bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn,mentol
+Uống
+474
+05C.148.11
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Mạch môn, Bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn, Tinh dầu
+  bạc hà
+Uống
+475
+05C.148.12
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Mạch môn, Bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn,mentol
+Uống
+476
+05C.148.13
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Mạch môn,Lá bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn, Tinh
+  dầu bạc hà
+Uống
+477
+05C.148.14
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Mạch môn,Lá bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn,mentol
+Uống
+478
+05C.148.15
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Mạch môn,Lá bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn, Tinh dầu
+  bạc hà
+Uống
+479
+05C.148.16
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Mạch môn,Lá bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn,mentol
+Uống
+480
+05C.148.17
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Thiên
+  môn đông, Bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn, Tinh dầu
+  bạc hà
+Uống
+481
+05C.148.18
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Thiên
+  môn đông, Bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn,mentol
+Uống
+482
+05C.148.19
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Thiên
+  môn đông, Bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn, Tinh dầu
+  bạc hà
+Uống
+483
+05C.148.20
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Thiên
+  môn đông, Bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn,mentol
+Uống
+484
+05C.148.21
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Thiên
+  môn đông,Lá bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn, Tinh
+  dầu bạc hà
+Uống
+485
+05C.148.22
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Thiên
+  môn đông,Lá bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn,mentol
+Uống
+486
+05C.148.23
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Thiên
+  môn đông,Lá bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn, Tinh dầu
+  bạc hà
+Uống
+487
+05C.148.24
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Thiên
+  môn đông,Lá bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn,mentol
+Uống
+488
+05C.148.25
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Mạch
+  môn, Bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn, Tinh dầu bạc
+  hà
+Uống
+489
+05C.148.26
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Mạch
+  môn, Bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn,mentol
+Uống
+490
+05C.148.27
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Mạch
+  môn, Bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn, Tinh dầu bạc hà
+Uống
+491
+05C.148.28
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Mạch
+  môn, Bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn,mentol
+Uống
+492
+05C.148.29
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Mạch
+  môn,Lá bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn, Tinh dầu
+  bạc hà
+Uống
+493
+05C.148.30
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Mạch
+  môn,Lá bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn,mentol
+Uống
+494
+05C.148.31
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Mạch
+  môn,Lá bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn, Tinh dầu bạc
+  hà
+Uống
+495
+05C.148.32
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Mạch
+  môn,Lá bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn,mentol
+Uống
+496
+05C.148.33
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Thiên môn đông, Bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn,
+  Tinh dầu bạc hà, Bàng sa
+Uống
+497
+05C.148.34
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Thiên môn đông, Bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch
+  phàn,mentol, Bàng sa
+Uống
+498
+05C.148.35
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Thiên môn đông, Bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn, Tinh
+  dầu bạc hà, Bàng sa
+Uống
+499
+05C.148.36
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Thiên môn đông, Bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch
+  phàn,mentol, Bàng sa
+Uống
+500
+05C.148.37
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Thiên môn đông,Lá bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn,
+  Tinh dầu bạc hà, Bàng sa
+Uống
+501
+05C.148.38
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Thiên môn đông,Lá bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch
+  phàn,mentol, Bàng sa
+Uống
+502
+05C.148.39
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Thiên môn đông,Lá bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn,
+  Tinh dầu bạc hà, Bàng sa
+Uống
+503
+05C.148.40
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Thiên môn đông,Lá bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch
+  phàn,mentol, Bàng sa
+Uống
+504
+05C.148.41
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Mạch môn, Bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn, Tinh dầu
+  bạc hà, Bàng sa
+Uống
+505
+05C.148.42
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Mạch môn, Bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn,mentol,
+  Bàng sa
+Uống
+506
+05C.148.43
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Mạch môn, Bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn, Tinh dầu
+  bạc hà, Bàng sa
+Uống
+507
+05C.148.44
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Mạch môn, Bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn,mentol, Bàng
+  sa
+Uống
+508
+05C.148.45
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Mạch môn,Lá bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn, Tinh
+  dầu bạc hà, Bàng sa
+Uống
+509
+05C.148.46
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Mạch môn,Lá bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn,mentol,
+  Bàng sa
+Uống
+510
+05C.148.47
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Mạch môn,Lá bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn, Tinh dầu
+  bạc hà, Bàng sa
+Uống
+511
+05C.148.48
+Bạch linh, Cát cánh, Tỳ bà diệp, Tang Bạch bì, Ma hoàng,
+  Mạch môn,Lá bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn,mentol,
+  Bàng sa
+Uống
+512
+05C.148.49
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Thiên
+  môn đông, Bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn, Tinh dầu
+  bạc hà, Bàng sa
+Uống
+513
+05C.148.50
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Thiên
+  môn đông, Bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn,mentol,
+  Bàng sa
+Uống
+514
+05C.148.51
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Thiên
+  môn đông, Bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn, Tinh dầu
+  bạc hà, Bàng sa
+Uống
+515
+05C.148.52
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Thiên
+  môn đông, Bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn,mentol, Bàng
+  sa
+Uống
+516
+05C.148.53
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Thiên
+  môn đông,Lá bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn, Tinh
+  dầu bạc hà, Bàng sa
+Uống
+517
+05C.148.54
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Thiên
+  môn đông,Lá bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn,mentol,
+  Bàng sa
+Uống
+518
+05C.148.55
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Thiên
+  môn đông,Lá bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn, Tinh dầu
+  bạc hà, Bàng sa
+Uống
+519
+05C.148.56
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Thiên
+  môn đông,Lá bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn,mentol,
+  Bàng sa
+Uống
+520
+05C.148.57
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Mạch
+  môn, Bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn, Tinh dầu bạc
+  hà, Bàng sa
+Uống
+521
+05C.148.58
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Mạch
+  môn, Bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn,mentol, Bàng
+  sa
+Uống
+522
+05C.148.59
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Mạch
+  môn, Bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn, Tinh dầu bạc hà,
+  Bàng sa
+Uống
+523
+05C.148.60
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Mạch
+  môn, Bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn,mentol, Bàng sa
+Uống
+524
+05C.148.61
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Mạch
+  môn,Lá bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn, Tinh dầu
+  bạc hà, Bàng sa
+Uống
+525
+05C.148.62
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Mạch
+  môn,Lá bạc hà, Bán hạ chế, Bách bộ, Mơ muối, Cam thảo, Bạch phàn,mentol, Bàng
+  sa
+Uống
+526
+05C.148.63
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Mạch
+  môn,Lá bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn, Tinh dầu bạc
+  hà, Bàng sa
+Uống
+527
+05C.148.64
+Bạch linh, Cát cánh,Tỳ bà, Tang Bạch bì, Ma hoàng, Mạch
+  môn,Lá bạc hà, Bán hạ chế, Bách bộ,Ô mai, Cam thảo, Bạch phàn,mentol, Bàng sa
+Uống
+528
+05C.149
+Cát cánh, Kinh giới, Tử uyển, Bách bộ, Hạnh nhân, Cam
+  thảo, Trần bì, Mạch môn
+Uống
+529
+05C.150
+Húng chanh, Núc nác, Cineol
+Uống
+530
+05C.151
+Lá thường xuân
+Uống
+531
+05C.152
+Ma hoàng, Bán hạ, Ngũ vị tử, Tỳ bà diệp, Cam thảo, Tế tân,
+  Can khương, Hạnh nhân, Bối mẫu, Trần bì
+Uống
+532
+05C.153.1
+Ma hoàng, Cát cánh, Xạ can, Mạch môn, Bán hạ, Bách bộ,
+  Tang bạch bì, Trần bì
+Uống
+533
+05C.153.2
+Ma hoàng, Cát cánh, Xạ can, Mạch môn, Bán hạ, Bách bộ,
+  Tang bạch bì, Trần bì, tinh dầu Bạc hà
+Uống
+534
+05C.154
+Ma hoàng, Hạnh nhân, Thạch cao, Mạch môn, Trần bì, Bối mẫu,
+  Cát cánh, Cam thảo
+Uống
+535
+05C.155.1
+Ma hoàng, Hạnh nhân,Thạch cao, Cam thảo
+Uống
+536
+05C.155.2
+Ma hoàng,Khổ hạnh nhân, Quế Chi, Cam thảo
+Uống
+537
+05C.155.3
+Ma hoàng,Khổ hạnh nhân,Thạch cao, Cam thảo
+Uống
+538
+05C.155.4
+Ma hoàng, Hạnh nhân, Quế Chi, Cam thảo
+Uống
+539
+05C.156
+Sinh địa, Mạch môn, Huyền sâm, Bối mẫu, Bạch thược, Mẫu
+  đơn bì, Cam thảo
+Uống
+540
+05C.157
+Trần bì, Cát cánh, Tiền hồ, Tô diệp, Tử uyển, Thiên môn,
+  Tang bạch bì, Tang diệp, Cam thảo, Ô mai, Khương hoàng, Menthol
+Uống
+541
+05C.158.1
+Tỳ bà diệp, Cát cánh, Bách bộ, Tiền hồ, Tang bạch bì,
+  Thiên môn, Bạch linh, Cam thảo, Hoàng cầm
+Uống
+542
+05C.158.2
+Tỳ bà diệp, Cát cánh, Bách bộ, Tiền hồ, Tang bạch bì,
+  Thiên môn,Phục linh, Cam thảo, Hoàng cầm
+Uống
+543
+05C.158.3
+Tỳ bà diệp, Cát cánh, Bách bộ, Tiền hồ, Tang bạch bì,
+  Thiên môn, Bạch linh, Cam thảo, Hoàng cầm,Cineol
+Uống
+544
+05C.158.4
+Tỳ bà diệp, Cát cánh, Bách bộ, Tiền hồ, Tang bạch bì,
+  Thiên môn,Phục linh, Cam thảo, Hoàng cầm,Cineol
+Uống
+545
+05C.158.5
+Tỳ bà diệp, Cát cánh, Bách bộ, Tiền hồ, Tang bạch bì,
+  Thiên môn, Bạch linh, Cam thảo, Hoàng cầm,Menthol
+Uống
+546
+05C.158.6
+Tỳ bà diệp, Cát cánh, Bách bộ, Tiền hồ, Tang bạch bì,
+  Thiên môn,Phục linh, Cam thảo, Hoàng cầm,Menthol
+Uống
+547
+05C.159
+Xuyên bối mẫu, Tỳ bà diệp, Sa sâm, Phục linh, Trần bì, Cát
+  cánh, Bán hạ, Ngũ vị tử, Qua lâu nhân, Viễn chí, Khổ hạnh nhân, Gừng, Ô mai,
+  Cam thảo, Mật ong, Tinh dầu bạc hà, Acid Benzoic
+Uống
+548
+05C.160.1
+Đảng sâm, Thục địa, Đương quy, Dâm dương hoắc, Ba kích,
+  Cẩu tích, Đỗ trọng, Bạch linh, Bạch truật, Bạch thược, Xuyên khung, Cam thảo
+Uống
+549
+05C.160.2
+Đảng sâm, Thục địa, Đương quy, Dâm dương hoắc, Ba kích,
+  Cẩu tích, Đỗ trọng,Phục linh, Bạch truật, Bạch thược, Xuyên khung, Cam thảo
+Uống
+550
+05C.161.1
+Đương quy, Bạch truật, Nhân sâm, Quế nhục, Thục địa, Cam
+  thảo, Hoàng kỳ, Phục linh, Xuyên khung, Bạch thược
+Uống
+551
+05C.161.2
+Đương quy, Bạch truật, Nhân sâm, Quế nhục, Thục địa, Cam
+  thảo, Hoàng kỳ,Bạch linh, Xuyên khung, Bạch thược
+Uống
+552
+05C.161.3
+Đương quy, Bạch truật,Đảng sâm, Quế nhục, Thục địa, Cam
+  thảo, Hoàng kỳ, Phục linh, Xuyên khung, Bạch thược
+Uống
+553
+05C.161.4
+Đương quy, Bạch truật,Đảng sâm, Quế nhục, Thục địa, Cam
+  thảo, Hoàng kỳ,Bạch linh, Xuyên khung, Bạch thược
+Uống
+554
+05C.162
+Hải mã, Lộc nhung, Nhân sâm, Quế
+Uống
+555
+05C.163
+Linh chi, Đương quy
+Uống
+556
+05C.164.1
+Lộc giác giao, Thục địa, Sơn thù, Hoài sơn, Đỗ trọng,
+  Đương quy, Câu kỷ tử, Thỏ ty tử, Quế nhục, Phụ tử chế
+Uống
+557
+05C.164.2
+Lộc giác giao, Thục địa, Sơn thù, Hoài sơn, Đỗ trọng,
+  Đương quy, Câu kỷ tử, Thỏ ty tử, Quế nhục,Hắc phụ
+Uống
+558
+05C.164.3
+Lộc giác giao, Thục địa, Sơn thù, Hoài sơn, Đỗ trọng,
+  Đương quy,Kỷ tử, Thỏ ty tử, Quế nhục, Phụ tử chế
+Uống
+559
+05C.164.4
+Lộc giác giao, Thục địa, Sơn thù, Hoài sơn, Đỗ trọng,
+  Đương quy,Kỷ tử, Thỏ ty tử, Quế nhục,Hắc phụ
+Uống
+560
+05C.165
+Nhân sâm, Lộc nhung, Đương quy, Đỗ trọng, Thục địa, Phục
+  linh, Ngưu tất, Xuyên khung, Hà thủ ô đỏ, Ba kích, Nhục thung dung, Sơn thù,
+  Bạch truật, Kim anh, Nhục quế, Cam thảo
+Uống
+561
+05C.166.1
+Nhân sâm, Nhung hươu
+Uống
+562
+05C.166.2
+Nhân sâm, Nhung hươu, Cao ban long
+Uống
+563
+05C.167
+Nhân sâm, Tam thất
+Uống
+564
+05C.168.1
+Thỏ ty tử, Phúc bồn tử, Câu kỷ tử, Cửu thái tử, Thạch liên
+  tử, Phá cố chỉ, Xà sàng tử, Kim anh tử, Ngũ vị tử, Thục địa, Dâm dương hoắc,
+  Hải mã, Nhân sâm, Lộc nhung, Quế nhục.
+Uống
+565
+05C.168.2
+Thỏ ty tử, Phúc bồn tử, Câu kỷ tử, Cửu thái tử, Thạch liên
+  tử,Phá cố tử, Xà sàng tử, Kim anh tử, Ngũ vị tử, Thục địa, Dâm dương hoắc,
+  Hải mã, Nhân sâm, Lộc nhung, Quế nhục.
+Uống
+566
+05C.169.1
+Thục địa, Hoài sơn,Đan bì, Trạch tả, Bạch linh, Sơn
+  thù,Phụ tử chế, Quế
+Uống
+567
+05C.169.2
+Thục địa, Hoài sơn,Đan bì, Trạch tả, Bạch linh, Sơn
+  thù,Phụ tử chế,Quế nhục
+Uống
+568
+05C.169.3
+Thục địa, Hoài sơn,Đan bì, Trạch tả, Bạch linh, Sơn
+  thù,Hắc phụ, Quế
+Uống
+569
+05C.169.4
+Thục địa, Hoài sơn,Đan bì, Trạch tả, Bạch linh, Sơn
+  thù,Hắc phụ,Quế nhục
+Uống
+570
+05C.169.5
+Thục địa, Hoài sơn,Đan bì, Trạch tả,Phục linh, Sơn thù,Phụ
+  tử chế, Quế
+Uống
+571
+05C.169.6
+Thục địa, Hoài sơn,Đan bì, Trạch tả,Phục linh, Sơn thù,Phụ
+  tử chế,Quế nhục
+Uống
+572
+05C.169.7
+Thục địa, Hoài sơn,Đan bì, Trạch tả,Phục linh, Sơn thù,Hắc
+  phụ, Quế
+Uống
+573
+05C.169.8
+Thục địa, Hoài sơn,Đan bì, Trạch tả,Phục linh, Sơn thù,Hắc
+  phụ,Quế nhục
+Uống
+574
+05C.169.9
+Thục địa, Hoài sơn,Đơn bì, Trạch tả, Bạch linh, Sơn
+  thù,Phụ tử chế, Quế
+Uống
+575
+05C.169.10
+Thục địa, Hoài sơn,Đơn bì, Trạch tả, Bạch linh, Sơn
+  thù,Phụ tử chế,Quế nhục
+Uống
+576
+05C.169.11
+Thục địa, Hoài sơn,Đơn bì, Trạch tả, Bạch linh, Sơn
+  thù,Hắc phụ, Quế
+Uống
+577
+05C.169.12
+Thục địa, Hoài sơn,Đơn bì, Trạch tả, Bạch linh, Sơn
+  thù,Hắc phụ,Quế nhục
+Uống
+578
+05C.169.13
+Thục địa, Hoài sơn,Đơn bì, Trạch tả,Phục linh, Sơn thù,Phụ
+  tử chế, Quế
+Uống
+579
+05C.169.14
+Thục địa, Hoài sơn,Đơn bì, Trạch tả,Phục linh, Sơn thù,Phụ
+  tử chế,Quế nhục
+Uống
+580
+05C.169.15
+Thục địa, Hoài sơn,Đơn bì, Trạch tả,Phục linh, Sơn thù,Hắc
+  phụ, Quế
+Uống
+581
+05C.169.16
+Thục địa, Hoài sơn,Đơn bì, Trạch tả,Phục linh, Sơn thù,Hắc
+  phụ,Quế nhục
+Uống
+582
+05C.169.17
+Thục địa, Hoài sơn,Mẫu đơn bì, Trạch tả, Bạch linh, Sơn
+  thù,Phụ tử chế, Quế
+Uống
+583
+05C.169.18
+Thục địa, Hoài sơn,Mẫu đơn bì, Trạch tả, Bạch linh, Sơn
+  thù,Phụ tử chế,Quế nhục
+Uống
+584
+05C.169.19
+Thục địa, Hoài sơn,Mẫu đơn bì, Trạch tả, Bạch linh, Sơn
+  thù,Hắc phụ, Quế
+Uống
+585
+05C.169.20
+Thục địa, Hoài sơn,Mẫu đơn bì, Trạch tả, Bạch linh, Sơn
+  thù,Hắc phụ,Quế nhục
+Uống
+586
+05C.169.21
+Thục địa, Hoài sơn,Mẫu đơn bì, Trạch tả,Phục linh, Sơn
+  thù,Phụ tử chế, Quế
+Uống
+587
+05C.169.22
+Thục địa, Hoài sơn,Mẫu đơn bì, Trạch tả,Phục linh, Sơn
+  thù,Phụ tử chế,Quế nhục
+Uống
+588
+05C.169.23
+Thục địa, Hoài sơn,Mẫu đơn bì, Trạch tả,Phục linh, Sơn
+  thù,Hắc phụ, Quế
+Uống
+589
+05C.169.24
+Thục địa, Hoài sơn,Mẫu đơn bì, Trạch tả,Phục linh, Sơn
+  thù,Hắc phụ,Quế nhục
+Uống
+590
+05C.170
+Thục địa, Hoài sơn, Táo nhục, Củ súng, Thạch hộc, Phấn tỳ
+  giải, Quế, Phụ tử chế
+Uống
+591
+05C.171
+Thục địa, Phục linh, Hoài Sơn, Sơn thù, Trạch tả, Xa tiền
+  tử, Ngưu tất, Mẫu đơn bì, Nhục quế, Phụ tử chế
+Uống
+592
+05C.172.1
+Bán hạ nam, Bạch linh, Xa tiền tử, Ngũ gia bì chân chim,
+  Sinh khương, Trần bì, Rụt, Sơn tra, Hậu phác nam
+Uống
+593
+05C.172.2
+Bán hạ nam, Bạch linh, Xa tiền tử, Ngũ gia bì chân chim,
+  Sinh khương, Trần bì,Nam Mộc hương, Sơn tra, Hậu phác nam
+Uống
+594
+05C.173
+Bột bèo hoa dâu
+Uống
+595
+05C.174.1
+Câu đằng, Hạ khô thảo, Bạch mao căn, Linh chi, Ích mẫu
+Uống
+596
+05C.174.2
+Câu đằng, Hạ khô thảo,Rễ cỏ tranh, Linh chi, Ích mẫu
+Uống
+597
+05C.175.1
+Câu đằng, Thiên ma, Hoàng cầm, Đỗ trọng, Bạch phục linh,
+  Thạch quyết minh, Ngưu tất, Ích mẫu, Tang ký sinh, Sơn chi, Dạ giao đằng
+Uống
+598
+05C.175.2
+Câu đằng, Thiên ma, Hoàng cầm, Đỗ trọng, Bạch phục linh,
+  Thạch quyết minh, Ngưu tất, Ích mẫu, Tang ký sinh, Sơn chi, Dạ giao đằng, Hòe
+  hoa
+Uống
+599
+05C.176
+Đan sâm, Đương quy, Nhũ hương, Một dược
+Uống
+600
+05C.177
+Đảng sâm, Thục địa, Quế, Ngũ gia bì, Đương qui, Xuyên
+  khung, Long nhãn, Trần bì
+uống
+601
+05C.178.1
+Đương quy di thực
+Uống
+602
+05C.179.1
+Đương quy, Xuyên khung, Thục địa, Bạch thược, Nhân sâm,
+  Bạch linh, Bạch truật, Cam thảo
+Uống
+603
+05C.179.2
+Đương quy, Xuyên khung, Thục địa, Bạch thược, Nhân
+  sâm,Phục linh, Bạch truật, Cam thảo
+Uống
+604
+05C.179.3
+Đương quy, Xuyên khung, Thục địa, Bạch thược,Đảng sâm,
+  Bạch linh, Bạch truật, Cam thảo
+Uống
+605
+05C.179.4
+Đương quy, Xuyên khung, Thục địa, Bạch thược,Đảng sâm,Phục
+  linh, Bạch truật, Cam thảo
+Uống
+606
+05C.180
+Hà thủ ô đỏ, Đảng sâm, Sơn thù, Mạch môn, Hoàng kỳ, Bạch
+  truật, Cam thảo, Ngũ vị tử, Đương quy, Mẫu đơn bì
+Uống
+607
+05C.181.1
+Hà thủ ô đỏ, Bạch thược, Đương quy, Xuyên khung, Ích mẫu,
+  Thục địa
+Uống
+608
+05C.181.2
+Hà thủ ô đỏ, Bạch thược, Đương quy, Xuyên khung, Ích
+  mẫu,Sinh địa
+Uống
+609
+05C.181.3
+Ngưu tất, Bạch thược, Đương quy, Xuyên khung, Ích mẫu,
+  Thục địa
+Uống
+610
+05C.181.4
+Ngưu tất, Bạch thược, Đương quy, Xuyên khung, Ích mẫu,Sinh
+  địa
+Uống
+611
+05C.181.5
+Hà thủ ô đỏ, Bạch thược, Đương quy, Xuyên khung, Ích mẫu,
+  Thục địa, Đan sâm.
+Uống
+612
+05C.181.6
+Hà thủ ô đỏ, Bạch thược, Đương quy, Xuyên khung, Ích
+  mẫu,Sinh địa, Đan sâm.
+Uống
+613
+05C.181.7
+Ngưu tất, Bạch thược, Đương quy, Xuyên khung, Ích mẫu,
+  Thục địa, Đan sâm.
+Uống
+614
+05C.181.8
+Ngưu tất, Bạch thược, Đương quy, Xuyên khung, Ích mẫu,Sinh
+  địa, Đan sâm.
+Uống
+615
+05C.181.9
+Hà thủ ô đỏ, Bạch thược, Đương quy, Xuyên khung, Ích mẫu,
+  Thục địa, Hồng hoa
+Uống
+616
+05C.181.10
+Hà thủ ô đỏ, Bạch thược, Đương quy, Xuyên khung, Ích
+  mẫu,Sinh địa, Hồng hoa
+Uống
+617
+05C.181.11
+Ngưu tất, Bạch thược, Đương quy, Xuyên khung, Ích mẫu,
+  Thục địa, Hồng hoa
+Uống
+618
+05C.181.12
+Ngưu tất, Bạch thược, Đương quy, Xuyên khung, Ích mẫu,Sinh
+  địa, Hồng hoa
+Uống
+619
+05C.181.13
+Hà thủ ô đỏ, Bạch thược, Đương quy, Xuyên khung, Ích mẫu,
+  Thục địa, Hồng hoa, Đan sâm.
+Uống
+620
+05C.181.14
+Hà thủ ô đỏ, Bạch thược, Đương quy, Xuyên khung, Ích
+  mẫu,Sinh địa, Hồng hoa, Đan sâm.
+Uống
+621
+05C.181.15
+Ngưu tất, Bạch thược, Đương quy, Xuyên khung, Ích mẫu,
+  Thục địa, Hồng hoa, Đan sâm.
+Uống
+622
+05C.181.16
+Ngưu tất, Bạch thược, Đương quy, Xuyên khung, Ích mẫu,Sinh
+  địa, Hồng hoa, Đan sâm.
+Uống
+623
+05C.181.17
+Hà thủ ô đỏ, Đương quy, Xuyên khung, Ích mẫu, Thục địa
+Uống
+624
+05C.181.18
+Hà thủ ô đỏ, Đương quy, Xuyên khung, Ích mẫu,Sinh địa
+Uống
+625
+05C.181.19
+Ngưu tất, Đương quy, Xuyên khung, Ích mẫu, Thục địa
+Uống
+626
+05C.181.20
+Ngưu tất, Đương quy, Xuyên khung, Ích mẫu,Sinh địa
+Uống
+627
+05C.181.21
+Hà thủ ô đỏ, Đương quy, Xuyên khung, Ích mẫu, Thục địa,
+  Đan sâm.
+Uống
+628
+05C.181.22
+Hà thủ ô đỏ, Đương quy, Xuyên khung, Ích mẫu,Sinh địa, Đan
+  sâm.
+Uống
+629
+05C.181.23
+Ngưu tất, Đương quy, Xuyên khung, Ích mẫu, Thục địa, Đan
+  sâm.
+Uống
+630
+05C.181.24
+Ngưu tất, Đương quy, Xuyên khung, Ích mẫu,Sinh địa, Đan
+  sâm.
+Uống
+631
+05C.181.25
+Hà thủ ô đỏ, Đương quy, Xuyên khung, Ích mẫu, Thục địa,
+  Hồng hoa
+Uống
+632
+05C.181.26
+Hà thủ ô đỏ, Đương quy, Xuyên khung, Ích mẫu,Sinh địa,
+  Hồng hoa
+Uống
+633
+05C.181.27
+Ngưu tất, Đương quy, Xuyên khung, Ích mẫu, Thục địa, Hồng
+  hoa
+Uống
+634
+05C.181.28
+Ngưu tất, Đương quy, Xuyên khung, Ích mẫu,Sinh địa, Hồng
+  hoa
+Uống
+635
+05C.181.29
+Hà thủ ô đỏ, Đương quy, Xuyên khung, Ích mẫu, Thục địa,
+  Hồng hoa, Đan sâm.
+Uống
+636
+05C.181.30
+Hà thủ ô đỏ, Đương quy, Xuyên khung, Ích mẫu,Sinh địa,
+  Hồng hoa, Đan sâm.
+Uống
+637
+05C.181.31
+Ngưu tất, Đương quy, Xuyên khung, Ích mẫu, Thục địa, Hồng
+  hoa, Đan sâm.
+Uống
+638
+05C.181.32
+Ngưu tất, Đương quy, Xuyên khung, Ích mẫu,Sinh địa, Hồng
+  hoa, Đan sâm.
+Uống
+639
+05C.181.33
+Hà thủ ô đỏ, Xích thược, Đương quy, Xuyên khung, Ích mẫu,
+  Thục địa
+Uống
+640
+05C.181.34
+Hà thủ ô đỏ, Xích thược, Đương quy, Xuyên khung, Ích
+  mẫu,Sinh địa
+Uống
+641
+05C.181.35
+Ngưu tất, Xích thược, Đương quy, Xuyên khung, Ích mẫu,
+  Thục địa
+Uống
+642
+05C.181.36
+Ngưu tất, Xích thược, Đương quy, Xuyên khung, Ích mẫu,Sinh
+  địa
+Uống
+643
+05C.181.37
+Hà thủ ô đỏ, Xích thược, Đương quy, Xuyên khung, Ích mẫu,
+  Thục địa, Đan sâm.
+Uống
+644
+05C.181.38
+Hà thủ ô đỏ, Xích thược, Đương quy, Xuyên khung, Ích
+  mẫu,Sinh địa, Đan sâm.
+Uống
+645
+05C.181.39
+Ngưu tất, Xích thược, Đương quy, Xuyên khung, Ích mẫu,
+  Thục địa, Đan sâm.
+Uống
+646
+05C.181.40
+Ngưu tất, Xích thược, Đương quy, Xuyên khung, Ích mẫu,Sinh
+  địa, Đan sâm.
+Uống
+647
+05C.181.41
+Hà thủ ô đỏ, Xích thược, Đương quy, Xuyên khung, Ích mẫu,
+  Thục địa, Hồng hoa
+Uống
+648
+05C.181.42
+Hà thủ ô đỏ, Xích thược, Đương quy, Xuyên khung, Ích
+  mẫu,Sinh địa, Hồng hoa
+Uống
+649
+05C.181.43
+Ngưu tất, Xích thược, Đương quy, Xuyên khung, Ích mẫu,
+  Thục địa, Hồng hoa
+Uống
+650
+05C.181.44
+Ngưu tất, Xích thược, Đương quy, Xuyên khung, Ích mẫu,Sinh
+  địa, Hồng hoa
+Uống
+651
+05C.181.45
+Hà thủ ô đỏ, Xích thược, Đương quy, Xuyên khung, Ích mẫu,
+  Thục địa, Hồng hoa, Đan sâm.
+Uống
+652
+05C.181.46
+Hà thủ ô đỏ, Xích thược, Đương quy, Xuyên khung, Ích
+  mẫu,Sinh địa, Hồng hoa, Đan sâm.
+Uống
+653
+05C.181.47
+Ngưu tất, Xích thược, Đương quy, Xuyên khung, Ích mẫu,
+  Thục địa, Hồng hoa, Đan sâm.
+Uống
+654
+05C.181.48
+Ngưu tất, Xích thược, Đương quy, Xuyên khung, Ích mẫu,Sinh
+  địa, Hồng hoa, Đan sâm.
+Uống
+655
+05C.182
+Hải sâm.
+Uống
+656
+05C.183
+Hoàng kỳ, Đào nhân, Hồng hoa, Địa long,  Nhân sâm, Xuyên
+  khung, Đương quy, Xích thược, Bạch thược
+Uống
+657
+05C.184
+Hoàng kỳ, Đương quy, Kỷ tử
+Uống
+658
+05C.185
+Huyết giác
+Uống
+659
+05C.186.1
+Ngưu tất, Nghệ, Hoa hoè
+Uống
+660
+05C.186.2
+Ngưu tất, Nghệ,Rutin
+Uống
+661
+05C.186.3
+Ngưu tất, Nghệ, Hoa hoè, Bạch truật
+Uống
+662
+05C.186.4
+Ngưu tất, Nghệ,Rutin, Bạch truật
+Uống
+663
+05C.187
+Nhân sâm, Thủy điệt, Toàn yết, Xích thược, Thuyền thoái,
+  Thổ miết trùng, Ngô công, Đàn hương, Giáng hương, Nhũ hương, Toan táo nhân,
+  Băng phiến
+Uống
+664
+05C.188
+Phòng phong, Hòe giác, Đương quy,  Địa du, Chỉ xác, Hoàng
+  cầm
+Uống
+665
+05C.189.1
+Quy bản, Thục địa, Hoàng bá, Tri mẫu
+Uống
+666
+05C.189.2
+Cao xương, Thục địa, Hoàng bá, Tri mẫu
+Uống
+667
+05C.190.1
+Sinh địa, Mạch môn, Thiên hoa phấn, Hoàng kỳ, Kỷ tử, Bạch
+  linh, Ngũ vị tử, Mẫu đơn bì, Hoàng liên, Nhân sâm
+Uống
+668
+05C.190.2
+Sinh địa, Mạch môn, Thiên hoa phấn, Hoàng kỳ, Kỷ tử,Phục
+  linh, Ngũ vị tử, Mẫu đơn bì, Hoàng liên, Nhân sâm
+Uống
+669
+05C.190.3
+Sinh địa, Mạch môn, Thiên hoa phấn, Hoàng kỳ,Câu kỷ tử,
+  Bạch linh, Ngũ vị tử, Mẫu đơn bì, Hoàng liên, Nhân sâm
+Uống
+670
+05C.190.4
+Sinh địa, Mạch môn, Thiên hoa phấn, Hoàng kỳ,Câu kỷ
+  tử,Phục linh, Ngũ vị tử, Mẫu đơn bì, Hoàng liên, Nhân sâm
+Uống
+671
+05C.190.5
+Sinh địa, Mạch môn, Thiên hoa phấn, Hoàng kỳ, Kỷ tử, Bạch
+  linh, Ngũ vị tử, Mẫu đơn bì, Hoàng liên, Nhân sâm, Thạch cao
+Uống
+672
+05C.190.6
+Sinh địa, Mạch môn, Thiên hoa phấn, Hoàng kỳ, Kỷ tử,Phục
+  linh, Ngũ vị tử, Mẫu đơn bì, Hoàng liên, Nhân sâm, Thạch cao
+Uống
+673
+05C.190.7
+Sinh địa, Mạch môn, Thiên hoa phấn, Hoàng kỳ,Câu kỷ tử,
+  Bạch linh, Ngũ vị tử, Mẫu đơn bì, Hoàng liên, Nhân sâm, Thạch cao
+Uống
+674
+05C.190.8
+Sinh địa, Mạch môn, Thiên hoa phấn, Hoàng kỳ,Câu kỷ
+  tử,Phục linh, Ngũ vị tử, Mẫu đơn bì, Hoàng liên, Nhân sâm, Thạch cao
+Uống
+675
+05C.191
+Tam thất
+Uống
+676
+05C.192
+Thổ miết  trùng, Hồng hoa, Tự nhiên đồng, Long não, Hạt
+  dưa chuột, Tục đoạn, Tam thất, Đương quy, Lạc tân phụ
+Uống
+677
+05C.193.1
+Thục địa, Hoài sơn, Sơn thù, Đan bì, Bạch linh, Trạch tả
+Uống
+678
+05C.193.2
+Thục địa, Hoài sơn, Sơn thù, Đan bì,Phục linh, Trạch tả
+Uống
+679
+05C.193.3
+Thục địa, Hoài sơn, Sơn thù,Mẫu đơn bì, Bạch linh, Trạch
+  tả
+Uống
+680
+05C.193.4
+Thục địa, Hoài sơn, Sơn thù,Mẫu đơn bì,Phục linh, Trạch tả
+Uống
+681
+05C.194.1
+Thục địa, Sơn thù, Hoài sơn, Mẫu đơn, Trạch tả, Phục linh,
+  Mạch môn, Bạch thược, Đỗ trọng, Ngưu tất, Lộc nhung
+Uống
+682
+05C.194.2
+Thục địa, Sơn thù, Hoài sơn, Mẫu đơn, Trạch tả, Phục linh,
+  Mạch môn, Bạch thược, Đỗ trọng, Ngưu tất, Lộc nhung, Thạch hộc
+Uống
+683
+05C.195
+Thục địa, Táo nhục, Củ súng, Thạch hộc, Hoài sơn, Tỳ giải
+Uống
+684
+05C.196
+Đảng sâm, Bạch linh, Bạch truật, Cam thảo, Thục địa, Bạch
+  thược, Đương quy, Xuyên khung, Ích mẫu
+Uống
+685
+05C.197
+Hoài sơn, Thục địa, Trư ma căn, Ngải cứu, Tô ngạnh, Tục
+  đoạn, Trần bì, Hương phụ, Sa nhân, Cao xương hỗn hợp
+Uống
+686
+05C.198
+Ích mẫu, Bạch thược, Đại hoàng, Thục địa, Hương phụ, Đương
+  quy, Bạch truật, Xuyên khung, Huyền hồ sách, Phục linh
+Uống
+687
+05C.199.1
+Ích mẫu, Hương phụ, Ngải cứu
+Uống
+688
+05C.199.2
+Ích mẫu, Hương phụ, Ngải cứu, Đương quy
+Uống
+689
+05C.200
+Lô hội, Khổ hạnh nhân, Giáng hương, Nga truật, Mạch môn,
+  Bạch vi, Ngũ vị tử, Nhân trần, Lộc nhung, Cam tùng hương
+Uống
+690
+05C.201.1
+Thục địa, Đương quy, Bạch thược, Xuyên khung, Ích mẫu,
+  Ngải cứu, Hương phụ
+Uống
+691
+05C.201.2
+Thục địa, Đương quy, Bạch thược, Xuyên khung, Ích mẫu,
+  Ngải cứu,Hương phụ chế
+Uống
+692
+05C.201.3
+Thục địa, Đương quy, Bạch thược, Xuyên khung, Ích mẫu,Ngải
+  diệp, Hương phụ
+Uống
+693
+05C.201.4
+Thục địa, Đương quy, Bạch thược, Xuyên khung, Ích mẫu,Ngải
+  diệp,Hương phụ chế
+Uống
+694
+05C.201.5
+Thục địa, Đương quy,Hà thủ ô, Xuyên khung, Ích mẫu, Ngải
+  cứu, Hương phụ
+Uống
+695
+05C.201.6
+Thục địa, Đương quy,Hà thủ ô, Xuyên khung, Ích mẫu, Ngải
+  cứu,Hương phụ chế
+Uống
+696
+05C.201.7
+Thục địa, Đương quy,Hà thủ ô, Xuyên khung, Ích mẫu,Ngải
+  diệp, Hương phụ
+Uống
+697
+05C.201.8
+Thục địa, Đương quy,Hà thủ ô, Xuyên khung, Ích mẫu,Ngải
+  diệp,Hương phụ chế
+Uống
+698
+05C.201.9
+Thục địa, Đương quy, Bạch thược, Xuyên khung, Ích mẫu,
+  Ngải cứu, Hương phụ, Đảng sâm
+Uống
+699
+05C.201.10
+Thục địa, Đương quy, Bạch thược, Xuyên khung, Ích mẫu,
+  Ngải cứu,Hương phụ chế, Đảng sâm
+Uống
+700
+05C.201.11
+Thục địa, Đương quy, Bạch thược, Xuyên khung, Ích mẫu,Ngải
+  diệp, Hương phụ, Đảng sâm
+Uống
+701
+05C.201.12
+Thục địa, Đương quy, Bạch thược, Xuyên khung, Ích mẫu,Ngải
+  diệp,Hương phụ chế, Đảng sâm
+Uống
+702
+05C.201.13
+Thục địa, Đương quy,Hà thủ ô, Xuyên khung, Ích mẫu, Ngải
+  cứu, Hương phụ, Đảng sâm
+Uống
+703
+05C.201.14
+Thục địa, Đương quy,Hà thủ ô, Xuyên khung, Ích mẫu, Ngải
+  cứu,Hương phụ chế, Đảng sâm
+Uống
+704
+05C.201.15
+Thục địa, Đương quy,Hà thủ ô, Xuyên khung, Ích mẫu,Ngải
+  diệp, Hương phụ, Đảng sâm
+Uống
+705
+05C.201.16
+Thục địa, Đương quy,Hà thủ ô, Xuyên khung, Ích mẫu,Ngải
+  diệp,Hương phụ chế, Đảng sâm
+Uống
+706
+05C.201.17
+Thục địa, Đương quy, Bạch thược, Xuyên khung, Ích mẫu,
+  Ngải cứu, Hương phụ, Nghệ
+Uống
+707
+05C.201.18
+Thục địa, Đương quy, Bạch thược, Xuyên khung, Ích mẫu,
+  Ngải cứu,Hương phụ chế, Nghệ
+Uống
+708
+05C.201.19
+Thục địa, Đương quy, Bạch thược, Xuyên khung, Ích mẫu,Ngải
+  diệp, Hương phụ, Nghệ
+Uống
+709
+05C.201.20
+Thục địa, Đương quy, Bạch thược, Xuyên khung, Ích mẫu,Ngải
+  diệp,Hương phụ chế, Nghệ
+Uống
+710
+05C.201.21
+Thục địa, Đương quy,Hà thủ ô, Xuyên khung, Ích mẫu, Ngải
+  cứu, Hương phụ, Nghệ
+Uống
+711
+05C.201.22
+Thục địa, Đương quy,Hà thủ ô, Xuyên khung, Ích mẫu, Ngải
+  cứu,Hương phụ chế, Nghệ
+Uống
+712
+05C.201.23
+Thục địa, Đương quy,Hà thủ ô, Xuyên khung, Ích mẫu,Ngải
+  diệp, Hương phụ, Nghệ
+Uống
+713
+05C.201.24
+Thục địa, Đương quy,Hà thủ ô, Xuyên khung, Ích mẫu,Ngải
+  diệp,Hương phụ chế, Nghệ
+Uống
+714
+05C.201.25
+Thục địa, Đương quy, Bạch thược, Xuyên khung, Ích mẫu,
+  Ngải cứu, Hương phụ, Nghệ, Đảng sâm
+Uống
+715
+05C.201.26
+Thục địa, Đương quy, Bạch thược, Xuyên khung, Ích mẫu,
+  Ngải cứu,Hương phụ chế, Nghệ, Đảng sâm
+Uống
+716
+05C.201.27
+Thục địa, Đương quy, Bạch thược, Xuyên khung, Ích mẫu,Ngải
+  diệp, Hương phụ, Nghệ, Đảng sâm
+Uống
+717
+05C.201.28
+Thục địa, Đương quy, Bạch thược, Xuyên khung, Ích mẫu,Ngải
+  diệp,Hương phụ chế, Nghệ, Đảng sâm
+Uống
+718
+05C.201.29
+Thục địa, Đương quy,Hà thủ ô, Xuyên khung, Ích mẫu, Ngải
+  cứu, Hương phụ, Nghệ, Đảng sâm
+Uống
+719
+05C.201.30
+Thục địa, Đương quy,Hà thủ ô, Xuyên khung, Ích mẫu, Ngải
+  cứu,Hương phụ chế, Nghệ, Đảng sâm
+Uống
+720
+05C.201.31
+Thục địa, Đương quy,Hà thủ ô, Xuyên khung, Ích mẫu,Ngải
+  diệp, Hương phụ, Nghệ, Đảng sâm
+Uống
+721
+05C.201.32
+Thục địa, Đương quy,Hà thủ ô, Xuyên khung, Ích mẫu,Ngải
+  diệp,Hương phụ chế, Nghệ, Đảng sâm
+Uống
+722
+05C.202
+Bạch chỉ, Đinh hương
+Dùng ngoài
+723
+05C.203
+Bạch chỉ, Phòng phong, Hoàng cầm, Ké đầu ngựa, Hạ khô
+  thảo, Cỏ hôi, Kim ngân hoa
+Uống
+724
+05C.204
+Bạch chỉ; Tân di hoa; Thương nhĩ tử; Tinh dầu Bạc hà
+Uống
+725
+05C.205.1
+Bạch tật lê, Bạch thược, Câu kỷ tử, Cúc hoa, Đan bì, Đương
+  quy, Hoài sơn, Phục linh, Thục địa, Sơn thù, Thạch quyết minh
+Uống
+726
+05C.205.2
+Bạch tật lê, Bạch thược, Câu kỷ tử, Cúc hoa, Đan bì, Đương
+  quy, Hoài sơn, Phục linh, Thục địa,Sơn thù du, Thạch quyết minh
+Uống
+727
+05C.205.3
+Bạch tật lê, Bạch thược, Câu kỷ tử, Cúc hoa, Đan bì, Đương
+  quy, Hoài sơn,Bạch linh, Thục địa, Sơn thù, Thạch quyết minh
+Uống
+728
+05C.205.4
+Bạch tật lê, Bạch thược, Câu kỷ tử, Cúc hoa, Đan bì, Đương
+  quy, Hoài sơn,Bạch linh, Thục địa,Sơn thù du, Thạch quyết minh
+Uống
+729
+05C.205.5
+Bạch tật lê, Bạch thược, Câu kỷ tử, Cúc hoa,Mẫu đơn bì,
+  Đương quy, Hoài sơn, Phục linh, Thục địa, Sơn thù, Thạch quyết minh
+Uống
+730
+05C.205.6
+Bạch tật lê, Bạch thược, Câu kỷ tử, Cúc hoa,Mẫu đơn bì,
+  Đương quy, Hoài sơn, Phục linh, Thục địa,Sơn thù du, Thạch quyết minh
+Uống
+731
+05C.205.7
+Bạch tật lê, Bạch thược, Câu kỷ tử, Cúc hoa,Mẫu đơn bì,
+  Đương quy, Hoài sơn,Bạch linh, Thục địa, Sơn thù, Thạch quyết minh
+Uống
+732
+05C.205.8
+Bạch tật lê, Bạch thược, Câu kỷ tử, Cúc hoa,Mẫu đơn bì,
+  Đương quy, Hoài sơn,Bạch linh, Thục địa,Sơn thù du, Thạch quyết minh
+Uống
+733
+05C.205.9
+Bạch tật lê, Bạch thược, Câu kỷ tử, Cúc hoa, Đan bì, Đương
+  quy, Hoài sơn, Phục linh, Thục địa, Sơn thù, Thạch quyết minh, Trạch tả
+Uống
+734
+05C.205.10
+Bạch tật lê, Bạch thược, Câu kỷ tử, Cúc hoa, Đan bì, Đương
+  quy, Hoài sơn, Phục linh, Thục địa,Sơn thù du, Thạch quyết minh, Trạch tả
+Uống
+735
+05C.205.11
+Bạch tật lê, Bạch thược, Câu kỷ tử, Cúc hoa, Đan bì, Đương
+  quy, Hoài sơn,Bạch linh, Thục địa, Sơn thù, Thạch quyết minh, Trạch tả
+Uống
+736
+05C.205.12
+Bạch tật lê, Bạch thược, Câu kỷ tử, Cúc hoa, Đan bì, Đương
+  quy, Hoài sơn,Bạch linh, Thục địa,Sơn thù du, Thạch quyết minh, Trạch tả
+Uống
+737
+05C.205.13
+Bạch tật lê, Bạch thược, Câu kỷ tử, Cúc hoa,Mẫu đơn bì,
+  Đương quy, Hoài sơn, Phục linh, Thục địa, Sơn thù, Thạch quyết minh, Trạch tả
+Uống
+738
+05C.205.14
+Bạch tật lê, Bạch thược, Câu kỷ tử, Cúc hoa,Mẫu đơn bì, Đương
+  quy, Hoài sơn, Phục linh, Thục địa,Sơn thù du, Thạch quyết minh, Trạch tả
+Uống
+739
+05C.205.15
+Bạch tật lê, Bạch thược, Câu kỷ tử, Cúc hoa,Mẫu đơn bì,
+  Đương quy, Hoài sơn,Bạch linh, Thục địa, Sơn thù, Thạch quyết minh, Trạch tả
+Uống
+740
+05C.205.16
+Bạch tật lê, Bạch thược, Câu kỷ tử, Cúc hoa,Mẫu đơn bì,
+  Đương quy, Hoài sơn,Bạch linh, Thục địa,Sơn thù du, Thạch quyết minh, Trạch
+  tả
+Uống
+741
+05C.206
+Liên kiều, Kim ngân hoa, Hoàng cầm, Menthol, Eucalyptol,
+  Camphor
+Dùng ngoài
+742
+05C.207.1
+Ngũ sắc
+Dùng ngoài
+743
+05C.207.2
+Ngũ sắc, Tân di hoa, Thương Nhĩ Tử
+Dùng ngoài
+744
+05C.208.1
+Tân di, Cảo bản, Bạch chỉ, Phòng phong, Tế tân, Xuyên
+  khung, Thăng ma, Cam thảo
+Uống
+745
+05C.208.2
+Tân di hoa, Cảo bản, Bạch chỉ, Phòng phong, Tế tân, Xuyên
+  khung, Thăng ma, Cam thảo
+Uống
+746
+05C.209
+Tân di hoa, Thăng ma, Xuyên khung, Bạch chỉ, Cam thảo
+Uống
+747
+05C.210.1
+Thục địa, Hoài sơn, Đan bì, Bạch linh, Trạch tả, Sơn thù,
+  Câu kỷ tử, Cúc hoa, Đan sâm, Thảo quyết minh
+Uống
+748
+05C.210.2
+Thục địa, Hoài sơn,Mẫu đơn bì, Bạch linh, Trạch tả, Sơn
+  thù, Câu kỷ tử, Cúc hoa, Đan sâm, Thảo quyết minh
+Uống
+749
+05C.210.3
+Thục địa, Hoài sơn,Đơn bì, Bạch linh, Trạch tả, Sơn thù,
+  Câu kỷ tử, Cúc hoa, Đan sâm, Thảo quyết minh
+Uống
+750
+05C.210.4
+Thục địa, Hoài sơn, Đan bì, Bạch linh, Trạch tả, Sơn thù,
+  Câu kỷ tử, Cúc hoa, Đan sâm, Thảo quyết minh, Đậu đen.
+Uống
+751
+05C.210.5
+Thục địa, Hoài sơn,Mẫu đơn bì, Bạch linh, Trạch tả, Sơn
+  thù, Câu kỷ tử, Cúc hoa, Đan sâm, Thảo quyết minh, Đậu đen.
+Uống
+752
+05C.210.6
+Thục địa, Hoài sơn,Đơn bì, Bạch linh, Trạch tả, Sơn thù,
+  Câu kỷ tử, Cúc hoa, Đan sâm, Thảo quyết minh, Đậu đen.
+Uống
+753
+05C.211.1
+Thục địa, Hoài sơn, Đan bì, Bạch linh, Trạch tả, Sơn thù,
+  Câu kỷ tử, Cúc hoa.
+Uống
+754
+05C.211.2
+Thục địa, Hoài sơn, Đan bì,Phục linh, Trạch tả, Sơn thù,
+  Câu kỷ tử, Cúc hoa.
+Uống
+755
+05C.211.3
+Thục địa, Hoài sơn,Đơn bì,Bạch phục linh, Trạch tả, Sơn
+  thù, Câu kỷ tử, Cúc hoa.
+Uống
+756
+05C.211.4
+Thục địa, Hoài sơn,Đơn bì,Phục linh, Trạch tả, Sơn thù,
+  Câu kỷ tử, Cúc hoa.
+Uống
+757
+05C.211.5
+Thục địa, Hoài sơn,Mẫu đơn bì, Bạch linh, Trạch tả, Sơn
+  thù, Câu kỷ tử, Cúc hoa.
+Uống
+758
+05C.211.6
+Thục địa, Hoài sơn,Mẫu đơn bì,Bạch phục linh, Trạch tả,
+  Sơn thù, Câu kỷ tử, Cúc hoa.
+Uống
+759
+05C.211.7
+Thục địa, Hoài sơn,Mẫu đơn bì,Phục linh, Trạch tả, Sơn thù,
+  Câu kỷ tử, Cúc hoa.
+Uống
+760
+05C.211.8
+Thục địa, Hoài sơn, Đan bì,Bạch phục linh, Trạch tả, Sơn
+  thù, Câu kỷ tử, Cúc hoa.
+Uống
+761
+05C.211.9
+Thục địa, Hoài sơn,Đơn bì, Bạch linh, Trạch tả, Sơn thù,
+  Câu kỷ tử, Cúc hoa.
+Uống
+762
+05C.212.1
+Thục địa, Hoài sơn, Trạch tả, Cúc hoa, Thảo quyết minh, Hạ
+  khô thảo, Hà thủ ô đỏ
+Uống
+763
+05C.212.2
+Thục địa, Hoài sơn, Trạch tả, Cúc hoa, Thảo quyết minh, Hạ
+  khô thảo, Hà thủ ô đỏ, Đương quy
+Uống
+764
+05C.213.1
+Thương nhĩ tử, Hoàng kỳ, Bạch chỉ, Phòng phong, Tân di
+  hoa, Bạch truật, Bạc hà
+Uống
+765
+05C.213.2
+Thương nhĩ tử, Hoàng kỳ, Bạch chỉ, Phòng phong, Tân di
+  hoa, Bạch truật, Bạc hà, Kim ngân hoa
+Uống
+766
+05C.214
+Thương nhĩ tử, Tân di hoa, Cỏ hôi, Bạch chỉ, Tế tân, Xuyên
+  khung, Hoàng kỳ, Cát cánh, Sài hồ bắc, Bạc hà, Hoàng cầm, Chi tử, Phục linh
+Uống
+767
+05C.215.1
+Tinh dầu tràm, Tinh dầu gừng, Tinh dầu tần, Menthol
+Uống
+768
+05C.215.2
+Cineol, Tinh dầu gừng, Tinh dầu tần, Menthol
+Uống
+769
+05C.215.3
+Tinh dầu tràm, Tinh dầu gừng, Tinh dầu tần, Menthol,
+  Eucalyptol
+Uống
+770
+05C.215.4
+Cineol, Tinh dầu gừng, Tinh dầu tần, Menthol, Eucalyptol
+Uống
+771
+05C.216.1
+Camphor, Tinh dầu bạc hà, Tinh dầu tràm, Tinh dầu hương
+  nhu, Tinh dầu quế
+Dùng ngoài
+772
+05C.216.2
+Long não, Tinh dầu bạc hà, Tinh dầu tràm, Tinh dầu hương nhu,
+  Tinh dầu quế
+Dùng ngoài
+773
+05C.216.3
+Camphor, Tinh dầu bạc hà, Tinh dầu tràm, Tinh dầu hương
+  nhu, Tinh dầu quế, Methol
+Dùng ngoài
+774
+05C.216.4
+Long não, Tinh dầu bạc hà, Tinh dầu tràm, Tinh dầu hương
+  nhu, Tinh dầu quế, Methol
+Dùng ngoài
+775
+05C.217
+Dầu gió các loại
+Dùng ngoài
+776
+05C.218
+Dầu gừng
+Dùng ngoài
+777
+05C.219
+Địa liền, Thương truật, Đại hồi, Quế chi, Thiên niên kiện,
+  Huyết giác, Long não
+Dùng ngoài
+778
+05C.220
+Hoàng bá, Hoàng liên, Hoàng đằng, Sài hồ
+Dùng ngoài
+779
+05C.221
+Lá xoài
+Dùng ngoài
+780
+05C.222.1
+Long não, Tinh dầu bạc hà, Tinh dầu quế
+Dùng ngoài
+781
+05C.222.2
+Camphor, Tinh dầu bạc hà, Tinh dầu quế
+Dùng ngoài
+782
+05C.222.3
+Long não, Tinh dầu bạc hà, Tinh dầu quế, Gừng
+Dùng ngoài
+783
+05C.222.4
+Camphor, Tinh dầu bạc hà, Tinh dầu quế, Gừng
+Dùng ngoài
+784
+05C.222.5
+Long não, Tinh dầu bạc hà, Tinh dầu quế, Gừng, Tinh dầu
+  hương nhu trắng
+Dùng ngoài
+785
+05C.222.6
+Camphor, Tinh dầu bạc hà, Tinh dầu quế, Gừng, Tinh dầu
+  hương nhu trắng
+Dùng ngoài
+786
+05C.222.7
+Long não, Tinh dầu bạc hà, Tinh dầu quế, Menthol
+Dùng ngoài
+787
+05C.222.8
+Camphor, Tinh dầu bạc hà, Tinh dầu quế, Menthol
+Dùng ngoài
+788
+05C.222.9
+Long não, Tinh dầu bạc hà, Tinh dầu quế, Menthol, Gừng
+Dùng ngoài
+789
+05C.222.10
+Camphor, Tinh dầu bạc hà, Tinh dầu quế, Menthol, Gừng
+Dùng ngoài
+790
+05C.222.11
+Long não, Tinh dầu bạc hà, Tinh dầu quế, Menthol, Gừng,
+  Tinh dầu hương nhu trắng
+Dùng ngoài
+791
+05C.222.12
+Camphor, Tinh dầu bạc hà, Tinh dầu quế, Menthol, Gừng,
+  Tinh dầu hương nhu trắng
+Dùng ngoài
+792
+05C.222.13
+Long não, Tinh dầu bạc hà, Tinh dầu quế, Menthol, Tinh dầu
+  hương nhu trắng
+Dùng ngoài
+793
+05C.222.14
+Camphor, Tinh dầu bạc hà, Tinh dầu quế, Menthol, Tinh dầu
+  hương nhu trắng
+Dùng ngoài
+794
+05C.222.15
+Long não, Tinh dầu bạc hà, Tinh dầu quế, Methyl salycilat
+Dùng ngoài
+795
+05C.222.16
+Camphor, Tinh dầu bạc hà, Tinh dầu quế, Methyl salycilat
+Dùng ngoài
+796
+05C.222.17
+Long não, Tinh dầu bạc hà, Tinh dầu quế, Methyl salycilat,
+  Gừng
+Dùng ngoài
+797
+05C.222.18
+Camphor, Tinh dầu bạc hà, Tinh dầu quế, Methyl salycilat,
+  Gừng
+Dùng ngoài
+798
+05C.222.19
+Long não, Tinh dầu bạc hà, Tinh dầu quế, Methyl salycilat,
+  Gừng, Tinh dầu hương nhu trắng
+Dùng ngoài
+799
+05C.222.20
+Camphor, Tinh dầu bạc hà, Tinh dầu quế, Methyl salycilat,
+  Gừng, Tinh dầu hương nhu trắng
+Dùng ngoài
+800
+05C.222.21
+Long não, Tinh dầu bạc hà, Tinh dầu quế, Methyl salycilat,
+  Menthol
+Dùng ngoài
+801
+05C.222.22
+Camphor, Tinh dầu bạc hà, Tinh dầu quế, Methyl salycilat,
+  Menthol
+Dùng ngoài
+802
+05C.222.23
+Long não, Tinh dầu bạc hà, Tinh dầu quế, Methyl salycilat,
+  Menthol, Gừng
+Dùng ngoài
+803
+05C.222.24
+Camphor, Tinh dầu bạc hà, Tinh dầu quế, Methyl salycilat,
+  Menthol, Gừng
+Dùng ngoài
+804
+05C.222.25
+Long não, Tinh dầu bạc hà, Tinh dầu quế, Methyl salycilat,
+  Menthol, Gừng, Tinh dầu hương nhu trắng
+Dùng ngoài
+805
+05C.222.26
+Camphor, Tinh dầu bạc hà, Tinh dầu quế, Methyl salycilat,
+  Menthol, Gừng, Tinh dầu hương nhu trắng
+Dùng ngoài
+806
+05C.222.27
+Long não, Tinh dầu bạc hà, Tinh dầu quế, Methyl salycilat,
+  Menthol, Tinh dầu hương nhu trắng
+Dùng ngoài
+807
+05C.222.28
+Camphor, Tinh dầu bạc hà, Tinh dầu quế, Methyl salycilat,
+  Menthol, Tinh dầu hương nhu trắng
+Dùng ngoài
+808
+05C.222.29
+Long não, Tinh dầu bạc hà, Tinh dầu quế, Methyl salycilat,
+  Tinh dầu hương nhu trắng
+Dùng ngoài
+809
+05C.222.30
+Camphor, Tinh dầu bạc hà, Tinh dầu quế, Methyl salycilat,
+  Tinh dầu hương nhu trắng
+Dùng ngoài
+810
+05C.222.31
+Long não, Tinh dầu bạc hà, Tinh dầu quế, Methyl
+  salycilat,Eucalyptol
+Dùng ngoài
+811
+05C.222.32
+Camphor, Tinh dầu bạc hà, Tinh dầu quế, Methyl
+  salycilat,Eucalyptol
+Dùng ngoài
+812
+05C.222.33
+Long não, Tinh dầu bạc hà, Tinh dầu quế, Methyl
+  salycilat,Eucalyptol, Gừng
+Dùng ngoài
+813
+05C.222.34
+Camphor, Tinh dầu bạc hà, Tinh dầu quế, Methyl
+  salycilat,Eucalyptol, Gừng
+Dùng ngoài
+814
+05C.222.35
+Long não, Tinh dầu bạc hà, Tinh dầu quế, Methyl
+  salycilat,Eucalyptol, Gừng, Tinh dầu hương nhu trắng
+Dùng ngoài
+815
+05C.222.36
+Camphor, Tinh dầu bạc hà, Tinh dầu quế, Methyl
+  salycilat,Eucalyptol, Gừng, Tinh dầu hương nhu trắng
+Dùng ngoài
+816
+05C.222.37
+Long não, Tinh dầu bạc hà, Tinh dầu quế, Methyl
+  salycilat,Eucalyptol, Tinh dầu hương nhu trắng
+Dùng ngoài
+817
+05C.222.38
+Camphor, Tinh dầu bạc hà, Tinh dầu quế, Methyl
+  salycilat,Eucalyptol, Tinh dầu hương nhu trắng
+Dùng ngoài
+818
+05C.222.39
+Long não, Tinh dầu bạc hà, Tinh dầu quế, Tinh dầu hương
+  nhu trắng
+Dùng ngoài
+819
+05C.222.40
+Camphor, Tinh dầu bạc hà, Tinh dầu quế, Tinh dầu hương nhu
+  trắng
+Dùng ngoài
+820
+05C.222.41
+Long não, Tinh dầu bạc hà, Tinh dầu quế,Eucalyptol
+Dùng ngoài
+821
+05C.222.42
+Camphor, Tinh dầu bạc hà, Tinh dầu quế,Eucalyptol
+Dùng ngoài
+822
+05C.222.43
+Long não, Tinh dầu bạc hà, Tinh dầu quế,Eucalyptol, Gừng
+Dùng ngoài
+823
+05C.222.44
+Camphor, Tinh dầu bạc hà, Tinh dầu quế,Eucalyptol, Gừng
+Dùng ngoài
+824
+05C.222.45
+Long não, Tinh dầu bạc hà, Tinh dầu quế,Eucalyptol, Gừng,
+  Tinh dầu hương nhu trắng
+Dùng ngoài
+825
+05C.222.46
+Camphor, Tinh dầu bạc hà, Tinh dầu quế,Eucalyptol, Gừng,
+  Tinh dầu hương nhu trắng
+Dùng ngoài
+826
+05C.222.47
+Long não, Tinh dầu bạc hà, Tinh dầu quế,Eucalyptol, Tinh
+  dầu hương nhu trắng
+Dùng ngoài
+827
+05C.222.48
+Camphor, Tinh dầu bạc hà, Tinh dầu quế,Eucalyptol, Tinh
+  dầu hương nhu trắng
+Dùng ngoài
+828
+05C.223
+Mã tiền, Huyết giác, Ô đầu, Đại hồi, Long não, Một dược,
+  Địa liền, Nhũ hương, Đinh hương, Quế, Gừng, Methyl salicylat, Gelatin,
+  Ethanol
+Dùng ngoài
+829
+05C.224.1
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Huyết
+  giác, Methyl salicylat
+Dùng ngoài
+830
+05C.224.2
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Huyết
+  giác, Camphora
+Dùng ngoài
+831
+05C.224.3
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Huyết
+  giác, Methyl salicylat
+Dùng ngoài
+832
+05C.224.4
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Huyết
+  giác, Camphora
+Dùng ngoài
+833
+05C.224.5
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Huyết
+  giác, Methyl salicylat, Riềng
+Dùng ngoài
+834
+05C.224.6
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Huyết
+  giác, Camphora, Riềng
+Dùng ngoài
+835
+05C.224.7
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Huyết
+  giác, Methyl salicylat, Riềng
+Dùng ngoài
+836
+05C.224.8
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Huyết
+  giác, Camphora, Riềng
+Dùng ngoài
+837
+05C.224.9
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Huyết
+  giác, Methyl salicylat, Tế tân
+Dùng ngoài
+838
+05C.224.10
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Huyết
+  giác, Camphora, Tế tân
+Dùng ngoài
+839
+05C.224.11
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Huyết
+  giác, Methyl salicylat, Tế tân
+Dùng ngoài
+840
+05C.224.12
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Huyết
+  giác, Camphora, Tế tân
+Dùng ngoài
+841
+05C.224.13
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Huyết
+  giác, Methyl salicylat, Tế tân, Riềng
+Dùng ngoài
+842
+05C.224.14
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Huyết
+  giác, Camphora, Tế tân, Riềng
+Dùng ngoài
+843
+05C.224.15
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Huyết
+  giác, Methyl salicylat, Tế tân, Riềng
+Dùng ngoài
+844
+05C.224.16
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Huyết
+  giác, Camphora, Tế tân, Riềng
+Dùng ngoài
+845
+05C.224.17
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Huyết
+  giác, Xuyên khung, Methyl salicylat
+Dùng ngoài
+846
+05C.224.18
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Huyết
+  giác, Xuyên khung, Camphora
+Dùng ngoài
+847
+05C.224.19
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Huyết
+  giác, Xuyên khung, Methyl salicylat
+Dùng ngoài
+848
+05C.224.20
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Huyết
+  giác, Xuyên khung, Camphora
+Dùng ngoài
+849
+05C.224.21
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Huyết
+  giác, Xuyên khung, Methyl salicylat, Riềng
+Dùng ngoài
+850
+05C.224.22
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Huyết
+  giác, Xuyên khung, Camphora, Riềng
+Dùng ngoài
+851
+05C.224.23
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Huyết
+  giác, Xuyên khung, Methyl salicylat, Riềng
+Dùng ngoài
+852
+05C.224.24
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Huyết
+  giác, Xuyên khung, Camphora, Riềng
+Dùng ngoài
+853
+05C.224.25
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Huyết
+  giác, Xuyên khung, Methyl salicylat, Tế tân
+Dùng ngoài
+854
+05C.224.26
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Huyết
+  giác, Xuyên khung, Camphora, Tế tân
+Dùng ngoài
+855
+05C.224.27
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Huyết giác,
+  Xuyên khung, Methyl salicylat, Tế tân
+Dùng ngoài
+856
+05C.224.28
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Huyết
+  giác, Xuyên khung, Camphora, Tế tân
+Dùng ngoài
+857
+05C.224.29
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Huyết
+  giác, Xuyên khung, Methyl salicylat, Tế tân, Riềng
+Dùng ngoài
+858
+05C.224.30
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Huyết
+  giác, Xuyên khung, Camphora, Tế tân, Riềng
+Dùng ngoài
+859
+05C.224.31
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Huyết
+  giác, Xuyên khung, Methyl salicylat, Tế tân, Riềng
+Dùng ngoài
+860
+05C.224.32
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Huyết
+  giác, Xuyên khung, Camphora, Tế tân, Riềng
+Dùng ngoài
+861
+05C.224.33
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Mã
+  tiền, Huyết giác, Methyl salicylat
+Dùng ngoài
+862
+05C.224.34
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Mã
+  tiền, Huyết giác, Camphora
+Dùng ngoài
+863
+05C.224.35
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Mã
+  tiền, Huyết giác, Methyl salicylat
+Dùng ngoài
+864
+05C.224.36
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Mã
+  tiền, Huyết giác, Camphora
+Dùng ngoài
+865
+05C.224.37
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Mã
+  tiền, Huyết giác, Methyl salicylat, Riềng
+Dùng ngoài
+866
+05C.224.38
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Mã
+  tiền, Huyết giác, Camphora, Riềng
+Dùng ngoài
+867
+05C.224.39
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Mã
+  tiền, Huyết giác, Methyl salicylat, Riềng
+Dùng ngoài
+868
+05C.224.40
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Mã
+  tiền, Huyết giác, Camphora, Riềng
+Dùng ngoài
+869
+05C.224.41
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Mã
+  tiền, Huyết giác, Methyl salicylat, Tế tân
+Dùng ngoài
+870
+05C.224.42
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Mã
+  tiền, Huyết giác, Camphora, Tế tân
+Dùng ngoài
+871
+05C.224.43
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Mã
+  tiền, Huyết giác, Methyl salicylat, Tế tân
+Dùng ngoài
+872
+05C.224.44
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Mã
+  tiền, Huyết giác, Camphora, Tế tân
+Dùng ngoài
+873
+05C.224.45
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Mã
+  tiền, Huyết giác, Methyl salicylat, Tế tân, Riềng
+Dùng ngoài
+874
+05C.224.46
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Mã
+  tiền, Huyết giác, Camphora, Tế tân, Riềng
+Dùng ngoài
+875
+05C.224.47
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Mã
+  tiền, Huyết giác, Methyl salicylat, Tế tân, Riềng
+Dùng ngoài
+876
+05C.224.48
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Mã
+  tiền, Huyết giác, Camphora, Tế tân, Riềng
+Dùng ngoài
+877
+05C.224.49
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Mã
+  tiền, Huyết giác, Xuyên khung, Methyl salicylat
+Dùng ngoài
+878
+05C.224.50
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Mã
+  tiền, Huyết giác, Xuyên khung, Camphora
+Dùng ngoài
+879
+05C.224.51
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Mã
+  tiền, Huyết giác, Xuyên khung, Methyl salicylat
+Dùng ngoài
+880
+05C.224.52
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Mã
+  tiền, Huyết giác, Xuyên khung, Camphora
+Dùng ngoài
+881
+05C.224.53
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Mã
+  tiền, Huyết giác, Xuyên khung, Methyl salicylat, Riềng
+Dùng ngoài
+882
+05C.224.54
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Mã
+  tiền, Huyết giác, Xuyên khung, Camphora, Riềng
+Dùng ngoài
+883
+05C.224.55
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Mã
+  tiền, Huyết giác, Xuyên khung, Methyl salicylat, Riềng
+Dùng ngoài
+884
+05C.224.56
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Mã
+  tiền, Huyết giác, Xuyên khung, Camphora, Riềng
+Dùng ngoài
+885
+05C.224.57
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Mã
+  tiền, Huyết giác, Xuyên khung, Methyl salicylat, Tế tân
+Dùng ngoài
+886
+05C.224.58
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Mã
+  tiền, Huyết giác, Xuyên khung, Camphora, Tế tân
+Dùng ngoài
+887
+05C.224.59
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Mã
+  tiền, Huyết giác, Xuyên khung, Methyl salicylat, Tế tân
+Dùng ngoài
+888
+05C.224.60
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Mã
+  tiền, Huyết giác, Xuyên khung, Camphora, Tế tân
+Dùng ngoài
+889
+05C.224.61
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Mã
+  tiền, Huyết giác, Xuyên khung, Methyl salicylat, Tế tân, Riềng
+Dùng ngoài
+890
+05C.224.62
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Mã
+  tiền, Huyết giác, Xuyên khung, Camphora, Tế tân, Riềng
+Dùng ngoài
+891
+05C.224.63
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Mã
+  tiền, Huyết giác, Xuyên khung, Methyl salicylat, Tế tân, Riềng
+Dùng ngoài
+892
+05C.224.64
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Mã
+  tiền, Huyết giác, Xuyên khung, Camphora, Tế tân, Riềng
+Dùng ngoài
+893
+05C.224.65
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Huyết giác, Methyl salicylat
+Dùng ngoài
+894
+05C.224.66
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Huyết giác, Camphora
+Dùng ngoài
+895
+05C.224.67
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Huyết giác, Methyl salicylat
+Dùng ngoài
+896
+05C.224.68
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Huyết giác, Camphora
+Dùng ngoài
+897
+05C.224.69
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Huyết giác, Methyl salicylat, Riềng
+Dùng ngoài
+898
+05C.224.70
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Huyết giác, Camphora, Riềng
+Dùng ngoài
+899
+05C.224.71
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Huyết giác, Methyl salicylat, Riềng
+Dùng ngoài
+900
+05C.224.72
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Huyết giác, Camphora, Riềng
+Dùng ngoài
+901
+05C.224.73
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Huyết giác, Methyl salicylat, Tế tân
+Dùng ngoài
+902
+05C.224.74
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Huyết giác, Camphora, Tế tân
+Dùng ngoài
+903
+05C.224.75
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Huyết giác, Methyl salicylat, Tế tân
+Dùng ngoài
+904
+05C.224.76
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Huyết giác, Camphora, Tế tân
+Dùng ngoài
+905
+05C.224.77
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Huyết giác, Methyl salicylat, Tế tân, Riềng
+Dùng ngoài
+906
+05C.224.78
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Huyết giác, Camphora, Tế tân, Riềng
+Dùng ngoài
+907
+05C.224.79
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Huyết giác, Methyl salicylat, Tế tân, Riềng
+Dùng ngoài
+908
+05C.224.80
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Huyết giác, Camphora, Tế tân, Riềng
+Dùng ngoài
+909
+05C.224.81
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Huyết giác, Xuyên khung, Methyl salicylat
+Dùng ngoài
+910
+05C.224.82
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Huyết giác, Xuyên khung, Camphora
+Dùng ngoài
+911
+05C.224.83
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Huyết giác, Xuyên khung, Methyl salicylat
+Dùng ngoài
+912
+05C.224.84
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Huyết giác, Xuyên khung, Camphora
+Dùng ngoài
+913
+05C.224.85
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Huyết giác, Xuyên khung, Methyl salicylat, Riềng
+Dùng ngoài
+914
+05C.224.86
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Huyết giác, Xuyên khung, Camphora, Riềng
+Dùng ngoài
+915
+05C.224.87
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Huyết giác, Xuyên khung, Methyl salicylat, Riềng
+Dùng ngoài
+916
+05C.224.88
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Huyết giác, Xuyên khung, Camphora, Riềng
+Dùng ngoài
+917
+05C.224.89
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Huyết giác, Xuyên khung, Methyl salicylat, Tế tân
+Dùng ngoài
+918
+05C.224.90
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Huyết giác, Xuyên khung, Camphora, Tế tân
+Dùng ngoài
+919
+05C.224.91
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Huyết giác, Xuyên khung, Methyl salicylat, Tế tân
+Dùng ngoài
+920
+05C.224.92
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Huyết giác, Xuyên khung, Camphora, Tế tân
+Dùng ngoài
+921
+05C.224.93
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Huyết giác, Xuyên khung, Methyl salicylat, Tế tân, Riềng
+Dùng ngoài
+922
+05C.224.94
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Huyết giác, Xuyên khung, Camphora, Tế tân, Riềng
+Dùng ngoài
+923
+05C.224.95
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Huyết giác, Xuyên khung, Methyl salicylat, Tế tân, Riềng
+Dùng ngoài
+924
+05C.224.96
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Huyết giác, Xuyên khung, Camphora, Tế tân, Riềng
+Dùng ngoài
+925
+05C.224.97
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Mã tiền, Huyết giác, Methyl salicylat
+Dùng ngoài
+926
+05C.224.98
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Mã tiền, Huyết giác, Camphora
+Dùng ngoài
+927
+05C.224.99
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Mã tiền, Huyết giác, Methyl salicylat
+Dùng ngoài
+928
+05C.224.100
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Mã tiền, Huyết giác, Camphora
+Dùng ngoài
+929
+05C.224.101
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Mã tiền, Huyết giác, Methyl salicylat, Riềng
+Dùng ngoài
+930
+05C.224.102
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Mã tiền, Huyết giác, Camphora, Riềng
+Dùng ngoài
+931
+05C.224.103
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Mã tiền, Huyết giác, Methyl salicylat, Riềng
+Dùng ngoài
+932
+05C.224.104
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Mã tiền, Huyết giác, Camphora, Riềng
+Dùng ngoài
+933
+05C.224.105
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Mã tiền, Huyết giác, Methyl salicylat, Tế tân
+Dùng ngoài
+934
+05C.224.106
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Mã tiền, Huyết giác, Camphora, Tế tân
+Dùng ngoài
+935
+05C.224.107
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Mã tiền, Huyết giác, Methyl salicylat, Tế tân
+Dùng ngoài
+936
+05C.224.108
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Mã tiền, Huyết giác, Camphora, Tế tân
+Dùng ngoài
+937
+05C.224.109
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Mã tiền, Huyết giác, Methyl salicylat, Tế tân, Riềng
+Dùng ngoài
+938
+05C.224.110
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Mã tiền, Huyết giác, Camphora, Tế tân, Riềng
+Dùng ngoài
+939
+05C.224.111
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Mã tiền, Huyết giác, Methyl salicylat, Tế tân, Riềng
+Dùng ngoài
+940
+05C.224.112
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Mã tiền, Huyết giác, Camphora, Tế tân, Riềng
+Dùng ngoài
+941
+05C.224.113
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Mã tiền, Huyết giác, Xuyên khung, Methyl salicylat
+Dùng ngoài
+942
+05C.224.114
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Mã tiền, Huyết giác, Xuyên khung, Camphora
+Dùng ngoài
+943
+05C.224.115
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Mã tiền, Huyết giác, Xuyên khung, Methyl salicylat
+Dùng ngoài
+944
+05C.224.116
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Mã tiền, Huyết giác, Xuyên khung, Camphora
+Dùng ngoài
+945
+05C.224.117
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Mã tiền, Huyết giác, Xuyên khung, Methyl salicylat, Riềng
+Dùng ngoài
+946
+05C.224.118
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Mã tiền, Huyết giác, Xuyên khung, Camphora, Riềng
+Dùng ngoài
+947
+05C.224.119
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Mã tiền, Huyết giác, Xuyên khung, Methyl salicylat, Riềng
+Dùng ngoài
+948
+05C.224.120
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Mã tiền, Huyết giác, Xuyên khung, Camphora, Riềng
+Dùng ngoài
+949
+05C.224.121
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Mã tiền, Huyết giác, Xuyên khung, Methyl salicylat, Tế tân
+Dùng ngoài
+950
+05C.224.122
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Mã tiền, Huyết giác, Xuyên khung, Camphora, Tế tân
+Dùng ngoài
+951
+05C.224.123
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Mã tiền, Huyết giác, Xuyên khung, Methyl salicylat, Tế tân
+Dùng ngoài
+952
+05C.224.124
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Mã tiền, Huyết giác, Xuyên khung, Camphora, Tế tân
+Dùng ngoài
+953
+05C.224.125
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Mã tiền, Huyết giác, Xuyên khung, Methyl salicylat, Tế tân, Riềng
+Dùng ngoài
+954
+05C.224.126
+Ô đầu, Địa liền, Đại hồi, Quế nhục, Thiên niên kiện, Uy
+  Linh tiên, Mã tiền, Huyết giác, Xuyên khung, Camphora, Tế tân, Riềng
+Dùng ngoài
+955
+05C.224.127
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Mã tiền, Huyết giác, Xuyên khung, Methyl salicylat, Tế tân, Riềng
+Dùng ngoài
+956
+05C.224.128
+Ô đầu, Địa liền, Đại hồi,Quế chi, Thiên niên kiện, Uy Linh
+  tiên, Mã tiền, Huyết giác, Xuyên khung, Camphora, Tế tân, Riềng
+Dùng ngoài
+957
+05C.225
+Ô đầu, Địa liền, Tạo giác thích, Độc hoạt, Đại hồi, Tế
+  tân, Quế nhục, Thiên niên kiện, Xuyên khung, Mã tiền, Uy linh tiên
+Dùng ngoài
+958
+05C.226.1
+Ô đầu, Mã tiền, Thiên niên kiện, Quế nhục, Đại hồi, Huyết
+  giác, Tinh dầu Long não, Methyl salicylat
+Dùng ngoài
+959
+05C.226.2
+Ô đầu, Mã tiền, Thiên niên kiện,Quế chi, Đại hồi, Huyết
+  giác, Tinh dầu Long não, Methyl salicylat
+Dùng ngoài
+960
+05C.226.3
+Ô đầu,Địa liền, Thiên niên kiện, Quế nhục, Đại hồi, Huyết
+  giác, Tinh dầu Long não, Methyl salicylat
+Dùng ngoài
+961
+05C.226.4
+Ô đầu,Địa liền, Thiên niên kiện,Quế chi, Đại hồi, Huyết
+  giác, Tinh dầu Long não, Methyl salicylat
+Dùng ngoài
+962
+05C.227
+Tinh dầu Thiên niên kiện, Tinh dầu thông, Menthol, Methyl
+  salicylat
+Dùng ngoài
+963
+05C.228.1
+Tinh dầu tràm
+Dùng ngoài
+964
+05C.228.2
+Tinh dầu tràm, Mỡ trăn
+Dùng ngoài
+965
+05C.228.3
+Tinh dầu tràm, Mỡ trăn, Nghệ
+Dùng ngoài
+966
+05C.228.4
+Tinh dầu tràm, Nghệ
+Dùng ngoài
+967
+05C.229
+Trầu không
+Dùng ngoài
+PHỤ LỤC 5
+DANH MỤC MÃ NHÓM VẬT TƯ Y TẾ THEO
+THÔNG TƯ SỐ 27/2013/TT-BYT
+(Ban hành kèm theo Công văn số           /BYT-BH ngày        /02/2016 của Bộ
+Y tế)
+STT
+STT Thông tư 27
+Mã nhóm VTYT
+Tên nhóm, loại vật tư y tế
+Đơn vị tính
+Ghi chú
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+1
+N01.00.000
+Nhóm 1. Bông, dung dịch sát khuẩn, rửa vết thương
+Không thanh toán riêng
+2
+N01.01.000
+1.1 Bông
+Không thanh toán riêng
+3
+1
+N01.01.010
+Bông (gòn), bông tẩm dung dịch các loại
+Gram/kg/gói/cuộn
+Không thanh toán riêng
+4
+2
+N01.01.020
+Bông, tăm bông vô trùng các loại, các cỡ
+Que/cái
+Không thanh toán riêng
+5
+N01.02.000
+1.2 Dung dịch sát khuẩn, rửa vết thương
+Không thanh toán riêng
+6
+3
+N01.02.010
+Dung dịch rửa tay sát khuẩn dùng trong khám bệnh, thực
+  hiện phẫu thuật, thủ thuật, xét nghiệm
+ml/lít
+Không thanh toán riêng
+7
+4
+N01.02.020
+Dung dịch rửa vết thương các loại
+ml/lít/chai
+Không thanh toán riêng
+8
+5
+N01.02.030
+Dung dịch sát khuẩn, khử trùng dụng cụ
+ml/lít
+Không thanh toán riêng
+9
+6
+N01.02.040
+Dung dịch sát khuẩn, khử trùng trong phòng xét nghiệm,
+  buồng mổ, buồng bệnh
+ml/lít
+Không thanh toán riêng
+10
+7
+N01.02.050
+Dung dịch tẩy rửa dụng cụ
+ml/lít
+Không thanh toán riêng
+11
+N02.00.000
+Nhóm 2. Băng, gạc, vật liệu cầm máu, điều trị các vết
+  thương
+Không thanh toán riêng
+12
+N02.01.000
+2.1 Băng
+Không thanh toán riêng
+13
+8
+Băng bột bó, vải/ tất lót bó bột các loại, các cỡ
+Cuộn
+Không thanh toán riêng
+14
+8
+N02.01.010.1
+Băng bột bó các loại, các cỡ
+Cuộn
+Không thanh toán riêng
+15
+8
+N02.01.010.2
+Vải, tất lót bó bột các loại, các cỡ
+Cuộn
+Không thanh toán riêng
+16
+9
+Băng chun/ băng đàn hồi các loại, các cỡ
+Cuộn/miếng
+Không thanh toán riêng
+17
+9
+N02.01.020.1
+Băng chun các loại, các cỡ
+Cuộn/miếng
+Không thanh toán riêng
+18
+9
+N02.01.020.2
+Băng  đàn hồi các loại, các cỡ
+Cuộn/miếng
+Không thanh toán riêng
+19
+10
+N02.01.030
+Băng cố định khớp trong điều trị chấn thương chỉnh hình
+  các loại, các cỡ
+Cuộn
+Không thanh toán riêng
+20
+11
+Băng cuộn/ băng cá nhân các loại, các cỡ
+Cuộn/miếng
+Không thanh toán riêng
+21
+11
+N02.01.040.1
+Băng cuộn các loại, các cỡ
+Cuộn/miếng
+Không thanh toán riêng
+22
+11
+N02.01.040.2
+Băng cá nhân các loại, các cỡ
+Cuộn/miếng
+Không thanh toán riêng
+23
+12
+N02.01.050
+Băng dùng trong phẫu thuật, băng bó vết thương, vết bỏng,
+  vét loét các loại, các cỡ
+Cuộn/miếng
+Không thanh toán riêng
+24
+13
+N02.01.060
+Băng rốn
+Cuộn/miếng
+Không thanh toán riêng
+25
+14
+N02.01.070
+Băng vô trùng các loại, các cỡ
+Cuộn/miếng
+Không thanh toán riêng
+26
+N02.02.000
+2.2 Băng dính
+Không thanh toán riêng
+27
+15
+N02.02.010
+Băng dán mi các loại, các cỡ
+Miếng
+28
+16
+N02.02.020
+Băng dính các loại, các cỡ
+Cuộn/miếng
+29
+N02.03.000
+2.3 Gạc, băng gạc điều trị các vết tổn thương
+30
+17
+N02.03.010
+Gạc alginate các loại
+Miếng
+31
+18
+N02.03.020
+Gạc các loại, các cỡ
+Cuộn/gói/miếng
+32
+19
+N02.03.030
+Gạc gắn với băng dính vô khuẩn dùng để băng các vết
+  thương, vết mổ, vết khâu
+Miếng
+33
+20
+N02.03.040
+Gạc hydrocolloid các loại
+Miếng
+34
+21
+N02.03.050
+Gạc hydrogel các loại
+Miếng
+35
+22
+N02.03.060
+Gạc rốn
+Miếng
+36
+23
+Gạc than hoạt tính các loại (thấm hút, không thấm hút)
+Miếng
+37
+23
+N02.03.070.1
+Gạc than hoạt tính các loại thấm hút
+Miếng
+38
+23
+N02.03.070.2
+Gạc than hoạt tính các loại không thấm hút
+Miếng
+39
+24
+Gạc xốp, miếng xốp (foam) các loại
+Miếng
+40
+24
+N02.03.080.1
+Gạc xốp các loại
+Miếng
+41
+24
+N02.03.080.2
+Miếng xốp (foam) các loại
+Miếng
+42
+25
+Gạc, gạc lưới có tẩm kháng sinh hay các chất sát khuẩn
+Miếng
+43
+25
+N02.03.090.1
+Gạc có tẩm kháng sinh hay các chất sát khuẩn
+Miếng
+44
+25
+N02.03.090.2
+Gạc lưới có tẩm kháng sinh hay các chất sát khuẩn
+Miếng
+45
+26
+N02.03.100
+Miếng dán sát khuẩn các loại, các cỡ
+Miếng
+46
+N02.04.000
+2.4 Vật liệu cầm máu, điều trị các vết tổn thương
+47
+27
+N02.04.010
+Dung dịch xịt dùng ngoài điều trị phòng ngừa loét do tỳ đè
+Chai/lọ
+48
+28
+N02.04.020
+Gạc cầm máu các loại
+Miếng
+49
+29
+N02.04.030
+Keo (sinh học) dán da, dán mô dùng trong phẫu thuật
+Lọ/miếng/kit
+50
+30
+N02.04.040
+Miếng cầm máu mũi các loại, các cỡ
+Miếng/thỏi
+51
+31
+Vật liệu cầm máu các loại (sáp, bone, surgicel, merocel,
+  spongostan, gelitacel, floseal hemostatic, liotit)
+Miếng/thỏi/kit
+52
+31
+N02.04.050.1
+Vật liệu cầm máu loại sáp
+Miếng/thỏi/kit
+53
+31
+N02.04.050.2
+Vật liệu cầm máu loại bone
+Miếng/thỏi/kit
+54
+31
+N02.04.050.3
+Vật liệu cầm máu loại surgicel
+Miếng/thỏi/kit
+55
+31
+N02.04.050.4
+Vật liệu cầm máu loại merocel
+Miếng/thỏi/kit
+56
+31
+N02.04.050.5
+Vật liệu cầm máu loại spongostan
+Miếng/thỏi/kit
+57
+31
+N02.04.050.6
+Vật liệu cầm máu loại gelitacel
+Miếng/thỏi/kit
+58
+31
+N02.04.050.7
+Vật liệu cầm máu loại floseal hemostatic
+Miếng/thỏi/kit
+59
+31
+N02.04.050.8
+Vật liệu cầm máu loại liotit
+Miếng/thỏi/kit
+60
+32
+Vật liệu sử dụng trong điều trị các tổn thương bằng phương
+  pháp hút áp lực âm (gồm: miếng xốp, đầu nối, dây dẫn dịch, băng dán cố định)
+Bộ
+61
+32
+N02.04.060.1
+Miếng xốp (Vật liệu sử dụng trong điều trị các tổn thương
+  bằng phương pháp hút áp lực âm)
+Bộ
+62
+32
+N02.04.060.2
+Đầu nối (Vật liệu sử dụng trong điều trị các tổn thương
+  bằng phương pháp hút áp lực âm)
+Bộ
+63
+32
+N02.04.060.3
+Dây dẫn dịch (Vật liệu sử dụng trong điều trị các tổn
+  thương bằng phương pháp hút áp lực âm)
+Bộ
+64
+32
+N02.04.060.4
+Băng dán cố định (Vật liệu sử dụng trong điều trị các tổn
+  thương bằng phương pháp hút áp lực âm)
+Bộ
+65
+N03.00.000
+Nhóm 3. Bơm, kim tiêm, dây truyền, găng tay và các vật
+  tư y tế sử dụng trong chăm sóc người bệnh
+66
+N03.01.000
+3.1 Bơm tiêm
+67
+33
+N03.01.010
+Bơm sử dụng để bơm thức ăn cho người bệnh các loại, các cỡ
+Cái
+68
+34
+N03.01.020
+Bơm tiêm (syringe) dùng một lần các loại, các cỡ
+Cái
+69
+35
+N03.01.030
+Bơm tiêm áp lực các loại, các cỡ
+Cái
+70
+36
+N03.01.040
+Bơm tiêm dùng cho máy tiêm điện tự động
+Cái
+71
+37
+N03.01.050
+Bơm tiêm dùng nhiều lần các loại, các cỡ
+Cái
+72
+38
+N03.01.060
+Bơm tiêm insulin các loại, các cỡ
+Cái
+73
+39
+N03.01.070
+Bơm tiêm liền kim dùng một lần các loại, các cỡ
+Cái
+74
+40
+N03.01.080
+Bơm tiêm máy bơm
+Cái
+75
+N03.02.000
+3.2 Kim tiêm
+76
+41
+N03.02.010
+Bút chích máu các loại
+Cái
+77
+42
+N03.02.020
+Kim cánh bướm các loại, các cỡ
+Cái
+78
+43
+N03.02.030
+Kim chích máu các loại
+Cái
+79
+44
+N03.02.040
+Kim dùng cho buồng tiêm truyền cấy dưới da
+Cái
+80
+45
+N03.02.050
+Kim lẩy da
+Cái
+81
+46
+N03.02.060
+Kim lấy máu, lấy thuốc các loại, các cỡ
+Cái
+82
+47
+N03.02.070
+Kim luồn mạch máu các loại, các cỡ
+Cái
+83
+48
+N03.02.080
+Kim tiêm dùng một lần các loại, các cỡ
+Cái
+84
+49
+Nút chặn đuôi kim luồn (có hoặc không có heparin)
+Cái/ chiếc
+85
+49
+N03.02.090.1
+Nút chặn đuôi kim luồn có heparin
+Cái/ chiếc
+86
+49
+N03.02.090.2
+Nút chặn đuôi kim luồn không có heparin
+Cái/ chiếc
+87
+N03.03.000
+3.3 Kim chọc dò, sinh thiết và các loại kim khác
+88
+50
+N03.03.010
+Kim chọc dò các loại, các cỡ
+Cái
+89
+51
+N03.03.020
+Kim chọc hút tế bào qua nội soi
+Cái
+90
+52
+N03.03.030
+Kim chọc hút tủy xương
+Cái
+91
+53
+N03.03.040
+Kim dẫn lưu các loại, các cỡ
+Cái
+92
+54
+N03.03.050
+Kim đo áp lực tĩnh mạch trung tâm (CPV)
+Cái
+93
+55
+N03.03.060
+Kim dùng trong thiết bị dẫn sóng
+Cái
+94
+56
+Kim gây tê, gây mê các loại, các cỡ
+Cái
+95
+56
+N03.03.070.1
+Kim gây tê các loại, các cỡ
+Cái
+96
+56
+N03.03.070.2
+Kim gây mê các loại, các cỡ
+Cái
+97
+57
+N03.03.080
+Kim lọc thận nhân tạo
+Cái
+98
+58
+N03.03.090
+Kim sinh thiết dùng một lần
+Cái
+99
+59
+N03.03.100
+Kim sinh thiết dùng nhiều lần
+Cái
+100
+60
+N03.03.110
+Kim sinh thiết tủy xương dùng nhiều lần
+Cái
+101
+N03.04.000
+3.4 Kim châm cứu
+Không thanh toán riêng
+102
+61
+N03.04.010
+Kim châm cứu các loại, các cỡ
+Bộ/cái
+103
+N03.05.000
+3.5 Dây truyền, dây dẫn
+104
+62
+N03.05.010
+Dây dẫn, dây truyền dịch các loại, các cỡ (bao gồm cả chạc
+  nối, ống nối đi kèm)
+Bộ
+105
+63
+N03.05.020
+Dây dẫn, dây truyền khí các loại, các cỡ (bao gồm cả chạc
+  nối, ống nối đi kèm)
+Bộ
+106
+64
+N03.05.030
+Dây dẫn, dây truyền máu, truyền chế phẩm máu các loại, các
+  cỡ
+Bộ
+107
+65
+N03.05.040
+Dây nối đi kèm dây truyền các loại, các cỡ
+Cái
+108
+66
+N03.05.050
+Dây truyền dịch dùng cho máy truyền tự động
+Bộ
+109
+67
+N03.05.060
+Khóa đi kèm dây dẫn, dây truyền hoặc không đi kèm được
+  dùng trong truyền dịch, truyền máu, truyền khí các loại, các cỡ
+Cái
+110
+N03.06.000
+3.6 Găng tay
+Không thanh toán riêng
+111
+68
+N03.06.010
+Găng cao su các loại, các cỡ
+Đôi
+112
+69
+N03.06.020
+Găng tay chăm sóc, điều trị người bệnh các loại, các cỡ
+Đôi
+113
+70
+N03.06.030
+Găng tay sử dụng trong thăm khám các loại, các cỡ
+Đôi
+114
+71
+N03.06.040
+Găng tay vô trùng dùng trong thăm dò chức năng, xét nghiệm
+  các loại, các cỡ
+Đôi
+115
+72
+N03.06.050
+Găng tay vô trùng dùng trong thủ thuật, phẫu thuật các
+  loại, các cỡ
+Đôi
+116
+N03.07.000
+3.7 Túi, lọ và các loại vật tư bao gói khác
+Không thanh toán riêng
+117
+73
+Ống/ dây cho ăn các loại, các cỡ
+Cái/bộ
+118
+73
+N03.07.010.1
+Ống cho ăn các loại, các cỡ
+Cái/bộ
+119
+73
+N03.07.010.2
+Dây cho ăn các loại, các cỡ
+Cái/bộ
+120
+74
+N03.07.020
+Túi đo khối lượng máu sau sinh đẻ
+Cái
+121
+75
+Túi, bao gói tiệt trùng các loại
+Cái
+122
+75
+N03.07.030.1
+Túi tiệt trùng các loại
+Cái
+123
+75
+N03.07.030.2
+Bao gói tiệt trùng các loại
+Cái
+124
+76
+Túi, lọ đựng thức ăn, đựng dung dịch nuôi dưỡng các loại,
+  các cỡ
+Cái
+125
+76
+N03.07.040.1
+Túi đựng thức ăn, đựng dung dịch nuôi dưỡng các loại, các
+  cỡ
+Cái
+126
+76
+N03.07.040.2
+Lọ đựng thức ăn, đựng dung dịch nuôi dưỡng các loại, các
+  cỡ
+Cái
+127
+77
+Túi, lọ đựng thức ăn, dung dịch nuôi dưỡng tĩnh mạch theo
+  máy các loại, các cỡ
+Cái
+128
+77
+N03.07.050.1
+Túi đựng thức ăn, dung dịch nuôi dưỡng tĩnh mạch theo máy
+  các loại, các cỡ
+Cái
+129
+77
+N03.07.050.2
+Lọ đựng thức ăn, dung dịch nuôi dưỡng tĩnh mạch theo máy
+  các loại, các cỡ
+Cái
+130
+78
+Túi, lọ, cát-sét (cassette) đựng/ đo lượng chất thải tiết,
+  dịch xả các loại, các cỡ
+Cái
+131
+78
+N03.07.060.1
+Túi đựng/ đo lượng chất thải tiết, dịch xả các loại, các
+  cỡ
+Cái
+132
+78
+N03.07.060.2
+Lọ đựng/ đo lượng chất thải tiết, dịch xả các loại, các cỡ
+Cái
+133
+78
+N03.07.060.3
+Cát-sét (cassette) đựng/ đo lượng chất thải tiết, dịch xả
+  các loại, các cỡ
+Cái
+134
+79
+Túi, lọ, hộp đựng bệnh phẩm các loại, các cỡ
+Cái
+135
+79
+N03.07.070.1
+Túi đựng bệnh phẩm các loại, các cỡ
+Cái
+136
+79
+N03.07.070.2
+Lọ đựng bệnh phẩm các loại, các cỡ
+Cái
+137
+79
+N03.07.070.3
+Hộp đựng bệnh phẩm các loại, các cỡ
+Cái
+138
+N04.00.000
+Nhóm 4. Ống thông, ống dẫn lưu, ống nối, dây nối, chạc
+  nối, catheter
+139
+N04.01.000
+4.1 Ống thông
+140
+80
+N04.01.010
+Ca-nuyn (cannula) các loại, các cỡ
+Cái
+141
+81
+N04.01.020
+Ống ca-nuyn (cannula) mở khí quản các loại, các cỡ
+Cái
+142
+82
+N04.01.030
+Ống nội khí quản sử dụng một lần các loại, các cỡ
+Bộ
+143
+83
+N04.01.040
+Ống nội khí quản sử dụng nhiều lần các loại, các cỡ
+Bộ
+144
+84
+Ống nong thanh quản, khí quản các loại, các cỡ
+Cái
+145
+84
+N04.01.050.1
+Ống nong thanh quản các loại, các cỡ
+Cái
+146
+84
+N04.01.050.2
+Ống nong khí quản các loại, các cỡ
+Cái
+147
+85
+N04.01.060
+Ống thở 2 nòng khí quản các loại, các cỡ
+Cái
+148
+86
+N04.01.070
+Ống thông khí hòm nhĩ
+Cái
+149
+87
+N04.01.080
+Ống (sonde) thở ô-xy CPAP 2 gọng
+Cái
+150
+88
+N04.01.090
+Thông (sonde) các loại, các cỡ
+Cái
+151
+N04.02.000
+4.2 Ống dẫn lưu, ống hút
+152
+89
+N04.02.010
+Bộ rửa dạ dày (loại sử dụng một lần)
+Bộ
+153
+90
+N04.02.020
+Ống (sonde) rửa dạ dày
+Cái
+154
+91
+N04.02.030
+Ống dẫn lưu (drain) các loại, các cỡ
+Cái
+155
+92
+N04.02.040
+Ống dẫn lưu Kehr các cỡ
+Cái
+156
+93
+N04.02.050
+Ống hút thai
+Cái
+157
+94
+Ống, dây hút đờm, dịch, khí các loại, các cỡ
+Cái/bộ
+158
+94
+N04.02.060.1
+Ống hút đờm, dịch, khí các loại, các cỡ
+Cái/bộ
+159
+94
+N04.02.060.2
+Dây hút đờm, dịch, khí các loại, các cỡ
+Cái/bộ
+160
+95
+Ống/dây rửa hút dùng cho thiết bị thủ thuật, phẫu thuật
+Bộ
+161
+95
+N04.02.070.1
+Ống rửa hút dùng cho thiết bị thủ thuật, phẫu thuật
+Bộ
+162
+95
+N04.02.070.2
+Dây rửa hút dùng cho thiết bị thủ thuật, phẫu thuật
+Bộ
+163
+N04.03.000
+4.3 Ống nối, dây nối, chạc nối
+164
+96
+N04.03.010
+Bộ dây dẫn dịch vào khớp
+Bộ
+165
+97
+Bộ dây lọc máu, dây thẩm phân phúc mạc
+Bộ
+166
+97
+N04.03.020.1
+Bộ dây lọc máu
+Bộ
+167
+97
+N04.03.020.2
+Bộ dây thẩm phân phúc mạc
+Bộ
+168
+98
+N04.03.030
+Bộ dây thở ô-xy dùng một lần
+Bộ
+169
+99
+N04.03.040
+Bộ phận chuyển tiếp (transfer set) các loại, các cỡ
+Cái
+170
+100
+N04.03.050
+Chạc 2 dây có đầu nối an toàn sinh học
+Bộ
+171
+101
+Đầu nối, ống nối titanium các loại, các cỡ
+Cái
+172
+101
+N04.03.060.1
+Đầu nối các loại, các cỡ
+Cái
+173
+101
+N04.03.060.2
+Ống nối titanium các loại, các cỡ
+Cái
+174
+102
+N04.03.070
+Dây chạy máy tim phổi nhân tạo
+Bộ
+175
+103
+N04.03.080
+Ống Gone (thủy tinh) đặt lệ quản
+Bộ
+176
+104
+Ống nối, dây nối, chạc nối (adapter) dùng trong các thiết
+  bị các loại, các cỡ
+Cái
+177
+104
+N04.03.090.1
+Ống nối dùng trong các thiết bị các loại, các cỡ
+Cái
+178
+104
+N04.03.090.2
+Dây nối dùng trong các thiết bị các loại, các cỡ
+Cái
+179
+104
+N04.03.090.3
+Chạc nối (adapter) dùng trong các thiết bị các loại, các
+  cỡ
+Cái
+180
+105
+Ống nối, dây nối, chạc nối (adapter) dùng trong thủ thuật,
+  phẫu thuật, chăm sóc người bệnh các loại, các cỡ
+Cái
+181
+105
+N04.03.100.1
+Ống nối dùng trong thủ thuật, phẫu thuật, chăm sóc người
+  bệnh các loại, các cỡ
+Cái
+182
+105
+N04.03.100.2
+Dây nối dùng trong thủ thuật, phẫu thuật, chăm sóc người
+  bệnh các loại, các cỡ
+Cái
+183
+105
+N04.03.100.3
+Chạc nối (adapter) dùng trong thủ thuật, phẫu thuật, chăm
+  sóc người bệnh các loại, các cỡ
+Cái
+184
+N04.04.000
+4.4 Catheter
+185
+106
+N04.04.010
+Ống thông (catheter) các loại, các cỡ
+Cái
+186
+107
+N04.04.020
+Ống thông dẫn đường (guiding catheter) các loại, các cỡ
+Cái
+187
+108
+N04.04.030
+Vi ống thông (micro-catheter) các loại, các cỡ
+Cái
+188
+N05.00.000
+Nhóm 5. Kim khâu, chỉ khâu, dao phẫu thuật
+Không thanh toán riêng
+189
+N05.01.000
+5.1 Kim khâu
+190
+109
+N05.01.010
+Kim khâu các loại, các cỡ
+Cái
+191
+N05.02.000
+5.2 Chỉ khâu
+192
+110
+N05.02.010
+Chỉ cố định thủy tinh thể nhân tạo các loại
+Sợi/cuộn/tép
+193
+111
+N05.02.020
+Chỉ khâu đặc biệt các loại, các cỡ
+Sợi/cuộn/tép
+194
+112
+N05.02.030
+Chỉ khâu không tiêu các loại, các cỡ
+Sợi/cuộn/tép
+195
+113
+N05.02.040
+Chỉ khâu liền kim các loại, các cỡ
+Sợi/tép
+196
+114
+N05.02.050
+Chỉ khâu tiêu chậm các loại, các cỡ
+Sợi/cuộn/tép
+197
+115
+N05.02.060
+Chỉ khâu tiêu nhanh các loại, các cỡ
+Sợi/cuộn/tép
+198
+116
+Chỉ thép, dây thép dùng trong phẫu thuật
+Sợi/cuộn/tép
+199
+116
+N05.02.070.1
+Chỉ thép dùng trong phẫu thuật
+Sợi/cuộn/tép
+200
+116
+N05.02.070.2
+Dây thép dùng trong phẫu thuật
+Sợi/cuộn/tép
+201
+117
+N05.02.080
+Vật liệu thay thế chỉ khâu các loại, các cỡ
+Miếng
+202
+N05.03.000
+5.3 Dao phẫu thuật
+203
+118
+N05.03.010
+Bản cực trung tính cho dao mổ điện sử dụng một lần
+Cái
+204
+119
+Các loại dao, lưỡi dao sử dụng trong phẫu thuật nội soi
+Cái
+205
+119
+N05.03.020.1
+Các loại dao sử dụng trong phẫu thuật nội soi
+Cái
+206
+119
+N05.03.020.2
+Các loại lưỡi dao sử dụng trong phẫu thuật nội soi
+Cái
+207
+120
+N05.03.030
+Dao mổ liền cán sử dụng một lần các loại, các cỡ
+Cái
+208
+121
+Đầu/ lưỡi dao mổ điện, dao laser, dao siêu âm
+Cái
+209
+121
+N05.03.040.1
+Đầu/ lưỡi dao mổ điện
+Cái
+210
+121
+N05.03.040.2
+Đầu/ lưỡi dao laser
+Cái
+211
+121
+N05.03.040.3
+Đầu/ lưỡi dao siêu âm
+Cái
+212
+122
+N05.03.050
+Dây cưa sử dụng trong thủ thuật, phẫu thuật các loại
+Sợi/dây
+213
+123
+Lưỡi bào, lưỡi cắt dùng trong nội soi khớp, cột sống
+Cái
+214
+123
+N05.03.060.1
+Lưỡi bào dùng trong nội soi khớp
+Cái
+215
+123
+N05.03.060.2
+Lưỡi cắt dùng trong nội soi khớp
+Cái
+216
+123
+N05.03.060.3
+Lưỡi bào dùng trong nội soi cột sống
+217
+123
+N05.03.060.4
+Lưỡi cắt dùng trong nội soi cột sống
+218
+124
+N05.03.070
+Lưỡi dao cắt mô
+Cái
+219
+125
+N05.03.080
+Lưỡi dao mổ sử dụng một lần các loại, các cỡ
+Cái
+220
+N06.00.000
+Nhóm 6. Vật liệu thay thế, vật liệu cấy ghép nhân tạo
+221
+N06.01.000
+6.1 Van nhân tạo
+222
+126
+N06.01.010
+Mạch máu nhân tạo các loại, các cỡ
+Cái/đoạn
+223
+127
+N06.01.020
+Van dẫn lưu nhân tạo các loại, các cỡ
+Bộ
+224
+128
+Van tim nhân tạo; van động mạch nhân tạo
+Cái
+225
+128
+N06.01.030.1
+Van tim nhân tạo
+Cái
+226
+128
+N06.01.030.2
+Van động mạch nhân tạo
+Cái
+227
+129
+N06.01.040
+Vòng van tim nhân tạo
+Cái
+228
+N06.02.000
+6.2 Giá đỡ
+229
+130
+N06.02.010
+Giá đỡ (stent) các loại, các cỡ
+Cái
+230
+N06.03.000
+6.3 Thủy tinh thể nhân tạo
+231
+131
+Thủy tinh thể nhân tạo (IOL, toric IOL) các loại (cứng,
+  mềm, treo)
+Cái
+232
+131
+N06.03.010.1
+Thủy tinh thể nhân tạo IOL loại cứng
+Cái
+233
+131
+N06.03.010.2
+Thủy tinh thể nhân tạo IOL loại mềm
+Cái
+234
+131
+N06.03.010.3
+Thủy tinh thể nhân tạo IOL loại treo
+Cái
+235
+131
+N06.03.010.4
+Thủy tinh thể nhân tạo toric IOL loại cứng
+Cái
+236
+131
+N06.03.010.5
+Thủy tinh thể nhân tạo toric IOL loại mềm
+Cái
+237
+131
+N06.03.010.6
+Thủy tinh thể nhân tạo toric IOL loại treo
+Cái
+238
+N06.04.000.7
+6.4 Xương, sụn, khớp, gân nhân tạo
+239
+132
+N06.04.010
+Chỏm xương nhân tạo các loại
+Bộ
+240
+133
+Đốt sống nhân tạo, miếng ghép cột sống, đĩa đệm trong phẫu
+  thuật cột sống
+Cái/miếng
+241
+133
+N06.04.020.1
+Đốt sống nhân tạo trong phẫu thuật cột sống
+Cái/miếng
+242
+133
+N06.04.020.2
+Miếng ghép cột sống trong phẫu thuật cột sống
+Cái/miếng
+243
+133
+N06.04.020.3
+Đĩa đệm trong phẫu thuật cột sống
+Cái/miếng
+244
+134
+N06.04.030
+Gân nhân tạo
+Đoạn
+245
+135
+N06.04.040
+Gốm sinh học dùng thay thế xương các loại
+Cái
+246
+136
+Khớp, ổ khớp (toàn phần hoặc bán phần) nhân tạo các loại
+Bộ
+247
+136
+N06.04.050.1
+Khớp toàn phần nhân tạo các loại
+Bộ
+248
+136
+N06.04.050.2
+Khớp bán phần nhân tạo các loại
+Bộ
+249
+136
+N06.04.050.3
+Ổ khớp toàn phần nhân tạo các loại
+Bộ
+250
+136
+N06.04.050.4
+Ổ khớp bán phần nhân tạo các loại
+Bộ
+251
+137
+N06.04.060
+Sụn nhân tạo
+Đoạn/miếng
+252
+138
+Xương bảo quản/ sản phẩm sinh học thay thế xương
+Cái
+253
+138
+N06.04.070.1
+Xương bảo quản thay thế xương
+Cái
+254
+138
+N06.04.070.2
+Sản phẩm sinh học thay thế xương
+Cái
+255
+139
+N06.04.080
+Xương con (dùng trong phẫu thuật tái tạo hệ thống truyền
+  âm)
+Cái
+256
+140
+N06.04.090
+Xương nhân tạo
+Đoạn/miếng
+257
+N06.05.000
+6.5 Các loại miếng vá, mảnh ghép
+258
+141
+N06.05.010
+Màng vá sinh học khác các loại
+Miếng
+259
+142
+N06.05.020
+Mảnh ghép thoát vị bẹn
+Cái
+260
+143
+N06.05.030
+Miếng vá khuyết sọ các loại, các cỡ
+Miếng
+261
+144
+Miếng vá tim, vá mạch máu các loại, các cỡ
+Miếng
+262
+144
+N06.05.040.1
+Miếng vá tim các loại, các cỡ
+Miếng
+263
+144
+N06.05.040.2
+Miếng vá mạch máu các loại, các cỡ
+Miếng
+264
+N06.06.000
+6.6 Các loại vật liệu thay thế, vật liệu cấy ghép nhân tạo
+  khác
+265
+145
+N06.06.010
+Các loại da dùng trong cấy ghép
+Tấm/miếng
+266
+146
+N06.06.020
+Các loại màng sinh học khác dùng trong điều trị
+Tấm/miếng
+267
+147
+N06.06.030
+Keo sinh học sử dụng trong điều trị
+Lọ/tuýp
+268
+148
+N06.06.040
+Màng ối các loại
+Tấm/miếng
+269
+149
+N06.06.050
+Màng tái tạo mô nhân tạo
+Cái/miếng
+270
+150
+Tế bào sừng/ tế bào sợi nuôi cấy dùng trong điều trị
+  bỏng hay các tổn thương khác
+Tấm/miếng
+271
+150
+N06.06.060.1
+Tế bào sừng nuôi cấy dùng trong điều trị bỏng hay các tổn
+  thương khác
+Tấm/miếng
+272
+150
+N06.06.060.2
+Tế bào sợi nuôi cấy dùng trong điều trị bỏng hay các
+  tổn thương khác
+Tấm/miếng
+273
+N07.00.000
+Nhóm 7. Các loại vật tư y tế sử dụng trong một số chuyên
+  khoa
+274
+N07.01.000
+7.1 Tim mạch và X- quang can thiệp
+275
+151
+N07.01.010
+Bộ đầu dò siêu âm trong lòng mạch (IVUS)
+Bộ
+276
+152
+N07.01.020
+Bộ dây truyền dung dịch liệt tim các loại, các cỡ
+Bộ
+277
+153
+Bộ điều trị nội mạch các loại, các cỡ, gồm:
+Bộ
+278
+153
+N07.01.030.1
+Kim chọc (Bộ điều trị nội mạch các loại, các cỡ)
+279
+153
+N07.01.030.2
+Dây dẫn (Bộ điều trị nội mạch các loại, các cỡ)
+280
+153
+N07.01.030.3
+Catheter để luồn cáp quang (Bộ điều trị nội mạch các loại,
+  các cỡ)
+281
+153
+N07.01.030.4
+Dây đốt (Bộ điều trị nội mạch các loại, các cỡ)
+282
+154
+Bộ dụng cụ bít thông liên nhĩ, thông liên thất, bít ống
+  động mạch
+Bộ
+283
+154
+N07.01.040.1
+Bộ dụng cụ bít thông liên nhĩ
+Bộ
+284
+154
+N07.01.040.2
+Bộ dụng cụ bít thông liên thất
+Bộ
+285
+154
+N07.01.040.3
+Bộ dụng cụ bít ống động mạch
+Bộ
+286
+155
+N07.01.050
+Bộ dụng cụ đặt stent graft
+Bộ
+287
+156
+N07.01.060
+Bộ dụng cụ điều trị rối loạn nhịp tim bằng RF
+Bộ
+288
+157
+N07.01.070
+Bộ dụng cụ điều trị rung nhĩ
+Bộ
+289
+158
+Bộ dụng cụ đo dự trữ lưu lượng động mạch vành và dụng cụ
+  để đưa vào lòng mạch
+Bộ
+290
+158
+N07.01.080.1
+Bộ dụng cụ đo dự trữ lưu lượng động mạch vành
+Bộ
+291
+158
+N07.01.080.2
+Bộ dụng cụ để đưa vào lòng mạch
+Bộ
+292
+159
+Bộ dụng cụ dùng trong khoan phá động mạch vành gồm:
+  dây dẫn cho đầu mũi khoan (rotawire), dung dịch bôi trơn (lubricant
+  rotaglide), đầu mũi khoan (rotalink burr), thiết bị đẩy và hệ thống khí nén
+  (rotalink rotablator advancer)
+Bộ
+293
+159
+N07.01.090.1
+Dây dẫn cho đầu mũi khoan (rotawire) (Bộ dụng cụ
+  dùng trong khoan phá động mạch vành)
+294
+159
+N07.01.090.2
+Dung dịch bôi trơn (lubricant rotaglide) (Bộ dụng cụ
+  dùng trong khoan phá động mạch vành)
+295
+159
+N07.01.090.3
+Đầu mũi khoan (rotalink burr) (Bộ dụng cụ dùng trong
+  khoan phá động mạch vành)
+296
+159
+N07.01.090.4
+Thiết bị đẩy và hệ thống khí nén (rotalink rotablator
+  advancer) (Bộ dụng cụ dùng trong khoan phá động mạch vành)
+297
+160
+Bộ dụng cụ lấy huyết khối (ống hút, vi ống thông, khoan
+  huyết khối, giá đỡ kéo huyết khối…)
+Bộ
+298
+160
+N07.01.100.1
+Ông hút (Bộ dụng cụ lấy huyết khối)
+299
+160
+N07.01.100.2
+Vi ống thông (Bộ dụng cụ lấy huyết khối)
+300
+160
+N07.01.100.3
+Khoan huyết khối (Bộ dụng cụ lấy huyết khối)
+301
+160
+N07.01.100.4
+Giá đỡ kéo huyết khối (Bộ dụng cụ lấy huyết khối)
+302
+161
+Bộ dụng cụ mở đường vào mạch máu (kim chọc, dây dẫn, ống
+  có van đặt vào lòng mạch – introducer, sheat)
+Bộ
+303
+161
+N07.01.110.1
+Kim chọc (Bộ dụng cụ mở đường vào mạch máu )
+304
+161
+N07.01.110.2
+Dây dẫn (Bộ dụng cụ mở đường vào mạch máu )
+305
+161
+N07.01.110.3
+Ống có van đặt vào lòng mạch – introducer, sheat (Bộ dụng
+  cụ mở đường vào mạch máu )
+306
+162
+N07.01.120
+Bộ dụng cụ nong van tim
+Bộ
+307
+163
+N07.01.130
+Bộ dụng cụ nút mạch
+Bộ
+308
+164
+N07.01.140
+Bộ dụng cụ thả coil
+Cái
+309
+165
+Bộ dụng cụ thăm dò điện sinh lý tim (máy, điện cực,…)
+Bộ
+310
+165
+N07.01.150.1
+Máy (Bộ dụng cụ thăm dò điện sinh lý tim)
+311
+165
+N07.01.150.2
+Điện cực (Bộ dụng cụ thăm dò điện sinh lý tim)
+312
+166
+N07.01.160
+Bộ dụng cụ thay van tim qua da
+Bộ
+313
+167
+N07.01.170
+Bộ dụng cụ thông tim chụp động mạch (động mạch vành và các
+  động mạch khác)
+Bộ
+314
+168
+N07.01.180
+Bộ dụng cụ thông tim và chụp buồng tim các loại
+Bộ
+315
+169
+N07.01.190
+Bộ thả dù các loại, các cỡ
+Bộ
+316
+170
+N07.01.200
+Bộ thắt tĩnh mạch thực quản dùng một lần
+Bộ
+317
+171
+Bộ tim phổi nhân tạo (ECMO) dùng trong hồi sức cấp cứu các
+  loại, các cỡ, gồm:
+Bộ
+318
+171
+N07.01.210.1
+Phổi nhân tạo EBS (Bộ tim Phổi nhân tạo (ECMO) dùng trong
+  hồi sức cấp cứu các loại, các cỡ)
+319
+171
+N07.01.210.2
+Dây dẫn, Dây kết nối, chạc kết nối  (Bộ tim Phổi nhân tạo
+  (ECMO) dùng trong hồi sức cấp cứu các loại, các cỡ)
+320
+171
+N07.01.210.3
+Quả lọc (Bộ tim Phổi nhân tạo (ECMO) dùng trong hồi sức
+  cấp cứu các loại, các cỡ)
+321
+171
+N07.01.210.4
+Bộ phận trao đổi nhiệt (Bộ tim Phổi nhân tạo (ECMO) dùng
+  trong hồi sức cấp cứu các loại, các cỡ)
+322
+172
+N07.01.220
+Bơm áp lực
+Cái
+323
+173
+N07.01.230
+Bơm áp lực cao
+Bộ
+324
+N03.01.080
+Bơm tiêm máy bơm
+Cái
+325
+174
+N07.01.240
+Bóng nong (balloon) các loại, các cỡ
+Cái/bộ
+326
+N04.01.010
+Ca-nuyn (cannula) tim, mạch các loại
+Cái
+327
+N04.01.010.1
+Ca-nuyn (cannula) tim các loại
+Cái
+328
+N04.01.010.2
+Ca-nuyn (cannula) mạch các loại
+Cái
+329
+175
+N07.01.250
+Dây bơm áp lực cao
+Cái
+330
+176
+N07.01.260
+Dây dẫn áp lực để đo dự trữ dòng chảy động mạch vành (FFR)
+Bộ
+331
+177
+N07.01.270
+Dây dẫn đường (guide wire) các loại, các cỡ
+Cái
+332
+178
+N07.01.280
+Dù (amplatzer) các loại
+Cái/bộ
+333
+179
+N07.01.290
+Dù bảo vệ chống tắc mạch (angiograt) hạ lưu động mạch vành
+Cái
+334
+180
+N07.01.300
+Dụng cụ cố định mạch vành
+Cái
+335
+181
+Dụng cụ để thả hoặc cắt vòng xoắn kim loại (dây đẩy coils,
+  dụng cụ cắt coils)
+Cái
+336
+181
+N07.01.310.1
+Dây đẩy coils (Dụng cụ để thả hoặc cắt vòng xoắn kim loại)
+Cái
+337
+181
+N07.01.310.2
+Dụng cụ cắt coils (Dụng cụ để thả hoặc cắt vòng xoắn kim
+  loại)
+Cái
+338
+182
+N07.01.320
+Dụng cụ đóng lòng mạch (angioseal)
+Bộ
+339
+183
+N07.01.330
+Dụng cụ lấy dị vật (multi-snare) trong tim mạch các loại,
+  các cỡ
+Cái
+340
+184
+N07.01.340
+Dụng cụ lấy mảng xơ vữa thành mạch
+Cái
+341
+185
+N07.01.350
+Dụng cụ thổi CO2 (blower) có đường bổ sung nước
+Cái
+342
+186
+N07.01.360
+Dụng cụ treo mỏm tim
+Cái
+343
+N06.02.010
+Giá đỡ nội mạch (stent) các loại, các cỡ
+Cái
+344
+187
+Keo nút mạch các loại (Onyx, Histoacryl..)
+Lọ/tuýp
+345
+187
+N07.01.370.1
+Onyx (Keo nút mạch các loại)
+Lọ/tuýp
+346
+187
+N07.01.370.2
+Histoacryl (Keo nút mạch các loại)
+Lọ/tuýp
+347
+188
+N07.01.380
+Kim hút khí gốc động mạch
+Cái
+348
+189
+N07.01.390
+Lưới lọc tĩnh mạch
+Cái
+349
+N06.01.010
+Mạch máu nhân tạo các loại, các cỡ
+Cái/đoạn
+350
+190
+Máy tạo nhịp (gồm: máy, dây dẫn, kim thăm dò)
+Bộ
+351
+190
+N07.01.400.1
+Máy (Máy tạo nhịp)
+352
+190
+N07.01.400.2
+Dây dẫn (Máy tạo nhịp)
+353
+190
+N07.01.400.3
+Kim thăm dò (Máy tạo nhịp)
+354
+191
+Máy tạo nhịp có và không có phá rung cấy vào cơ thể (gồm
+  máy và dây dẫn)
+Bộ
+355
+191
+N07.01.410.1
+Máy tạo nhịp có phá rung cấy vào cơ thể
+356
+191
+N07.01.410.2
+Dây dẫn Máy tạo nhịp có phá rung cấy vào cơ thể
+357
+191
+N07.01.410.3
+Máy tạo nhịp không có phá rung cấy vào cơ thể
+358
+191
+N07.01.410.4
+Dây dẫn Máy tạo nhịp không có phá rung cấy vào cơ thể
+359
+N06.05.040
+Miếng vá tim, vá mạch máu các loại, các cỡ
+Miếng
+360
+N04.04.020
+Ống thông dẫn đường (guiding catheter) các loại, các cỡ
+Cái
+361
+192
+N07.01.420
+Shunt trong lòng động mạch vành
+Cái
+362
+N06.01.030
+Van tim nhân tạo, van động mạch nhân tạo
+Cái
+363
+N06.01.030.1
+Van tim nhân tạo
+Cái
+364
+N06.01.030.2
+Van động mạch nhân tạo
+Cái
+365
+193
+Vật liệu nút mạch (hạt nhựa PVA, lipiodol,…)
+Miếng/thỏi/lọ
+366
+193
+N07.01.430.1
+Hạt nhựa PVA (Vật liệu nút mạch)
+Miếng/thỏi/lọ
+367
+193
+N07.01.430.2
+Lipiodol,…(Vật liệu nút mạch)
+Miếng/thỏi/lọ
+368
+194
+N07.01.440
+Vật liệu nút mạch DC Bead điều trị ung thư gan
+Lọ
+369
+195
+N07.01.450
+Vật liệu nút mạch tạm thời (spongel)
+Miếng
+370
+196
+N07.01.460
+Vi dây dẫn đường (micro guide wire) các loại, các cỡ
+Cái
+371
+N04.04.030
+Vi ống thông (micro-catheter) các loại, các cỡ
+Cái
+372
+N06.01.040
+Vòng van tim nhân tạo
+Cái
+373
+197
+Vòng xoắn kim loại (coils, matrix coils) các loại, các cỡ
+Cái
+374
+197
+N07.01.470.1
+Vòng xoắn kim loại coils các loại, các cỡ
+Cái
+375
+197
+N07.01.470.2
+Vòng xoắn kim loại matrix coils các loại, các cỡ
+Cái
+376
+N07.02.000
+7.2 Lọc máu, lọc màng bụng
+377
+198
+N07.02.010
+Bộ lọc màng bụng cấp cứu (sử dụng một lần)
+Bộ
+378
+199
+Bộ lọc màng bụng/ thẩm phân phúc mạc (gồm: catheter chuyên
+  dụng, đầu nối titanium, hệ thống dây nối)
+Bộ
+379
+199
+N07.02.020.1
+Catheter chuyên dụng (Bộ lọc màng bụng/ thẩm phân phúc
+  mạc)
+380
+199
+N07.02.020.2
+Đầu nối titanium (Bộ lọc màng bụng/ thẩm phân phúc mạc)
+381
+199
+N07.02.020.3
+Hệ thống dây nối (Bộ lọc màng bụng/ thẩm phân phúc mạc)
+382
+200
+N07.02.030
+Bộ thay máu (sử dụng một lần)
+Bộ
+383
+201
+N07.02.040
+Quả lọc tách huyết tương và bộ dây dẫn
+Quả/bộ
+384
+N07.02.040.1
+Quả lọc tách huyết tương (Quả lọc tách huyết tương và bộ
+  dây dẫn)
+385
+N07.02.040.2
+Bộ dây dẫn (Quả lọc tách huyết tương và bộ dây dẫn)
+386
+202
+Quả lọc và hệ thống dây dẫn trong kỹ thuật hấp thụ phân tử
+  liên tục
+Bộ
+387
+202
+N07.02.050.1
+Quả lọc tách huyết tương trong kỹ thuật hấp thụ phân tử
+  liên tục
+388
+202
+N07.02.050.2
+Bộ dây dẫn trong kỹ thuật hấp thụ phân tử liên tục
+389
+203
+Quả lọc, màng lọc máu và hệ thống dây dẫn đi kèm trong
+  siêu lọc máu, lọc máu liên tục
+Quả/bộ
+390
+203
+N07.02.060.1
+Quả lọc đi kèm trong siêu lọc máu, lọc máu liên tục
+391
+203
+N07.02.060.2
+Màng lọc máu đi kèm trong siêu lọc máu, lọc máu liên tục
+392
+203
+N07.02.060.3
+Hệ thống dây dẫn đi kèm trong siêu lọc máu, lọc máu liên
+  tục
+393
+204
+Quả lọc, màng lọc máu và hệ thống dây dẫn trong lọc máu
+  (hemodialysis) định kỳ (thận nhân tạo)
+Bộ
+394
+204
+N07.02.070.1
+Quả lọc trong lọc máu (hemodialysis) định kỳ (thận nhân
+  tạo)
+395
+204
+N07.02.070.2
+Màng lọc máu trong lọc máu (hemodialysis) định kỳ (thận
+  nhân tạo)
+396
+204
+N07.02.070.3
+Hệ thống dây dẫn trong lọc máu (hemodialysis) định kỳ
+  (thận nhân tạo)
+397
+205
+N07.02.080
+Quả lọc thận nhân tạo các loại, các cỡ
+Quả
+398
+N07.03.000
+7.3 Mắt, Tai Mũi Họng, Răng Hàm Mặt
+399
+206
+N07.03.010
+Bộ cố định ngoài kiểu cọc ép răng sử dụng trong điều trị
+Bộ
+400
+207
+N07.03.020
+Bộ dao củng mạc các cỡ (dùng trong phẫu thuật cắt dịch
+  kính; võng mạc) dùng một lần
+Bộ
+401
+208
+N07.03.030
+Bộ tiền phòng nhân tạo (dùng trong ghép giác mạc)
+Bộ
+402
+209
+Chất nhầy/ dung dịch hỗ trợ dùng trong phẫu thuật đặt
+  thủy tinh thể nhân tạo Phaco
+Lọ/ống
+403
+209
+N07.03.040.1
+Chất nhầy dùng trong phẫu thuật đặt thủy tinh thể nhân tạo
+  Phaco
+Lọ/ống
+404
+209
+N07.03.040.2
+Dung dịch hỗ trợ dùng trong phẫu thuật đặt thủy tinh
+  thể nhân tạo Phaco
+Lọ/ống
+405
+210
+N07.03.050
+Chất nhuộm màu dùng trong phẫu thuật mắt
+Lọ/ml
+406
+211
+Đầu cắt dịch kính (dùng một lần, nhiều lần) các loại, các
+  cỡ
+Cái
+407
+211
+N07.03.060.1
+Đầu cắt dịch kính dùng một lần các loại, các cỡ
+Cái
+408
+211
+N07.03.060.2
+Đầu cắt dịch kính dùng nhiều lần các loại, các cỡ
+Cái
+409
+212
+N07.03.070
+Đầu cắt, nạo amidan nhanh, cắt cuốn mũi nhanh dùng một lần
+Cái
+410
+213
+N07.03.080
+Đầu đốt điện đông nội nhãn dùng trong phẫu thuật cắt dịch
+  kính các cỡ
+Cái
+411
+214
+N07.03.090
+Đầu kim Phaco các loại
+Chiếc
+412
+215
+N07.03.100
+Đầu lạnh đông củng mạc
+Chiếc
+413
+216
+Đầu lưỡi cắt sử dụng trong cắt thanh quản, hút nạo mũi
+  xoang, nạo VA dùng 1 lần
+Cái
+414
+216
+N07.03.110.1
+Đầu lưỡi cắt sử dụng trong cắt thanh quản dùng 1 lần
+Cái
+415
+216
+N07.03.110.2
+Đầu lưỡi cắt sử dụng trong hút nạo mũi xoang dùng 1 lần
+Cái
+416
+216
+N07.03.110.3
+Đầu lưỡi cắt sử dụng trong nạo VA dùng 1 lần
+Cái
+417
+217
+N07.03.120
+Đầu Phaco tip
+Cái
+418
+218
+Dây cáp; đầu phát quang laser dùng trong phẫu thuật mắt
+Cái
+419
+218
+N07.03.130.1
+Dây cáp dùng trong phẫu thuật mắt
+Cái
+420
+218
+N07.03.130.2
+Đầu phát quang laser dùng trong phẫu thuật mắt
+Cái
+421
+219
+N07.03.140
+Đinh nước củng mạc các loại
+Chiếc
+422
+220
+N07.03.150
+Kéo nội nhãn
+Chiếc
+423
+221
+Kẹp bóc màng ngăn trong (dùng trong phẫu thuật cắt dịch
+  kính, võng mạc) dùng 1 lần
+Cái
+424
+221
+N07.03.160.1
+Kẹp bóc màng ngăn trong dùng trong phẫu thuật cắt dịch
+  kính dùng 1 lần
+Cái
+425
+221
+N07.03.160.2
+Kẹp bóc màng ngăn trong dùng trong phẫu thuật cắt võng mạc
+  dùng 1 lần
+Cái
+426
+222
+Meroches mũi, tai, vách ngăn
+Cái
+427
+222
+N07.03.170.1
+Meroches mũi
+Cái
+428
+222
+N07.03.170.2
+Meroches tai
+Cái
+429
+222
+N07.03.170.3
+Meroches vách ngăn
+Cái
+430
+223
+N07.03.180
+Nam châm đặt trong nội nhãn
+Bộ
+431
+224
+Ống dẫn lưu/ dụng cụ thông áp lực nội nhãn dùng trong phẫu
+  thuật Glôcôm (shunt/ express Glaucoma filtration device)
+Cái
+432
+224
+N07.03.190.1
+Ống dẫn lưu dùng trong phẫu thuật Glôcôm
+  (shunt/ express Glaucoma filtration device)
+433
+224
+N07.03.190.2
+Dụng cụ thông áp lực nội nhãn dùng trong phẫu thuật Glôcôm
+  (shunt/ express Glaucoma filtration device)
+434
+N04.03.080
+Ống Gone (thủy tinh) đặt lệ quản
+Bộ
+435
+225
+Ống Silicon, dầu Silicon, đai Silicon, tấm Silicon dùng
+  trong phẫu thuật mắt
+Cái/lọ
+436
+225
+N07.03.200.1
+Ống Silicon dùng trong phẫu thuật mắt
+Cái
+437
+225
+N07.03.200.2
+Dầu Silicon dùng trong phẫu thuật mắt
+Lọ
+438
+225
+N07.03.200.3
+Đai Silicon dùng trong phẫu thuật mắt
+Cái
+439
+225
+N07.03.200.4
+Tấm Silicon dùng trong phẫu thuật mắt
+Cái
+440
+226
+N07.03.210
+Pince bóc màng (dùng một lần hoặc nhiều lần) trong phẫn
+  thuật mắt
+Chiếc
+441
+Thủy tinh thể nhân tạo (IOL, toric IOL) các loại (cứng,
+  mềm, treo)
+Cái
+442
+N06.03.010.1
+Thủy tinh thể nhân tạo IOL loại cứng
+Cái
+443
+N06.03.010.2
+Thủy tinh thể nhân tạo IOL loại mềm
+Cái
+444
+N06.03.010.3
+Thủy tinh thể nhân tạo IOL loại treo
+Cái
+445
+N06.03.010.4
+Thủy tinh thể nhân tạo toric IOL loại cứng
+Cái
+446
+N06.03.010.5
+Thủy tinh thể nhân tạo toric IOL loại mềm
+Cái
+447
+N06.03.010.6
+Thủy tinh thể nhân tạo toric IOL loại treo
+Cái
+448
+N06.01.020
+Van dẫn lưu nhân tạo các loại, các cỡ
+Bộ
+449
+227
+N07.03.220
+Vòng căng bao thủy tinh thể
+Cái
+450
+N06.04.080
+Xương con (dùng trong phẫu thuật tái tạo hệ thống truyền
+  âm)
+Cái
+451
+N07.04.000
+7.4 Tiêu hóa
+452
+228
+Bộ dụng cụ phẫu thuật trĩ bằng dòng điện cao tần, gồm:
+Bộ
+453
+228
+N07.04.010.1
+Bộ phẫu thuật trĩ (HCPT) (Bộ dụng cụ phẫu thuật trĩ bằng
+  dòng điện cao tần)
+454
+228
+N07.04.010.2
+Kẹp cầm máu phẫu thuật trĩ (Bộ dụng cụ phẫu thuật trĩ bằng
+  dòng điện cao tần)
+455
+228
+N07.04.010.3
+dụng cụ đông ngưng (Bộ dụng cụ phẫu thuật trĩ bằng dòng
+  điện cao tần)
+456
+228
+N07.04.010.4
+Bộ Dây dẫn cao tần (Bộ dụng cụ phẫu thuật trĩ bằng dòng
+  điện cao tần)
+457
+229
+Bộ mở thông dạ dày qua da, gồm:
+Bộ
+458
+229
+N07.04.020.1
+Kim chọc (Bộ mở thông dạ dày qua da)
+459
+229
+N07.04.020.2
+Ống thông để nong (Bộ mở thông dạ dày qua da)
+460
+229
+N07.04.020.3
+Dây gắn miếng cố định (Bộ mở thông dạ dày qua da)
+461
+230
+N07.04.030
+Bộ van nong hậu môn
+Bộ
+462
+231
+N07.04.040
+Dụng cụ (máy) cắt nối tự động sử dụng trong kỹ thuật Longo
+  (bao gồm cả vòng/ băng ghim khâu kèm theo)
+Bộ
+463
+232
+N07.04.050
+Dụng cụ (máy) cắt, khâu nối tự động (bao gồm cả ghim khâu
+  máy)
+Bộ
+464
+Giá đỡ (stent) thực quản, ống dẫn mật các loại, các
+  cỡ
+Cái
+465
+N06.02.010.1
+Giá đỡ (stent) thực quản các loại, các cỡ
+Cái
+466
+N06.02.010.2
+Ông dẫn mật các loại, các cỡ
+Cái
+467
+233
+N07.04.060
+Lọng cắt polyp đại tràng, polyp trực tràng
+Cái
+468
+234
+N07.04.070
+Lưới điều trị thoát vị các loại
+Cái
+469
+235
+N07.04.080
+Troca nhựa (dùng một lần) dùng trong phẫu thuật nội
+  soi tiêu hóa các cỡ
+Bộ/cái
+470
+N07.05.000
+7.5 Tiết niệu
+471
+236
+N07.05.010
+Băng đạn sử dụng cho dụng cụ cắt khâu nối trong tiết niệu
+Cái
+472
+237
+Bộ đặt dẫn lưu thận qua da, gồm:
+Bộ
+473
+237
+N07.05.020.1
+Kim chọc (Bộ đặt dẫn lưu thận qua da)
+474
+237
+N07.05.020.2
+Ống thông để nong (Bộ đặt dẫn lưu thận qua da)
+475
+237
+N07.05.020.3
+Ống thông (sonde) J-J (Bộ đặt dẫn lưu thận qua da)
+476
+237
+N07.05.020.4
+Ống thông để đặt dẫn lưu ra ngoài (Bộ đặt dẫn lưu thận qua
+  da)
+477
+238
+N07.05.030
+Bộ dụng cụ dùng trong thẩm phân phúc mạc các loại
+Bộ
+478
+239
+N07.05.040
+Bộ nong nhựa kèm amplatzer dùng trong tán sỏi thận qua da
+Bộ
+479
+240
+N07.05.050
+Bộ nong niệu quản bằng nhựa các loại
+Bộ
+480
+241
+N07.05.060
+Đầu dò tán sỏi niệu quản
+Cái
+481
+242
+Đầu tán sỏi, điện cực tán sỏi các loại
+Cái
+482
+242
+N07.05.070.1
+Đầu tán sỏi các loại
+Cái
+483
+242
+N07.05.070.2
+Điện cực tán sỏi các loại
+Cái
+484
+243
+N07.05.080
+Dây cáp, đầu phát quang laser trong điều trị u xơ tuyến
+  tiền liệt
+Cái
+485
+244
+N07.05.090
+Điện cực cắt, đốt trong phẫu thuật nội soi cắt u tuyến
+  tiền liệt
+Cái
+486
+245
+N07.05.100
+Thông gió Dormia trong nội soi lấy sỏi niệu quản
+Cái
+487
+N07.06.000
+7.6 Chấn thương, chỉnh hình
+488
+246
+Áo bột, nẹp bột các loại
+Cái
+489
+246
+N07.06.010.1
+Áo bột các loại
+Cái
+490
+246
+N07.06.010.2
+Nẹp bột các loại
+Cái
+491
+247
+N07.06.020
+Áo chỉnh hình cột sống các loại, các cỡ
+Chiếc
+492
+248
+Bộ dụng cụ đổ xi măng (gồm: kim chọc, xi măng, bơm áp lực
+  đẩy xi măng)
+Bộ
+493
+248
+N07.06.030.1
+Kim chọc (Bộ dụng cụ đổ xi măng)
+494
+248
+N07.06.030.2
+Xi măng (Bộ dụng cụ đổ xi măng)
+495
+248
+N07.06.030.3
+Bơm áp lực đẩy xi măng (Bộ dụng cụ đổ xi măng)
+496
+N06.04.010
+Chỏm xương nhân tạo các loại
+Bộ
+497
+249
+Đinh, nẹp, ốc, vít, lồng dùng trong phẫu thuật xương
+  các loại
+Cái/bộ
+498
+249
+N07.06.040.1
+Đinh dùng trong phẫu thuật xương các loại
+499
+249
+N07.06.040.2
+Nẹp dùng trong phẫu thuật xương các loại
+500
+249
+N07.06.040.3
+Ốc dùng trong phẫu thuật xương các loại
+501
+249
+N07.06.040.4
+Lồng dùng trong phẫu thuật xương các loại
+502
+N06.04.020
+Đốt sống nhân tạo, miếng ghép cột sống, đĩa đệm trong phẫu
+  thuật cột sống
+Cái/miếng
+503
+N06.04.020.1
+Đốt sống nhân tạo trong phẫu thuật cột sống
+504
+N06.04.020.2
+Miếng ghép cột sống trong phẫu thuật cột sống
+505
+N06.04.020.3
+Đĩa đệm trong phẫu thuật cột sống
+506
+N06.04.030
+Gân nhân tạo
+Đoạn
+507
+N06.04.040
+Gốm sinh học dùng thay thế xương các loại
+Cái
+508
+N06.04.050
+Khớp, ổ khớp (toàn phần hoặc bán phần) nhân tạo
+  các loại
+Bộ
+509
+N06.04.050.1
+Khớp, ổ khớp toàn phần nhân tạo các loại
+510
+N06.04.050.2
+Khớp, ổ khớp bán phần nhân tạo các loại
+511
+250
+Khung, đai, nẹp, thanh luồn dùng trong chấn thương – chỉnh
+  hình và phục hồi chức năng các loại, các cỡ
+Cái/bộ
+512
+250
+N07.06.050.1
+Khung dùng trong chấn thương – chỉnh hình và phục hồi chức
+  năng các loại, các cỡ
+513
+250
+N07.06.050.2
+Đai dùng trong chấn thương – chỉnh hình và phục hồi chức
+  năng các loại, các cỡ
+514
+250
+N07.06.050.3
+Nẹp dùng trong chấn thương – chỉnh hình và phục hồi chức
+  năng các loại, các cỡ
+515
+250
+N07.06.050.4
+Thanh luồn dùng trong chấn thương – chỉnh hình và phục hồi
+  chức năng các loại, các cỡ
+516
+N06.04.060
+Sụn nhân tạo
+Đoạn/miếng
+517
+251
+N07.06.060
+Thanh nâng ngực các loại, các cỡ
+Cái
+518
+252
+Xi-măng (cement) hóa học (dùng trong tạo hình thân đốt
+  sống, tạo hình vòm sọ, khớp)
+Gram/lọ
+519
+252
+N07.06.070.1
+Xi-măng (cement) hóa học dùng trong tạo hình thân đốt sống
+520
+252
+N07.06.070.2
+Xi-măng (cement) hóa học dùng trong tạo hình vòm sọ
+521
+252
+N07.06.070.3
+Xi-măng (cement) hóa học dùng trong tạo hình khớp
+522
+N06.04.070
+Xương bảo quản/ sản phẩm sinh học thay thế xương
+Cái
+523
+N06.04.070.1
+Xương bảo quản thay thế xương
+Cái
+524
+N06.04.070.2
+Sản phẩm sinh học thay thế xương
+Cái
+525
+N06.04.090
+Xương nhân tạo
+Đoạn/miếng
+526
+N07.07.000
+7.7 Huyết học, truyền máu
+527
+253
+Bộ kít tách bạch cầu/ tách tiểu cầu/ huyết tương
+Bộ
+528
+253
+N07.07.010.1
+Bộ kít tách bạch cầu
+529
+253
+N07.07.010.2
+Bộ kít tách tiểu cầu
+530
+253
+N07.07.010.3
+Bộ kít tách huyết tương
+531
+254
+N07.07.020
+Bộ kít tách tế bào gốc
+Bộ
+532
+255
+N07.07.030
+Bộ kít xác định hòa hợp tổ chức
+Bộ
+533
+N07.02.030
+Bộ thay máu (sử dụng một lần)
+Bộ
+534
+256
+N07.07.040
+Phin lọc bạch cầu
+Cái
+535
+N08.00.000
+Nhóm 8. Các loại vật tư y tế sử dụng trong chẩn đoán, điều
+  trị khác
+536
+257
+N08.00.010
+Băng (đạn) ghim khâu dùng trong phẫu thuật các loại
+Cái
+537
+258
+N08.00.020
+Băng ép tĩnh mạch
+Cái
+538
+259
+N08.00.030
+Băng keo thử nhiệt
+Cuộn
+539
+260
+N08.00.040
+Bao áp lực truyền dịch nhanh
+Cái
+540
+261
+N08.00.050
+Bao bọc camera dùng trong thủ thuật, phẫu thuật
+Cái
+541
+262
+N08.00.060
+Bao bọc đầu thiết bị siêu âm các loại
+Cái
+542
+263
+Bao đo huyết áp sơ sinh/ người lớn dùng một lần
+Chiếc
+543
+263
+N08.00.070.1
+Bao đo huyết áp sơ sinh dùng một lần
+544
+263
+N08.00.070.2
+Bao đo huyết áp người lớn dùng một lần
+545
+264
+Bộ đặt dẫn lưu ổ dịch hoặc áp xe các tạng (gồm: kim chọc,
+  ống nong, ống dẫn lưu)
+Bộ
+546
+264
+N08.00.080.1
+Kim chọc (Bộ đặt dẫn lưu ổ dịch hoặc áp xe các tạng)
+547
+264
+N08.00.080.2
+Ống nong (Bộ đặt dẫn lưu ổ dịch hoặc áp xe các tạng)
+548
+264
+N08.00.080.3
+Ống dẫn lưu (Bộ đặt dẫn lưu ổ dịch hoặc áp xe các tạng)
+549
+265
+Bộ đặt đường truyền hóa chất (kim chọc, ống thông, dây
+  dẫn)
+Bộ
+550
+265
+N08.00.090.1
+Kim chọc (Bộ đặt đường truyền hóa chất)
+551
+265
+N08.00.090.2
+Ống thông (Bộ đặt đường truyền hóa chất)
+552
+265
+N08.00.090.3
+Dây dẫn (Bộ đặt đường truyền hóa chất)
+553
+266
+N08.00.100
+Bộ đầu dò dùng một lần các loại
+Bộ
+554
+267
+N08.00.110
+Bộ đo áp lực nội sọ
+Bộ
+555
+268
+Bộ đo dung lượng khí/ bộ đo khí động mạch
+Bộ
+556
+268
+N08.00.120.1
+Bộ đo dung lượng khí
+557
+268
+N08.00.120.2
+Bộ đo khí động mạch
+558
+269
+Bộ đốt nhiệt điều trị khối u (gồm: kim đốt nhiệt, dây nối,
+  điện cực dán)
+Bộ
+559
+269
+N08.00.130.1
+Kim đốt nhiệt (Bộ đốt nhiệt điều trị khối u)
+560
+269
+N08.00.130.2
+Dây nối (Bộ đốt nhiệt điều trị khối u)
+561
+269
+N08.00.130.3
+Điện cực dán (Bộ đốt nhiệt điều trị khối u)
+562
+270
+N08.00.140
+Bộ mở khí quản các loại, các cỡ (sử dụng một lần)
+Bộ
+563
+271
+N08.00.150
+Buồng tiêm truyền cấy dưới da
+Bộ
+564
+272
+N08.00.160
+Đầu đo SpO2 (sensor) dùng một lần
+Cái
+565
+273
+N08.00.170
+Đầu ánh sáng lạnh dùng trong thủ thuật, phẫu thuật
+Chiếc
+566
+274
+N08.00.180
+Đầu camera trong thủ thuật, phẫu thuật
+Bộ
+567
+275
+N08.00.190
+Đầu côn các loại, các cỡ
+Cái
+568
+276
+N08.00.200
+Đầu dây tán sỏi đường mật nội soi
+Cái
+569
+277
+Đầu đốt, dao hàn mạch các loại dùng trong thủ thuật, phẫu
+  thuật
+Chiếc
+570
+277
+N08.00.210.1
+Đầu đốt các loại dùng trong thủ thuật, phẫu thuật
+571
+277
+N08.00.210.2
+Dao hàn mạch các loại dùng trong thủ thuật, phẫu thuật
+572
+278
+N08.00.220
+Đầu kim rửa hút các loại (nhựa, dùng 1 lần) (dùng trong
+  các phẫu thuật chuyên khoa)
+Cái
+573
+279
+Dây cáp, đầu đo huyết áp xâm nhập (dome)
+Bộ
+574
+279
+N08.00.230.1
+Dây cáp đo huyết áp xâm nhập (dome)
+575
+279
+N08.00.230.2
+Đầu đo huyết áp xâm nhập (dome)
+576
+280
+Đè lưỡi (gỗ, inox, sắt)
+Cái
+577
+280
+N08.00.240.1
+Đè lưỡi gỗ
+Cái
+578
+280
+N08.00.240.2
+Đè lưỡi inox
+Cái
+579
+280
+N08.00.240.3
+Đè lưỡi sắt
+Cái
+580
+281
+N08.00.250
+Điện cực dán/ miếng dán điện cực các loại
+Miếng
+581
+282
+Kẹp (clip, clamp) các loại, các cỡ
+Cái
+582
+282
+N08.00.260.1
+Kẹp clip các loại, các cỡ
+Cái
+583
+282
+N08.00.260.2
+Kẹp clamp các loại, các cỡ
+Cái
+584
+283
+N08.00.270
+Kim chọc và sinh thiết tạng các loại, các cỡ
+Cái
+585
+284
+N08.00.280
+Kim chọc và sinh thiết xương các loại, các cỡ
+Cái
+586
+285
+N08.00.290
+Lưỡi cắt, đốt bằng sóng radio các loại
+Cái
+587
+286
+N08.00.300
+Máng đặt ống thông
+Cái
+588
+287
+N08.00.310
+Mặt nạ (mask) các loại, các cỡ
+Cái/chiếc
+589
+288
+N08.00.320
+Miếng áp (opsite) các cỡ dùng trong phẫu thuật, thủ thuật
+Miếng
+590
+289
+N08.00.330
+Mũi khoan các loại dùng trong thủ thuật, phẫu thuật
+Mũi
+591
+290
+N08.00.340
+Phin lọc khí các loại
+Cái
+592
+291
+N08.00.350
+Phin lọc vi khuẩn các loại
+Cái
+593
+292
+N08.00.360
+Stapler các loại dùng một lần trong phẫu thuật
+Bộ
+594
+293
+N08.00.370
+Tấm giữ nhiệt các loại
+cái
+595
+N07.04.080
+Troca nhựa dùng trong nội soi các cỡ
+Cái
+596
+N09.00.000
+Nhóm 9. Các loại vật tư y tế thay thế sử dụng trong một số
+  thiết bị chẩn đoán, điều trị
+Không thanh toán riêng
+597
+294
+N09.00.010
+Bóng đèn hồng ngoại
+Chiếc
+598
+295
+N09.00.020
+Bóng đèn tử ngoại
+Chiếc
+599
+296
+N09.00.030
+Bóng phát tia máy xạ trị gia tốc
+Cái
+600
+297
+N09.00.040
+Bút phóng xạ đánh dấu chụp SPECT (pen point marker)
+Cái
+601
+N08.00.310
+Mặt nạ sử dụng trong xạ trị
+Cái
+602
+298
+N09.00.060
+Phantom
+Bộ
+603
+299
+N09.00.070
+Tấm cố định phần thân dùng trong xạ trị gia tốc
+Cái
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt

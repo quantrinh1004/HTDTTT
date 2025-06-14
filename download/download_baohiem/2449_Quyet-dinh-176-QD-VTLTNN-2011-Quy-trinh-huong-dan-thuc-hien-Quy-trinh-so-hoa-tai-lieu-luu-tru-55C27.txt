@@ -1,0 +1,343 @@
+B
+Ộ
+NỘI VỤ
+CỤC VĂN THƯ VÀ L
+ƯU
+TRỮ
+NHÀ NƯỚC
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+176
+/QĐ-VTLTNN
+Hà
+  Nội, ngày 21 tháng 10 năm 2011
+QUYẾT ĐỊNH
+BAN HÀNH QUY TRÌNH VÀ HƯỚNG DẪN THỰC HIỆN QUY TRÌNH SỐ HÓA TÀI LIỆU LƯU
+TRỮ ĐỂ LẬP BẢN SAO BẢO HIỂM VÀ BẢN SAO SỬ DỤNG
+CỤC TRƯỞNG CỤC VĂN THƯ VÀ LƯU TRỮ NHÀ NƯỚC
+Căn cứ Quyết định 89/2009/QĐ-TTg
+ngày 24 tháng 06 năm 2009 của Thủ tướng Chính phủ quy định chức năng, nhiệm vụ,
+quyền hạn và cơ cấu tổ chức của Cục Văn thư và Lưu trữ Nhà nước trực thuộc Bộ Nội
+vụ;
+Xét đề nghị của Trung tâm Lưu trữ
+quốc gia I, II, III, Trung tâm Bảo hiểm tài liệu lưu trữ quốc gia về việc đề
+nghị thẩm định, phê duyệt quy trình số hóa tài liệu lưu trữ và quy trình chuyển
+dữ liệu số hóa sang phim bảo hiểm;
+Theo đề nghị của Trưởng phòng Nghiệp
+vụ Văn thư và Lưu trữ trung ương,
+QUYẾT ĐỊNH:
+Điều 1.
+Ban hành kèm theo Quyết định này Quy trình và Hướng
+dẫn thực hiện Quy trình số hóa tài liệu lưu trữ để lập bản sao bảo hiểm và bản
+sao sử dụng.
+Điều 2.
+Quyết định này có hiệu lực kể từ ngày ký và thay
+thế Quyết định số 01/QĐ-VTLTNN ngày 08 tháng 01 năm 2009 ban hành Quy trình lập
+bản sao bảo hiểm bằng công nghệ số hóa và chuyển ảnh số sang microfilm.
+Điều 3.
+Trưởng phòng Nghiệp vụ Văn thư và Lưu trữ trung
+ương, Giám đốc các Trung tâm Lưu trữ quốc gia, Trung tâm Bảo hiểm tài liệu lưu
+trữ quốc gia và các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định
+này./.
+Nơi nhận:
+- Như Điều 3;
+- P.KH-TC;
+- TTTH;
+- Lưu: VT, NVTW (2).
+CỤC
+  TRƯỞNG
+Vũ Thị Minh Hương
+QUY TRÌNH
+SỐ HÓA TÀI LIỆU LƯU TRỮ ĐỂ LẬP BẢN SAO BẢO HIỂM VÀ BẢN SAO SỬ DỤNG
+(Ban hành kèm theo Quyết định số 176/QĐ-VTLTNN  ngày 21 tháng 10 năm
+2011 của Cục Văn thư và Lưu trữ Nhà nước)
+Bước 1.
+Giao nhận và vận chuyển tài liệu về nơi chuẩn bị tài liệu.
+Bước 2.
+Chuẩn
+bị tài liệu:
+a) Nhận tài liệu;
+b) Bóc, tách và làm phẳng tài liệu;
+c) Xác định và đặt tiêu chụp đặc biệt.
+Bước 3.
+Thực hiện số hóa:
+a) Nhận tài liệu;
+b) Khởi động máy quét, máy tính, thiết
+bị lưu điện và tạo lập thư mục lưu ảnh;
+c) Thực hiện số hóa và lưu ảnh.
+Bước 4.
+Chuyển ảnh từ các máy trạm về máy chủ.
+Bước 5.
+Kiểm tra số lượng, chất lượng ảnh; quét lại các ảnh chưa đạt yêu cầu (nếu có).
+Bước 6.
+Loại bỏ các files ảnh là tiêu chụp đặc biệt trong dữ liệu ảnh màu và đặt tên
+files ảnh.
+Bước 7.
+Sao lưu toàn bộ dữ liệu ảnh đen trắng, dữ liệu ảnh màu sang ổ cứng.
+Bước 8.
+Lập
+danh mục thống kê số lượng ảnh theo hồ sơ.
+Bước 9.
+Bàn giao dữ liệu ảnh đen trắng cho đơn vị ghi phim và dữ liệu ảnh màu cho đơn vị
+quản lý cơ sở dữ liệu.
+Bước 10.
+Chuyển dữ liệu ảnh màu vào hệ thống quản lý cơ sở dữ liệu.
+Bước 11.
+Vận chuyển và bàn giao tài liệu cho kho bảo quản.
+Bước 12.
+Lập hồ sơ về việc số hóa phông/khối tài liệu./.
+HƯỚNG DẪN
+THỰC HIỆN QUY TRÌNH SỐ HÓA TÀI LIỆU LƯU TRỮ ĐỂ LẬP BẢN SAO BẢO HIỂM VÀ
+BẢN SAO SỬ DỤNG BẰNG MÁY KODAK i1220
+Ban hành kèm theo Quyết định số 176 /QĐ-VTLTNN ngày 21 tháng 10 năm 2011 của
+Cục Văn thư và Lưu trữ Nhà nước
+Bước 1. Giao nhận
+và vận chuyển tài liệu về nơi chuẩn bị tài liệu
+Việc giao nhận tài liệu thực hiện
+theo quy định của cơ quan có tài liệu lập bản sao bảo hiểm;
+- Giao nhận số lượng hồ sơ, số lượng
+tờ trong từng hồ sơ;
+- Lập Biên bản giao nhận giữa hai đơn
+vị;
+- Đóng gói và vận chuyển tài liệu đến
+nơi chuẩn bị tài liệu;
+- Sắp xếp tài liệu lên giá/tủ bảo quản.
+Bước 2. Chuẩn bị
+tài liệu
+a) Giao, nhận tài liệu (đến từng tờ)
+với người chuẩn bị tài liệu số hóa; vào sổ theo dõi xuất tài liệu; kiểm tra trật
+tự sắp xếp của tài liệu trong hồ sơ.
+b) Bóc tách và làm phẳng tài liệu:
+- Bóc, tách từng tờ tài liệu nếu tài
+liệu được đóng quyển; loại bỏ ghim, kẹp.
+- Làm phẳng tài liệu: ép tài liệu cho
+phẳng hoặc dùng bàn là để làm phẳng tài liệu bị nhăn, gấp nếp.
+c) Xác định và đặt tiêu chụp đặc biệt:
+- Tiêu chụp đặc biệt là bản chỉ dẫn
+cho người đọc biết tình trạng tài liệu, khả năng đọc rõ thông tin trên tài liệu.
+Có tiêu chụp đặc biệt chỉ dẫn cho từng tài liệu và tiêu chụp đặc biệt chỉ dẫn
+cho hồ sơ. Tiêu chụp đặc biệt được in trên giấy khổ A4 bằng chữ in hoa Times
+New Roman, cỡ chữ đủ lớn để có thể đọc được trên phim mà không cần phóng to.
+Tiêu chụp đặc biệt được đặt trước tài liệu cần chỉ dẫn.
+- Các loại tiêu chụp đặc biệt:
+Loại
+  tiêu chụp
+Vận
+  dụng trong trư
+ờ
+ng hợp
+Vị
+  trí đặt
+HỒ SƠ KHÔNG CÓ TỜ SỐ...
+Tài liệu trong hồ sơ đánh số tờ bị
+  nhảy số
+Đặt sau tờ bìa hồ sơ
+TÀI LIỆU CHẤT LƯỢNG KÉM KHÓ ĐỌC
+- Tài liệu chữ mờ, nhòe, chữ mất
+  nét hoặc nét quá thanh mảnh; giấy quá mỏng in chữ lên mặt sau; nền giấy xấu có
+  nhiều vết ố; bị tẩy xóa, sửa chữa đè lên nhau,... làm hạn chế việc đọc thông
+  tin
+Đặt trước tài liệu có chất lượng
+  kém khó đọc
+- Hồ sơ chỉ có ít tài liệu chất lượng
+  kém khó đọc
+- Những tờ tài liệu có chất lượng
+  kém khó đọc rời lẻ hoặc cho 10 tờ tài liệu liền nhau có tình trạng xấu và tốt
+  xen kẽ (nghĩa là sau khoảng 10 tờ tài liệu có thể đặt một tiêu chụp khác)
+HỒ SƠ CÓ NHIỀU TÀI LIỆU CHẤT LƯỢNG
+  KÉM KHÓ ĐỌC
+Có trên 30% tài liệu trong hồ sơ có
+  chất lượng kém khó đọc
+Đặt sau tờ mục lục văn bản của hồ sơ
+TÀI LIỆU CHẤT LƯỢNG KÉM KHÔNG ĐỌC
+  ĐƯỢC
+Tài liệu bị hư hỏng, có độ tương phản
+  kém, chữ nhòe, bị xóa đè, bị vết mực ngấm qua,... (không đọc được nội dung
+  tài liệu)
+Đặt trước tài liệu có tình trạng chất
+  lượng kém không đọc được
+TÀI LIỆU MẤT CHỮ LỀ
+PHẢI/TRÁI/TRÊN/DƯỚI
+Tài liệu vì lý do khách quan bị cắt
+  mất chữ ở lề phải hoặc trái hoặc trên hoặc dưới.
+Đặt trước tài liệu có tình trạng bị
+  mất chữ
+TÀI LIỆU BỊ RÁCH THỦNG MẤT CHỮ
+- Tài liệu vì lý do khách quan (bị
+  mối mọt, mực ăn mòn) bị rách thủng mất chữ làm ảnh hưởng đến việc đọc nội
+  dung tài liệu (Không áp dụng cho những tài liệu bị rách thủng ở những phần
+  không có chữ)
+Đặt trước tài liệu có tình trạng bị
+  rách thủng mất chữ
+TÀI L
+I
+ỆU CÓ ẢNH
+Tài liệu có chứa cả chữ và hình ảnh,
+  phải quét hai lần để có một ảnh đạt yêu cầu về chữ, một ảnh đạt yêu cầu về
+  hình ảnh trong tài liệu
+Đặt trước tài liệu có ảnh
+TÀI LIỆU QUÁ KHỔ
+Tài liệu dạng chữ viết hoặc sơ đồ
+  có kích thước vượt quá khổ A4 (vượt quá khổ một khuôn hình trên phim)
+Đặt trước tài liệu quá khổ
+TÀI LIỆU LÀ BẢN ĐỒ
+Tài liệu bản đồ, bản vẽ khổ lớn, nếu
+  chia nhỏ sẽ ảnh hưởng đến khả năng đọc nội dung tài liệu;
+Nếu có nhiều bản đồ liên tiếp nhau
+  thì tiêu chụp phải ghi rõ từ tờ ... đến tờ ... là bản đồ.
+Đặt trước tài liệu là bản đồ
+- Kiểm tra từng tờ tài liệu để xác định
+tình trạng tài liệu như rách, thủng, mất chữ, chữ nhòe mờ khó đọc hoặc không đọc
+được, nhảy số tờ, tài liệu quá khổ A4,... để lựa chọn tiêu chụp đặc biệt phù hợp.
+Cách khoảng 10 trang tài liệu (trang ảnh) có thể đặt lặp lại tiêu chụp có cùng
+nội dung. Trong một hồ sơ nếu có khoảng 30% tài liệu có cùng tình trạng vật lý,
+hoặc cùng loại tài liệu thì lựa chọn tiêu chụp đặc biệt chỉ dẫn cho cả hồ sơ.
+Ví dụ 1: nếu tờ số 5 có tình trạng chữ
+mờ nhòe khó đọc đã đặt tiêu chụp “TÀI LIỆU CHẤT LƯỢNG KÉM KHÓ ĐỌC”, tờ số 8
+cũng có tình trạng chữ nhòe, viết tay khó đọc thì trước tờ số 8 không phải đặt
+tiêu chụp đặc biệt. Nhưng nếu đến tờ số 17 lại gặp tình trạng vật lý như trên
+thì đặt một tiêu chụp “TÀI LIỆU CHẤT LƯỢNG KÉM KHÓ ĐỌC”.
+Ví dụ 2: Hồ sơ có 50 tờ, trong đó có
+18 tờ tài liệu chữ nhòe, mờ khó đọc thì sử dụng tiêu chụp chỉ dẫn cho cả hồ sơ
+“HỒ SƠ CÓ NHIỀU TÀI LIỆU CHẤT LƯỢNG KÉM KHÓ ĐỌC”.
+Bước 3. Thực hiện
+số hóa
+a) Nhận tài liệu: người thực hiện số
+hóa phải kiểm đếm từng tờ tài liệu và các tiêu chụp đặc biệt có trong hồ sơ.
+b) Khởi động máy quét, máy tính, thiết
+bị lưu điện và tạo lập thư mục lưu ảnh.
+- Kiểm tra nguồn điện, bật thiết bị
+lưu điện, máy quét, máy vi tính.
+- Tạo lập thư mục lưu ảnh: mỗi hồ sơ
+lập một thư mục có tên là số hồ sơ, trong đó có hai thư mục con là “đen trắng”
+và “màu”.
+c) Thực hiện số hóa và lưu ảnh:
+- Quét lần lượt từng trang tài liệu
+theo chiều đứng, không xáo trộn trật tự sắp xếp của tài liệu và các tiêu chụp
+trong hồ sơ.
+- Tài liệu có kích thước không đồng đều,
+mỏng, giòn dễ rách,... phải sử dụng máy quét tĩnh; Tài liệu có tình trạng vật
+lý tốt sử dụng máy quét cuộn.
+- Đặt chế độ quét: ảnh để lập bản sao
+bảo hiểm chọn độ sâu màu bitonal (ảnh đen trắng), định dạng TIFF, độ phân giải
+300dpi; ảnh để phục vụ khai thác sử dụng chọn độ sâu màu 24 bit, định dạng
+IPEG, độ phân giải 150dpi - 200dpi.
+- Tùy theo tình trạng tài liệu để điều
+chỉnh độ tương phản sáng tối, độ bóng của chữ, các mức độ màu,... Khi cả ảnh
+đen trắng và ảnh màu đạt yêu cầu mới thực hiện lệnh quét ảnh.
+- Khi quét xong toàn bộ tài liệu của
+một hồ sơ, thực hiện lệnh xuất các files ảnh vào thư mục hồ sơ đã được tạo lập.
+- Đối với tài liệu gốc có cả phần chữ
+và ảnh (lý lịch cá nhân, tạp chí, báo,...): ảnh đen trắng phải quét hai lần,
+quét lần một lấy rõ phần chữ và lần thứ hai lấy rõ phần ảnh.
+- Tài liệu gốc là tài liệu hành chính
+có kích cỡ vượt quá khổ A4:
++ Ảnh đen trắng: chia tài liệu gốc
+thành từng phần theo khổ A4 và quét lần lượt từ trái qua phải, từ trên xuống dưới
+theo chiều kim đồng hồ, các phần liền kề gối lên nhau ít nhất 10 mm. Số thứ tự
+của ảnh được xác định theo thứ tự quét ảnh.
++ Ảnh màu: máy quét tĩnh khổ A3 có thể
+quét được tài liệu khổ A3, nên có thể chia tài liệu thành từng phần theo khổ
+A3.
+Lưu ý: ảnh sau khi được xuất và
+lưu vào các thư mục không được sửa chữa hoặc quay hướng ảnh.
+Bước 4. Chuyển ảnh
+từ các máy trạm về máy chủ
+Sau mỗi ngày làm việc phải chuyển các
+thư mục ảnh từ máy tính gắn với máy quét về máy chủ.
+Bước 5. Kiểm tra
+số lượng, chất lượng ảnh, quét lại các ảnh chưa đạt yêu cầu (nếu có)
+- Phải kiểm tra chất lượng màn hình
+trước khi kiểm tra hình ảnh, đặt chế độ phân giải màn hình phù hợp, chế độ xem ảnh
+ở tỷ lệ 1:1 (100%). Thực hiện kiểm tra ảnh trong phòng có ánh sáng thấp, ánh
+sáng không chiếu trực tiếp vào màn hình.
+- Mỗi ảnh sẽ được kiểm tra trên màn
+hình hoặc in ra giấy kết hợp với các tiêu chụp đặc biệt để đối chiếu với tài liệu
+gốc về một số thuộc tính sau:
++ Tính đầy đủ. Để đảm bảo tất cả các
+trang tài liệu đã được quét phải kiểm tra lần lượt các trang ảnh theo thứ tự sắp
+xếp của nó. Đặc biệt chú ý kiểm tra các tờ tài liệu hai mặt, tài liệu quá khổ;
++ Hình ảnh tài liệu bị xiên lệch;
++ Chữ bị cắt ở các lề;
++ Độ tương phản, chữ bị mất nét;
++ Hình ảnh sau quét có sự khác biệt lớn
+so với tài liệu gốc;
++ Vị trí đặt các tiêu chụp đặc biệt
+và nội dung cần chỉ dẫn của tiêu chụp.
+- Ghi lại địa chỉ các ảnh phải quét lại
+và lập Phiếu yêu cầu quét lại.
+- Người thực hiện quét lại các ảnh theo
+yêu cầu phải lưu các files ảnh quét lại vào đúng thư mục, vị trí của ảnh như
+trong phiếu yêu cầu.
+- Nhận và kiểm tra lại các ảnh quét lại.
+Bước 6. Loại bỏ
+các files ảnh là tiêu chụp đặc biệt trong dữ liệu ảnh màu và đặt tên files ảnh
+- Đặt tên ảnh màu theo Hướng dẫn
+169/HD-VTLTNN của Cục Văn thư và Lưu trữ Nhà nước.
+Ví dụ: tên file ảnh
+Q3_1_2_1654_1.jpeg là tên ảnh tờ số 1 của hồ sơ 1654 thuộc mục lục 2 phông số 1
+của Trung tâm Lưu trữ quốc gia III
+Bước 7. Sao lưu
+toàn bộ dữ liệu ảnh đen trắng, dữ liệu ảnh màu sang ổ cứng
+Bước 8. Lập danh
+mục thống kê số lượng ảnh theo hồ sơ
+Mẫu Danh mục thống kê số lượng ảnh
+DANH MỤC THỐNG KÊ SỐ LƯỢNG ẢNH SỐ
+HÓA TÀI LIỆU PHÔNG ...
+STT
+Hồ
+  sơ số
+Số
+  lượng ảnh đen trắng
+S
+ố lượng ảnh màu
+Ghi
+  chú
+Bước 9. Giao nhận
+dữ liệu ảnh đen trắng cho đơn vị ghi phim và dữ liệu ảnh màu cho đơn vị quản lý
+cơ sở dữ liệu
+a) Giao nhận dữ liệu ảnh đen trắng với
+đơn vị ghi phim:
+- Đơn vị thực hiện số hóa bàn giao dữ
+liệu ảnh đen trắng lưu trong ổ cứng cùng Danh mục thống kê số lượng ảnh cho đơn
+vị ghi phim.
+- Căn cứ vào Danh mục thống kê, đơn vị
+thực hiện ghi phim kiểm nhận số lượng hồ sơ, số lượng ảnh của từng hồ sơ; kiểm
+tra chất lượng hình ảnh tài liệu và việc đặt các tiêu chụp đặc biệt.
+b) Giao nhận dữ liệu ảnh màu với đơn
+vị quản lý cơ sở dữ liệu:
+- Đơn vị thực hiện số hóa bàn giao dữ
+liệu ảnh màu lưu trong ổ cứng cùng Danh mục thống kê số lượng ảnh cho đơn vị quản
+lý cơ sở dữ liệu để sử dụng.
+- Căn cứ vào Danh mục thống kê, đơn vị
+quản lý cơ sở dữ liệu kiểm nhận số lượng hồ sơ, số lượng ảnh của từng hồ sơ; kiểm
+tra chất lượng hình ảnh và cách đặt tên ảnh.
+Bước 10. Chuyển
+dữ liệu ảnh màu vào hệ thống quản lý cơ sở dữ liệu
+Bước 11. Vận
+chuyển và bàn giao tài liệu cho kho bảo quản
+- Sắp xếp tài liệu, đóng gói, vận
+chuyển tài liệu về kho bảo quản tài liệu;
+- Căn cứ Biên bản giao nhận tài liệu,
+kho bảo quản tài liệu phải kiểm đếm đến từng tờ tài liệu;
+- Lập Biên bản giao trả tài liệu;
+- Sắp xếp tài liệu lên giá.
+Bước 12. Lập hồ
+sơ về việc số hóa phông/khối tài liệu
+Hồ sơ gồm các văn bản:
+- Văn bản của Cục Văn thư và Lưu trữ
+Nhà nước đồng ý cho lập bản sao bảo hiểm đối với phông/khối tài liệu và các ý
+kiến chỉ đạo trong quá trình số hóa;
+- Biên bản các đợt nhận - trả tài liệu;
+- Biên bản các đợt giao nhận ảnh kèm
+Danh mục thống kê số lượng ảnh;
+- Các Hợp đồng và Biên bản nghiệm thu
+sản phẩm./.
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

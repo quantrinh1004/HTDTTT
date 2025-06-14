@@ -1,0 +1,89 @@
+BẢO HIỂM XÃ HỘI
+  VIỆT NAM
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 1905/BHXH-TCKT
+V/v triển khai cơ quan BHXH chuyển tiền chi
+  trả lương hưu, trợ cấp BHXH hàng tháng qua tài khoản cá nhân cho người hưởng
+Hà Nội, ngày 19
+  tháng 6 năm 2024
+Kính gửi:
+Bảo
+hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương.
+Thực hiện chủ trương của Chính phủ về việc giảm bớt
+khâu trung gian, đơn giản hóa quy trình, thủ tục hành chính tại Nghị quyết số
+131/NQ-CP ngày 06/10/2022 về việc đẩy mạnh cải cách thủ tục hành chính và hiện
+đại hóa phương thức chỉ đạo, điều hành phục vụ người dân, doanh nghiệp; đồng thời
+nhằm đáp ứng việc chi trả các chế độ bảo hiểm xã hội (BHXH), bảo hiểm thất nghiệp
+và quản lý người hưởng theo xu hướng chuyển đổi số tại Quyết định số 06/QĐ-TTg
+ngày 06/01/2022 của Thủ tướng Chính phủ phê duyệt Đề án phát triển ứng dụng dữ
+liệu dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai
+đoạn 2022 - 2025, tầm nhìn đến năm 2030. BHXH Việt Nam đã ban hành Công văn số
+1665/BHXH-TCKT ngày 31/5/2024 về việc triển khai việc cơ quan BHXH chuyển tiền
+chi trả lương hưu, trợ cấp BHXH hàng tháng qua tài khoản cá nhân cho người hưởng
+(Công văn 1665/BHXH-TCKT đính kèm)
+tại 05 BHXH tỉnh, thành phố trực thuộc
+Trung ương (sau đây gọi là BHXH các tỉnh): Thành phố Hồ Chí Minh, Đà Nẵng, Nam
+Định, Điện Biên, Sóc Trăng và dự kiến triển khai trên toàn quốc trong thời gian
+tới. Trong quá trình thực hiện tại 05 BHXH tỉnh, còn một số tồn tại, vướng mắc
+dẫn đến lệnh chi điện tử không thành công: lỗi từ dữ liệu người hưởng như BHXH
+tỉnh chưa cập nhật kịp thời mã ngân hàng tại Phần mềm TCS, mã cũ đã bị hủy do
+đó nhiều lệnh chi điện tử bị trả lỗi không thực hiện được; tên người hưởng
+phông chữ khác Unicode, có các ký tự đặc biệt nên ngân hàng nhận diện là ký tự
+lạ và trả lỗi lệnh chuyển tiền; sai tài khoản người hưởng...
+Để việc triển khai đảm bảo chính xác, kịp thời, phục
+vụ người hưởng, BHXH Việt Nam yêu cầu BHXH các tỉnh, thành phố một số nội dung
+sau:
+- BHXH tỉnh xây dựng kế hoạch cụ thể, rà soát, cập
+nhật đầy đủ, chính xác thông tin tài khoản người hưởng (Tên, số hiệu tài khoản,
+ngân hàng mở tài khoản; mã ngân hàng); rà soát dữ liệu người hưởng tại phần mềm
+TCS đảm bảo yêu cầu đúng định dạng để thực hiện lệnh chi. Lưu ý các trường hợp
+tên, số hiệu tài khoản không hợp lệ như sau: Tên tài khoản người hưởng không chứa
+các ký tự đặc biệt như mở ngoặc ( ), dấu chấm (.), dấu gạch chéo (/)...Ví dụ:
+Nguyễn Thị Hồng (Nguyễn Ánh Hồng); số hiệu tài khoản không chứa các ký tự như chữ
+cái, dấu chấm (.), dấu gạch chéo (/), dấu cách ( )...; số hiệu tài khoản đã
+đóng, dùng số thẻ ATM, Tài khoản định danh thay cho số tài khoản ngân hàng...
+- Hiện tại, BHXH các tỉnh đang triển khai Quy chế
+phối hợp số 2286/C06-TCKT ngày 22/3/2024 giữa BHXH Việt Nam và Cục C06-Bộ Công
+an về việc triển khai quy trình thực hiện phát triển thanh toán không dùng tiền
+mặt trong công tác chi trả lương hưu, trợ cấp BHXH trên nền cơ sở dữ liệu quốc
+gia về dân cư. Theo đó, số lượng tài khoản phát sinh mới nhiều; đối với các tài
+khoản này yêu cầu cập nhật chính xác ngay từ tháng đầu tiên chuyển đổi hình thức
+thanh toán vào phần mềm TCS không để xảy ra các lỗi như trên khi thực hiện lệnh
+chi tiền.
+- Phối hợp ngân hàng nơi BHXH tỉnh mở tài khoản tiền
+gửi chi rà soát thông tin tài khoản người hưởng khớp đúng với thông tin tài khoản
+người hưởng lưu tại các hệ thống ngân hàng và đề nghị ngân hàng cử đầu mối liên
+quan trực tiếp để chuẩn bị cho việc thực hiện lệnh chi điện tử đến từng người
+hưởng được thông suốt, hạn chế tối đa sai sót, kịp thời giải quyết vấn đề khi
+có phát sinh. Trong quá trình rà soát, nếu việc sai thông tin tài khoản do người
+hưởng, thực hiện thông báo ngay cho người hưởng để điều chỉnh thông tin theo
+quy định.
+- Các cán bộ cơ quan BHXH trực tiếp chuyển tiền phải
+thực hiện thành thạo quy trình, thao tác lệnh chi điện tử.
+Yêu cầu BHXH các tỉnh nghiêm túc triển khai thực hiện
+nội dung hướng dẫn tại văn bản này. BHXH tỉnh chịu trách nhiệm nếu việc chuyển
+tiền chi trả không thực hiện được do lỗi dữ liệu từ cơ quan BHXH. Căn cứ mức độ
+sẵn sàng của công tác chuẩn bị tại từng địa phương và khả năng đáp ứng của phần
+mềm nghiệp vụ; BHXH Việt Nam sẽ chỉ đạo lộ trình mở rộng triển khai việc cơ
+quan BHXH chuyển tiền chi trả lương hưu, trợ cấp BHXH hàng tháng qua tài khoản
+cá nhân cho người hưởng và có đánh giá khen thưởng/phê bình đối với kết quả thực
+hiện của BHXH các tỉnh.
+Trong quá trình thực hiện nếu có vướng mắc BHXH tỉnh
+kịp thời phản ánh về BHXH Việt Nam (Vụ Tài chính - Kế toán) để được hướng dẫn,
+giải quyết./.
+Nơi nhận:
+- Như trên;
+- Tổng Giám đốc (để b/c);
+- Các đơn vị: CSXH, CNTT;
+- Lưu: VT, TCKT (02).
+KT. TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Lê Hùng Sơn
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

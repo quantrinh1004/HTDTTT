@@ -1,0 +1,561 @@
+BẢO
+  HI
+Ể
+M XÃ HỘI VIỆT NAM
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+1114
+/QĐ-BHXH
+Hà
+  Nội, ngày
+04
+tháng
+07
+năm 20
+1
+7
+QUYẾT ĐỊNH
+VỀ VIỆC BAN HÀNH QUY CHẾ QUẢN LÝ VÀ SỬ DỤNG THƯ ĐIỆN TỬ NGÀNH BẢO HIỂM
+XÃ HỘI
+TỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM
+Căn cứ Nghị định số 01/2016/NĐ-CP
+ngày 05/01/2016 của Chính phủ về việc quy định chức năng, nhiệm vụ, quyền hạn
+và
+c
+ơ cấu tổ chức của Bảo hiểm xã hội Việt Nam;
+Căn cứ Chỉ thị số 34/2008/CT-TTg
+ngày 03/12/2008 của Thủ tướng Chính phủ về việc tăng cường sử dụng hệ thống thư
+điện tử trong hoạt động của cơ quan nhà nước;
+Căn cứ Chỉ thị số 15/2012/CT-TTg
+ngày 22/05/2012 của Thủ tướng Chính phủ về việc tăng cường sử dụng văn bản điện
+tử trong hoạt động của cơ quan nhà nước;
+Xét đề nghị của Giám đốc Trung tâm
+Công ng
+hệ thông tin
+,
+QUYẾT ĐỊNH
+Điều 1.
+Ban hành kèm theo Quyết
+định này Quy chế quản lý và sử dụng thư điện tử ngành Bảo hiểm xã hội.
+Điều 2.
+Quyết định này có hiệu
+lực thi hành từ ngày ký.
+Điều 3.
+Giám đốc Trung tâm Công
+nghệ thông tin, Chánh Văn phòng Bảo hiểm xã hội Việt Nam, Thủ trưởng các đơn vị
+trực thuộc BHXH Việt Nam, Giám đốc Bảo hiểm xã hội các tỉnh, thành phố trực thuộc
+Trung ương chịu trách nhiệm thi hành Quyết định này./.
+Nơi nhận:
+- Như Điều 3;
+- Tổng Giám đốc (để b/c);
+- Các Phó TGĐ;
+- Lưu: VT, CNTT(03).
+KT. TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Phạm Lương Sơn
+QUY CHẾ
+QUẢN LÝ VÀ SỬ DỤNG THƯ ĐIỆN TỬ NGÀNH BẢO HIỂM XÃ HỘI
+(Ban hành kèm theo Quyết định số
+1114/
+Q
+Đ
+-BHXH ngày
+04/7/
+2017 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam)
+Chương I:
+CÁC QUY ĐỊNH
+CHUNG
+Điều 1. Phạm vi
+điều chỉnh
+Quy chế này quy định việc thiết lập,
+quản lý và sử dụng Hệ thống thư điện tử của ngành Bảo hiểm xã hội (BHXH) Việt
+Nam.
+Điều 2. Đối tượng
+áp dụng
+Quy chế này áp dụng đối với các đơn vị
+trong hệ thống ngành BHXH bao gồm cơ quan BHXH các cấp, các đơn vị trực thuộc
+BHXH Việt Nam (sau đây gọi là đơn vị); cán bộ, công chức, viên chức, người lao
+động trong các đơn vị (sau đây gọi là cá nhân) nhằm phục vụ mục đích trao đổi
+thông tin phục vụ công việc.
+Điều 3. Các định
+nghĩa
+1.
+Thư điện tử
+là dịch vụ chuyển
+thư dưới dạng số qua mạng máy tính, Internet thông qua các hòm thư đ
+i
+ện tử.
+2.
+Hệ thống thư điện tử
+là hệ
+thống thông tin quản lý các hòm thư điện tử và thực hiện chuyển thư điện tử.
+3.
+Tài khoản thư điện tử
+là
+thông tin bao gồm địa chỉ thư điện tử và mật khẩu để truy nhập vào hòm thư điện
+tử thực hiện gửi và nhận thư điện tử.
+4.
+Hòm thư cá nhân
+là hòm thư
+điện tử thuộc Hệ thống thư điện tử cấp cho cá nhân.
+5.
+Hòm thư đơn vị
+là hòm thư
+điện tử thuộc Hệ thống thư điện tử cấp cho đơn vị để sử dụng chung.
+6.
+Tài khoản quản trị
+là tài khoản
+có đ
+ị
+nh dạng support@<tentinh>.vss.gov.vn, được phân
+cấp cho BHXH tỉnh, thành phố để cập nhật thông tin về thư điện tử (thay đổi
+thông tin, cấp lại mật khẩu, khóa hoặc mở khóa hòm thư điện tử).
+Chương II:
+CÁC QUY ĐỊNH CỤ
+THỂ
+Điều 4. Quy định
+về việc cấp phát tài khoản thư điện tử
+1. Đối tượng được cấp phát.
+1.1. Công chức, viên chức và người
+lao động ký hợp đồng thời hạn tối thiểu 01 năm làm việc trong ngành BHXH được cấp
+tài khoản thư điệ
+n
+tử.
+1.2. Các đơn vị, cá nhân sử dụng thư
+điện tử để gia
+o
+dịch công vụ trong nội bộ Ngành hoặc với
+các đối tác ngoài Ngành phải dùng thư điện tử do BHXH Việt Na
+m
+cấp phát.
+2. Thủ tục cấp phát tài khoản thư điện
+t
+ử
+.
+2.1. Căn cứ vào nhu cầu sử dụng thư
+điện tử hoặc tờ trình của c
+á
+nhân, đơn vị lập danh sách tạo
+mới tài khoản thư điện tử gửi Trung tâm Công ng
+hệ
+thông tin
+(CNTT) theo M
+ẫ
+u 01 (của phụ lục kèm theo
+quy chế nà
+y
+). Có thể gửi bản giấy hoặc bản quét (scan)
+danh sách đề nghị có đầy đủ chữ ký của thủ trưởng đơn vị về Trung tâm CNTT (Nếu
+là bản scan gửi vào hòm thư s
+u
+pport@vss.gov.vn).
+2.2. Trong thời hạn 48 giờ kể từ khi
+nhận được đầy đủ thông tin, Trung tâm CNTT sẽ tiến hành tạo tài khoản thư điện
+tử và gửi thư điện tử thông báo cho đơn vị theo M
+ẫ
+u 02 (của
+phụ lục kèm theo quy chế này).
+2.3. Người sử dụng cần thay đổi mật
+khẩu ngay lần đăng nhập đầu tiên. Mật khẩu phải có độ dài từ 8 ký tự
+tr
+ở lên bao gồm cả chữ hoa, chữ thường, số và ký tự đặc biệt
+(@,*,&,!..).
+Điều 5. Quy định
+về việc khóa tài khoản thư điện tử
+1. Các trường hợp bị khóa tài khoản
+thư điện tử
+1.1. Người sử dụng không đăng nhập
+tài khoản thư điện tử trong vòng 90 ngày liên tiếp.
+1.2. Đối tượng chấm dứt làm việc tại
+cơ quan BHXH.
+1
+.
+3. Đối tượng
+vi phạm các nội quy, quy định về việc sử dụng thư điện tử.
+2. Thủ tục khóa tài khoản thư điện tử.
+2.1. Căn cứ vào nhu cầu sử dụng thư
+điện tử hoặc phát hiện vi phạm của cá nhân thuộc đơn vị, đơn vị thực hiện việc
+khóa tài khoản và lập danh sách khóa tài khoản thư điện tử gửi Trung tâm CNTT
+theo biểu M
+ẫ
+u 01 (Có thể gửi bản giấy hoặc bản scan danh
+sách đề nghị theo hướng dẫn tại Điều 4 Mục 2.1).
+2.2. Trong trường hợp phát hiện việc
+sử dụng thư điện t
+ử
+không đúng mục đích hoặc vi phạm quy định
+sử dụng thư điện tử, Trung tâm CNTT sẽ chủ động tạm ngừng hoặc khóa tài khoản
+thư điện tử vi phạm. Sau khi thực hiện, Trung tâm CNTT sẽ thông báo theo M
+ẫ
+u 02 cho thủ trưởng đơn vị có
+trường hợp
+vi phạm.
+Điều 6. Quy định
+về việc cấp lại mật khẩu tài khoản thư điện tử
+6.1. Tại các đơn vị trực thuộc BHXH
+Việt Nam: Khi người sử dụng bị quên (hoặc mất) mật khẩu tài khoản thư điện tử cần
+thông báo cho Trung tâm CNTT (gửi vào hòm thư support@vss.gov.vn). Trong thời hạn
+24 giờ kể từ khi nhận được yêu cầu Trung tâm CNTT có
+trách
+nhiệm cài đặt lại mật khẩu (reset password) cho người sử dụng.
+6.2. Tại các đơn vị BHXH cấp tỉnh, huyện:
+Khi người sử dụng bị quên (hoặc mất) mật khẩu tài khoản thư điện tử cần thông
+báo cho cán bộ quản lý thư điện tử tại đơn vị. Trong thời hạn 24 giờ kể từ khi
+nhận được yêu cầu cán bộ quản lý thư điện tử tại đơn vị có
+trách
+nhiệm cài đặt lại mật khẩu (reset
+password) cho người sử dụng.
+Điều 7. Quy định
+về việc đặt tên tài khoản thư điện tử
+Tài khoản thư điện tử cấp mới được đặt
+theo nguyên tắc s
+a
+u: Tên người (không dấu) + họ (viết tắt)
++ tên đệm (viết tắt) + @ + t
+ê
+n miền (vss.gov.vn)
+Trường hợp địa chỉ thư điện tử đã tồn
+tại trong hệ thống thì bổ sung chỉ số (1,2,3..) sa
+u
+phần
+tên thư điện tử (trước ký tự @). Ví dụ: Nguyễn Văn Anh: anhnv@vss.gov.vn; anhnv
+1
+@vss.gov.vn; anhnv2@vss.gov.vn.
+Điều 8. Quy định
+về dung lượng tài khoản thư điện tử
+Dung lượng mỗi hòm thư là 01GB. Căn cứ
+vào từng giai đoạn và tính chất công việc của từng nhóm tài khoản, Trung tâm
+CNTT sẽ tăng hoặc giảm dung lượng hòm thư cho phù hợp.
+Điều 9. Quy định
+về dung lượng file đính kèm
+Không được gửi các file đính kèm là
+các tập tin thi hành (Có phần đuôi mở rộng là: .exe,.bat,...).
+Dữ liệu âm thanh, hình ảnh, tệp tải
+trao đổi qua Hệ thống thư điện tử phải tuân thủ các tiêu chuẩn về ứng dụng CNTT
+trong cơ quan nhà nước, được quy định tại Thông tư số 22/2013/TT-BTTTT ngày 23
+tháng 12 năm 2013 của Bộ trưởng Bộ Thông tin và Truyền thông ban hành Danh Mục
+tiêu chuẩn kỹ thuật về ứng dụng CNTT trong cơ quan nhà nước.
+Không được gửi các file đính kèm có tổng
+dung lượng lớn hơn 25 MB.
+Trường hợp cần gửi các file đính kèm
+có tổng dung l
+ư
+ợng l
+ớ
+n hơn 25 MB, người
+gửi cần phải upload tài liệu lên mục lưu trữ trên hệ thống thư điện tử của
+Ngành và chia sẻ cho đối tượng cần gửi file.
+Điều 10. Quy định
+về kết cấu và trình bày một thư điện tử
+Một thư điện tử phải có tối thiểu các
+thành phần: Tiêu đề (Su
+b
+j
+ect); Phần nội dung thư điện tử.
+Font chữ sử dụng là Font chữ chuẩn
+Unicode: Times New Roman, Arial...
+Điều 11. Quy định
+về nguyên tắc giao dịch qua thư điện tử
+Khi gửi thư điện tử
+tr
+ao đổi công việc cho lãnh đạo cấp cao hơn, phải gửi bản sao (CC) cho cán
+bộ quản lý trực tiếp.
+Người sử dụng cần kiểm tra thư điện tử
+tối thiểu 1 lần/ngày.
+Khi nhận được các đề nghị cần
+tr
+ao đổi qu
+a
+thư điện tử, người sử dụng cần hồi đáp
+theo nội dung yêu cầu của người gửi.
+Điều 12. Quy định
+về việc quản lý và sử dụng tài khoản thư điện tử
+1. Việc sử dụng thư điện tử của Ngành
+chỉ phục
+v
+ụ các công vụ của Ngành, không dùng cho mục đích
+khác.
+2. Người sử dụng thư điện tử phải chịu
+trách nhiệm trước pháp luật về nội dung những thư điện tử được gửi đi từ tài khoản
+của m
+ì
+nh.
+3. Người sử dụng phải đảm bảo tất cả
+các thư điện tử được gửi đi phù hợp với các quy định hiện hành và dưới các h
+ì
+nh thức an toàn
+. S
+ố lượng thư điện tử gửi ra ngoài
+Ngành không quá 200 thư điện tử/1 giờ trừ những trường hợp đặc biệt.
+4. Không đ
+ư
+ợc
+phép cho người khác sử dụng tài khoản thư điện tử của mình.
+5. Nghiêm cấm sử dụng tài khoản thư
+điện tử trong các trường hợp sau:
+5.1. Dùng tài khoản thư điện tử vào bất
+kì mục đích/hình thức nào vi phạm pháp luật Việt Nam, nội quy, quy định của
+Ngành.
+5.2. Lưu trữ, tuyên truyền bất kì loại
+dữ liệu nào mang tính bất hợp pháp, phản động, kích động, đe dọa, lừa đảo, thù
+hằn, xuyên tạc, nói xấu, tục tĩu, khi
+ê
+u dâm, xúc phạm.
+5.3. Phát tán virus hoặc các phần mềm,
+đường dẫn có mã độc; Phát tán những tin đồn sai sự thật.
+5.4. Quấy rối người khác hoặc phát
+tán thông tin quấy rối người khác.
+5.5. Phát tán thông tin nội bộ mà
+chưa được BHXH Việt Nam công bố chính thức; Dùng tài khoản thư điện tử để phát
+tán, làm tiết lộ, các thông tin bí mật nội bộ của Ngành.
+5.6. Sử dụng tài khoản thư điện tử để
+gửi thư rác, thư quảng cáo... hoặc các nội dung mang mục đích phá hoạ
+i
+.
+5.7. Các mục đích khác trái với quy định
+hiện hành.
+Chương III:
+TỔ CHỨC THỰC HIỆN
+Điều 13. Trách
+nhiệm của các đơn vị trực thuộc BHXH Việt Nam
+1. Trách nhiệm của Trung tâm CNTT
+Trung tâm CNTT chịu trách nhiệm quản
+lý, vận hành hệ thống thư điện tử đảm bảo hoạt động ổn định 24/7, bảo mật và an
+toàn dữ liệu.
+Thực hiện kiểm tra, giám sát việc sử
+dụng thư điện tử của các tổ chức, cá nhân trong Ngành.
+Xử lý theo
+thẩm quyền
+và kiến nghị Tổng Giám đốc BHXH Việt Nam xử lý cá
+c
+vi phạm Quy chế này và các quy định khác liên quan của pháp luật
+hiện hành.
+Xây dựng hệ thống biểu mẫu, báo cáo
+phù hợp trong quá trình sử dụng vận hành hệ thống.
+Thường xuyên kiểm tra, đánh giá hoạt
+động của hệ thống.
+Thực hiện sao lưu dữ liệu, bảo
+tr
+ì định kỳ hệ thống máy chủ thư điện tử.
+Khắc phục sự cố trong quá trình vận
+hành.
+Xây dựng kế hoạch nâng cấp, mở rộng,
+phát triển hệ thống thư điện tử khi có nhu cầu.
+2. Trách nhiệm của đơn vị sử dụng
+và người sử dụng
+2.1. Trách nhiệm của Thủ trưởng các
+đơn vị trực thuộc BHXH Việt Nam và Giám đốc BHXH các tỉnh, thành phố.
+Phổ biến Quy chế này đến từng cá nhân
+trong đơn vị nhằm nâng cao nhận thức, ý thức trách nhiệm và hiệu quả trong việc
+khai thác, sử dụng thư điệ
+n
+tử tại đơn vị.
+Xác nhận các đề nghị cấp phát tài khoản
+thư điện tử.
+Phân công cán bộ quản lý hòm thư điện
+tử của đơn vị và giao các phòng, các đơn vị cấp huyện (đối với BHXH tỉnh, thành
+phố) trực thuộc quản lý hòm thư điện tử của đơn vị mình.
+Giao cán bộ CNTT (đối với BHXH tỉnh,
+thành phố) quản lý tài khoản quản
+tr
+ị. Cán bộ này có trách
+nhiệm hướng dẫn, hỗ trợ kỹ thuật cho cán bộ, công chức và viên chức tại đơn vị
+sử d
+ụ
+ng thư điện tử; Phối hợp với Trung tâm CNTT thực hiện
+tạo lập hòm th
+ư
+điệ
+n tử đ
+ơn vị, hòm
+thư điện tử cá nhân trong đơn vị và có
+trách
+nhiệm th
+ô
+ng b
+á
+o
+cho đơn vị
+, cá nhân sử dụng; Cập nhật thông tin về thư điện tử của đơn vị khi có
+tha
+y
+đổi thông tin; hỗ trợ cấp lại mật khẩu hoặc thực hiện
+khóa hòm thư điện tử t
+ại
+đơn vị quản lý.
+2.2. Trách nhiệm của cán bộ quản lý
+hòm thư điện tử của đơn vị
+Thực hiện mở hòm thư đơn vị ít nhất
+03 lần mỗ
+i
+ngày làm việc: vào đầu giờ sáng, cuối giờ sáng
+và cuối giờ chiều.
+K
+hi nhận được văn bản, hồ sơ, tài liệu
+dạng điện tử qua hòm thư đơn vị, kịp thời báo cáo Thủ trưởng đơn vị và các cá
+nhân có liên quan được biết về tình
+tr
+ạng gửi nhận thư điện
+tử bao gồm: thời Điểm gửi, nhận, các xác nhận, phản hồi của bên nhận.
+Khi không đảm nhiệm công việc quản lý
+thư điện tử của đơn vị phải thực hiện bàn giao nguyên trạng hòm thư điện t
+ử
+cùng mật khẩu và toàn bộ nội dung dữ liệu cho cá nhân được Thủ
+tr
+ưởng đơn vị chỉ định.
+Định kỳ 06 tháng thống kê danh sách
+cá nhân, đơn vị đang sử dụng hòm thư công vụ
+gửi
+về Trung tâm CNTT để tổng hợp, rà soát,
+2.3. Người sử dụng tài khoản thư điện
+tử có trách nhiệm:
+Tự bảo quản hòm thư của mình (tên tài
+khoản và mật kh
+ẩ
+u) tránh đ
+ể
+bị lộ tài
+khoản. Khi phát hiện tài khoản bị đánh c
+ắ
+p hoặc người khác
+sử dụng trái phép tài khoản thư điện tử của mình, cá nhân, đơn vị phải thông
+báo sớm nhất với cán bộ quản lý thư điện tử tại đơn vị và Trung tâm CNTT để
+khóa tài khoản tránh việc đánh cắp thông tin cũng như việc kẻ gian sử dụng tài khoản
+vào mục đích xấu.
+Tự sao lưu dữ liệu của cá nhân theo định
+kỳ tránh mất mát dữ liệu.
+Định kỳ thay đổi mật khẩu hòm thư điện
+t
+ử
+tối thiểu 06 tháng 1 lần.
+Điều 14. Xử lý
+vi phạm
+Các đơn vị và cá nhân trong quá trình
+khai thác, sử dụng hệ thống thư điện tử của ngành BHXH nếu vi phạm Quy chế này
+tùy theo mức độ vi phạm sẽ bị xử lý trách nhiệm theo quy định của Ngành và pháp
+luật hiện hành.
+Điều 15. Điều khoản
+thi hành
+Trung tâm CNTT chủ trì, phối hợp với
+các đơn vị có liên quan tổ chức hướng dẫn, triển khai thực hiện Quy chế này.
+Thủ trưởng các đơn vị có trách nhiệm triển
+khai thực hiện Quy chế này trong phạm vi quản lý của đơn vị.
+Trong quá trình thực hiện, nếu khó
+khăn, vướng mắc hoặc có những vấn đề mới phát sinh, các tổ chức, cá nhân phản
+ánh về Trung tâm CNTT để tổng hợp, trình Lãnh đạo BHXH Việt Nam xem xét sửa đổi,
+bổ sung Quy chế cho phù h
+ợ
+p./.
+PHỤ LỤC 1
+(Ban
+hành kèm theo Quyết định
+số: 1114
+/QĐ-BHXH ngày
+04
+/
+7
+/2017 của Tổng Giám đốc Bảo
+hiểm xã hội Việt Nam)
+Mẫu 01
+BẢO HIỂM XÃ HỘI VIỆT NAM
+ĐƠN VỊ:
+………………………….
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+DANH SÁCH ĐỀ NGHỊ CẤP PHÁT/KHÓA/THAY ĐỔI
+TÀI KHOẢN THƯ ĐIỆN TỬ
+Kính
+gửi:
+Trung tâm Công ng
+hệ thông tin
+- BHXH Việt Nam
+STT
+Họ
+  và Tên người d
+ù
+ng
+Chức
+  vụ
+Số
+  ĐTDĐ
+Tài khoản
+  thư điện t
+ử
+đang dùng (Nếu có)
+Nội
+  dung yêu cầu
+1
+2
+3
+4
+5
+Người
+  lập
+(Ký viết rõ họ tên)
+Ngày
+….
+tháng
+….
+năm 20....
+Thủ trưởng đơn vị
+(Ký tên và đóng dấu)
+PHỤ LỤC 2
+(Ban
+hành kèm theo Quyết định
+số: 1114
+/QĐ-BHXH ngày
+04
+/
+7
+/2017 của Tổng Giám đốc Bảo
+hiểm xã hội Việt Nam)
+M
+ẫ
+u 0
+2
+BẢO HIỂM XÃ HỘI VIỆT NAM
+TRUNG TÂM CÔNG NGHỆ THÔNG TIN
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+THÔNG BÁO KẾT QUẢ CẤP PHÁT/KHÓA/THAY ĐỔI
+TÀI KHOẢN THƯ ĐIỆN TỬ
+Kính
+gửi:
+……………………………………..
+STT
+Họ
+  và tên người dùng
+Tài khoản
+  đang dùng (hoặc cấp mới)
+Nội
+  dung đã yêu cầu
+Kết
+  quả thực hiện
+Lý
+  do
+1
+2
+3
+4
+5
+Ngày
+….
+tháng
+….
+năm 20....
+GIÁM Đ
+Ố
+C
+(Ký tên và đóng dấu)
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

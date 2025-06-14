@@ -1,0 +1,89 @@
+BẢO HIỂM XÃ HỘI VIỆT NAM
+-------
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 836/BHXH-CNTT
+V/v triển khai xác
+  thực OTP kiểm soát đăng nhập hệ thống quản lý truy cập tập trung (SSO)
+Hà Nội, ngày 26 tháng 03 năm 2024
+Kính gửi:
+- Các đơn vị trực thuộc Bảo hiểm
+  xã hội Việt Nam,
+- Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương.
+(Sau đây gọi chung là các đơn vị)
+Thực hiện Nghị quyết số 398-NQ/BCSĐ
+ngày 15/3/2024 của Ban Cán sự đảng BHXH Việt Nam tăng cường công tác bảo đảm an
+toàn thông tin mạng ngành BHXH Việt Nam, Thông báo kết luận số 792/TB-BHXH ngày
+22/03/2024 của Tổng Giám đốc tại Hội nghị trực tuyến triển khai công tác bảo
+đảm an toàn thông tin mạng năm 2024. Để tăng cường giải pháp kỹ thuật bảo đảm an
+toàn khi truy cập hệ thống thông tin của Ngành, BHXH Việt Nam triển khai việc
+xác thực 2 yếu tố cho hệ thống đăng nhập tập trung (SSO) của Ngành từ ngày
+01/04/2024
+(Có hướng dẫn tại Phụ lục kèm theo).
+BHXH Việt Nam yêu cầu các đơn vị
+nghiêm túc thực hiện. Trong quá trình triển khai nếu có vướng mắc đề nghị phản
+ánh kịp thời về BHXH Việt Nam (qua Trung tâm CNTT - đ/c Lê Minh Phượng, số điện
+thoại: 0973259198, thư điện tử: phuonglm@vss.gov.vn.) để được hỗ trợ, xử lý./.
+Nơi nhận:
+- Như trên;
+- Tổng Giám đốc (để b/c);
+- Các Phó Tổng Giám đốc;
+- VPHĐQL, VPĐU, VPBCSĐ;
+- Lưu: VT, CNTT.
+KT. TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Chu Mạnh Sinh
+PHỤ LỤC
+HƯỚNG DẪN
+XÁC THỰC OTP KIỂM SOÁT ĐĂNG NHẬP
+HỆ THỐNG QUẢN LÝ TRUY CẬP TẬP TRUNG (SSO) VỚI ỨNG DỤNG VSSID
+1.
+Kiểm tra rà soát thông tin
+trên hệ thống I-AM
+Bước 1: Đăng nhập
+https://user.baohiemxahoi.gov.vn
+Bước 2: Kiểm tra mã số
+BHXH trong mục Thông tin tài khoản.
+Để khai báo mã số BHXH,
+chọn
+điền thông tin mã
+số BHXH và bấm
+để
+hoàn thành. Đối với tài khoản tổ chức khai báo mã số BHXH của cán bộ được giao
+quản lý (việc giao quản lý tài khoản của tổ chức phải được thể hiện bằng văn
+bản).
+2. Nâng cấp phần mềm
+VssID phiên bản 1.6.8
+Phiên bản ứng dụng VssID
+tối thiểu từ 1.6.8 (đối với điện thoại sử dụng hệ điều hành iOS cập nhật trên
+App Store; đối với điện thoại sử dụng hệ điều hành Android cập nhật trên Google
+Play).
+3. Cách nhận mã OTP từ
+VssID
+Bước 1:
+Đăng nhập hệ thống SSO
+với tài khoản và mật khẩu
+Bước 2:
+Đăng nhập thành công
+Bước 1, hệ thống tự động chuyển sang màn hình nhập mã OTP
+Bước 3:
+Trên điện thoại cài đặt
+ứng dụng VssID hiển thị thông báo
+Trường hợp không hiển
+thị thông báo, vẫn có thể đăng nhập vào VssID lấy mã OTP khi đã đăng nhập thành
+công Bước 1 và màn hình hiển thị nhập mã OTP. Nếu muốn có hiển thị thông báo,
+cần cấp quyền cho phép thông báo ứng dụng VssID trong phần cài đặt điện thoại.
+Bước 4:
+Màn hình mã xác thực
+SSO
+Trường hợp đóng màn hình
+mã xác thực SSO mà chưa kịp ghi nhớ thì có thể đăng xuất VssID và đăng nhập lại
+để hiển thị lại thông tin (lưu ý: OTP có hiệu lực trong 2 phút).
+Bước 5:
+Người dùng nhập mã OTP
+vào màn hình nhập mã OTP trên hệ thống SSO ở Bước 2.
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

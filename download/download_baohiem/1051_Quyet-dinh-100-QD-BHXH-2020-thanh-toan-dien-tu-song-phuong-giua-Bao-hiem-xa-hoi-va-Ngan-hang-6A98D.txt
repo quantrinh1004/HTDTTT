@@ -1,0 +1,954 @@
+BẢO HIỂM XÃ HỘI
+  VIỆT NAM
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+100/QĐ-BHXH
+Hà Nội
+, ngày
+17
+tháng
+01
+năm
+2020
+QUYẾT ĐỊNH
+BAN HÀNH QUY TRÌNH VỀ THANH TOÁN ĐIỆN TỬ SONG PHƯƠNG GIỮA HỆ THỐNG BẢO
+HIỂM XÃ HỘI VIỆT NAM VÀ CÁC HỆ THỐNG NGÂN HÀNG THƯƠNG MẠI
+TỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM
+Căn cứ Luật giao dịch điện tử số
+51/2005/QH11 ngày 29/11/2005 và các văn bản hướng dẫn thực hiện;
+Căn cứ Luật Công nghệ thông tin số
+67/2006/QH11 ngày 29/6/2006 và các văn bản hướng dẫn thực hiện;
+Căn cứ Luật K
+ế
+toán số 88/2015/QH13 và các văn bản hướng dẫn thực hiện;
+Nghị định số 35/2007/NĐ-CP ngày
+08/3/2007 của Chính phủ về giao dịch điện tử trong hoạt động NHTM;
+Nghị định số 101/2012/NĐ-CP ngày
+22/11/2012 của Chính phủ về thanh toán không dùng tiền mặt;
+Căn cứ Nghị định số 01/2016/NĐ-CP
+ngày 05 tháng 01 năm 2016 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn
+và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam;
+Căn cứ Nghị định số 166/2016/NĐ-CP
+ngày 24/12/2016 của Thủ tướng Chính phủ về Giao dịch điện tử trong lĩnh vực bảo
+hiểm xã hội, bảo hiểm y tế, b
+ả
+o hiểm thất nghiệp và
+các văn bản sửa đổi, bổ sung, văn bản hướng dẫn thực hiện;
+Căn cứ Nghị định số 165/2018/NĐ-CP
+ngày 24/12/2018 của Thủ tướng Chính phủ về Giao dịch điện tử trong hoạt động
+tài chính;
+Căn cứ Thông tư Liên tịch số
+03/2008/TTLT-BLĐTBXH-BTC-NHNN ngày 18/02/2008 về hướng dẫn thủ tục buộc trích
+tiền từ tài khoản tiền gửi của người sử dụng lao động để nộp tiền BHXH chưa đóng,
+chậm đóng và tiền lãi phát sinh;
+Căn cứ Thông tư số 28/2015/TT-NHNN
+ngày 18/12/2012 của Thống đốc NHTM Nhà nước Quy định về việc quản lý, sử dụng
+chữ ký số, chứng thư số và dịch vụ chứng thực chữ ký số của NHTM nhà nước;
+Căn cứ Thông tư số 46/2014/TT-NHNN
+ngày 31/12/2014 của Thống đốc Ngân hàng Nhà nước hướng dẫn về dịch vụ thanh
+toán không dùng tiền mặt;
+Quyết định số 44/2002/QĐ-TTg ngày
+21/03/2002 của Thủ Tướng Chính phủ về việc sử dụng chứng từ điện tử làm chứng từ
+kế toán để hạch toán và thanh toán vốn của các tổ chức cung ứng dịch vụ thanh
+toán;
+Căn cứ Quyết định 1819/QĐ-TTg ngày
+26/10/2015 của Thủ tướng Chính phủ về Phê duyệt chương trình quốc gia về ứng dụng
+công nghệ thông tin trong hoạt động của cơ quan Nhà nước giai đoạn 2016-2020;
+Căn cứ Thỏa thuận liên Ngành về việc
+quản lý và sử dụng tài khoản tiền gửi của hệ thống Bảo hiểm xã hội Việt Nam mở
+tại hệ thống Ngân hàng;
+Xét đề nghị của Vụ trưởng Vụ Tài
+chính
+-
+K
+ế
+toán và Giám
+đốc Trung tâm Công nghệ thông tin,
+QUYẾT ĐỊNH:
+Điều 1.
+Ban hành kèm theo Quyết định này “Quy trình nghiệp
+vụ thanh toán điện tử song phương giữa hệ thống Bảo hiểm xã hội Việt Nam với
+các hệ thống Ngân hàng thương mại”.
+Điều 2.
+Quyết định này có hiệu lực kể từ ngày ký. Thủ
+trưởng các đơn vị trực thuộc BHXH Việt Nam; Giám đốc Bảo hiểm xã hội các tỉnh,
+thành phố trực thuộc Trung ương, Giám đốc Bảo hiểm xã hội quận, huyện, thị xã,
+thành phố thuộc tỉnh căn cứ Quyết định thi hành./.
+Nơi nhận:
+- Nh
+ư
+Điều
+  2;
+- Tổng Giám đốc;
+- Các Phó Tổng Giám đốc;
+- Lưu: VT, TCKT, CNTT.
+KT. TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Nguyễn Đình Khương
+QUY TRÌNH
+VỀ THANH TOÁN ĐIỆN TỬ SONG PHƯƠNG GIỮA HỆ THỐNG BẢO HIỂM XÃ HỘI VIỆT
+NAM VÀ CÁC HỆ THỐNG NGÂN HÀNG THƯƠNG MẠI
+(Ban hành kèm theo Quyết định s
+ố
+:
+100/QĐ-BHXH ngày 17 th
+á
+ng 01 năm 2019 của Bảo hi
+ể
+m xã hội Việt Nam)
+Chương I
+NHỮNG QUY ĐỊNH
+CHUNG
+Điều 1. Giải
+thích từ ngữ và viết tắt
+- Cơ quan BHXH:
+Bảo hiểm xã hội Việt Nam, Bảo hiểm xã hội tỉnh, thành phố trực thuộc
+Trung ương; Bảo hiểm xã hội quận, huyện, thị xã, thành phố trực thuộc tỉnh; các
+đơn vị trực thuộc BHXH Việt Nam.
+- BHXH tỉnh:
+Bảo hiểm xã hội tỉnh, thành phố trực thuộc Trung ương
+- BHXH huyện:
+Bảo hiểm xã hội quận, huyện, thị xã, thành phố trực thuộc tỉnh
+- TW:
+Trung ương.
+- BHXH:
+Bảo
+hiểm xã hội
+- BHYT:
+Bảo
+hiểm y tế.
+- BHTN:
+Bảo
+hiểm thất nghiệp.
+- NHNN:
+NHTM Nhà nước.
+- Hệ thống NHTM:
+Hội sở chính NHTM thương mại, chi nhánh NHTM thương mại, Phòng giao dịch
+thuộc chi nhánh NHTM thương mại.
+- NHTM:
+NHTM thương mại.
+- TTĐTSP:
+Thanh toán điện tử song phương là nghiệp vụ thanh toán điện tử giữa cơ quan
+BHXH và các NHTM nơi cơ quan BHXH mở tài khoản tiền gửi theo quy định tại Quy
+trình này.
+- Phần mềm KTTT:
+Phần mềm kế toán tập trung của BHXH Việt Nam.
+- Phần mềm TST:
+Phần mềm thu và quản lý sổ thẻ của BHXH Việt Nam.
+- Phần mềm QLQ:
+Phần mềm quản lý đầu tư quỹ của BHXH Việt Nam.
+- Th
+ờ
+i
+điểm “cut off time”:
+Là thời điểm chốt dữ liệu điện tử
+giữa cơ quan BHXH và NHTM do BHXH Việt Nam và NHTM thống nhất thực hiện.
+- Hạn mức số dư:
+Là hạn mức số dư tài khoản tiền gửi của cơ quan BHXH tại thời điểm do
+BHXH Việt Nam và NHTM thống nhất thực hiện.
+- Cổng trao đổi thông tin của cơ
+quan BHXH:
+Là Cổng để kết nối, trao đổi thông tin, dữ
+liệu điện tử với các hệ thống NHTM.
+- Cổng trao đổi thông tin của
+NHTM:
+Là Cổng để kết nối, trao đổi thông tin, dữ liệu
+điện tử của NHTM với cơ quan BHXH.
+- Đơn vị thực hiện:
+Cơ quan BHXH; hệ thống NHTM.
+- Các mẫu điện dùng trong TTĐTSP:
+Theo quy định tại Thỏa thuận liên Ngành về kết nối TTĐTSP và quản lý
+dòng tiền giữa hệ thống BHXH Việt Nam và hệ thống NHTM.
+- Mã NHTM/mã cơ quan BHXH:
+Dùng trong hệ thống TTĐTSP được quy định thống nhất theo cấu trúc Mã
+NHTM/mã cơ quan BHXH.
+- Các loại tài khoản tiền gửi:
+Thực hiện theo quy định tại Thỏa thuận liên Ngành về việc quản lý và sử
+dụng tài khoản tiền gửi của hệ thống BHXH Việt Nam mở tại hệ thống NHTM. Đối với
+tiền gửi đầu tư tự động thực hiện theo Hợp đồng riêng giữa BHXH Việt Nam và các
+hệ thống NHTM.
+- Chứng từ điện tử:
+Chứng từ điện tử sử dụng trong TTĐTSP là chứng từ điện t
+ử
+được áp dụng theo quy định của Nhà nước; chi tiết các loại chứng từ sử
+dụng trong TTĐTSP theo quy định tại Thỏa thuận liên Ngành về TTĐTSP và quản lý
+dòng tiền giữa hệ thống BHXH Việt Nam và hệ thống NHTM.
+- Chứng thư số nhân danh:
+xác nhận danh tính của một đối tượng nào đó trong môi trường máy tính
+và internet của tổ chức sử dụng dịch vụ chứng thực chữ ký số cung cấp. Như vậy,
+chứng thư số được hiểu là chứng minh tính
+hợp lệ
+, hợp pháp
+đích danh của chữ ký số của 1 cá nhân hay tổ chức.
+- Chữ ký số:
+tương tự như chữ ký truyền thống, có vai trò xác nhận cam kết của tổ
+chức hay cá nhân nào đó. Người kí xác nhận phải chịu trách nhiệm trong văn bản
+đã ký và không chối bỏ được. Tuy nhiên, chữ ký số được thể hiện dưới hình thức
+khác, bằng cách dựa trên công nghệ mã hóa công khai RSA.
+- MT103:
+Lệnh thanh toán.
+- MT 900, MT 910:
+Các điện báo nợ, báo có về việc quyết toán cuối ngày; các chứng từ báo
+nợ, báo có về việc trả lãi, thu phí của NHTM đối với cơ quan BHXH.
+- MT 195, MT 196:
+Điện tra soát và Điện trả lời tra soát.
+- MT 199:
+Điện thông báo.
+- MT 299:
+Điện đề nghị kéo dài thời gian giao dịch TTĐTSP.
+- MT 950:
+Điện sao kê tài khoản của cơ quan BHXH tại hệ thống NHTM.
+Điều 2. Mục
+đích và phạm vi áp dụng
+1. Mục đích
+Điện tử hóa các giao dịch thu, chi, đối
+chiếu dữ liệu giữa cơ quan BHXH với hệ thống NHTM nơi cơ quan BHXH mở tài khoản
+tiền gửi, đảm bảo việc theo dõi, tổng hợp số thu, chi nhanh chóng, chính xác; hỗ
+trợ công tác quản lý quỹ của BHXH Việt Nam được an toàn và hiệu quả.
+2. Phạm v
+i
+Các giao dịch thanh toán điện tử giữa
+cơ quan BHXH và hệ thống NHTM nơi cơ quan BHXH mở tài khoản tiền gửi, bao gồm:
+a) Các khoản thu, chi phát sinh trong
+ngày trên tài khoản “Tiền gửi thanh toán” c
+ủ
+a BHXH Việt
+Nam.
+b) Các khoản thu, chi phát sinh trong
+ngày trên tài khoản tiền gửi của BHXH tỉnh, BHXH huyện và các đơn vị trực thuộc
+BHXH Việt Nam.
+c) Các giao dịch tra soát, đ
+ố
+i chiếu số thu, chi giữa cơ quan BHXH với hệ thống NHTM nơi cơ quan
+BHXH mở tài khoản tiền gửi.
+Điều 3. Nguyên tắc
+thực hiện
+1. Tuân thủ các nguyên tắc quy định
+tạ
+i
+Luật giao dịch điện tử và các quy định của pháp
+luật liên quan.
+2. Kết nối và truyền/nhận thông
+tin, dữ liệu điện tử
+Cơ quan BHXH và hệ thống NHTM thực hiện
+TTĐTSP theo nguyên tắc kết nối và truyền/nhận thông tin, dữ liệu điện tử đối với
+các giao dịch thu, chi phát sinh trên các tài khoản tiền gửi của cơ quan BHXH mở
+tại hệ thống NHTM.
+3. Đảm bảo tính an toàn và bảo mật
+trong trao đổi thông tin, dữ liệu điện tử giữa
+cơ
+quan
+BHXH với hệ thống NHTM
+Việc kết nối, trao đổi thông tin, dữ
+liệu điện tử trong TTĐTSP giữa cơ quan BHXH với hệ thống NHTM phải đảm bảo:
+Tính toàn vẹn và bảo mật đối với thông tin, dữ liệu trong TTĐTSP; tính đầy đủ,
+kịp thời và chính xác của thông tin, dữ liệu điện tử được truyền/nhận giữa cơ
+quan BHXH với hệ thống NHTM; các yêu cầu về an toàn, chính xác trong suốt quá
+trình xử lý lệnh thanh toán (bao gồm: lập; kiểm soát; phê duyệt; truyền/nhận dữ
+liệu thanh toán; kiểm tra xác nhận tính hợp pháp, hợp lệ của lệnh thanh toán và
+thực hiện thanh toán).
+4. Áp dụng chữ ký số trong TTĐTSP
+gi
+ữ
+a
+cơ
+quan BHXH và hệ
+thống NHTM
+a) Tất cả các lệnh TTĐTSP chuyển từ
+cơ quan BHXH đến hệ thống NHTM và lệnh TTĐTSP từ hệ thống NHTM đến cơ quan BHXH
+đều phải ký chữ ký số theo quy định của Luật Giao dịch điện tử và các văn bản
+hướng dẫn.
+b) NHTM chỉ thực hiện lệnh thanh toán
+do cơ quan BHXH chuyển đến sau khi kiểm tra, đối chiếu xác thực chữ ký số của
+cơ quan BHXH là đúng; ngược lại, cơ quan BHXH chỉ thực hiện xử lý các lệnh
+thanh toán nhận từ hệ thống NHTM sau khi kiểm tra, đối chiếu xác thực chữ ký số
+của NHTM là đúng.
+5. Về tài khoản t
+i
+ền gửi và g
+i
+ao dịch thu, ch
+i
+trên tài khoản tiền gửi của cơ quan BHXH
+a) Thực hiện theo quy định tại Thỏa
+thuận liên Ngành về việc quản lý và sử dụng tài khoản tiền gửi của hệ thống Bảo
+hiểm xã hội Việt Nam mở tại hệ thống NHTM.
+b) Cơ quan BHXH chỉ được gửi các lệnh
+thanh toán sang NHTM trước giờ “cut off time”. Đối với các giao dịch thu thực
+hiện 24/7.
+c) Số liệu giao dịch thu, chi phát
+sinh trên tài khoản tiền gửi của cơ quan BHXH được đối chiếu đồng thời qua hai ứng
+dụng: TTĐTSP và Phần mềm KTTT, tương ứng với số liệu và tính chất nghiệp vụ
+phát sinh trên từng ứng dụng theo quy định hiện thời và các quy định tại quy
+trình này.
+6. Về hạch toán kế toán của cơ
+quan BHXH
+a) Các khoản thu, chi phát sinh của
+BHXH Việt Nam; BHXH tỉnh và BHXH huyện, đơn vị trực thuộc BHXH Việt Nam được hạch
+toán vào tài khoản tiền gửi của cơ quan BHXH ngay trong ngày và thực hiện đối
+chiếu tập trung tự động tại BHXH Việt Nam và Hội sở chính NHTM vào ngày tiếp
+theo.
+b) Riêng đối với ngày làm việc cuối
+năm: BHXH Việt Nam phải phối hợp với Hội sở chính NHTM thống nhất giờ “cut off
+time” để đảm bảo việc hạch toán, đối chiếu khớp đúng toàn bộ số liệu giữa hai
+bên và thực hiện kết chuyển số phát sinh trên tài khoản tiền gửi của cơ quan
+BHXH ngay trong ngày làm việc cuối cùng của năm.
+7. Kết chuyển cuối ngày
+a) Đối với tài khoản tiền gửi thanh
+toán của BHXH Việt Nam: K
+ế
+t chuyển số dư trên tài khoản tiền
+gửi thanh toán của BHXH Việt Nam về tài khoản tiền gửi đầu tư tự động theo quy
+định tại Hợp đồng riêng giữa BHXH Việt Nam và các NHTM.
+b) Đ
+ố
+i với tài
+khoản “Tiền gửi thu” của BHXH tỉnh, BHXH huyện: Vào cuối ngày, hệ thống NHTM tự
+động kết chuyển số dư theo quy định tại Thỏa thuận liên Ngành về việc mở, quản
+lý và sử dụng tài khoản của hệ thống BHXH Việt Nam mở tại hệ thống NHTM.
+8. Về th
+ờ
+i gian truyền/nhận, đối chiếu chứng từ TTĐTSP
+8.1. Thời gian truyền nhận
+a) Thời điểm “cut off time” giữa cơ
+quan BHXH và hệ thống NHTM được quy định cụ thể tại các thoả thuận liên ngành.
+Sau giờ “cut off time” đối với lệnh thanh toán, cơ quan BHXH không thực hiện
+truyền lệnh thanh toán (lệnh chi) sang hệ thống NHTM.
+b) Khi cần kéo dài thời gian giao dịch
+đối với lệnh thanh toán, BHXH Việt Nam thông báo với Hội sở chính NHTM trước giờ
+cut off time tối thiểu 30 phút. Sau khi Hội sở chính NHTM thống nhất, giờ giao
+dịch mới đối với lệnh thanh toán của cơ quan BHXH sẽ được thiết lập.
+8.2. Thời gian đối chiếu
+a) Chậm nhất 08h30 của ngày tiếp
+theo, Hội sở chính NHTM tự động gửi điện Bảng kê đối chiếu giao dịch của ngày
+liền kề trước đó đến BHXH Việt Nam.
+b) BHXH Việt Nam tự động tiếp nhận điện
+Bảng kê đối chiếu giao dịch từ Hội sở chính NHTM, kiểm tra tính hợp pháp, hợp lệ
+sau đó đối chiếu với dữ liệu giao dịch tại cơ quan BHXH. Sau đó, tạo điện phản
+hồi kết quả đối chiếu, thể hiện đầy đủ tổng số lượng giao dịch và tổng giá trị
+của các giao dịch đối chiếu cân khớp, tổng số lượng giao dịch và tổng giá trị của
+các giao dịch sai lệch và thông tin chi tiết các giao dịch sai lệch gửi cho
+NHTM.
+c) Hội sở chính NHTM tiếp nhận điện
+phản hồi kết quả đối chiếu từ BHXH Việt Nam và cập nhật kết quả đối chiếu vào hệ
+thống của NHTM.
+d) Trường hợp phát sinh các giao dịch
+chênh lệch (NHTM có, BHXH không có hoặc NHTM không có, BHXH có), hai bên phối hợp
+xác định nguyên nhân, thống nhất phương án xử lý trước 12h00 ngày đối chiếu.
+e) Trường hợp hai bên không thể xác định
+được nguyên nhân sai lệch và thống nhất phương án xử lý ngay trong ngày đối chiếu,
+hai bên phối hợp xử lý các giao dịch chênh lệch sau khi đối chiếu chậm nhất vào
+ngày làm việc tiếp theo.
+9. Lãi và phí thanh toán
+Lãi và phí thực hiện theo quy định tại
+Thỏa thuận liên ngành về việc mở, quản lý và sử dụng tài khoản tiền gửi giữa hệ
+thống BHXH Việt Nam và các hệ thống NHTM; Thỏa thuận liên n
+g
+ành về TTĐTSP và quản lý dòng tiền giữa hệ thống BHXH Việt Nam và hệ thống
+NHTM.
+Chương 2
+QUY ĐỊNH CỤ THỂ
+Điều 4. Quy trình
+TTĐTSP
+Quy trình thu, chi qua hệ thống
+TTĐTSP hàng ngày được thực hiện như sau:
+1. Lệnh thanh toán đến
+1.1. Tại NHTM
+Bư
+ớ
+c
+1:
+Truy vấn thông tin thanh toán
+Khi NHTM nhận được yêu cầu nộp tiền của
+khách hàng, cổng trao đổi thông tin của NHTM gửi thông điệp truy vấn thông tin.
+Bước 2:
+NHTM
+kiểm tra thông tin của cơ quan BHXH với yêu cầu nộp tiền của khách hàng, sau đó
+thực hiện giao dịch theo số tiền yêu cầu của khách hàng.
+- Trường hợp có sai lệch về thông tin
+của khách hàng với thông tin của cơ quan BHXH quản lý: NHTM thông báo cho khách
+hàng về sai lệch và thực hiện tiếp giao dịch sau khi khách hàng đã điều chỉnh
+thông tin khớp đúng. Trường hợp khách hàng xác nhận thông tin trên yêu cầu nộp
+tiền đã chính xác và không đồng ý điều chỉnh, NHTM thực hiện giao dịch theo yêu
+cầu của khách hàng theo loại hình giao dịch thu khác. Đồng thời NHTM yêu cầu
+khách hàng trong vòng 01 ngày, khách hàng liên hệ trực tiếp với cơ quan BHXH để
+xác nhận lại thông tin và liên hệ lại với NHTM để hoàn thiện giao dịch (nếu
+có). N
+ế
+u nhận được thông tin yêu cầu tra soát thông tin
+giao dịch của khách hàng, NHTM gửi yêu cầu tra soát cho cơ quan BHXH.
+- Trường hợp NHTM nhận được phản hồi
+nhưng không có số tiền, NHTM thông báo cho khách hàng và thực hiện tiếp giao dịch
+sau khi khách hàng đã điều chỉnh thông tin. Trường hợp khách hàng xác nhận
+thông tin trên yêu cầu nộp tiền đã chính xác và không đồng ý điều chỉnh, NHTM
+thực hiện giao dịch theo yêu cầu của khách hàng theo loại hình giao dịch thu
+khác.
+Bước 3:
+Sau khi giao dịch được phê duyệt thành công, NHTM thực hiện hạch toán ghi Có
+tài khoản của cơ quan BHXH quản lý mở tại hệ thống NHTM, sau đó cổng trao đổi
+thông tin của NHTM tạo điện chuyển tiền, ký chữ ký số và gửi đến Cổng trao đổi
+thông tin của cơ quan BHXH.
+1.2. Tại c
+ơ
+quan BHXH
+1.2.1 Tại Cổng trao đổi thông tin
+của cơ quan BHXH
+Bước 1:
+Khi nhận được thông tin, dữ liệu về khoản thu của BHXH, hệ thống tự động kiểm
+tra chữ ký số, kiểm tra định dạng dữ liệu, sau đó giải mã và tạo thông điệp phản
+hồi xác nhận lệnh thanh toán đến thành công hay không thành công:
+- Trường hợp không thành công thì hệ
+thống tự động tạo thông điệp phản hồi đến cổng trao đổi thông tin của NHTM (nhận
+điện thanh toán không thành công) để NHTM kiểm tra và gửi lại theo quy định.
+- Trường hợp thành công thì hệ thống
+tự động tạo thông điệp để phản hồi thông tin đến cổng trao đổi thông tin của
+NHTM (nhận điện thanh toán đã thành công).
+Bước 2:
+Hệ
+thống tự động gửi lệnh đến Phần mềm KTTT để hạch toán.
+1.2.2 T
+ạ
+i Phần mềm KTTT
+Bước 1:
+Tự
+động chuyển dữ liệu về khoản thu nhận được từ cổng trao đổi thông tin của cơ
+quan BHXH sang Phần mềm TST đảm bảo khớp đúng thông tin về mã đơn vị và các khoản
+thu của đơn vị nộp tiền trên phần mềm; Tự động chuyển dữ liệu về thu gốc, lãi đầu
+tư tài chính nhận được từ cổng trao đổi thông tin của BHXH Việt Nam sang Phần mềm
+QLQ.
+Bước 2:
+K
+ế
+toán viên tại các cơ quan BHXH vào Phần mềm KTTT tại đơn vị mình để kiểm
+tra thông tin lệnh thanh toán và thực hiện hạch toán.
+Trường hợp cần tra soát, kế toán viên
+tạo điện tra soát (hoặc gửi công văn tra soát nếu không tạo được điện tra soát
+do sự cố kỹ thuật). Sau khi tra soát, nếu lệnh thanh toán vẫn chưa đủ căn cứ để
+hạch toán đúng, kế toán viên chọn hạch toán chờ xử lý hoặc không hạch toán (do
+trùng lệnh, sai lệnh) theo quy định.
+1.2.3 Tại Phần mềm TST
+Bước 1:
+Tự
+động nhận dữ liệu về khoản thu nhận được từ Phần mềm KTTT
+Bước 2:
+- Đối với trường hợp thu BHXH tự nguyện
+thì tự động tạo phát sinh để ghi nhận quá trình đóng BHXH tự nguyện.
+- Đối với trường hợp gia hạn thẻ BHYT
+hộ gia đình thì tự động tạo phát sinh ghi nhận quá trình đóng BHYT và tạo giá
+trị thẻ mới.
+Bước 3:
+Sau khi phần mềm TST tự động tạo phát sinh, cán bộ thu đăng nhập phần mềm kiểm
+tra chính xác thông tin bao gồm: hồ sơ cá nhân; số tiền; phương thức đóng (đối
+với trường hợp tham gia BHXH tự nguyện); giá trị sử dụng thẻ BHYT (đối với trường
+hợp tham gia BHYT tự đóng) và thực hiện nghiệp vụ cấp sổ BHXH, thẻ BHYT theo
+đúng qu
+y
+định.
+1.2.4. Tại Phần mềm QLQ
+Nhận dữ liệu về thu gốc, lãi đầu tư
+tài chính nhận được từ Phần mềm KTTT để theo dõi, tổng hợp báo cáo.
+2. Lệnh thu số tiền buộc trích từ
+tài khoản tiền gửi của người sử dụng lao động để nộp tiền BHXH chưa đóng, chậm
+đóng và tiền lãi phát sinh theo Quyết định của cơ quan có thẩm quyền.
+2.2. Tại NHTM
+Bước 1:
+Khi NHTM nhận được Quyết định của cơ quan có thẩm quyền về việc buộc trích từ
+tài khoản tiền gửi của người sử dụng lao động để nộp tiền BHXH chưa đóng, chậm
+đóng và tiền lãi phát sinh, NHTM thực hiện kiểm tra số dư tài khoản thanh toán
+của doanh nghiệp đang bị cơ quan có thẩm quyền yêu cầu truy thu.
+Bước 2:
+Trích tiền trên tài khoản của Doanh nghiệp
+- Trường hợp 1: Tài khoản tiền gửi
+thanh toán của doanh nghiệp đủ tiền để buộc trích theo quyết định của cơ quan
+có thẩm quyền, NHTM trích Nợ tài khoản của doanh nghiệp để chuyển tiền vào tài
+khoản được chỉ định trên Quyết định của cơ quan có th
+ẩ
+m
+quyền.
+NHTM hạch toán ghi Có tài khoản tiền
+gửi của cơ quan BHXH sau đó cổng trao đổi thông tin của NHTM tạo điện chuyển tiền
+(MT103) gửi cổng trao đổi thông tin của cơ quan BHXH.
+- Trường hợp 2: Tài khoản tiền gửi
+thanh toán của doanh nghiệp không đủ tiền để buộc trích theo quyết định của Cơ
+quan có thẩm quyền, NHTM chuyển số tiền hiện có trên tài khoản tiền gửi thanh
+toán của doanh nghiệp vào tài khoản của quỹ BHXH
+NHTM hạch toán ghi Có tài khoản tiền
+gửi của cơ quan BHXH sau đó cổng trao đổi thông tin của NHTM tạo điện chuyển tiền
+(MT103) gửi cổng trao đổi thông tin của cơ quan BHXH.
+Bước 3:
+Thông báo kết quả thực hiện quyết định áp dụng biện pháp buộc trích tiền truy nộp
+vào quỹ bảo hiểm xã hội:
+- NHTM nơi người sử dụng lao động mở
+tài khoản có trách nhiệm thông báo kịp thời cho người ra quyết định áp dụng biện
+pháp buộc trích tiền truy nộp vào quỹ BHXH về kết quả chuyển tiền theo yêu cầu
+tại quyết định, đồng thời thông báo cho người sử dụng lao động biết.
+- NHTM nơi cơ quan BHXH mở tài khoản
+có trách nhiệm kịp thời thông báo kết quả nhận tiền cho giám đốc cơ quan BHXH.
+2.2. Tại c
+ơ
+quan BHXH
+2.2.1. Thông báo kết quả thực hiện
+quyết định áp dụng biện pháp buộc trích tiền truy nộp vào quỹ bảo hiểm xã hội
+Cơ quan BHXH (BHXH tỉnh) có trách nhiệm
+kịp thời báo cáo kết quả thực hiện cho người ra quyết định.
+2.2.2. Tại cổng trao đổi thông tin
+của cơ quan BHXH
+Hệ thống tiếp nhận Điện chuyển tiền từ
+Cổng trao đổi thông tin của NHTM, kiểm tra tính h
+ợ
+p pháp,
+hợp lệ sau đó đẩy vào Phần mềm KTTT của cơ quan BHXH.
+2.2.3. Tại Phần mềm KTTT
+Kế toán viên cơ quan BHXH vào chương
+trình KTTT tại đơn vị mình kiểm tra thông tin lệnh thanh toán và thực hiện hạch
+toán.
+3. Lệnh thanh toán đi (chi)
+3.1. Tại cơ quan BHXH
+3.1.1. T
+ạ
+i Phần mềm KTTT
+Bước 1:
+Khi nhận được yêu cầu thanh toán của các đơn vị, kế toán viên tại các cơ quan
+BHXH thực hiện kiểm soát thông tin, trường hợp đảm bảo đủ các điều kiện chi
+theo chế độ quy định, thì nhập đầy đủ các thông tin trên yêu cầu thanh toán của
+đơn vị vào Phần mềm KTTT.
+Bước 2:
+Kế
+toán trưởng thực hiện kiểm soát, ký số và chuyển lãnh đạo đơn vị phê duyệt.
+Bước 3:
+Lãnh đạo đơn vị thực hiện phê duyệt yêu cầu thanh toán, ký số.
+Bước 4:
+Sau
+khi lệnh chi được phê duyệt thành công, Phần mềm KTTT thực hiện hạch toán tự động,
+sau đó tạo điện chuyển tiền (MT103) gửi đến cổng trao đổi thông tin của cơ quan
+BHXH.
+3.1.2. Tại cổng trao đ
+ổ
+i thông tin của cơ quan BHXH
+Bước 1:
+Khi nhận được thông tin, dữ liệu về khoản chi của BHXH, hệ thống tự động kiểm
+tra chữ ký số, kiểm tra giờ “cut off time”, kiểm tra định dạng dữ liệu, sau đó
+giải mã và tạo thông điệp phản hồi xác nhận lệnh thanh toán đi thành công hay
+không thành công:
+- Trường hợp không thành công thì hệ
+thống tự động tạo thông điệp phản hồi đến Phần mềm KTTT (nhận điện thanh toán
+không thành công) để Phần mềm KTTT kiểm tra và gửi lại theo quy định.
+- Trường hợp thành công thì hệ thống
+tự động tạo thông điệp để phản hồi thông tin đến Phần mềm KTTT (nhận điện thanh
+toán đã thành công)
+Bước 2:
+Hệ
+thống tự động ký số và gửi lệnh đến cổng trao đổi thông tin của NHTM để thực hiện
+chi.
+3.2. Tại NHTM
+Khi nhận được lệnh thanh toán của cơ
+quan BHXH từ cổng trao đổi thông tin của cơ quan BHXH, cổng trao đổi thông tin
+của NHTM tự động kiểm tra, xác thực chữ ký số, giải mã và tạo thông điệp để phản
+hồi xác nhận lệnh thanh toán đã thành công hay không thành công. Trường hợp
+thành công, thì NHTM xử lý lệnh thanh toán đó theo quy trình nội bộ của NHTM và
+hạch toán vào tài khoản thanh toán tương ứng của cơ quan BHXH phát lệnh; ngược
+lại, NHTM thông báo cho cơ quan BHXH xem xét nguyên nhân và gửi lại lệnh thanh
+toán.
+4. Lệnh quyết toán tài khoản “Tiền
+gửi thanh toán” của BHXH Việt Nam, tài khoản
+“
+tiền
+gửi thu” của BHXH tỉnh, BHXH huyện
+4.1. Tại NHTM
+a) Đối với tài khoản tiền gửi thanh
+toán của BHXH Việt Nam
+Các NHTM tự động kết chuyển số dư
+trên tài khoản tiền gửi thanh toán của BHXH Việt Nam tính đến thời điểm (theo
+quy định tại Hợp đồng riêng) về tài khoản tiền gửi đầu tư tự động được mở tại
+các đơn vị thuộc hệ thống NHTM.
+b) Đối với tài khoản tiền gửi thu của
+BHXH tỉnh
+Vào cuối ngày, các NHTM tự động kết
+chuyển số dư trên tài khoản chuyên thu của BHXH tỉnh về tài khoản tiền gửi
+thanh toán của BHXH Việt Nam theo quy định tại Thỏa thuận liên ngành. Sau khi hạch
+toán kết chuyển, NHTM gửi điện báo Nợ (MT900) cho BHXH t
+ỉ
+nh
+và điện báo Có (MT910) cho BHXH Việt Nam.
+c) Đối với tài khoản tiền gửi thu của
+BHXH huyện
+Vào cuối ngày, các NHTM tự động kết
+chuyển số dư trên tài khoản chuyên thu của BHXH huyện về tài khoản chuyên thu của
+BHXH tỉnh theo quy định tại Thỏa thuận liên ngành. Sau khi hạch toán kết chuyển,
+NHTM gửi điện báo Nợ (MT900) cho BHXH huyện và điện báo Có (MT910) cho BHXH tỉnh.
+4.2. Tại cơ quan BHXH
+4.2.1. Tại Cổng trao đ
+ổi
+thông tin của cơ quan BHXH
+a) Cổng trao đổi thông tin xử lý
+tương tự như
+Bước 1.2.1 nêu tại điểm 1.2 khoản 1 mục I phần B
+quy trình
+này.
+b) Căn cứ vào cấu trúc dữ liệu lệnh
+thanh toán để tự động xác định và phân loại các lệnh báo nợ, báo có thành các
+loại lệnh thanh toán: (4) lệnh báo nợ, báo có về việc quyết toán cuối ngày tài
+khoản chuyên thu của BHXH tỉnh về tài khoản tiền gửi thanh toán của BHXH Việt
+Nam; (5) lệnh báo nợ, báo có tài khoản chuyên thu của BHXH tỉnh (về việc nhận
+các khoản quyết toán cuối ngày tài khoản chuyên thu của BHXH huyện về tài khoản
+chuyên thu của BHXH tỉnh). Sau đó, Cổng trao đổi thông tin của BHXH truyền tự động
+các lệnh báo nợ, báo có đó đến Cổng trao đổi thông tin của BHXH tại BHXH tỉnh
+hoặc BHXH huyện tương ứng.
+4.2.2. Tại BHXH Việt Nam
+Căn cứ vào các lệnh thanh thanh toán
+(báo nợ) tài khoản thanh toán và kết quả đối chi
+ế
+u các lệnh
+quyết toán theo theo quy định tại khoản 6 mục I Phần B Quy trình này, kế toán
+viên và kế toán trưởng BHXH Việt Nam thực hiện kiểm tra và theo dõi các lệnh
+quyết toán tài khoản tiền gửi thanh toán theo mục
+1.2.1 nêu tại điểm 1.2 khoản
+1 mục I phần B
+của quy trình này.
+4.2.3. Tại BHXH tỉnh và BHXH huyện:
+Căn cứ vào các lệnh quyết toán (báo nợ,
+báo có) tài khoản chuyên thu của mình và kết quả đối chiếu các lệnh quyết toán
+theo quy định tại khoản 6 mục I Phần B Quy trình này, kế toán viên và kế toán
+trưởng BHXH tỉnh, BHXH huyện kiểm tra và xử lý các lệnh quyết toán tài khoản
+chuyên thu theo mục
+1.2.1 nêu tại điểm 1.2 khoản 1 mục I phần B
+của quy
+trình này; đồng thời, in các lệnh quyết toán làm chứng từ kiểm tra, đối chiếu
+và lưu trữ theo quy định.
+5. Lệnh tra soát
+5.1. Lệnh tra soát đi (lệnh tra
+soát từ BHXH)
+5.1.1. Tại BHXH
+a) Tại Phần mềm KTTT
+Khi có nhu cầu cần tra soát thông tin
+của lệnh thanh toán, cơ quan BHXH lập đề nghị tra soát theo quy định và gửi đến
+NHTM qua cổng trao đổi thông tin của cơ quan BHXH.
+b) Tại Cổng trao đổi thông tin của
+cơ quan BHXH
+Bước 1:
+Khi nhận được thông tin tra soát, hệ thống tự động kiểm tra định dạng dữ liệu, sau
+đó giải mã và tạo thông điệp phản hồi xác nhận lệnh thanh toán đi thành công
+hay không thành công:
+- Trường hợp không thành công thì hệ
+thống tự động tạo thông điệp phản hồi đến Phần mềm KTTT (nhận điện thanh toán
+không thành c
+ô
+ng) để Phần mềm KTTT kiểm tra và gửi lại
+theo quy định.
+- Trường hợp thành công thì hệ thống
+tự động tạo thông điệp để phản hồi thông tin đến Phần mềm KTTT (nhận điện thanh
+toán đã thành công).
+Bước 2:
+Hệ
+thống tự động gửi lệnh tra soát đến cổng trao đổi thông tin của NHTM.
+5.1.2 Tại cổng trao đổi thông tin
+của NHTM
+Khi nhận được lệnh tra soát của cơ
+quan BHXH từ cổng trao đổi thông tin của cơ quan BHXH, cổng trao đổi thông tin
+của NHTM tự động kiểm tra định dạng dữ liệu và tạo thông điệp để phản hồi xác
+nhận lệnh thanh toán đã thành công hay không thành công. Trường hợp thành công,
+NHTM kiểm tra tính hợp lệ của Đ
+ề
+nghị tra soát, kiểm tra
+thông tin giao dịch gốc và lập điện tra soát đến NHTM thụ hưởng.
+5.2. Lệnh tra soát đến (lệnh tra
+soát nhận từ NHTM)
+5.2.1. Tại NHTM
+Khi có yêu cầu cần tra soát, NHTM lập
+đề nghị tra soát theo quy định và gửi đến BHXH qua Cổng trao đổi thông tin của
+NHTM.
+5.2.2 Tại cơ quan BHXH
+a) Tạ
+i
+Cổng trao đổi thông tin của cơ quan BHXH
+Bước 1:
+Khi nhận được thông tin tra soát, hệ thống tự động kiểm tra định dạng dữ liệu,
+sau đó giải mã và tạo thông điệp phản hồi xác nhận lệnh thanh toán đi thành
+công hay không thành công:
+- Trường hợp không thành công thì hệ
+thống tự động tạo thông điệp phản hồi đến cổng trao đổi thông tin của NHTM (nhận
+điện thanh toán không thành công) để NHTM kiểm tra và gửi lại theo quy định.
+- Trường hợp thành công thì hệ thống
+tự động tạo thông điệp để phản hồi thông tin đến cổng trao đổi thông tin của
+NHTM (nhận điện thanh toán đã thành công)
+Bước 2:
+Hệ
+thống tự động gửi lệnh tra soát đến cổng trao đổi thông tin của Phần mềm KTTT
+b) Tại Phần mềm KTTT
+Kế toán viên kiểm tra, đối chiếu
+thông tin của lệnh tra soát với thông tin của lệnh gốc và xử lý phản hồi theo
+quy định.
+6. Lệnh đối chiếu giao dịch
+6.1. Nguyên tắc đối chiếu
+6.1.1. Đối chiếu giữa cơ quan BHXH
+và NHTM n
+ơ
+i mở tài khoản
+a) Thời gian đối chiếu: Chậm nhất
+08h30 của ngày tiếp theo, cổng trao đổi thông tin của hệ thống NHTM tự động gửi
+điện Bảng kê đối chiếu giao dịch (MT064, MT210) của ngày liền kề trước đó đến cổng
+thông tin điện tử của BHXH.
+b) Phạm vi đối chiếu: Đối chiếu tập
+trung, tự động tại BHXH Việt Nam và Hội sở chính NHTM.
+c) Thông tin dữ liệu đối chiếu trong
+1 ngày: Dữ liệu đối chiếu của một ngày giao dịch gồm các chứng từ điện tử được
+truyền nhận thành công giữa hai bên từ 00:00:00 đến 23:59:59 của ngày giao dịch.
+d) Trường hợp BHXH có thực hiện các
+khoản thu, chi bằng chứng từ giấy (do có sự cố kỹ thuật), thì NHTM phải truyền
+toàn bộ các chứng từ đã thu, chi cho BHXH (bao gồm cả các khoản thu, chi bằng
+chứng từ điện t
+ử
+và bằng chứng từ giấy) thể hiện trên Bảng
+kê đối chiếu s
+ố
+liệu lần 1. Các cơ quan BHXH phải phối hợp
+với NHTM nơi mở tài khoản để thực hiện đối chiếu, đảm bảo khớp đúng số liệu hạch
+toán giữa 2 bên (bao gồm cả các khoản thu, chi bằng chứng từ điện tử và bằng chứng
+từ giấy).
+e) Trường hợp phát sinh các giao dịch
+chênh lệch (NH có, BHXH không có hoặc NH không có, BHXH có), hai bên phối hợp
+xác định nguyên nhân, thống nhất phương án xử lý trước 12h00 ngày làm việc. Sau
+khi phối hợp xử lý các giao dịch chênh lệch, hai bên phối hợp đối chiếu lại các
+giao dịch chênh lệch và cập nhật lại dữ liệu đảm bảo thể hiện kh
+ớ
+p đúng.
+g) Trường hợp hai bên không thể xác định
+được nguyên nhân sai lệch và thống nhất phương án xử lý ngay trong ngày đối chiếu,
+hai bên phối hợp xử lý các giao dịch chênh lệch sau đối chiếu chậm nhất vào
+ngày làm việc tiếp theo.
+h) Dữ liệu ngày cuối tháng, ngày cuối
+năm giữa BHXH và NHTM nơi mở tài khoản phải khớp đúng cả số phát sinh và số dư
+tài khoản.
+6.1.2. Đối chiếu giữa BHXH tỉnh và
+BHXH huyện
+a) Số liệu kết chuyển, quyết toán cuối
+ngày tài khoản chuyên thu tại BHXH huyện phải khớp đúng với số liệu nhận kết
+chuyển trên tài khoản tiền gửi tại BHXH tỉnh.
+b) Việc đối chiếu phải đảm bảo hoàn thành
+ngay trong ngày làm việc; trường hợp có trục trặc kỹ thuật chưa thể xử lý ngay
+trong ngày được, thì phải được hoàn thành vào ngày làm việc kế tiếp và thực hiện
+cho từng ngày riêng biệt.
+6.2. Quy trình đối chiếu
+6.2.1 Tại cổng trao đổi thông tin
+của NHTM
+Bước 1:
+Cổng
+trao đổi thông tin của NHTM kết xuất bảng kê đối chiếu dữ liệu (MT064, MT208),
+thực hiện ký số và tự động gửi sang cổng trao đổi thông tin của cơ quan BHXH.
+Bước 2:
+Cổng
+thanh toán điện tử của NHTM tiếp nhận điện phản hồi kết quả đối chiếu (MT065,
+MT209) từ hệ thống BHXH và cập nhật kết quả đối chiếu vào hệ thống của NHTM.
+6.2.2 Tại cơ quan BHXH
+a) Tại cổng trao đổi thông tin của
+BHXH
+Cổng trao đổi thông tin của BHXH tiếp
+nhận điện Bảng kê đối chiếu giao dịch từ Cổng thanh toán điện tử của NHTM
+(MT064, MT208), kiểm tra tính hợp lệ sau đó đối chiếu với dữ liệu giao dịch tại
+hệ thống BHXH. Sau đó, tự động tạo điện phản hồi kết quả đối chiếu (MT065), thể
+hiện đầy đủ tổng số lượng giao dịch và tổng giá trị của các giao dịch đối chiếu
+cân khớp, tổng số lượng giao dịch và tổng giá trị của các giao dịch sai lệch và
+thông tin chi tiết các giao dịch sai lệch gửi cho NHTM.
+b) Tại Phần mềm KTTT
+Kế toán viên thực hiện việc đối chiếu
+số liệu theo quy trình đối chiếu số liệu trên KTTT, xử lý các chênh lệch (nếu
+có); sau đó, chuyển kết quả đối chiếu sang cổng trao đổi thông tin của cơ quan
+BHXH.
+7. Lệnh thông báo lãi suất đầu tư
+tự động
+7.1 Tại cơ quan BHXH
+7.1.1. Tại cổng trao đổi thông tin
+của BHXH Việt Nam
+Bước 1:
+Vào 9h00 hàng ngày hệ thống tự động truy vấn lãi suất tiền gửi từ các đơn vị
+thuộc hệ thống NHTM theo thỏa thuận liên ngành giữa BHXH Việt Nam với các NHTM.
+Bước 2:
+Hệ
+thống tự động tính lãi suất bình quân dựa trên lãi suất truy vấn được để làm
+căn cứ thông báo cho các đơn vị thuộc hệ thống NHTM.
+Bước 3:
+Hệ
+thống tự động tạo điện thông báo lãi suất áp dụng, ký số, sau đó gửi mức lãi suất
+áp dụng đối với tiền gửi đầu tư tự động cho các đơn vị thuộc hệ thống NHTM.
+7.1.2. Tại cổng trao đổi thông t
+i
+n của NHTM
+Bước 1:
+Khi nhận được thông tin lãi suất áp dụng, hệ thống tự động kiểm tra định dạng dữ
+liệu, sau đó tạo thông điệp phản hồi xác nhận đã nhận được điện thông báo lãi
+suất.
+- Trường hợp không thành công thì hệ
+thống tự động tạo thông điệp phản hồi đến cổng trao đổi thông tin của BHXH (nhận
+điện thanh toán không thành công) để BHXH Việt Nam kiểm tra và gửi lại theo quy
+định.
+- Trường hợp thành công thì hệ thống
+tự động tạo thông điệp để phản hồi thông tin đến cổng trao đổi thông tin của
+BHXH Việt Nam (nhận điện thanh toán đã thành công)
+8. L
+ệ
+nh
+tất toán trước h
+ạ
+n
+8.1. Tại BHXH Việt Nam
+8.1.1. Tại cổng trao đổi thông tin
+của BHXH Việt Nam
+Bước 1
+:
+Khi nhận được yêu cầu thanh toán của các đơn vị, kế toán viên tại BHXH Việt Nam
+thực hiện lập thông báo tất toán trước hạn đối với tài khoản tiền gửi đầu tư tự
+động tại các đơn vị thuộc hệ thống NHTM.
+Bước 2:
+Kế
+toán trưởng thực hiện kiểm soát, ký số và chuyển lãnh đạo đơn vị phê duyệt.
+Bước 3:
+Lãnh đạo đơn vị thực hiện phê duyệt yêu cầu thanh toán, ký số.
+Bước 4:
+Sau khi lệnh chi được phê duyệt thành công, hệ thống thực hiện tạo điện thông
+báo tất toán trước hạn
+(MT203)
+, ký số và gửi đến cổng trao đổi thông tin
+của NHTM để thực hiện lệnh tất toán.
+8.1.2. Tại cổng thông tin của NHTM
+Bước 1:
+Khi
+nhận được dữ liệu về khoản tất toán trước hạn của BHXH Việt Nam, hệ thống tự động
+kiểm tra chữ ký số, kiểm tra định dạng dữ liệu, sau đó giải mã và tạo thông điệp
+phản hồi xác nhận lệnh tất toán thành công hay không thành công:
+- Trường hợp không thành công thì hệ
+thống tự động tạo thông điệp phản hồi đến cổng trao đổi thông tin của BHXH Việt
+Nam (nhận điện thanh toán không thành công) để hệ thống kiểm tra và gửi lại
+theo quy định.
+- Trường hợp thành công thì hệ thống
+tự động tạo thông điệp để phản hồi thông tin đến cổng trao đổi thông tin của
+BHXH Việt Nam (nhận điện thanh toán đã thành công)
+Bước 2:
+NHTM thực hiện tất toán tài khoản trước hạn đối với trường hợp lệnh tất toán nhận
+thành công và hợp lệ.
+Bước 3:
+Cổng
+trao đổi thông tin của NHTM tự động tạo điện tất toán trước hạn (MT204), ký số
+và gửi sang cổng trao đổi thông tin của BHXH Việt Nam.
+Điều 5. Quy trình
+trao đổi dữ liệu
+1. Về dữ liệu trao đổi thanh toán
+giữa cơ quan BHXH và hệ th
+ố
+ng NHTM
+a) Thông tin, dữ liệu trao đổi giữa cơ
+quan BHXH - hệ thống NHTM trong TTĐTSP là toàn bộ các chứng từ, bảng kê điện tử
+được chuyển đổi từ các chứng từ, bảng kê giấy sử dụng trong các quan hệ thanh
+toán hiện nay giữa BHXH tỉnh và BHXH huyện với NHTM nơi mở tài khoản, cụ thể
+bao gồm:
++ MT103; MT 900, MT 910; MT 195, MT
+196; MT 199: Điện thông báo; MT 299; MT 950 (được truyền vào đầu n
+g
+ày làm việc hôm sau).
++ Bảng kê đối chiếu.
++ Điện phản hồi kết quả đối chiếu.
++ Bảng kê tính lãi, phí.
+b) Dữ liệu điện tử trao đổi trong
+TTĐTSP giữa BHXH với NHTM được định dạng bằng chuẩn XML, đảm bảo loại và khuôn
+dạng; trong đó, mô tả đầy đủ các thông tin thanh toán bắt buộc cùng với các
+thông tin liên quan đến chữ ký số nhân danh hệ thống gửi (nếu có).
+c) Thời gian trễ (time-out) của mỗi
+giao dịch truyền/nhận thông điệp dữ liệu được cơ quan BHXH và NHTM thống nhất
+quy định chung cho cả 2 hệ thống. Trường hợp quá thời gian time-out mà không có
+phản hồi, thì thông điệp dữ liệu đó sẽ được hủy và thực hiện gửi lại.
+d) Hàng ngày, cán bộ BHXH phối hợp
+NHTM cập nhật dữ liệu của các đơn vị đang quản lý để chuyển NHTM đối chiếu
+thông tin kịp thời chính xác.
+2. Về chữ ký số và xác thực chữ ký
+số
+a) Chữ ký s
+ố
+được
+sử dụng trong TTĐTSP giữa hai hệ thống (BHXH và NHTM) là chữ ký số đang có hiệu
+lực và được cung cấp bởi nhà cung cấp dịch vụ chữ ký số công cộng đã được Bộ
+Thông tin và Truyền thông hoặc cơ quan nhà nước có thẩm quyền cấp phép.
+b) Cơ quan BHXH và NHTM được quyền lựa
+chọn sử dụng bất kỳ nhà cung cấp nào trong số các nhà cung cấp dịch vụ chữ ký số
+công cộng đã được Bộ Thông tin và Truyền thông hoặc cơ quan nhà nước có thẩm
+quyền cấp phép. NHTM có trách nhiệm xây dựng ứng dụng để chứng thực chữ ký số của
+cơ quan BHXH và ngược lại.
+c) NHTM có trách nhiệm thông báo bằng
+văn bản trước ít nhất 5 ngày khi có thay đổi cho cơ quan BHXH công thức chữ ký
+số, chứng thư số nhân danh của hệ thống mình và thời điểm áp dụng; ngược lại,
+cơ quan BHXH cũng có trách nhiệm thông báo bằng văn bản trước ít nhất 5 ngày
+khi có thay đổi cho NHTM công thức chữ ký số, chứng thư số nhân danh của hệ thống
+mình và thời điểm áp dụng trước khi có thay đổi.
+d) Hệ thống TTĐTSP giữa cơ quan BHXH
+và NHTM dùng 2 cặp khoá: một cặp để ký/xác thực chữ ký; một cặp để mã hoá/giải
+mã nội dung thông điệp dữ liệu; độ dài khoá là 2048 bit.
+3. Vận hành, giám sát, hỗ trợ khắc
+phục lỗi hệ thống
+3.1. Vận hành hệ thống
+a) Cơ quan BHXH và NHTM có trách nhiệm
+duy trì hoạt động hệ thống TTĐTSP của mỗi bên, đảm bảo cho việc truyền nhận dữ
+liệu giữa cơ quan BHXH và NHTM được diễn ra thường xuyên, liên tục, không bị
+ách tắc. Trường hợp bên nào bị dừng/tạm dừng hệ thống, bên đó có trách nhiệm
+thông báo kịp thời cho bên đối tác.
+b) Từng hệ thống (BHXH, NHTM) cử cán
+bộ tin học làm đầu mối để duy trì hoạt động của hệ thống TTĐTSP, cung cấp số điện
+thoại, email liên hệ cho
+đơn
+vị liên quan.
+c) Cán bộ nghiệp vụ tại từng đơn vị
+giao dịch của cơ quan BHXH và NHTM có trách nhiệm theo dõi tình trạng dữ liệu
+trao đổi giữa hai hệ thống, thông báo kịp thời cho cán bộ tin học của hệ thống
+mình xử lý khi phát hiện sự cố chậm trễ trong truyền nhận dữ liệu
+3.2. Theo dõi giám sát
+Hàng ngày, cán bộ quản trị mạng của từng
+hệ thống phải kiểm tra hệ thống, đảm bảo không bị sự cố tồn đọng dữ liệu thanh
+toán của cả hai bên.
+Chương 3
+TỔ CHỨC THỰC HIỆN
+Điều 6. Trách nhiệm
+của Trung tâm Công nghệ thông tin
+1. Xây dựng, điều chỉnh các phần mềm
+đáp ứng đầy đủ các quy định tại Văn bản này; hướng dẫn, triển khai và kịp thời
+giải quyết vướng mắc trong quá trình sử dụng các phần mềm.
+2. Phối hợp với các hệ thống NHTM đảm
+bảo sự vận hành liên tục, an toàn của Cổng kết nối điện tử, phối hợp xử lý các
+vấn đề kỹ thuật phát sinh trong quá trình v
+ậ
+n hành kết nối.
+3. Chủ trì, phối hợp với các đơn vị
+liên quan phân quyền sử dụng các phần mềm.
+4. Chịu trách nhiệm vận hành, chỉnh sửa
+phần mềm nghiệp vụ (nếu có) đảm bảo phản ánh chính xác số liệu phát sinh, số liệu
+tự động ghi nhận quá trình đóng,...theo đúng yêu cầu của bộ phận nghiệp vụ.
+Điều 7. Trách nhiệm
+của Vụ Tài chính - Kế toán
+Chủ trì phối hợp với các đơn vị liên
+quan chịu trách nhiệm tổ chức, quản lý, thống nhất hướng dẫn việc quản lý, sử dụng
+các tài khoản tiền gửi của cơ quan BHXH mở tại hệ thống NHTM theo quy định.
+Điều 8. Trách nhiệm
+của Trung tâm Lưu trữ
+Chủ trì, phối hợp với Trung tâm Công
+nghệ thông tin, Vụ Tài chính - Kế toán và các đơn vị liên quan xây dựng phần mềm
+và hướng dẫn việc số hóa sổ phụ, chứng từ điện tử để lưu trữ điện tử trên Hệ thống
+phục vụ cho các hoạt động nghiệp vụ.
+Điều 9. Trách nhiệm
+của Vụ Quản lý đầu tư quỹ, Văn phòng BHXH Việt Nam, Các đơn vị trực thuộc BHXH
+Việt Nam, BHXH tỉnh, thành phố trực thuộc trung ương
+Căn cứ chức năng nhiệm vụ phối hợp
+triển khai t
+ổ
+chức thực hiện Quy định này.
+Trong quá trình tổ chức thực hiện nếu
+có vướng m
+ắ
+c, các đơn vị kịp thời phản ánh về BHXH Việt
+Nam đ
+ể
+nghiên cứu, hướng dẫn./
+.
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

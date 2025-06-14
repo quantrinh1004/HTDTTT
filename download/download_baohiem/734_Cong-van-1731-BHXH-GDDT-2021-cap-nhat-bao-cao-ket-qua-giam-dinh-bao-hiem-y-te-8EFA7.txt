@@ -1,0 +1,223 @@
+BẢO HIỂM XÃ HỘI
+  VIỆT NAM
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 1731/BHXH-GĐĐT
+V/v chuẩn hoá danh mục,
+  dữ liệu điện tử và cập nhật, báo cáo kết quả giám định BHYT
+Hà Nội, ngày 18
+  tháng 6 năm 2021
+Kính gửi:
+- Bảo hiểm xã hội các tỉnh, thành phố trực thuộc
+  Trung ương;
+- Bảo hiểm xã hội Bộ Quốc phòng;
+- Bảo hiểm xã hội Công an Nhân dân.
+(Sau đây gọi chung là BHXH tỉnh)
+Thực hiện chỉ đạo của Chính phủ
+về việc ứng dụng công nghệ thông tin phục vụ quản lý và giám định, thanh toán
+chi phí khám bệnh, chữa bệnh bảo hiểm y tế (BHYT), đến nay các cơ sở khám bệnh,
+chữa bệnh BHYT và cơ quan Bảo hiểm xã hội (BHXH) đã phối hợp thực hiện tương đối
+tốt các quy định về kết nối, liên thông dữ liệu khám bệnh, chữa bệnh. Tuy nhiên
+trong quá trình thực hiện, một số cơ sở khám bệnh, chữa bệnh vẫn chưa thực hiện
+đúng, đầy đủ các quy định của Bộ Y tế về trích chuyển dữ liệu điện tử; quy định
+về chuẩn và định dạng dữ liệu đầu ra và áp dụng bộ mã dùng chung áp dụng trong
+quản lý khám bệnh, chữa bệnh và thanh toán BHYT. Để đảm bảo việc liên thông dữ
+liệu đáp ứng yêu cầu quản lý, giám định và thanh toán chi phí khám chữa bệnh
+BHYT, BHXH Việt Nam yêu cầu BHXH các tỉnh thực hiện một số nội dung sau:
+1. Đề nghị các
+cơ sở khám bệnh, chữa bệnh hoàn chỉnh thông tin các danh mục và dữ liệu đề nghị
+thanh toán chi phí khám bệnh, chữa bệnh BHYT trước ngày 31/7/2021, lưu ý các vấn
+đề sau:
+a) Chuẩn hoá các danh mục thuốc,
+vật tư y tế, dịch vụ kỹ thuật, khoa phòng sử dụng tại cơ sở khám bệnh, chữa bệnh
+theo đúng quy định ban hành theo Quyết định số 7603/QĐ-BYT ngày 25/12/2018; Quyết
+định số 4905/Q Đ -BYT ngày 21/10/2019 bổ sung mã thuốc tân dược; Quyết định số
+2178/Q Đ -BYT ngày 27/5/2020 bổ sung danh mục mã VTYT; Quyết định số 4469/Q Đ
+-BYT ngày 28/10/2020 thay thế danh mục ICD-10 của Bộ Y tế, đảm bảo các trường
+thông tin trong dữ liệu đề nghị thanh toán đúng mã, đúng tên theo danh mục đã
+thống nhất với cơ quan BHXH.
+b) Cập nhật đầy đủ, chính xác
+danh mục người hành nghề, danh mục giường bệnh, trang thiết bị y tế tại cơ sở
+khám bệnh, chữa bệnh.
+c) Gửi dữ liệu điện tử đề nghị
+thanh toán BHYT theo đúng quy định tại Thông tư số 48/2017/TT-BYT ngày
+28/12/2017 của Bộ Y tế, đảm bảo thời hạn, tiến độ quyết toán theo quy định của
+Luật BHYT:
+- Dữ liệu phải đảm bảo đầy đủ
+các bảng và các trường thông tin ban hành kèm theo Quyết định số 4210/QĐ-BYT
+ngày 20/9/2017 của Bộ Y tế quy định về chuẩn và định dạng dữ liệu đầu ra; Trường
+hợp chưa thực hiện được việc gửi dữ liệu điện tử theo Bảng 4 và Bảng 5 ban hành
+theo Quyết định số 4210/QĐ-BYT phải có văn bản nêu rõ lý do theo yêu cầu của Bộ
+Y tế tại Công văn số 1677/BYT- BH ngày 28/3/2018.
+- Trường hợp không gửi được dữ
+liệu do nguyên nhân khách quan, bất khả kháng phải thông báo ngay cho cơ quan
+BHXH và gửi dữ liệu khi khắc phục được sự cố theo quy định tại
+Điều
+8 Thông tư số 48/2017/TT-BYT
+.
+- Trường hợp dữ liệu phát sinh
+trong tháng có sai lệch hoặc thừa, thiếu các thông tin của người bệnh hoặc
+thông tin điều trị trong hồ sơ bệnh án, cơ sở khám bệnh, chữa bệnh có thể đề
+nghị thay thế dữ liệu nhưng phải thống nhất với cơ quan BHXH và đảm bảo thời hạn
+hoàn thành cùng với thời điểm gửi báo cáo quyết toán của tháng trước, đối với
+tháng cuối quý phải hoàn thành cùng với thời điểm gửi báo cáo quyết toán quý
+theo quy định tại
+điểm a Khoản 2 Điều 32 Luật BHYT
+.
+- Trường hợp người bệnh điều trị
+ngoại trú chỉ tổng hợp và gửi dữ liệu đề nghị thanh toán ngoại trú một lần khi
+kết thúc đợt điều trị theo đúng quy định tại chỉ tiêu số 35, Bảng 1 ban hành kèm
+theo Quyết định số 4210/QĐ-BYT; Trường hợp người bệnh điều trị ngoại trú các bệnh
+mãn tính dài ngày liên tục trong năm, mỗi tháng cơ sở khám bệnh, chữa bệnh chỉ
+gửi 01 file tổng hợp toàn bộ chi phí các lần điều trị ngoại trú các bệnh mạn
+tính từ ngày 01 đến ngày cuối cùng của tháng kể cả trường hợp có phát sinh đợt
+điều trị nội trú trong tháng đó.
+- Trường hợp sau khi khám bệnh,
+người bệnh có chỉ định điều trị nội trú hoặc sau khi kết thúc đợt điều trị nội
+trú tiếp tục có chỉ định sử dụng thuốc từ 01 đến 07 ngày thì toàn bộ chi phí
+khám bệnh trước khi điều trị nội trú hoặc chi phí thuốc khi ra viện được thống
+kê trong đợt điều trị nội trú theo quy định tại
+điểm a Khoản 3
+Điều 5 Thông tư số 52/2017/TT-BYT
+ngày 29/12/2017 của Bộ Y tế quy định về
+đơn thuốc và việc kê đơn thuốc hóa dược, sinh phẩm trong điều trị ngoại trú.
+2. BHXH các tỉnh
+chủ động rà soát các danh mục phục vụ công tác giám định theo hướng dẫn tại
+Công văn số 95/BHXH-CSYT ngày 08/01/2019 của BHXH Việt Nam, thông báo cụ thể
+các sai sót về danh mục, dữ liệu điện tử và phối hợp với cơ sở khám bệnh, chữa
+bệnh hoàn chỉnh các danh mục trên Hệ thống thông tin giám định BHYT trước ngày
+31/7/2021, lưu ý một số nội dung sau:
+a) Danh mục cơ sở khám bệnh, chữa
+bệnh phải được cập nhật đầy đủ, chính xác; Đối với cơ sở khám bệnh, chữa bệnh
+có từ 02 địa điểm hoạt động khám bệnh, chữa bệnh trở lên phải được cấp Giấy
+phép hoạt động, cấp mã cơ sở khám chữa bệnh và cập nhật thông tin riêng theo từng
+Giấy phép hoạt động.
+b) Danh mục nhân viên y tế tại
+cơ sở khám bệnh, chữa bệnh phải trùng khớp với thông tin trong Danh sách người
+đăng ký hành nghề khám bệnh, chữa bệnh được đăng tải trên Cổng thông tin điện tử
+của Bộ Y tế hoặc Trang thông tin điện tử của Sở Y tế theo quy định tại
+Khoản 3, Điều 15 Nghị định số 109/2016/NĐ-CP
+ngày 01/7/2016 của
+Chính phủ.
+c) Tổng hợp danh sách và lý do
+các cơ sở khám bệnh, chữa bệnh chưa thực hiện được việc gửi dữ liệu bảng 4, bảng
+5 chuẩn dữ liệu đầu ra ban hành theo Quyết định số 4210/QĐ-BYT, báo cáo Bảo hiểm
+xã hội Việt Nam (qua Trung tâm Giám định BHYT và Thanh toán đa tuyến).
+d) Thông báo ngay cho cơ sở
+khám bệnh, chữa bệnh các sai sót giữa dữ liệu đề nghị thanh toán với danh mục
+đã thống nhất với cơ quan BHXH hoặc chênh lệch số tiền trên dữ liệu chi tiết và
+dữ liệu tổng hợp trên báo cáo quyết toán của cơ sở khám bệnh, chữa bệnh.
+3. Mã hoá tạm
+thời đối với một số dịch vụ kỹ thuật, vật tư y tế và thuốc trong một số trường
+hợp đặc biệt.
+a) Trường hợp thanh toán phẫu
+thuật sử dụng phương pháp vô cảm gây tê theo hướng dẫn của Bảo hiểm xã hội Việt
+Nam tại các Công văn số 1163/BHXH- CSYT ngày 13/4/2020 và số 1189/BHXH-CSYT
+ngày 15/4/2020.
+- Bổ sung cụm từ “[gây tê]” sau
+tên dịch vụ, bổ sung các ký tự “_GT” sau mã dùng chung của dịch vụ kỹ thuật
+tương đương ban hành kèm theo Quyết định số 7603/QĐ-BYT ngày 25/12/2018 của Bộ
+Y tế (XX.YYYY.ZZZZ_GT). Danh mục mã các phẫu thuật sử dụng phương pháp gây tê tại
+Phụ lục 3 ban hành theo Công văn số 1163/BHXH-CSYT được tạo lập trên Cổng tiếp
+nhận để cơ sở khám bệnh, chữa bệnh cập nhật vào danh mục sử dụng tại đơn vị và
+gửi dữ liệu đề nghị thanh toán chi phí khám chữa bệnh BHYT; Trường hợp chưa có
+trong danh mục thì BHXH tỉnh thống nhất với cơ sở khám bệnh, chữa bệnh tạo lập
+theo hướng dẫn nêu trên.
+- Đối với thuốc gây tê: tổng hợp
+vào Bảng 2 ban hành kèm theo Quyết định số 4210/QĐ-BYT, trường MA_THUOC bổ sung
+mã phẫu thuật sử dụng phương pháp vô cảm gây tê sau mã hoạt chất theo quy định
+tại Bộ mã danh mục dùng chung do Bộ Y tế ban hành (Mã thuốc_XX.YYYY.ZZZZ_GT).
+b) Đối với trường hợp thanh
+toán theo quy định tại
+Khoản 3 Điều 7 Thông tư số 39/2018/TT-BYT
+:
+các thuốc thanh toán theo thực tế được tổng hợp vào Bảng 2 tương tự như đối với
+thuốc gây tê nêu trên; các vật tư y tế thanh toán theo thực tế được tổng hợp
+vào Bảng 3, trường MA_DICH_VU ghi thông tin dịch vụ kỹ thuật như sau:
+- Dịch vụ kỹ thuật đã được cấp
+có thẩm quyền phê duyệt thực hiện nhưng chưa ban hành mức giá: mã hoá theo
+nguyên tắc mã danh mục tương đương, 4 ký tự cuối ghi “0000” là ký hiệu dịch vụ
+kỹ thuật chưa được ban hành giá; đơn giá dịch vụ bằng không “0”.
+- Dịch vụ kỹ thuật vì nguyên
+nhân diễn biến bệnh hoặc thể trạng người bệnh không thể tiếp tục thực hiện: bổ
+sung các ký tự “_TB” sau mã dùng chung của dịch vụ kỹ thuật tương đương; đơn
+giá dịch vụ bằng không “0”.
+c) Đối với thanh toán BHYT xét
+nghiệm COVID-19 theo hướng dẫn tại Công văn số 4356/BYT-KHTC ngày 28/5/2021 của
+Bộ Y tế và Công văn số 1537/BHXH-CSYT ngày 02/6/2021 của BHXH Việt Nam: trường
+TEN_DICH_VU tại Bảng 3 ban hành kèm theo Quyết định số 4210/QĐ-BYT ghi
+“Coronavirus Real-time PCR”; đơn giá thanh toán xét nghiệm COVID-19 đối với trường
+hợp lấy mẫu đơn và mẫu gộp theo quy định của Bộ Y tế;
+Trường hợp cơ sở khám bệnh, chữa
+bệnh lấy mẫu đơn và gửi mẫu xét nghiệm cho đơn vị khác thực hiện, cơ sở khám bệnh,
+chữa bệnh nơi lấy mẫu ghi thông tin trường MA_DICH_VU như sau:
+- Lấy và bảo quản bệnh phẩm đối
+với mẫu đơn: Mã dịch vụ “24.0235.1719.SC2.B1”
+(B1 là bệnh phẩm cho một mẫu
+đơn)
+.
+- Thực hiện xét nghiệm mẫu đơn
+tại đơn vị khác: Mã dịch vụ “24.0235.1719.SC2.X1.K.XXXXX” (XXXXX là mã đơn vị
+thực hiện xét nghiệm).
+Trường hợp cơ sở khám bệnh, chữa
+bệnh lấy mẫu gộp, trường MA_DICH_VU ghi:
+- Lấy và bảo quản bệnh phẩm đối
+với mẫu gộp: Mã dịch vụ “24.0235.1719.SC2.BN”
+(BN là bệnh phẩm gộp nhiều mẫu)
+,
+Số lượng: bằng 1 (ví dụ: mẫu gộp 5 số lượng ghi 1).
+- Thực hiện xét nghiệm gộp mẫu
+tại đơn vị lấy mẫu: Mã dịch vụ “24.0235.1719.SC2.XN”
+(XN là xét nghiệm gộp mẫu)
+,
+Số lượng: bằng 1 chia cho số mẫu gộp (ví dụ gộp 05 mẫu, số lượng ghi 0,2).
+4. Về việc phản
+hồi thông tin cảnh báo, giám định chuyên đề và báo cáo định kỳ.
+BHXH thực hiện việc tiếp nhận,
+xử lý, báo cáo phản hồi đầy đủ, chính xác các thông báo chuyên đề cần kiểm tra,
+giám định hoặc các cảnh báo trên phần mềm Giám sát, cụ thể như sau:
+a) Đối với chuyên đề giám định:
+phải thực hiện việc cập nhật chi tiết kết quả trên phần mềm giám định theo hướng
+dẫn của Trung tâm Giám định BHYT và Thanh toán đa tuyến; trường hợp chấp nhận
+như đề nghị của cơ sở khám bệnh, chữa bệnh phải thuyết minh chi tiết kết quả
+giám định, lý do chấp nhận và cung cấp tài liệu, thông tin theo yêu cầu và thời
+hạn của văn bản thông báo.
+b) Đối với các hồ sơ đề nghị
+thanh toán ở trạng thái bắt buộc giám định trực tiếp: giám định viên chịu trách
+nhiệm về tính chính xác của kết quả giám định.
+c) Đối với các cảnh báo lạm dụng,
+trục lợi BHYT thông báo bằng văn bản: tổ chức kiểm tra trực tiếp tại cơ sở khám
+bệnh, chữa bệnh hoặc nơi người bệnh cư trú, công tác; báo cáo kết quả xác minh
+và kiến nghị cơ quan có thẩm quyền xử lý vi phạm chậm nhất 15 ngày kể từ ngày
+nhận được văn bản; Báo cáo kết quả xử lý vi phạm của cơ quan có thẩm quyền định
+kỳ hằng quý.
+d) Đối với các cảnh báo bất thường
+trong khám chữa bệnh trên phần mềm Giám sát: báo cáo nguyên nhân, giải pháp khắc
+phục trong vòng 30 ngày kể từ ngày cập nhật cảnh báo trên phần mềm; Báo cáo kết
+quả định kỳ hằng quý.
+e) Chậm nhất ngày 5 tháng đầu mỗi
+quý, BHXH các tỉnh báo cáo phân tích tình hình sử dụng dự toán chi khám chữa bệnh
+BHYT, tập trung phân tích các cơ sở khám bệnh, chữa bệnh có số chi chiếm tỷ trọng
+lớn; Kết quả giám định các chuyên đề do BHXH tỉnh xây dựng; các nội dung quy định
+tại tiết c và d điểm này; khó khăn vướng mắc và các đề xuất để tăng cường hiệu
+quả, chất lượng công tác giám định BHYT.
+Đề nghị BHXH các tỉnh nghiêm
+túc triển khai thực hiện, kịp thời phản ánh các khó khăn vướng mắc để Bảo hiểm
+xã hội Việt Nam hướng dẫn giải quyết./.
+Nơi nhận:
+- Như trên;
+- Bộ Y tế;
+- Tổng Giám đốc (để b/c);
+- SYT các tỉnh, thành phố trực thuộc TW (để p/h);
+- Các đơn vị: CSYT, CNTT, TTKT, PC;
+- Lưu: VT, GĐĐT.
+KT. TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Phạm Lương Sơn
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

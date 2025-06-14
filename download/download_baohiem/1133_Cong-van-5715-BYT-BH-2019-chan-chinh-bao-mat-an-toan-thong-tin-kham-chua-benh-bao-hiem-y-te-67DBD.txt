@@ -1,0 +1,133 @@
+BỘ Y TẾ
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+5715/BYT-BH
+V/v chấn chỉnh bảo mật, an toàn thông tin
+  KBCH BHYT
+Hà Nội
+, ngày
+27
+tháng
+9
+năm
+2019
+Kính
+  gửi:
+- Sở Y tế các tỉnh, thành phố trực thuộc
+  Trung ương;
+- Y tế các bộ, ngành;
+- Các bệnh viện, viện có giường bệnh trực thuộc Bộ Y tế;
+- Các Bệnh viện: Than - Khoáng sản thuộc Tập đoàn Than - khoáng sản), Quân
+  dân miền Đông, Quân y 121 (Quân khu 9).
+(Sau đây gọi chung là các đơn vị)
+Bộ Y tế nhận được Công văn số
+3200/BHXH-CNTT ngày 03/9/2019 của Bảo hiểm xã hội Việt Nam (Sau đây viết tắt là
+Công văn số 3200) phản ánh về việc thời gian vừa qua có một số cơ sở khám bệnh,
+chữa bệnh bảo hiểm y tế (BHYT) để lộ tài khoản và mật khẩu truy cập
+C
+ổng tiếp nhận dữ liệu Hệ thống thông tin giám định BHYT, dẫn đến có một
+số cá nhân, tổ chức lợi dụng để khai thác thông tin, trong đó đáng chú ý có tài
+khoản của một cơ sở khám bệnh, chữa bệnh (KBCB) có số lượng truy cập bất thường,
+hơn một triệu lượt/ngày để khai thác thông tin, làm ảnh hưởng không nhỏ đến quá
+trình vận hành Hệ thống.
+Đ
+ể
+đảm bảo an
+toàn và bảo mật thông tin KBCB BHYT của người bệnh, ngày 09/4/2019 Bộ Y tế đã
+có Công văn số 1898/BYT-BH gửi các đơn vị nhằm chấn chỉnh việc bảo mật, an toàn
+thông tin, trong đó đề nghị Thủ trưởng các đơn vị:
+“Khẩn trương chỉ đạo các
+cơ sở KBCB thuộc quyền quản lý, các khoa, phòng liên quan trong đơn vị thực hiện
+rà soát, bổ sung các giải pháp an toàn, bảo mật thông tin tại đơn vị, đặc biệt
+rà soát lại việc ủy quyền, phân cấp, phân quyền cho các c
+á
+nhân, khoa, phòng liên quan trong việc quản lý, sử dụng tài khoản mà Bảo
+hiểm xã hội Việt Nam đã cung cấp cho đơn vị. Tuyệt đ
+ố
+i không được để lộ thông tin tài khoản cho các cá nhân, đơn vị không được
+giao nhiệm vụ. C
+á
+nhân, đơn vị được giao quản lý, sử
+dụng tài khoản phải chịu hoàn toàn trách nhiệm trước pháp luật nếu để lộ lọt
+thông tin KBCB BHYT của người bệnh ra bên ngoài”
+.
+Công tác bảo mật, an toàn thông tin
+nói chung, thông tin khám bệnh, chữa bệnh của người bệnh nói riêng là việc vô
+cùng hệ trọng, vì vậy, Bộ Y tế đề nghị Thủ trưởng các đơn vị:
+1. Thủ trưởng các đơn vị có tên trong
+Phụ lục đính kèm công văn này khẩn trương chỉ đạo kiểm tra, rà soát, xác minh số
+liệu truy cập trên
+C
+ổng tiếp nhận dữ liệu Hệ thống thông
+tin giám định BHYT theo Phụ lục Công văn số 3200, có biện pháp xử lý các đơn vị,
+cá nhân có liên quan để lộ lọt thông tin tài khoản (nếu có). Báo cáo bằng văn bản
+kết quả kiểm tra, rà soát, xác minh số liệu truy cập trên
+C
+ổng tiếp nhận dữ liệu Hệ thống thông tin giám định BHYT theo Phụ lục
+Công văn số 3200 về Bộ Y tế (qua Vụ Bảo hiểm y tế) trước ngày 15/10/2019.
+2. Ban hành quy chế, quy định rõ
+trách nhiệm cụ thể đối với các cá nhân, tổ chức có liên quan đến qu
+y
+trình quản lý, triển khai, vận hành và khai thác hệ thống công nghệ
+thông tin tại đ
+ơ
+n vị.
+3. Nghiêm túc thực hiện đúng chỉ đạo
+của Bộ Y tế tại Công văn số 1898/BYT-BH ngày 09/4/2019. Người đứng đầu đ
+ơn
+vị cần quan tâm, chỉ đạo kịp thời, thường xuyên đối với vấn đề bảo
+mật, an toàn thông tin trong quá trình triển khai ứng dụng công nghệ thông tin,
+giao dịch điện tử phục vụ công tác quản lý và giám định, thanh toán chi phí
+khám bệnh, chữa bệnh bảo hiểm y tế tại đơn vị.
+Nhận được Công văn này, Bộ Y tế đề
+nghị Thủ trưởng các đơn vị nghiêm túc tổ chức triển khai thực hiện, kịp thời
+báo cáo về Bộ Y tế (Vụ Bảo hiểm y tế) những khó khăn, vướng mắc phát sinh trong
+quá trình triển khai thực hiện để xem xét, giải quyết./.
+Nơi nhận:
+- Như trên;
+- TT. Nguyễn Trường Sơn (để báo cáo);
+- BHXH Việt Nam;
+- Vụ trưởng Vụ BHYT (để b/c);
+- Lưu: VT, BH.
+TL. BỘ TRƯỞNG
+KT. VỤ TRƯỞNG VỤ BẢO HIỂM Y TẾ
+PHÓ VỤ TRƯỞNG
+Đặng Hồng Nam
+PHỤ LỤC
+CÁC ĐƠN VỊ TRIỂN
+KHAI KIỂM TRA, RÀ SOÁT, XÁC MINH SỐ LIỆU TRUY CẬP TRÊN CỔNG TIẾP NHẬN DỮ LIỆU HỆ
+THỐNG THÔNG TIN GIÁM ĐỊNH BHYT THEO PHỤ LỤC CÔNG VĂN SỐ 3200/BHXH-CNTT NGÀY
+03/9/2019
+(Kèm theo Công văn số 5715/BYT-BH ngày 27/9/2019 của Bộ Y tế)
+1. Sở Y tế Thành phố Hà Nội
+2. Sở Y tế tỉnh Lai Châu
+3. Sở Y tế tỉnh Sơn La
+4. Sở Y tế tỉnh Hòa Bình
+5. Sở Y tế tỉnh Lạng Sơn
+6. Sở Y tế tỉnh Quảng Ninh
+7. Sở Y tế tỉnh Bắc Giang
+8. Sở Y tế tỉnh Vĩnh Phúc
+9. Sở Y tế tỉnh Bắc Ninh
+10. Sở Y tế tỉnh Hải Dương
+11. Sở Y tế tỉnh Hưng Yên
+12. Sở Y tế tỉnh Thanh Hóa
+13. Sở Y tế tỉnh Nghệ An
+14. Sở Y tế tỉnh Quảng Ngãi
+15. Sở Y tế tỉnh Gia Lai
+16. Sở Y tế tỉnh Đắk Nông
+17. Sở Y tế tỉnh Lâm Đồng
+18. Sở Y tế tỉnh Đồng Nai
+19. Sở Y tế Thành phố Hồ Chí Minh
+20. Sở Y tế tỉnh Long An
+21. Sở Y tế tỉnh Trà Vinh
+22. Sở Y tế tỉnh An Giang
+23. Sở Y tế Thành phố Cần Thơ
+24. Sở Y tế tỉnh Cà Mau
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

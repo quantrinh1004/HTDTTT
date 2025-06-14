@@ -1,0 +1,331 @@
+BẢO HIỂM XÃ HỘI
+  VIỆT NAM
+-------
+CỘNG HÒA XÃ HỘI CHỦ
+  NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 707
+/BHXH-CNTT
+V/v
+  tạo lập giấy chứng nhận nghỉ việc hưởng BHXH
+Hà Nội, ngày 11
+  tháng 3 năm 2019
+Kính
+gửi: Bảo hiểm xã hội các tỉnh, thành phố trực thuộc trung ương.
+Bảo hiểm xã hội
+(BHXH) Việt Nam đã bổ sung chức năng cho phép các cơ sở khám bệnh, chữa bệnh
+(KBCB) tạo lập giấy chứng nhận nghỉ việc hưởng BHXH theo quy định tại phụ lục
+7, Thông tư 56/2017/TT-BYT ngày 29/12/2017 của Bộ Y tế trên Cổng tiếp nhận dữ
+liệu Hệ thống thông tin giám định bảo hiểm y tế (BHYT)
+(https://gdbhyt.baohiemxahoi.gov.vn). BHXH Việt Nam đề nghị Giám đốc BHXH các
+tỉnh, thành phố trực thuộc trung ương chỉ đạo Phòng Công nghệ thông tin chủ
+trì, phối hợp với phòng Chế độ BHXH và phòng Giám định thực hiện:
+- Tiếp tục hướng dẫn
+các cơ sở KBCB thực hiện đăng ký mẫu dấu, mẫu chữ ký sử dụng trên giấy chứng
+nhận nghỉ việc hưởng BHXH (theo Phụ lục 8, Thông tư 56/2017/TT-BYT) trên Cổng
+tiếp nhận dữ liệu Hệ thống thông tin giám định BHYT theo hướng dẫn tại công văn
+số 5451/BHXH-CNTT ngày 27/12/2018.
+- Hướng dẫn các cơ sở
+KBCB tạo lập giấy chứng nhận nghỉ việc hưởng BHXH (Phụ lục 7, Thông tư
+56/2017/TT-BYT) trên Cổng tiếp nhận dữ liệu Hệ thống thông tin giám định BHYT
+(chi
+tiết theo hướng dẫn tại Phục lục gửi kèm
+).
+Trong quá trình thực
+hiện, nếu có phát sinh vướng mắc, đề nghị Bảo hiểm xã hội các tỉnh, thành phố
+trực thuộc trung ương báo cáo kịp thời về Bảo hiểm xã hội Việt Nam (Trung tâm
+Công nghệ thông tin) để xem xét, giải quyết./.
+Nơi nhận:
+-
+Như
+  trên;
+- Bộ Y tế;
+- Bộ Lao động-Thương binh và Xã hội;
+- Tổng liên đoàn lao động Việt Nam;
+- UBND các tỉnh, thành phố;
+- Tổng Giám đốc (để b/c);
+- Các Phó TGĐ;
+- Sở Y tế, Sở Lao động-Thương binh và Xã hội;
+- Các đơn vị trực thuộc BHXH Việt Nam;
+- Lưu: VT, CNTT.
+KT. TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Trần Đình Liệu
+PHỤ LỤC
+HƯỚNG
+DẪN TẠO LẬP GIẤY CHỨNG NHẬN NGHỈ VIỆC HƯỞNG BẢO HIỂM XÃ HỘI
+(Gửi
+kèm theo công văn số 707/BHXH-CNTT ngày 11/03/2019)
+Lưu ý:
+Các cơ sở khám bệnh,
+chữa bệnh (KBCB) bắt buộc phải đăng ký quyền cấp giấy chứng nhận nghỉ việc
+hưởng BHXH với cơ quan BHXH theo hướng dẫn tại công văn số 5451/BHXH-CNTT ngày
+27/12/2018 của BHXH Việt Nam và được cơ quan BHXH quản lý phê duyệt mới được
+phép sử dụng chức năng cấp giấy chứng nhận nghỉ việc hưởng BHXH
+.
+1. Tạo lập Giấy chứng
+nhận nghỉ việc hưởng BHXH
+-
+Bước 1
+. Đăng
+nhập Cổng tiếp nhận dữ liệu Hệ thống thông tin giám định BHYT (Cổng GĐBHYT) tại
+địa chỉ https://gdbhyt.baohiemxahoi.gov.vn bằng
+tài khoản và mật khẩu
+đã
+được Bảo hiểm xã hội Việt Nam cấp.
+-
+Bước 2
+. Chọn
+chức năng
+Cấp chứng từ -> Giấy chứng nhận nghỉ việc hưởng BHXH
+Màn hình sẽ hiện thị
+ra như sau:
+Trong đó:
++
+Từ ngày, đến
+ngày
+: Khoảng thời gian tìm kiếm dữ liệu.
++
+Tìm kiếm
+:
+Thực hiện tìm kiếm theo dữ liệu nhập vào.
++
+: Tìm kiếm
++
+: Tạo giấy chứng nhận nghỉ việc
+hưởng BHXH.
++
+Xuất Excel
+:
+Hỗ trợ xuất dữ liệu tìm kiếm được (hiển thị phía dưới) ra file excel.
++
+Import mẫu 07
+:
+Cập nhật giấy chứng nhận nghỉ việc hưởng BHXH từ file mẫu.
++ Click chuột phải để
+sửa, in, xóa
+một bản ghi được chọn.
+- Bước 3.
+Tạo lập giấy chứng
+nhận nghỉ việc hưởng BHXH.
+Cách 1
+.
+Nhập trực
+tiếp
+:
+-
+Bước 1.1
+.
+Chọn nút
+để tạo giấy
+chứng nhận nghỉ việc hưởng BHXH. Khi đó, màn hình sẽ xuất hiện như sau:
+Trong đó:
++
+Mã chứng từ
+:
+Mã chứng từ
++
+Số KCB
+: Số
+phiếu khám chữa bệnh.
++
+Mã số BHXH
+:
+Mã số BHXH của người được cấp giấy chứng nhận nghỉ việc hưởng BHXH. Nếu nhập mã
+số BHXH đúng Cổng GĐBHYT sẽ cung cấp đầy đủ thông tin
+Mã thẻ, Họ tên,
+Ngày sinh, Giới tính, Đơn vị
+chuẩn theo dữ liệu do Cơ quan BHXH quản
+lý.
++
+Mã thẻ
+: Mã
+thẻ BHYT của người được cấp giấy chứng nhận nghỉ việc hưởng BHXH.
+Nếu người được cấp
+giấy chứng nhận nghỉ việc hưởng BHXH
+không nhớ mã số BHXH
+, chỉ mang theo
+thẻ BHYT, cơ sở khám chữa bệnh cũng có thể lấy mã thẻ nhập vào trường
+Mã thẻ
+.
+Nếu người được cấp
+giấy chứng nhận nghỉ việc hưởng BHXH
+không nhớ mã số BHXH, không mang thẻ
+BHYT
+, cơ sở khám chữa bệnh có thể hỗ trợ
+tra cứu mã số BHXH
+trên
+Cổng thông tin BHXH Việt Nam tại địa chỉ https://baohiemxahoi.gov.vn/tracuu/Pages/tra-cuu-ho-gia-dinh.aspx.
++
+Chuẩn đoán điều
+trị
+: Nhập chuẩn đoán và phương pháp điều trị.
++
+Từ ngày
+:
+Ngày bắt đầu được nghỉ.
++
+Đến ngày
+:
+Ngày kết thúc số ngày được nghỉ
++
+Số ngày nghỉ
+:
+Tổng số ngày được nghỉ (Cổng GĐBHYT sẽ tự động tính toán hiển thị gợi ý, người
+dùng có thể điều chỉnh lại khi có trừ ngày nghỉ lễ, nghĩ tuần,…)
++
+Họ và tên cha
+:
+Họ tên cha (Đối với trẻ e dưới 7 tuổi)
++
+Họ và tên mẹ
+:
+Họ tên mẹ (Đối với trẻ e dưới 7 tuổi)
++
+Thủ trưởng đơn
+vị
+: Nhập họ tên thủ trưởng đơn vị.
++
+Người hành nghề
+:
+Chọn nhân viên y tế trong danh mục nhân viên y tế (Lấy thông tin theo danh mục
+nhân viên y tế khai báo tại Danh mục nhân viên y tế của cơ sở, xem chi tiết cập
+nhật tại mục
+2. Cập nhật Danh mục nhân viên y tế
+)
++
+Ngày cấp chứng
+từ
+: Chọn ngày cấp chứng từ cho người bệnh.
+-
+Bước 1.2.
+Chọn
+Lưu
+để lưu lại hoặc chọn
+Lưu & In
+để lưu và in
+Cách 2: Nhập vào bằng
+file Excel:
+-
+Bước 2.1
+.
+Chọn
+Import mẫu 07
+-
+Bước 2.2.
+Màn
+hình sẽ hiện ra như sau:
+-
+Bước 2.3
+.
+Cơ sở KBCB chọn
+Chọn văn bản
+để chọn file excel mẫu 07 để import vào hệ
+thống. Trong trường hợp cơ sở KBCB chưa có file excel mẫu có thể tải ngay trong
+chức năng này (
+Tải tập tin excel mẫu tại đây
+)
+-
+Bước 2.4
+.
+Chọn
+Lưu
+.
+2. Cập nhật Danh mục
+nhân viên y tế
+- Bước 1.
+Chọn chức năng
+Danh
+mục -> Danh mục khác tại CSKCB -> Danh mục nhân viên y tế
+như hình
+sau:
+Hiển thị màn hình như
+sau:
+- Bước 2
+: Chọn biểu tượng
+, màn hình sẽ hiển thị
+như sau:
+- Chọn
+Thêm
+mới/Cập nhật nhân viên y tế
+: để nhập trực tiếp các nhân viên y tế làm việc
+tại cơ sở KBCB.
+- Chọn
+Nhập dữ
+liệu từ Excel
+: để thêm mới các nhân viên y tế làm việc tại cơ sở KBCB từ
+một file excel có sẵn, màn hình hiển thị như sau:
+Lưu ý:
+Chọn
+Tải file mẫu
+và hướng dẫn nhập nhân viên y tế tại đây
+để tải file mẫu
+.
+-
+Bước 4:
+Chọn
+để lưu thông tin đã
+nhập.
+Sau khi cập nhật danh
+mục nhân viên y tế, tại màn hình
+Danh mục nhân viên y tế
+, chọn
+để tìm kiếm nhân viên y
+tế. Màn hình sẽ hiển thị như sau:
+Trong đó:
++ Sửa Click
+để sửa trường từ ngày đến
+ngày cập nhập
++ Xóa: Click
+để xóa danh mục nhân viên
+y tế
++ Xuất excel: Click
+để xuất ra file excel
+danh mục nhân viên y tế.
+3. Cập nhật Danh mục
+khoa phòng
+- Bước 1
+: Vào menu chọn
+Danh
+mục -> Danh mục tại CSKCB -> Danh mục khác tại CSKCB -> Danh mục khoa
+phòng
+Màn hình hiển thị như
+sau:
+- Bước 2
+: Chọn biểu tượng
+, màn hình sẽ hiển thị
+như sau:
+Trong đó:
++ Tích chọn
+Mã BYT
+để hiển thị mã bảo hiểm y tế, mã khoa và tên khoa.
++
+Từ ngày
+: Mặc
+định ngày hiện tại
++
+Đến ngày
+:
+Mặc định là 31/12/2050
+- Bước 3:
+Chọn
+để lưu thông tin đã nhập.
+Sau khi cập nhật danh
+mục khoa, tại màn hình
+Danh mục khoa
+, chọn để tìm kiếm nhân viên y tế.
+Màn hình sẽ hiển thị như sau:
+Trong đó:
++ Sửa Click
+để sửa trường từ ngày đến
+ngày cập nhập (chỉ cho phép sửa tên khoa và đến ngày)
++ Xóa: Click
+để xóa khoa.
++ Xuất excel: Click
+để xuất ra file excel
+danh mục khoa.
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

@@ -1,0 +1,109 @@
+BẢO
+  HIỂM XÃ HỘI VIỆT NAM
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+2723
+/BHXH-CSYT
+V/v hướng dẫn gửi dữ liệu điện tử đến
+  Hệ thống thông tin giám định BHYT
+Hà
+  Nội, ngày
+21
+tháng
+7
+năm
+2016
+Kính
+  gửi:
+- Bảo hiểm xã hội các tỉnh, thành
+  phố trực thuộc Trung ương;
+- Trung tâm giám định BHYT và thanh toán đa tuyến khu vực phía
+  Bắc;
+- Trung tâm giám định BHYT và thanh toán đa tuyến khu vực phía
+  Nam;
+- Bảo hiểm xã hội Bộ Quốc phòng;
+- Bảo hiểm xã hội Công an nhân dân.
+(sau đây gọi chung là BHXH các tỉnh)
+Ngày 20/6/2016, Tổng Giám đốc Bảo hiểm
+xã hội Việt Nam đã có Quyết định số 917/QĐ-BHXH ban hành Cổng tiếp nhận dữ liệu
+Hệ thống thông tin Giám định Bảo hiểm y tế phiên bản 2.0 (sau đây gọi là Cổng tiếp
+nhận) đồng thời chính thức tiếp nhận hồ sơ thanh toán chi phí khám, chữa bệnh bảo
+hiểm y tế điện tử từ các cơ sở khám, chữa bệnh bảo hiểm y tế đến Hệ thống thông
+tin giám định bảo hiểm y tế (BHYT) từ ngày 25/6/2016, Bảo hiểm xã hội Việt Nam
+hướng dẫn việc gửi dữ liệu điện tử từ cơ sở khám chữa bệnh BHYT lên Cổng tiếp
+nhận như sau:
+1. Dữ liệu danh mục thuốc, dịch vụ kỹ
+thuật, vật tư y tế, danh mục nhân viên y tế, khoa phòng, và các tài liệu phục vụ
+giám định.
+Bước 1: Cơ sở khám chữa bệnh nhập
+(import) danh mục lần đầu và các phát sinh mới hoặc điều chỉnh, bổ sung trên Cổng
+tiếp nhận hoặc qua phần mềm VAS (file mẫu Excel tải trên Cổng tiếp nhận);
+Bước 2: Truy cập Cổng tiếp nhận, kiểm
+tra thông tin, gửi giám định danh mục đã gán mã dùng chung theo quy định của Bộ
+Y tế. Trường hợp danh mục thiếu mã dùng chung có thể sử dụng chức năng ánh xạ để
+gán mã trước khi gửi giám định. Riêng danh mục tiền khám, tiền giường áp dụng tại
+đơn vị khai báo trực tiếp trên Cổng tiếp nhận.
+Bước 3: Cơ sở khám chữa bệnh nhận kết
+quả giám định tại Cổng tiếp nhận sau khi cơ quan BHXH hoàn thành giám định các
+danh mục sử dụng tại đơn vị.
+2. Dữ liệu điện tử hồ sơ chi tiết đề
+nghị thanh toán BHYT (file XML)
+Bước 1: Cơ sở khám chữa bệnh gửi file
+XML qua phần mềm VAS hoặc webservice ngay khi người bệnh ra viện hoặc nhập trực
+tiếp trên Cổng tiếp nhận.
+Bước 2: Cuối ngày làm việc, cơ sở
+khám chữa bệnh truy cập Cổng tiếp nhận, kiểm tra, xác thực tính chính xác của dữ
+liệu, gửi dữ liệu giám định. Đơn vị có thể xóa và gửi lại các dữ liệu sai lệch
+so với thực tế khi chưa gửi giám định. Dữ liệu đã gửi giám định chỉ được điều
+chỉnh khi có sự chấp thuận từ cơ quan BHXH.
+3. Dữ liệu điện tử hồ sơ tổng hợp đề
+nghị thanh toán BHYT (file Excel mẫu 19,20, 21/BHYT, 79a, 80a/HD)
+Bước 1: cuối mỗi tháng, cơ sở khám chữa
+bệnh gửi các file trên qua phần mềm VAS hoặc import trên Cổng tiếp nhận.
+Bước 2: Nhận kết quả giám định hồ sơ
+đề nghị thanh toán chi phí khám chữa bệnh BHYT hàng tháng/quý qua Cổng tiếp nhận.
+4. Tra c
+ứ
+u thông
+tin về thẻ BHYT và lịch sử khám chữa bệnh
+4.1 Cơ sở khám chữa bệnh không nhập hồ
+sơ trực tiếp: truy cập chức năng Quản lý thông tuyến trên Cổng tiếp nhận, sử dụng
+đầu đọc, đọc mã vạch hoặc nhập thông tin trên thẻ BHYT, Hệ thống trả kết quả về
+giá trị sử dụng của thẻ đồng thời hiển thị lịch sử, chi tiết chỉ định điều trị
+của người bệnh trong vòng 6 tháng.
+4.2 Cơ sở khám chữa bệnh nhập hồ sơ
+trực tiếp trên Cổng tiếp nhận: khi nhập đủ thông tin trên thẻ BHYT, Hệ thống trả
+k
+ế
+t quả về giá trị sử dụng của thẻ đồng thời hiển thị lịch
+sử, chi tiết chỉ định điều trị của người bệnh trong vòng 6 tháng.
+Yêu cầu BHXH các tỉnh thông báo, hướng
+dẫn cơ sở khám, chữa bệnh BHYT hoàn thành việc gửi danh mục đã mã hóa theo quy
+định của Bộ Y tế trước ngày 25/7/2016; gửi dữ liệu file XML ngay khi bệnh nhân
+ra viện theo đúng chỉ đạo của Thủ tướng Chính phủ tại các văn bản số 205/TB-VPCP
+ngày 23/6/2015, số 8933/VPCP-KGVX ngày 29/10/2015. Trong quá trình thực hiện, nếu
+có khó khăn, vướng mắc, BHXH tỉnh tổng hợp, báo cáo Bảo hiểm xã hội Việt Nam
+(Trung tâm Công nghệ thông tin hoặc Ban Thực hiện chính sách BHYT) để được hướng
+dẫn giải quyết.
+Nơi nhận:
+- Như trên;
+- Văn phòng Chính phủ;
+- Bộ Y t
+ế
+;
+- Ủy ban nhân dân các t
+ỉ
+nh, thành phố;
+- Tổng Giám đốc, các Phó TGĐ;
+- Các đơn vị: CNTT, DA ĐTXD;
+- Lưu: VT, CSYT.
+TỔNG GIÁM ĐỐC
+Nguyễn Thị Minh
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

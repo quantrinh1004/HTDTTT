@@ -1,0 +1,482 @@
+ỦY BAN NHÂN DÂN
+TỈNH NAM ĐỊNH
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+15/2022/QĐ-UBND
+Nam Định
+, ngày
+23
+tháng
+6
+năm
+2022
+QUYẾT ĐỊNH
+BAN HÀNH QUY CHẾ QUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG CƠ SỞ DỮ LIỆU CÔNG CHỨNG
+ỦY BAN NHÂN DÂN TỈNH NAM ĐỊNH
+Căn cứ Luật Tổ chức chính quyền địa
+phương ngày 19 tháng 6 năm 2015;
+Căn cứ Luật C
+ô
+ng nghệ thông tin ngày 29 tháng 6 năm 2006;
+Căn cứ Luật Cồng chứng ngày 20
+tháng 6 năm 2014;
+Căn cứ Thông tư số 01/2021
+/
+TT-BTP ngày 03/02/2021 của Bộ Tư pháp quy định chi tiết một số điều và
+biện pháp thi hành Luật C
+ô
+ng chứng;
+Theo đề nghị của Giám đốc Sở Tư
+pháp tại Tờ trình số 713/TTr-STP ngày 14/6/2022
+QUYẾT ĐỊNH:
+Điều 1.
+Ban hành kèm theo Quyết định này Quy chế quản
+lý, khai thác, và sử dụng cơ sở dữ liệu công chứng tỉnh Nam Định.
+Điều 2.
+Quyết định này có hiệu
+lực kể từ ngày 15 tháng 7 năm 2022.
+Điều 3.
+Chánh Văn phòng Ủy ban nhân dân tỉnh, Giám đốc Sở
+Tư pháp, Thủ trưởng các Sở, ngành; Chủ tịch Ủy ban nhân dân các huyện, thành phố;
+Hội công chứng viên tỉnh; các tổ chức hành nghề công chứng trên địa bàn tỉnh và
+các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
+Nơi nhận:
+- Văn phòng Chính phủ;
+- Bộ Tư pháp (Cục Kiểm tra VBQPPL);
+- Thường trực Tỉnh ủy;
+- Thường trực HĐND tỉnh;
+- Đoàn đại biểu Quốc hội tỉnh;
+- Đ/c Chủ tịch UBND tỉnh;
+- Công an tỉnh;
+- Tòa án nhân dân tỉnh;
+- Viện Kiểm sát nhân dân tỉnh;
+- Như Điều 3;
+- Công báo tỉnh;
+- Cổng Thông tin điện tử của tỉnh;
+- Lưu: VP1, VP8.
+TM. ỦY BAN NHÂN
+  DÂN
+KT. CHỦ TỊCH
+PHÓ CHỦ TỊCH
+Hà Lan Anh
+QUY CHẾ
+QUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG CƠ SỞ DỮ LIỆU CÔNG CHỨNG
+(Kèm theo Quyết định số 15/2022/QĐ-UBND ngày 23 tháng 6 năm
+2022 của Ủy ban nhân dân t
+ỉ
+nh Nam Định)
+Chương I
+NHỮNG QUY ĐỊNH
+CHUNG
+Điều 1. Phạm vi
+điều chỉnh, đối tượng áp dụng
+1. Quy chế này quy định việc quản lý,
+khai thác và sử dụng cơ sở dữ liệu công chứng t
+ỉ
+nh Nam Định.
+2. Quy chế này áp dụng đối với các Tổ
+chức hành nghề công chứng, cơ quan, tổ chức, cá nhân khác có liên quan đến quản
+lý, khai thác, sử dụng cơ sở dữ liệu công chứng tại tỉnh Nam Định.
+Điều 2. Giải
+thích từ ngữ
+Trong Quy chế này, các từ ngữ dưới
+đây được hiểu như sau:
+1. Cơ sở dữ liệu công chứng (sau đây
+gọi tắt là Cơ sở dữ liệu) là hệ thống cơ sở dữ liệu điện tử bao gồm các thông
+tin về nguồn gốc tài sản, tình trạng giao dịch của tài sản và các thông tin về
+biện pháp ngăn chặn được áp dụng đối với tài sản có liên quan đến hợp đồng,
+giao dịch đã được công chứng.
+2. Thông tin ngăn chặn là
+th
+ông tin bằng văn bản của cơ quan có th
+ẩ
+m quyền
+theo quy định pháp luật không thực hiện, tạm
+dừng
+hoặc dừng
+thực
+hi
+ện công chứng hợp đồng, giao dịch liên quan đến tài
+sản, cá nhân, tổ chức. Văn bản ngăn chặn là căn cứ pháp lý để Công chứng viên
+xem xét từ chối thực hiện việc công chứng hợp đồng, giao dịch có liên quan đến
+tài sản đó. Cơ quan yêu cầu ngăn chặn chịu trách nhiệm về yêu cầu của mình.
+3. Thông tin giải tỏa ngăn chặn là
+thông tin được thể hiện bằng văn bản do chính cơ quan đã có yêu cầu ngăn chặn t
+rư
+ớc đây ban hành có nội d
+un
+g hủy bỏ việc ngăn chặn
+đó hoặc của cơ quan có thẩm quyền khác
+th
+eo quy định pháp
+luật. Văn bản giải tỏa ngăn chặn của cơ quan có thẩm quyền là căn cứ pháp lý để
+công chứng viên thực hiện việc công chứng hợp đồng, giao dịch bị ngăn chặn trước
+đó. Cơ quan yêu cầu giải tỏa chịu trách nhiệm về yêu cầu của mình.
+4. Thông tin cảnh báo là thông tin bằng
+văn bản do tổ chức, cá nhân cung cấp nhằm cảnh báo cho Công chứng viên trong việc
+thực hiện công chứng các hợp đồng, giao dịch.
+5. Tài k
+h
+oản là
+những thông số nhất định mà người có liên quan đến việc quản lý, khai thác, sử
+dụng cơ sở dữ liệu được cấp để truy cập vào Cơ sở dữ liệu bao gồm tên truy cập
+và mật khẩu
+6. Người quản trị là người quản lý
+máy chủ Cơ sở dữ liệu hoặc công chức Sở Tư pháp được phân công quản lý theo quy
+định.
+Điều 3. Nguyên
+tắc cung cấp thông tin và sử dụng Cơ sở dữ liệu
+1. Việc cung cấp thông tin cho Cơ sở
+dữ liệu phải đầy đủ, chính xác, kịp thời. Các tổ chức hành nghề công chứng phải
+cập nhật, cung cấp thông tin công chứng về hợp đồng, giao dịch mà tổ chức hành
+nghề công chứng thực hiện trên phần mềm Cơ sở dữ liệu; chịu trách nhiệm về tính
+xác thực của
+th
+ông tin; thường xuyên, kịp thời truy cập,
+khai thác, sử dụng thông tin trên Cơ sở dữ liệu.
+2. Các tổ chức hành nghề công chứng,
+cơ quan, tổ chức liên quan phối hợp, thống nhất trong việc quản lý, khai thác
+và sử dụng Cơ sở dữ liệu đảm bảo hiệu quả.
+3. Việc sử dụng
+th
+ông tin trong Cơ sở dữ liệu khi công chứng không loại trừ trách nhiệm
+theo quy định pháp luật của Công chứng viên, người yêu cầu công chứng và cá
+nhân, tổ chức có liên quan khác.
+4. Việc sử dụng Cơ sở dữ liệu phải
+đúng mục đích, không sử dụng Cơ sở dữ liệu vào những mục đích trái pháp luật.
+5. Việc sửa, thay đổi, nâng cấp Cơ sở
+dữ liệu phải được nhà quản trị cung ứng phần mềm chủ trì, phối hợp với Sở Tư
+pháp, Hội công chứng viên tỉnh và các tổ chức hành nghề công chứng thực hiện.
+Điều 4. Những
+hành vi bị nghiêm cấm
+1. Sửa đổi, xóa bỏ thông tin trong Cơ
+sở dữ liệu trái quy đ
+ị
+nh, làm biến dạng giao diện, làm sai
+lệch hệ thống quản trị, thay đổi cấu trúc dữ liệu hay bất kỳ hành vi nào khác
+tác động đến hoạt động hay thông tin có trong Cơ sở dữ liệu.
+2. Thay đổi quy trình quản lý, sử dụng
+Cơ sở dữ liệu.
+3. Tiết lộ các
+th
+ông tin về cá nhân, tổ chức, tài sản và các thông tin khác mà mình biết
+được trong quá trình quản lý, sử dụng Cơ sở dữ liệu. Trừ trường hợp pháp luật
+có quy
+định
+phải cung cấp
+th
+ông tin.
+4. Sử dụng thông tin trên Cơ sở dữ liệu
+cho mục đích trái pháp luật, mục đích khác không phục vụ cho hoạt động công chứng
+của tổ chức mình hoặc hoạt động quản lý nhà nước về công chứng.
+5. Cung cấp tài khoản truy cập cho cá
+nhân, tổ chức không phải là đối tượng được cấp tài khoản; truy cập vào Cơ sở dữ
+liệu bằng tài khoản của người khác hoặc để cho người khác sử dụng tài khoản của
+mình để truy cập vào Cơ sở dữ liệu để thực hiện các công việc không được giao.
+6. Những hành vi vi phạm pháp luật
+khác theo quy định pháp luật.
+Chương II
+QUẢN LÝ, KHAI THÁC
+VÀ SỬ DỤNG THÔNG TIN TRONG CƠ SỞ DỮ LIỆU CÔNG CHÚNG
+Điều 5. Cung cấp
+thông tin ngăn chặn, giải tỏa ngăn chặn
+1. Tòa án nhân dân các cấp cung cấp
+thông tin bằng văn bản về việc yêu cầu dừng, tạm dừng giao dịch về tài sản, chấm
+dứt việc
+dừng
+, tạm dừng giao dịch về tài sản, hủy hoặc chấm
+dứt hợp đồng, giao dịch đã được công chứng đến Sở Tư pháp để cập nhật thông tin
+vào Cơ sở dữ liệu.
+2. Viện Kiểm sát nhân dân các cấp
+cung cấp thông tin bằng văn bản liên quan đến việc kê biên tài sản, chấm dứt kê
+biên tài sản, thông tin ngăn chặn, giải tỏa thông tin ngăn chặn đến Sở Tư pháp
+để cập nhật thông tin vào Cơ sở dữ liệu.
+3. Cơ quan thi hành án dân sự các cấp
+và các cơ quan tổ chức có thẩm quyền cung cấp thông tin bằng văn bản có liên
+quan đến việc kê biên tài sản, chấm dứt kê biên tài sản, quyết định thi hành
+án, tạm d
+ừn
+g việc chuyển quyền sở hữu tài sản, chấm dứt, tạm
+d
+ừn
+g việc chuyển quyền sở hữu tài sản đến Sở Tư pháp để cập
+nhật thông tin vào Cơ sở dữ liệu.
+4. Sở Tài nguyên và Môi trường chỉ đạo
+Văn phòng Đăng ký đất đai và các đơn vị có liên quan cung cấp thông tin bằng
+văn bản về các trường hợp thu hồi, hủy giấy chứng nhận quyền sử dụng đất, quyền
+sở hữu nhà ở và tài sản khác gắn liền với đất, mất giấy chứng nhận quyền sử dụng
+đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất, mất phôi giấy chứng
+nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất và
+các trường hợp cần ngăn chặn khác đến Sở Tư pháp để cập nhật thông tin vào Cơ sở
+dữ liệu.
+5. Cơ quan công an cung cấp thông tin
+bằng văn bản về các trường hợp ngăn chặn giao dịch
+li
+ên
+quan đến đến giả mạo người, giả mạo giấy tờ để giao dịch, lừa đảo nhằm chiếm đoạt
+tài sản.
+6. Ủy ban nhân dân các huyện, thành
+phố (sau đây gọi là Ủy ban nhân dân cấp huyện) kịp thời thông tin bằng văn bản
+về các trường hợp thu hồi, hủy giấy chứng nhận quyền sử dụng đất, quyền sở hữu
+nhà ở và tài sản khác gắn liền với đất, hủy trang bổ sung giấy chứng nhận quyền
+sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất; mất giấy chứng
+nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất; mất
+phôi giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn
+liền với đất và các trường hợp cần ngăn chặn khác đến Sở Tư pháp để cập nhật
+thông tin vào Cơ sở dữ liệu.
+7. Các Tổ chức hành nghề công chứng
+và cá nhân, tổ chức có liên quan cung cấp thông tin bằng văn bản về các trường
+hợp giả mạo người, giả mạo giấy tờ để thực hiện giao dịch về tài sản, lừa đảo
+tài sản, hủy, chấm dứt, đơn phương chấm dứt ủy quyền liên quan đến tài sản, bỏ
+sót thừa kế hoặc các thông tin khác có liên quan trong hoạt động công chứng đến
+Sở Tư pháp để cập nhật thông tin vào Cơ sở dữ liệu. Khi nhận được thông tin
+ngăn chặn, thông tin giải tỏa ngăn chặn từ các tổ chức, cá nhân có thẩm quyền
+cung cấp thông tin nhưng khi tra cứu nhận thấy các thông tin này chưa được cập
+nhật lên Cơ sở dữ liệu phải chủ động thông báo ngay cho Sở Tư pháp để đối chiếu,
+cập nhật kịp thời.
+8. Trong
+th
+ời hạn
+02 ngày làm việc, kể từ ngày ban hành văn bản có nội d
+un
+g
+liên quan đến việc ngăn chặn, giải toả ngăn chặn, các cơ quan tổ chức có liên
+quan cung cấp
+th
+ông tin cho Sở Tư pháp để cập nhật vào Cơ
+sở dữ liệu.
+Điều 6. Tiếp nhận,
+cập nhật, giải tỏa thông tin ngăn chặn trong Cơ sở dữ liệu
+1. Sở Tư pháp là cơ quan tiếp nhận
+các văn bản ngăn chặn, giải tỏa ngăn chặn,
+th
+ông tin cảnh
+báo do các cơ quan, tổ chức, cá nhân có th
+ẩ
+m quyền cung cấp.
+2. Sau khi tiếp nhận thông tin ngăn
+chặn, thông tin giải tỏa ngăn chặn, thông tin cảnh báo, trong thời hạn 01 ngày
+làm việc Sở Tư pháp có trách nhiệm cập nhật đầy đủ, chính xác các thông tin vào
+Cơ sở dữ liệu:
+a) Đối với thông tin ngăn chặn đã có
+dữ liệu trên Cơ sở dữ liệu, công chức Sở Tư pháp được giao nhiệm vụ cập nhật phải
+kiểm tra thông tin: Nếu thông tin đã có phù hợp với thông tin ngăn chặn mới nhận
+được thì không nhập lại dữ liệu; nếu thông tin đã có không phù hợp với thông
+tin ngăn chặn mới nhận được thì phải nhập dữ liệu vào thông tin ngăn chặn.
+b) Đối với thông tin giải tỏa ngăn chặn
+đã có dữ liệu trên Cơ sở dữ liệu, công chức Sở Tư pháp được giao nhiệm vụ cập
+nhật phải kiểm tra thông tin: Nếu thông tin giải tỏa ngăn chặn phù hợp với
+thông tin ngăn chặn đã có thì thực hiện việc giải tỏa ngăn chặn; nếu thông tin
+giải tỏa ngăn chặn không phù hợp với thông tin ngăn chặn đã có thì phải báo cáo
+lãnh đạo Sở Tư pháp biết để chuyển trả lại thông tin giải tỏa ngăn chặn đó cho
+cơ quan, tổ chức đã cung cấp thông tin và nêu rõ lý do trả lại.
+3. Khi phát hiện thấy những điểm
+không hợp lý về thông tin ngăn chặn, thông tin giải tỏa ngăn chặn thì công chức
+được giao nhiệm vụ tiếp nhận, cập nhật thông tin phải báo cáo ngay với lãnh đạo
+Sở Tư pháp để kịp thời xử lý, giải quyết.
+Điều 7. Cập nhật
+thông tin hợp đồng, giao dịch đã công chứng vào Cơ sở dữ liệu
+1. Các Tổ chức hành nghề công chứng
+có trách nhiệm cập nhật kịp thời thông tin về hợp đồng, giao dịch đã được công
+chứng tại tổ chức mình vào Cơ sở dữ liệu sau khi hợp đồng, giao dịch được công
+chứng viên chứng nhận ký tên, đóng dấu.
+2. Nội dung thông tin cơ bản của hợp
+đồng, giao dịch phải được cập nhật đầy đủ như thông tin về nhân thân, về tổ chức,
+về tài sản đem giao dịch, về tên loại hợp đồng, số công chứng, ngày công chứng
+và các thông tin khác có liên quan.
+3. T
+rư
+ờng hợp cập
+nhật không đầy đủ, không kịp thời, không chính xác dẫn đến phát sinh hậu quả
+pháp lý thì tổ chức hành nghề công chứng, công chứng viên phải chịu trách nhiệm
+theo quy định pháp luật.
+Điều 8. Trách nhiệm
+tra cứu thông tin trong Cơ sở dữ liệu
+1. Khi thực hiện công chứng hợp đồng,
+giao dịch thì các Tổ chức hành nghề công chứng phải có trách nhiệm trực tiếp
+tra cứu trên Cơ sở dữ liệu để kiểm tra thông tin về nguồn gốc tài sản, tình trạng
+giao dịch của tài sản, thông tin ngăn chặn liên quan đến tài sản.
+2. Tr
+ư
+ờng h
+ợ
+p sau khi tra cứu tài sản đó có trong danh sách ngăn chặn thì không thực
+hiện việc công chứng.
+3. Tr
+ư
+ờng h
+ợ
+p phát hiện giao dịch đang thực hiện tại nhiều nơi, thông tin về tài sản,
+chủ sở hữu hay ng
+ư
+ời tham gia giao dịch không phù hợp hay
+thông tin khác không rõ ràng, Công chứng viên có quyền từ chối công chứng.
+4. Nếu phát hiện có dấu hiệu vi phạm
+pháp luật thì tổ chức hành nghề công chứng, công chứng viên
+th
+ông báo ngay với các cơ quan có thẩm quyền để xử lý kịp
+thờ
+i theo quy định pháp luật.
+Điều 9. Sửa đổi,
+bổ sung, hủy bỏ, chấm dứt hợp đồng, giao dịch đã được công chứng
+Việc sửa đổi, bổ sung, hủy bỏ, chấm dứt,
+sửa lỗi kỹ thuật đối với hợp đồng, giao dịch đã đ
+ư
+ợc công
+chứng phải đ
+ư
+ợc cập nhật, chia sẻ kịp thời và đầy đủ trong
+Cơ sở dữ liệu.
+Điều 10. Tài khoản
+quản lý, sử dụng Cơ sở dữ liệu
+1. Tổ chức, cá nhân đ
+ư
+ợc cấp tài khoản truy cập vào Cơ sở dữ liệu gồm: Sở T
+ư
+pháp và các tổ chức hành nghề công chứng trên địa bàn tỉnh.
+2. Tổ chức, cá nhân được cấp tài khoản
+có trách nhiệm phân công cho nhân viên thuộc tổ chức mình thực hiện việc cập nhật,
+tra cứu, khai thác, sử dụng dữ liệu Cơ sở dữ liệu.
+3. Cá nhân, tổ chức đ
+ư
+ợc cấp tài khoản quản lý, sử dụng Cơ sở dữ liệu có trách nhiệm quản lý,
+bảo mật tài khoản đ
+ư
+ợc cấp và chịu trách nhiệm về tài khoản
+được cấp.
+4. Khóa tài khoản
+Tài khoản của cá nhân, tổ chức quản
+lý, khai thác, sử dụng Cơ sở dữ liệu bị khóa trong các tr
+ư
+ờng
+h
+ợ
+p sau đây:
+a) Công chứng viên bị miễn nhiệm,
+đình chỉ hành nghề công chứng, xóa đăng ký hành nghề, thu hồi Thẻ công chứng
+viên;
+b) Tổ chức hành nghề công chứng chấm
+dứt hoạt động, giải thể, chuyển đổi, sáp nhập, hợp nhất;
+c) Cá nhân không còn làm trong lĩnh vực
+công chứng;
+d) Cá nhân, tổ chức quản lý, sử dụng
+cơ sở dữ liệu sửa đổi Cơ sở dữ liệu làm biến dạng giao diện, làm sai lệch hệ thống
+quản trị, thay đổi cấu trúc dữ liệu hay bất kỳ hành vi nào khác tác động đến hoạt
+động của Cơ sở dữ liệu hay thông tin có trong Cơ sở dữ liệu;
+đ) Cá nhân, tổ chức quản lý, sử dụng
+Cơ sở dữ liệu thực hiện các hành vi vi phạm pháp luật về quyền sở hữu trí tuệ đối
+với Cơ sở dữ liệu, cung cấp thông tin không đúng quy định;
+e) Cá nhân, tổ chức quản lý, sử dụng
+Cơ sở dữ liệu và thông tin có trong Cơ sở dữ liệu vào mục đích trái pháp luật.
+Điều 11. Quyền
+và nghĩa vụ Công chứng viên, Tổ chức hành nghề công chứng
+1. Quyền của Công chứng viên, Tổ chức
+hành nghề công chứng
+a) Được khai thác, sử dụng Cơ sở dữ
+liệu theo quy định pháp luật.
+b) Tham gia đào tạo bồi dưỡng sử dụng,
+khai thác Cơ sở dữ liệu do cơ quan tổ chức có th
+ẩ
+m quyền tổ
+chức.
+2. Nghĩa vụ của Công chứng viên, tổ
+chức hành nghề công chứng
+a) Cập nhật đầy đủ, kịp thời thông
+tin về hợp đồng, giao dịch mà mình giải quyết vào Cơ sở dữ liệu kể từ khi ký và
+đóng dấu văn bản công chứng.
+b) Kịp thời thông tin cho Sở Tư pháp
+các vấn đề phát sinh trong khi sử dụng cơ sở dữ liệu công chứng, phối hợp với Sở
+Tư pháp để khắc phục các vấn đề liên quan đến Cơ sở dữ liệu.
+c) C
+un
+g cấp kịp
+thời thông tin về nguồn gốc tài sản, tình trạng giao dịch của tài sản và các
+thông tin khác về biện pháp ngăn chặn được áp dụng đối với tài sản có
+li
+ên quan đến hợp đồng, giao dịch do công chứng viên của tổ chức mình thực
+hiện công chứng để cập nhật vào Cơ sở dữ liệu theo quy định của Luật Công chứng.
+d) Chịu trách nhiệm bảo quản, bảo mật
+đối với mật khẩu và tên truy cập Cơ sở dữ liệu đã được cung cấp; thông báo ngay
+cho Sở Tư pháp nếu để lộ, mất mật khẩu, tên tài khoản.
+đ) Thực hiện việc lưu trữ và bảo quản
+hồ sơ, tài liệu theo đúng quy định pháp luật.
+e) Đảm bảo cơ sở vật chất, đường truyền
+để khai thác sử dụng Cơ sở dữ liệu.
+3. Các quyền và nghĩa vụ khác theo
+quy định của pháp luật.
+Điều 12. Chi phí
+liên quan đến khai thác và sử dụng Cơ sở dữ liệu
+1. Tổ chức hành nghề công chứng phải
+trả các chi phí liên quan đến việc khai thác, duy trì và sử dụng cơ sở dữ liệu
+với đơn vị cung cấp Cơ sở dữ liệu.
+2. Việc thu, trả chi phí liên quan đến
+việc khai thác, sử dụng cơ sở dữ liệu được thực hiện trên cơ sở hợp đồng giữa
+đơn vị cung cấp Cơ sở dữ liệu và Hội công chứng viên, các tổ chức hành nghề
+công chứng theo quy đ
+ị
+nh.
+Chương III
+TỔ CHỨC THỰC HIỆN
+Điều 13. Trách
+nhiệm của Sở Tư pháp
+1. Tham mưu giúp Ủy ban nhân dân tỉnh
+triển khai và quản lý Cơ sở dữ liệu.
+2. Quản trị Cơ sở dữ liệu công chứng
+tỉnh Nam Định.
+3. Cập nhật kịp thời các thông tin
+ngăn chặn, giải tỏa ngăn chặn, thông tin cảnh báo do các cơ quan, tổ chức, cá
+nhân cung cấp.
+4. Phối hợp với đơn vị cung cấp Cơ sở
+dữ liệu nâng cấp phần mềm cơ sở dữ liệu công chứng để đáp ứng nhu cầu hoạt động
+công chứng và công tác quản lý nhà nước đối với hoạt động công chứng.
+5. Phối hợp tổ chức bồi dưỡng, tập huấn
+việc cập nhật, khai thác và sử dụng Cơ sở dữ liệu.
+Điều 14. Trách
+nhiệm của các sở, ngành
+1. Sở Tài chính phối hợp Sở Tư pháp
+và các đơn vị có liên quan tham mưu, đề xuất Ủy ban nhân dân tỉnh bố trí kinh
+phí nâng cấp Cơ sở dữ liệu.
+2. Các cơ quan trong hệ thống Tòa án,
+Viện Kiểm sát, Công an, Thi hành án dân sự, Sở Tài nguyên và Môi trường, Ủy ban
+nhân dân cấp huyện và các cơ quan, đơn vị khác có liên quan trong phạm vi nhiệm
+vụ, quyền hạn của mình thực hiện hoặc chỉ đạo đơn vị trực thuộc trong thời hạn
+02 ngày làm việc, thông báo đến Sở Tư pháp các thông tin ngăn chặn, giải tỏa
+ngăn chặn.
+3. Sở Thông tin và Truyền thông phối
+hợp với Sở Tư pháp trong việc quản lý hạ tầng kỹ thuật phục vụ vận hành, kết nối,
+chia sẻ Cơ sở dữ liệu.
+Điều 15. Trách
+nhiệm Hội công chứng viên tỉnh
+Hội Công chứng viên tỉnh giám sát
+công chứng viên là thành viên của Hội thực hiện nghiêm túc quy định pháp luật về
+cập nhật, tra cứu, chia sẻ thông tin trên Cơ sở dữ liệu.
+Điều 16. Trách
+nhiệm đơn vị cung cấp phần mềm cơ sở dữ liệu
+1. Thường xuyên nâng cấp hệ thống Cơ
+sở dữ liệu để đáp ứng yêu cầu quản lý, khai thác sử dụng Cơ sở dữ liệu.
+2. Hướng dẫn, kịp thời khắc phục các
+sự cố phát sinh trong Cơ sở dữ liệu.
+3. Chịu trách nhiệm duy trì, bảo mật
+thông tin liên quan trong Cơ sở dữ liệu.
+4. Thực hiện việc sao lưu, lưu trữ
+thông tin đầy đủ kịp thời.
+5. Phối hợp với Sở Tư pháp, Hội công
+chứng viên tỉnh đào tạo, bồi dưỡng quản lý khai thác và sử dụng Cơ sở dữ liệu.
+Điều 17. Xử lý
+vi phạm
+Tổ chức hành nghề công chứng không cập
+nhật thông tin vào Cơ sở dữ liệu sẽ bị xử lý theo quy định pháp luật.
+Điều 18. Tổ chức
+thực hiện
+Sở Tư pháp có trách nhiệm theo dõi,
+đôn đốc việc thực hiện Quy chế này. Trong quá trình thực hiện, nếu có khó khăn,
+vướng mắc, các cơ quan, tổ chức, cá nhân kịp thời báo cáo Ủy ban nhân dân tỉnh
+(qua Sở Tư pháp) để xem xét, sửa đổi, bổ sung cho phù hợp./.
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

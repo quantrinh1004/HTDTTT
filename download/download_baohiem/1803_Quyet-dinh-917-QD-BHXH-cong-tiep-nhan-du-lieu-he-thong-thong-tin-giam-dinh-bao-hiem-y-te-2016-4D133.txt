@@ -1,0 +1,4357 @@
+BẢO
+  HIỂM XÃ HỘI VIỆT NAM
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+S
+ố
+:
+917
+/QĐ-BHXH
+Hà
+  Nội, ngày 20 tháng
+6
+năm 2016
+QUYẾT ĐỊNH
+BAN HÀNH CỔNG TIẾP NHẬN DỮ LIỆU HỆ THỐNG THÔNG TIN GIÁM ĐỊNH
+BẢO HIỂM Y TẾ PHIÊN BẢN 2.0
+TỔNG GIÁM ĐỐC
+BẢO HIỂM XÃ HỘI VIỆT NAM
+Căn cứ Luật Giao dịch
+điện tử ngày 29 tháng 11 năm 2005;
+Căn cứ Nghị định số
+01/2016/NĐ-CP ngày 05/01/2016 của Chính phủ quy định chức năng, nhiệm vụ, quyền
+hạn và cơ cấu tổ chức Bảo hiểm xã hội Việt Nam;
+Căn cứ Nghị quyết
+36a/NQ-CP ngày 14/10/2015 của Chính phủ về Chính phủ điện tử;
+Căn cứ ý kiến chỉ đạo
+của Thủ tướng Chính phủ tại Công văn số 8933/VPCP-KGVX ngày 29/10/2015 và Công
+văn số 1710/VPCP-KGVX ngày 16/03/2016 của Văn phòng Chính phủ về việc thực hiện
+tin học hóa trong khám chữa bệnh BHYT; chỉ đạo của Phó Thủ tướng Vũ Đức Đam tại
+Thông báo số 102/TB-VPCP ngày 27/03/2015, Thông báo số 205/TB-VPCP ngày
+23/06/2015 của Văn phòng Ch
+í
+nh
+phủ về việc tin học hóa trong bảo hi
+ể
+m
+y tế;
+Căn cứ ý kiến chỉ đạo
+của Thủ tướng Chính phủ tại Công văn số 1018/TTg-KGVX ngày 10/06/2016 về việc
+tăng cường phát triển, mở rộng đối tượng tham gia BHYT và tin học hóa công tác
+giám định, thanh toán chi phí khám, chữa bệnh BHYT;
+Căn cứ Quyết định số
+3582/QĐ-BHXH ngày 26/12/2006 của Tổng Giám đốc Bảo hi
+ể
+m
+xã hội Việt Nam quy định về quản lý hoạt động công
+nghệ
+thông tin trong hệ thống Bảo hi
+ể
+m
+xã hội Việt Nam;
+Xét đề nghị của Giám
+đốc Ban Quản lý dự án Đầu tư và Xây dựng ngành Bảo hiểm xã hội, Giám đốc Trung
+tâm Công nghệ thông tin,
+QUYẾT ĐỊNH:
+Điều
+1.
+Ban hành Cổng tiếp nhận dữ liệu Hệ thống
+thông tin Giám định Bảo hiểm y tế phiên bản 2.0 (có tài liệu hướng dẫn liên
+thông và đặc tả dữ liệu kèm theo).
+Điều
+2.
+Cổng tiếp nhận dữ liệu Hệ thống thông
+tin Giám định Bảo hiểm y tế phiên bản 2.0 thuộc bản quyền của Bảo hiểm xã hội
+Việt Nam, là một phần mềm trong hệ thống phần mềm ứng dụng của Bảo hiểm xã hội
+Việt Nam.
+Điều
+3.
+Trách nhiệm và hiệu lực thi hành.
+Quyết định này có hiệu
+lực kể từ ngày ký và thay thế Quyết định số 324/QĐ-BHXH ngày 02/03/20
+16
+của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc Ban hành
+C
+ổng
+tiếp nhận dữ liệu Hệ thống thông tin Giám định Bảo hiểm y tế phiên bản 1.0.
+Chánh Văn phòng Bảo hiểm xã hội Việt Nam, Trưởng ban Thực hiện chính sách Bảo
+hiểm y tế, Giám đốc Ban Quản lý dự án Đầu tư và Xây dựng ngành Bảo hiểm xã hội,
+Giám đốc Trung tâm Công nghệ thông tin và Thủ trưởng các đơn vị tr
+ự
+c
+thuộc Bảo hi
+ể
+m xã hội Việt Nam chịu trách nhiệm thi
+hành Quyết
+định này./.
+Nơi
+  nhận:
+-
+Như
+  Điều 3;
+- Thủ tướng Chính phủ (để b/c);
+- Phó Thủ tướng CP Vương Đình Huệ (để b/c);
+- Phó Thủ tướng CP Vũ Đức Đam (để b/c);
+- Văn phòng Chính phủ (để b/c);
+- Bộ Y tế (để p/h);
+- UBND các tỉnh, thành phố trực thuộc TƯ;
+- Sở Y tế các tỉnh, thành phố trực thuộc TƯ;
+- BHXH các tỉnh, thành phố trực thuộc TƯ;
+- BHXH Bộ Quốc phòng;
+- BHXH Bộ Công an;
+- Tổng Giám đốc;
+- Các Phó Tổng Giám đốc;
+- Lưu VT, CNTT, DAĐTXD (5b)
+.
+KT.
+  T
+Ổ
+NG GIÁM ĐỐC
+PHÓ T
+Ổ
+NG
+  GIÁM Đ
+Ố
+C
+Đỗ Văn Sinh
+TÀI LIỆU
+HƯỚNG DẪN LIÊN THÔNG VÀ ĐẶC TẢ DỮ LIỆU HỆ THỐNG THÔNG TIN
+GIÁM ĐỊNH BẢO HIỂM Y TẾ
+(Kèm theo Quyết định số
+/QĐ-BHXH
+ngày
+/
+/2016
+Về việc Ban hành Cổng tiếp nhận dữ liệu
+Hệ thống thông tin Giám định Bảo hiểm y tế phiên bản 2.0
+)
+Phiên
+bản tài liệu: 2.0
+Mục lục
+I. Giới thiệu
+1. Giới thiệu chung
+2. Quy định về định dạng dữ liệu
+3. Mô hình tổng thể kết nối hệ thống
+II. Các hình thức liên thông dữ liệu
+1. Kết nối Web Service thông qua cổng tiếp nhận
+1.1. Hàm lấy phiên làm việc
+1.2. Hàm gửi hồ sơ giám định
+1.3. Hàm gửi hồ sơ tổng hợp báo cáo hàng
+tháng/quý (79a, 80a; 19,
+20,
+21/BHYT)
+1.4. Hàm kiểm tra lịch sử khám chữa bệnh
+1.5. Hàm lấy lịch sử khám chữa bệnh chi tiết
+1.6. Hàm gửi hồ sơ chuyển tuyến
+1.7. Hàm nhận hồ sơ chuyển tuyến
+1.8. Hàm nhận kết quả tiếp nhận hồ sơ
+1.9. Hàm nhận chi tiết hồ sơ trong ngày
+1.10. Hàm nhận chi tiết lỗi hồ sơ
+1.11. Hàm nhận danh sách đợt giám định trong
+tháng
+1.12. Hàm nhận kết quả giám định hồ sơ
+1.13. Hàm nhận quyết toán tháng quý
+2. Nhập hồ sơ trực tiếp trên cổng liên thông
+dữ liệu
+2.1. Đăng nhập vào hệ thống
+2.2. Nhập hồ sơ XML
+2.3. Nhập hồ sơ tổng hợp
+3
+. Chương trình đồng bộ dữ liệu
+3.1. Chuẩn bị dữ liệu
+3.2. Cấu hình đồng bộ
+3.3. Đồng bộ hồ sơ đề nghị thanh toán
+III. Chuẩn dữ liệu
+1. Quy ước biểu diễn dữ liệu và đặt namespace
+2. Hồ sơ khám chữa bệnh
+3. Hồ sơ báo cáo tổng hợp 79a, 80a
+4. Hồ sơ báo cáo tổng hợp mẫu 19/BHYT,
+20/BHYT, 21/BHYT
+4.1. Thống kê vật tư y tế thanh toán BHYT (Mẫu
+19)
+4.2. Thống kê thuốc thanh toán BHYT
+4.3. Thống kê dịch vụ kỹ thuật thanh toán
+BHYT
+5. Giấy chuyển tuyến
+5.1. Mô tả các thẻ tổng hợp chính
+5.2. Thông tin người bệnh
+5.3. Thông tin thẻ bảo hiểm y tế
+5.4. Tóm tắt lịch sử khám chữa bệnh
+5.5. Tóm tắt bệnh án
+5.6. File đính kèm
+6. Hồ sơ danh mục
+6.1. File hồ sơ danh mục DVKT CSKCB gửi
+6.2. File hồ sơ danh mục Thuốc CSKCB gửi
+6.3. File hồ sơ danh mục VTYT CSKCB gửi
+IV. Mô tả định dạng các file XML theo quy định
+tại công văn 9324/BYT-BH, được mã hóa thành nội dung file kèm theo file XML tại
+mục III.2
+1
+. File hồ sơ tổng hợp thông tin bệnh nhân
+(XML1)
+2. File hồ sơ chi tiết Thuốc (XML2)
+3. File hồ sơ chi tiết DVKT (XML3)
+4. File hồ sơ cận lâm sàng (XML4)
+5. File hồ sơ chi tiết diễn biến (XML5)
+Phụ lục 1: Danh mục lỗi
+Phụ lục 2: Code mẫu cho Webservice
+1. Ví dụ lấy
+phiên làm việc
+2. Ví dụ gửi hồ sơ giám định
+3. Ví dụ gửi hồ sơ tổng hợp báo cáo tháng
+Phụ lục 4: Mô tả đối
+tượng trả về của Web Service
+DANH
+MỤC TỪ VIẾT TẮT
+Thuật ngữ
+Ý nghĩa
+Ghi chú
+GW
+Gateway: Cổng tiếp
+  nhận hồ sơ
+BHXH
+Bảo hiểm xã hội
+CSKCB
+Cơ sở khám chữa bệnh
+GD
+Giám định
+HS
+Hồ sơ
+TP
+Thành phố
+HTTP
+The Hypertext
+  Transfer Protocol
+XML
+Extensible Markup
+  Language
+VTYT
+Vật tư y tế
+DVKT
+Dịch vụ kỹ thuật
+KCB
+Khám chữa bệnh
+BHYT
+Bảo hiểm y tế
+I. Giới thiệu
+1. Giới thiệu
+chung
+Tài liệu hướng dẫn liên
+thông và đặc tả dữ liệu Hệ thống thông tin Giám định Bảo hiểm y tế (sau đây gọi
+tắt là Tài liệu hướng dẫn) là tài liệu mô tả chuẩn liên thông dữ liệu từ cơ sở
+khám chữa bệnh và cơ quan BHXH cấp tỉnh đến Hệ thống thông tin Giám định
+Bảo
+hiểm y tế của Bảo hiểm xã hội Việt Nam
+;
+hướng
+dẫn cơ sở khám chữa bệnh và cơ quan BHXH cấp tỉnh cách thức liên thông dữ liệu
+đã được chuẩn hóa tới Hệ thống thông tin Giám định của Bảo hiểm xã hội Việt
+Nam.
+2. Quy định
+về định dạng dữ liệu
+-
+Quy
+định về số thập phân:
+o Dùng dấu chấm “.” để
+phân cách hàng đơn vị và phần thập phân. Ví dụ
+:
+12345
+.
+67
+o Làm tròn theo quy tắc
+làm tròn số toán học.
+3.
+Mô hình tổng thể kết nối hệ thống
+Hệ thống thông tin
+Giám định Bảo hiểm y tế bao gồm:
+- Hệ thống Tiếp nhận
+yêu cầu thanh toán BHYT
+- Hệ thống Giám định
+BHYT
+- Hệ thống Danh mục
+dùng chung
+II. Các hình thức liên thông dữ liệu
+Hệ thống thông tin
+Giám định BHYT hiện tại cung cấp 3 hình thức tiếp nhận hồ sơ:
+o Kết nối Web Service
+thông qua cổng tiếp nhận: Hình thức này hỗ trợ gửi hồ sơ khám chữa bệnh, hồ sơ
+giám định danh mục, gửi báo cáo tháng, kiểm tra thông tin thẻ, kiểm tra lịch sử
+khám chữa bệnh, tiếp nhận giấy chuyển tuyến từ CSKCB khác.
+o Đồng bộ dữ liệu từ
+phần mềm client: Hình thức này hỗ trợ đồng bộ hồ sơ khám chữa bệnh lên hệ thống.
+o Nhập hồ sơ trực tiếp
+trên cổng tiếp nhận: Hình thức này cho phép hỗ trợ nhập thông tin hồ sơ khám chữa
+bệnh.
+Ngoài ra, hệ thống
+liên thông dữ liệu còn cung cấp công cụ
+kiểm
+tra thông tin thẻ BHYT và tra cứu lịch sử KCB (phục vụ quản lý thông tuyến
+KCB), kiểm tra giấy chuyển tuyến giữa các CSKCB.
+1.
+Kết nối Web Service thông qua cổng tiếp nhận
+Hệ thống sử dụng chuẩn
+kết nối là Web Service định dạng JSON.
+1.1. Hàm lấy phiên
+làm việc
+1.1.1. Mô tả
+Request URL
+HMAC
+http://egw.baohiemxahoi.gov.vn/api/token/take
+Request Method
+POST
+Request Header
+Content-Type:
+  application/json
+Form data
+Đối tượng
+  “ApiToken”bao gồm
+{
+“username”: {
+  username },
+“password”:
+  {password }
+}
+Cơ sở khám chữa bệnh
+thực hiện gửi yêu cầu cấp phiên làm việc lên hệ thống tiếp nhận hồ sơ. Hệ thống
+sẽ trả về Token tương ứng với phiên làm việc.
+1.1.2. Thông điệp yêu cầu
+Dữ liệu đầu vào
+Tên Field
+Kiểu dữ liệu
+Ghi chú
+Tên đăng nhập
+username
+Chuỗi ký tự
+Tên đăng nhập vào hệ
+  thống, do BHXH VN cung cấp, trường bắt buộc
+Mật khẩu
+password
+Chuỗi ký tự
+Mật khẩu đã chuyển
+  qua MD5 đăng nhập vào hệ thống, do BHXH VN cung cấp, trường bắt buộc
+1.1.3. Thông điệp trả lời
+Cấu trúc:
+- Header status:
+- Header
+Content-Type:application/json;
+charset=UTF-8
+- Json data
+Trong đó:
+- Có hai khả năng đối
+với thông điệp trả lời: Trường hợp có lỗi trong quá trình xử lý hoặc trường hợp
+xử lý thành công.
+- Trường hợp lỗi: Xem
+danh mục lỗi sẽ được gửi trả lại.
+Trường
+Kết quả
+Header status:401
+Unauthorized: Lỗi
+  xác thực
+-
+Trường hợp thành công
+:Hệ thống trả
+về:
+Trường
+Kết quả
+Header status
+200
+Header Content-Type
+application/json;charset=UTF-8
+Json data
+Trả về là một
+  object bao gồm các thuộc tính sau:
++ maKetQua: Trả về
+  mã kết quả giao dịch (Thành công, lỗi)
++ APIKey: object
+  bao gồm (= null nếu không thành công)
+{
+-access_token:
+  Token được sử dụng cho bước 2
+-id_token: Mã
+  client ID để sử dụng cho bước 2
+- expires_in: Thời
+  gian hết hạn của của token (giờ GMT), sau thời gian này thì token củalần đăng
+  nhập sẽ không được xác thực. Cần phải đăng nhập lại để lấy token mới
+- token_type: bear
+}
+(Tham khảo mục
+  1.4.3.2)
+1.2. Hàm gửi hồ sơ
+giám định
+1.2.1. Mô tả
+Request URL
+HMAC
+http://egw.baohiemxahoi.gov.vn/api/egw/guiHoSoGiamDinh
+Request Method
+POST
+Request Header
+Content-Type:
+  application/json
+Query Parameters
+token={token}&id_token={id_token}&username={username}&password={password}&loaiHoSo={loaiHoSo}&maTinh={maTinh}&maCSKCB={maCSKCB}
+(Tham khảo mục
+  1.2.2)
+Form data
+“fileHS” : {fileHS}
+(Tham khảo mục
+  1.2.2)
+Cơ sở khám chữa bệnh
+thực hiện gửi hồ sơ giám định và nhận thông báo xác nhận kết quả nhận hồ sơ
+giám định của cơ quan Bảo hiểm qua hệ thống.
+1.2.2. Thông điệp yêu cầu
+Dữ liệu đầu vào
+Tên Field
+Kiểu dữ liệu
+Ghi chú
+Dữ liệu hồ sơ
+fileHS
+Bytes
+Dạng bytes của File
+  XML, Trường bắt buộc
+Loại hồ sơ
+loaiHoSo
+Int
+Loại hồ sơ:3: KCB
+Mã Tỉnh
+maTinh
+Chuỗi ký tự
+Quy định 5084
+Mã CSKCB
+maCSKCB
+Chuỗi ký tự
+Quy định 5084
+Tên đăng nhập
+username
+Chuỗi ký tự
+(an 5)
+Tài khoản đăng nhập
+Mật khẩu
+password
+Chuỗi ký tự
+(an 6..10)
+Mật khẩu đăng nhập
+Token
+token
+Chuỗi ký tự
+Token được trả về từ
+  trước
+TokenID
+id_token
+Chuỗi ký tự
+Token ID được trả về
+  ở hàm trước
+1.2.3. Thông điệp trả lời
+Cấu trúc:
+- Header status:
+- Header
+Content-Type:application/json;charset=UTF-8
+- Json data
+Trong đó
+-
+Có hai khả
+năng đối với thông điệp trả lời: Trường hợp có lỗi trong quá trình xử lý hoặc trường
+hợp xử lý thành công.
+-
+Trường hợp lỗi:
+Xem danh mục lỗi sẽ được gửi trả lại.
+Trường
+Kết quả
+Header status:400
+BadFormat
+: Dữ liệu nhập vào
+  không đúng cú pháp
+InvalidInputData
+: Dữ liệu nhập vào đúng
+  cú pháp nhưng không đúng định dạng và quy định nghiệp vụ.
+Header status:401
+Unauthorized:
+Lỗi không được xác
+  thực
+Header status:500
+An unexpected error
+  occurred
+-
+Trường hợp thành công
+:
+Hệ thống
+trả về:
+Trường
+Kết quả
+Header status
+200
+Header Content-Type
+application/json;charset=UTF-8
+Json data
+Trả về là một
+  object bao gồm các thuộc tính sau:
++ maKetQua: Trả về
+  mã kết quả giao dịch (Thành công, lỗi)
++ maGiaoDich: Mã của
+  lần giao dịch cho việc tìm kiếm thông tin sau này
+1.3. Hàm gửi hồ sơ tổng
+hợp báo cáo hàng tháng/quý (79a, 80a; 19,20,21/BHYT)
+1.
+3
+.1. Mô tả
+Request URL
+HMAC
+http://egw.baohiemxahoi.gov.vn/api/egw/guiHoSoTongHop
+Request Method
+POST
+Request Header
+Content-Type:
+  application/json
+Query Parameters
+token={token}&id_token={id_token}&username={username}&password={password}&loaiHoSo={loaiHoSo}&maTinh={maTinh}&maCSKCB={maCSKCB}
+(Tham khảo mục
+  1.3.2)
+Form data
+“fileHS” : {fileHS}
+(Tham khảo mục
+  1.3.2)
+Cơ sở khám chữa bệnh
+thực hiện gửi hồ sơ báo cáo thángvà nhận thông báo xác nhận kết quả nhận hồ sơ
+báo cáo của cơ quan Bảo hiểm qua hệ thống.
+1.
+3
+.2
+.
+Thông điệp yêu cầu
+Dữ liệu đầu vào
+Tên Field
+Kiểu dữ liệu
+Ghi chú
+Dữ liệu hồ sơ
+fileHS
+Bytes
+Dạng bytes của File
+  excel, Trường bắt buộc
+Loại hồ sơ
+loaiHoSo
+Chuỗi ký tự
+Loại hồ sơ: Hồ sơ
+  79a/80a: 5, Mẫu19/BHYT: 6, Mẫu 20/BHYT: 7, Mẫu 21/BHYT: 8
+Mã CSKCB
+maCSKCB
+Chuỗi ký tự
+Quy định 5084
+Tên đăng nhập
+username
+Chuỗi ký tự
+(an 5)
+Tài khoản đăng nhập
+Mật khẩu
+password
+Chuỗi ký tự
+(an 6..10)
+Mật khẩu đăng nhập
+Token
+token
+Chuỗi ký tự
+Token được trả về từ
+  trước
+TokenID
+id_token
+Chuỗi ký tự
+Token ID được trả về
+  ở hàm trước
+1.3.3. Thông điệp trả lời
+Cấu trúc:
+- Header status:
+- Header
+Content-Type:application/json;charset=UTF-8
+- Json data
+Trong đó
+- Có hai khả năng đối
+với thông điệp trả lời: Trường hợp có lỗi trong quá trình xử lý hoặc trường hợp
+xử lý thành công.
+- Trường hợp lỗi: Xem
+danh mục lỗi sẽ được gửi trả lại.
+Trường
+Kết quả
+Header status:401
+Unauthorized:
+Lỗi không được xác
+  thực
+Header status:500
+An unexpected error
+  occurred
+-
+Trường hợp thành công
+:Hệ thống trả
+về:
+Trường
+Kết quả
+Header status
+200
+Header Content-Type
+application/json;charset=UTF-8
+Json data
+Trả về là một
+  object bao gồm các thuộc tính sau:
++ maKetQua: Trả về
+  mã kết quả giao dịch (Thành công, lỗi)
++ maGiaoDich: Mã của
+  lần giao dịch cho việc tìm kiếm thông tin sau này
+1.4. Hàm kiểm tra lịch
+sử khám chữa bệnh
+1.
+4
+.1. Mô tả
+Request URL
+HMAC
+http://egw.baohiemxahoi.gov.vn/api/egw/nhanLichSuKCB
+Request Method
+POST
+Request Header
+Content-Type:
+  application/json
+Query Parameters
+token={token}&id_token={id_token}&username={username}&password={password}
+(Tham khảo mục
+  1.4.2)
+Form data
+Đối tượng “theBHYT”
+  bao gồm
+{
+“maThe”: { mã thẻ},
+“hoTen”: {họ tên},
+“ngaySinh”: {ngày
+  sinh },
+“gioiTinh”: {giới
+  tính},
+“maCSKCB”: { mã cơ
+  sở khám chữa bệnh },
+“ngayBD”: { ngày bắt
+  đầu },
+“ngayKT”: { ngày kết
+  thúc }
+}
+(Tham khảo mục 1.4.2)
+Cơ sở khám chữa bệnh
+kiểm tra tính đúng đắn của thông tin thẻ của bệnh nhân.
+1.
+4
+.2. Thông điệp yêu cầu
+Dữ liệu đầu vào
+Tên Field
+Kiểu dữ liệu
+Ghi chú
+Mã thẻ
+maThe
+Chuỗi ký tự
+Mã thẻ
+Họ tên
+hoTen
+Chuỗi ký tự
+Họ tên chủ thẻ
+Ngày sinh
+ngaySinh
+Chuỗi ký tự
+Ngày sinh
+  (DD/MM/YYYY)
+Giới tính
+gioiTinh
+Số
+1: Nam ; 2: Nữ
+Ngày bắt đầu
+ngayBD
+Chuỗi ký tự
+Ngày bắt đầu hạn thẻ
+  (DD/MM/YYYY)
+Ngày kết thúc
+ngayKT
+Chuỗi ký tự
+Ngày kết thúc hạn
+  thẻ (DD/MM/YYYY)
+Mã CSKCB
+maCSKCB
+Chuỗi ký tự
+Mã CSKCB ban đầu
+Tên đăng nhập
+username
+Chuỗi ký tự
+(an 5)
+Tài khoản đăng nhập
+Mật khẩu
+password
+Chuỗi ký tự
+(an 6..10)
+Mật khẩu đăng nhập
+Token
+token
+Chuỗi ký tự
+Token được trả về từ
+  trước
+TokenID
+id_token
+Chuỗi ký tự
+Token ID được trả về
+  ở hàm trước
+1.4.3. Thông điệp trả lời
+Cấu trúc:
+- Header status:
+- Header
+Content-Type:application/json;charset=UTF-8
+- Json data
+Trong đó
+- Có hai khả năng đối
+với thông điệp trả lời: Trường hợp có lỗi trong quá trình xử lý hoặc trường hợp
+xử lý thành công.
+- Trường hợp lỗi: Xem
+danh mục lỗi sẽ được gửi trả lại.
+Trường
+Kết quả
+Header status:401
+Unauthorized:
+Lỗi không được xác
+  thực
+Header status:500
+An unexpected error
+  occurred
+-
+Trường hợp thành công
+:
+Hệ thống
+trả về:
+Trường
+Kết quả
+Header status
+200
+Header Content-Type
+application/json;charset=UTF-8
+Json data
+Trả về là một
+  object bao gồm các thuộc tính sau:
++ maKetQua: Trả về
+  mã kết quả giao dịch (Thành công, lỗi)
++ dsLichSuKCB: Danh
+  sách object, mỗi object bao gồm (= null nếu thông tin thẻ chính xác)
+{
+-
+maHoSo: mã hồ sơ, để
+  tra cứu thông tin chi tiết
+-
+maCSKCB: mã cơ sở
+  khám chữa bệnh,
+-
+tuNgay: từ ngày,
+-
+denNgay: đến ngày,
+-
+tenBenh: tên bệnh,
+-
+tinhTrang: tình trạng
+  ra viện,
+-
+kqDieuTri: kết quả
+  điều trị
+}
+(Tham khảo mục
+  1.4.3.2)
+1.4.3.1. Mô tả kết quả trả về:
+Mã kết quả
+Mô tả
+00
+Thông tin thẻ chính
+  xác
+01
+Thẻ hết giá trị sử
+  dụng
+02
+KCB khi chưa đến hạn
+03
+Hết hạn thẻ khi
+  chưa ra viện
+04
+Thẻ có giá trị khi
+  đang nằm viện
+05
+Mã thẻ không có
+  trong dữ liệu thẻ
+06
+Thẻ sai họ tên
+07
+Thẻ sai ngày sinh
+08
+Thẻ sai giới tính
+09
+Thẻ sai nơi đăng ký
+  KCB ban đầu
+1.5. Hàm lấy lịch sử
+khám chữa bệnh chi tiết
+1.
+5
+.1. Mô tả
+Request URL
+HMAC
+http://egw.baohiemxahoi.gov.vn/api/egw/nhanHoSoKCBChiTiet
+Request Method
+POST
+Request Header
+Content-Type:
+  application/json
+Query Parameters
+token={token}&id_token={id_token}&username={username}&password={password}&maHoSo={maHoSo}
+(Tham khảo mục
+  1.5.2)
+Form data
+1.
+5
+.2. Thông điệp yêu cầu
+Dữ liệu đầu vào
+Tên Field
+Kiểu dữ liệu
+Ghi chú
+Mã hồ sơ
+maHoSo
+Chuỗi ký tự
+Mã hồ sơ nhận
+  từ hàm 1.4
+Tên đăng nhập
+username
+Chuỗi ký tự
+(an 5)
+Tài khoản đăng nhập
+Mật khẩu
+password
+Chuỗi ký tự
+(an 6..10)
+Mật khẩu đăng nhập
+Token
+token
+Chuỗi ký tự
+Token được trả về từ
+  trước
+TokenID
+id_token
+Chuỗi ký tự
+Token ID được trả về
+  ở hàm trước
+1.5.3. Thông điệp trả lời
+Cấu trúc:
+- Header status:
+- Header
+Content-Type:application/json;charset=UTF-8
+- Json data
+Trong đó
+- Có hai khả năng đối
+với thông điệp trả lời: Trường hợp có lỗi trong quá trình xử lý hoặc trường hợp
+xử lý thành công.
+- Trường hợp lỗi: Xem
+danh mục lỗi sẽ được gửi trả lại.
+Trường
+Kết quả
+Header status:401
+Unauthorized:
+Lỗi không được xác
+  thực
+Header status:500
+An unexpected error
+  occurred
+-
+Trường hợp thành công
+:
+Hệ thống
+trả về:
+Trường
+Kết quả
+Header status
+200
+Header Content-Type
+application/json;charset=UTF-8
+Json data
+Trả về là một
+  object bao gồm các thuộc tính sau:
++ maKetQua: Trả về
+  mã kết quả giao dịch (Thành công, lỗi)
++ hoSoKCB: object
+  bao gồm (= null nếu thông tin thẻ chính xác)
+{
+-
+xml1
+-
+dsXml2
+-
+dsXml3
+-
+dsXml4
+-
+dsXml5
+}
+(Tham khảo Phụ lục
+  4 - “Đối tượng hồ sơ khám chữa bệnh chi tiết”)
+1.6. Hàm gửi hồ sơ
+chuyển tuyến
+1.
+6
+.1. Mô tả
+Request URL
+HMAC
+http://egw.baohiemxahoi.gov.vn/api/egw/
+guiHoSoChuyenTuyen
+Request Method
+POST
+Request Header
+Content-Type:
+  application/json
+Query Parameters
+token={token}&id_token={id_token}&username={username}&password={password}&maCSKCBGui{
+  maCSKCBGui }
+(Tham khảo mục
+  1.6.2)
+Form data
+“fileHS” : {fileHS}
+(Tham khảo mục
+  1.6.2)
+1.
+6
+.2. Thông điệp yêu cầu
+Dữ liệu đầu vào
+Tên Field
+Kiểu dữ liệu
+Ghi chú
+Dữ liệu hồ sơ
+fileHS
+Bytes
+Dạng bytes của File
+  XML, Trường bắt buộc
+Mã CSKCB gửi
+maCSKCBGui
+Chuỗi ký tự
+Mã CSKCB chuyển đến
+  (Quy định 5084)
+Tên đăng nhập
+username
+Chuỗi ký tự
+(an 5)
+Tài khoản đăng nhập
+Mật khẩu
+password
+Chuỗi ký tự
+(an 6..10)
+Mật khẩu đăng nhập
+Token
+token
+Chuỗi ký tự
+Token được trả về từ
+  trước
+TokenID
+id_token
+Chuỗi ký tự
+Token ID được trả về
+  ở hàm trước
+1.6.3. Thông điệp trả lời
+Cấu trúc:
+- Header status:
+- Header
+Content-Type:application/json;charset=UTF-8
+- Json data
+Trong đó
+- Có hai khả năng đối
+với thông điệp trả lời: trường hợp có lỗi trong quá trình xử lý hoặc trường hợp
+xử lý thành công.
+- Trường hợp lỗi: Xem
+danh mục lỗi sẽ được gửi trả lại.
+Trường
+Kết quả
+Header status:401
+Unauthorized:
+Lỗi không được xác
+  thực
+Header status:500
+An unexpected error
+  occurred
+-
+Trường hợp thành công
+:
+Hệ thống
+trả về:
+Trường
+Kết quả
+Header status
+200
+Header Content-Type
+application/json;charset=UTF-8
+Json data
+Trả về là một
+  object bao gồm các thuộc tính sau:
++ maKetQua: Trả về
+  mã kết quả giao dịch (Thành công, lỗi)
++ maGiaoDich: Mã của
+  lần giao dịch cho việc tìm kiếm thông tin sau này
+1.7. Hàm nhận hồ sơ
+chuyển tuyến
+1.
+7
+.1. Mô tả
+Request URL
+HMAC
+http://egw.baohiemxahoi.gov.vn/api/egw/
+nhanHoSoChuyenTuyen
+Request Method
+POST
+Request Header
+Content-Type:
+  application/json
+Query Parameters
+token={token}&id_token={id_token}&username={username}&password={password}&maCSKCBNhan={maCSKCBNhan}&maTheBHYT={maTheBHYT}
+(Tham khảo mục
+  1.7.2)
+Form data
+1.
+7
+.2. Thông điệp yêu cầu
+Dữ liệu đầu vào
+Tên Field
+Kiểu dữ liệu
+Ghi chú
+Mã thẻ BHYT
+maTheBHYT
+Chuỗi ký tự
+Mã thẻ bảo hiểm y tế
+Mã CSKCB nhận
+maCSKCBNhan
+Chuỗi ký tự
+Mã CSKCB chuyển đến
+  (Quy định 5084)
+Tên đăng nhập
+username
+Chuỗi ký tự
+(an 5)
+Tài khoản đăng nhập
+Mật khẩu
+password
+Chuỗi ký tự
+(an 6..10)
+Mật khẩu đăng nhập
+Token
+token
+Chuỗi ký tự
+Token được trả về từ
+  trước
+TokenID
+id_token
+Chuỗi ký tự
+Token ID được trả về
+  ở hàm trước
+1.7.3. Thông điệp trả lời
+Cấu trúc:
+- Header status:
+- Header
+Content-Type:application/json;charset=UTF-8
+- Json data
+Trong đó
+- Có hai khả năng đối
+với thông điệp trả lời: trường hợp có lỗi trong quá trình xử lý hoặc trường hợp
+xử lý thành công.
+- Trường hợp lỗi: Xem
+danh mục lỗi sẽ được gửi trả lại.
+Trường
+Kết quả
+Header status:401
+Unauthorized:
+Lỗi không được xác
+  thực
+Header status:500
+An unexpected error
+  occurred
+-
+Trường hợp thành công
+:
+Hệ thống
+trả về:
+Trường
+Kết quả
+Header status
+200
+Header Content-Type
+application/json;charset=UTF-8
+Json data
+Trả về là một
+  object bao gồm các thuộc tính sau:
++ maKetQua: Trả về
+  mã kết quả giao dịch (Thành công, lỗi)
++
+  fileHoSoChuyenTuyen: Base64String của file xml
+1.8. Hàm nhận kết quả
+tiếp nhận hồ sơ
+1.
+8
+.1. Mô tả
+Request URL
+HMAC
+http://egw.baohiemxahoi.gov.vn/api/egw/
+nhanKQTiepNhanHS
+Request Method
+POST
+Request Header
+Content-Type:
+  application/json
+Query Parameters
+token={token}&id_token={id_token}&username={username}&password={password}&loaiHoSo={loaiHoSo}&maCSKCB={maCSKCB}&tuNgay={tuNgay}&denNgay={denNgay}
+Form data
+1.
+8
+.2. Thông điệp yêu cầu
+Dữ liệu đầu vào
+Tên Field
+Kiểu dữ liệu
+Ghi chú
+Từ ngày
+tuNgay
+Chuỗi ký tự
+Từ ngày
+  (DD/MM/YYYY)
+Đến ngày
+denNgay
+Chuỗi ký tự
+Đến ngày
+  (DD/MM/YYYY)
+Mã CSKCB gửi
+maCSKCB
+Chuỗi ký tự
+Mã CSKCB gửi hồ sơ
+  (Quy định 5084)
+Loại hồ sơ
+loaiHoSo
+Int
+Loại hồ sơ: 3: Hồ
+  sơ KCB, 5:Hồ sơ 79/80a, 6: Hồ sơ 19, 7: Hồ sơ 20, 8: Hồ sơ 21, 9: Hồ sơ giấy
+  chuyển tuyến
+Tên đăng nhập
+username
+Chuỗi ký tự
+(an 5)
+Tài khoản đăng nhập
+Mật khẩu
+password
+Chuỗi ký tự
+(an 6..10)
+Mật khẩu đăng nhập
+Token
+token
+Chuỗi ký tự
+Token được trả về từ
+  trước
+TokenID
+id_token
+Chuỗi ký tự
+Token ID được trả về
+  ở hàm trước
+1.8.3. Thông điệp trả lời
+Cấu trúc:
+- Header status:
+- Header
+Content-Type:application/json;charset=UTF-8
+- Json data
+Trong đó
+- Có hai khả năng đối
+với thông điệp trả lời: trường hợp có lỗi trong quá trình xử lý hoặc trường hợp
+xử lý thành công.
+- Trường hợp lỗi: Xem
+danh mục lỗi sẽ được gửi trả lại.
+Trường
+Kết quả
+Header status:401
+Unauthorized:
+Lỗi không được xác
+  thực
+Header status:500
+An unexpected error
+  occurred
+-
+Trường hợp thành công
+:
+Hệ thống
+trả về:
+Trường
+Kết quả
+Header status
+200
+Header Content-Type
+application/json;charset=UTF-8
+Json data
+Trả về là một
+  object bao gồm các thuộc tính sau:
++ maKetQua: Trả về
+  mã kết quả giao dịch (Thành công, lỗi)
++ dsKQGuiHosoNgay:
+  Danh sách object kết quả gửi hồ sơ theo ngày, mỗi object gồm
+{
+-
+ngayGui: ngày gửi hồ
+  sơ
+-
+tongSo: tổng số hồ
+  sơ gửi lên
+-
+soHSThanhCong: số hồ
+  sơ thành công
+-
+soHSLoi: số hồ sơ lỗi
+-
+tongTien: Tổng tiền
+  thành công
+}
+1.9. Hàm nhận chi tiết
+hồ sơ trong ngày
+1.
+9
+.1. Mô tả
+Request URL
+HMAC
+http://egw.baohiemxahoi.gov.vn/api/egw/
+nhanChiTietHSNgay
+Request Method
+POST
+Request Header
+Content-Type:
+  application/json
+Query Parameters
+token={token}&id_token={id_token}&username={username}&password={password}&loaiHoSo={loaiHoSo}&maCSKCB={maCSKCB}&ngayGui={ngayGui}
+Form data
+1
+.9
+.2. Thông điệp yêu cầu
+Dữ liệu đầu vào
+Tên Field
+Kiểu dữ liệu
+Ghi chú
+Ngày gửi
+ngayGui
+Chuỗi ký tự
+Ngày gửi hồ sơ
+  (DD/MM/YYYY)
+Mã CSKCB gửi
+maCSKCB
+Chuỗi ký tự
+Mã CSKCB gửi hồ sơ
+  (Quy định 5084)
+Loại hồ sơ
+loaiHoSo
+Int
+Loại hồ sơ: 3: Hồ
+  sơ KCB, 5: Hồ sơ 79/80a, 6: Hồ sơ 19, 7: Hồ sơ 20, 8: Hồ sơ 21, 9: Hồ sơ giấy
+  chuyển tuyến
+Tên đăng nhập
+username
+Chuỗi ký tự
+(an 5)
+Tài khoản đăng nhập
+Mật khẩu
+password
+Chuỗi ký tự
+(an 6..10)
+Mật khẩu đăng nhập
+Token
+token
+Chuỗi ký tự
+Token được trả về từ
+  trước
+TokenID
+id_token
+Chuỗi ký tự
+Token ID được trả về
+  ở hàm trước
+1.9.3. Thông điệp trả lời
+Cấu trúc:
+- Header status:
+- Header
+Content-Type:application/json;charset=UTF-8
+- Json data
+Trong đó
+- Có hai khả năng đối
+với thông điệp trả lời: trường hợp có lỗi trong quá trình xử lý hoặc trường hợp
+xử lý thành công.
+- Trường hợp lỗi: Xem
+danh mục lỗi sẽ được gửi trả lại.
+Trường
+Kết quả
+Header status:401
+Unauthorized:
+Lỗi không được xác
+  thực
+Header status:500
+An unexpected error
+  occurred
+-
+Trường hợp thành công
+:
+Hệ thống
+trả về:
+Trường
+Kết quả
+Header status
+200
+Header Content-Type
+application/json;charset=UTF-8
+Json data
+Trả về là một
+  object bao gồm các thuộc tính sau:
++ maKetQua: Trả về
+  mã kết quả giao dịch (Thành công, lỗi)
++ dsHoSo: Danh sách
+  object chi tiết giao dịch lỗi theo ngày, mỗi object gồm
+{
+-
+ngayGui: ngày gửi hồ
+  sơ
+-
+maGiaoDich: mã giao
+  dịch
+-
+soLuongHoSo: Số lượng
+  hồ sơ
+-
+slHoSoDung: Số lượng
+  hồ sơ đúng
+-
+slHoSoLoi: Số lượng
+  hồ sơ lỗi
+-
+tongTien: Tổng tiền
+-
+mieuTa: Miêu tả
+}
+1.10. Hàm nhận chi tiết
+lỗi hồ sơ
+1.
+10
+.1. Mô tả
+Request URL
+HMAC
+http://egw.baohiemxahoi.gov.vn/api/egw/
+nhanChiTietLoiHS
+Request Method
+POST
+Request Header
+Content-Type:
+  application/json
+Query Parameters
+token={token}&id_token={id_token}&username={username}&password={password}&maCSKCB={maCSKCB}&maGiaoDich={maGiaoDich}
+Form data
+1
+.10
+.2. Thông điệp yêu cầu
+Dữ liệu đầu vào
+Tên Field
+Kiểu dữ liệu
+Ghi chú
+Mã giao dịch
+maGiaoDich
+Chuỗi ký tự
+Mã giao dịch nhận
+  được từ service 1.10
+Mã CSKCB gửi
+maCSKCB
+Chuỗi ký tự
+Mã CSKCB gửi hồ sơ
+  (Quy định 5084)
+Tên đăng nhập
+username
+Chuỗi ký tự
+(an 5)
+Tài khoản đăng nhập
+Mật khẩu
+password
+Chuỗi ký tự
+(an 6..10)
+Mật khẩu đăng nhập
+Token
+token
+Chuỗi ký tự
+Token được trả về từ
+  trước
+TokenID
+id_token
+Chuỗi ký tự
+Token ID được trả về
+  ở hàm trước
+1.10.3. Thông điệp trả lời
+Cấu trúc:
+- Header status:
+- Header
+Content-Type:application/json;charset=UTF-8
+- Json data
+Trong đó
+- Có hai khả năng đối
+với thông điệp trả lời: trường hợp có lỗi trong quá trình xử lý hoặc trường hợp
+xử lý thành công.
+- Trường hợp lỗi: Xem
+danh mục lỗi sẽ được gửi trả lại.
+Trường
+Kết quả
+Header status:401
+Unauthorized:
+Lỗi không được xác
+  thực
+Header status:500
+An unexpected error
+  occurred
+-
+Trường hợp thành công
+:
+Hệ thống
+trả về:
+Trường
+Kết quả
+Header status
+200
+Header Content-Type
+application/json;charset=UTF-8
+Json data
+Trả về là một
+  object bao gồm các thuộc tính sau:
++ maKetQua: Trả về
+  mã kết quả giao dịch (Thành công, lỗi)
++ dsLoi: Danh sách
+  object lỗi của giao dịch, mỗi object gồm
+{
+-
+maLoi: Mã lỗi
+-
+moTaLoi: mô tả Lỗi
+}
+1.11. Hàm nhận danh
+sách đợt giám định trong tháng
+1.
+11
+.1. Mô tả
+Request URL
+HMAC
+http://egw.baohiemxahoi.gov.vn/api/egw/
+nhanDSDotGDThang
+Request Method
+POST
+Request Header
+Content-Type:
+  application/json
+Query Parameters
+token={token}&id_token={id_token}&username={username}&password={password}&maCSKCB={maCSKCB}&nam={nam}&thang={thang}
+  (Tham khảo mục 1.12.2)
+Form data
+1
+.11
+.2. Thông điệp yêu cầu
+Dữ liệu đầu vào
+Tên Field
+Kiểu dữ liệu
+Ghi chú
+Tháng
+thang
+Số
+Tháng giám định
+Năm
+nam
+Số
+Năm giám định
+Mã CSKCB gửi
+maCSKCB
+Chuỗi ký tự
+Mã CSKCB gửi hồ sơ
+  (Quy định 5084)
+Tên đăng nhập
+username
+Chuỗi ký tự
+(an 5)
+Tài khoản đăng nhập
+Mật khẩu
+password
+Chuỗi ký tự
+(an 6..10)
+Mật khẩu đăng nhập
+Token
+token
+Chuỗi ký tự
+Token được trả về từ
+  trước
+TokenID
+id_token
+Chuỗi ký tự
+Token ID được trả về
+  ở hàm trước
+1.11.3. Thông điệp trả lời
+Cấu trúc:
+- Header status:
+- Header
+Content-Type:application/json;charset=UTF-8
+- Json data
+Trong đó
+- Có hai khả năng đối
+với thông điệp trả lời: trường hợp có lỗi trong quá trình xử lý hoặc trường hợp
+xử lý thành công.
+- Trường hợp lỗi: Xem
+danh mục lỗi sẽ được gửi trả lại.
+Trường
+Kết quả
+Header status:401
+Unauthorized:
+Lỗi không được xác
+  thực
+Header status:500
+An unexpected error
+  occurred
+-
+Trường hợp thành công
+:
+Hệ thống
+trả về:
+Trường
+Kết quả
+Header status
+200
+Header Content-Type
+application/json;charset=UTF-8
+Json data
+Trả về là một
+  object bao gồm các thuộc tính sau:
++ maKetQua: Trả về
+  mã kết quả giao dịch (Thành công, lỗi)
++ dsDotGD: Danh
+  sách object chi tiết đợt giám định, mỗi object gồm
+{
+-
+tenDotGD: Tên đợt
+  giám định
+-
+maDotGD: Mã đợt
+  giám định
+-
+thangGD: Tháng giám
+  định
+-
+namGD: Năm giám định
+-
+loaiGD: loại giám định
+-
+ngayTao: Ngày tạo
+}
+1.12. Hàm nhận kết quả
+giám định hồ sơ
+1.
+12
+.1. Mô tả
+Request URL
+HMAC
+http://egw.baohiemxahoi.gov.vn/api/egw/
+nhanKQGDHoSo
+Request Method
+POST
+Request Header
+Content-Type:
+  application/json
+Query Parameters
+token={token}&id_token={id_token}&username={username}&password={password}&maCSKCB={maCSKCB}&maDotGD={maDotGD}
+  (Tham khảo mục 1.13.2)
+Form data
+1
+.12
+.2. Thông điệp yêu cầu
+Dữ liệu đầu vào
+Tên Field
+Kiểu dữ liệu
+Ghi chú
+Mã đợt giám định
+maDotGD
+Chuỗi ký tự
+Mã đợt giám định đã
+  nhận được
+Mã CSKCB
+maCSKCB
+Chuỗi ký tự
+Mã CSKCB (Quy định
+  5084)
+Tên đăng nhập
+username
+Chuỗi ký tự
+(an 5)
+Tài khoản đăng nhập
+Mật khẩu
+password
+Chuỗi ký tự
+(an 6..10)
+Mật khẩu đăng nhập
+Token
+token
+Chuỗi ký tự
+Token được trả về từ
+  trước
+TokenID
+id_token
+Chuỗi ký tự
+Token ID được trả về
+  ở hàm trước
+1.12.3. Thông điệp trả lời
+Cấu trúc:
+- Header status:
+- Header
+Content-Type:application/json;charset=UTF-8
+- Json data
+Trong đó
+- Có hai khả năng đối
+với thông điệp trả lời: trường hợp có lỗi trong quá trình xử lý hoặc trường hợp
+xử lý thành công.
+- Trường hợp lỗi: Xem
+danh mục lỗi sẽ được gửi trả lại.
+Trường
+Kết quả
+Header status:401
+Unauthorized:
+Lỗi không được xác
+  thực
+Header status:500
+An unexpected error
+  occurred
+-
+Trường hợp thành công
+:
+Hệ thống
+trả về:
+Trường
+Kết quả
+Header status
+200
+Header Content-Type
+application/json;charset=UTF-8
+Json data
+Trả về là một
+  object bao gồm các thuộc tính sau:
++ maKetQua: Trả về
+  mã kết quả giao dịch (Thành công, lỗi)
++ fileBase64String:
+  Base64String của file
+1.13. Hàm nhận quyết
+toán tháng quý
+1.
+13
+.1. Mô tả
+Request URL
+HMAC
+http://egw.baohiemxahoi.gov.vn/api/egw/
+nhanQuyetToanThangQuy
+Request Method
+POST
+Request Header
+Content-Type:
+  application/json
+Query Parameters
+token={token}&id_token={id_token}&username={username}&password={password}&maCSKCB={maCSKCB}&nam={nam}&loaiQT={loaiQT}&giaTri={giaTri}
+  (Tham khảo mục 1.14.2)
+Form data
+1
+.13
+.2. Thông điệp yêu cầu
+Dữ liệu đầu vào
+Tên Field
+Kiểu dữ liệu
+Ghi chú
+Loại quyết toán
+loaiQT
+Số
+Loại quyết toán: 0:
+  tháng, 1: quý
+Giá trị
+giaTri
+Số
+Tương ứng với loại
+  quyết toán
+Năm
+Nam
+Số
+Năm quyết toán
+Mã CSKCB
+maCSKCB
+Chuỗi ký tự
+Mã CSKCB (Quy định
+  5084)
+Tên đăng nhập
+username
+Chuỗi ký tự
+(an 5)
+Tài khoản đăng nhập
+Mật khẩu
+password
+Chuỗi ký tự
+(an 6..10)
+Mật khẩu đăng nhập
+Token
+token
+Chuỗi ký tự
+Token được trả về từ
+  trước
+TokenID
+id_token
+Chuỗi ký tự
+Token ID được trả về
+  ở hàm trước
+1.13.3. Thông điệp trả lời
+Cấu trúc:
+- Header status:
+- Header
+Content-Type:application/json;charset=UTF-8
+- Json data
+Trong đó
+- Có hai khả năng đối
+với thông điệp trả lời: trường hợp có lỗi trong quá trình xử lý hoặc trường hợp
+xử lý thành công.
+- Trường hợp lỗi: Xem
+danh mục lỗi sẽ được gửi trả lại.
+Trường
+Kết quả
+Header status:401
+Unauthorized:
+Lỗi không được xác
+  thực
+Header status:500
+An unexpected error
+  occurred
+-
+Trường hợp thành công
+:
+Hệ thống
+trả về:
+Trường
+Kết quả
+Header status
+200
+Header Content-Type
+application/json;charset=UTF-8
+Json data
+Trả về là một
+  object bao gồm các thuộc tính sau:
++ maKetQua: Trả về
+  mã kết quả giao dịch (Thành công, lỗi)
++ fileBase64String:
+  Base64String của file
+2. Nhập hồ sơ trực tiếp trên cổng liên thông dữ liệu
+2.1. Đăng nhập vào hệ
+thống
+Người dùng truy cập
+vào địa chỉ: http://gdbhyt.baohiemxahoi.gov.vn
+Bước 1: Nhập tài khoản
+và mật khẩu tương ứng người dùng được cấp.
+Bước 2: Enter hoặc
+click vào đăng nhập để truy cập vào hệ thống.
+2.2. Nhập hồ sơ XML
+Vào phần « Quản
+lý khám chữa bệnh » : Chọn « Nhập hồ sơ khám ngoại trú »
+Nhập thông tin :
+Bước 1: Nhập thông
+tin hành chính
+Bước 2: Nhập thông
+tin khám chữa bệnh bao gồm:
+Bước 3: Nhập Thông
+tin chung
+Bước 4: Nhập công
+khám
+Bước 5: Nhập chi phí
+thuốc/DVKT/VTYT
+Bước 6: Lựa chọn
+« Lưu » để lưu dữ liệu
+2.3.Nhập hồ sơ tổng hợp
+Tải lên file XML theo
+định dạng được quy định ở Mục III và IV
+Bước 1: Lựa chọn Hồ
+sơ nhận từ file
+Chọn nút “Thêm tệp hồ
+sơ”
+Bước 2: Thêm tệp hồ
+sơ
+Bước 3: Lựa chọn cơ sở
+khám chữa bệnh
+Bước 4: Lựa chọn loại
+hồ sơ: Hồ sơ 79a/80a/19/20/21
+Bươc 5: Chọn file hồ
+sơ định dạng excel
+Bước 6: Nhấn “Lưu
+file” để tải hồ sơ lên.
+3.Chương trình đồng bộ dữ liệu
+Tải chương trình đồng
+bộ trên trang http://gdbhyt.baohiemxahoi.gov.vn/
+Bước 1: Vào phần Trợ
+giúp, Tải phần mềm
+Bước 2: Nhần vào
+« Phần mềm tự động đồng bộ VAS » để tải phần mềm đồng bộ
+Ghi chú:
+Trước khi cài đặt
+chương trình cần chắc chắn là Net Framework 4.0 đã được cài đặt. Trường hợp
+chưa được cài đặt, chọn tải về Net Framework 4.0 và cài đặt.
+Bước 1 : Vào phần
+trợ giúp, Tải phần mềm
+Bước 2 :
+3.1. Chuẩn bị dữ liệu
+Cơ sở khám chữa bệnh
+phải chuẩn bị các hồ sơ cần thiết để có thể đồng bộ lên hệ thống giám định của
+ngành.
+Trong thời gian phần
+mềm của cơ sở KCB chưa tích hợp được lên cổng tiếp nhận thì cơ sở KCB chỉ cần
+xuất ra file XML có định dạng đúng như quy định ở phần IV và lưu vào 1 thư mục.
+Chương trình đồng bộ dữ liệu sẽ tự động quét thư mục để tải dữ liệu lên cổng tiếp
+nhận.
+3.2.Cấu hình đồng bộ
+Bật chương trình đồng
+bộ để thực hiện cấu hình.
+Có 6 thư mục cần cấu
+hình trước khi thực hiện đồng bộ :
+- Thư mục QD324: Chứa
+các file xuất ra theo quyết định 324
+- Thư mục kết quả: Chứa
+các file gửi thành công lên hệ thống tiếp nhận hồ sơ
+- Thư mục lỗi: Chứa
+các file gửi thất bại lên hệ thống tiếp nhận hồ sơ.
+- Thư mục KCB20: Chứa
+các file xuất ra từ phần mềm khám chữa bệnh của ngành (HMS, Viện phí 2.0)
+- Thư mục QD9324: Chứa
+các file xuất ra quyết định 9324. Đây là định dạng 5 file chứa thông tin KCB của
+bệnh nhân.
+o Tên 5 file sẽ là:
+o XML1:
+XML1_MCSKCB_NamQTThangQT_....xml Ví dụ
+:
+XML1_01004_201605_BENHNHAN1.xml
+Nghĩa là : File dữ liệu tổng hợp của bệnh viện Đống Đa đề nghị quyết toán
+tháng 5 năm 2016.
+o XML2:
+XML2_MCSKCB_NamQTThangQT_....xml Ví dụ : XML2_01004_201605_BENHNHAN1.xml
+Nghĩa là : File dữ liệu thuốc của bệnh viện Đống Đa đề nghị quyết toán
+tháng 5 năm 2016.
+o XML3:
+XML3_MCSKCB_NamQTThangQT_....xml Ví dụ: XML5_01004_201605_BENHNHAN1.xml Nghĩa
+là : File dữ liệu vật tư y tế và DVKT của bệnh viện Đống Đa đề nghị quyết
+toán tháng 5 năm 2016.
+o XML4:
+XML4_MCSKCB_NamQTThangQT_....xml Ví dụ : XML5_01004_201605_BENHNHAN1.xml
+Nghĩa là : File dữ liệu kết quả cận lâm sàng của bệnh viện Đống Đa đề nghị
+quyết toán tháng 5 năm 2016.
+o XML5:
+XML5_MCSKCB_NamQTThangQT_....xml Ví dụ: XML5_01004_201605_BENHNHAN1.xml Nghĩa
+là : File dữ liệu diễn biến lâm sàng của bệnh viện Đống Đa đề nghị quyết
+toán tháng 5 năm 2016.
+- Thư mục tổng hợp :
+Chứa các file tổng hợp gồm 79a,80a/19/20/21, trong đó quy tắc đặt tên file
+là :
+o Thống kê vật tư mẫu
+số 19: 19_MCSKCB_NamQTThangQT_....xlsx Ví dụ: 19_01004_201605_BENHNHAN1.xlsx
+Nghĩa là : File dữ liệu thống kê vật tư thanh toán BHYT tháng 5 năm 2016.
+o Thống kê vật tư mẫu
+số 20: 20_MCSKCB_NamQTThangQT_....xlsx Ví dụ: 20_01004_201605_BENHNHAN1.xlsx
+Nghĩa là : File dữ liệu thống kê thuốc thanh toán BHYT tháng 5 năm 2016.
+o Thống kê vật tư mẫu
+số 21: 21_MCSKCB_NamQTThangQT_....xlsx Ví dụ: 21_01004_201605_BENHNHAN1.xlsx
+Nghĩa là : File dữ liệu thống kê dịch vụ kỹ thuật thanh toán BHYT tháng 5
+năm 2016.
+o Thống kê vật tư mẫu
+số 7980a: 7980a_MCSKCB_NamQTThangQT_....xlsx Ví dụ:
+7980a_01004_201605_BENHNHAN1.xlsx Nghĩa là : File dữ liệu thống kê vật tư
+thanh toán BHYT tháng 5 năm 2016.
+Ngoài ra cơ sở KCB
+còn cần cấu hình « Tài khoản » và « Mật khẩu » (như BHXH VN
+cấp) để có thể đẩy dữ liệu lên hệ thống.
+3.3. Đồng bộ hồ sơ đề
+nghị thanh toán
+Chương trình sẽ tự động
+thực hiện chức năng đồng bộ.
+III. Chuẩn dữ liệu
+1. Quy ước biểu diễn dữ liệu và đặt namespace
+Đối với dữ liệu XML
+:
+Dữ liệu được đặt bên trong một thẻ XML (hay element theo thuật
+ngữ XML 1.1). Một thẻ chứa dữ liệu bên trong nó thì không chứa thẻ con nào khác
+và được gọi là thẻ đơn. Thẻ phức là thẻ chỉ chứa các thẻ con và không có dữ liệu.
+Trong một tài liệu XML chứa dữ liệu trao đổi với hệ thống, chỉ có các thẻ đơn
+hoặc/và thẻ phức (Chuẩn dữ liệu: Unicode UTF8)
+Đối với dữ liệu Excel
+:
+Các cột quy ước trong excel phải đúng th
+ứ
+tự
+và tên theo quy định. Chuẩn font dữ liệu Unicode UTF8)
+2. Hồ sơ khám chữa bệnh
+Phần này mô tả các
+chuẩn XML dành cho việc đóng gói dữ liệu hồ sơ thanh toán BHYT. Để liên thông
+được với hệ thống tiếp nhận theo 03 hình thức tại mục II các cơ sở khám chữa bệnh
+BHYT phải đảm bảo kết xuất dữ liệu theo đúng chuẩn.
+Ví dụ:
+Hệ thống sẽ phục vụ
+giám định cho Cơ sở KCB gửi Hồ sơ KCB, nội dung file hồ sơ khám chữa bệnh bao gồm:
+TT
+Chỉ tiêu
+Kiểu
+  dữ liệu
+Kích
+  thước tối đa
+Diễn giải
+1
+GIAMDINHHS
+Thẻ tổng, bao quát toàn bộ
+  hồ sơ
+2
+THONGTINDONVI
+Thông tin đơn vị
+3
+MACSKCB
+Chuỗi
+5
+Mã cơ sở khám chữa bệnh
+  gửi hồ sơ, đánh mã theo quyết định số 5084/QĐ-BYT
+4
+THONGTINHOSO
+Thẻ tổng bao thông tin hồ
+  sơ
+5
+NGAYLAP
+Chuỗi
+8
+Ngày lập hồ sơ gồm 8 ký
+  tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày
+6
+SOLUONGHOSO
+Số
+6
+Số lượng hồ sơ
+7
+DANHSACHHOSO
+Thẻ bao danh sách các hồ
+  sơ KCB
+8
+HOSO
+Thẻ bao 1 hồ sơ, một danh
+  sách hồ sơ có nhiều hồ sơ
+9
+FILEHOSO
+Các File hồ sơ nằm trong
+  bộ hồ sơ
+10
+LOAIHOSO
+Chuỗi
+4
+Loại hồ sơ
+XML1: File tổng hợp thông
+  tin KCB theo CV 9324
+XML2: File chi tiết thuốc
+  theo CV 9324
+XML3: File chi tiết dịch
+  vụ theo CV 9324
+XML4: File chi tiết diễn
+  biến theo CV 9324
+XML5: File cận lâm sàng
+  theo CV 9324
+11
+NOIDUNGFILE
+Chuỗi
+File hồ sơ: dạng base 64
+  của file hồ sơ tương ứng. Mô tả kỹ hơn trong phần IV của tài liệu
+12
+CHUKYDONVI
+Thẻ tổng chứa chữ ký đơn
+  vị
+3.
+Hồ sơ báo cáo tổng hợp 79a, 80a
+Xây dựng file excel có các cột
+tương ứng với mô tả như sau:
+TT
+Chỉ
+  tiêu
+Kiểu
+  dữ liệu
+Kích
+  thước tối đa
+Ghi
+  chú
+A
+B
+C
+D
+E
+1
+STT
+Số
+10
+Số thứ tự của bệnh nhân từ
+  1 đến hết
+2
+MA_BN
+Chuỗi
+50
+Mã số bệnh nhân quy định
+  tại CSKCB
+3
+HO_TEN
+Chuỗi
+255
+Họ và tên của bệnh nhân
+  viết bằng chữ thường
+4
+NGAY_SINH
+Chuỗi
+4
+  ,6 hoặc 8
+Ngày sinh ghi trên thẻ gồm
+  8 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày (Nếu không có ngày sinh
+  thì ghi năm sinh: 4 ký tự)
+5
+GIOI_TINH
+Số
+1
+Giới tính; Mã hóa (1 :
+  Nam; 2 : Nữ)
+6
+DIA_CHI
+Chuỗi
+2000
+Địa chỉ ghi trên thẻ BHYT,
+  trẻ em không có thẻ ghi địa chỉ (xã, huyện, tỉnh) trên giấy tờ thay thế
+7
+MA_THE
+Chuỗi
+15-15
+Mã thẻ BHYT do cơ quan
+  BHXH cấp (trường hợp chưa có thẻ nhưng vẫn được hưởng quyền lợi BHYT, VD: trẻ
+  em, người ghép tạng,...thì mã theo nguyên tắc: mã đối tượng + mã tỉnh + mã
+  huyện + 000 + số thứ tự đối tượng không có thẻ đến khám trong năm. VD: TE1+xx
+  (mã tỉnh)+yy (mã huyện)+000+ zzzzz (số thứ tự trẻ dưới 6 tuổi không có thẻ
+  đến khám trong năm)
+8
+MA_DKBD
+Chuỗi
+chỉ
+  5
+Mã cơ sở khám chữa bệnh mà
+  bệnh nhân đăng ký khám chữa bệnh ban đầu, ghi đúng 5 ký tự trên thẻ BHYT
+9
+GT_THE_TU
+Chuỗi
+8
+Thời điểm thẻ có giá trị
+  gồm 8 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày. Ví dụ: ngày
+  30/04/2015 được hiển thị là 20150430
+10
+GT_THE_DEN
+Chuỗi
+8
+Thời điểm thẻ hết giá trị
+  gồm 8 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày. Ví dụ: ngày
+  30/04/2015 được hiển thị là 20150430
+11
+MA_BENH
+Chuỗi
+3
+  đến 8
+Mã bệnh chính được mã hóa
+  theo ICD X
+12
+MA_BENHKHAC
+Chuỗi
+255
+Mã bệnh khác mã hóa theo
+  ICD X, nếu có nhiều mã ICD thì mỗi mã được phân cách bằng ký tự “;”
+13
+MA_LYDO_VVIEN
+Chuỗi
+1
+Mã hóa lý do đến khám
+  bệnh: 1=đúng tuyến; 2 = cấp cứu; 3 = trái tuyến
+14
+MA_NOI_CHUYEN
+Chuỗi
+1
+Mã cơ sở KCB chuyển người
+  bệnh đến (mã do cơ quan BHXH cấp)
+15
+NGAY_VAO
+Chuỗi
+12
+Thời gian đến khám hoặc
+  nhập viện theo ngày giờ; gồm 12 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự
+  ngày + 2 ký tự giờ (24 giờ) + 2 ký tự phút. Ví dụ: ngày 20/06/2015 08:20 được
+  hiển thị là 201506200820
+16
+NGAY_RA
+Chuỗi
+12
+Ngày giờ ra viện; gồm 12
+  ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày + 2 ký tự giờ (24 giờ) + 2
+  ký tự phút. Ví dụ: ngày 20/06/2015 08:20 được hiển thị là 201506200820
+17
+SO_NGAY_DTRI
+Số
+3
+Số ngày điều trị cách tính
+  theo Thông tư liên tịch số 37/2015/TTLT-BYT-BTC
+18
+KET_QUA_DTRI
+Số
+1
+Kết quả điều trị: Mã hóa
+  (1: Khỏi; 2: Đỡ; 3: Không thay đổi; 4:Nặng hơn; 5: Tử vong)
+19
+TINH_TRANG_RV
+Số
+1
+Tình trạng ra viện: Mã hóa
+  (1: Ra viện; 2: Chuyển viện; 3: Trốn viện; 4: Xin ra viện)
+20
+T_TONGCHI
+Số
+15
+Tổng chi phí KCB BHYT
+  trong lần/đợt điều trị
+đã làm tròn số đến đơn vị đồng
+21
+T_XN
+Số
+15
+Tiền xét nghiệm
+đã làm tròn số đến đơn vị đồng
+22
+T_CDHA
+Số
+15
+Tiền chuẩn đoán hình ảnh
+  và thăm dò chức năng
+đã làm tròn số đến đơn vị đồng
+23
+T_THUOC
+Số
+15
+Tiền thuốc và dịch truyền
+đã
+  làm tròn số đến đơn vị đồng
+24
+T_MAU
+Số
+15
+Tiền máu và chế phẩm của
+  máu
+đã làm tròn số đến đơn vị đồng
+25
+T_PTTT
+Số
+15
+Tiền phẫu thuật và thủ
+  thuật
+đã làm tròn số đến đơn vị đồng
+26
+T_VTYT
+Số
+15
+Tiền vật tư y tế
+đã
+  làm tròn số đến đơn vị đồng
+27
+T_DVKT_TYLE
+Số
+15
+Tiền dịch vụ kỹ thuật
+  thanh toán theo tỷ lệ
+đã làm tròn số đến đơn vị đồng
+28
+T_THUOC_TYLE
+Số
+15
+Tiền thuốc thanh toán theo
+  tỷ lệ
+đã làm tròn số đến đơn vị đồng
+29
+T_VTYT_TYLE
+Số
+15
+Tiền vật tư y tế thanh
+  toán theo tỷ lệ
+đã làm tròn số đến đơn vị đồng
+30
+T_KHAM
+Số
+15
+Tiền công khám bệnh, làm
+  tròn đến đơn vị đồng
+31
+T_GIUONG
+Số
+15
+Tiền giường, làm tròn đến
+  đơn vị đồng
+32
+T_VCHUYEN
+Số
+15
+Tiền vận chuyển
+đã
+  làm tròn số đến đơn vị đồng
+33
+T_BNTT
+Số
+15
+Tiền bệnh nhân thanh toán
+đã
+  làm tròn số đến đơn vị đồng
+34
+T_BHTT
+Số
+15
+Tiền đề nghị cơ quan BHXH
+  thanh toán (gồm cả chi phí ngoài định suất)
+đã làm tròn số đến
+  đơn vị đồng
+35
+T_NGOAIDS
+Số
+15
+Tiền thanh toán ngoài định
+  suất (không bao gồm tiền BN cùng chi trả)
+đã làm tròn số đến đơn vị
+  đồng
+36
+MA_KHOA
+Chuỗi
+255
+Ghi mã khoa theo quy định
+  tại bảng 7 Quyết định số 9324/BYT-BH ngày
+30/11/2015
+của
+  Bộ Y Tế. Nếu bệnh nhân điều trị ở nhiều khoa thì ghi mã khoa tổng kết hồ sơ
+  bệnh án
+37
+NAM_QT
+Số
+4
+Năm đề nghị BHXH thanh
+  toán
+38
+THANG_QT
+Số
+2
+Tháng đề nghị BHXH thanh
+  toán
+39
+MA_KHUVUC
+Chuỗi
+2
+Ghi mã nơi sinh sống trên
+  BHYT “K1/K2/K3” (nếu có)
+40
+MA_LOAIKCB
+số
+1
+Mã hóa hình thức KCB: (1:
+  Khám bệnh; 2: điều trị ngoại trú; 3: điều trị nội trú)
+41
+MA_CSKCB
+Chuỗi
+chỉ
+  5
+Ghi mã cơ sở KCB theo Phụ
+  lục số 08 ban hành kèm theo Quyết định số 5084/QĐ-BYT của Bộ Y tế
+4.
+Hồ sơ báo cáo tổng hợp mẫu 19/BHYT, 20/BHYT, 21/BHYT
+4.1.Thống kê vật tư y tế thanh toán BHYT (Mẫu
+19)
+Xây dựng file excel có các cột
+tương ứng với mô tả như sau:
+TT
+Chỉ
+  tiêu
+Kiểu
+  dữ liệu
+Kích
+  thước tối đa
+Chú
+  thích
+A
+B
+C
+D
+(F)
+1
+STT
+Số
+6
+Từ 1 đến hết trong 1 lần
+  gửi dữ liệu
+2
+MA_VTYT
+Chuỗi
+50
+Mã VTYT theo danh mục BYT
+  ban hành
+3
+TEN_VTYT
+Chuỗi
+2000
+Tên VTYT theo danh mục BYT
+  ban hành
+4
+TEN_THUONGMAI
+Chuỗi
+2000
+Tên thương mại của VTYT
+5
+QUY_CACH
+Chuỗi
+255
+Ghi quy cách đóng gói của
+  vật tư y tế (Ví dụ: 10 chiếc/hộp; 10 cái/túi)
+6
+DON_VI
+Chuỗi
+15
+Đơn vị tính
+7
+GIA_MUA
+Số
+15
+Đơn giá mua BHYT làm tròn
+  đến đơn vị đồng
+8
+SL_NOITRU
+Số
+15
+Số lượng sử dụng cho bệnh
+  nhân nội trú
+9
+SL_NGOAITRU
+Số
+15
+Số lượng sử dụng cho bệnh
+  nhân ngoại trú
+10
+GIA_THANHTOAN
+Số
+15
+Đơn giá thanh toán BHYT
+  làm tròn đến đơn vị đồng
+11
+THANH_TIEN
+Số
+15
+Tổng tiền tương ứng với số
+  lượng
+4.2. Thống kê thuốc thanh toán BHYT
+Xây dựng file excel có các cột
+tương ứng với mô tả như sau:
+TT
+Chỉ
+  tiêu
+Kiểu
+  dữ liệu
+Kích
+  thước tối đa
+Ghi
+  chú
+A
+B
+C
+D
+E
+1
+STT
+Số
+6
+Từ 1 đến hết trong 1 lần
+  gửi dữ liệu
+2
+MA_THUOC
+Chuỗi
+50
+Mã thuốc theo bộ y tế ban
+  hành
+3
+TEN_HOATCHAT
+Chuỗi
+255
+Tên hoạt chất
+4
+TEN_THUOC
+Chuỗi
+255
+Tên VTYT theo danh mục BYT
+  ban hành
+5
+DUONG_DUNG
+Chuỗi
+255
+Đường dùng
+6
+HAM_LUONG
+Chuỗi
+255
+Hàm lượng
+7
+SO_DKY
+Chuỗi
+15
+Số đăng ký
+8
+DON_VI
+Chuỗi
+15
+Đơn vị tính
+9
+SL_NOITRU
+Số
+15
+Số lượng sử dụng cho bệnh
+  nhân nội trú
+10
+SL_NGOAITRU
+Số
+15
+Số lượng sử dụng cho bệnh
+  nhân ngoại trú
+11
+DON_GIA
+Số
+15
+Giá thanh toán của bệnh
+  nhân
+12
+THANH_TIEN
+Số
+15
+Tổng tiền tương ứng với số
+  lượng
+4.3. Thống kê dịch vụ kỹ thuật thanh toán
+BHYT
+Xây dựng file excel có các cột
+tương ứng với mô tả như sau:
+TT
+Chỉ
+  tiêu
+Kiểu
+  dữ liệu
+Kích
+  thước tối đa
+Ghi
+  chú
+A
+B
+C
+D
+E
+1
+STT
+Số
+6
+Từ 1 đến hết trong 1 lần
+  gửi dữ liệu
+2
+MA_DVKT
+Chuỗi
+50
+Mã dịch vụ kỹ thuật theo
+  DMDC của BYT
+3
+TEN_DVKT
+Chuỗi
+2000
+Tên dịch vụ kỹ thuật
+4
+SL_NOITRU
+Số
+15
+Số lượng sử dụng cho bệnh
+  nhân nội trú
+5
+SL_NGOAITRU
+Số
+15
+Số lượng sử dụng cho bệnh
+  nhân ngoại trú
+6
+DON_GIA
+Số
+15
+Giá thanh toán của bệnh
+  nhân
+7
+THANH_TIEN
+Số
+15
+Tổng tiền tương ứng với số
+  lượng
+5.
+Giấy chuyển tuyến
+5.1. Mô tả các thẻ tổng
+hợp chính
+Phần này mô tả các
+chuẩn XML dành cho việc đóng gói dữ liệu
+chuyển tuyến phục vụ thông
+tuyến
+giữa các
+CSKCB
+.Để
+thực hiện được hình thức này, các CSKCB cần đảm bảo kết xuất dữ liệu đúng chuẩn
+như sau:
+Cụ thể:
+Trong đó có các thẻ thông
+tin chính bao gồm:
+Cơ sở khám chữa bệnh gửi yêu
+cầu chuyển bệnh nhân:
+Cơ sở khám chữa bệnh tiếp nhận
+yêu cầu chuyển bệnh nhân:
+File XML tổng hợp thông tin
+giấy chuyển tuyến mẫu:
+<?xml
+version="1.0" encoding="utf-8"?>
+<GiayChuyenTuyen>
+<TuyenChuyenDi>
+<CoQuanChuQuan>
+…
+</CoQuanChuQuan>
+<MaCSKCBDi>…</MaCSKCBDi>
+<TenCSKCBDi>…</TenCSKCBDi>
+</TuyenChuyenDi>
+<TuyenChuyenDen>
+<MaCSKCBDen>…</MaCSKCBDen>
+<TenCSKCBDen>…</TenCSKCBDen>
+</TuyenChuyenDen>
+<ThongTinhoSo>
+<SoHoSo>…</SoHoSo>
+<SoChuyenTuyen>…</SoChuyenTuyen>
+<SoGiay>…</SoGiay>
+<ThongTinNguoiBenh>…</ThongTinNguoiBenh>
+<ThongTinThe>…</ThongTinThe>
+<TomTatKhamBenh>…</TomTatKhamBenh>
+<TomTatBenhAn>…</TomTatBenhAn>
+<DinhKem>…</DinhKem>
+</ThongTinhoSo>
+<ChuKyDonVi>
+<Signature>
+…
+</Signature>
+</ChuKyDonVi>
+</GiayChuyenTuyen>
+Mô tả chi tiết:
+TT
+Chỉ tiêu
+Kiểu dữ liệu
+Kích thước
+Diễn giải
+1
+GiayChuyenTuyen
+Thẻ tổng, bao quát
+  toàn bộ file
+2
+TuyenChuyenDi
+Thẻ chứa tuyến chuyển
+  đi
+3
+CoQuanChuQuan
+Chuỗi
+15
+Mã cơ quan
+  chủ quản
+4
+MaCSKCBDi
+Chuỗi
+15
+Mã CSKCB chuyển đi
+5
+TenCSKCBDi
+Chuỗi
+Tên CSKCB chuyển đi
+6
+TuyenChuyenDen
+Thẻ chứa tuyến chuyển
+  đến
+7
+MaCSKCBDen
+Chuỗi
+15
+Mã CSKCB chuyển đến
+8
+TenCSKCBDen
+Chuỗi
+Tên CSKCB chuyển đến
+9
+ThongTinhoSo
+Thẻ thông tin hồ sơ
+10
+SoHoSo
+Chuỗi
+Số hồ sơ lưu trữ
+11
+SoChuyenTuyen
+Chuỗi
+Số chuyển tuyến
+  CSKCB lưu trữ
+12
+SoGiay
+Chuỗi
+Số giấy do CSKCB
+  lưu trữ
+13
+ThongTinNguoiBenh
+Thẻ thông tin người
+  bệnh
+14
+ThongTinThe
+Thẻ thông tin thẻ
+  BHYT
+15
+TomTatKhamBenh
+Thẻ Tóm tắt thời
+  gian địa điểm KCB
+16
+TomTatBenhAn
+Thẻ Tóm tắt quá
+  trình KCB
+17
+DinhKem
+Thẻ chứa File cứng
+  đính kèm của giấy chuyển tuyến
+18
+ChuKyDonVi
+Thẻ chứa Chữ ký điện
+  tử đơn vị
+19
+Signature
+Thẻ chứa Nội dung
+  chữ ký
+5.2.Thông tin người bệnh
+Đây là thông tin của
+người bệnh được gửi đi, để xác minh với các giấy tờ tùy thân khác
+File XML mẫu:
+<?xml
+version="1.0" encoding="utf-8"?>
+<ThongTinNguoiBenh>
+<HoTen>
+…
+</HoTen>
+<GioiTinh>
+…
+</GioiTinh>
+<NamSinh>
+…
+</NamSinh>
+<DiaChi>
+…
+</DiaChi>
+<DanToc>…</DanToc>
+<QuocTich>…</QuocTich>
+<NgheNghiep>…</NgheNghiep>
+<NoiLamViec>…</NoiLamViec>
+</ThongTinNguoiBenh>
+Mô tả chi tiết
+TT
+Chỉ tiêu
+Kiểu dữ liệu
+Kích thước
+Diễn giải
+1
+ThongTinNguoiBenh
+Thẻ chứa thông tin
+  người bệnh
+2
+HoTen
+Chuỗi
+Họ tên người bệnh
+3
+GioiTinh
+Số
+1
+Giới tính; Mã hóa
+  (1 : Nam; 2 : Nữ)
+4
+NamSinh
+Chuỗi
+8
+Ngày sinh ghi trên
+  thẻ gồm 8 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày (nếu không có
+  ngày sinh thì năm sinh: 4 ký tự)
+5
+DiaChi
+Chuỗi
+Địa chỉ ghi trên thẻ
+  BHYT, trẻ em không có thẻ ghi địa chỉ (xã, huyện, tỉnh) trên giấy tờ thay thế
+6
+DanToc
+Dân tộc
+7
+QuocTich
+Chuỗi
+Quốc tịch
+8
+NgheNghiep
+Chuỗi
+Nghề nghiệp
+9
+NoiLamViec
+Nơi làm việc
+5.3. Thông tin thẻ bảo
+hiểm y tế
+Mô tả thông tin thẻ BHYT
+tương ứng với bệnh nhân khi chuyển tuyến
+File XML mẫu:
+<?xml
+version="1.0" encoding="utf-8"?>
+<ThongTinThe>
+<SoThe>
+…
+</SoThe>
+<GiaTriTu>
+…
+</GiaTriTu>
+<GiaTriDen>
+…
+</GiaTriDen>
+</ThongTinThe>
+Mô tả chi tiết:
+TT
+Chỉ tiêu
+Kiểu dữ liệu
+Kích thước
+Diễn giải
+1
+ThongTinThe
+Thẻ chứa thông tin
+  thẻ người bệnh
+2
+SoThe
+Chuỗi
+Số thẻ BHYT
+3
+GiaTriTu
+Chuỗi
+8
+Giá trị hiệu tự từ
+  ngày, ghi trên thẻ gồm 8 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày (nếu
+  không có ngày sinh thì năm sinh: 4 ký tự)
+4
+GiaTriDen
+Chuỗi
+8
+Giá trị hiệu tự đến
+  ngày, ghi trên thẻ gồm 8 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày (nếu
+  không có ngày sinh thì năm sinh: 4 ký tự)
+5.4.Tóm tắt lịch sử
+khám chữa bệnh
+Đây là thẻ tổng kết lại
+các thông tin khám chữa bệnh tại CSKCB trước khi chuyển đi.
+File XML mẫu
+<?xml
+version="1.0" encoding="utf-8"?>
+<TomTatKhamBenh>
+<KhamDieuTriTai>…</KhamDieuTriTai>
+<TuNgay>…</TuNgay>
+<DenNgay>…</DenNgay>
+<TuyenTruocChuyenDen>…</TuyenTruocChuyenDen>
+<NgayChuyenDen>…</NgayChuyenDen>
+<SoChuyenDen>…</SoChuyenDen>
+</TomTatKhamBenh>
+Mô tả chi tiết
+TT
+Chỉ tiêu
+Kiểu dữ liệu
+Kích thước
+Diễn giải
+1
+TomTatKhamBenh
+Thẻ chứa thông tin
+  khám bệnh
+2
+KhamDieuTriTai
+Chuỗi
+Tên cơ sở khám chữa
+  bệnh
+3
+TuNgay
+Chuỗi
+8
+Giá trị hiệu tự từ
+  ngày, ghi trên thẻ gồm 8 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày (nếu
+  không có ngày sinh thì năm sinh: 4 ký tự)
+4
+DenNgay
+Chuỗi
+8
+Giá trị hiệu tự đến
+  ngày, ghi trên thẻ gồm 8 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày (nếu
+  không có ngày sinh thì năm sinh: 4 ký tự)
+5
+TuyenTruocChuyenDen
+Tên tuyến trước khi
+  chuyển đến
+6
+NgayChuyenDen
+Chuỗi
+8
+Ngày chuyển đến,
+  ghi trên thẻ gồm 8 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày (nếu
+  không có ngày sinh thì năm sinh: 4 ký tự)
+7
+SoChuyenDen
+Chuỗi
+Số giấy chuyển đến
+5.5. Tóm tắt bệnh án
+Đây là thẻ mô tả bệnh án và
+quá trình chuẩn đoán điều trị tại CSKCB trước khi chuyển tuyến khác.
+File XML mẫu
+<?xml
+version="1.0" encoding="utf-8"?>
+<TomTatBenhAn>
+<DauHieuLamSang>…</DauHieuLamSang>
+<XetNghiem>…</XetNghiem>
+<ChuanDoan>…</ChuanDoan>
+<PP_DieuTri>
+…
+</PP_DieuTri>
+<TinhTrangChuyen>
+…
+</TinhTrangChuyen>
+<LyDoChuyen>…</LyDoChuyen>
+<HuongDieuTri>…</HuongDieuTri>
+<NgayChuyenTuyen>…</NgayChuyenTuyen>
+<PhuongTienChuyen>…</PhuongTienChuyen>
+<ThongTin_HoTong>…</ThongTin_HoTong>
+<BacSyDieuTri>…</BacSyDieuTri>
+</TomTatBenhAn>
+Mô tả chi tiết
+TT
+Chỉ tiêu
+Kiểu dữ liệu
+Kích thước
+Diễn giải
+1
+TomTatBenhAn
+Thẻ tóm tắt bệnh án
+2
+DauHieuLamSang
+Chuỗi
+Dấu hiệu lâm sàng
+3
+XetNghiem
+Chuỗi
+Kết quả xét nghiệm
+4
+ChuanDoan
+Chuỗi
+Kết quả chuẩn đoán
+5
+PP_DieuTri
+Chuỗi
+Phương pháp điều trị
+6
+TinhTrangChuyen
+Chuỗi
+Tình trạng trước khi
+  chuyển
+7
+LyDoChuyen
+Chuỗi
+Lý do chuyển
+8
+HuongDieuTri
+Chuỗi
+Hướng điều trị
+9
+NgayChuyenTuyen
+Chuỗi
+8
+Ngày chuyển tuyến,
+  ghi trên thẻ gồm 8 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày (nếu
+  không có ngày sinh thì năm sinh: 4 ký tự)
+10
+PhuongTienChuyen
+Chuỗi
+Phương tiện chuyển
+11
+ThongTin_HoTong
+Chuỗi
+Thông tin người hộ
+  tổng
+12
+BacSyDieuTri
+Chuỗi
+Bác sỹ điều trị
+5.6. File đính kèm
+File đính kèm là file
+gốc có chữ ký bác sỹ và đồng ý của người có trách nhiệm tại CSKCB trước khi
+chuyển tuyến
+File XML mẫu
+<?xml
+version="1.0" encoding="utf-8"?>
+<DinhKem>
+<TenFile>
+…
+</TenFile>
+<LoaiFile>
+…
+</LoaiFile>
+<NoiDungFile>
+…
+</NoiDungFile>
+</DinhKem>
+Mô tả chi tiết
+TT
+Chỉ tiêu
+Kiểu dữ liệu
+Kích thước
+Diễn giải
+1
+DinhKem
+Thẻ chứa thông tin
+  file đính kèm
+2
+TenFile
+Chuỗi
+Tên file đính kèm
+3
+LoaiFile
+Chuỗi
+Loại file: PDF, JPG
+4
+NoiDungFile
+Chuỗi
+String base64 của nội
+  dung file
+6.
+Hồ sơ danh mục
+6.1. File hồ sơ danh
+mục DVKT CSKCB gửi
+Định dạng excel, chi
+tiết các cột như sau:
+TT
+Tên
+  trường
+Định
+  dạng
+Chú
+  thích
+(A)
+(B)
+(C)
+(E)
+1
+STT
+Số
+Số thứ tự từ 1 đến hết
+2
+MA_DVKT
+Chuỗi
+MA_DVKT được ghi theo
+  hướng dẫn ghi mã và tên DVKT
+3
+TEN_DVKT
+Chuỗi
+Ghi tên dịch vụ kỹ thuật
+  tương ứng với các trường hợp theo hướng dẫn ghi mã và tên DVKT
+4
+MA_GIA
+Chuỗi
+Chỉ ghi trong trường hợp
+  dịch vụ kỹ thuật chưa được xếp tương đương; theo hướng dẫn ghi mã giá
+5
+DON_GIA
+Số
+Ghi đơn giá dịch vụ kỹ
+  thuật được cấp thẩm quyền phê duyệt
+6
+QUYET_DINH
+Chuỗi
+Ghi số quyết định phê
+  duyệt danh mục DVKT thực hiện tai cơ sở KCB
+7
+CONG_BO
+Chuỗi
+Ghi ngày Quyết định phê
+  duyệt danh mục DVKT có hiệu lực, gồm 8 ký tự; 4 ký tự năm + 2 ký tự tháng + 2
+  ký tự ngày (Ví dụ: ngày 01/03/2015 được hiển thị là: 20150301)
+8
+MA_COSOKCB
+Chuỗi
+Mã cơ sở KCB gồm 5 ký tự,
+  do cơ quan BHXH cấp
+6.2. File hồ sơ danh
+mục
+Thuốc
+CSKCB gửi
+Định dạng excel, chi
+tiết các cột như sau:
+TT
+Tên
+  trường
+Định
+  dạng
+Chú
+  thích
+(A)
+(B)
+(C)
+(E)
+1
+STT
+Số
+STT của thuốc ghi từ 1 đến
+  hết
+2
+MA_HOAT_CHAT
+Chuỗi
+Ghi mã hoạt chất theo
+  hướng dẫn tại Phụ lục 2 CV 908 BYT-BH.
+3
+HOAT_CHAT
+Chuỗi
+Ghi tên hoạt chất hoặc
+  thành phần của thuốc theo kết quả trúng thầu.
+- Đối với các thuốc đa
+  chất thì ghi lần lượt từng tên hoạt chất, giữa các hoạt chất cách nhau bằng
+  dấu cộng “+”
+- Đối với chế phẩm thuốc đông
+  y, thuốc từ dược liệu, các thành phần của thuốc cách nhau bằng dấu phẩy “,”
+- Đối với Thuốc Phóng xạ
+  hoặc Vị thuốc y học cổ truyền thì để trống
+4
+MA_DUONG_DUNG
+Chuỗi
+Ghi mã đường dùng theo
+  Bảng 3, Phụ lục số 1 ban hành kèm theo Quyết định số 5084/QĐ-BYT
+5
+DUONG_DUNG
+Chuỗi
+Ghi đường dùng theo Bảng
+  3, Phụ lục số 1 ban hành kèm theo Công văn số 5084/QĐ-BYT
+6
+HAM_LUONG
+Chuỗi
+Ghi hàm lượng và đơn vị
+  hàm lượng của thuốc theo kết quả trúng thầu. Đối với các thuốc đa chất thì
+  ghi hàm lượng tương ứng với từng hoạt chất/thành phần tại trường số 3, giữa
+  các hàm lượng cách nhau bằng dấu “+”
+7
+TEN_THUOC
+Chuỗi
+Ghi tên thuốc theo kết quả
+  trúng thầu
+8
+SO_DANG_KY
+Chuỗi
+Ghi mã số đăng ký theo
+  hướng dẫn tại Phụ lục 2 CV 908 BYT-BH.
+9
+DONG_GOI
+Chuỗi
+Ghi dạng đóng gói của
+  thuốc
+10
+DON_VI_TINH
+Chuỗi
+Ghi đơn vị tính nhỏ nhất
+(Ví
+  dụ: viên, gói, lọ, tube, hộp, gam)
+11
+DON_GIA
+Số
+Ghi đơn giá của thuốc
+  trúng thầu (
+tính trên đơn vị tính nhỏ nhất
+)
+12
+DON_GIA_TT
+Số
+Ghi đơn giá bảo hiểm y tế
+  thanh toán
+(tính trên đơn vị tính nhỏ nhất)
+13
+SO_LUONG
+Số
+Ghi số lượng thuốc trúng
+  thầu
+14
+MA_CSKCB
+Chuỗi
+Ghi mã cơ sở KCB theo Phụ
+  lục số 08 ban hành kèm theo Quyết định số 5084/QĐ-BYT của Bộ Y tế
+15
+HANG_SX
+Chuỗi
+Ghi tên hãng sản xuất
+16
+NUOC_SX
+Chuỗi
+Ghi tên nước sản xuất
+17
+NHA_THAU
+Chuỗi
+Ghi tên đơn vị trúng thầu
+18
+QUYET_DINH
+Chuỗi
+Ghi số quyết định trúng
+  thầu
+19
+CONG_BO
+Chuỗi
+Ghi ngày áp dụng kết quả
+  trúng thầu, gồm 8 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày (Ví dụ:
+  ngày 05/04/2015 được hiển thị là: 20150405)
+20
+MA_THUOC_BV
+Chuỗi
+Ghi mã thuốc trong phần
+  mềm sử dụng tại cơ sở KCB.
+21
+LOAI_THUOC
+Số
+1: Tân dược; 2: Chế phẩm
+  YHCT; 3: Vị thuốc YHCT; 4: Phóng xạ;
+22
+LOAI_THAU
+Số
+1: Thầu tập trung; 2: Thầu
+  riêng tại BV;
+23
+NHOM_THAU
+Chuỗi
+Nhóm thầu theo quy định
+  BYT
+6.3. File hồ sơ danh
+mục
+VTYT
+CSKCB gửi
+Định dạng excel, chi
+tiết các cột như sau:
+TT
+Tên
+  trường
+Định
+  dạng
+Chú
+  thích
+(A)
+(B)
+(C)
+(E)
+1
+STT
+Số
+Số thứ tự từ 1 đến hết
+2
+MA_NHOM_VTYT
+Chuỗi
+Ghi mã nhóm vật tư y tế
+  theo quy định tại cột 3 của Phụ lục 5 ban hành kèm theo Công văn 908/BYT-BH
+3
+TEN_NHOM_VTYT
+Chuỗi
+Ghi tên nhóm vật tư y tế
+  theo quy định tại cột 4 của Phụ lục 5 ban hành kèm theo Công văn 908/BYT-BH
+4
+MA_HIEU
+Chuỗi
+Ghi mã hiệu sản phẩm in
+  trên bao bì hoặc trên sản phẩm do nhà sản xuất đặt
+5
+MA_VTYT_BV
+Chuỗi
+Ghi mã vật tư y tế trong
+  phần mềm sử dụng tại bệnh viện
+6
+TEN_VTYT_BV
+Chuỗi
+Ghi tên vật tư y tế đang
+  được thanh toán cho bệnh nhân tại phần mềm bệnh viện
+7
+QUY_CACH
+Chuỗi
+Ghi quy cách đóng gói của
+  vật tư y tế (Ví dụ: 10 chiếc/hộp; 10 cái/túi)
+8
+NUOC_SX
+Chuỗi
+Ghi tên nước sản xuất
+9
+HANG_SX
+Chuỗi
+Ghi tên hãng sản xuất
+10
+DON_VI_TINH
+Chuỗi
+Ghi đơn vị tính nhỏ nhất
+11
+DON_GIA
+Số
+Ghi đơn giá vật tư y tế
+  trúng thầu
+12
+DON_GIA_TT
+Số
+Ghi đơn giá vật tư y tế
+  thanh toán BHYT
+13
+NHA_THAU
+Chuỗi
+Ghi tên đơn vị trúng thầu
+14
+QUYET_DINH
+Chuỗi
+Ghi số Quyết định trúng
+  thầu
+15
+CONG_BO
+Chuỗi
+Ghi ngày áp dụng kết quả
+  trúng thầu, gồm 8 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày (Ví dụ:
+  ngày 05/04/2015 được hiển thị là: 20150405)
+16
+DINH_MUC
+Số
+Ghi định mức sử dụng cho
+  từng loại vật tư (nếu có) (Ví dụ: quả lọc thận nhân tạo sử dụng 06 lần ghi
+  6,00)
+17
+SO_LUONG
+Số
+Ghi số lượng vật tư y tế
+  trúng thầu
+18
+MA_CSKCB
+Chuỗi
+Ghi mã cơ sở KCB theo Phụ
+  lục số 08 ban hành kèm theo Quyết định số 5084/QĐ-BYT của Bộ Y tế
+19
+LOAI_THAU
+Số
+1: Thầu tập trung; 2: Thầu
+  riêng tại BV;
+IV. Mô tả định dạng các file XML theo quy định
+tại công văn 9324/BYT-BH, được mã hóa thành nội dung file kèm theo file XML tại
+mục III.2
+1. File hồ sơ tổng hợp thông tin bệnh nhân (XML1)
+Cấu trúc file XML:
+<?xml
+version="1.0" encoding="utf-8" ?>
+<
+TONG_HOP
+>
+<MA_LK>...</MA_LK>
+<STT>...</STT>
+<MA_BN>...</MA_BN>
+<HO_TEN>
+<![CDATA[
+…
+]]
+>
+</HO_TEN>
+<NGAY_SINH>...</NGAY_SINH>
+<GIOI_TINH>...</GIOI_TINH>
+<DIA_CHI>
+<![CDATA[…]]>
+</DIA_CHI>
+<MA_THE>...</MA_THE>
+<MA_DKBD>...</MA_DKBD>
+<GT_THE_TU>...</GT_THE_TU>
+<GT_THE_DEN>...</GT_THE_DEN>
+<TEN_BENH>
+<![CDATA[
+…
+]]
+>
+</TEN_BENH>
+<MA_BENH>...</MA_BENH>
+<MA_BENHKHAC>...</MA_BENHKHAC>
+<MA_LYDO_VVIEN>...</MA_LYDO_VVIEN>
+<MA_NOI_CHUYEN>...</MA_NOI_CHUYEN>
+<MA_TAI_NAN>...</MA_TAI_NAN>
+<NGAY_VAO>...</NGAY_VAO>
+<NGAY_RA>...</NGAY_RA>
+<SO_NGAY_DTRI>...</SO_NGAY_DTRI>
+<KET_QUA_DTRI></KET_QUA_DTRI>
+<TINH_TRANG_RV>...</TINH_TRANG_RV>
+<NGAY_TTOAN>...</NGAY_TTOAN>
+<MUC_HUONG>...</MUC_HUONG>
+<T_THUOC>...</T_THUOC>
+<T_VTYT>...</T_VTYT>
+<T_TONGCHI>...</T_TONGCHI>
+<T_BNTT>...</T_BNTT>
+<T_BHTT>...</T_BHTT>
+<T_NGUONKHAC>...</T_NGUONKHAC>
+<T_NGOAIDS>...</T_NGOAIDS>
+<NAM_QT>...</NAM_QT>
+<THANG_QT>...</THANG_QT>
+<MA_LOAI
+_
+KCB>...</MA_LOAI
+_
+KCB>
+<MA_KHOA>...</MA_KHOA>
+<MA_CSKCB>...</MA_CSKCB>
+<MA_KHUVUC>...</MA_KHUVUC>
+<MA_PTTT_QT>...</MA_PTTT_QT>
+<CAN_NANG>...</CAN_NANG>
+</
+TONG_HOP
+>
+Mô tả chi tiết:
+TT
+Chỉ tiêu
+Kiểu dữ liệu
+Kích thước tối đa
+Diễn giải
+1
+MA_LK
+Chuỗi
+100
+Mã đợt điều trị duy
+  nhất (dùng để liên kết giữa bảng tổng hợp (bảng 1) và các bảng chi tiết (bảng
+  2 đến bảng 5) trong 1 lần khám bệnh, chữa bệnh (PRIMARY KEY).
+2
+STT
+Số
+10
+Từ 1 đến hết trong
+  1 lần gửi dữ liệu
+3
+MA_BN
+Chuỗi
+15
+Mã số bệnh nhân quy
+  định tại CSKCB
+4
+HO_TEN
+Chuỗi
+255
+Họ và tên của bệnh
+  nhân viết bằng chữ thường . Thêm thẻ <![CDATA[HO_TEN]]>
+5
+NGAY_SINH
+Chuỗi
+8
+Ngày sinh ghi trên
+  thẻ gồm 8 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày (nếu không có
+  ngày sinh thì ghi năm sinh: 4 ký tự)
+6
+GIOI_TINH
+Số
+1
+Giới tính; Mã hóa
+  (1 : Nam; 2 : Nữ)
+7
+DIA_CHI
+Chuỗi
+500
+Địa chỉ ghi trên thẻ
+  BHYT, trẻ em không có thẻ ghi địa chỉ (xã, huyện, tỉnh) trên giấy tờ thay thế.
+  thêm thẻ <![CDATA[dia_chi]]>
+8
+MA_THE
+Chuỗi
+15
+Mã thẻ BHYT do cơ
+  quan BHXH cấp (trường hợp chưa có thẻ nhưng vẫn được hưởng quyền lợi BHYT,
+  VD: trẻ em, người ghép tạng,...thì mã theo nguyên tắc: mã đối tượng + mã tỉnh
+  + mã huyện + 000 + số thứ tự đối tượng không có thẻ đến khám trong năm. VD:
+  TE1+xx (mã tỉnh)+yy (mã huyện)+000+ zzzzz (số thứ tự trẻ dưới 6 tuổi không có
+  thẻ đến khám trong năm)
+9
+MA_DKBD
+Chuỗi
+5
+Mã cơ sở KCB nơi
+  người bệnh đăng ký ban đầu ghi trên thẻ BHYT
+10
+GT_THE_TU
+Chuỗi
+8
+Thời điểm thẻ có
+  giá trị gồm 8 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày
+11
+GT_THE_DEN
+Chuỗi
+8
+Thời điểm thẻ hết
+  giá trị gồm 8 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày
+12
+TEN_BENH
+Chuỗi
+255
+Ghi đầy đủ chẩn đoán
+  khi ra viện. thêm thẻ <![CDATA[ten_benh]]>
+13
+MA_BENH
+Chuỗi
+5
+Mã bệnh chính theo
+  ICD 10
+14
+MA_BENHKHAC
+Chuỗi
+255
+Mã bệnh kèm theo
+  theo ICD 10, có nhiều mã ICD được phân cách bằng ký tự chấm phẩy (;)
+15
+MA_LYDO_VVIEN
+Số
+1
+Mã hóa đối tượng đến
+  khám BHYT (1 : Đúng tuyến; 2 : Cấp cứu; 3 : Trái tuyến)
+16
+MA_NOI_CHUYEN
+Chuỗi
+5
+Mã cơ sở KCB chuyển
+  người bệnh đến (mã do cơ quan BHXH cấp)
+17
+MA_TAI_NAN
+Số
+1
+Tai nạn thương
+  tích; Mã hóa tham chiếu bảng 8 (Bảng tai nạn thương tích)
+18
+NGAY_VAO
+Chuỗi
+12
+Ngày giờ đến khám
+  hoặc nhập viện gồm: 12 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày + 2
+  ký tự giờ (24 giờ) + 2 ký tự phút. Ví dụ: ngày 31/03/2015 15:20 được hiển thị
+  là: 201503311520
+19
+NGAY_RA
+Chuỗi
+12
+Ngày giờ ra viện gồm
+  12 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày + 2 ký tự giờ (24 giờ) +
+  2 ký tự phút. Ví dụ: ngày 05/04/2015 09:20 được hiển thị là: 201504050920
+20
+SO_NGAY_DTRI
+Số
+3
+số ngày điều trị
+21
+KET_QUA_DTRI
+Số
+1
+Kết quả điều trị;
+  Mã hóa (1: Khỏi; 2: Đỡ; 3: Không thay đổi; 4: Nặng hơn; 5: Tử vong)
+22
+TINH_TRANG_RV
+Số
+1
+Tình trạng ra viện;
+  Mã hóa (1: Ra viện; 2: Chuyển viện; 3: Trốn viện; 4: Xin ra viện)
+23
+NGAY_TTOAN
+Chuỗi
+12
+Ngày giờ thanh toán
+  gồm 12 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày + 2 ký tự giờ (24 giờ)
+  + 2 ký tự phút
+24
+MUC_HUONG
+Số
+3
+Ghi mức hưởng tương
+  ứng với quyền lợi được hưởng của người bệnh (trường hợp đúng tuyến ghi 80 hoặc
+  95 hoặc 100, trái tuyến ghi mức hưởng * tỷ lệ hưởng tùy theo hạng bệnh viện)
+25
+T_THUOC
+Số
+15
+Tiền thuốc và dịch
+  truyền đã làm tròn số đến đơn vị đồng, là tổng thành tiền file XML2 sau khi
+  làm tròn
+26
+T_VTYT
+Số
+15
+Tổng tiền vật tư y
+  tế đã làm tròn số đến đơn vị đồng, là tổng thành tiền file XML3 sau khi làm
+  tròn
+27
+T_TONGCHI
+Số
+15
+Tổng chi phí trong
+  lần/đợt điều trị
+28
+T_BNTT
+Số
+15
+Số tiền người bệnh
+  thanh toán (bao gồm phần cùng trả và tự trả), định dạng số
+29
+T_BHTT
+Số
+15
+Số tiền đề nghị
+  BHXH thanh toán
+30
+T_NGUONKHAC
+Số
+15
+Số tiền người bệnh
+  được các nguồn tài chính khác hỗ trợ
+31
+T_NGOAIDS
+Số
+15
+Chi phí ngoài định
+  suất (không bao gồm tiền BN cùng chi trả)
+32
+NAM_QT
+Số
+4
+Năm đề nghị BHXH
+  thanh toán
+33
+THANG_QT
+Số
+2
+Tháng đề nghị BHXH
+  thanh toán
+34
+MA_LOAI_KCB
+Số
+1
+Mã hóa hình thức
+  KCB (1: Khám bệnh; 2: Điều trị ngoại trú; 3: Điều trị nội trú)
+35
+MA_KHOA
+Chuỗi
+3
+Nếu bệnh nhân điều
+  trị ở nhiều khoa thì ghi mã khoa tổng kết hồ sơ bệnh án
+36
+MA_CSKCB
+Chuỗi
+5
+Mã cơ sở KCB nơi điều
+  trị (Mã do cơ quan BHXH cấp)
+37
+MA_KHUVUC
+Chuỗi
+2
+Ghi mã nơi sinh sống
+  trên thẻ "K1/K2/K3"
+38
+MA_PTTT_QT
+Chuỗi
+255
+Mã phẫu thuật thủ
+  thuật Quốc tế theo ICD 9 CM Vol 3 cho phẫu thuật thủ thuật (Triển khai sau
+  khi Bộ Y tế ban hành bảng tham chiếu và có văn bản chỉ đạo. Nếu có nhiều PTTT
+  thì mỗi mã cách nhau bởi dấu chấm phẩy (;)
+39
+CAN_NANG
+Số
+5
+Chỉ thu thập với
+  các bệnh nhân là trẻ em dưới 1 tuổi. Là số kilogam (kg) cân nặng của trẻ em
+  khi vào viện. Số thập phân, dấu thập phân là dấu chấm (.). Ghi đến 2 chữ số
+  sau dấu thập phân (vd: 5.75 là 5.75 kg)
+2.
+File hồ sơ chi tiết Thuốc (XML2)
+Cấu trúc file XML:
+<?xml
+version="1.0" encoding="utf-8"?>
+<DSACH_CHI_TIET_THUOC>
+<CHI_TIET_THUOC>
+<MA_LK>...</MA_LK>
+<STT>...</STT>
+<MA_THUOC>...</MA_THUOC>
+<MA_NHOM>...</MA_NHOM>
+<TEN_THUOC>
+<![CDATA[
+…
+]]
+>
+</TEN_THUOC>
+<DON_VI_TINH>...</DON_VI_TINH>
+<HAM_LUONG>
+<![CDATA[
+…
+]]
+>
+</HAM_LUONG>
+<DUONG_DUNG>...</DUONG_DUNG>
+<LIEU_DUNG>
+<![CDATA[…]]>
+</LIEU_DUNG>
+<SO_DANG_KY>...</SO_DANG_KY>
+<SO_LUONG>...</SO_LUONG>
+<DON_GIA>...</DON_GIA>
+<TYLE_TT>...</TYLE_TT>
+<THANH_TIEN>...</THANH_TIEN>
+<MA_KHOA>...</MA_KHOA>
+<MA_BAC_SI>...</MA_BAC_SI>
+<MA_BENH>...</MA_BENH>
+<NGAY_YL>...</NGAY_YL>
+<MA_PTTT>...</MA_PTTT>
+</CHI_TIET_THUOC>
+</DSACH_CHI_TIET_THUOC>
+Mô tả chi tiết:
+TT
+Chỉ
+  tiêu
+Kiểu
+  dữ liệu
+Kích
+  thước tối đa
+Diễn
+  giải
+1
+MA_LK
+Chuỗi
+100
+Mã đợt điều trị duy nhất
+  (Dùng để liên kết giữa bảng tổng hợp (Bảng 1) và bảng này trong 1 lần khám
+  bệnh, chữa bệnh).
+2
+STT
+Số
+6
+Từ 1 đến hết trong 1 lần
+  gửi dữ liệu
+3
+MA_THUOC
+Chuỗi
+50
+Mã thuốc theo mã quy định
+  tại Bộ mã danh mục dùng chung của Bộ Y tế
+4
+MA_NHOM
+Chuỗi
+4
+Dùng để phân loại, sắp xếp
+  các chi phí vào các mục tương ứng tham chiếu phụ lục Bảng 6
+5
+TEN_THUOC
+Chuỗi
+255
+Tên thuốc ghi đúng theo
+  danh mục thuốc đăng ký Cục QLD công bố. thêm thẻ <![CDATA[TEN_THUOC]]>
+6
+DON_VI_TINH
+Chuỗi
+50
+Đơn vị tính ghi đúng theo
+  danh mục thuốc đăng ký Cục QLD công bố
+7
+HAM_LUONG
+Chuỗi
+255
+Hàm lượng ghi đúng theo
+  danh mục thuốc đăng ký Cục QLD công bố. Thêm thẻ <![CDATA[HAM_LUONG]]>
+8
+DUONG_DUNG
+Chuỗi
+50
+Đường dùng ghi theo mã quy
+  định tại bộ mã danh mục dùng chung của Bộ Y tế
+9
+LIEU_DUNG
+Chuỗi
+255
+Liều dùng trong ngày
+10
+SO_DANG_KY
+Chuỗi
+255
+Số đăng ký của thuốc theo
+  danh mục thuốc đăng ký Cục QLD công bố
+11
+SO_LUONG
+Số
+5
+Số lượng thực tế sử dụng
+  làm tròn đến 2 chữ số thập phân
+12
+DON_GIA
+Số
+15
+Đơn giá thanh toán BHYT
+  làm tròn đến 2 chữ số thập phân
+13
+TYLE_TT
+Số
+3
+Tỷ lệ thanh toán BHYT đối
+  với thuốc có quy định tỷ lệ (%); Số nguyên dương. Đối với thuốc không áp dụng
+  tỉ lệ thì ghi 100
+14
+THANH_TIEN
+Số
+15
+= so_luong * don_gia *
+  tyle_tt hoặc số tiền đề nghị cơ quan BHXH thanh toán (làm tròn đến 2 chữ số
+  thập phân)
+15
+MA_KHOA
+Chuỗi
+15
+Mã khoa bệnh nhân được chỉ
+  định sử dụng thuốc (tham chiếu phụ lục Bảng 7)
+16
+MA_BAC_SI
+Chuỗi
+255
+Mã hóa theo số chứng chỉ
+  hành nghề của người chỉ định
+17
+MA_BENH
+Chuỗi
+255
+Mã bệnh chính; nếu có các
+  bệnh khác kèm theo ghi các mã bệnh tương ứng, cách nhau bằng dấu chấm phẩy
+  (;)
+18
+NGAY_YL
+Chuỗi
+12
+Ngày ra y lệnh (gồm 12 ký
+  tự, theo cấu trúc: yyyymmddHH:mm = 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày
+  + 2 ký tự giờ (24 giờ) + 2 ký tự phút). Ví dụ: ngày 31/03/2015 15:20 được
+  hiển thị là: 201503311520
+19
+MA_PTTT
+Số
+1
+Mã phương thức thanh toán
+  (0 : Phí dịch vụ; 1 : định suất; 2 : ngoài định suất; 3 : DRG)
+3. File hồ sơ chi tiết DVKT (XML3)
+Cấu trúc file XML:
+<?xml
+version="1.0" encoding="utf-8"?>
+<DSACH_CHI_TIET_DVKT>
+<CHI_TIET_DVKT>
+<MA_LK>...</MA_LK>
+<STT>...</STT>
+<MA_DICH_VU>...</MA_DICH_VU>
+<MA_VAT_TU>...</MA_VAT_TU>
+<MA_NHOM>...</MA_NHOM>
+<TEN_DICH_VU>
+<![CDATA[
+…
+]]
+>
+</TEN_DICH_VU>
+<DON_VI_TINH>...</DON_VI_TINH>
+<SO_LUONG>...</SO_LUONG>
+<DON_GIA>...</DON_GIA>
+<TYLE_TT>...</TYLE_TT>
+<THANH_TIEN>...</THANH_TIEN>
+<MA_KHOA>...</MA_KHOA>
+<MA_BAC_SI>...</MA_BAC_SI>
+<MA_BENH>...</MA_BENH>
+<NGAY_YL>...</NGAY_YL>
+<NGAY_KQ>...</NGAY_KQ>
+<MA_PTTT>...</MA_PTTT>
+</CHI_TIET_DVKT>
+</DSACH_CHI_TIET_DVKT>
+Mô tả chi tiết:
+TT
+Chỉ
+  tiêu
+Kiểu
+  dữ liệu
+Kích
+  thước tối đa
+Diễn
+  giải
+1
+MA_LK
+Chuỗi
+100
+Mã đợt điều trị duy nhất
+  (dùng để liên kết giữa bảng tổng hợp (Bảng 1) và bảng này trong 1 lần khám
+  bệnh, chữa bệnh).
+2
+STT
+Số
+6
+Từ 1 đến hết trong 1 lần
+  gửi dữ liệu
+3
+MA_DICH_VU
+Chuỗi
+15
+Mã dịch vụ quy định tại Bộ
+  mã danh mục dùng chung của Bộ Y tế
+4
+MA_VAT_TU
+Chuỗi
+255
+Mã vật tư sử dụng quy định
+  tại Bộ mã danh mục dùng chung của Bộ Y tế, chỉ ghi các vật tư chưa có trong
+  cơ cấu giá dịch vụ
+5
+MA_NHOM
+Chuỗi
+4
+Dùng để phân loại, sắp xếp
+  các chi phí vào các mục tương ứng tham chiếu phụ lục Bảng 6
+6
+TEN_DICH_VU
+Chuỗi
+255
+Tên dịch vụ. Thêm thẻ:
+  <![CDATA[TEN_DICH_VU]]>.
+Trường hợp là Vật tư y tế
+  thì ghi tên Vật tư y tế
+7
+DON_VI_TINH
+Chuỗi
+50
+Đơn vị tính
+8
+SO_LUONG
+Số
+5
+Số lượng thực tế sử dụng
+  làm tròn đến 2 chữ số thập phân, phân cách dùng dấu “.”
+9
+DON_GIA
+Số
+15
+Đơn giá thanh toán BHYT
+  làm tròn đến đơn vị đồng
+10
+TYLE_TT
+Số
+3
+Tỷ lệ thanh toán BHYT đối
+  với dịch vụ kỹ thuật, vật tư y tế có quy định (tỷ lệ %; Số nguyên dương). Đối
+  với thuốc không áp dụng tỉ lệ thì ghi 100
+11
+THANH_TIEN
+Số
+15
+= so_luong * don_gia *
+  tyle_tt hoặc số tiền đề nghị cơ quan BHXH thanh toán (làm tròn đến đơn vị
+  đồng)
+12
+MA_KHOA
+Chuỗi
+3
+Mã khoa nơi phát sinh dịch
+  vụ (tham chiếu phụ lục Bảng 7)
+13
+MA_BAC_SI
+Chuỗi
+15
+Bác sỹ khám và chỉ định
+  (mã hóa theo số giấy phép hành nghề)
+14
+MA_BENH
+Chuỗi
+255
+Mã bệnh chính (theo ICD
+  10) được bác sỹ chẩn đoán, nếu có các bệnh khác kèm theo ghi các mã bệnh
+  tương ứng, cách nhau bằng dấu chấm phẩy (;)
+15
+NGAY_YL
+Chuỗi
+12
+Ngày ra y lệnh (gồm 12 ký
+  tự, theo cấu trúc: yyyymmddHHmm = 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày
+  + 2 ký tự giờ (24 giờ) + 2 ký tự phút). Ví dụ: ngày 31/03/2015 15:20 được
+  hiển thị là: 201503311520
+16
+NGAY_KQ
+Chuỗi
+12
+Ngày có kết quả (gồm 12 ký
+  tự, theo cấu trúc: yyyymmddHHmm = 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày
+  + 2 ký tự giờ (24 giờ) + 2 ký tự phút). Ví dụ: ngày 31/03/2015 15:20 được
+  hiển thị là: 201503311520
+17
+MA_PTTT
+Số
+1
+Mã phương thức thanh toán
+  (0 : Phí dịch vụ; 1 : định suất; 2 : ngoài định suất; 3 : DRG)
+4. File hồ sơ cận lâm sàng (XML4)
+Cấu trúc file XML:
+<?xml
+version="1.0" encoding="utf-8"?>
+<DSACH_CHI_TIET_CLS>
+<CHI_TIET_CLS>
+<MA_LK>...</MA_LK>
+<STT>...</STT>
+<MA_DICH_VU>...</MA_DICH_VU>
+<MA_CHI_SO>...</MA_CHI_SO>
+<TEN_CHI_SO>
+<![CDATA[
+…
+]]
+>
+</TEN_CHI_SO>
+<GIA_TRI>
+<![CDATA[
+…
+]]
+>
+</GIA_TRI>
+<MA_MAY>...</MA_MAY>
+<MO_TA>
+<![CDATA[…]]>
+</MO_TA>
+<KET_LUAN>
+<![CDATA[…]]>
+</KET_LUAN>
+<NGAY_KQ>...</NGAY_KQ>
+</CHI_TIET_CLS>
+</DSACH_CHI_TIET_CLS>
+Mô tả chi tiết:
+TT
+Chỉ
+  tiêu
+Kiểu
+  dữ liệu
+Kích
+  thước tối đa
+Diễn
+  giải
+1
+MA_LK
+Chuỗi
+100
+Mã đợt điều trị duy nhất (dùng
+  để liên kết giữa bảng tổng hợp (Bảng 1) và bảng này trong 1 lần khám bệnh,
+  chữa bệnh).
+2
+STT
+Số
+6
+Từ 1 đến hết trong 1 lần
+  gửi dữ liệu
+3
+MA_DICH_VU
+Chuỗi
+15
+Mã dịch vụ kỹ thuật CLS
+4
+MA_CHI_SO
+Chuỗi
+50
+Mã chỉ số xét nghiệm
+5
+TEN_CHI_SO
+Chuỗi
+255
+Tên chỉ số xét nghiệm.
+  Thêm thẻ: <![CDATA[TEN_CHI_SO]]>
+6
+GIA_TRI
+Chuỗi
+50
+Giá trị chỉ số (kết quả
+  xét nghiệm). Thêm thẻ: <![CDATA[GIA_TRI]]>
+7
+MA_MAY
+Chuỗi
+50
+Mã danh mục máy CLS (máy
+  XN, máy XQ, siêu âm...)
+8
+MO_TA
+Chuỗi
+Mô tả do người đọc kết quả
+  ghi. Thêm thẻ: <![CDATA[MO_TA]]>
+9
+KET_LUAN
+Chuỗi
+Kết luận của người đọc kết
+  quả. Thêm thẻ: <![CDATA[KET_LUAN]]>
+10
+NGAY_KQ
+Chuỗi
+12
+Ngày có kết quả (gồm 12 ký
+  tự, theo cấu trúc: yyyymmddHHmm = 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày
+  + 2 ký tự giờ (24 giờ) + 2 ký tự phút). Ví dụ: ngày 31/03/2015 15:20 được
+  hiển thị là: 201503311520
+5. File hồ sơ chi tiết
+d
+iễn biến (XML5)
+Cấu trúc file
+XML :
+<?xml
+version="1.0" encoding="utf-8"?>
+<DSACH_CHI_TIET_DIEN_BIEN_BENH>
+<CHI_TIET_DIEN_BIEN_BENH>
+<MA_LK>...</MA_LK>
+<STT>...</STT>
+<DIEN_BIEN>
+<![CDATA[
+…
+]]
+>
+</DIEN_BIEN>
+<HOI_CHAN>
+<![CDATA[
+…
+]]
+>
+</HOI_CHAN>
+<PHAU_THUAT>
+<![CDATA[
+…
+]]
+>
+</PHAU_THUAT>
+<NGAY_YL>...</NGAY_YL>
+</CHI_TIET_DIEN_BIEN_BENH>
+</DSACH_CHI_TIET_DIEN_BIEN_BENH>
+Mô tả chi tiết:
+TT
+Chỉ tiêu
+Kiểu dữ liệu
+Kích thước tối đa
+Bắt buộc
+Diễn giải
+1
+MA_LK
+Chuỗi
+15
+x
+Mã đợt điều trị duy
+  nhất (dùng để liên kết giữa bảng tổng hợp (Bảng 1) và bảng này trong 1 lần
+  khám bệnh, chữa bệnh).
+2
+STT
+Số
+3
+Từ 1 đến hết trong
+  1 lần gửi dữ liệu
+3
+DIEN_BIEN
+Chuỗi
+x
+Ghi diễn biến bệnh
+  trong lần khám
+Thêm thẻ:
+<![CDATA[DIEN_BIEN]]>
+4
+HOI_CHAN
+Chuỗi
+Ghi kết quả hội chẩn
+  (nếu có)
+Thêm thẻ:
+<![CDATA[HOI_CHAN]]>
+5
+PHAU_THUAT
+Chuỗi
+Mô tả cách thức phẫu
+  thuật
+Thêm thẻ:
+<![CDATA[PHAU_THUAT]]>
+6
+NGAY_YL
+Chuỗi
+12
+Ngày ra y lệnh (gồm
+  13 ký tự, theo cấu trúc: yyyymmddHHmm = 4 ký tự năm + 2 ký tự tháng + 2 ký tự
+  ngày + 2 ký tự giờ (24 giờ) + 2 ký tự phút)
+Ví dụ: ngày
+  31/03/2015 15:20 được hiển thị là: 201503311520
+Phụ lục 1: Danh mục lỗi
+TT
+Mã lỗi
+Nội dung lỗi
+1
+201
+Định dạng xml không
+  đúng
+2
+202
+Nội dung XML không đúng
+3
+204
+File XML không có nội
+  dung
+4
+401
+Lỗi xác thực
+5
+408
+Request TimeOut
+6
+500
+Lỗi server
+Phụ lục 2: Code mẫu cho Webservice
+1.
+Ví dụ lấy
+phiên
+làm việc
+2. Ví dụ
+gửi hồ sơ giám định
+3. Ví dụ
+gửi hồ sơ tổng hợp báo cáo tháng
+Tương tự với việc gửi hồ sơ
+giám định
+Phụ
+lục 4: Mô tả đối tượng trả về của Web Service
+Đối tượng lịch sử KCB
+của bệnh nhân
+TT
+Chỉ tiêu
+Kiểu dữ liệu
+Kích thước tối đa
+Diễn giải
+1
+stt
+Số
+6
+Từ 1 đến hết trong
+  1 lần gửi dữ liệu
+2
+ma_bn
+Chuỗi
+15
+Mã số bệnh nhân quy
+  định tại CSKCB
+3
+ho_ten
+Chuỗi
+Họ và tên người bệnh
+4
+ngay_sinh
+Chuỗi
+8
+Ngày sinh ghi trên
+  thẻ gồm 8 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày (nếu không có
+  ngày sinh thì năm sinh: 4 ký tự)
+5
+gioi_tinh
+Số
+1
+Giới tính; Mã hóa
+  (1 : Nam; 2 : Nữ)
+6
+dia_chi
+Chuỗi
+Địa chỉ ghi trên thẻ
+  BHYT, trẻ em không có thẻ ghi địa chỉ (xã, huyện, tỉnh) trên giấy tờ thay thế
+7
+ma_the
+Chuỗi
+15
+Mã thẻ BHYT do cơ
+  quan BHXH cấp (trường hợp chưa có thẻ nhưng vẫn được hưởng quyền lợi BHYT,
+  VD: trẻ em, người ghép tạng,...thì mã theo nguyên tắc: mã đối tượng + mã tỉnh
+  + mã huyện + 000 + số thứ tự đối tượng không có thẻ đến khám trong năm.
+VD: TE1+xx (mã tỉnh)+yy
+  (mã huyện)+000+ zzzzz (số thứ tự trẻ dưới 6 tuổi không có thẻ đến khám trong
+  năm)
+8
+ma_dkbd
+Chuỗi
+5
+Mã cơ sở KCB nơi
+  người bệnh đăng ký ban đầu ghi trên thẻ BHYT
+9
+gt_the_tu
+Chuỗi
+8
+Thời điểm thẻ có
+  giá trị gồm 8 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày
+10
+gt_the_den
+Chuỗi
+8
+Thời điểm thẻ hết
+  giá trị gồm 8 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày
+11
+ten_benh
+Chuỗi
+Ghi đầy đủ chẩn đoán
+  khi ra viện
+12
+ma_benh
+Chuỗi
+5
+Mã bệnh chính theo
+  ICD 10
+13
+ma_benhkhac
+Chuỗi
+Mã bệnh kèm theo
+  theo ICD 10, có nhiều mã ICD được phân cách bằng ký tự chấm phẩy (;)
+14
+ma_lydo_vvien
+Số
+1
+Mã hóa đối tượng đến
+  khám BHYT (1 : Đúng tuyến; 2 : Cấp cứu; 3 : Trái tuyến)
+15
+ma_noi_chuyen
+Chuỗi
+5
+Mã cơ sở KCB chuyển
+  người bệnh đến (mã do cơ quan BHXH cấp)
+16
+ma_tai_nan
+Số
+1
+Tai nạn thương
+  tích; Mã hóa tham chiếu bảng 8 (Bảng tai nạn thương tích)
+17
+ngay_vao
+Chuỗi
+12
+Ngày giờ đến khám
+  hoặc nhập viện gồm: 12 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày + 2
+  ký tự giờ (24 giờ) + 2 ký tự phút
+Ví dụ: ngày
+  31/03/2015 15:20 được hiển thị là: 201503311520
+18
+ngay_ra
+Chuỗi
+12
+Ngày giờ ra viện gồm
+  12 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày + 2 ký tự giờ (24 giờ) +
+  2 ký tự phút.
+Ví dụ: ngày
+  05/04/2015 09:20 được hiển thị là: 201504050920
+19
+so_ngay_dtri
+Số
+3
+Số ngày điều trị thực
+  tế
+20
+ket_qua_dtri
+Số
+1
+Kết quả điều trị;
+  Mã hóa (1: Khỏi; 2: Đỡ; 3: Không thay đổi; 4: Nặng hơn; 5: Tử vong)
+21
+tinh_trang_rv
+Số
+1
+Tình trạng ra viện;
+  Mã hóa (1: Ra viện; 2: Chuyển viện; 3: Trốn viện; 4: Xin ra viện)
+22
+ngay_ttoan
+Chuỗi
+12
+Ngày giờ thanh toán
+  gồm 12 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày + 2 ký tự giờ (24 giờ)
+  + 2 ký tự phút
+23
+muc_huong
+Số
+3
+Ghi mức hưởng tương
+  ứng với quyền lợi được hưởng của người bệnh (trường hợp đúng tuyến ghi 80 hoặc
+  95 hoặc 100, trái tuyến ghi mức hưởng * tỷ lệ hưởng tùy theo hạng bệnh viện)
+24
+t_thuoc
+Số
+15
+Tổng tiền thuốc đã
+  làm tròn số đến đơn vị đồng
+25
+t_vtyt
+Số
+15
+Tổng tiền vật tư y
+  tế đã làm tròn số đến đơn vị đồng
+26
+t_tongchi
+Số
+15
+Tổng chi phí trong
+  lần/đợt điều trị
+27
+t_bntt
+Số
+15
+Số tiền người bệnh
+  thanh toán (bao gồm phần cùng trả và tự trả), định dạng số
+28
+t_bhtt
+Số
+15
+Số tiền đề nghị
+  BHXH thanh toán
+29
+t_nguonkhac
+Số
+15
+Số tiền người bệnh
+  được các nguồn tài chính khác hỗ trợ
+30
+t_ngoaids
+Số
+15
+Chi phí ngoài định
+  suất
+31
+nam_qt
+Số
+4
+Năm đề nghị BHXH
+  thanh toán
+32
+thang_qt
+Số
+2
+Tháng đề nghị BHXH
+  thanh toán
+33
+ma_loai_kcb
+Số
+1
+Mã hóa hình thức
+  KCB (1: Khám bệnh; 2: Điều trị ngoại trú; 3: Điều trị nội trú)
+34
+ma_khoa
+Chuỗi
+3
+Nếu bệnh nhân điều
+  trị ở nhiều khoa thì ghi mã khoa tổng kết hồ sơ bệnh án
+35
+ma_cskcb
+Chuỗi
+5
+Mã cơ sở KCB nơi điều
+  trị (Mã do cơ quan BHXH cấp)
+36
+ma_khuvuc
+Chuỗi
+2
+Ghi mã nơi sinh sống
+  trên thẻ "K1/K2/K3"
+37
+ma_pttt_qt
+Chuỗi
+Mã phẫu thuật thủ
+  thuật Quốc tế theo ICD 9 CM Vol 3 cho phẫu thuật thủ thuật (Triển khai sau
+  khi Bộ Y tế ban hành bảng tham chiếu và có văn bản chỉ đạo. Nếu có nhiều PTTT
+  thì mỗi mã cách nhau bởi dấu chấm phẩy (;)
+38
+can_nang
+Số
+5
+Chỉ thu thập với
+  các bệnh nhân là trẻ em dưới 1 tuổi.
+Là số kilogam (kg)
+  cân nặng của trẻ em khi vào viện
+Số thập phân, dấu
+  thập phân là dấu phẩy (,)
+Ghi đến 2 chữ số
+  sau dấu thập phân (vd: 5,75 là 5,75 kg)
+39
+trang_thai
+Số
+1
+0: Chưa giám định.
+  1: Không giám định. 2: Chấp nhận. 3: Điều chỉnh. 4: Xuất toán
+40
+mieu_ta
+Chuỗi
+Miêu tả
+41
+xuat_toan
+Số
+Số tiền xuất toán
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

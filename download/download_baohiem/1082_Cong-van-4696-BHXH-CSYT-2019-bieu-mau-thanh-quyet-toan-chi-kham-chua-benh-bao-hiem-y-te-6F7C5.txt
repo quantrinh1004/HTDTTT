@@ -1,0 +1,1322 @@
+BẢO HIỂM XÃ HỘI
+  VIỆT NAM
+--------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+--------------------
+Số: 4696/BHXH-CSYT
+V/v hướng dẫn biểu mẫu thanh quyết toán chi
+  KCB BHYT theo Thông tư 102
+Hà Nội, ngày 16 tháng
+  12 năm 2019
+Kính gửi:
+- Bảo hiểm xã hội các tỉnh, thành phố trực thuộc
+  Trung ương;
+- Bảo hiểm xã hội Bộ Quốc phòng;
+- Bảo hiểm xã hội Công an nhân dân.
+(Sau đây gọi chung là BHXH các tỉnh)
+Thực hiện Thông tư số 102/2018/TT-BTC ngày
+14/11/2018 của Bộ Tài chính hướng dẫn kế toán Bảo hiểm xã hội (BHXH);
+Căn cứ ý kiến của Bộ Y tế tại Công văn số
+6760/BYT-BH ngày 15/11/2019 và của Bộ Tài chính tại Công văn số 15094/BTC-QLKT
+ngày 12/12/2019;
+Để phù hợp với quy trình giám định, xử lý các chỉ
+tiêu trên Hệ thống thông tin giám định BHYT và thống nhất lập biểu mẫu thanh
+quyết toán chi khám, chữa bệnh bảo hiểm y tế (KCB BHYT) hằng quý theo Thông tư
+102/2018/TT-BTC, BHXH Việt Nam hướng dẫn như sau:
+1. Tổng hợp chi phí KCB BHYT đưa vào quyết toán:
+mẫu C80-HD
+2. Biên bản thanh, quyết toán chi phí KCB BHYT: mẫu
+C82-HD
+(Biểu mẫu và hướng dẫn ghi tại Phụ lục kèm theo).
+Yêu cầu BHXH các tỉnh tổ chức thực hiện, kịp thời
+báo cáo khó khăn, vướng mắc về BHXH Việt Nam (theo địa chỉ email Ban Thực hiện
+chính sách BHYT:
+banthcsbhyt@vss.gov.vn
+) để được hướng dẫn giải quyết./.
+Nơi nhận:
+- Như trên;
+- Bộ Y tế, Bộ Tài chính (để b/c);
+- Tổng Giám đốc (để b/c);
+- Các Phó Tổng Giám đốc;
+- Các đơn vị: TCKT, DVT, TTKT, KTNB, CNTT, GĐB,GĐN;
+- Lưu: VT, CSYT.
+KT. TỔNG GIÁM
+  ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Phạm Lương Sơn
+BẢO HIỂM XÃ HỘI………………
+……………………..……………
+Mẫu số: C80-HD
+TỔNG HỢP CHI PHÍ
+KHÁM BỆNH, CHỮA BỆNH BẢO HIỂM Y TẾ QUÝ ….NĂM….
+Tại cơ sở KCB: ........................................................................
+Mã số………………….
+A – HỒ SƠ KHÔNG CHỌN MẪU
+Đơn vị tính:
+đồng
+ST T
+Chỉ tiêu
+Số lượt
+Số ngày
+TRONG PHẠM VI BHYT
+Chi phí ngoài phạm vi BHYT
+Tổng cộng
+Nhóm chi phí
+Nguồn Quỹ BHYT
+Người bệnh
+Nguồn khác
+Từ chối thanh toán
+Thuốc/ hóa chất
+VTYT
+Máu, chế phẩm máu
+Dịch vụ khám bệnh, chữa bệnh
+Vận chuyển
+Tại tỉnh
+Tại Trung ương
+Nghị định 70
+Cùng chi trả
+Tự trả
+Ngân sách địa phương
+Hỗ trợ, tài trợ
+Số lượt
+Số tiền
+A
+B
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+A1
+KHÁM, CHỮA BỆNH
+  NGOẠI TRÚ
+I
+ĐỐI TƯỢNG THEO
+  NGHỊ ĐỊNH 146
+1
+Đăng ký ban đầu
+2
+Nội tỉnh đến
+3
+Ngoại tỉnh đến
+II
+ĐỐI TƯỢNG THEO
+  NGHỊ ĐỊNH 70
+1
+CY nội tỉnh
+2
+CY ngoại tỉnh
+3
+QN
+4
+CA
+A2
+ĐIỀU TRỊ NỘI TRÚ
+I
+ĐỐI TƯỢNG THEO
+  NGHỊ ĐỊNH 146
+1
+Đăng ký ban đầu
+2
+Nội tỉnh đến
+3
+Ngoại tỉnh đến
+II
+ĐỐI TƯỢNG THEO
+  NGHỊ ĐỊNH 70
+1
+CY nội tỉnh
+2
+CY ngoại tỉnh
+3
+QN
+4
+CA
+(Cộng A1+A2)
+B – HỒ SƠ TRONG MẪU ĐÃ ĐƯỢC GIÁM ĐỊNH TRỰC TIẾP
+Đơn vị tính:
+đồng
+ST T
+Chỉ tiêu
+Số lượt
+Số ngày
+TRONG PHẠM VI BHYT
+Chi phí ngoài phạm vi BHYT
+Tổng cộng
+Nhóm chi phí
+Nguồn Quỹ BHYT
+Người bệnh
+Nguồn khác
+Từ chối thanh toán
+Thuốc/ hóa chất
+VTYT
+Máu, chế phẩm máu
+Dịch vụ khám bệnh, chữa bệnh
+Vận chuyển
+Tại tỉnh
+Tại Trung ương
+Nghị định 70
+Cùng chi trả
+Tự trả
+Ngân sách địa phương
+Hỗ trợ, tài trợ
+Số lượt
+Số tiền
+A
+B
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+B1
+KHÁM, CHỮA BỆNH
+  NGOẠI TRÚ
+I
+ĐỐI TƯỢNG THEO
+  NGHỊ ĐỊNH 146
+1
+Đăng ký ban đầu
+2
+Nội tỉnh đến
+3
+Ngoại tỉnh đến
+II
+ĐỐI TƯỢNG THEO
+  NGHỊ ĐỊNH 70
+1
+CY nội tỉnh
+2
+CY ngoại tỉnh
+3
+QN
+4
+CA
+B2
+ĐIỀU TRỊ NỘI TRÚ
+I
+ĐỐI TƯỢNG THEO
+  NGHỊ ĐỊNH 146
+1
+Đăng ký ban đầu
+2
+Nội tỉnh đến
+3
+Ngoại tỉnh đến
+II
+ĐỐI TƯỢNG THEO
+  NGHỊ ĐỊNH 70
+1
+CY nội tỉnh
+2
+CY ngoại tỉnh
+3
+QN
+4
+CA
+(Cộng B1+B2)
+C – HỒ SƠ NGOÀI MẪU CHƯA ĐƯỢC GIÁM ĐỊNH TRỰC
+  TIẾP
+Đơn vị tính:
+đồng
+ST T
+Chỉ tiêu
+Số lượt
+Số ngày
+TRONG PHẠM VI BHYT
+Chi phí ngoài phạm vi BHYT
+Tổng cộng
+Nhóm chi phí
+Nguồn Quỹ BHYT
+Người bệnh
+Nguồn khác
+Từ chối thanh toán theo tỷ lệ
+Thuốc/ hóa chất
+VTYT
+Máu, chế phẩm máu
+Dịch vụ khám bệnh, chữa bệnh
+Vận chuyển
+Tại tỉnh
+Tại Trung ương
+Nghị định 70
+Cùng chi trả
+Tự trả
+Ngân sách địa phương
+Hỗ trợ, tài trợ
+Số lượt
+Số tiền
+A
+B
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+C1
+KHÁM, CHỮA BỆNH
+  NGOẠI TRÚ
+I
+ĐỐI TƯỢNG THEO
+  NGHỊ ĐỊNH 146
+1
+Đăng ký ban đầu
+2
+Nội tỉnh đến
+3
+Ngoại tỉnh đến
+II
+ĐỐI TƯỢNG THEO
+  NGHỊ ĐỊNH 70
+1
+CY nội tỉnh
+2
+CY ngoại tỉnh
+3
+QN
+4
+CA
+C2
+ĐIỀU TRỊ NỘI TRÚ
+I
+ĐỐI TƯỢNG THEO
+  NGHỊ ĐỊNH 146
+1
+Đăng ký ban đầu
+2
+Nội tỉnh đến
+3
+Ngoại tỉnh đến
+II
+ĐỐI TƯỢNG THEO
+  NGHỊ ĐỊNH 70
+1
+CY nội tỉnh
+2
+CY ngoại tỉnh
+3
+QN
+4
+CA
+(Cộng C1+C2)
+D.
+SỐ CHI TRONG QUÝ TỔNG HỢP VÀO QUYẾT
+  TOÁN
+Đơn vị tính:
+đồng
+STT
+Chỉ tiêu
+Quyết toán trong quý
+Chưa thống nhất quyết toán trong quý
+Số lượt
+Số tiền (quỹ BHYT)
+Số lượt
+Số tiền (quỹ BHYT)
+Cộng
+Thuốc/hóa chất
+Thuốc thanh toán từ nguồn tập trung
+VTYT
+Máu, chế phẩm máu
+Dịch vụ khám, chữa bệnh
+Vận chuyển
+Cộng
+Thuốc/hóa chất
+Thuốc thanh toán từ nguồn tập trung
+VTYT
+Máu, chế phẩm máu
+Dịch vụ khám, chữa bệnh
+Vận chuyển
+A
+B
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+D1
+KHÁM, CHỮA BỆNH
+  NGOẠI TRÚ
+I
+ĐỐI TƯỢNG THEO
+  NGHỊ ĐỊNH 146
+1
+Đăng ký ban đầu
+2
+Nội tỉnh đến
+3
+Ngoại tỉnh đến
+II
+ĐỐI TƯỢNG THEO
+  NGHỊ ĐỊNH 70
+1
+CY nội tỉnh
+2
+CY ngoại tỉnh
+3
+QN
+4
+CA
+D2
+ĐIỀU TRỊ NỘI TRÚ
+I
+ĐỐI TƯỢNG THEO
+  NGHỊ ĐỊNH 146
+1
+Đăng ký ban đầu
+2
+Nội tỉnh đến
+3
+Ngoại tỉnh đến
+II
+ĐỐI TƯỢNG THEO
+  NGHỊ ĐỊNH 70
+1
+CY nội tỉnh
+2
+CY ngoại tỉnh
+3
+QN
+4
+CA
+(Cộng D1+D2)
+Tổng số tiền (viết bằng chữ): ……………………………………………………………………….
+E. ĐIỀU CHỈNH SỐ CHI KCB QUÝ TRƯỚC
+E1. Điều chỉnh số quyết toán quý trước
+Đơn vị tính:
+đồng
+STT
+Chỉ tiêu
+Giảm số quyết toán quý trước
+Tăng số quyết toán quý trước
+Số lượt
+Số tiền (quỹ BHYT)
+Số lượt
+Số tiền (quỹ BHYT)
+Cộng
+Thuốc/hóa chất
+Thuốc thanh toán từ nguồn tập trung
+VTYT
+Máu, chế phẩm máu
+Dịch vụ khám, chữa bệnh
+Vận chuyển
+Cộng
+Thuốc/hóa chất
+Thuốc thanh toán từ nguồn tập trung
+VTYT
+Máu, chế phẩm máu
+Dịch vụ khám, chữa bệnh
+Vận chuyển
+A
+B
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+E1.1
+KHÁM, CHỮA BỆNH
+  NGOẠI TRÚ
+I
+ĐỐI TƯỢNG THEO
+  NGHỊ ĐỊNH 146
+1
+Đăng ký ban đầu
+2
+Nội tỉnh đến
+3
+Ngoại tỉnh đến
+II
+ĐỐI TƯỢNG THEO
+  NGHỊ ĐỊNH 70
+1
+CY nội tỉnh
+2
+CY ngoại tỉnh
+3
+QN
+4
+CA
+E1.2
+ĐIỀU TRỊ NỘI TRÚ
+I
+ĐỐI TƯỢNG THEO
+  NGHỊ ĐỊNH 146
+1
+Đăng ký ban đầu
+2
+Nội tỉnh đến
+3
+Ngoại tỉnh đến
+II
+ĐỐI TƯỢNG THEO
+  NGHỊ ĐỊNH 70
+1
+CY nội tỉnh
+2
+CY ngoại tỉnh
+3
+QN
+4
+CA
+(Cộng E1.1+E1.2)
+Tổng số tiền (viết bằng chữ): ……………………………………………………………………….
+E2. Điều chỉnh số chưa thống nhất quý trước
+Đơn vị tính:
+đồng
+STT
+Chỉ tiêu
+Số chưa thống nhất quý trước được quyết toán quý này
+Số chưa thống nhất quý trước chưa quyết toán
+Số lượt
+Số tiền (quỹ BHYT)
+Số lượt
+Số tiền (quỹ BHYT)
+Cộng
+Thuốc/hóa chất
+Thuốc thanh toán từ nguồn tập trung
+VTYT
+Máu, chế phẩm máu
+Dịch vụ khám, chữa bệnh
+Vận chuyển
+Cộng
+Thuốc/hóa chất
+Thuốc thanh toán từ nguồn tập trung
+VTYT
+Máu, chế phẩm máu
+Dịch vụ khám, chữa bệnh
+Vận chuyển
+A
+B
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+E2.1
+KHÁM, CHỮA BỆNH
+  NGOẠI TRÚ
+I
+ĐỐI TƯỢNG THEO
+  NGHỊ ĐỊNH 146
+1
+Đăng ký ban đầu
+2
+Nội tỉnh đến
+3
+Ngoại tỉnh đến
+II
+ĐỐI TƯỢNG THEO
+  NGHỊ ĐỊNH 70
+1
+CY nội tỉnh
+2
+CY ngoại tỉnh
+3
+QN
+4
+CA
+E2.2
+ĐIỀU TRỊ NỘI TRÚ
+I
+ĐỐI TƯỢNG THEO
+  NGHỊ ĐỊNH 146
+1
+Đăng ký ban đầu
+2
+Nội tỉnh đến
+3
+Ngoại tỉnh đến
+II
+ĐỐI TƯỢNG THEO
+  NGHỊ ĐỊNH 70
+1
+CY nội tỉnh
+2
+CY ngoại tỉnh
+3
+QN
+4
+CA
+(Cộng E2.1+E2.2)
+Tổng số tiền (viết bằng chữ): ………………………………………………………………………….
+NGƯỜI LẬP
+(Ký, họ tên)
+TP. GIÁM ĐỊNH
+  BHYT
+(Ký, họ tên)
+….., ngày.….
+  tháng ….. năm….
+GIÁM ĐỐC
+(Ký, họ tên, đóng dấu)
+Ghi chú: Đi kèm với mẫu này là file điện tử chi
+tiết danh sách người bệnh có điều chỉnh chi phí kèm theo
+Phương pháp lập
+và trách nhiệm ghi mẫu C80-HD
+Biểu mẫu này do cơ quan BHXH lập hàng quý, chia
+theo 5 mục sau:
+Mục A: Hồ sơ không chọn mẫu
+Mục B: Hồ sơ trong mẫu đã được
+giám định trực tiếp
+Mục C: Hồ sơ ngoài mẫu chưa được giám
+định trực tiếp Mục D: Số chi trong quý tổng hợp vào quyết toán
+Mục E: Điều chỉnh số chi KCB quý trước
+Tại các mục A, B, C, D, E biểu này
+có các phần Khám chữa bệnh ngoại trú (bao gồm khám bệnh và điều trị ngoại trú) và
+Điều trị nội trú (bao gồm nội trú ban ngày và nội trú). Mỗi phần gồm 2 nhóm đối
+tượng:
+- Đối tượng thuộc Nghị định số
+146/2018/NĐ-CP, gồm: 1. khám chữa bệnh ban đầu, 2.người bệnh nội tỉnh đến,
+3.người bệnh ngoại tỉnh đến
+- Đối tượng thuộc Nghị định số
+70/2015/NĐ-CP, gồm: 1. Đối tượng cơ yếu do BHXH tỉnh phát hành KCB nội tỉnh (CY
+nội tỉnh), 2. Đối tượng cơ yếu do BHXH tỉnh phát hành KCB ngoại tỉnh (CY ngoại
+tỉnh), 3. Đối tượng quân nhân cơ yếu do BHXH Bộ quốc phòng phát hành thẻ (QN),
+4. Đối tượng công an do BHXH Bộ Công an phát hành thẻ (CA).
+Mục A: Hồ sơ không chọn mẫu
+Phản ánh kết quả giám định của các
+hồ sơ không đưa vào danh sách chọn mẫu đã được giám định trực tiếp. Mục này tổng
+hợp theo 20 gồm cột, trong đó:
+Cột A, B: Số thứ tự và các mục
+thống kê theo loại hình tổ chức khám bệnh, chữa bệnh nội trú, ngoại trú và các
+nhóm đối tượng.
+Từ cột 1 đến cột 17 thống kê số lượt,
+chi phí trong phạm vi hưởng BHYT
+Cột 1: Ghi tổng số lượt hồ sơ được
+chấp nhận sau giám định. Cột 2: Ghi tổng số ngày điều trị nội trú sau giám định.
+Từ cột 3 đến cột 8: ghi các khoản chi
+trong phạm vi BHYT đã giám định gồm: Thuốc/hóa chất, vật tư y tế, máu/chế phẩm
+máu, dịch vụ khám bệnh, chữa bệnh, vận chuyển. Trong đó:
+Cột 3 = Tổng cột 4 đến cột 8 =
+Tổng cột 9 đến cột 15
+Cột 8: Dịch vụ khám bệnh, chữa
+bệnh bao gồm các chi phí: khám bệnh, giường bệnh, xét nghiệm, chẩn đoán hình
+ảnh - thăm dò chức năng, Thủ thuật - phẫu thuật, dịch vụ kỹ thuật theo tỷ lệ.
+Cột 9 đến cột 15: Ghi số tiền sau
+giám định tương ứng với số đề nghị của cơ sở tại các mã từ 11-17 trên Mẫu
+C79-HD.
+Phương pháp ghi chép tương tự các mã từ 11- 17 trên Mẫu C79-HD được
+hướng dẫn tại Thông tư số 102/2018/TT-BTC
+.
+Cột 16, 17: Ghi số lượt, số tiền
+từ chối qua công tác giám định
+Cột 18: Ghi số tiền ngoài phạm vi được
+BHYT, tương ứng cột 18 Mẫu C79-HD.
+Mục B: Hồ sơ trong mẫu đã được
+giám định trực tiếp
+Phản ánh kết quả giám định của các
+hồ sơ trong mẫu đã được giám định trực tiếp (hồ sơ đưa vào trong mẫu và được chọn
+để thực hiện giám định trực tiếp). Các chỉ tiêu ghi chép tương ứng với Mục A.
+Mục C: Hồ sơ ngoài mẫu chưa
+được giám định trực tiếp
+Hồ sơ ngoài mẫu chưa được giám
+định trực tiếp là các hồ sơ còn lại trong danh sách chọn mẫu, nhưng cơ quan
+BHXH không thực hiện giám định trực tiếp. Căn cứ số chi theo đề nghị của cơ sở
+KCB và tỷ lệ sai sót của hồ sơ trong mẫu đã giám định trực tiếp để phản ánh số
+chi trong phạm vi thanh toán BHYT tại mục này. Các chỉ tiêu ghi chép tương ứng
+với Mục A.
+Các chi phí không thống nhất thanh
+toán trong kỳ tại các Mục A, B, C được phản ánh vào Cột 17 các Mục nêu trên.
+Mục D: Số chi trong quý tổng
+hợp vào quyết toán
+Ghi số lượt, số tiền phát sinh
+trong quý đưa vào thanh toán từ quỹ BHYT, bao gồm 18 cột.
+Cột A, B: Số thứ tự và các mục
+thống kê theo loại hình tổ chức khám bệnh, chữa bệnh nội trú, ngoại trú và các
+nhóm đối tượng.
+Cột 1 đến Cột 8: là tổng số lượt,
+số chi trong kỳ được cơ quan BHXH đưa vào quyết toán, bằng số đề nghị của cơ sở
+KCB trừ đi số từ chối đã ghi nhận vào dữ liệu và trừ số chi KCB không đưa vào quyết
+toán do chưa thống nhất giữa cơ sở KCB và cơ quan BHXH.
+Cột 9 đến cột 16: phản ánh số chi KCB
+không đưa vào quyết toán do chưa thống nhất giữa cơ sở KCB và cơ quan BHXH. Số
+chi cơ sở KCB chưa thống nhất, hằng quý quyết toán tạm thời chưa phản ánh giảm
+trừ vào dữ liệu, đến hết năm tài chính sau khi đã chốt số liệu quyết toán thì
+phản ánh đủ vào dữ liệu.
+Mục E: Điều chỉnh số chi KCB
+quý trước
+Ghi số lượt, số tiền điều chỉnh thanh
+toán trong kỳ từ quỹ BHYT, bao gồm 18 cột.
+Cột A, B: Số thứ tự và các mục
+thống kê theo loại hình tổ chức khám bệnh, chữa bệnh nội trú, ngoại trú và các
+nhóm đối tượng.
+Mục E1 điều chỉnh số quyết toán
+quý trước: cột 1 đến cột 8 giảm số quyết toán các quý trước; cột 9 đến cột 16
+tăng số quyết toán các quý trước. Hằng quý cơ quan BHXH căn cứ văn bản hướng
+dẫn, kết luận thanh tra kiểm tra, biên bản chốt số liệu giám định với cơ sở KCB
+để điều chỉnh tăng/giảm nếu có.
+Mục E2 điều chỉnh số chi chưa
+thống nhất quý trước: cột 1 đến cột 8 phản ánh số quyết toán bổ sung của các số
+chi chưa thống nhất kỳ trước, cột 9 đến cột 16 phản ánh số chưa thống nhất tiếp
+tục chưa chấp nhận quyết toán.
+Đến hết năm tài chính, sau khi đã chốt
+các số liệu đưa vào quyết toán (kể cả số chưa thống nhất và số điều chỉnh vào
+kỳ sau của các quý trong năm), cơ quan BHXH BHXH phải thực hiện việc ghi nhận
+phần chi phí không quyết toán trên dữ liệu chi tiết (chốt 3) đảm bảo số tổng
+hợp vào quyết toán trong năm khớp với dữ liệu trên Hệ thống thông tin giám định
+BHYT.
+Bảng tổng hợp chi phí khám, chữa bệnh
+BHYT do cơ quan BHXH đã giám định, thẩm định phải có đầy đủ chữ ký của cán bộ
+xét duyệt, phụ trách bộ phận giám định, Giám đốc cơ quan BHXH ký, ghi rõ họ tên
+và đóng dấu. Đi kèm với mẫu biểu này là file dữ liệu chi tiết đầy đủ các thông
+tin về danh sách các người bệnh có điều chỉnh chi phí KCB, trong đó thể hiện rõ
+số tiền đề nghị thanh toán, số tiền từ chối, lý do từ chối chi tiết theo từng
+người bệnh, từng nguyên nhân. Số tiền ghi vào biểu này được làm tròn đến tiền
+đồng.
+Mẫu biểu này được lập thành 02
+bản, cơ sở KCB giữ 01 bản, cơ quan BHXH giữ 02 bản.
+ĐƠN VỊ:………………
+BỘ PHẬN:……………
+Mẫu số: C82-HD
+BIÊN BẢN THANH,
+QUYẾT TOÁN CHI PHÍ KHÁM CHỮA BỆNH BẢO HIỂM Y TẾ
+Quý…….. Năm………..
+Căn cứ hợp đồng KCB BHYT số:………… ngày……. tháng………
+năm………..giữa
+BHXH …………………………….và cơ sở khám, chữa bệnh
+......................................
+Hôm nay, ngày……… tháng ……năm …….tại
+..............................................................
+Chúng tôi gồm:
+Đại diện cơ quan BHXH:
+Ông (Bà): …………………………………………Chức vụ:
+..........................................
+Ông (Bà): …………………………………………Chức vụ:
+..........................................
+Ông (Bà): …………………………………………Chức vụ:
+.........................................
+Đại diện cơ sở khám, chữa bệnh:
+Ông (Bà): …………………………………………Chức vụ:
+..........................................
+Ông (Bà): …………………………………………Chức vụ:
+..........................................
+Ông (Bà): ………………………….………………Chức vụ:
+.........................................
+Cùng nhau tiến hành xác định và lập biên bản thanh,
+quyết toán chi phí KCB BHYT quý .... năm như sau:
+Đơn
+vị: ……….
+TT
+Chỉ tiêu
+Mã số
+Tổng cộng
+Trong quý
+Điều chỉnh các
+  quý trước
+Lũy kế từ đầu
+  năm
+A
+B
+C
+1=2+3
+2
+3
+4
+A
+KINH PHÍ CHI KCB ĐƯỢC SỬ DỤNG
+1
+1
+Kinh phí xác định tại đơn vị
+2=3+4
+1.1
+Kinh phí kỳ trước chuyển sang
+3
+1.2
+Kinh phí trong kỳ
+4
+2
+Tổng mức thanh toán của cơ sở KCB trong năm
+5
+2.1
+Xác định theo số chi KCB năm trước
+6
+2.2
+Cn
+7
+B
+CHI KCB BHYT PHÁT SINH TẠI CƠ SỞ KCB
+8=10+34+35
+B1
+Chi KCB kỳ trước chưa quyết toán do vượt nguồn
+  kinh phí
+9=mã 62 kỳ trước
+B2
+CHI KCB TỔNG HỢP VÀO QUYẾT TOÁN
+10=11+21
+I
+Đối tượng theo Nghị định 146
+11=12+15+18
+1
+Ngoại tỉnh đến
+12=13+14
+1.1
+Tính trong tổng mức thanh toán
+13
+1.2
+Tính ngoài tổng mức thanh toán
+14
+2
+Nội tỉnh đến
+15=16+17
+2.1
+Tính trong tổng mức thanh toán
+16
+2.2
+Tính ngoài tổng mức thanh toán
+17
+3
+Đăng ký ban đầu
+18=19+20
+3.1
+Tính trong tổng mức thanh toán
+19
+3.2
+Tính ngoài tổng mức thanh toán
+20
+II
+Đối tượng theo Nghị định 70
+21=22+23+28+3 1
+1
+CY ngoại tỉnh
+22=23+24
+1.1
+Trong phạm vi BHYT
+23
+1.2
+Ngoài phạm vi BHYT
+24
+2
+CY nội tỉnh
+25=26+27
+2.1
+Trong phạm vi BHYT
+26
+2.2
+Ngoài phạm vi BHYT
+27
+3
+Đối tượng QN
+28=29+30
+3.1
+Trong phạm vi BHYT
+29
+3.2
+Ngoài phạm vi BHYT
+30
+4
+Đối tượng CA
+31=32+33
+4.1
+Trong phạm vi BHYT
+32
+4.2
+Ngoài phạm vi BHYT
+33
+B3
+Số chi đã thanh toán trực tiếp
+34
+B4
+Số chi chưa thống nhất quyết toán
+35
+C
+SỐ QUYẾT TOÁN TRONG KỲ
+36=37+48+51
+I
+Quyết toán số chi KCB trong kỳ
+37=38+42
+1
+Chi trong tổng mức thanh toán
+38=39+40+41
+1.1
+Ngoại tỉnh đến
+39
+1.2
+Nội tỉnh đến
+40
+1.3
+Đăng ký ban đầu
+41
+2
+Chi ngoài tổng mức thanh toán
+42=43+44+45+4 6+47
+2.1
+Đối tượng Nghị định 146
+43
+2.2
+CY ngoại tỉnh
+44
+2.3
+CY nội tỉnh
+45
+2.4
+Đối tượng QN
+46
+2.5
+Đối tượng CA
+47
+II
+Chi KCB vượt nguồn kinh phí kỳ trước được
+  quyết toán trong kỳ
+48=49+50+51
+1
+Ngoại tỉnh đến
+49
+2
+Nội tỉnh đến
+50
+3
+Đăng ký ban đầu
+51
+III
+Chi KCB BHYT năm trước được quyết toán bổ sung
+  vào năm nay
+52=53+54+55
+1
+Ngoại tỉnh đến
+53
+2
+Nội tỉnh đến
+54
+3
+Đăng ký ban đầu
+55
+D
+Chi KCB thanh toán tập trung
+56=57+58
+I
+Từ quỹ BHYT tại Trung ương
+57
+II
+Cùng chi trả của người bệnh được hỗ trợ từ nguồn
+  khác
+58
+E
+SỐ CHƯA QUYẾT TOÁN
+59=60+61+62+63
+1
+Chi vượt tổng mức thanh toán, không vượt nguồn
+  kinh phí
+60
+2
+Chi vượt tổng mức thanh toán và vượt nguồn kinh
+  phí
+61
+3
+Chi trong tổng mức thanh toán, vượt nguồn kinh phí
+62= (10+34)-
+  (02+57)
+4
+Số chi KCB BHYT chưa thống nhất quyết toán
+63
+G
+SỐ DƯ CUỐI KỲ
+64
+H
+THANH TOÁN VỚI CƠ SỞ KCB
+65
+I
+Số tiền tạm ứng còn dư kỳ trước chuyển sang
+66
+II
+Số tiền đã tạm ứng, thanh toán trong kỳ
+67
+III
+Số phải thanh toán theo số quyết toán trong
+  kỳ (trừ chi KCB thanh toán từ nguồn tập trung)
+68=69+70
+1
+Số quyết toán chi KCB BHYT trong kỳ
+69=36-57
+2
+80% số chi KCB chưa thống nhất trong kỳ
+70=63x80%
+IV
+Số thanh toán bổ sung chi phí KCB BHYT năm
+  trước
+71
+V
+Số phải nộp cơ quan BHXH
+72=73+74
+1
+Giảm trừ số đã quyết toán chi KCB BHYT năm
+  trước
+73
+2
+Giảm trừ số đã tạm ứng kỳ trước
+74
+VI
+Số tiền tạm ứng còn dư chuyển kỳ sau
+75=(66+67)-
+  (68+71-72)
+1. Ý kiến của cơ quan BHXH: Ghi rõ nguyên nhân các
+chi phí chưa thống nhất quyết toán:
+- Nguyên nhân không chấp nhận quyết toán
+…................................................................
+...........................................................................................................................................
+- Nguyên nhân cơ sở y tế tiếp tục giải trình,
+thuyết minh………………………………
+……………………………………………………………………………………….………
+2. Ý kiến của cơ sở khám, chữa bệnh:
+...........................................................................................................................................
+CƠ SỞ KHÁM,
+  CHỮA BỆNH BHYT
+CƠ QUAN BHXH
+TP. KẾ HOẠCH
+  TỔNG HỢP
+(Ký, họ tên)
+KẾ TOÁN TRƯỞNG
+(Ký, họ tên)
+THỦ TRƯỞNG ĐƠN
+  VỊ
+(Ký, họ tên,  )
+TP. GIÁM ĐỊNH
+  BHYT
+(Ký, họ tên)
+KẾ TOÁN TRƯỞNG
+(Ký, họ tên)
+THỦ TRƯỞNG ĐƠN
+  VỊ
+(Ký, họ tên, đóng dấu)
+Phương pháp lập
+và trách nhiệm ghi mẫu C82-HD
+Cột dọc
+Các cột A, B, C: Ghi thứ tự, chỉ tiêu, mã số.
+Cột 1: Tổng số phát sinh trong kỳ (Cột 1 = cột 2+
+cột 3)
+Cột 2: Ghi số tiền phát sinh trong quý
+Cột 3: Ghi số tiền điều chỉnh tăng hoặc giảm của
+các quý trước trong năm
+Cột 4: Luỹ kế số tiền phát sinh trong năm.
+Hàng ngang
+Phần A. Kinh phí được sử dụng trong kỳ, Mã số 01
+Phần B. Chi phí KCB BHYT phát sinh tại cơ sở KCB,
+Mã số 08
+Phần C. Số quyết toán trong kỳ, Mã số 36
+Phần D. Chi thanh toán từ nguồn tập trung trong số
+đã quyết toán, mã số 56
+Phần E. Số chưa quyết toán, Mã số 59
+Phần G. Số dư cuối kỳ, Mã số 64
+Phần H. Thanh toán với cơ sở KCB, Mã số 65
+Phần A:
+Kinh phí chi KCB được sử dụng, Mã số
+01
+Mã số 01: Phản ánh kinh phí KCB BHYT được sử dụng
+trong kỳ cho phần chi KCB BHYT phát sinh tại cơ sở KCB,(bao gồm chi trong tổng
+mức thanh toán, ngoài tổng mức thanh toán, chi từ nguồn tập trung, chi thanh
+toán trực tiếp)
+Hằng quý: kinh phí KCB BHYT được sử dụng trong kỳ
+được tính bằng tổng nguồn kinh phí được sử dụng trong kỳ (hằng quý Mã số 01=Mã
+số 02+Mã số 57)
+Lũy kế cả năm: kinh phí KCB được sử dụng trong kỳ
+không vượt quá tổng mức thanh toán sử dụng trong năm và không vượt quá nguồn
+kinh phí được giao. (hằng năm Mã số 01 = min (Mã số 02 +Mã số 57, Mã số 5 + Mã
+số 14+ Mã số 17 + Mã số 20 + Mã số 21)
+Mã số 02: Kinh phí xác định tại đơn vị phản ánh chi
+KCB BHYT được sử dụng trong kỳ bằng kinh phí dư kỳ trước chuyển sang cộng với
+kinh phí chi KCB được sử dụng trong kỳ. Mã số 02 = Mã số 03+Mã số 04.
+Mã số 03: Kinh phí dư kỳ trước chuyển sang, Mã số
+03 = Mã số 64 kỳ trước.
+Mã số 04: Kinh phí trong kỳ: Căn cứ nguồn kinh phí
+được cấp có thẩm quyền thông báo hàng năm trên cơ sở dự toán Thủ tướng Chính
+phủ giao, cơ sở KCB đăng ký nguồn kinh phí theo quý để thực hiện quyết toán
+theo quy định tại Nghị định 146/2018/NĐ-CP
+.
+Trường hợp, cơ sở không đăng
+ký, nguồn kinh phí được thông báo sẽ chia đều 4 quý để thực hiện việc quyết
+toán chi phí KCB tại cơ sở.
+Mã số 05: Tổng mức thanh toán chi phí KCB BHYT cho
+cơ sở KCB hàng năm theo quy định tại khoản 4, Điều 24 Nghị định 146/2018/NĐ-CP,
+chỉ xác định một lần trong năm, ghi vào cột lũy kế của kỳ quyết toán quý 4. Mã
+5 = Mã 6 + Mã 7
+Mã số 06: Số chi năm trước được quyết toán đã điều
+chỉnh nhân với hệ số k theo quy định tại Khoản 4, Điều 24, Nghị định
+146/2018/NĐ-CP
+Mã số 07: Số chi tăng giảm Cn theo quy định tại
+Điều 24 Nghị định 146/2018/NĐ-CP
+Phần B:
+Chi KCB BHYT phát sinh tại cơ sở KCB,
+Mã số 08, phản ánh toàn bộ chi phí KCB BHYT phát sinh tại cơ sở y tế đề nghị
+thanh toán Mã số 08 = Mã số 10 + Mã số 34 + Mã số 35
+Phần B1:
+Phản ánh số chi KCB BHYT quý trước chưa
+quyết toán chuyển sang, mã 09 = mã 62 kỳ trước
+Phần B2
+: Phản ánh số chi KCB BHYT đã được hai
+bên thống nhất tổng hợp vào quyết toán.
+Mã số 10 = Mã số 11 + Mã số 21
+Mục I.
+Chi của đối tượng thuộc Nghị
+định 146, Mã số 11=Mã số 12+Mã số 15 + Mã số 18
+1. Mã số 12 chi KCB của đối tượng đa tuyến đến
+ngoại tỉnh. Mã số 12 = Mã số 13 + Mã số 14.
+Mã số 13 là chi KCB BHYT tính trong tổng mức thanh
+toán đối với cơ sở thanh toán theo phí dịch vụ; là chi trong định suất đối với
+cơ sở thanh toán theo định suất.
+Mã số 14 là chi ngoài tổng mức thanh toán đối với
+cơ sở thanh toán theo phí dịch vụ như chi phí vận chuyển; là chi ngoài định
+suất đối với cơ sở thanh toán theo định suất.
+2. Mã số 15, chi khám, chữa bệnh của đối tượng đa
+tuyến đến nội tỉnh. Mã số 15 = Mã số 16 + Mã số 17
+Mã số 16 là chi KCB BHYT tính trong tổng mức thanh
+toán đối với cơ sở thanh toán theo phí dịch vụ; là chi trong định suất đối với
+cơ sở thanh toán theo định suất.
+Mã số 17 là chi ngoài tổng mức thanh toán đối với
+cơ sở thanh toán theo phí dịch vụ như chi phí vận chuyển; là chi ngoài định
+suất đối với cơ sở thanh toán theo định suất.
+3- Mã số 18, là chi KCB của đối tượng đăng ký KCB
+ban đầu (không tính đối tượng mang mã thẻ CY do BHXH tỉnh phát hành thẻ). Mã số
+18 = Mã số 19 + Mã số 20
+Mã số 19 là chi KCB BHYT tính trong tổng mức thanh
+toán đối với cơ sở thanh toán theo phí dịch vụ; là chi trong định suất đối với
+cơ sở thanh toán theo định suất.
+Mã số 20 là chi ngoài tổng mức thanh toán đối với
+cơ sở thanh toán theo phí dịch vụ như chi phí vận chuyển; là chi ngoài định
+suất đối với cơ sở thanh toán theo định suất.
+Mã số 14,17,20 chỉ ghi chi phí tính ngoài tổng mức
+thanh toán quy định tại Điều 24 Nghị định 146/2018/NĐ-CP (chi phí vận chuyển)
+Mục II.
+Chi của đối tượng thuộc Nghị
+định 70/2015/NĐ-CP, Mã số 21 = Mã số 22+Mã số 25 + Mã số 28 + Mã số 31. Chi của
+đối tượng thuộc Nghị định 70 không tính trong tổng mức thanh toán.
+1. Chi KCB của đối tượng mang mã thẻ CY ngoại tỉnh
+(do BHXH tỉnh khác phát hành thẻ, không gồm đối tượng CY của Bộ Quốc phòng phát
+hành thẻ). Mã số 22 = Mã số 23 + Mã số 24
+Mã số 23 là chi trong phạm vi BHYT thanh toán, theo
+Khoản 1, Điều 10 Nghị định số 70/2015/NĐ-CP
+Mã số 24 là chi ngoài phạm vi BHYT thanh toán, theo
+Khoản 2, Điều 10 Nghị định số 70/2015/NĐ-CP
+2. Chi KCB của đối tượng mang mã thẻ CY nội tỉnh
+(do BHXH tỉnh phát hành thẻ). Mã số 25 = Mã số 26 + Mã số 27
+Mã số 26 là chi trong phạm vi BHYT thanh toán
+Mã số 27 là chi ngoài phạm vi BHYT thanh toán
+3. Chi KCB của đối tượng thuộc Nghị định 70 do Bộ
+Quốc phòng phát hành thẻ. Mã số 28 = Mã số 29 + Mã số 30
+Mã số 29 là chi trong phạm vi BHYT thanh toán
+Mã số 30 là chi ngoài phạm vi BHYT thanh toán
+4. Chi KCB của đối tượng thuộc Nghị định 70 do Bộ
+Công an phát hành thẻ. Mã số 31 = Mã số 32 + Mã số 33
+Mã số 32 là chi trong phạm vi BHYT thanh toán
+Mã số 33 là chi ngoài phạm vi BHYT thanh toán
+Mục B3:
+Chi phát sinh tại cơ sở KCB đã thanh
+toán trực tiếp tại cơ quan BHXH, Mã số 34.
+Năm 2019 là số chi do BHXH tỉnh đó thanh toán, trực
+tiếp, không bao gồm số chi thanh toán trực tiếp do BHXH tỉnh khác thanh toán.
+Từ năm 2020 là toàn bộ số chi thanh toán trực tiếp
+của đối tượng thuộc Nghị định 146.
+Phần B4
+: Chi phí KCB chưa thống nhất quyết toán,
+Mã số 35 là chi KCB chưa quyết toán nhưng cơ sở y tế chưa thống nhất, bằng cột
+10 mục D của biểu C80-HD.
+Trường hợp có điều chỉnh số tổng hợp vào quyết
+toán kỳ trước phản ánh vào cột 3 theo các mã số phát sinh trong mục B này.
+Phần C:
+Số quyết toán trong kỳ, Mã số 36 = Mã
+số 37 + Mã số 48 + Mã số 52
+Mục I
+. Quyết toán số chi KCB trong
+kỳ, Mã số 37 =Mã số 38+ Mã số 42
+Mã 37 có bao gồm chi KCB thanh toán từ nguồn tập
+trung.
+1. Chi trong tổng mức thanh toán,
+Mã số 38
+Mã số 39: Chi KCB của đối tượng đa
+tuyến đến ngoại tỉnh.
+Mã số 40: Chi KCB của đối tượng đa
+tuyến đến nội tỉnh
+Mã số 41: Chi KCB đối tượng đăng
+ký KCB ban đầu.
+- Trường hợp không vượt kinh phí
+được sử dụng trong kỳ thì:
+Mã số 38= Mã số 39+ Mã số 40+ Mã
+số 41;
+Mã 39 = Mã 13; Mã 40 = Mã 16; Mã
+41 = Mã 19
+- Trường hợp vượt kinh phí được sử
+dụng trong kỳ thì:
+Mã số 38 =min (Mã 1- Mã 34 - Mã
+42, Mã 13+Mã 16+Mã 19).
+Số chi được quyết toán theo thứ tự
+Mã số 39, Mã số 40, Mã số 41.
+2. Chi KCB tính ngoài tổng mức
+thanh toán, Mã số 42
+Mã số 42 = Mã số 43 + Mã số 44+ Mã
+số 45 + Mã số 46 +Mã số 47
+Mã số 43: Chi tính ngoài tổng mức thanh
+toán của đối tượng Nghị định 146.
+Mã số 44: Chi KCB BHYT của đối
+tượng CY do BHXH tỉnh khác phát hành thẻ (không gồm CY do Bộ Quốc phòng phát
+hành)
+Mã số 45: Chi KCB BHYT của đối
+tượng CY do BHXH tỉnh phát hành thẻ,
+Mã số 46: Chi KCB của đối tượng thuộc
+Nghị định 70 do Bộ Quốc phòng phát hành thẻ
+Mã số 47: Chi KCB của đối tượng thuộc
+Nghị định 70 do Bộ Công an phát hành thẻ.
+Mục II
+. Bổ sung chi KCB BHYT kỳ trước vượt Kinh phí chi KCB được quyết
+toán vào kỳ này, Mã số 48 =Mã số 49+ Mã số 50 + Mã số 51
+Trường hợp nguồn kinh phí trong kỳ
+còn dư ( Mã 1 – Mã 34 – Mã 42 > Mã 13 + Mã 16 + Mã 19) và còn số chi KCB vượt
+nguồn kỳ trước chưa được quyết toán (Mã 09 >0), thì bổ sung số quyết toán kỳ
+trước vào các mã 49, 50 sao cho tổng Mã 48 không vượt quá Số vượt kinh phí kỳ
+trước chưa được quyết toán và không vượt quá nguồn kinh phí còn dư trong kỳ.
+Mục III.
+Mã số 52: Số chi KCB năm trước được BHXH Việt Nam đồng ý quyết toán
+bổ sung vào năm nay ( không bao gồm chi: KCB theo thông báo thẩm định số liệu
+quyết toán năm trước của BHXH Việt Nam).
+Mã số 53 số chi năm trước của đối tượng
+ngoại tỉnh đến
+Mã số 54: số chi năm trước của đối
+tượng nội tỉnh đến
+Mã số 55: số chi năm trước của đối
+tượng đăng ký KCB ban đầu.
+Phần D:
+Chi KCB BHYT thanh toán tập trung, Mã số 56 = Mã số 57 + Mã số 58
+Mục I:
+Chi KCB BHYT từ quỹ BHYT thanh toán (như chi thuốc kháng HIV), trong
+số đã quyết toán, Mã số 57. Phản ánh trong tổng số chi đã quyết toán tại Mã số
+37 có một phần chi từ nguồn thanh toán tập trung.
+Từ năm 2019 thống kê chi phí thuốc
+kháng HIV được cơ quan BHXH cấp đã sử dụng cho người bệnh BHYT trong quý vào mục
+này.
+Mục II
+:
+Chi phí cùng chi trả thanh toán từ nguồn
+khác. Từ năm 2019 thống kê chi phí cùng chi trả của thuốc kháng HIV đã sử dụng
+trong kỳ, do Sở Y tế/Quỹ KCB cho người nghèo/Quỹ hỗ trợ người nhiễm HIV chi
+trả, Mã số 58.
+Phần E.
+Số chưa quyết toán, Mã số 59= Mã số 60 + Mã số 61+ Mã số 62 + Mã số
+63. Phản ánh số chưa quyết toán do vượt nguồn kinh phí và tổng mức thanh toán.
+1. Chi phí vượt tổng mức thanh
+toán, trong nguồn kinh phí, Mã số 60
+2. Chi phí vượt tổng mức thanh
+toán, vượt nguồn kinh phí, Mã số 61
+3. Chi phí trong tổng mức thanh
+toán, nhưng vượt nguồn kinh phí, Mã số 62.
+Trường hợp cơ sở có số chi vượt nguồn
+kinh phí trong kỳ thì phản ánh mã 62= (10+34)-(02+57).
+Hằng quý: không phản ánh chỉ tiêu
+mã số 60, 61
+Lũy kế cả năm: phản ánh đủ các chỉ
+tiêu mã số 60 đến mã số 62. Trường hợp cơ sở KCB có tổng mức thanh toán lớn hơn
+nguồn kinh phí được giao thì chỉ phản ánh số liệu tại Mã số 59, mã số 60 (mã số
+58=0). Trường hợp cơ sở KCB có tổng mức thanh toán thấp hơn nguồn kinh phí được
+giao thì phản ánh số liệu tại Mã số 58, Mã số 59 (Mã số 60=0).
+4. Số chi KCB BHYT chưa thống nhất
+quyết toán trong kỳ, Mã số 63.
+Phần G.
+Số dư cuối kỳ, Mã số 64: phản ánh nguồn kinh phí KCB còn dư chuyển
+kỳ sau
+Phần H.
+Thanh toán với cơ sở KCB, Mã số 65
+I. Số tiền tạm ứng còn dư kỳ trước
+chuyển sang, Mã số 66
+II. Số tiền đã tạm ứng, thanh toán
+trong kỳ, Mã số 67: ghi số tiền cơ quan BHXH chuyển cho cơ sở KCB trong kỳ, căn
+cứ vào số tiền ghi trên ủy nhiệm chi chuyển cho cơ sở KCB.
+III. Số chi phải thanh toán theo
+số quyết toán trong kỳ (trừ chi KCB thanh toán từ nguồn tập trung), Mã số 68=
+Mã số 69 + Mã số 70.
+1. Số quyết toán chi KCB BHYT
+trong kỳ, Mã số 68. Số chi này không bao gồm số chi KCB thanh toán từ nguồn tập
+trung như thuốc kháng HIV. Mã số 68 = Mã số 36 - Mã số 57.
+2. Số tạm ứng 80% đối với chi KCB
+chưa thống nhất quyết toán trong kỳ, trong tổng mức thanh toán, Mã số 70. Mã số
+70 = 80% x Mã số 63.
+IV. Số tiền năm trước thanh toán
+bổ sung theo thông báo thẩm định số liệu quyết toán năm trước của BHXH Việt
+Nam, Mã số 71.
+V. Số phải nộp về cơ quan BHXH, mã
+số 72 = Mã số 73+Mã số 74
+1. Giảm trừ số chi đã quyết toán
+chi KCB BHYT năm trước, Mã số 73
+2. Giảm trừ số đã tạm ứng kỳ
+trước, Mã số 74
+VI. Số tiền tạm ứng còn dư chuyển
+kỳ sau, Mã số 75, là số tiền tạm ứng còn dư (là số dương) hoặc còn nợ cơ sở
+khám, chữa bệnh nếu (là số âm)
+Mã số 75 = Mã số 66 + Mã số 67 –
+(Mã số 68 + Mã số 71 - Mã số 72)
+Trách nhiệm lập: Phòng Giám định BHYT
+chịu trách nhiệm lập và xác nhận số liệu từ mục A đến mục G. Kế toán trưởng
+chịu trách nhiệm xác nhận số liệu thanh toán với cơ sở KCB tại mục H.
+Mẫu số C82-HD được lập thành 04
+bản, cơ quan BHXH giữ 02 bản, cơ sở KCB giữ 02 bản.
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

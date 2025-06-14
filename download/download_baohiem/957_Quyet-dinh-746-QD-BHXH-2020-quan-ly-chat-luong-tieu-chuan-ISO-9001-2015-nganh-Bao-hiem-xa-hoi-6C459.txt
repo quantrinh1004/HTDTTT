@@ -1,0 +1,783 @@
+BẢO HIỂM XÃ HỘI
+  VIỆT NAM
+--------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+--------------------
+Số: 746/QĐ-BHXH
+Hà Nội, ngày 20
+  tháng 05 năm 2020
+QUYẾT ĐỊNH
+VỀ
+VIỆC BAN HÀNH KẾ HOẠCH CHUYỂN ĐỔI VIỆC XÂY DỰNG, ÁP DỤNG HỆ THỐNG QUẢN LÝ CHẤT
+LƯỢNG THEO TIÊU CHUẨN QUỐC GIA TCVN ISO 9001:2008 SANG TIÊU CHUẨN QUỐC GIA TCVN
+ISO 9001:2015 VÀO HOẠT ĐỘNG CỦA NGÀNH BẢO HIỂM XÃ HỘI
+TỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM
+Căn cứ Quyết định số 19/2014/QĐ-TTg ngày
+05/3/2014 của Thủ tướng Chính phủ về việc áp dụng Hệ thống quản lý chất lượng
+theo Tiêu chuẩn quốc gia TCVN ISO 9001:2008 vào hoạt động của các cơ quan, tổ
+chức thuộc hệ thống hành chính nhà nước;
+Căn cứ Thông tư số 26/2014/TT-BKHCN ngày
+10/10/2014 của Bộ Khoa học và Công nghệ quy định chi tiết thi hành Quyết định số
+19/2014/QĐ-TTg ngày 05/3/2014 của Thủ tướng Chính phủ về việc áp dụng Hệ thống
+quản lý chất lượng theo tiêu chuẩn quốc gia TCVN ISO 9001:2008 vào hoạt động của
+các cơ quan, tổ chức thuộc hệ thống hành chính nhà nước;
+Căn cứ Quyết định số 4109/QĐ-BKHCN ngày
+31/12/2015 của Bộ Khoa học và Công nghệ về việc công bố tiêu chuẩn quốc gia;
+Căn cứ Công văn số 419/BKHCN-TĐC ngày 21/02/2018
+của Bộ Khoa học và Công nghệ về lộ trình chuyển đổi áp dụng TCVN ISO 9001:2015;
+Căn cứ công văn số 3003/BKHCN-TĐC ngày 25/9/2018
+của Bộ Khoa học và Công nghệ hướng dẫn áp dụng tiêu chuẩn quốc gia TCVN ISO
+9001:2015;
+Xét đề nghị của Vụ trưởng Vụ Pháp chế,
+QUYẾT ĐỊNH:
+Điều 1.
+Ban hành kèm theo Quyết định này Kế hoạch chuyển đổi việc
+xây dựng, áp dụng hệ thống quản lý chất lượng theo tiêu chuẩn quốc gia TCVN ISO
+9001:2008 sang tiêu chuẩn quốc gia TCVN ISO 9001:2015 vào hoạt động của ngành
+Bảo hiểm xã hội.
+Điều 2.
+Quyết định này có hiệu lực thi hành kể từ ngày ký. Vụ trưởng
+Vụ Pháp chế, Chánh Văn phòng Bảo hiểm xã hội Việt Nam, Thủ trưởng các đơn vị
+trực thuộc Bảo hiểm xã hội Việt Nam, Giám đốc Bảo hiểm xã hội các tỉnh, thành
+phố trực thuộc trung ương, Giám đốc Bảo hiểm xã hội các quận, huyện, thị xã
+trực thuộc tỉnh và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành
+Quyết định này./.
+Nơi nhận:
+- Như Điều 2;
+- Bộ KH&CN (để b/c);
+- Tổng Giám đốc (để b/c);
+- Các Phó TGĐ;
+- Lưu: VT, PC.
+KT. TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Đào Việt Ánh
+KẾ HOẠCH
+CHUYỂN
+ĐỔI VIỆC XÂY DỰNG, ÁP DỤNG HỆ THỐNG QUẢN LÝ CHẤT LƯỢNG THEO TIÊU CHUẨN QUỐC GIA
+TCVN ISO 9001:2008 SANG TIÊU CHUẨN QUỐC GIA TCVN ISO 9001:2015 VÀO HOẠT ĐỘNG CỦA
+NGÀNH BẢO HIỂM XÃ HỘI
+(Ban hành kèm theo Quyết định số 746/QĐ-BHXH ngày 20/05/2020 của Bảo hiểm xã
+hội Việt Nam)
+I. MỤC ĐÍCH, YÊU CẦU
+1. Mục đích
+Thực hiện chuyển đổi việc xây dựng, áp dụng hệ thống
+quản lý chất lượng (HTQLCL) theo tiêu chuẩn quốc gia TCVN ISO 9001:2008 sang
+tiêu chuẩn quốc gia TCVN ISO 9001:2015 vào hoạt động của các đơn vị trực thuộc
+Bảo hiểm xã hội (BHXH) Việt Nam, BHXH tỉnh, thành phố trực thuộc Trung ương (gọi
+tắt là BHXH tỉnh), BHXH quận, huyện, thị xã, thành phố trực thuộc tỉnh (gọi tắt
+là BHXH huyện) nhằm thực hiện quy trình xử lý công việc khoa học, phù hợp với
+quy định của pháp luật trong quá trình thực hiện nhiệm vụ của các đơn vị; nâng
+cao chất lượng công tác quản lý và giải quyết các thủ tục hành chính (TTHC) đối
+với các tổ chức, cá nhân tham gia BHXH, bảo hiểm y tế (BHYT), bảo hiểm thất
+nghiệp (BHTN); đảm bảo sự thống nhất, minh bạch, hiện đại, hiệu quả trong việc
+quản lý và cung cấp dịch vụ hành chính công của ngành BHXH.
+2. Yêu cầu
+- Thực hiện đầy đủ các nội dung liên quan đến áp dụng
+phiên bản tiêu chuẩn quốc gia TCVN ISO 9001:2015 theo hướng dẫn của Bộ Khoa học
+và Công nghệ và các quy định của pháp luật về việc áp dụng HTQLCL theo tiêu chuẩn
+quốc gia vào hoạt động của các cơ quan, tổ chức thuộc hệ thống hành chính nhà
+nước; Đảm bảo đến tháng 6/2021 có 100% TTHC thuộc thẩm quyền giải quyết của
+BHXH Việt Nam được thực hiện theo quy trình ISO 9001:2015.
+- Xây dựng kế hoạch triển khai, xác định đầy đủ nội
+dung công việc, thời hạn hoàn thành và trách nhiệm của từng đơn vị trong việc
+thực hiện công việc được giao nhằm tạo sự phối hợp chặt chẽ, thống nhất trong
+phạm vi toàn Ngành.
+II. ĐỐI TƯỢNG THỰC HIỆN VÀ PHẠM
+VI ÁP DỤNG
+1. Đối tượng thực hiện
+- Cơ quan BHXH Việt Nam, bao gồm các đơn vị chuyên
+môn giúp việc Tổng Giám đốc theo quy định tại Nghị định số 01/2016/NĐ-CP ngày
+05/01/2016 của Chính phủ (gọi tắt là đơn vị giúp việc).
+- Các đơn vị sự nghiệp trực thuộc BHXH Việt Nam
+theo quy định tại Nghị định số 01/2016/NĐ-CP (gọi tắt là đơn vị sự nghiệp).
+- BHXH tỉnh.
+- BHXH huyện.
+2. Phạm vi áp dụng
+Chuyển đổi, áp dụng HTQLCL theo tiêu chuẩn quốc gia
+TCVN ISO 9001:2015 đối với TTHC thuộc thẩm quyền giải quyết của BHXH Việt Nam
+và thủ tục giải quyết công việc nội bộ trong từng đơn vị.
+III. KẾ HOẠCH TRIỂN KHAI
+1. Nội dung triển khai
+1.1. Mô hình khung HTQLCL theo tiêu chuẩn quốc
+gia TCVN ISO 9001:2015 của ngành BHXH
+- Rà soát và thực hiện chuyển đổi mô hình khung
+HTQLCL theo tiêu chuẩn quốc gia TCVN ISO 9001:2008 của ngành BHXH sang tiêu chuẩn
+TCVN ISO 9001:2015.
+- Thực hiện bổ sung, sửa đổi quy trình giải quyết
+TTHC thuộc thẩm quyền giải quyết của BHXH Việt Nam (chi tiết theo từng dịch vụ
+công).
+1.2. HTQLCL theo tiêu chuẩn quốc gia ISO
+9001:2015 của cơ quan BHXH Việt Nam
+- Rà soát và thực hiện chuyển đổi các quy trình,
+tài liệu chung theo yêu cầu của HTQLCL theo tiêu chuẩn quốc gia TCVN ISO
+9001:2008 đã được xây dựng sang tiêu chuẩn TCVN ISO 9001:2015.
+- Thực hiện bổ sung, sửa đổi quy trình giải quyết
+công việc nội bộ theo chức năng, nhiệm vụ của cơ quan BHXH Việt Nam ở Trung
+ương.
+1.3. HTQLCL theo tiêu chuẩn quốc gia ISO
+9001:2015 của các đơn vị sự nghiệp
+- Rà soát và thực hiện chuyển đổi các quy trình,
+tài liệu chung theo yêu cầu của HTQLCL theo tiêu chuẩn quốc gia TCVN ISO
+9001:2008 đã được xây dựng sang tiêu chuẩn TCVN ISO 9001:2015.
+- Thực hiện bổ sung, sửa đổi quy trình giải quyết
+công việc nội bộ theo chức năng, nhiệm vụ của đơn vị.
+1.4. HTQLCL theo tiêu chuẩn quốc gia ISO
+9001:2015 của BHXH các tỉnh và BHXH các huyện
+- Thực hiện chuyển đổi các quy trình, tài liệu
+chung theo yêu cầu của HTQLCL theo tiêu chuẩn quốc gia TCVN ISO 9001:2008 đã được
+xây dựng sang tiêu chuẩn TCVN ISO 9001:2015.
+- Sửa đổi, bổ sung các quy trình giải quyết TTHC
+thuộc thẩm quyền của BHXH tỉnh, BHXH huyện.
+- Sửa đổi, bổ sung các quy trình giải quyết công việc
+nội bộ.
+2. Các bước triển khai
+2.1. Rà soát, kiện toàn thành phần Ban Chỉ đạo triển
+khai xây dựng và áp dụng HTQLCL theo tiêu chuẩn TCVN ISO 9001:2015
+- Rà soát, kiện toàn Ban Chỉ đạo triển khai xây dựng,
+áp dụng HTQLCL theo tiêu chuẩn TCVN ISO 9001:2015 của BHXH Việt Nam (gọi tắt là
+Ban Chỉ đạo ISO) và Tổ giúp việc Ban chỉ đạo ISO.
+- Rà soát, kiện toàn thành phần Ban Chỉ đạo triển
+khai xây dựng và áp dụng HTQLCL theo tiêu chuẩn TCVN ISO 9001:2015 của BHXH 63
+tỉnh cho phù hợp với yêu cầu mới.
+2.2. Xây dựng và ban hành kế hoạch chuyển đổi
+HTQLCL theo tiêu chuẩn TCVN ISO 9001:2015
+- Xây dựng và ban hành kế hoạch chuyển đổi HTQLCL
+theo tiêu chuẩn TCVN ISO 9001:2015 của ngành BHXH Việt Nam
+- Xây dựng và ban hành kế hoạch chuyển đổi HTQLCL
+theo tiêu chuẩn TCVN ISO 9001:2015 của BHXH địa phương
+2.3. Nghiên cứu, lựa chọn và ký hợp đồng tư vấn,
+đào tạo với tổ chức tư vấn đã được cấp Giấy xác nhận đủ điều kiện tư vấn, đào tạo
+theo quy định tại Thông tư số 26/2014/TT-BKHCN ngày 10/10/2014 của Bộ Khoa học
+và Công nghệ để hướng dẫn, hỗ trợ trong việc áp dụng phiên bản tiêu chuẩn quốc
+gia TCVN ISO 9001:2015.
+2.4. Đào tạo kiến thức và cách thức chuyển đổi
+HTQLCL theo tiêu chuẩn quốc gia TCVN ISO 9001:2015
+Nội dung đào tạo:
+- Kiến thức chung về HTQLCL theo tiêu chuẩn quốc
+gia TCVN ISO 9001:2015.
+- Các điểm mới của tiêu chuẩn quốc gia TCVN ISO
+9001:2015; phân tích, so sánh sự thay đổi giữa tiêu chuẩn quốc gia TCVN ISO
+9001:2015 với tiêu chuẩn quốc gia TCVN ISO 9001:2008.
+- Đào tạo cách thức xây dựng, chuyển đổi hệ thống
+tài liệu, quy trình giải quyết TTHC, quy trình giải quyết công việc nội bộ đáp ứng
+yêu cầu của tiêu chuẩn quốc gia TCVN ISO 9001:2015.
+2.5. Khảo sát, đánh giá thực trạng tình hình áp dụng
+HTQLCL của các đơn vị trong hệ thống ngành BHXH
+- Đánh giá thực trạng tình hình áp dụng HTQLCL của các
+đơn vị trong ngành BHXH; tổ chức khảo sát tại một số đơn vị trực thuộc BHXH ở
+Trung ương và địa phương.
+- Kiến nghị, đề xuất các nội dung cần xây dựng, sửa
+đổi, bổ sung cho phù hợp với tiêu chuẩn quốc gia TCVN ISO 9001:2015.
+2.6. Xây dựng và ban hành Mô hình khung HTQLCL theo
+tiêu chuẩn TCVN ISO 9001:2015 áp dụng đối với BHXH cấp tỉnh/cấp huyện, mô hình
+HTQLCL của BHXH Việt Nam và các đơn vị sự nghiệp trực thuộc
+a) Xác định Danh mục dịch vụ công tương ứng với các
+TTHC thuộc thẩm quyền giải quyết của Ngành, Danh mục công việc nội bộ cần chuyển
+đổi sang tiêu chuẩn quốc gia TCVN ISO 9001:2015, báo cáo Ban Chỉ đạo ISO thống
+nhất, phê duyệt
+- Xác định danh mục: Danh mục TTHC và Danh mục dịch
+vụ công tương ứng với các TTHC; Danh mục công việc nội bộ của cơ quan BHXH Việt
+Nam và Danh mục công việc nội bộ của các đơn vị sự nghiệp trực thuộc; Danh mục
+công việc nội bộ của BHXH các tỉnh, thành phố trực thuộc Trung ương và Danh mục
+công việc nội bộ của BHXH các quận, huyện, thị xã trực thuộc tỉnh.
+- Hội thảo trực tuyến lấy ý kiến BHXH các tỉnh,
+thành phố về Danh mục dịch vụ công, Danh mục công việc nội bộ cần chuyển đổi
+sang tiêu chuẩn quốc gia TCVN ISO 9001:2015.
+- Hoàn thiện, báo cáo Ban Chỉ đạo để thống nhất,
+phê duyệt danh mục.
+b) Xây dựng, hoàn thiện Mô hình khung
+- Xây dựng, hoàn thiện các tài liệu chung của
+HTQLCL theo yêu cầu của tiêu chuẩn quốc gia TCVN ISO 9001:2015.
+- Ban Chỉ đạo ISO phân công đơn vị chủ trì (các tổ
+chức giúp việc và các đơn vị sự nghiệp trực thuộc BHXH Việt Nam) và các đơn vị
+phối hợp (BHXH 05 tỉnh, thành phố) thực hiện xây dựng, hoàn thiện các tài liệu
+sau:
++ Các quy trình giải quyết dịch vụ công tương ứng với
+các TTHC của Ngành;
++ Các quy trình giải quyết công việc nội bộ của
+BHXH cấp tỉnh/BHXH cấp huyện.
+- Tổng hợp hệ thống các tài liệu chung, các quy
+trình giải quyết các dịch vụ công tương ứng với các TTHC và các quy trình giải
+quyết công việc nội bộ của BHXH tỉnh/BHXH huyện để hình thành Mô hình khung
+HTQLCL
+- Hội thảo trực tuyến lấy ý kiến về Mô hình khung
+HTQLCL.
+c) Hoàn thiện Mô hình khung và trình Tổng Giám đốc
+ký ban hành.
+2.7. Xây dựng, cập nhật HTQLCL theo yêu cầu của
+tiêu chuẩn quốc gia TCVN ISO 9001:2015
+Căn cứ thực trạng tình hình áp dụng HTQLCL của từng
+đơn vị và các nội dung yêu cầu trong tiêu chuẩn quốc gia TCVN ISO 9001:2015,
+các đơn vị soạn thảo văn bản, quy trình giải quyết công việc nội bộ, quy trình
+giải quyết TTHC để trình lãnh đạo cơ quan phê duyệt, cụ thể:
+- BHXH cấp tỉnh/BHXH cấp huyện: Chuyển đổi HTQLQL
+theo Mô hình khung do BHXH Việt Nam ban hành;
+- Văn phòng BHXH Việt Nam và các đơn vị sự nghiệp
+trực thuộc BHXH Việt Nam: Chuyển đổi HTQLCL đảm bảo các tài liệu chung của
+HTQLCL và các quy trình giải quyết công việc nội bộ được xây dựng phù hợp với
+tiêu chuẩn quốc gia TCVN ISO 9001:2015.
+2.8. Áp dụng trên thực tế HTQLCL đã xây dựng, cập
+nhật theo tiêu chuẩn quốc gia TCVN ISO 9001:2015 sau khi được lãnh đạo cơ quan
+phê duyệt.
+Triển khai áp dụng cả ở cơ quan BHXH Việt Nam, các
+đơn vị sự nghiệp, BHXH tỉnh và BHXH huyện.
+2.9. Đào tạo đội ngũ chuyên gia đánh giá nội bộ
+HTQLCL theo TCVN ISO 9001:2015
+Cán bộ đánh giá nội bộ phải được đào tạo để có đủ
+năng lực cần thiết cho việc đánh giá nội bộ của đơn vị, đồng thời hiểu và tổ chức
+tốt hoạt động đánh giá chất lượng nội bộ để đảm bảo duy trì, cải tiến được hệ
+thống chất lượng sau này.
+2.10. Thực hiện đánh giá nội bộ HTQLCL để kiểm tra
+việc chuyển đổi áp dụng, tiến hành khắc phục các điểm không phù hợp; tiến hành
+xem xét của Lãnh đạo; thực hiện cải tiến HTQLCL theo yêu cầu TCVN ISO 9001:2015
+Việc đánh giá nội bộ HTQLCL và xem xét của lãnh đạo
+thực hiện tối thiểu một năm một lần để chỉ ra các điểm tồn tại cần khắc phục và
+đề nghị các bộ phận có liên quan có trách nhiệm khắc phục triệt để những tồn tại
+này để hoàn thiện các quy trình quản lý chất lượng, thực hiện việc cải tiến cho
+phù hợp với yêu cầu TCVN ISO 9001:2015.
+2.11. Xác nhận hiệu lực của HTQLCL theo tiêu chuẩn
+quốc gia TCVN ISO 9001:2015
+Lãnh đạo cơ quan xác nhận hiệu lực của HTQLCL theo
+tiêu chuẩn quốc gia TCVN ISO 9001:2015 và đề ra các yêu cầu cần cải tiến của
+HTQLCL theo tiêu chuẩn TCVN ISO 9001:2015 quy định tại Quyết định số
+19/2014/QĐ-TTg ngày 05/03/2014 của Thủ tướng Chính phủ.
+2.12. Công bố HTQLCL phù hợp tiêu chuẩn quốc gia
+TCVN ISO 9001:2015
+Lãnh đạo cơ quan thực hiện công bố HTQLCL phù hợp tiêu
+chuẩn quốc gia TCVN ISO 9001:2015 theo quy định tại Quyết định số
+19/2014/QĐ-TTg sau khi đã hoàn thành việc chuyển đổi áp dụng HTQLCL theo tiêu
+chuẩn quốc gia TCVN ISO 9001:2015, đã vận hành, áp dụng, khắc phục các điểm
+không phù hợp, được đánh giá đạt yêu cầu.
+(Thời gian thực hiện và phân công nhiệm vụ cụ thể
+tại Phụ lục kèm theo)
+IV. TỔ CHỨC THỰC HIỆN
+1. Phân công thực hiện
+a) Vụ Pháp chế (đơn vị thường trực) giúp việc
+Ban chỉ đạo ISO
+- Trình Tổng Giám đốc phê duyệt Kế hoạch chuyển đổi
+việc xây dựng, áp dụng HTQLCL theo tiêu chuẩn quốc gia TCVN ISO 9001:2008 sang
+tiêu chuẩn quốc gia TCVN ISO 9001:2015 vào hoạt động của ngành BHXH.
+- Phối hợp với Văn phòng nghiên cứu, lựa chọn đơn vị
+tư vấn thực hiện chuyển đổi việc xây dựng, áp dụng HTQLCL theo tiêu chuẩn quốc
+gia TCVN ISO 9001:2008 sang tiêu chuẩn quốc gia TCVN ISO 9001:2015.
+- Chuẩn bị các nội dung phục vụ hoạt động chỉ đạo,
+điều hành của Ban chỉ đạo ISO.
+- Theo dõi, đôn đốc việc triển khai thực hiện của
+các đơn vị; thực hiện chế độ báo cáo theo quy định.
+b) Văn phòng
+- Chủ trì tham mưu lãnh đạo Ngành và thực hiện các
+thủ tục lựa chọn, ký ký hợp đồng tư vấn, đào tạo với tổ chức tư vấn đã được cấp
+Giấy xác nhận đủ điều kiện tư vấn, đào tạo theo quy định.
+- Xây dựng dự toán kinh phí thực hiện việc xây dựng,
+áp dụng, chuyển đổi sang HTQLCL theo tiêu chuẩn quốc gia TCVN ISO 9001:2015 và
+thực hiện thanh quyết toán theo quy định.
+c) Trung tâm Công nghệ thông tin
+Chủ trì, hỗ trợ các đơn vị, BHXH các tỉnh về kỹ thuật
+trong quá trình kết hợp ứng dụng công nghệ thông tin với HTQLCL theo tiêu chuẩn
+quốc gia TCVN ISO 9001:2015.
+d) Vụ Thi đua - Khen thưởng
+Phối hợp với Vụ Pháp chế trong công tác biểu dương,
+đề xuất khen thưởng kịp thời đối với các Cơ quan, đơn vị, cá nhân thực hiện tốt
+công tác xây dựng, áp dụng, duy trì và liên tục cải tiến HTQLCL.
+đ) Các đơn vị trực thuộc và BHXH tỉnh, BHXH huyện
+Triển khai thực hiện các nhiệm vụ được giao tại Kế
+hoạch này đảm bảo đúng thời hạn.
+2. Chế độ báo cáo
+- Các đơn vị, BHXH các tỉnh báo cáo tình hình xây dựng,
+áp dụng, duy trì và liên tục cải tiến HTQLCL tại cơ quan, đơn vị về BHXH Việt
+Nam (qua Vụ Pháp chế) bằng văn bản và qua hộp thư điện tử
+tonghop.phapche@vss.gov.vn
+đầy đủ, đúng thời
+hạn: báo cáo định kỳ trước ngày 15/11 hàng năm và báo cáo đột xuất khi có yêu cầu.
+- Nội dung báo cáo thực hiện theo Phụ lục II ban
+hành kèm theo Quyết định số 19/2014/QĐ-TTg ngày 05/3/2014 của Thủ tướng Chính
+phủ.
+V. KINH PHÍ THỰC HIỆN
+1. Nguồn kinh phí thực hiện chuyển đổi HTQLCL theo
+tiêu chuẩn quốc gia TCVN ISO 9001:2008 sang tiêu chuẩn quốc gia TCVN ISO
+9001:2015 do BHXH Việt Nam bố trí trong dự toán kinh phí chi quản lý BHXH,
+BHYT, BHTN hàng năm.
+2. Nội dung chi, định mức chi cho việc chuyển đổi
+thực hiện theo quy định tại Thông tư số 116/2015/TT-BTC ngày 11/8/2015 của Bộ
+Tài chính quy định công tác quản lý tài chính đối với việc tư vấn, xây dựng, áp
+dụng, duy trì và cải tiến HTQLCL theo tiêu chuẩn quốc gia TCVN ISO 9001:2008
+vào hoạt động của các cơ quan, tổ chức thuộc hệ thống hành chính nhà nước.
+BHXH Việt Nam yêu cầu các đơn vị trực thuộc, BHXH tỉnh
+nghiêm túc triển khai thực hiện Kế hoạch; quản lý, sử dụng kinh phí đảm bảo chặt
+chẽ, hiệu quả, đúng quy định.
+Trong quá trình thực hiện nếu có khó khăn, vướng mắc
+kịp thời phản ánh về BHXH Việt Nam (qua Vụ Pháp chế) để xem xét, giải quyết./.
+PHỤ LỤC
+KẾ HOẠCH CHI TIẾT XÂY DỰNG MÔ HÌNH KHUNG VÀ THỰC HIỆN
+CHUYỂN ĐỔI VIỆC XÂY DỰNG, ÁP DỤNG HỆ THỐNG QUẢN LÝ CHẤT LƯỢNG THEO TIÊU CHUẨN
+QUỐC GIA TCVN ISO 9001:2008 SANG TIÊU CHUẨN QUỐC GIA TCVN ISO 9001:2015 VÀO HOẠT
+ĐỘNG CỦA NGÀNH BẢO HIỂM XÃ HỘI
+(Ban hành kèm theo Quyết định số 746/QĐ-BHXH ngày 20/05/2020 của Tổng Giám đốc
+Bảo hiểm xã hội Việt Nam)
+I. KIỆN TOÀN NHÂN SỰ, XÂY DỰNG
+KẾ HOẠCH VÀ ĐÀO TẠO VỀ ISO
+TT
+Nội dung công
+  việc
+Thời hạn hoàn
+  thành
+Đơn vị thực hiện
+Chủ trì
+Phối hợp
+1
+Rà soát, kiện toàn thành phần Ban Chỉ đạo triển
+  khai xây dựng và áp dụng HTQLCL theo tiêu chuẩn TCVN ISO 9001:2015
+1.1
+Rà soát và kiện toàn Ban Chỉ đạo triển khai
+  xây dựng, áp dụng HTQLCL theo tiêu chuẩn TCVN ISO 9001:2015 của BHXH Việt Nam
+  và Tổ giúp việc Ban chỉ đạo
+Đã hoàn thành
+  tháng 12/2019
+Văn phòng
+Các đơn vị trực
+  thuộc
+1.2
+Rà soát và kiện toàn thành phần Ban Chỉ đạo
+  triển khai xây dựng và áp dụng HTQLCL theo tiêu chuẩn TCVN ISO 9001:2015 của
+  BHXH 63 tỉnh, thành phố trực thuộc trung ương
+Tháng 5/2020
+BHXH tỉnh
+2
+Xây dựng và ban hành Kế hoạch chuyển đổi
+  HTQLCL theo tiêu chuẩn TCVN ISO 9001:2015
+2.1
+Xây dựng và ban hành kế hoạch chuyển đổi
+  HTQLCL theo tiêu chuẩn TCVN ISO 9001:2015 của ngành BHXH
+Tháng 5/2020
+Vụ Pháp chế
+Ban Chỉ đạo ISO;
+  Các đơn vị có liên quan.
+2.2
+Xây dựng và ban hành Kế hoạch chuyển đổi
+  HTQLCL theo tiêu chuẩn TCVN ISO 9001:2015 của địa phương
+Mô tả công việc:
+Căn cứ Kế hoạch chuyển đổi của BHXH Việt Nam, BHXH
+  tỉnh, thành phố xây dựng và ban hành Kế hoạch chuyển đổi chi tiết, xác định
+  thời gian cụ thể thực hiện từng công việc, trách nhiệm thực hiện HTQLCL theo
+  tiêu chuẩn TCVN ISO 9001:2015.
+Tháng 6/2020
+BHXH tỉnh
+Ban Chỉ đạo ISO
+3
+Nghiên cứu, lựa chọn và ký hợp đồng tư vấn,
+  đào tạo với tổ chức tư vấn
+đã được cấp Giấy xác nhận đủ điều kiện tư vấn,
+  đào tạo theo quy định tại Thông tư số 26/2014/TT-BKHCN ngày 10/10/2014 của Bộ
+  Khoa học và Công nghệ để hướng dẫn, hỗ trợ trong việc áp dụng phiên bản tiêu
+  chuẩn quốc gia TCVN ISO 9001:2015
+Tháng 5- 6/2020
+Văn Phòng
+Ban Chỉ đạo ISO;
+  Các đơn vị có liên quan.
+4
+Đào tạo kiến thức và cách thức chuyển đổi
+  HTQLCL theo tiêu chuẩn quốc gia TCVN ISO 9001:2015
+Mô tả công việc:
+- Ban Chỉ đạo ISO phối hợp với đơn vị tư vấn tiến
+  hành đào tạo: (1) Kiến thức chung về tiêu chuẩn TCVN ISO 9001:2015; (2) các
+  điểm mới so với tiêu chuẩn TCVN ISO 9001:2008; (3) Phương pháp xây dựng hệ thống
+  tài liệu, các quy trình thực hiện đáp ứng được yêu cầu quản lý công việc và
+  phù hợp với các yêu cầu của tiêu chuẩn ISO.
+- Thành phần:
++ Thành viên Ban Chỉ đạo ISO, Tổ giúp việc Ban Chỉ
+  đạo ISO của BHXH Việt Nam và BHXH tỉnh; thành viên Tổ triển khai ISO của BHXH
+  huyện.
++ Lãnh đạo các đơn vị chuyên môn, đơn vị sự nghiệp
+  và lãnh đạo BHXH tỉnh, lãnh đạo BHXH huyện.
++ Viên chức phụ trách bộ phận được giao nhiệm vụ
+  thực hiện ISO của các đơn vị giúp việc, đơn vị sự nghiệp, BHXH tỉnh.
++ Viên chức được phân công làm đầu mối theo dõi
+  HTQLCL ISO 9001:2015 của các đơn vị giúp việc, đơn vị sự nghiệp, BHXH tỉnh và
+  BHXH huyện.
++ Các thành viên trực tiếp soạn thảo tài liệu do
+  đơn vị chuyên môn, đơn vị sự nghiệp, BHXH tỉnh, BHXH phân công.
+- Hình thức đào tạo: Trực tuyến
+(Vụ Pháp chế
+  phối hợp với Văn phòng xây dựng kế hoạch tổ chức thực hiện).
+Tháng 6- 7/2020
+Đơn vị tư vấn
+Ban Chỉ đạo ISO;
+  Các tổ chức giúp việc; Các đơn vị sự nghiệp; BHXH tỉnh; BHXH huyện
+II. XÂY DỰNG VÀ BAN HÀNH MÔ
+HÌNH KHUNG HTQLCL
+TT
+Nội dung công
+  việc
+Thời hạn hoàn
+  thành
+Đơn vị thực hiện
+Chủ trì
+Phối hợp
+1
+Xây dựng danh mục TTHC về BHXH, BHYT, BHTN chi
+  tiết theo từng dịch vụ công:
+Mô tả công việc:
+Đơn vị lập danh mục TTHC về BHXH, BHYT, BHTN phải
+  xây dựng, áp dụng HTQLCL TCVN ISO 9001:2015 thuộc chức năng, nhiệm vụ của đơn
+  vị, gửi Vụ Pháp chế tổng hợp, trình Trưởng ban Chỉ đạo ISO xem xét, quyết định.
+15/6/2020
+Ban Thu Ban Thực
+  hiện CS BHXH Ban Thực hiện CS BHYT Ban Sổ - thẻ Vụ Tài chính – Kế toán
+Vụ Pháp chế
+2
+Xây dựng danh mục quy trình giải quyết công việc
+  nội bộ áp dụng cho BHXH tỉnh và BHXH huyện
+Mô tả công việc:
+2.1
+Trên cơ sở rà soát các Quy trình nội bộ tại Phần
+  2, Mô hình khung HTQLCL theo tiêu chuẩn quốc gia TCVN ISO 9001:2008 áp dụng
+  cho cơ quan BHXH cấp tỉnh, huyện ban hành kèm theo Quyết định số 1388/QĐ-BHXH
+  ngày 15/10/2012 của BHXH Việt Nam và căn cứ tình hình thực tế:
+a)
+Lập danh mục Quy trình giải quyết công việc nội bộ
+  thuộc phạm vi quản lý của đơn vị áp dụng cho BHXH tỉnh và BHXH huyện cần xây
+  dựng, áp dụng HTQLCL TCVN ISO 9001:2015, gửi Vụ Pháp chế tổng hợp.
+10/6/2020
+Các tổ chức giúp
+  việc, Các đơn vị sự nghiệp (theo phân công của Ban Chỉ đạo ISO)
+Các đơn vị ở địa
+  phương
+(theo phân công của Ban Chỉ đạo ISO)
+b)
+Đề xuất danh mục Quy trình giải quyết công việc nội
+  bộ áp dụng cho BHXH tỉnh và BHXH huyện cần xây dựng, áp dụng HTQLCL TCVN ISO
+  9001:2015 gửi Vụ Pháp chế tổng hợp.
+Trước 10/6/2020
+BHXH tỉnh
+2.2
+Trên cơ sở danh mục Quy trình giải quyết công việc
+  nội bộ do tổ chức giúp việc, đơn vị sự nghiệp và BHXH tỉnh, BHXH huyện đề xuất,
+  Vụ Pháp chế tổng hợp, báo cáo Ban Chỉ đạo ISO.
+Trước 15/6/2020
+Vụ Pháp chế
+Văn phòng
+2.3
+Hội thảo trực tuyến lấy ý kiến BHXH các tỉnh,
+  thành phố về Danh mục dịch vụ công, Danh mục công việc nội bộ cần chuyển đổi
+  sang tiêu chuẩn quốc gia TCVN ISO 9001:2015.
+Trước 30/6/2020
+Vụ Pháp chế
+Văn phòng
+2.4
+Hoàn thiện danh mục trình Trưởng Ban Chỉ đạo ISO
+  xem xét, quyết định.
+Trước 5/7/2020
+Vụ Pháp chế
+3
+Xây dựng, sửa đổi, bổ sung các tài liệu chung
+  theo yêu cầu tiêu chuẩn ISO 9001:2015
+Tháng 7/2020
+Đơn vị tư vấn
+Vụ Pháp chế
+4
+Xây dựng, sửa đổi, bổ sung quy trình giải quyết
+  TTHC, quy trình giải quyết công việc nội bộ trong Mô hình khung
+Mô tả công việc:
+4.1
+Phân công nhiệm vụ cụ thể triển khai thực hiện xây
+  dựng, sửa đổi, bổ sung tài liệu, quy trình giải quyết TTHC, quy trình giải
+  quyết công việc nội bộ của BHXH cấp tỉnh/BHXH cấp huyện
+Trước 5/7/2020
+Ban Chỉ đạo ISO
+Vụ Pháp chế
+4.2
+Xây dựng, sửa đổi, bổ sung quy trình giải quyết
+  các dịch vụ công tương ứng với các TTHC của Ngành và quy trình giải quyết
+  công việc nội bộ của BHXH cấp tỉnh/BHXH cấp huyện trên cơ sở Danh mục được
+  Ban Chỉ đạo ISO phê duyệt.
+(Đơn vị tư vấn có trách nhiệm hỗ trợ các đơn vị
+  trong suốt quá trình thực hiện việc xây dựng, sửa đổi, bổ sung tài liệu, mẫu
+  quy trình giải quyết công việc nội bộ, quy trình giải quyết TTHC).
+Tháng 7-8/2020
+Các tổ chức giúp
+  việc, Các đơn vị sự nghiệp (theo phân công của Ban Chỉ đạo ISO)
+Các đơn vị ở địa
+  phương
+(theo phân công của Ban Chỉ đạo ISO)
+4.3
+Tổng hợp hệ thống các tài liệu chung, các quy
+  trình giải quyết các dịch vụ công tương ứng với các TTHC và các quy trình giải
+  quyết công việc nội bộ của BHXH tỉnh/BHXH huyện để hình thành Mô hình khung
+  HTQLCL
+Tháng 9/2020
+Vụ Pháp chế
+Các đơn vị liên
+  quan
+4.4
+Hội thảo trực tuyến lấy ý kiến về Mô hình khung
+  HTQLCL
+Tháng 9/2020
+Vụ Pháp chế
+Văn phòng
+5
+Hoàn thiện mô hình khung HTQLCL theo tiêu chuẩn
+  TCVN ISO 9001:2015 trình Tổng Giám đốc ký ban hành
+30/9/2020
+Ban Chỉ đạo ISO
+Vụ Pháp chế và các
+  đơn vị liên quan
+III. CHUYỂN ĐỔI VIỆC XÂY DỰNG,
+ÁP DỤNG HỆ THỐNG QUẢN LÝ CHẤT LƯỢNG THEO TIÊU CHUẨN TCVN 9001:2015 TẠI CƠ QUAN
+BHXH VIỆT NAM VÀ NGÀNH BHXH
+TT
+Nội dung công việc
+Thời hạn hoàn
+  thành
+Đơn vị thực hiện
+Chủ trì
+Phối hợp
+I
+KHẢO SÁT THỰC TRẠNG
+  VÀ XÂY DỰNG, CẬP NHẬT HỆ THỐNG QUẢN LÝ CHẤT LƯỢNG ISO 9001:2015
+1
+Khảo sát, đánh giá thực trạng tình hình áp dụng
+  HTQLCL của các đơn vị trong hệ thống ngành BHXH
+Mô tả công việc:
+1.1
+Đánh giá thực trạng tình hình áp dụng, duy trì, cải
+  tiến HTQLCL ISO 9001:2008 chung của ngành BHXH; xây dựng Báo cáo về thực trạng
+  HTQLCL của đơn vị, trình Lãnh đạo Ngành xem xét.
+Tháng 6- 9/2020
+Vụ Pháp chế
+Các tổ chức giúp
+  việc; Các đơn vị sự nghiệp; BHXH tỉnh
+1.2
+Khảo sát trực tiếp tại đơn vị; xây dựng Báo cáo về
+  thực trạng HTQLCL của các đơn vị được khảo sát trình Lãnh đạo Ngành xem xét.
+(dự
+  kiến khảo sát tại: Văn phòng BHXH Việt Nam, 01 đơn vị sự nghiệp và 02 BHXH tỉnh,
+  thành phố do Ban Chỉ đạo ISO lựa chọn)
+Tháng 6- 7/2020
+Ban Chỉ đạo ISO;
+  Đơn vị tư vấn
+Các đơn vị và BHXH
+  tỉnh do Ban Chỉ đạo chọn
+2
+Lập Danh mục quy trình giải quyết công việc nội
+  bộ cần cập nhật trong HTQLCL theo tiêu chuẩn ISO 9001:2015 của BHXH Việt Nam
+  và các đơn vị sự nghiệp trực thuộc
+2.1
+Rà soát, cập nhật, bổ sung và lập Danh mục quy
+  trình giải quyết công việc nội bộ thuộc chức năng, nhiệm vụ của đơn vị (căn cứ
+  Quyết định 875/QĐ-BHXH ngày 8/8/2013 của BHXH Việt Nam) gửi Vụ Pháp chế tổng
+  hợp, trình Ban Chỉ đạo xem xét, quyết định.
+Tháng 7/2020
+Các tổ chức giúp
+  việc
+Vụ Pháp chế
+2.2
+Rà soát, cập nhật Danh mục quy trình giải quyết
+  công việc nội bộ của đơn vị (căn cứ và Quyết định công bố HTQLCL theo tiêu
+  chuẩn ISO 9001:2008 của đơn vị) làm cơ sở xây dựng, chuyển đổi HTQLCL TCVN
+  ISO 9001:2015, trình lãnh đạo đơn vị xem xét, quyết định.
+Tháng 7/2020
+Các đơn vị sự nghiệp
+3
+Xây dựng, cập nhật HTQLCL theo yêu cầu của
+  tiêu chuẩn quốc gia TCVN ISO 9001:2015
+Mô tả công việc:
+3.1
+Các đơn vị giúp việc thực hiện soạn thảo các văn bản,
+  quy trình giải quyết công việc nội bộ theo danh mục hệ thống tài liệu và kế
+  hoạch phân công soạn thảo đã được Lãnh đạo Ngành phê duyệt.
+Đơn vị tư vấn trực tiếp hướng dẫn cán bộ được
+  phân công về cách thức xây dựng từng tài liệu, quy trình theo quy định
+Tháng 10- 11/2020
+Các đơn vị giúp việc
+Đơn vị tư vấn; Ban
+  Chỉ đạo ISO.
+3.2
+Các đơn vị sự nghiệp thực hiện soạn thảo các văn
+  bản, quy trình giải quyết công việc nội bộ theo danh mục hệ thống tài liệu và
+  kế hoạch phân công soạn thảo đã được Lãnh đạo đơn vị phê duyệt.
+Các đơn vị sự nghiệp căn cứ yêu cầu thực tế có
+  thể thuê đơn vị tư vấn tổ chức hướng dẫn trực tiếp cho cán bộ được phân công
+  về cách thức xây dựng tài liệu, quy trình đảm bảo đúng quy định
+Các đơn vị sự nghiệp
+3.3
+BHXH tỉnh, BHXH huyện căn cứ Mô hình khung do
+  BHXH Việt Nam ban hành thực hiện:
++ Phê duyệt danh mục hệ thống tài liệu, quy trình
+  giải quyết công việc nội bộ phải áp dụng HTTCCL TCVN ISO 9001:2015 của BHXH tỉnh,
+  BHXH huyện.
++ Soạn thảo các văn bản, quy trình giải quyết
+  công việc nội bộ, quy trình giải quyết TTHC.
+BHXH tỉnh căn cứ yêu cầu thực tế có thuế thuê
+  đơn vị tư vấn tổ chức hướng dẫn trực tiếp cho cán bộ được phân công về cách
+  thức xây dựng tài liệu, quy trình đảm bảo đúng quy định.
+Tháng 10- 11/2020
+BHXH tỉnh; BHXH
+  huyện
+Đơn vị tư vấn; Ban
+  Chỉ đạo ISO.
+3.4
+Lãnh đạo cơ quan phê duyệt, ban hành áp dụng sau
+  khi HTQLCL đã được tiếp thu ý kiến, chỉnh sửa, hoàn chỉnh các tài liệu, quy
+  trình
+a)
+Đối với HTTLCL áp dụng tại cơ quan BHXH Việt Nam:
+  Văn phòng trình Tổng Giám đốc phê duyệt, ban hành
+Tháng 12/2020
+Tổng Giám đốc BHXH
+  Việt Nam
+Vụ Pháp chế
+b)
+Đối với HTQLCL áp dụng tại đơn vị sự nghiệp: Đơn
+  vị được giao
+nhiệm vụ chủ trì thực hiện trình Lãnh đạo đơn vị
+  phê duyệt, ban hành
+Người đứng đầu đơn
+  vị sự nghiệp
+c)
+Đối với HTQLCL áp dụng tại BHXH tỉnh: Ban Chỉ đạo
+  ISO của
+BHXH tỉnh trình Giám đốc BHXH tỉnh phê duyệt, ban
+  hành
+Giám đốc BHXH tỉnh
+d)
+Đối với HTQLCL áp dụng tại BHXH huyện: Tổ triển khai
+  ISO của BHXH huyện trình Giám đốc BHXH huyện phê duyệt, ban hành
+Giám đốc BHXH huyện
+II
+TRIỂN KHAI ÁP DỤNG
+4
+Áp dụng trên thực tế HTQLCL đã xây dựng, cập
+  nhật theo tiêu chuẩn quốc gia TCVN ISO 9001:2015 sau khi được lãnh đạo phê
+  duyệt
+Mô tả công việc:
+- Ban chỉ đạo ISO, các đơn vị, bộ phận thực hiện
+  áp dụng, tuân thủ hệ thống tài liệu, quy trình giải quyết công việc nội bộ,
+  quy trình giải quyết TTHC, biểu mẫu trong quá trình giải quyết công việc cho
+  tổ chức, cá nhân.
+- Trong thời gian áp dụng, Ban chỉ đạo ISO phối hợp
+  với đơn vị tư vấn thường xuyên tiến hành kiểm tra, đôn đốc, hướng dẫn để việc
+  thực hiện đạt hiệu quả, chất lượng.
+Tháng 01/2021
+Trung ương: Các tổ
+  chức giúp việc; Các đơn vị sự nghiệp
+Đơn vị tư vấn; Ban
+  Chỉ đạo ISO.
+Địa phương: BHXH tỉnh;
+  BHXH huyện.
+III
+ĐÁNH GIÁ HỆ THỐNG
+5
+Đào tạo đội ngũ chuyên gia đánh giá nội bộ hệ
+  thống quản lý chất lượng theo TCVN ISO 9001:2015
+Mô tả công việc
+- Ban chỉ đạo ISO phối hợp với đơn vị tư vấn tiến
+  hành đào tạo cho các thành viên Ban chỉ đạo ISO, các cán bộ quản lý, công chức,
+  viên chức được phân công thực hiện đánh giá nội bộ của từng đơn vị, công chức
+  có liên quan đến việc áp dụng quy trình HTQLCL ISO.
+- Hình thức đào tạo: Trực tuyến
+(Vụ Pháp chế phối
+  hợp với Văn phòng xây dựng kế hoạch tổ chức thực hiện)
+Tháng 02/2021
+Đơn vị tư vấn
+Ban Chỉ đạo ISO;
+  Các tổ chức giúp việc; Các đơn vị sự nghiệp; BHXH tỉnh; BHXH huyện.
+6
+Thực hiện đánh giá nội bộ HTQCL
+để kiểm
+  tra việc chuyển đổi áp dụng, tiến hành khắc phục các điểm không phù hợp; tiến
+  hành xem xét của Lãnh đạo; thực hiện cải tiến HTQLCL theo yêu cầu TCVN ISO
+  9001:2015
+Mô tả công việc
+- HTQLCL ISO sau khi được ban hành áp dụng ít nhất
+  01 tháng, cần phải được đánh giá nội bộ, thực hiện hành động khắc phục, hoàn
+  chỉnh. Đánh giá nội bộ gồm đánh giá hệ thống tài liệu, đánh giá quá trình áp
+  dụng thực hiện.
+- Sau khi khóa đào tạo Đánh giá chất lượng nội bộ
+  được thực hiện và trong thời gian thực hiện HTQLCL ISO tại đơn vị, đơn vị tư
+  vấn phối hợp với các cán bộ đánh giá nội bộ của đơn vị tiến hành đánh giá nội
+  bộ; việc đánh giá chất lượng nội bộ được tiến hành ít nhất 02 lần:
++ Lần 1, đơn vị tư vấn thực hiện đánh giá, cán bộ
+  đánh giá nội bộ của các đơn vị quan sát;
++ Các lần đánh giá sau, cán bộ đánh giá nội bộ của
+  các đơn vị chủ động thực hiện với sự hỗ trợ của đơn vị tư vấn.
+- Khắc phục sau đánh giá, hoàn thiện nội dung:
+  Sau mỗi lần đánh giá, Ban chỉ đạo ISO có trách nhiệm phối hợp với đơn vị tư vấn
+  hướng dẫn các bộ phận liên quan nêu ra được các vấn đề còn tồn tại cần khắc
+  phục. Các đơn vị liên quan có trách nhiệm khắc phục triệt để những tồn tại
+  này. Trên cơ sở những hành động khắc phục sẽ hoàn thiện các quy trình quản lý
+  chất lượng và cải cách TTHC.
+Tháng 4/2021
+Trung ương: Ban Chỉ
+  đạo ISO
+Đơn vị tư vấn; Các
+  tổ chức giúp việc; Các đơn vị nghiệp vụ.
+Địa phương: BHXH tỉnh;
+  BHXH huyện.
+Đơn vị tư vấn
+IV
+XÁC NHẬN HIỆU LỰC,
+  CÔNG BỐ HỆ THỐNG QUẢN LÝ CHẤT LƯỢNG
+7
+Xác nhận hiệu lực của HTQLCL theo tiêu chuẩn
+  quốc gia TCVN ISO 9001:2015
+Mô tả công việc:
+7.1
+Ban chỉ đạo ISO/bộ phận được giao nhiệm vụ triển
+  khai ISO tham mưu cho Lãnh đạo cơ quan tiến hành họp xem xét để xác nhận tính
+  hiệu lực của HTQLCL và đề ra các yêu cầu cần cải tiến của HTQLCL theo tiêu
+  chuẩn TCVN ISO 9001:2015 quy định tại khoản 2, khoản 4, Điều 4 Quyết định số
+  19/2014/QĐ-TTg.
+Tháng 4/2021
+Ban Chỉ đạo ISO; Bộ
+  phận được giao nhiệm vụ triển khai ISO
+7.2
+Lãnh đạo cơ quan xác nhận hiệu lực của HTQLCL
+  theo tiêu chuẩn quốc gia TCVN ISO 9001:2015:
+a)
+Đối với HTTLCL áp dụng tại cơ quan BHXH Việt Nam
+Tháng 4/2021
+Tổng Giám đốc BHXH
+  Việt Nam
+Đơn vị tư vấn; Ban
+  Chỉ đạo ISO
+b)
+Đối với HTQLCL áp dụng tại đơn vị sự nghiệp
+Người đứng đầu đơn
+  vị sự nghiệp
+c)
+Đối với HTQLCL áp dụng tại BHXH tỉnh
+Giám đốc BHXH tỉnh
+d)
+Đối với HTQLCL áp dụng tại BHXH huyện
+Giám đốc BHXH huyện
+8
+Công bố HTQLCL phù hợp tiêu chuẩn quốc gia
+  TCVN ISO 9001:2015
+Mô tả công việc:
+Lãnh đạo cơ quan ban hành Quyết định công bố
+  HTQLCL phù hợp tiêu chuẩn TCVN ISO 9001:2015.
+a)
+Đối với HTTLCL áp dụng tại cơ quan BHXH Việt Nam:
+  Ban Chỉ đạo ISO trình Tổng Giám đốc
+Tháng 5/2021
+Tổng Giám đốc BHXH
+  Việt Nam
+Đơn vị tư vấn; Ban
+  Chỉ đạo ISO
+b)
+Đối với HTQLCL áp dụng tại đơn vị sự nghiệp
+Người đứng đầu đơn
+  vị sự nghiệp
+Vụ Pháp chế
+c)
+Đối với HTQLCL áp dụng tại BHXH tỉnh: Ban Chỉ đạo
+  ISO của BHXH tỉnh trình Giám đốc BHXH tỉnh
+Giám đốc BHXH tỉnh
+Vụ Pháp chế
+d)
+Đối với HTQLCL áp dụng tại BHXH huyện
+Giám đốc BHXH huyện
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt

@@ -1,0 +1,107 @@
+BỘ GIÁO DỤC
+  VÀ ĐÀO TẠO
+--------
+CỘNG HÒA XÃ
+  HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 4567/BGDĐT-CNTT
+V/v tăng cường công tác bảo vệ dữ liệu cá
+  nhân và an toàn thông tin mạng
+Hà Nội, ngày 22 tháng 8 năm 2024
+Kính gửi:
+- Các sở giáo dục và đào tạo;
+- Các đại học, học viện, trường đại học;
+- Các trường cao đẳng sư phạm.
+Ngày 17/4/2023, Chính phủ đã
+ban hành Nghị định số 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân
+(sau đây gọi tắt
+là Nghị định 13)
+, có hiệu lực từ ngày 01/7/2023. Nghị định 13 đã xác lập
+quyền, nghĩa vụ của chủ thể dữ liệu; quy định về quy trình, cách thức áp dụng
+các biện pháp bảo vệ dữ liệu cá nhân của cơ quan, tổ chức, cá nhân có liên
+quan, xác định cơ quan chuyên trách bảo vệ dữ liệu cá nhân, lực lượng bảo vệ dữ
+liệu cá nhân, cổng thông tin quốc gia về bảo vệ dữ liệu cá nhân, thủ tục hành
+chính về bảo vệ dữ liệu cá nhân. Đây là những quy định quan trọng, thiết thực để
+hạn chế, ngăn chặn tình trạng mua bán, chuyển giao trái phép dữ liệu cá nhân.
+Để quán triệt, triển khai thực
+hiện nghiêm túc các quy định của Nghị định 13 trong các hoạt động có liên quan
+của ngành, Bộ Giáo dục và Đào tạo (GDĐT) đề nghị các sở giáo dục và đào tạo,
+các đại học, học viện, trường đại học, các trường cao đẳng sư phạm
+(sau đây
+gọi tắt là các đơn vị)
+tăng cường rà soát, thực hiện các nội dung sau:
+1. Tăng cường tổ chức phổ biến,
+tuyên truyền, quán triệt các quy định của Nghị định 13 tới các đơn vị, cá nhân
+trong phạm vi quản lý, đặc biệt là đối với đội ngũ trực tiếp tham gia quản lý,
+khai thác, xử lý dữ liệu cá nhân; tổ chức giáo dục pháp luật, truyền thông, phổ
+biến kiến thức, kỹ năng bảo vệ dữ liệu cá nhân cho học sinh, sinh viên phù hợp.
+2. Rà soát các quy định, quy
+chế nội bộ về quản lý, vận hành, khai thác, sử dụng các hệ thống thông tin/cơ sở
+dữ liệu
+(HTTT/CSDL)
+thuộc phạm vi quản lý của đơn vị và của các đơn vị
+trực thuộc để lồng ghép các quy định hiện hành của pháp luật về bảo vệ dữ liệu
+cá nhân, trong đó, cần quy định rõ về trách nhiệm bảo vệ dữ liệu cá nhân của cơ
+quan, tổ chức, cá nhân có liên quan; về xử lý trách nhiệm của tổ chức, cá nhân
+khi để xảy ra vi phạm quy định bảo vệ dữ liệu cá nhân thuộc phạm vi phụ trách.
+Rà soát các đơn vị, bộ phận có hoạt động thu thập, xử lý dữ liệu cá nhân; tiến
+hành phân loại dữ liệu cá nhân đã thu thập, đang xử lý; đánh giá quy trình thu
+thập, xử lý dữ liệu cá nhân để ban hành hoặc đề xuất ban hành các biện pháp quản
+lý phù hợp và xác định trách nhiệm bảo vệ tương ứng với từng loại dữ liệu cá
+nhân theo quy định tại Nghị định 13.
+3. Rà soát công tác bảo đảm
+an ninh, an toàn hệ thống và triển khai áp dụng các biện pháp kỹ thuật cần thiết
+đối với các HTTT/CSDL thuộc phạm vị quản lý; thường xuyên kiểm tra, bảo trì,
+nâng cấp hệ thống nhằm kịp thời phát hiện và khắc phục các lỗ hổng về kỹ thuật,
+tránh nguy cơ không bảo đảm an ninh, an toàn hệ thống dẫn tới lộ, mất dữ liệu
+cá nhân. Đối với các đơn vị sử dụng dịch vụ của doanh nghiệp trong việc duy
+trì, vận hành các HTTT/CSDL cần thực hiện rà soát nhằm bảo đảm nguyên tắc dữ liệu
+thuộc phạm vi quản lý của đơn vị phải thuộc quyền quản lý, kiểm soát của đơn vị;
+không để doanh nghiệp tiếp cận dữ liệu
+(trong đó có dữ liệu cá nhân)
+khi
+chưa có sự cho phép của đơn vị quản lý.
+4. Đối với việc quản lý,
+khai thác sử dụng các CSDL ngành giáo dục: phổ biến đội ngũ cán bộ, công chức,
+viên chức và người lao động nghiên cứu thực hiện các quy định tại Thông tư số
+42/2021/TT-BGDĐT ngày 30/12/20221 Quy định về cơ sở dữ liệu giáo dục và đào tạo.
+Quy định rõ trách nhiệm về bảo vệ tài khoản, an toàn thông tin mạng, quy định về
+bảo vệ dữ liệu cá nhân; đặc biệt quan tâm tới quản lý tài khoản truy cập: không
+dùng chung tài khoản, đặt mật khẩu có độ phức tạp cần thiết
+(độ dài tối thiểu
+8 ký tự, trong đó phải bao gồm chữ số, chữ hoa, chữ thường và ký tự đặc biệt)
+,
+thường xuyên phải thay đổi mật khẩu sử dụng
+(tối đa 03 tháng phải thay đổi mật
+khẩu 01 lần)
+.
+5. Khi phát hiện xảy ra vi
+phạm quy định về bảo vệ dữ liệu cá nhân
+(nhất là các trường hợp mua bán,
+chuyển giao trái phép dữ liệu cá nhân)
+phải xử lý nghiêm và thông báo vi phạm
+tới cơ quan chuyên trách bảo vệ dữ liệu cá nhân (
+Cục An ninh mạng và phòng,
+chống tội phạm sử dụng công nghệ cao - Bộ Công an
+) và Bộ GDĐT
+(qua Cục
+Công nghệ thông tin)
+chậm nhất 72 giờ sau khi xảy ra hoặc phát hiện hành vi
+vi phạm theo Mẫu số 03 tại Phụ lục của Nghị định 13.
+Bộ GDĐT đề nghị Thủ trưởng
+các đơn vị nghiêm túc tổ chức triển khai các nội dung hướng dẫn tại văn bản
+này./.
+Nơi nhận:
+- Như trên;
+- Bộ trưởng (để b/c);
+- Bộ Công an (để p/h);
+- Cổng TTĐT của Bộ GDĐT;
+- Lưu: VT, CNTT.
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+Hoàng Minh Sơn
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

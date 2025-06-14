@@ -1,0 +1,1010 @@
+BỘ Y TẾ
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 4395/BYT-KCB
+V/v áp dụng liên thông
+  dữ liệu theo Quyết định 130/QĐ-BYT (Bảng 1 và Bảng 8) đối với người bệnh
+  không sử dụng thẻ BHYT phục vụ Đề án 06
+Hà Nội, ngày 13
+  tháng 7 năm 2023
+Kính gửi:
+- Giám đốc bệnh viện trực thuộc Bộ Y tế;
+- Giám đốc bệnh viện trực thuộc trường đại học;
+- Giám đốc Sở Y tế các tỉnh, thành phố trực thuộc Trung ương;
+- Thủ trưởng Y tế các Bộ, ngành.
+Ngày 11/11/2022 Bộ Y tế ban hành Quyết định số
+3074/QĐ-BYT về quy định nhóm thông tin cơ bản về y tế thuộc cơ sở dữ liệu quốc
+gia về bảo hiểm (gọi tắt là Quyết định số 3074/QĐ-BYT) nhằm mục đích phục vụ
+công tác liên thông dữ liệu phục vụ Đề án Phát triển ứng dụng dữ liệu về dân cư,
+định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022 -
+2025, tầm nhìn đến năm 2030 (gọi tắt Đề án 06).
+Ngày 18/01/2023, Bộ Y tế ban hành Quyết định số
+130/QĐ-BYT về quy định chuẩn và định dạng dữ liệu đầu ra phục vụ việc quản lý, giám
+định, thanh toán chi phí khám bệnh, chữa bệnh và giải quyết các chế độ liên
+quan (gọi tắt là Quyết định 130/QĐ-BYT) thay thế chuẩn định dạng dữ liệu ban
+hành kèm theo Quyết định số 4210/QĐ-BYT ban hành ngày 20/09/2017.
+Định dạng và đặc tả dữ liệu quy định tại “Bảng 1-
+Chỉ tiêu tổng hợp khám bệnh, chữa bệnh” và “Bảng 8- Chỉ tiêu dữ liệu tóm tắt hồ
+sơ bệnh án” của Quyết định 130/QĐ-BYT cơ bản đã đáp ứng quy định nhóm thông tin
+y tế cơ bản ban hành tại Quyết định 3074/QĐ-BYT. Để thuận tiện cho các cơ sở khám,
+chữa bệnh trong quá trình triển khai, bảo đảm tính thống nhất, đồng bộ đầy đủ
+trong xây dựng cơ sở dữ liệu quốc gia về bảo hiểm, hiển thị dữ liệu khám chữa bệnh
+người dân trên VneID; Bộ Y tế đề nghị thủ trưởng các đơn vị chỉ đạo, thực hiện
+các nội dung sau:
+1. Bổ sung liên thông chuẩn và định dạng dữ liệu
+khám chữa bệnh ban hành theo Quyết định 130/QĐ-BYT (Bảng 1 và Bảng 8) cho cả đối
+tượng người bệnh không sử dụng thẻ bảo hiểm y tế. Yêu cầu triển khai đối với tất
+cả các cơ sở khám chữa bệnh, bao gồm các cơ sở khám chữa bệnh không ký hợp đồng
+khám chữa bệnh BHYT, công lập và tư nhân.
+2. Các cơ sở khám chữa bệnh sử dụng đặc tả dữ liệu
+Bảng 1 và Bảng 8 ban hành kèm theo Quyết định 130/QĐ-BYT, sử dụng chung hạ tầng
+CNTT của cơ quan BHXH Việt Nam để liên thông dữ liệu, về thời điểm thực hiện
+liên thông dữ liệu Bảng 1 và Bảng 8 cho đối tượng người bệnh không sử dụng thẻ
+BHYT thống nhất triển khai cùng thời điểm thực hiện Quyết định 130/QĐ-BYT (và
+văn bản điều chỉnh nếu có) cho người bệnh có thẻ BHYT. Hướng dẫn liên thông và
+hỗ trợ kỹ thuật thực hiện theo các văn bản liên quan hướng dẫn triển khai Quyết
+định 130/QĐ-BYT.
+3. Đối với các cơ sở khám chữa bệnh chưa ký hợp đồng
+khám, chữa bệnh BHYT phải khai báo thông tin cơ sở khám, chữa bệnh và liên hệ với
+Bảo hiểm Xã hội tỉnh, thành phố để thực hiện đăng ký tài khoản trước khi gửi dữ
+liệu lên Cổng tiếp nhận.
+Đề nghị Giám đốc Sở Y tế các tỉnh, thành phố, Y tế
+các Bộ, ngành phân công cán bộ để theo dõi, đôn đốc, giám sát hỗ trợ các cơ sở
+khám chữa bệnh trực thuộc, báo cáo kết quả thực hiện, khó khăn, vướng mắc (nếu
+có) về Bộ Y tế để xem xét, giải quyết./.
+Nơi nhận:
+- Như trên;
+- Phó Thủ tướng Trần Hồng Hà (để b/c);
+- Phó Thủ tướng Trần Lưu Quang (để b/c);
+- Bộ trưởng (để b/c);
+- Các Thứ trưởng (để p/h);
+- VPCP, Bộ CA, BHXHVN (để p/h);
+- Tổ Công tác Đề án 06;
+- VPB, BHYT, KH-TC, TTDLYTQG (để th/h);
+- Lưu: VT, KCB.
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+Trần Văn Thuấn
+PHỤ LỤC 01:
+BẢNG 1. CHỈ TIÊU TỔNG HỢP KHÁM BỆNH, CHỮA BỆNH
+(Ban hành kèm theo Quyết định số 130/QĐ-BYT ngày 18/01/2023 của Bộ trưởng Bộ
+Y tế)
+STT
+Chỉ tiêu
+Kiểu dữ liệu
+Kích thước tối
+  đa
+Diễn giải
+1
+MA_LK
+Chuỗi
+100
+Là mã đợt điều trị duy nhất (dùng để liên kết giữa
+  Bảng chỉ tiêu tổng hợp khám bệnh, chữa bệnh (bảng XML 1) và các bảng còn lại
+  ban hành kèm theo Quyết định này trong một lần khám bệnh, chữa bệnh (PRIMARY
+  KEY)).
+2
+STT
+Số
+10
+Là số thứ tự tăng từ 1 đến hết trong một lần gửi
+  dữ liệu.
+3
+MA_BN
+Chuỗi
+100
+Là mã người bệnh theo quy định của cơ sở KBCB
+4
+HO_TEN
+Chuỗi
+255
+Là họ và tên của người bệnh.
+- Lưu ý:
+Trường hợp trẻ sau khi sinh ra được
+  hưởng quyền lợi BHYT theo quy định của Luật BHYT nhưng chưa được cơ quan BHXH
+  cấp thẻ BHYT do chưa làm thủ tục cấp giấy khai sinh thì cơ sở KBCB thực hiện
+  ghi họ và tên của trẻ theo quy định tại
+điểm b khoản 1 Điều 10
+  Thông tư số 30/2020/TT-BYT
+ngày 31 tháng 12 năm 2020 của Bộ trưởng Bộ Y tế
+  quy định chi tiết và hướng dẫn biện pháp thi hành một số điều của Nghị định số
+  146/2018/NĐ-CP ngày 17/10/2018 của Chính phủ quy định chi tiết và hướng dẫn
+  biện pháp thi hành một số điều của Luật BHYT, cụ thể:
++ Nếu trẻ sơ sinh có mẹ hoặc cha (bố): ghi theo họ
+  và tên của mẹ hoặc của cha (bố);
++ Nếu trẻ sơ sinh không có mẹ hoặc cha (bố) nhưng
+  có người giám hộ: ghi theo họ và tên của người giám hộ;
++ Nếu trẻ sơ sinh không có người nhận hoặc bỏ rơi
+  tại cơ sở KBCB: ghi tên cơ sở KBCB nơi đang thực hiện việc điều trị cho trẻ.
+5
+SO_CCCD
+Số
+15
+Ghi số căn cước công dân hoặc số chứng minh thư
+  nhân dân hoặc số hộ chiếu của người bệnh.
+Trường hợp không có số căn cước công dân hoặc số
+  chứng minh thư nhân dân hoặc số hộ chiếu thì sử dụng mã tài khoản định danh
+  điện tử.
+6
+NGAY_SINH
+Chuỗi
+12
+Ghi ngày, tháng, năm sinh ghi trên thẻ BHYT của
+  người bệnh, gồm 12 ký tự theo định dạng yyyymmddHHMM.
+Lưu ý:
+- Trường hợp không có thông tin giờ, phút sinh
+  thì ký tự giờ và phút được mặc định là 0000;
+- Trường hợp không có thông tin ngày sinh, tháng
+  sinh thì ký tự ngày sinh, tháng sinh được mặc định là 0000;
+- Trường hợp trẻ mới sinh (từ đủ 28 ngày tuổi trở
+  xuống) thì phải ghi đầy đủ thông tin ngày, tháng, năm, giờ, phút sinh của trẻ
+  (nếu có);
+- Trường hợp trẻ bị bỏ rơi mà không xác định được
+  thông tin chính xác ngày, tháng, năm, giờ, phút sinh của trẻ thì ghi theo thời
+  điểm mà cơ sở KBCB tiếp nhận trẻ.
+7
+GIOI_TINH
+Số
+1
+Là mã giới tính của người bệnh (1: Nam; 2: Nữ; 3:
+  Chưa xác định)
+8
+MA_QUOCTICH
+Số
+3
+Ghi mã quốc tịch của người bệnh theo quy định tại
+  Phụ lục 2 Thông tư số 07/2016/TT-BCA ngày 01 tháng 2 năm 2016 của Bộ trưởng Bộ
+  Công an.
+9
+MA_DANTOC
+Số
+2
+Ghi mã dân tộc của người bệnh (thực hiện theo
+  Danh mục các dân tộc Việt Nam ban hành kèm theo Quyết định số 121-TCTK/PPCĐ
+  ngày 02/3/1979 của Tổng cục trưởng Tổng cục Thống kê để điền chi tiết). Tra cứu
+  mã dân tộc tại đường link:
+http://tongdieutradanso.vn/danh-muc-cac-dan-toc-viet-nam.html
+10
+MA_NGHE_NGHIEP
+Số
+5
+Ghi mã nghề nghiệp của người bệnh. Thực hiện ghi
+  mã nghề nghiệp theo quy định tại Quyết định số 34/2020/QĐ-TTg ngày 26 tháng
+  11 năm 2020 của Thủ tướng Chính phủ. Tra cứu mã nghề nghiệp tại đường link:
+https://luatvietnam.vn/lao-dong/quyet-dinh-34-2020-qd-ttg-danh-muc-nghe-nghiep-viet-nam-194623-dl.html
+- Lưu ý:
++ Trường hợp người bệnh không có hoặc chưa có nghề
+  nghiệp thì ghi mã 00000;
++ Trường hợp người bệnh có nhiều nghề thì ghi mã
+  nghề nghiệp chính hoặc nghề nghiệp hiện tại;
+11
+DIA_CHI
+Chuỗi
+1024
+Ghi địa chỉ nơi cư trú hiện tại của người bệnh.
+- Lưu ý:
++ Trường hợp người bệnh là người Việt Nam: Ghi địa
+  chỉ theo địa chỉ nơi cư trú hiện tại của người bệnh đã được cập nhật thông
+  tin trong Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu dân cư về cư trú, gồm:
+  số nhà (nếu có); thôn, xóm hoặc đường, phố (nếu có); xã, phường, thị trấn; quận,
+  huyện, thị xã, thành phố trực thuộc tỉnh; tỉnh, thành phố trực thuộc TW.
+Trường hợp trẻ sau khi sinh ra được hưởng quyền lợi
+  BHYT theo quy định của Luật BHYT nhưng chưa được cơ quan BHXH cấp thẻ BHYT do
+  chưa làm thủ tục cấp giấy khai sinh thì cơ sở KBCB thực hiện ghi theo địa chỉ
+  nơi người mẹ hoặc người giám hộ hợp pháp cư trú hoặc nơi cơ sở KBCB đặt trụ sở
+  đối với trường hợp trẻ sơ sinh không có người nhận hoặc bị bỏ rơi.
++ Trường hợp người bệnh là người nước ngoài thì
+  ghi theo địa chỉ do người bệnh tự khai báo.
+12
+MATINH_CU_TRU
+Chuỗi
+3
+Mã đơn vị hành chính cấp tỉnh nơi cư trú hiện tại
+  của người bệnh. Ghi theo 02 ký tự cuối của mã đơn vị hành chính của tỉnh,
+  thành phố trực thuộc Trung ương nơi người bệnh cư trú (Quy định tại Phụ lục 1
+  Thông tư số 07/2016/TT-BCA ngày 01 tháng 2 năm 2016 của Bộ trưởng Bộ Công
+  an).
+13
+MAHUYEN_CU_TRU
+Chuỗi
+3
+Mã đơn vị hành chính cấp huyện nơi cư trú hiện tại
+  của người bệnh. Ghi mã đơn vị hành chính cấp huyện theo Quyết định số
+  124/2004/QĐ-TTg ngày 08/7/2004 của Thủ tướng Chính phủ ban hành danh mục mã
+  đơn vị hành chính.
+14
+MAXA_CU_TRU
+Chuỗi
+5
+Mã đơn vị hành chính cấp xã nơi cư trú hiện tại của
+  người bệnh. Ghi mã đơn vị hành chính cấp xã theo Quyết định số
+  124/2004/QĐ-TTg ngày 08/7/2004 của Thủ tướng Chính phủ ban hành danh mục mã
+  đơn vị hành chính.
+15
+DIEN_THOAI
+Số
+15
+Ghi số điện thoại liên lạc của người bệnh hoặc của
+  thân nhân người bệnh. Trường thông tin này chỉ ghi khi người bệnh cung cấp.
+  Trường hợp không có thì để trống trường thông tin này.
+16
+MA_THE_BHYT
+Chuỗi
+n
+Ghi mã thẻ BHYT của người bệnh do cơ quan BHXH cấp.
+Lưu ý:
+- Khi tiếp đón người bệnh, cơ sở KBCB có trách
+  nhiệm tra cứu trên Cổng tiếp nhận dữ liệu Hệ thống thông tin giám định BHYT của
+  BHXH Việt Nam để kiểm tra thông tin thẻ BHYT. Trường hợp cấp cứu mà người bệnh
+  hoặc thân nhân người bệnh không xuất trình được thẻ BHYT ngay thì cơ sở KBCB
+  tra cứu thông tin thẻ BHYT trước khi người bệnh ra viện.
+- Đối với thẻ BHYT của các đối tượng có các mã
+  QN, HC, LS, XK, CY, CA do BHXH Bộ Quốc phòng, BHXH Bộ Công an cấp: Tra cứu đệ
+  kiểm tra thời hạn sử dụng của thẻ BHYT trong trường hợp các đối tượng này
+  không còn phục vụ trong lực lượng Quân đội, Công an, Cơ yếu.
+- Trường hợp trong thời gian điều trị, người bệnh
+  được cấp thẻ BHYT mới có thay đổi thông tin liên quan đến mã thẻ thì ghi tiếp
+  mã thẻ mới (mỗi mã thẻ gồm có 15 ký tự), giữa các mã thẻ cách nhau bằng dấu
+  chấm phẩy “;”;
+- Trường hợp người bệnh chưa có thẻ BHYT, cơ sở
+  KBCB sử dụng chức năng “Thông tuyến khám chữa bệnh\Tra cứu thẻ tạm của trẻ em
+  hoặc của người hiến tạng” trên Cổng tiếp nhận dữ liệu Hệ thống thông tin giám
+  định BHYT của BHXH Việt Nam để tra cứu mã thẻ BHYT tạm thời.
+- Trường hợp người bệnh không KBCB BHYT thì để trống
+  trường thông tin này.
+17
+MA_DKBD
+Chuỗi
+n
+Ghi mã cơ sở KBCB nơi người bệnh đăng ký ban đầu
+  ghi trên thẻ BHYT, gồm có 05 ký tự.
+Lưu ý:
+- Trường hợp trong thời gian điều trị, người bệnh
+  được cấp thẻ BHYT mới có thay đổi thông tin liên quan đến mã cơ sở KBCB BHYT
+  ban đầu thì ghi tiếp mã cơ sở KBCB BHYT ban đầu trên thẻ mới sau mã cơ sở
+  KBCB BHYT ban đầu ghi trên thẻ BHYT trước đó, cách nhau bằng dấu chấm phẩy
+  “;”;
+- Trường hợp người bệnh chưa có thẻ BHYT nhưng được
+  cơ quan BHXH cấp mã thẻ tạm thời: Ghi theo 02 ký tự cuối của mã đơn vị hành
+  chính của tỉnh, thành phố trực thuộc Trung ương nơi người bệnh cư trú (Quy định
+  tại Phụ lục 1 Thông tư số 07/2016/TT-BCA ngày 01 tháng 2 năm 2016 của Bộ trưởng
+  Bộ công an) + 000 Ví dụ: Hà Nội thì ghi là 01000.
+- Riêng đối với trẻ em hoặc người đã hiến bộ phận
+  cơ thể người thì thực hiện theo quy định tại
+Điều 10 Thông tư
+  số 30/2020/TT-BYT
+;
+- Trường hợp người bệnh không KBCB BHYT thì để trống
+  trường thông tin này.
+18
+GT_THE_TU
+Chuỗi
+n
+Ghi thời điểm thẻ BHYT bắt đầu có giá trị sử dụng,
+  gồm 08 ký tự theo định dạng yyyymmdd.
+Lưu ý:
+- Trường hợp trong thời gian điều trị, người bệnh
+  được cấp thẻ BHYT mới có thay đổi thông tin liên quan đến thời điểm thẻ bắt đầu
+  có giá trị sử dụng thì ghi tiếp thời điểm sử dụng của thẻ mới (gồm 08 ký tự
+  theo định dạng yyyymmdd), cách nhau bằng dấu chấm phẩy “;”;
+- Trường hợp người bệnh KBCB BHYT nhưng chưa có
+  thẻ BHYT: Thay thời điểm thẻ BHYT có giá trị bằng thời gian người bệnh vào cơ
+  sở KBCB (gồm 08 ký tự theo định dạng yyyymmdd);
+- Trường hợp thẻ BHYT các đối tượng có mã QN, HC,
+  LS, XK, CY, CA do BHXH Bộ Quốc phòng, BHXH Bộ Công an cấp mà không tra cứu được
+  thì ghi thời điểm thẻ có giá trị sử dụng ghi trên thẻ giấy;
+- Trường hợp người bệnh không KBCB BHYT thì để trống
+  trường thông tin này.
+19
+GT_THE_DEN
+Chuỗi
+n
+Ghi thời điểm thẻ BHYT hết giá trị sử dụng, gồm
+  08 ký tự theo định dạng yyyymmdd.
+Lưu ý:
+- Trường hợp trong thời gian điều trị, người bệnh
+  được cấp thẻ BHYT mới có thay đổi thông tin liên quan đến thời điểm hết giá
+  trị sử dụng của thẻ BHYT thì ghi tiếp thời điểm thẻ BHYT hết giá trị sử dụng
+  ghi trên thẻ mới (gồm 08 ký tự theo định dạng yyyymmdd), cách nhau bằng dấu
+  chấm phẩy “;”;
+- Trường hợp người bệnh KBCB BHYT nhưng chưa có
+  thẻ BHYT: Thay thời điểm thẻ hết giá trị bằng thời gian người bệnh ra viện (gồm
+  08 ký tự, theo định dạng yyyymmdd).
+- Trường hợp thẻ BHYT của các đối tượng có mã QN,
+  HC, LS, XK, CY, CA do BHXH Bộ Quốc phòng, BHXH Bộ Công an cấp mà không tra cứu
+  được trên Cổng tiếp nhận dữ liệu Hệ thống thông tin giám định BHYT của BHXH
+  Việt Nam thì để trống trường thông tin này;
+- Trường hợp người bệnh không KBCB BHYT thì để trống
+  trường thông tin này.
+20
+NGAY_MIEN_CCT
+Chuỗi
+12
+Ghi thời điểm người bệnh tham gia BHYT được hưởng
+  chế độ miễn cùng chi trả;
+- Lưu ý:
++ Trường hợp đã được cấp giấy miễn cùng chi trả: ghi
+  ngày bắt đầu đủ điều kiện được hưởng chế độ miễn cùng chi trả theo thông tin
+  ghi trên giấy miễn cùng chi trả, gồm 08 ký tự theo định dạng năm, tháng,
+  ngày, viết tắt là yyyymmdd;
+Ví dụ:
+ngày 05 tháng 04 năm 2017 được hiển
+  thị là: 20170405;
++ Trường hợp chưa được cấp giấy miễn cùng chi trả:
+  ghi thời điểm đủ điều kiện miễn cùng chi trả theo hướng dẫn cách ghi bảng kê
+  chi phí KBCB ban hành kèm theo Quyết định số 6556/QĐ-BYT ngày 30 tháng 10 năm
+  2018 của Bộ trưởng Bộ Y tế, gồm 12 kí tự theo định dạng yyyymmddHHMM;
++ Trường hợp người bệnh không có giấy miễn cùng
+  chi trả hoặc không đủ cơ sở để xác định thời điểm miễn cùng chi trả thì để trống
+  trường thông tin này.
+21
+LY_DO_VV
+Chuỗi
+n
+Ghi lý do đến KBCB của người bệnh;
+- Lưu ý:
++ Trường hợp đặc biệt do thiên tai, dịch bệnh mà
+  cơ sở KBCB phải chuyển thuốc, VTYT đến cơ sở KBCB khác thì cơ sở KBCB nơi nhận
+  thuốc, VTYT để điều trị cho người bệnh ghi nhận tại trường LY_DO_VY như sau:
+  "Khám bệnh, chữa bệnh cấp thuốc, VTYT theo Giấy hẹn khám lại và hướng dẫn
+  điều trị của + Tên cơ sở KBCB (Nơi cấp Giấy hẹn khám lại) theo hướng dẫn của
+  Bộ Y tế.
+Ví dụ:
+Người bệnh được BV Bạch Mai cấp giấy
+  hẹn khám lại nhưng vì dịch bệnh COVID-19 nên không đến khám tại BV Bạch Mai
+  được mà phải đến BV đa khoa tỉnh Phú Thọ để khám, nhận thuốc. BV Bạch Mai phải
+  chuyển thuốc về BV đa khoa tỉnh Phú Thọ thì BV đa khoa tỉnh Phú Thọ ghi nhận
+  tại trường LY_DO_VV như sau:
+"Khám bệnh, chữa bệnh cấp thuốc theo
+  Giấy hẹn khám lại và hướng dẫn điều trị của Bệnh viện Bạch Mai".
++ Đối với các trường hợp khác phải chuyển thuốc
+  thì thực hiện theo hướng dẫn của Bộ Y tế.
+22
+LY_DO_VNT
+Chuỗi
+n
+Ghi lý do vào nội trú, áp dụng đối với trường hợp
+  điều trị nội trú hoặc nội trú ban ngày (bao gồm cả triệu chứng lâm sàng hoặc các
+  lý do khác khiến cho người bệnh đến cơ sở KBCB).
+23
+MA_LY_DO_VNT
+Chuỗi
+5
+Ghi mã lý do người bệnh vào điều trị nội trú theo
+  quy định của Bộ Y tế.
+Lưu ý:
+Trường thông tin này áp dụng bắt buộc
+  thực hiện khi Bộ Y tế ban hành danh mục mã lý do vào điều trị nội trú và có
+  văn bản hướng dẫn.
+24
+CHAN_DOAN_VAO
+Chuỗi
+n
+Ghi chẩn đoán của cơ sở KBCB ở thời điểm tiếp nhận
+  người bệnh (Chẩn đoán sơ bộ).
+25
+CHAN_DOAN_RV
+Chuỗi
+n
+Ghi đầy đủ chẩn đoán xác định bệnh chính, bệnh
+  kèm theo và/hoặc các triệu chứng hoặc hội chứng, được bác sỹ ghi trong hồ sơ
+  KBCB tại thời điểm kết thúc KBCB đối với người bệnh.
+Lưu ý:
+Đối với việc ghi chẩn đoán ra viện
+  để phục vụ việc tạo lập giấy chứng nhận nghỉ việc hưởng bảo hiểm xã hội thì
+  thực hiện theo hướng dẫn tại Thông tư số 18/2022/TT-BYT của Bộ Y tế, trong
+  đó:
+- Nội dung chẩn đoán phải mô tả cụ thể về tình trạng
+  sức khỏe hoặc ghi tên bệnh hoặc mã bệnh.
+- Trường hợp mắc bệnh cần chữa trị dài ngày thì
+  ghi mã bệnh; trường hợp chưa có mã bệnh thì ghi đầy đủ tên bệnh. Việc ghi mã
+  bệnh và tên bệnh thực hiện theo quy định tại Thông tư số 46/2016/TT-BYT ngày
+  30 tháng 12 năm 2016 của Bộ trưởng Bộ Y tế ban hành danh mục bệnh dài ngày;
+- Trường hợp điều trị dưỡng thai: Ghi rõ cụm từ
+  “dưỡng thai”.
+26
+MA_BENH_CHINH
+Chuỗi
+7
+Ghi mã bệnh chính theo mã ICD-10 do Bộ trưởng Bộ
+  Y tế ban hành (Quyết định số 4469/QĐ-BYT ngày 28 tháng 10 năm 2020 và các văn
+  bản cập nhật, bổ sung).
+Lưu ý:
+Cơ sở KBCB xác định và chỉ ghi 01
+  mã bệnh chính theo quy định của Bộ Y tế.
+27
+MA_BENH_KT
+Chuỗi
+100
+Ghi mã các bệnh kèm theo (theo mã ICD-10 do Bộ
+  trưởng Bộ Y tế ban hành kèm theo Quyết định số 4469/QĐ-BYT ngày 28 tháng 10
+  năm 2020 và các văn bản cập nhật, bổ sung) hoặc mã của triệu chứng, hội chứng.
+Lưu ý:
+- Cơ sở KBCB xác định triệu chứng hoặc bệnh kèm
+  theo theo quy định của Bộ Y tế.
+- Trường hợp có nhiều mã thì được phân cách bằng
+  dấu chấm phẩy “;”;
+- Cơ sở KBCB chỉ được ghi tối đa 12 mã bệnh kèm
+  theo.
+28
+MA_BENH_YHCT
+Chuỗi
+255
+Ghi mã bệnh áp dụng trong KBCB bằng YHCT (nếu
+  có);
+- Lưu ý:
++ Trường hợp người bệnh KBCB bằng YHCT thì tại
+  các trường thông tin có số thứ tự 22 và 23 của Bảng này, cơ sở KBCB ghi đầy đủ
+  các mã bệnh YHCT, bao gồm mã bệnh chính và các mã bệnh kèm theo tương ứng với
+  mã bệnh theo ICD-10;
++ Trường hợp bệnh kèm theo có nhiều mã bệnh YHCT
+  thì các mã bệnh được phân cách bằng dấu chấm phẩy “;”;
+29
+MA_PTTT_QT
+Chuỗi
+125
+Ghi mã phẫu thuật, thủ thuật quốc tế ICD-9 CM
+  (theo mã phẫu thuật, thủ thuật ICD-9 CM do Bộ trưởng Bộ Y tế ban hành kèm
+  theo Quyết định số 4440/QĐ-BYT ngày 27 tháng 10 năm 2020);
+- Lưu ý:
++ Trường hợp có nhiều phẫu thuật, thủ thuật thì mỗi
+  mã phẫu thuật, thủ thuật được phân cách bằng dấu chấm phẩy “;”;
++ Chỉ ghi trong trường hợp người bệnh có thực hiện
+  phẫu thuật, thủ thuật.
+30
+MA_DOITUONG_KCB
+Chuỗi
+3
+Ghi mã đối tượng đến KBCB theo Bộ mã DMDC do Bộ
+  trưởng Bộ Y tế ban hành.
+31
+MA_NOI_DI
+Chuỗi
+5
+Ghi mã cơ sở KBCB nơi chuyển người bệnh do cơ
+  quan có thẩm quyền cấp. Ghi thông tin trường này trong trường hợp chuyển tuyến
+  khám chữa bệnh hoặc người bệnh đến khám lại theo giấy hẹn quy định tại
+khoản 6 Điều 6 Thông tư 30/2020/TT-BYT
+hoặc lĩnh thuốc tại
+  TYT xã theo quy định tại
+điểm h khoản 1 Điều 14 Nghị định số
+  146/2018/NĐ-CP
+.
+- Ví dụ 1: Người bệnh chuyển tuyến từ BV A đến BV
+  B, tại BV A ghi:
++ MA_CSKCB: 05 ký tự mã CSKCB của BY A
++ MA_NOI_DI: để trống
++ MA_NOI_DEN: 05 ký tự mã CSKCB BY B
+- Ví dụ 2: BN chuyển tuyến từ BV A đến BV B, tại
+  BV B ghi:
++ MA_NOI_DI: 05 ký tự mã CSKCB BV A
++ MA_CSKCB: 05 ký tự mã CSKCB của BV B
++ MA_NOI_DEN: để trống
+- Lưu ý:
++ Trường hợp người bệnh không chuyển tuyến thì để
+  trống trường thông tin này
++ Trường hợp đặc biệt do thiên tai, dịch bệnh cơ
+  sở KBCB phải chuyển thuốc, VTYT đến cơ sở KBCB khác thì cơ sở KBCB nơi nhận
+  thuốc, VTYT để điều trị cho người bệnh thực hiện chuyển dữ liệu chi phí thuốc,
+  VTYT này lên Cổng tiếp nhận dữ liệu Hệ thống thông tin giám định BHYT và tại
+  trường MA_NOI_DI ghi mã cơ sở KBCB nơi chuyển thuốc, VTYT.
+32
+MA_NOI_DEN
+Chuỗi
+5
+Ghi mã cơ sở KBCB nơi chuyển người bệnh đến do cơ
+  quan có thẩm quyền cấp.
+Lưu ý:
+- Người bệnh chuyển tuyến từ BV A đến BV B và tiếp
+  tục chuyển đến BV C, tại BV B ghi:
++ MA_CSKCB: 05 ký tự mã CSKCB của BV B
++ MA_NOI_DI: 05 ky tự mã CSKCB của BV A
++ MA_NOI_DEN: 05 ky tự mã CSKCB BV C
+- Trường hợp người bệnh không chuyển tuyến thì để
+  trống trường thông tin này.
+33
+MA_TAI_NAN
+Số
+1
+Ghi mã tai nạn thương tích.
+Cơ sở KBCB tham chiếu danh mục mã tai nạn thương
+  tích tại Phụ lục số 4 ban hành kèm theo Quyết định số 5937/QĐ-BYT ngày 30
+  tháng 12 năm 2021 của Bộ trưởng Bộ Y tế.
+34
+NGAY_VAO
+Chuỗi
+12
+Ghi thời điểm người bệnh đến KBCB, gồm 12 ký tự,
+  theo định dạng yyyymmddHHMM.
+Ví dụ:
+người bệnh đến KBCB lúc 15 giờ 20
+  phút ngày 31/03/2017 được hiển thị là: 201703311520.
+35
+NGAY_VAO_NOI_TRU
+Chuỗi
+12
+Ghi thời điểm người bệnh được bác sỹ chỉ định vào
+  điều trị nội trú hoặc điều trị nội trú ban ngày, gồm 12 ký tự, theo định dạng
+  yyyymmddHHMM.
+Ví dụ:
+Thời điểm người bệnh được chỉ định
+  vào điều trị nội trú hoặc điều trị nội trú ban ngày lúc 15 giờ 20 phút ngày
+  31/03/2017, khi đó được hiển thị là: 201703311520
+36
+NGAY_RA
+Chuỗi
+12
+Ghi thời điểm người bệnh kết thúc điều trị nội
+  trú, kết thúc điều trị nội trú ban ngày, kết thúc điều trị ngoại trú hoặc kết
+  thúc khám bệnh, gồm 12 ký tự theo định dạng yyyymmddHHMM.
+Ví dụ:
+Thời điểm người bệnh kết thúc điều
+  trị lúc 09 giờ 20 phút ngày 05/04/2022, khi đó được hiển thị là:
+  202204050920.
+Lưu ý:
+- Trường hợp khám bệnh (MA_LOAI_KCB = 01) thì ghi
+  thời điểm kết thúc lần khám bệnh;
+- Trường hợp điều trị ngoại trú (MA_LOAI_KCB =
+  02); điều trị ngoại trú các bệnh mạn tính dài ngày liên tục trong năm, áp dụng
+  cho các bệnh theo danh mục ban hành kèm theo Thông tư số 46/2016/TT-BYT, có
+  khám bệnh và lĩnh thuốc (MA_LOAI_KCB = 05); nhận thuốc theo hẹn (không khám bệnh)
+  (MA_LOAI_KCB = 07): Ghi ngày kết thúc của đợt KBCB (là ngày cuối cùng sử dụng
+  thuốc hoặc dịch vụ theo chỉ định của bác sỹ), gồm 02 ký tự giờ + 02 ký tự
+  phút và mặc định là 2359 (Thời điểm cuối cùng của ngày kết thúc đợt KBCB);
+- Trường hợp điều trị ngoại trú các bệnh mạn tính
+  dài ngày liên tục trong năm, áp dụng cho các bệnh theo danh mục ban hành kèm
+  theo Thông tư số 46/2016/TT-BYT, có khám bệnh, có thực hiện các dịch vụ kỹ
+  thuật và/hoặc được sử dụng thuốc (MA_LOAI_KCB = 08): Ghi thời điểm kết thúc của
+  đợt KBCB (
+Ví dụ:
+Trường hợp chạy thận nhân tạo thì ghi ngày cuối cùng
+  của đợt chạy thận nhân tạo);
+- Trường hợp người bệnh được chuyển tuyến đến cơ
+  sở KBCB khác thì thời điểm người bệnh ra viện bằng thời điểm người bệnh được
+  chuyển tuyến.
+37
+GIAY_CHUYEN_TUYEN
+Chuỗi
+50
+Ghi số giấy chuyển tuyến của cơ sở KBCB nơi chuyển
+  người bệnh chuyển đi (trong trường hợp người bệnh có giấy chuyển tuyến) hoặc
+  số giấy hẹn khám lại (nếu có).
+38
+SO_NGAY_DTRI
+Số
+3
+Là số ngày điều trị thực tế để phục vụ mục đích
+  thống kê, cụ thể như sau:
+- Đối với Trường thông tin MA_LOAI_KCB có các mã
+  "1", "7", "9" thì trường thông tin SO_NGAY_DTRI
+  = 0;
+- Đối với Trường thông tin MA_LOAI_KCB có các mã
+  "2", "3", "4", "6" thì trường thông
+  tin SO_NGAY_DTRI = Ngày RA trừ (-) ngày VÀO cộng (+) 1;
+- Đối với Trường thông tin MA_LOAI_KCB có mã
+  "5" thì trường thông tin SO_NGAY_DTRI = Số ngày dùng thuốc;
+- Đối với Trường thông tin MA_LOAI_KCB có mã
+  "8": trường thông tin SO_NGAY_DTRI = Số ngày thực tế có sử dụng
+  DVKT.
+39
+PP_DIEU_TRI
+Chuỗi
+n
+Ghi phương pháp điều trị theo đúng hướng dẫn tại
+  Thông tư số 18/2022/TT-BYT của Bộ trưởng Bộ Y tế
+40
+KET_QUA_DTRI
+Số
+1
+Ghi mã kết quả điều trị, trong đó:
+- Mã "1": Khỏi;
+- Mã "2": Đỡ;
+- Mã "3": Không thay đổi;
+- Mã "4": Nặng hơn;
+- Mã "5": Tử vong;
+- Mã "6": Tiên lượng nặng xin về;
+- Mã "7": Chưa xác định (không thuộc một
+  trong các mã kết quả điều trị nêu trên).
+41
+MA_LOAI_RV
+Số
+1
+Ghi mã loại ra viện, trong đó:
+- Mã "1": Ra viện;
+- Mã "2": Chuyển tuyến theo yêu cầu
+  chuyên môn;
+- Mã "3": Trốn viện;
+- Mã "4": Xin ra viện;
+- Mã "5": Chuyển tuyến theo yêu cầu người
+  bệnh.
+42
+GHI_CHU
+Chuỗi
+n
+Ghi lời dặn của bác sĩ hoặc nhân viên y tế đối với
+  người bệnh sau khi kết thúc lần KBCB.
+43
+NGAY_TTOAN
+Chuỗi
+12
+Ghi thời điểm người bệnh thanh toán chi phí KBCB,
+  gồm 12 ký tự theo định dạng yyyymmddHHMM.
+Ví dụ:
+thời điểm người bệnh thanh toán chi
+  phí KBCB lúc 09 giờ 20 phút, ngày 05/04/2017, khi đó thông tin được hiển thị
+  là: 201704050920;
+Lưu ý:
+Trường hợp người bệnh ra viện nhưng
+  chưa thực hiện thanh toán thì để trống trường thông tin này khi chuyển dữ liệu
+  lên Cổng tiếp nhận dữ liệu Hệ thống thông tin giám định BHYT của BHXH Việt
+  Nam (Cổng tiếp nhận). Khi người bệnh hoàn tất thủ tục thanh toán hoặc cơ sở
+  KBCB hoàn tất thủ tục thanh toán (do người bệnh không thực hiện hoặc không thể
+  thực hiện nghĩa vụ thanh toán) thì cơ sở KBCB có trách nhiệm bổ sung thông
+  tin ngày thanh toán và gửi lại dữ liệu lên Cổng tiếp nhận hoặc bổ sung thông
+  tin ngày thanh toán trực tiếp trên Cổng tiếp nhận.
+44
+T_THUOC
+Số
+15
+Ghi tổng thành tiền (THANH_TIEN_BV) các khoản chi
+  của thuốc (kể cả oxy), dịch truyền, máu và chế phẩm máu (đã bao gồm chi phí
+  xét nghiệm NAT và kháng thể bất thường, KIT gạn tách tiểu cầu), chi phí vận
+  chuyển máu và chi phí bao bì (đối với thuốc thang) tại bảng XML 2 ban hành
+  kèm theo Quyết định này.
+45
+T_VTYT
+Số
+15
+Ghi tổng thành tiền của vật tư y tế trong trường
+  thông tin THANH_TIEN_BV tại bảng XML 3 ban hành kèm theo Quyết định này.
+46
+T_TONGCHI_BV
+Số
+15
+Ghi tổng chi phí trong lần khám bệnh hoặc trong đợt
+  điều trị, là tổng số tiền THANH_TIEN_BV tại bảng XML2 và XML3 ban hành kèm
+  theo Quyết định này.
+47
+T_TONGCHI_BH
+Số
+15
+Ghi tổng chi phí trong phạm vi quỹ BHYT thanh
+  toán của lần khám bệnh hoặc đợt điều trị, là tổng số tiền THANH_TIEN_BH tại bảng
+  XML2 và XML3 ban hành kèm theo Quyết định này.
+48
+T_BNTT
+Số
+15
+Ghi tổng số tiền người bệnh tự trả ngoài phạm vi
+  chi trả của Quỹ BHYT, là tổng số tiền T_BNTT tại bảng XML2 và XML3 ban hành
+  kèm theo Quyết định này.
+49
+T_BNCCT
+Số
+15
+Ghi tổng số tiền người bệnh cùng chi trả trong phạm
+  vi quyền lợi được hưởng BHYT, là tổng số tiền T_BNCCT tại bảng XML2 và XML3
+  ban hành kèm theo Quyết định này.
+50
+T_BHTT
+Số
+15
+Ghi tổng số tiền đề nghị cơ quan bảo hiểm xã hội
+  thanh toán, theo công thức sau: T_BHTT = T_TONGCHI_BH – T_BNCCT
+51
+T_NGUONKHAC
+Số
+15
+Ghi tổng số tiền các nguồn khác chi trả ngoài phạm
+  vi chi trả của quỹ BHYT, là tổng số tiền T_NGUONKHAC tại bảng XML2 và XML3
+  ban hành kèm theo Quyết định này.
+52
+T_BHTT_GDV
+Số
+15
+Ghi số tiền quỹ BHYT thanh toán đối với các khoản
+  chi ngoài định suất hoặc ngoài DRG theo quy định của Bộ Y tế (Là số tiền
+  T_BHTT tại bảng XML2 và XML3 đối với các chi phí có MA_PTTT là "1"
+  (Phí dịch vụ)).
+53
+NAM_QT
+Số
+4
+Ghi năm mà cơ sở KBCB đề nghị cơ quan BHXH thanh
+  toán.
+54
+THANG_QT
+Số
+2
+Ghi tháng mà cơ sở KBCB đề nghị cơ quan BHXH
+  thanh toán
+55
+MA_LOAI_KCB
+Số
+2
+Ghi mã hình thức KBCB theo Bộ mã DMDC do Bộ trưởng
+  Bộ Y tế ban hành.
+56
+MA_KHOA
+Chuỗi
+50
+Ghi mã khoa nơi người bệnh điều trị.
+Lưu ý:
++ Mã khoa ghi theo Phụ lục số 5 ban hành kèm theo
+  Quyết định số 5937/QĐ-BYT ngày 30 tháng 12 năm 2021 của Bộ trưởng Bộ Y tế.
++ Trường hợp người bệnh điều trị ở nhiều khoa thì
+  thì ghi lần lượt mã khoa nơi người bệnh đã điều trị, các mã khoa được phân
+  cách bằng dấu chấm phẩy “;”
+57
+MA_CSKCB
+Chuỗi
+5
+Ghi mã cơ sở KBCB nơi người bệnh đến khám bệnh,
+  điều trị do cơ quan có thẩm quyền cấp.
+58
+MA_KHUVUC
+Chuỗi
+2
+Ghi mã nơi sinh sống của người bệnh ghi trên thẻ
+  BHYT (K1 hoặc K2 hoặc K3)
+59
+CAN_NANG
+Chuỗi
+6
+Ghi số kilogram (kg) cân nặng của người bệnh, biểu
+  thị đầy đủ cả số thập phân, dấu thập phân là dấu chấm “.”, ghi đến 2 chữ số
+  sau dấu thập phân.
+60
+CAN_NANG_CON
+Chuỗi
+100
+Ghi số gram (ký hiệu là: g) cân nặng của con mới
+  sinh. Chỉ ghi trong trường hợp sinh con.
+Trường hợp sinh từ 02 con trở lên thì ghi lần lượt
+  cân nặng của từng con, cách nhau bởi dấu chấm phẩy “;”.
+61
+NAM_NAM_LIEN_TUC
+Chuỗi
+8
+Ghi thời điểm người bệnh tham gia BHYT đủ 05 năm
+  liên tục, gồm 08 ký tự theo định dạng yyyymmdd.
+62
+NGAY_TAI_KHAM
+Chuỗi
+50
+Ghi ngày cơ sở KBCB hẹn người bệnh tái khám tiếp
+  theo (nếu có), gồm 08 ký tự theo định dạng yyyymmdd.
+Trường hợp người bệnh được cơ sở KBCB hẹn nhiều
+  ngày tái khám khác nhau (người bệnh được chỉ định khám nhiều hơn 01 chuyên
+  khoa trong một đợt KBCB) thì giữa các ngày tái khám cách nhau bằng dấu chấm
+  phẩy “;”.
+63
+MA_HSBA
+Chuỗi
+100
+Ghi mã số hồ sơ bệnh án hoặc số phiếu khám ngoại
+  trú của người bệnh do cơ sở KBCB quy định.
+64
+MA_TTDV
+Chuỗi
+10
+Ghi mã số định danh y tế (mã số BHXH) của người đứng
+  đầu cơ sở KBCB hoặc người được người đứng đầu cơ sở KBCB ủy quyền được ký và
+  đóng dấu của cơ sở KBCB đó.
+65
+DU_PHONG
+Chuỗi
+n
+Trường dữ liệu dự phòng khi cần thiết.
+PHỤ LỤC 02:
+BẢNG 8. CHỈ TIÊU DỮ LIỆU TÓM TẮT HỒ SƠ BỆNH ÁN
+(Ban hành kèm theo Quyết định số 130/QĐ-BYT ngày 18/01/2023 của Bộ trưởng Bộ
+Y tế)
+STT
+Chỉ tiêu
+Kiểu dữ liệu
+Kích thước tối
+  đa
+Diễn giải
+1
+MA_LK
+Chuỗi
+100
+Là mã đợt điều trị duy nhất (dùng để liên kết giữa
+  Bảng chỉ tiêu tổng hợp khám bệnh, chữa bệnh (bảng XML 1) và các bảng còn lại ban
+  hành kèm theo Quyết định này trong một lần khám bệnh, chữa bệnh (PRIMARY
+  KEY)).
+2
+MA_LOAI_KCB
+Số
+2
+Ghi mã hình thức KBCB, trong đó:
+- Mã "02": Điều trị ngoại trú;
+- Mã "03": Điều trị nội trú;
+- Mã "04": Điều trị nội trú ban ngày;
+3
+HO_TEN_CHA
+Chuỗi
+255
+Ghi họ và tên cha (bố) theo hồ sơ bệnh án của người
+  bệnh (nếu có).
+4
+HO_TEN_ME
+Chuỗi
+255
+Ghi họ và tên mẹ theo hồ sơ bệnh án của người bệnh
+  (nếu có).
+5
+NGUOI_GIAM_HO
+Chuỗi
+255
+Ghi họ và tên người giám hộ theo hồ sơ bệnh án của
+  người bệnh (nếu có).
+6
+DON_VI
+Chuỗi
+1024
+Ghi tên đơn vị của người hưởng.
+Lưu ý:
+- Ghi rõ đơn vị nơi người bệnh làm việc và đóng bảo
+  hiểm xã hội theo thông tin do người đến khám bệnh cung cấp;
+- Trường hợp con ốm thì ghi tên đơn vị mà người
+  cha (bố) hoặc mẹ đang làm việc và đóng bảo hiểm xã hội theo thông tin do người
+  đến khám bệnh cung cấp. Thực hiện việc ghi giấy chứng nhận nghỉ việc hưởng
+  BHXH theo hướng dẫn tại Thông tư số 18/2022/TT-BYT của Bộ trưởng Bộ Y tế.
+7
+NGAY_VAO
+Chuỗi
+12
+Ghi thời điểm người bệnh đến KBCB, gồm 12 ký tự,
+  theo định dạng yyyymmddHHMM.
+Ví dụ:
+người bệnh đến KBCB lúc 15 giờ 20
+  phút ngày 31/03/2017 được hiển thị là: 201703311520.
+8
+NGAY_RA
+Chuỗi
+12
+Ghi thời điểm người bệnh kết thúc điều trị nội trú,
+  kết thúc điều trị nội trú ban ngày, kết thúc điều trị ngoại trú hoặc kết thúc
+  khám bệnh, gồm 12 ký tự theo định dạng yyyymmddHHMM.
+Ví dụ
+: Thời điểm
+  người bệnh kết thúc điều trị lúc 09 giờ 20 phút ngày 05/04/2022, khi đó được
+  hiển thị là: 202204050920.
+Lưu ý:
+- Trường hợp khám bệnh (MA_LOAI_KCB = 01) thì ghi
+  thời điểm kết thúc lần khám bệnh;
+- Trường hợp điều trị ngoại trú (MA_LOAI_KCB =
+  02), điều trị ngoại trú các bệnh mạn tính dài ngày liên tục trong năm
+  (MA_LOAI_KCB = 05), nhận thuốc theo hẹn (không khám bệnh) (MA_LOAI_KCB = 07):
+  Ghi ngày kết thúc của đợt KBCB (là ngày cuối cùng sử dụng thuốc hoặc dịch vụ
+  theo chỉ định của bác sỹ), gồm 02 ký tự giờ + 02 ký tự phút và mặc định là
+  2359 (Thời điểm cuối cùng của ngày kết thúc đợt KBCB);
+- Trường hợp điều trị ngoại trú các bệnh mạn tính
+  dài ngày liên tục trong năm (MA_LOAI_KCB = 08): Ghi thời điểm kết thúc của đợt
+  KBCB (
+Ví dụ:
+Trường hợp chạy thận nhân tạo thì ghi ngày cuối cùng của
+  đợt chạy thận nhân tạo);
+- Trường hợp người bệnh được chuyển tuyến đến cơ
+  sở KBCB khác thì thời điểm người bệnh ra viện bằng thời điểm người bệnh được
+  chuyển tuyến.
+9
+CHAN_DOAN_VAO
+Chuỗi
+n
+Ghi chẩn đoán của cơ sở KBCB ở thời điểm tiếp nhận
+  người bệnh (Chẩn đoán sơ bộ).
+10
+CHAN_DOAN_RV
+Chuỗi
+n
+Ghi đầy đủ chẩn đoán xác định bệnh chính, bệnh
+  kèm theo và/hoặc các triệu chứng hoặc hội chứng, được bác sỹ ghi trong hồ sơ
+  KBCB tại thời điểm kết thúc KBCB đối với người bệnh.
+Lưu ý:
+Đối với việc ghi chẩn đoán ra viện
+  để phục vụ việc tạo lập giấy chứng nhận nghỉ việc hưởng bảo hiểm xã hội thì
+  thực hiện theo hướng dẫn tại Thông tư số 18/2022/TT-BYT của Bộ trưởng Bộ Y tế,
+  trong đó:
+- Nội dung chẩn đoán phải mô tả cụ thể về tình trạng
+  sức khỏe hoặc ghi tên bệnh hoặc mã bệnh.
+- Trường hợp mắc bệnh cần chữa trị dài ngày thì
+  ghi mã bệnh; trường hợp chưa có mã bệnh thì ghi đầy đủ tên bệnh. Việc ghi mã
+  bệnh và tên bệnh thực hiện theo quy định tại Thông tư số 46/2016/TT-BYT ngày
+  30 tháng 12 năm 2016 của Bộ trưởng Bộ Y tế ban hành danh mục bệnh dài ngày;
+- Trường hợp điều trị dưỡng thai: Ghi rõ cụm từ
+  “dưỡng thai”
+11
+QT_BENHLY
+Chuỗi
+n
+Ghi quá trình bệnh lý và diễn biến lâm sàng.
+12
+TOMTAT_KQ
+Chuỗi
+n
+Ghi tóm tắt kết quả xét nghiệm cận lâm sàng có
+  giá trị chẩn đoán.
+13
+PP_DIEUTRI
+Chuỗi
+n
+Ghi phương pháp điều trị theo đúng hướng dẫn tại
+  Thông tư số 18/2022/TT-BYT của Bộ trưởng Bộ Y tế.
+14
+NGAY_SINHCON
+Chuỗi
+8
+Trường hợp con chết sau khi sinh thì nhập ngày,
+  tháng, năm sinh của con, theo định dạng yyyymmdd
+15
+NGAY_CONCHET
+Chuỗi
+8
+Trường hợp con chết sau khi sinh thì nhập ngày,
+  tháng, năm con chết, theo định dạng yyyymmdd
+16
+SO_CONCHET
+Số
+2
+Trường hợp con chết sau khi sinh thì nhập số con
+  bị chết.
+17
+KET_QUA_DTRI
+Số
+1
+Ghi mã kết quả điều trị, trong đó:
+- Mã "1": Khỏi;
+- Mã "2": Đỡ;
+- Mã "3": Không thay đổi;
+- Mã "4": Nặng hơn;
+- Mã "5": Tử vong;
+- Mã "6": Tiên lượng nặng xin về;
+- Mã "7": Chưa xác định (không thuộc một
+  trong các mã kết quả điều trị nêu trên).
+18
+GHI_CHU
+Chuỗi
+n
+Trường thông tin này chỉ áp dụng đối với trường hợp
+  người mất hoặc bị hạn chế năng lực hành vi dân sự hoặc trẻ em dưới 16 tuổi phải
+  ghi đầy đủ họ, tên của cha (bố) hoặc của mẹ hoặc người giám hộ của người bệnh
+  theo quy định tại Phụ lục 4 ban hành kèm theo Thông tư số 18/2022/TT-BYT của
+  Bộ trưởng Bộ Y tế.
+19
+MA_TTDV
+Số
+10
+Ghi mã số định danh y tế (mã số BHXH) của người đứng
+  đầu cơ sở KBCB hoặc người được người đứng đầu cơ sở KBCB ủy quyền được ký và
+  đóng dấu của cơ sở KBCB đó.
+20
+NGAY_CT
+Chuỗi
+8
+Ghi ngày chứng từ (Tóm tắt hồ sơ bệnh án), theo định
+  dạng yyyymmdd, là ngày Trưởng khoa hoặc Trưởng phòng hoặc Phó trưởng khoa hoặc
+  Phó trưởng phòng cấp tóm tắt hồ sơ bệnh án.
+21
+MA_THE_TAM
+Chuỗi
+15
+Ghi mã thẻ BHYT tạm thời của trẻ em sinh ra hoặc
+  của người hiến tạng nhưng chưa được cơ quan BHXH cấp thẻ BHYT. Cơ sở KBCB sử
+  dụng chức năng “Thông tuyến khám chữa bệnh\Tra cứu thẻ tạm của trẻ em hoặc của
+  người hiến tạng” trên Cổng tiếp nhận dữ liệu Hệ thống thông tin giám định
+  BHYT của BHXH Việt Nam để tra cứu mã thẻ BHYT tạm thời.
+22
+DU_PHONG
+Chuỗi
+n
+Trường dữ liệu dự phòng khi cần thiết.
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

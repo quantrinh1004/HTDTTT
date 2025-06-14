@@ -1,0 +1,95 @@
+BẢO HIỂM XÃ HỘI
+  VIỆT NAM
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 1986/BHXH-CSYT
+V/v phối hợp với cơ sở KCB BHYT triển khai hồ
+  sơ bệnh án điện tử
+Hà Nội, ngày 22
+  tháng 6 năm 2020
+Kính gửi:
+- Bảo hiểm xã hội các tỉnh,
+  thành phố trực thuộc Trung ương;
+- Bảo hiểm xã hội Bộ Quốc phòng, Bảo hiểm xã hội Công an nhân dân.
+(sau đây gọi
+  chung là Bảo hiểm xã hội các tỉnh)
+Ngày 28/12/2018,
+Bộ Y tế ban hành Thông tư số 46/2018/TT-BYT quy định Hồ sơ bệnh án điện tử
+(HSBAĐT), có hiệu lực từ ngày 01/3/2019. Đến thời điểm hiện tại đã có nhiều cơ
+sở khám, chữa bệnh (KCB) bảo hiểm y tế (BHYT) triển khai thực hiện. Bảo hiểm xã
+hội (BHXH) Việt Nam đề nghị BHXH các tỉnh phối hợp với các cơ sở KCB BHYT trên
+địa bàn có triển khai HSBAĐT để thực hiện việc giám định và thanh toán chi phí
+KCB BHYT theo đúng quy định hiện hành. Lưu ý một số nội dung chính như sau:
+1. Cơ sở KCB triển
+khai HSBAĐT phải đáp ứng được các điều kiện quy định tại Thông tư số
+46/2018/TT-BYT và được Bộ Y tế công bố danh sách cơ sở KCB thực hiện lưu trữ
+HSBAĐT thay cho lưu trữ hồ sơ bệnh án giấy; lưu trữ và truyền tải hình ảnh y tế
+thay cho in phim và lưu trữ thông tin xét nghiệm thay cho việc in giấy trên Cổng
+thông tin điện tử Bộ Y tế và Trang thông tin điện tử của Cục Công nghệ thông
+tin (
+http://ehealth.gov.vn
+) theo quy định tại
+khoản 1 Điều
+16 và khoản 3 Điều 18 Thông tư số 46/2018/TT-BYT
+. Trong đó:
+- HSBAĐT phải ghi
+nhận toàn bộ nội dung thông tin như hồ sơ bệnh án giấy và phải có chữ ký số của
+người chịu trách nhiệm nội dung thông tin được nhập vào HSBAĐT theo đúng quy định
+tại
+khoản 2 Điều 3 Thông tư số 46/2018/TT-BYT
+.
+- Chữ ký điện tử
+và chữ ký số sử dụng trong HSBAĐT thực hiện theo Quy chế sử dụng chữ ký điện tử
+và chữ ký số của cơ sở KCB do Thủ trưởng cơ sở KCB ban hành trước khi triển
+khai thực hiện theo đúng quy định tại
+Điều 13 Thông tư số
+46/2018/TT-BYT
+.
+- Phần mềm HSBAĐT
+phải đáp ứng điều kiện quy định tại
+khoản 1 Điều 6 và Điều 8
+Thông tư số 46/2018/TT-BYT
+, như: đạt mức nâng cao theo quy định tại Thông
+tư số 54/2017/TT-BYT ngày 29/12/2017 của Bộ trưởng Bộ Y tế ban hành bộ tiêu chí
+ứng dụng công nghệ thông tin tại các cơ sở KCB; có khả năng kết xuất bản điện tử
+theo tập tin định dạng XML các thông tin quy định tại khoản 3
+Điều
+4 Thông tư số 46/2018/TT-BYT
+; có đầy đủ các chức năng về quản lý cung cấp dịch
+vụ chăm sóc sức khỏe, quản lý thông tin hành chính, quản lý hồ sơ bệnh án và
+các chức năng chi tiết quy định tại Bảng VIII “Bệnh án điện tử” Phụ lục 1 ban
+hành kèm theo Thông tư số 54/2017/TT-BYT ngày 29/12/2017 của Bộ trưởng Bộ Y tế
+ban hành bộ tiêu chí ứng dụng công nghệ thông tin tại các cơ sở KCB theo quy định
+tại
+khoản 6 Điều 8 Thông tư số 46/2018/TT- BYT
+;…
+2. BHXH các tỉnh phối
+hợp với cơ sở KCB ký phụ lục bổ sung hợp đồng KCB BHYT về việc thực hiện giám định
+HSBAĐT, đảm bảo việc khai thác, sử dụng HSBAĐT phục vụ cho công tác giám định,
+thanh quyết toán tại đơn vị được thuận lợi và theo đúng quy định hiện hành.
+Trong khi chờ Bộ
+Y tế hướng dẫn bổ sung, hoàn thiện chuẩn dữ liệu đầu ra sử dụng trong quản lý,
+giám định và thanh toán chi phí KCB BHYT, BHXH các tỉnh bám sát Quy trình giám
+định BHYT ban hành kèm theo Quyết định số 1456/QĐ-BHXH ngày 01/12/2015 của Tổng
+Giám đốc BHXH Việt Nam để giám định, thanh toán chi phí KCB BHYT theo quy định.
+Trong quá trình
+triển khai thực hiện, nếu có khó khăn, vướng mắc, BHXH các tỉnh kịp thời báo
+cáo BHXH Việt Nam để xem xét giải quyết./.
+Nơi nhận:
+- Như trên;
+- PTGĐ Phạm Lương Sơn (để b/c);
+- Trưởng Ban (để b/c);
+- Các đơn vị: DVT, GĐB, GĐN, TTKT, KTNB, TCKT;
+- Lưu VT, CSYT.
+TL. TỔNG GIÁM ĐỐC
+KT. TRƯỞNG BAN THỰC HIỆN
+CHÍNH SÁCH BHYT
+PHÓ TRƯỞNG BAN
+Nguyễn Tất Thao
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

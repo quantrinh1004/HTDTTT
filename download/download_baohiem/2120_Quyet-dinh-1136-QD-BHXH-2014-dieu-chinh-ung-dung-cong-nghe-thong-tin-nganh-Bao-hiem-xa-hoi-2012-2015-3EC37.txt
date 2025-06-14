@@ -1,0 +1,251 @@
+BẢO HIỂM XÃ HỘI
+VIỆT NAM
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 1136/QĐ-BHXH
+Hà Nội, ngày 31
+  tháng 10 năm 2014
+QUYẾT ĐỊNH
+PHÊ DUYỆT ĐIỀU CHỈNH KẾ HOẠCH ỨNG DỤNG CÔNG NGHỆ THÔNG TIN TRONG HOẠT ĐỘNG
+CỦA NGÀNH BẢO HIỂM XÃ HỘI GIAI ĐOẠN 2012-2015
+TỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM
+Căn cứ Luật Công nghệ thông tin số
+67/2006/QH11 ngày 29/06/2006;
+Căn cứ Nghị định 64/2007/NĐ-CP
+ngày 10/04/2007 của Chính phủ về ứng dụng CNTT trong hoạt động của cơ quan nhà
+nước;
+Căn cứ Nghị định số 05/2014/NĐ-CP
+ngày 17/01/2014 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu
+tổ chức của Bảo hiểm xã hội Việt Nam;
+Căn cứ Quyết định số 1605/QĐ-TTg
+ngày 27/08/2010 của Thủ tướng Chính phủ về việc phê duyệt Chương trình quốc gia
+về ứng dụng công ng
+hệ thông tin
+trong hoạt
+động của cơ quan nhà nước giai đoạn 2011-2015;
+Căn cứ Quyết định số 1215/QĐ-TTg
+ngày 23/07/2013 của Thủ tướng Chính phủ về việc phê duyệt chiến lược phát triển
+ngành bảo hiểm xã hội Việt Nam đến năm 2020;
+Căn cứ Công văn số
+491/BTTTT-ƯDCNTT ngày 25/02/2010 của Bộ Thông tin và Truyền thông về việc hướng
+dẫn xây dựng kế hoạch ứng dụng công ng
+hệ thông
+tin
+trong hoạt động của cơ quan nhà nước giai đoạn 2011-2015;
+Căn cứ Quyết định số 714/QĐ-BHXH
+ngày 02/07/2012 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc phê duyệt Kế
+hoạch ứng dụng công ng
+hệ thông tin
+trong
+hoạt động của ngành Bảo hiểm xã hội giai đoạn 2012-2015;
+Xét đề nghị của Giám đốc Trung tâm
+Công ng
+hệ thông tin
+,
+QUYẾT ĐỊNH:
+Điều 1.
+Điều chỉnh khoản 2, khoản 3, mục VII Kinh phí và
+lộ trình thực hiện trong Kế hoạch ứng dụng công ng
+hệ
+thông tin
+trong hoạt động của ngành Bảo hiểm xã hội giai đoạn 2012-2015
+ban hành tại Quyết định số 714/QĐ-BHXH ngày 02/07/2012 của Tổng Giám đốc Bảo hiểm
+xã hội Việt Nam về việc phê duyệt Kế hoạch ứng dụng công ng
+hệ thông tin
+trong hoạt động của ngành Bảo hiểm
+xã hội giai đoạn 2012-2015 như sau:
+1. Tại khoản 2:
+Tổng hợp
+kinh
+phí các dự án trong kế hoạch
+Đơn vị tính: Tỷ đồng
+STT
+Tên dự án/ đề
+  án
+Kinh
+phí
+A
+NHÓM DỰ ÁN PHẦN MỀM VÀ CSDL CHUYÊN NGÀNH
+495.83
+B
+NHÓM DỰ ÁN HẠ TẦNG KỸ THUẬT CNTT
+864.80
+C
+CHI HOẠT ĐỘNG PHÁT TRIỂN ỨNG DỤNG CNTT
+17.50
+TỔNG CỘNG (A +
+  B + C)
+1378.13
+2. Tại khoản 3:
+Chi tiết các dự án và lộ trình thực hiện
+Đơn vị tính: tỷ đồng
+STT
+Tên dự án/đề án
+  (sau khi điều chỉnh)
+Kinh phí
+A
+NHÓM DỰ ÁN PHẦN MỀM VÀ CSDL CHUYÊN NGÀNH
+495.83
+I
+Nâng cấp các phần mềm nghiệp vụ giai đoạn trước
+  mắt
+12.13
+1
+Nâng cấp VSA
+1.50
+2
+Nâng cấp phần mềm quản lý thu SMS 5.0 (Bao gồm 3
+  phần mềm: QLTHU; QLST; ODTS)
+3.70
+3
+Tiếp nhận Hồ sơ
+0.33
+4
+Xây dựng phần mềm Quản lý chi trả theo Quyết định
+  488/QĐ-BHXH
+1.00
+5
+Nâng cấp các Phần mềm để đáp ứng Luật BHXH, Luật
+  BHYT sửa đổi, bổ sung
+4.10
+6
+Bảo trì các phần mềm nghiệp vụ
+1.50
+II
+Xây dựng mới và triển khai phần mềm nghiệp
+  vụ
+179.60
+7
+Phần mềm nghiệp vụ BHXH (Đã được phê duyệt Báo
+  cáo NCKT năm 2010)
+91.10
+8
+Triển khai Phần mềm Quản lý các hoạt động nghiệp
+  vụ BHXH tại 60 tỉnh / thành phố (phục vụ triển khai phần mềm lõi)
+60.00
+9
+Hệ thống quản lý văn bản và điều hành
+5.50
+10
+Xây dựng Hệ thống thông tin giám định BHYT giai
+  đoạn 1
+23.00
+III
+Xây dựng mới một số phần mềm thiết yếu khác
+90.10
+11
+Xây dựng phần mềm Quản lý nhân sự; thi đua khen
+  thưởng
+1.35
+12
+Xây dựng các phần mềm Quản lý tài sản
+0.37
+13
+Đầu tư hạ tầng và triển khai dịch vụ công trên mạng
+  Internet trên phạm vi toàn quốc
+88.00
+14
+Phần mềm nhận dạng thông tin báo cáo giấy phục vụ
+  đối chiếu hồ sơ đối tượng hưởng trợ cấp BHXH 1 lần
+0.38
+IV
+Xây dựng CSDL ngành (Nhập dữ liệu)
+207.00
+15
+Bổ sung hoàn thiện CSDL về người tham gia BHXH, BHYT
+  60 tỉnh, thành phố (bao gồm thông tin cấp mã định danh)
+207.00
+V
+Xây dựng mới nhóm dịch vụ trung tâm
+7.00
+16
+Triển khai ứng dụng chữ ký số
+7.00
+B
+NHÓM DỰ ÁN HẠ TẦNG KỸ THUẬT CNTT
+864.80
+1
+Nâng cấp các mạng LAN tại trụ sở BHXH các cấp
+19.70
+2
+Mua sắm thiết bị mạng LAN/WAN
+42.00
+3
+Thuê đường truyền cấp tỉnh - huyện
+102.40
+4
+Thuê đường truyền cấp TW - tỉnh
+12.40
+5
+Xây dựng hệ thống giao ban trực tuyến ngành BHXH
+29.30
+6
+Xây dựng Trung tâm Dữ liệu Ngành và 3 đơn vị triển
+  khai phần mềm quản lý các hoạt động nghiệp vụ của Ngành BHXH
+83.00
+7
+Mua sắm máy chủ tập trung của ngành
+52.00
+8
+Mua sắm máy tính PC
+120.00
+9
+Mua bản quyền phần mềm Antivirus
+14.00
+10
+Mở rộng năng lực phòng máy chủ tại BHXH 60 tỉnh/ thành
+  phố (phục vụ triển khai phần mềm lõi)
+390.00
+C
+CHI HOẠT ĐỘNG PHÁT TRIỂN ỨNG DỤNG CNTT
+17.50
+1
+Chi hoạt động của Hội đồng tư vấn, Tổ chuyên gia
+  tư vấn, Hội thảo, Họp Ban Chỉ đạo CNTT, Báo cáo
+0.30
+2
+Nghiên cứu khảo sát; ban hành các văn bản quy phạm
+  phát luật, chính sách, quy chuẩn phục vụ phát triển ứng dụng CNTT ngành
+0.40
+3
+Xây dựng Kế hoạch ứng dụng CNTT trong hoạt động của
+  BHXH giai đoạn 2016-2020
+3.00
+4
+Đào tạo, bồi dưỡng nguồn nhân lực ứng dụng Công
+  ng
+hệ thông tin
+; nhân lực vận hành đảm bảo
+  hệ thống
+3.00
+5
+Đào tạo, bồi dưỡng kỹ năng phần mềm tin học văn
+  phòng cho CC, VC toàn Ngành
+10.80
+TỔNG CỘNG (A +
+  B + C)
+1378.13
+Điều 2.
+Quyết định này có hiệu lực kể từ ngày ký ban
+hành.
+Điều 3.
+Chánh văn phòng, Giám đốc Trung tâm Công nghệ
+Thông tin, Thủ trưởng các đơn vị trực thuộc BHXH Việt Nam và Giám đốc BHXH các
+tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định
+này./.
+Nơi nhận:
+- Như điều 3;
+- Bộ Thông tin và Truyền thông (để b/c);
+- Tổng Giám đốc (để b/c);
+- Các Phó Tổng Giám đốc;
+- Lưu: VT, CNTT(03).
+KT. TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Đỗ Văn Sinh
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

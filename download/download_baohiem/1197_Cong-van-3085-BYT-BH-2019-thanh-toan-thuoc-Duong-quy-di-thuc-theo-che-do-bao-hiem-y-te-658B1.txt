@@ -1,0 +1,73 @@
+BỘ Y TẾ
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 3085/BYT-BH
+V/v thanh toán thuốc Đương
+  quy di thực theo chế độ BHYT
+Hà
+  Nội, ngày 03 tháng 6 năm 2019
+Kính
+gửi:
+Bảo hiểm xã hội Việt Nam
+Bộ Y tế nhận được Công văn số
+1308/BHXH-DVT ngày 23/4/2019 của Bảo hiểm xã hội (BHXH) Việt Nam đề nghị cho ý
+kiến về các bệnh “thiểu năng tuần hoàn máu não”, “thiểu năng tuần hoàn máu não
+ngoại vi” được điều trị bằng thuốc Đương quy di thực theo quy định tại Thông tư
+số 05/2015/TT-BYT ngày 17/3/2015 của Bộ Y tế ban hành danh mục thuốc đông y,
+thuốc từ dược liệu và vị thuốc y học cổ truyền thuộc phạm vi thanh toán của quỹ
+bảo hiểm y tế (Sau đây viết tắt là Thông tư 05) bao gồm các bệnh nào trong Danh
+mục mã bệnh theo ICD-10 ban hành kèm theo Quyết định số 7603/QĐ-BYT ngày
+25/12/2018 của Bộ Y tế (Sau đây viết tắt là Quyết định 7603). Về vấn đề này, Bộ
+Y tế có ý kiến như sau:
+Danh mục mã bệnh theo ICD-10 ban hành
+kèm theo Quyết định 7603 được xây dựng dựa trên Bảng phân loại thống kê quốc tế
+về bệnh tật và các vấn đề sức khỏe có liên quan, phiên bản lần thứ 10 của Tổ chức
+Y tế thế giới. Mục đích của danh mục này là để các nhân viên y tế sử dụng để
+phân loại bệnh tật theo các bệnh hoặc nhóm bệnh mà trong đó bệnh, các tổn
+thương, tình trạng của người bệnh được phân loại dựa trên các tiêu chuẩn được
+xác lập từ trước.
+Một số thuốc trong danh mục thuốc
+đông y, thuốc từ dược liệu ban hành kèm theo Thông tư 05 có quy định giới hạn
+chỉ một số chỉ định điều trị nhất định được quỹ bảo hiểm y tế (BHYT) thanh
+toán. Các giới hạn chỉ định điều trị này được xây dựng trên cơ sở các chỉ định
+có trong hồ sơ đăng ký thuốc đã được Bộ Y tế phê duyệt. Vì vậy, việc BHXH Việt
+Nam căn cứ vào Danh mục mã bệnh theo ICD-10 để làm cơ sở thanh toán hay không
+thanh toán chi phí thuốc Đương quy di thực theo chế độ BHYT là chưa phù hợp.
+Để thực hiện Thông tư 05 và các quy định
+có liên quan, Bộ Y tế đề nghị:
+1. Các cơ sở KBCB thực hiện việc ghi
+đầy đủ các triệu chứng, tình trạng bệnh, trong đó có nội dung “thiểu năng tuần
+hoàn máu não”, “thiểu năng tuần hoàn máu não ngoại vi” của người bệnh vào trường
+TEN_BENH (Trường 13) trong Bảng 1 (Bảng chỉ tiêu tổng hợp khám bệnh, chữa bệnh
+BHYT) ban hành kèm theo Quyết định số 4210/QĐ-BYT ngày 20/9/2017 của Bộ trưởng
+Bộ Y tế quy định chuẩn và định dạng dữ liệu đầu ra sử dụng trong quản lý, giám
+định và thanh toán chi phí khám bệnh, chữa bệnh BHYT (Sau đây viết tắt là Quyết
+định 4210) để trích chuyển dữ liệu lên Cổng Tiếp nhận dữ liệu Hệ thống Thông
+tin giám định BHYT của BHXH Việt Nam (Sau đây viết tắt là Cổng tiếp nhận), làm
+cơ sở để giám định, thanh toán chi phí khám bệnh, chữa bệnh BHYT theo đúng quy
+định. Người đứng đầu cơ sở khám bệnh, chữa bệnh và bác sỹ chỉ định thuốc chịu
+trách nhiệm về tính chính xác trong chẩn đoán và chỉ định thuốc này cho người bệnh.
+2. Bảo hiểm xã hội Việt Nam căn cứ
+vào các chỉ định điều trị có trong hồ sơ đăng ký thuốc Đương quy di thực đã được
+Bộ Y tế phê duyệt, Thông tư 05 và dữ liệu XML do cơ sở khám bệnh, chữa bệnh gửi
+lên Cổng tiếp nhận theo quy định tại Quyết định 4210 để giám định, thanh toán
+chi phí thuốc theo chế độ BHYT./.
+Nơi nhận:
+- Như trên;
+- Bộ trưởng (để b/cáo);
+- Sở Y tế 63 tỉnh, TP trực thuộc TW;
+- Các BV, Viện có GB trực thuộc BYT;
+- Y tế Bộ, ngành
+- Viện Dược liệu (để biết);
+- Lưu: VT, BH.
+KT.
+  BỘ TRƯỞNG
+THỨ TRƯỞNG
+Nguyễn Trường Sơn
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

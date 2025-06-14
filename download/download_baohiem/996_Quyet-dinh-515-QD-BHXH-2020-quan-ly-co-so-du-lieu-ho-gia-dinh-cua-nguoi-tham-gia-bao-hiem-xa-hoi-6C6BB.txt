@@ -1,0 +1,869 @@
+BẢO HIỂM XÃ HỘI VIỆT NAM
+--------
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+  515/QĐ-BHXH
+Hà
+  Nội, ngày 27 tháng 3 năm 2020
+QUYẾT ĐỊNH
+BAN HÀNH QUY CHẾ QUẢN LÝ CƠ SỞ DỮ LIỆU HỘ GIA
+ĐÌNH VÀ MÃ SỐ BẢO HIỂM XÃ HỘI CỦA NGƯỜI THAM GIA BẢO HIỂM XÃ HỘI, BẢO HIỂM Y TẾ
+TỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM
+Căn cứ Luật công nghệ thông tin
+ngày 29 tháng 6 năm 2006:
+Căn cứ Luật bảo hiểm y tế ngày
+14 tháng 11 năm 2008; Luật sửa đổi, bổ sung một số điều của Luật bảo hiểm y tế
+ngày 13 tháng 06 năm 2014:
+Căn cứ Luật việc làm ngày 16
+tháng 11 năm 2013:
+Căn cứ Luật bảo hiểm xã hội
+ngày 20 tháng 11 năm 2014;
+Căn cứ Luật an toàn thông tin mạng
+ngày 19 tháng 11 năm 2015;
+Căn cứ Luật an toàn, vệ sinh
+lao động ngày 25 tháng 06 năm 2015;
+Căn cứ Nghị định số
+01/2016/NĐ-CP ngày 05 tháng 01 năm 2016 của Chính phủ quy định chức năng, nhiệm
+vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam;
+Căn cứ Quyết định số 714/QĐ-TTg
+ngày 22 tháng 05 năm 2015 của Thủ tướng Chính phủ ban hành danh mục cơ sở dữ liệu
+quốc gia cần ưu tiên triển khai tạo nền tảng phát triển chính phủ điện tử;
+Căn cứ Thông tư liên tịch số
+05/2015/TTLT-BTP-BCA-BYT ngày 15 tháng 05 năm 2015 của liên bộ Bộ Tư pháp, Bộ Công
+an, Bộ Y tế hướng dẫn thực hiện liên thông các thủ tục hành chính về đăng ký
+khai sinh, đăng ký thường trú, cấp thẻ bảo hiểm y tế cho trẻ em dưới 6 tuổi;
+Căn cứ Quyết định số
+3582/QĐ-BHXH ngày 26 tháng 12 năm 2006 của Tổng Giám đốc Bảo hiểm xã hội Việt
+Nam về việc ban hành quy định về quản lý hoạt động công nghệ thông tin trong hệ
+thống Bảo hiểm xã hội Việt Nam;
+Căn cứ Quyết định số
+967/QĐ-BHXH ngày 20 tháng 06 năm 2017 của Tổng Giám đốc Bảo hiểm xã hội Việt
+Nam về việc ban hành quy chế bảo đảm an toàn thông tin trong ứng dụng công nghệ
+thông tin của ngành Bảo hiểm xã hội;
+Căn cứ Quyết định số
+595/QĐ-BHXH ngày 14 tháng 04 năm 2017 của Tổng Giám đốc Bảo hiểm xã hội Việt
+Nam ban hành quy trình thu bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp,
+bảo hiểm tai nạn lao động - bệnh nghề nghiệp; quản lý sổ bảo hiểm xã hội, thẻ bảo
+hiểm y tế; Quyết định số 505/QĐ-BHXH ngày 27 tháng 3 năm 2020 của Tổng Giám đốc
+Bảo hiểm xã hội Việt Nam sửa đổi, bổ sung một số điều quy trình thu bảo hiểm xã
+hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động - bệnh nghề
+nghiệp; quản lý sổ bảo hiểm xã hội, thẻ bảo hiểm y tế ban hành kèm theo Quyết định
+số 595/QĐ-BHXH;
+Căn cứ quyết định số
+2366/QĐ-BHXH ngày 28 tháng 11 năm 2018 của Tổng Giám đốc Bảo hiểm xã hội Việt
+Nam về việc ban hành Quy chế quản lý, khai thác và sử dụng thông tin từ cơ sở dữ
+liệu tập trung ngành Bảo hiểm xã hội;
+Căn cứ Công văn số
+2823/BTP-CNTT ngày 29 tháng 7 năm 2019 của Bộ Tư pháp về việc kết nối, liên
+thông dữ liệu hộ tịch.
+Xét đề nghị của Trưởng Ban sổ -
+Thẻ, Giám đốc Trung tâm Công nghệ thông tin.
+QUYẾT ĐỊNH:
+Điều 1.
+Ban hành kèm theo Quyết định này quy chế quản lý cơ sở dữ liệu
+hộ gia đình và mã số bảo hiểm xã hội của người tham gia bảo hiểm xã hội, bảo hiểm
+y tế.
+Điều 2.
+Điều khoản thi hành
+1.
+Quyết định này có hiệu lực kể từ ngày 01/5/2020.
+2.
+Thay thế các quy định của Bảo hiểm xã hội Việt Nam
+tại các văn bản: Quyết định số 346/
+QĐ
+-BHXH ngày 28/3/2019 ban hành Quy chế quản lý và cấp
+mã số bảo hiểm xã hội cho người tham gia bảo hiểm xã hội, Bảo hiểm y tế; Quyết
+định số 1270/QĐ-BHXH ngày 30/9/2019 sửa
+đổi
+, bổ sung một số điều của Quy chế quản lý và cấp mã
+số bảo hiểm xã hội cho người tham gia bảo hiểm xã hội, bảo hiểm y tế ban hành
+kèm theo Quyết định số 346/QĐ-BHXH ngày 28/3/2019; Quyết định số 22/QĐ-BHXH
+ngày 08/01/2020 sửa đổi, bổ sung một số điều của Quy chế quản lý và cấp mã số sổ
+bảo hiểm xã hội cho người tham gia bảo hiểm xã hội, bảo hiểm y tế ban hành kèm
+theo Quyết định số 346/QĐ-BHXH ngày 28/3/2019;
+Điểm 2 Công văn số
+2888/BHXH-BT ngày 3/8/2018
+về việc hướng dẫn việc hoàn thiện dữ liệu thành
+viên hộ gia đình; kinh phí hỗ trợ Ủy ban nhân dân xã lập danh sách và việc tham
+gia bảo hiểm y tế hộ gia
+đình
+.
+Điều 3
+.
+Trưởng Ban sổ - Thẻ, Giám đốc Trung tâm Công nghệ thông tin,
+Vụ trưởng Vụ Tài chính – Kế toán, Chánh Văn phòng, Thủ trưởng các đơn vị trực
+thuộc Bảo hiểm xã hội Việt Nam; Giám đốc bảo hiểm xã hội các tỉnh, thành phố trực
+thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.
+Nơi nhận:
+-
+Như Điều 3;
+-
+Tổng Giám đốc (để b/c);
+-
+Các Phó Tổng Giám đốc;
+-
+BHXH Bộ:
+QP,
+CAND;
+-
+Lưu: VT,
+ST.
+KT.
+TỔNG
+  GIÁM Đ
+Ố
+C
+PHÓ
+TỔ
+NG GIÁM Đ
+Ố
+C
+Trần Đình Liệu
+QUY CHẾ
+QUẢN LÝ CƠ SỞ DỮ LIỆU HỘ
+GIA ĐÌNH VÀ MÃ SỐ BẢO HIỂM XÃ HỘI CỦA NGƯỜI THAM GIA BẢO HIỂM XÃ HỘI, BẢO HIỂM
+Y TẾ
+(Ban hành kèm theo Quyết định số 515/QĐ-BHXH ngày
+27 tháng 03 năm 2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam)
+Điều 1. Phạm vi áp dụng
+1.
+Người tham gia và đơn vị quản lý người tham gia bảo
+hiểm xã hội, bảo hiểm y tế.
+2.
+Công chức, viên chức, người lao động làm việc trong
+ngành Bảo hiểm xã hội được cơ quan Bảo hiểm xã hội giao nhiệm vụ quản lý, rà
+soát, tra cứu, cập nhật cơ sở dữ liệu hộ gia đình.
+Điều 2. Mục đích quản lý
+1.
+Thông tin người tham gia được cập nhật, điều chỉnh
+đầy đủ, chính xác, kịp thời vào cơ sở dữ liệu hộ gia đình, được tập hợp gồm những
+người đang tham gia, đã tham gia và chưa tham gia bảo hiểm xã hội, bảo hiểm y tế.
+2.
+Mỗi người tham gia chỉ được cấp duy nhất một mã số
+bảo hiểm xã hội.
+Điều 3. Giải thích từ ngữ
+1.
+Các từ viết tắt
+1.1.
+BHXH
+là chữ viết tắt của cụm từ "bảo hiểm xã hội".
+1.2.
+BHYT
+là
+chữ viết tắt của cụm từ "bảo hiểm y tế".
+1.3.
+BHTN
+là
+chữ viết tắt của cụm từ "bảo hiểm thất nghiệp".
+1.4.
+BHXH tỉnh
+là tên chung cho Bảo hiểm xã hội tỉnh, thành phố trực thuộc Trung ương.
+1.5.
+BHXH huyện
+là tên chung cho Bảo hiểm xã hội quận, huyện, thị xã,
+thành phố thuộc tỉnh (sáp nhập vào BHXH tỉnh).
+1.6.
+CMND/CCCD
+là chữ viết tắt của cụm từ "chứng minh nhân dân/căn cước công
+dân".
+1.7.
+CSDL
+là chữ viết tắt của cụm từ "cơ sở dữ liệu".
+1.8.
+HGĐ
+là
+chữ viết tắt của cụm từ "hộ gia đình".
+1.9.
+UBND xã
+là tên chung cho Ủy ban nhân dân xã, phường, thị trấn.
+2.
+Giải thích từ ngữ
+Trong Văn bản
+này, các từ ngữ dưới đây được hiểu như sau:
+2.1.
+Mã số BHXH
+là số định danh do cơ quan BHXH cấp cho mỗi người tham gia
+một mã số duy nhất và được quản lý trên toàn quốc.
+2.2.
+Mã số HGĐ
+là số định danh do cơ quan BHXH cấp cho mỗi HGĐ một mã số duy nhất và
+được quản lý trên toàn quốc.
+2.3.
+Bộ thông tin định danh
+là tổ hợp các tiêu chí bao gồm: Họ và tên, ngày tháng năm
+sinh, giới tính, nơi đăng ký khai sinh (cấp tỉnh, cấp huyện, cấp xã).
+2.4.
+Người tham gia
+là thành viên HGĐ đã kê khai và được cấp mã số BHXH trong
+CSDL HGĐ.
+2.5.
+Hộ gia đình
+là một đơn vị gồm một hay một số người được kê khai trong:
+sổ hộ khẩu/sổ tạm trú, thẻ thường trú/thẻ tạm trú của người nước ngoài,... thuộc
+diện bảo mật thông tin. Không bao gồm một số người trong khu nhà trọ, ký túc
+xá,... hoặc các địa điểm cư trú nhiều người có tính chất tương tự.
+2.6.
+CSDL HGĐ
+là tập hợp thông tin liên quan của thành viên HGĐ, gồm: người đang tham gia, đã
+tham gia và chưa tham gia BHXH, BHYT.
+2.7.
+Chủ hộ
+là một thành viên trong HGĐ đại diện cho HGĐ đó.
+2.8.
+Tổ kiểm soát
+gồm công chức, viên chức, người lao động làm việc tại cơ
+quan BHXH được BHXH cấp trung ương/tỉnh/huyện thành lập theo từng cấp để thực
+hiện quản lý, kiểm soát, phê duyệt mã số BHXH cho người tham gia.
+2.9.
+Cán bộ thu
+là viên chức, người lao động làm việc trong lĩnh vực công
+tác thu BHXH, BHYT tại cơ quan BHXH.
+2.10
+Cán bộ sổ, thẻ
+là viên chức, người lao động làm việc trong lĩnh vực công
+tác sổ BHXH, thẻ BHYT tại cơ quan BHXH.
+2.11.
+Cán bộ KHTC
+là viên chức, người lao động làm việc trong lĩnh vực kế hoạch
+- tài chính tại cơ quan BHXH.
+2.12.
+Đơn vị quản lý người tham gia
+là gọi chung cho cơ quan, doanh nghiệp, tổ chức,
+cá nhân sử dụng lao động thuộc đối tượng tham gia BHXH, BHYT; Các tổ chức được
+cơ quan
+BHXH
+ký hợp đồng làm Đại lý thu BHXH, BHYT; Cơ quan BHXH lập
+danh sách cấp thẻ
+BHYT
+do tổ chức
+BHXH
+đóng; UBND xã, cơ sở giáo dục và đào tạo, cơ sở dạy
+nghề, cơ quan có thẩm quyền xác định, lập danh sách cấp thẻ BHYTcho đối tượng
+được ngân sách nhà nước đóng, hỗ trợ đóng theo quy định của Luật BHXH và Luật
+BHYT.
+2.13.
+Phần mềm HGĐ
+là Hệ thống cấp mã số BHXH và quản lý HGĐ tham gia BHYT của
+Ngành BHXH.
+Điều 4. Quy trình tăng trẻ em dưới 6 tuổi trong cơ sở dữ liệu
+hộ gia đình
+1.
+UBND xã
+1.1
+.
+Trường hợp chưa
+kết nối liên thông dữ liệu đăng ký khai sinh trẻ em dưới 6 tuổi trên Hệ thống thông
+tin đăng ký và quản lý hộ tịch của Bộ Tư pháp:
+a)
+Khi có phát sinh thực hiện các thủ tục hành chính về
+đăng ký khai sinh, đăng ký thường trú, cấp thẻ BHYT: Lập hồ sơ cấp thẻ BHYT cho
+trẻ em dưới 6 tuổi theo quy định tại Thông tư liên tịch số 05/2015/TTLT-BTP-BCA-BYT
+ngày 15/5/2015, gồm: Tờ khai tham gia, điều chỉnh thông tin BHXH, BHYT và Danh
+sách đề nghị cấp thẻ BHYT (
+Mẫu TK1-TS
+và
+Mẫu D03-TS
+ban hành kèm theo Quyết
+định số 505/QĐ-BHXH ngày 27/3/2020) gửi cơ quan BHXH.
+b)
+Nhận thẻ BHYT từ cơ quan BHXH chuyển đến để trả cho
+trẻ em.
+1.2.
+Trường hợp đã kết nối liên thông dữ liệu đăng ký
+khai sinh trẻ em dưới 6 tuổi trên Hệ thống thông tin đăng ký và quản lý hộ tịch
+của Bộ Tư pháp:
+a)
+Hằng ngày, gửi dữ liệu đăng ký khai sinh của trẻ dưới
+6 tuổi đến cơ quan BHXH, không phải lập hồ sơ theo Tiết a Điểm 1.1 Khoản 1 Điều
+này.
+b)
+Nhận hồ sơ từ cơ quan BHXH chuyển đến: Thẻ BHYT để
+trả thẻ cho trẻ em; Phụ lục thành viên HGĐ (của
+Mẫu TK1-TS
+) để xác nhận bổ sung trẻ
+em vào đúng HGĐ và gửi lại cơ quan BHXH.
+2.
+BHXH tỉnh/huyện
+2.2.
+Cán bộ sổ, thẻ
+a)
+Xử lý hồ sơ:
+-
+Trường hợp chưa kết nối liên thông dữ liệu đăng ký
+khai sinh trẻ em dưới 6 tuổi trên Hệ thống thông tin đăng ký và quản lý hộ tịch
+của Bộ Tư pháp:
+Nhận hồ sơ từ
+Bộ phận tiếp nhận hồ sơ (bao gồm cả hồ sơ giao dịch điện tử): Thực hiện tra cứu,
+tìm kiếm mã số BHXH của trẻ em theo thông tin kê khai trên
+Mẫu TK1-TS
+với CSDL HGĐ theo quy tắc
+tại Khoản 1 Điều 7 Quy chế này:
++ Trường hợp
+tra cứu, tìm kiếm: Xác định chính xác thông tin trẻ em đã có trong CSDL HGĐ,
+thông báo và thống nhất mã số BHXH của trẻ em với đơn vị quản lý người tham
+gia, cha/mẹ/người giám hộ;
+Nếu
+thông tin của trẻ em chưa đầy đủ, chính xác, thực
+hiện điều chỉnh thông tin trẻ em đã được cấp mã số BHXH trong
+CSDL
+HGĐ, điều chỉnh
+trẻ em về đúng HGĐ (nếu đang ở HGĐ khác) và đề nghị Tổ kiểm soát phê duyệt điều
+chỉnh thông tin của trẻ em (đính kèm hồ sơ theo Khoản 2 Điều 7 Quy chế này).
++ Trường hợp
+tra cứu, tìm kiếm: Xác định trẻ em chưa được kê khai trong CSDL HGĐ (trẻ em mới
+sinh), cập nhật đầy đủ, chính xác thông tin trên
+Mẫu TK1-TS
+vào phần mềm HGĐ và đề
+nghị Tổ kiểm soát phê duyệt mã số BHXH cho trẻ em (đính kèm hồ sơ theo Khoản 2
+Điều 7 Quy chế này).
+-
+Trường hợp đã kết nối liên thông dữ liệu đăng ký
+khai sinh trẻ em dưới 6 tuổi trên Hệ thống thông tin đăng ký và quản lý hộ tịch
+của Bộ Tư pháp:
+Phần mềm HGĐ
+ngay khi nhận dữ liệu từ Bộ Tư pháp, tự động thực hiện: Tra cứu, tìm kiếm mã số
+BHXH của trẻ em theo quy tắc tại Khoản 1 Điều 7 Quy chế này:
++ Trường hợp
+xác định chính xác thông tin trẻ em chưa có trong CSDL HGĐ: Tự động lấy thông
+tin, cấp mã số BHXH và lập tự động lập
+Mẫu
+D03-TS
+chuyển Bộ phận tiếp nhận hồ sơ.
++ Trường hợp
+xác định chính xác thông tin trẻ em đã được kê khai trong CSDL HGĐ và đã được cấp
+thẻ BHYT: Tự động phản hồi trạng thái đã cấp thẻ BHYT và cung cấp mã số BHXH do
+cơ quan BHXH cấp.
+b)
+Chuyển hồ sơ đã được hoàn thiện mã số BHXH (ghi mã
+số BHXH của trẻ em vào các biểu mẫu) đến cán bộ thu thực hiện các nghiệp vụ
+phát sinh để cấp thẻ BHYT theo quy định.
+c)
+Hoàn thiện hồ sơ:
+-
+Trước ngày 03 hằng tháng:
++ In Phụ lục
+thành viên HGĐ (của
+Mẫu TK1-TS
+)
+có thông tin của từng trẻ em được cấp mã số BHXH
+tháng trước liền kề chuyển đến UBND xã để xác nhận bổ sung trẻ em dưới 6 tuổi
+vào đúng HGĐ.
++ Ký Biên bản
+bàn giao (Mẫu 02-TS) được in từ phần mềm quản lý với UBND xã và
+scan,
+lưu trữ trên
+phần mềm quản lý.
+-
+Trước ngày 04 hằng tháng:
++ Nhận Phụ lục
+thành viên HGĐ từ UBND xã chuyển đến và hoàn thành việc cập nhật đầy đủ, chính
+xác thông tin trẻ em dưới 6 tuổi vào đúng HGĐ.
++ Chuyển
+Mẫu
+02-TS và Phụ lục
+thành viên HGĐ đến Bộ phận tiếp nhận hồ sơ để lưu trữ hồ sơ theo quy định.
+2.2.
+Tổ kiểm soát
+a)
+Nhận đề nghị phê duyệt từ cán bộ sổ, thẻ: Kiểm soát
+việc tuân thủ quy trình thực hiện, hồ sơ đính kèm, thông tin của người tham gia
+và thành viên HGĐ được cập nhật vào phần mềm HGĐ:
+-
+Trường hợp thông tin người tham gia và các thành
+viên trong HGĐ đầy đủ, chính xác với hồ sơ kèm theo: Phê duyệt.
+-
+Trường hợp chưa thực hiện đầy đủ quy trình tra cứu,
+tìm kiếm thông tin người tham gia, cập nhật, điều chỉnh thông tin người tham
+gia và các thành viên HGĐ không chính xác với hồ sơ kèm theo: Yêu cầu thực hiện
+đúng quy định Điểm 2.1 Khoản 2 Điều này.
+b)
+Thời gian phê duyệt được thực hiện tối đa 03 giờ
+làm việc.
+3.
+UBND xã và cơ quan BHXH thực hiện việc giao, nhận
+và trả hồ sơ qua dịch vụ bưu chính công ích.
+Điều 5. Quy trình giảm người tham gia trong cơ sở dữ liệu hộ
+gia đình
+1.
+BHXH tỉnh/huyện (Cán bộ sổ, thẻ)
+1.1.
+Trước ngày 03 hằng tháng:
+a)
+Chủ trì phối hợp với UBND xã kê khai thành viên HGĐ
+khai tử của tháng trước liền kề vào Danh sách thành viên hộ gia đình báo giảm
+khai tử (Mẫu 01-TS). Trường hợp đã kết nối liên thông với Hệ thống thông tin
+đăng ký và quản lý hộ tịch của Bộ Tư pháp về dữ liệu khai tử: In Danh sách
+tăng, giảm thành viên HGĐ (của
+Mẫu 02-TS)
+có thông tin của từng người khai tử tháng trước liền
+kề chuyển đến UBND xã để phối hợp xác nhận HGĐ có người khai tử.
+b)
+Ký
+Mẫu
+02-TS được in từ phần mềm quản lý với UBND xã và
+scan,
+lưu trữ trên
+phần mềm quản lý.
+1.2.
+Trước ngày 04 hằng tháng:
+a)
+Nhận Mẫu 01-TS từ UBND xã chuyển đến và hoàn thành
+việc cập nhật đầy đủ, chính xác thông tin thành viên HGĐ báo giảm khai tử vào
+đúng HGĐ.
+b)
+Chuyển
+Mẫu 01-TS,
+Mẫu
+02-TS
+đến Bộ phận tiếp nhận hồ sơ để lưu trữ hồ sơ theo
+quy định.
+2.
+UBND xã: Phối hợp với cơ quan BHXH kê khai người
+khai tử vào Mẫu 01-TS,
+Mẫu
+02-TS và gửi cơ quan BHXH.
+3.
+UBND xã và cơ quan BHXH thực hiện việc giao, nhận và
+trả hồ sơ qua dịch vụ bưu chính công ích.
+Điều 6. Quy trình hoàn thiện mã số bảo hiểm xã hội cho người
+tham gia
+1.
+Đơn vị quản lý người tham gia
+1.1.
+Tra cứu, tìm kiếm và hướng dẫn người tham gia tra cứu,
+tìm kiếm đúng mã số BHXH của người tham gia đã được cơ quan BHXH cấp.
+1.2.
+Trường hợp tìm kiếm không thấy mã số BHXH của người
+tham gia (bao gồm cả người nước ngoài tham gia BHXH, BHYT tại Việt Nam): Hướng
+dẫn người tham gia kê khai đầy đủ thông tin vào
+Mẫu TK1-TS
+; Phối hợp với cơ quan BHXH gửi hình ảnh hồ sơ theo
+Khoản 2 Điều 7 Quy chế này để cập nhật, hoàn thiện cơ sở dữ liệu của người tham
+gia.
+2.
+BHXH tỉnh/huyện
+2.1.
+Cán bộ sổ, thẻ
+a)
+Nhận hồ sơ từ Bộ phận tiếp nhận hồ sơ (bao gồm cả hồ
+sơ giao dịch điện tử): Thực hiện tra cứu, tìm kiếm mã số BHXH của người tham
+gia theo thông tin kê khai trên
+Mẫu
+TK1-TS
+với CSDL HGĐ theo quy tắc tại Khoản 1 Điều 7 Quy chế này:
+-
+Trường hợp xác định chính xác thông tin người tham
+gia đã được cấp mã số BHXH trong CSDL HGĐ: Thông báo và thống nhất mã số BHXH với
+người tham gia, đơn vị quản lý người tham gia.
+-
+Trường hợp tra cứu, tìm kiếm thấy người tham gia có
+thông tin chưa đầy đủ, chính xác: Thực hiện điều chỉnh thông tin người tham gia
+đã được cấp mã số BHXH trong CSDL HGĐ, điều chỉnh người tham gia về đúng HGĐ (nếu
+đang ở HGĐ khác); Đề nghị Tổ kiểm soát phê duyệt điều chỉnh thông tin của của
+người tham gia (đính kèm hồ sơ theo Khoản 2 Điều 7 Quy chế này).
+-
+Trường hợp xác định người nước ngoài tham gia BHXH,
+BHYT tại Việt Nam chưa được kê khai trong CSDL HGĐ: Cập nhật đầy đủ, chính xác
+thông tin trên
+Mẫu TK1-TS
+vào phần
+mềm HGĐ; Đề nghị Tổ kiểm soát phê duyệt mã số BHXH cho người nước ngoài (đính
+kèm hồ sơ theo Khoản 2 Điều 7 Quy chế này).
+b)
+Chuyển hồ sơ đã được hoàn thiện mã số BHXH (ghi mã
+số BHXH của người tham gia vào biểu mẫu) đến cán bộ thu thực hiện các nghiệp vụ
+phát sinh theo quy định.
+2.2.
+Tổ kiểm soát
+a) Nhận đề nghị
+phê duyệt từ cán bộ sổ, thẻ: Kiểm soát việc tuân thủ quy trình thực hiện, hồ sơ
+đính kèm, thông tin của người tham gia và thành viên HGĐ được cập nhật vào phần
+mềm HGĐ:
+-
+Trường hợp thông tin người tham gia và các thành
+viên trong HGĐ đầy đủ, chính xác với hồ sơ kèm theo: Phê duyệt.
+-
+Trường hợp chưa thực hiện đầy đủ quy trình tra cứu,
+tìm kiếm thông tin người tham gia, cập nhật, điều chỉnh thông tin người tham
+gia và các thành viên HGĐ không chính xác với hồ sơ kèm theo: Yêu cầu thực hiện
+đúng quy định Điểm 2.1 Khoản 2 Điều này.
+b) Thời gian
+phê duyệt được thực hiện tối đa 03 giờ làm việc.
+Điều 7. Nguyên tắc tra cứu, tìm kiếm thông tin người tham
+gia và hình ảnh hồ sơ đính kèm làm căn cứ hoàn thiện mã số bảo hiểm xã hội
+1.
+Nguyên tắc tra cứu, tìm kiếm thông tin người tham
+gia trong CSDL HGĐ
+1.1.
+Tìm kiếm thông tin chủ hộ gia đình:
+a)
+Phạm vi tìm kiếm theo thứ tự ưu tiên: trên địa bàn
+cấp xã; địa bàn cấp huyện; địa bàn cấp tỉnh và trên toàn quốc.
+b)
+Nguyên tắc tìm kiếm: tìm kiếm họ tên, ngày, tháng,
+năm, sinh, CMND/CCCD/Hộ chiếu của chủ hộ hoặc thông tin của các thành viên
+trong HGĐ để tìm kiếm chủ HGĐ.
+1.2.
+Tìm kiếm thông tin thành viên hộ gia đình:
+a)
+Phạm vi tìm kiếm theo thứ tự ưu tiên: trong cùng
+HGĐ; trên địa bàn cấp xã, địa bàn cấp huyện, địa bàn cấp tỉnh và trên toàn quốc.
+b)
+Nguyên tắc tìm kiếm theo thứ tự:
+-
+Tìm kiếm theo Bộ thông tin định danh trên toàn quốc.
+-
+Tìm kiếm theo CMND/CCCD/Hộ chiếu trên toàn quốc.
+-
+Tìm kiếm theo họ tên, ngày, tháng, năm sinh, giới
+tính trên toàn quốc.
+-
+Tìm kiếm theo họ và tên, năm sinh mã tỉnh khai
+sinh/mã tỉnh hộ khẩu.
+-
+Tìm kiếm theo họ và tên, năm sinh trên toàn quốc.
+2.
+Danh mục hình ảnh giấy tờ đính kèm làm căn cứ cấp,
+hoàn thiện mã số BHXH
+2.1.
+Mẫu TK1-TS
+2.2.
+CMND/CCCD/Hộ chiếu hoặc Giấy khai sinh (đối với người
+chưa được cấp CMND/CCCD/Hộ chiếu).
+2.3.
+Giấy tờ khác.
+Điều 8. Trách nhiệm của Tổ kiểm soát các cấp
+1.
+Tổ kiểm soát cấp huyện
+1.1.
+Kiểm soát việc tuân thủ quy trình thực hiện, hồ Sơ
+đính kèm, thông tin của người tham gia và thành viên HGĐ được cập nhật vào phần
+mềm HGĐ đảm bảo đầy đủ, chính xác từ đề nghị của cán bộ sổ, thẻ.
+1.2.
+Phê duyệt mã số BHXH đối với trẻ em dưới 6 tuổi và
+người nước ngoài không trùng thông tin có phát sinh tại huyện; Phê duyệt điều
+chỉnh thông tin của người tham gia trong địa bàn huyện.
+1.3.
+Đề nghị Tổ kiểm soát cấp tỉnh phê duyệt đối với người
+tham gia khác địa bàn huyện, tỉnh
+1.4.
+Nghiệm thu việc cập nhật biến động thành viên HGĐ
+và hoàn thiện mã số BHXH của BHXH huyện trên cơ sở
+Mẫu
+02-TS, hồ sơ
+được cập nhật vào phần mềm HGĐ.
+1.5.
+Trước ngày 06 hằng tháng, in các báo cáo từ phần mềm
+quản lý: Báo cáo tình hình tăng, giảm, điều chỉnh thông tin người tham gia (Mẫu
+04a-TS); Báo cáo chi tiết tình hình phê duyệt mã số BHXH (Mẫu 05a-TS); Báo cáo
+tồn tại, hạn chế qua kiểm soát việc tra cứu, cập nhật thông tin vào CSDL HGĐ và
+biến động thành viên HGĐ so với các chỉ tiêu thống kê về dân số, số người sinh,
+tử trên địa bàn huyện gửi Lãnh đạo huyện để chấn chỉnh, xử lý trách nhiệm (nếu
+có).
+1.6.
+Kinh phí hoạt động của Tổ kiểm soát cấp huyện và
+kinh phí rà soát dữ liệu theo quy định của BHXH Việt Nam.
+1.7.
+Kịp thời báo cáo, đề xuất BHXH tỉnh về khó khăn, vướng
+mắc trong quá trình tổ chức thực hiện.
+2.
+Tổ kiểm soát cấp tỉnh
+2.1.
+Kiểm soát việc tuân thủ quy trình thực hiện, hồ sơ
+đính kèm, thông tin của người tham gia và thành viên HGĐ được cập nhật vào phần
+mềm HGĐ đảm bảo đầy đủ, chính xác từ đề nghị của cán bộ sổ, thẻ thuộc BHXH tỉnh
+hoặc của Tổ kiểm soát cấp huyện.
+2.2.
+Phê duyệt mã số BHXH đối với trẻ em dưới 6 tuổi và
+người nước ngoài không trùng thông tin có phát sinh tại huyện thuộc tỉnh quản
+lý; Phê duyệt điều chỉnh thông tin của người tham gia trong địa bàn huyện thuộc
+tỉnh quản lý và ở địa bàn khác huyện, trong tỉnh.
+2.3.
+Đề nghị Tổ kiểm soát cấp Trung ương phê duyệt đối với
+trường hợp điều chỉnh thông tin của người tham gia ở địa bàn ngoài tỉnh.
+2.4. Nghiệm
+thu việc cập nhật biến động thành viên HGĐ và hoàn thiện mã số
+BHXH
+của BHXH tỉnh/huyện
+trên cơ sở
+Mẫu
+02-TS, hồ sơ được cập nhật vào phần mềm HGĐ.
+2.5.
+Trước ngày 06 hằng tháng, in các báo cáo từ phần mềm
+quản lý: Báo cáo tình hình tăng, giảm, điều chỉnh thông tin người tham gia
+(Mẫu
+04B-TS); Báo
+cáo chi tiết tình hình phê duyệt mã số BHXH
+(Mẫu
+05B-TS); Báo cáo tồn tại, hạn chế qua
+kiểm soát việc tra cứu, cập nhật thông tin vào CSDL HGĐ và biến động thành viên
+HGĐ so với các chỉ tiêu thống kê về dân số, số người sinh, tử trên địa bàn tỉnh
+gửi Lãnh đạo tỉnh để chấn chỉnh, xử lý trách nhiệm (nếu có).
+2.6.
+Kinh phí hoạt động của Tổ kiểm soát cấp tỉnh và
+kinh phí rà soát dữ liệu theo quy định của BHXH Việt Nam.
+2.7.
+Giải quyết khó khăn, vướng mắc trong quá trình tổ
+chức thực hiện theo hướng dẫn của BHXH Việt Nam. Trường hợp vượt quá thẩm quyền,
+kịp thời báo cáo và đề xuất BHXH để xem xét, giải quyết.
+3.
+Tổ kiểm soát cấp Trung ương
+3.1.
+Kiểm soát việc tuân thủ quy trình tra cứu, tìm kiếm
+thông tin người tham gia và phê duyệt mã số BHXH đối với Tổ kiểm soát cấp tỉnh/huyện.
+3.2.
+Phê duyệt đề nghị của Tổ kiểm soát cấp tỉnh đối với
+trường hợp điều chỉnh thông tin của người tham khác địa bàn tỉnh.
+3.3.
+Kiểm soát việc nghiệm thu cập nhật biến động thành
+viên HGĐ của BHXH tỉnh trên cơ sở
+Mẫu
+02-TS, hồ sơ được cập nhật vào phần mềm HGĐ.
+3.4.
+Trường hợp đặc biệt, Tổ kiểm soát Trung ương báo
+cáo Lãnh đạo Ngành xem xét, giải quyết.
+3.5.
+Trước ngày 06 hằng tháng, in các báo cáo từ phần mềm
+quản lý: Báo cáo tình hình tăng, giảm, điều chỉnh thông tin người tham gia
+(Mẫu
+04C-TS); Báo
+cáo chi tiết tình hình phê duyệt mã số BHXH
+(Mẫu
+05C-TS); Báo cáo tồn tại, hạn chế qua kiểm
+soát việc tra cứu, cập nhật thông tin vào CSDL HGĐ và biến động thành viên HGĐ
+so với các chỉ tiêu thống kê về dân số, số người sinh, tử trên toàn quốc gửi
+Lãnh đạo Ngành để chấn chỉnh, xử lý trách nhiệm (nếu có).
+3.6.
+Kinh phí hoạt động của Tổ kiểm soát cấp Trung ương
+và kinh phí rà soát dữ liệu theo quy định của BHXH Việt Nam.
+3.7.
+Tiếp nhận và đề xuất, giải quyết khó khăn, vướng mắc
+trong quá trình tổ chức thực hiện của BHXH tỉnh.
+Điều 9. Chi phí hỗ trợ UBND xã lập danh sách, tăng giảm
+thành viên hộ gia đình
+1.
+UBND xã
+1.1.
+Lập Giấy thanh toán kinh phí chi hỗ trợ cho UBND cấp
+xã thực hiện lập danh sách người tham gia BHYT (
+Mẫu C66b-HD
+ban hành kèm theo
+Thông tư số 102/20
+18/TT-BTC
+ngày 14/11/2018 của Bộ Tài chính hướng dẫn kế toán
+bảo hiểm xã hội) đối với trường hợp tăng sinh, giảm chết và hồ sơ, thủ tục
+thanh toán theo Công văn số
+2544/BHHX-TCKT
+ngày 15/7/2019 của BHXH Việt Nam về việc hướng dẫn
+thanh quyết toán chi phí lập danh sách và cập nhật biến động thành viên hộ gia
+đình tham gia BHYT gửi cơ quan BHXH.
+1.2.
+Nhận kinh phí chi hỗ trợ từ cơ quan BHXH chuyển đến
+trước ngày 06 hằng tháng.
+2.
+Cơ quan BHXH tỉnh/huyện
+2.1.
+Cán bộ sổ, thẻ
+a)
+Nhận hồ sơ và thủ tục thanh toán từ UBND xã chuyển
+đến.
+b)
+Chốt dữ liệu số tiền phải chi hỗ trợ UBND xã và lập
+và ký đề nghị thanh toán tại phần của Cơ quan BHXH duyệt của
+Mẫu C66b-HD
+chuyển cán bộ kế
+toán để chi hỗ trợ UBND xã theo quy định.
+2.2.
+Cán bộ KHTC
+a)
+Nhận đề nghị thanh toán từ cán bộ sổ thẻ, trình
+Lãnh đạo đơn vị duyệt và chuyển kinh phí chi hỗ trợ UBND xã theo quy định.
+b)
+Cán bộ KHTC cấp huyện tổng hợp, chốt dữ liệu số tiền
+chi hỗ trợ UBND xã và lập Báo cáo tổng hợp kinh phí chi hỗ trợ UBND xã lập danh
+sách tăng, giảm thành viên hộ gia đình (Mẫu 03a-TS) báo cáo Giám đốc huyện.
+c)
+Cán bộ
+KHTC
+cấp tỉnh tổng hợp, chốt dữ liệu số tiền chi hỗ trợ
+UBND xã và lập Báo cáo tổng hợp kinh phí chi hỗ trợ UBND xã lập danh sách tăng,
+giảm thành viên hộ gia đình (Mẫu 03b-TS) báo cáo Giám đốc tỉnh.
+3.
+UBND xã và cơ quan BHXH thực hiện việc chuyển, nhận
+kinh phí hỗ trợ UBND xã lập danh sách qua dịch vụ bưu chính công ích.
+4.
+Thời gian thanh toán và báo cáo kinh phí chi hỗ trợ
+UBND xã lập danh sách tăng, giảm thành viên hộ gia đình.
+4.1.
+Cơ quan BHXH thực hiện thanh toán chi hỗ trợ từ đề
+nghị của UBND xã theo đợt phát sinh.
+4.2.
+Thời gian báo cáo:
+a)
+Đối với BHXH huyện: Lập Mẫu 03a-TS trước 17h ngày
+04 hằng tháng.
+b)
+Đối với BHXH tỉnh: Lập Mẫu 03b-TS trước 09h ngày 05
+hằng tháng.
+Điều 10. Trách nhiệm của các đơn vị trực thuộc BHXH Việt
+Nam
+1.
+Ban Sổ - Thẻ
+1.1.
+Chịu trách nhiệm tổ chức thực hiện Quy chế này.
+1.2.
+Tham mưu trình Tổng Giám đốc thành lập Tổ Kiểm soát
+cấp Trung ương do Trưởng Ban sổ - Thẻ làm Tổ trưởng, Lãnh đạo Trung tâm Công
+nghệ thông tin và Phó Trưởng Ban sổ - Thẻ làm Tổ phó, các tổ viên là viên chức
+thuộc các đơn vị: sổ - Thẻ, Công nghệ thông tin, Thu. Tổ trưởng phân công nhiệm
+vụ cụ thể cho từng thành viên và chịu trách nhiệm về hoạt động của Tổ kiểm
+soát.
+1.3.
+Đề xuất trang bị máy tính cho các thành viên trong
+Tổ kiểm soát để đáp ứng yêu cầu nhiệm vụ, đảm bảo đúng quy định về tiêu chuẩn,
+định mức sử dụng máy móc, thiết bị của cơ quan và công chức, viên chức trong
+ngành BHXH.
+1.4.
+Chủ trì, phối hợp với các đơn vị có liên quan tổ chức
+tập huấn, hướng dẫn, kiểm tra BHXH các tỉnh, thành phố thực hiện, triển khai Quy
+chế này.
+1.5.
+Tiếp nhận và phối hợp với các đơn vị trực thuộc giải
+quyết kịp thời những khó khăn, vướng mắc trong quá trình tổ chức thực hiện.
+1.6.
+Đề xuất kinh phí hoạt động của Tổ kiểm soát; khen thưởng,
+xử lý vi phạm đối với tổ chức, cá nhân theo quy định tại Điều 11 Quy chế này.
+1.7. Trước 17
+giờ ngày 05 hằng tháng, cán bộ Ban sổ - Thẻ tổng hợp, in Báo cáo tổng hợp kinh
+phí chi hỗ trợ UBND xã lập danh sách tăng, giảm thành viên hộ gia đình (Mẫu 03c-TS)
+của tháng trước liền kề gửi Trưởng ban để báo cáo Lãnh đạo Ngành.
+2.
+Trung tâm Công nghệ thông tin
+2.1.
+Chịu trách nhiệm quản lý dữ liệu trong CSDL HGĐ, đồng
+bộ, liên thông dữ liệu với các phần mềm nghiệp vụ của Ngành BHXH; Bảo mật thông
+tin theo quy định của pháp luật.
+2.2.
+Xây dựng, hoàn chỉnh, quản lý, vận hành phần mềm
+HGĐ và phân cấp, phân quyền sử dụng cho cán bộ BHXH các cấp đáp ứng theo Quy chế
+này.
+2.3.
+Xây dựng chức năng và phân quyền tra cứu mã số BHXH
+của người tham gia, thành viên trong HGĐ đảm bảo bảo mật thông tin theo quy định;
+Các chức năng báo cáo tổng hợp, phân tích, nghiệm thu theo đề nghị của Ban sổ -
+Thẻ đáp ứng yêu cầu quản lý và Quy chế này.
+3.
+Ban Thu: Phối hợp với các đơn vị hướng dẫn, tổ chức
+kiểm tra, giám sát tình hình thực hiện Quy chế này.
+4.
+Vụ Tài chính - Kế toán: Xây dựng, cấp kinh phí và
+hướng dẫn các nội dung chi, thủ tục hồ sơ thanh toán, quyết toán.
+5.
+Văn phòng BHXH Việt Nam: Đảm bảo kinh phí hoạt động,
+cơ sở vật chất, trang thiết bị làm việc theo đề nghị của Ban sổ - Thẻ để phục vụ
+quản lý
+CSDL HGD.
+6.
+BHXH tỉnh/huyện
+6.1.
+Báo cáo Ủy ban nhân dân cấp tỉnh/huyện chỉ đạo tổ
+chức triển khai việc kết nối, liên thông dữ liệu hộ tịch theo hướng dẫn của Bộ
+Tư pháp và Quy chế này nhằm cải cách thủ tục hành chính, kịp thời cấp thẻ BHYT
+cho trẻ em dưới 6 tuổi và phối hợp thực hiện việc hoàn thiện mã số BHXH, cập nhật
+tăng, giảm thành viên HGĐ kịp thời hằng tháng.
+6.2.
+BHXH cấp tỉnh thành lập Tổ kiểm soát cấp tỉnh do
+Lãnh đạo BHXH tỉnh phụ trách công tác cấp sổ, thẻ làm Tổ trưởng, Trưởng phòng cấp
+sổ, thẻ, CNTT làm Tổ phó và viên chức thuộc các phòng nghiệp vụ: cấp sổ, thẻ,
+Công nghệ thông tin, Thu làm thành viên. BHXH cấp huyện thành lập Tổ kiểm soát
+cấp huyện do lãnh đạo BHXH huyện phụ trách công tác cấp sổ, thẻ làm Tổ trưởng
+và cán bộ thu, sổ, thẻ làm thành viên.
+6.3.
+Đề xuất trang bị máy tính cho các thành viên trong
+Tổ kiểm soát để đáp ứng yêu cầu nhiệm vụ, đảm bảo đúng quy định về tiêu chuẩn,
+định mức sử dụng máy móc, thiết bị của cơ quan và công chức, viên chức trong
+ngành BHXH.
+6.4.
+Tổ chức tập huấn Quy chế này đến toàn thể cán bộ
+BHXH tỉnh/huyện và các đơn vị, tổ chức có liên quan.
+6.5.
+Phân công cán bộ chuyên quản theo dõi, phụ trách địa
+bàn cấp xã để phối hợp k
+ê
+khai, cập nhật thông
+tin
+Mẫu TK1-TS
+và
+Mẫu
+02-TS kịp thời, đầy đủ.
+6.6.
+Giám đốc BHXH tỉnh chịu trách nhiệm về thông tin được
+cập nhật vào CSDL HGĐ đầy đủ, khớp đúng với hình ảnh hồ sơ kèm theo trên địa
+bàn toàn tỉnh và các nội dung tại Quy chế này. Tùy thuộc tình hình thực tế, thực
+hiện ký Hợp đồng thuê khoán công việc với đơn vị dịch vụ bưu chính công ích để
+thực hiện một số công đoạn trong Quy chế (nếu có) và chịu trách nhiệm, nghiệm
+thu chất lượng, tiến độ công việc.
+Điều 11. Khen thưởng và xử lý vi phạm
+1.
+Các hành vi bị nghiêm cấm
+1.1.
+Cấp trùng mã số BHXH cho người tham gia, trùng mã số
+cấp cho HGĐ.
+1.2.
+Sử dụng các ứng dụng hoặc các phương thức để truy cập
+vào CSDL HGĐ mà chưa được phép của BHXH Việt Nam.
+1.3.
+Cấp tài khoản truy cập phần mềm vào phần mềm quản
+lý, CSDL HGĐ cho tổ chức, cá nhân không phải là đối tượng được cấp tài khoản
+theo quy định.
+1.4.
+Tự ý sao chép, cung cấp, tiết lộ thông tin CSDL
+HGĐ.
+1.5.
+Các hành vi khác làm hư hỏng, sai lệch hoặc làm mất
+tính ổn định của các phần mềm quản lý, CSDL HGĐ.
+2.
+Khen thưởng và xử lý vi phạm
+2.1.
+Khen thưởng: Các tổ chức, cá nhân có thành tích,
+sáng kiến trong việc quản lý, cấp mã số BHXH cho người tham gia BHXH, BHYT và cập
+nhật biến động thành viên trong CSDL HGĐ được xem xét khen thưởng theo quy định
+của Ngành BHXH.
+2.5.
+Xử lý vi phạm:
+a)
+Đơn vị, cá nhân trong Ngành BHXH thực hiện không đầy
+đủ hoặc trái với Quy chế này phải chịu trách nhiệm về hậu quả gây ra và bị xem
+xét xử lý trách nhiệm theo quy định của Ngành và pháp luật hiện hành.
+b)
+Các tổ chức, cá nhân ký Hợp đồng với cơ quan BHXH
+cung cấp dịch vụ mà thực hiện không đầy đủ hoặc trái với Quy chế này phải chịu
+trách nhiệm về hậu quả gây ra và bị xử lý vi phạm theo quy định của pháp luật
+hiện hành.
+Điều 12. Điều khoản thi hành
+1.
+Quy chế này có hiệu lực kể từ ngày ký.
+2.
+Những biểu mẫu không được trích dẫn nguồn tại văn bản
+này thì được hiểu là ban hành kèm theo văn bản này.
+3.
+Các quy định trước đây do BHXH Việt Nam ban hành về
+kê khai thông tin người tham gia BHXH, BHYT chưa có mã số BHXH hoặc hoàn thiện
+thông tin để cấp mã số BHXH được điều chỉnh và thực hiện theo quy trình và biểu
+mẫu tại Quy chế này.
+4.
+Các quy định trước đây do BHXH Việt Nam ban hành về
+quy trình tiếp nhận hồ sơ liên quan đến Điều 4, Điều 6 Quy chế này được điều chỉnh
+và thực hiện theo quy trình tại Quyết định này.
+5.
+Trường hợp các quy định tham chiếu tại Quy chế này
+được sửa đổi, bổ sung bằng các văn bản mới thì áp dụng tham chiếu theo văn bản
+mới./.
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Anh
+Tải Văn bản tiếng Anh
+Tải Văn bản gốc
+Tải Văn bản gốc

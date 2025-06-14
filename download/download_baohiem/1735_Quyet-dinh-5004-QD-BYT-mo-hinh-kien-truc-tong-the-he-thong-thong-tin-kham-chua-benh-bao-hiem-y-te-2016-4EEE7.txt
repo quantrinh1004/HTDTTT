@@ -1,0 +1,6120 @@
+BỘ
+  Y TẾ
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+  5004/QĐ-BYT
+Hà
+  Nội, ngày 19 tháng 9 năm 2016
+QUYẾT
+ĐỊNH
+VỀ VIỆC PHÊ DUYỆT MÔ HÌNH KIẾN TRÚC TỔNG THỂ HỆ THỐNG THÔNG
+TIN KHÁM CHỮA BỆNH BẢO HIỂM Y TẾ
+BỘ TRƯỞNG BỘ Y TẾ
+Căn cứ Luật Công nghệ
+thông tin ngày 29/6/2006;
+Căn cứ Nghị định số
+63/2012/NĐ-CP ngày 31/8/2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền
+hạn và cơ cấu tổ chức của Bộ Y tế;
+Căn cứ Quyết định
+2062/QĐ-BYT ngày 25/5/2016 của Bộ Y tế về việc điều chỉnh kinh phí từ Cục Công
+nghệ thông tin sang Văn phòng Điều phối nghiên cứu xây dựng và triển khai Đề án
+ứng dụng công nghệ thông tin trong quản lý khám, chữa bệnh và thanh toán bảo hiểm
+y tế và phê duyệt kế hoạch lựa chọn nhà thầu tư vấn xây dựng kiến trúc tổng thể
+hệ thống thông tin khám chữa bệnh bảo hiểm y tế của Văn phòng điều phối;
+Căn cứ Quyết định số
+4483/QĐ-BYT ngày 18/8/2016 của Bộ trưởng Bộ Y tế về việc thành lập Hội đồng
+nghiệm thu Gói thầu tư vấn xây dựng kiến trúc
+tổng
+thể
+hệ th
+ố
+ng
+thông tin khám chữa bệnh bảo hiểm y tế;
+Căn cứ Biên bản và Kết
+luận của Hội đồn
+g
+nghiệm thu kiến trúc tổng
+thể hệ thống thông tin khám chữa bệnh bảo hiểm y tế ngày 23/8/2016;
+Xét đề nghị của Chánh
+Văn phòng điều phối nghiên cứu xây dựng và triển khai Đề án ứng dụng công nghệ thông
+tin trong quản lý khám, chữa bệnh và thanh toán bảo hiểm y tế,
+QUYẾT ĐỊNH:
+Điều
+1
+.
+Phê duyệt mô hình
+kiến trúc tổng thể hệ thống thông tin khám chữa bệnh bảo hiểm y tế (ban hành
+kèm theo).
+Điều
+2
+.
+Mô hình kiến trúc
+tổng thể hệ thống thông tin khám chữa bệnh bảo hiểm y tế là cơ sở kỹ thuật để
+thực hiện triển khai kế hoạch ứng dụng công nghệ thông tin trong quản lý khám
+chữa bệnh và thanh toán bảo hiểm y tế.
+Điều
+3
+.
+Quyết định này có
+hiệu lực kể từ ngày ký, ban hành.
+Điều
+4
+.
+Các Ông, Bà:
+Chánh Văn phòng Bộ, Vụ trưởng Vụ Bảo hiểm y tế, Vụ trưởng Vụ Kế hoạch - Tài
+chính, Cục trưởng cục Công nghệ thông tin, Cục trưởng Cục quản lý khám bệnh, chữa
+bệnh, Chánh Văn phòng điều phối nghiên cứu xây dựng và triển khai đề án ứng dụng
+công nghệ thông tin trong quản lý khám, chữa bệnh và thanh toán bảo hiểm y tế -
+Bộ Y tế và Thủ trưởng các đơn vị liên quan chịu trách nhiệm thi hành Quyết định
+này./.
+Nơi nhận:
+- Như Điều 4;
+- Bộ trưởng Bộ Y tế (để b/c);
+- Các Thứ trưởng Bộ Y tế;
+- Văn phòng Chính phủ;
+-
+BHXH
+V
+iệt Nam;
+- Các Viện, Bệnh viện trực thuộc Bộ;
+- Sở Y tế các t
+ỉ
+nh,
+  TP trực thuộc TW;
+- Y tế Bộ, Ngành;
+- Lưu: V
+T
+,
+  VPĐP.
+KT.
+  BỘ TRƯỞNG
+THỨ TRƯỞNG
+Phạm Lê Tuấn
+BỘ
+Y
+TẾ
+VĂN PHÒNG ĐIỀU
+PHỐI
+---------------
+MÔ
+  HÌNH KIẾN TRÚC TỔNG THỂ
+HỆ
+  THỐNG THÔNG TIN KHÁM, CHỮA BỆNH
+BẢO
+  HIỂM Y T
+Ế
+ĐƠN
+    VỊ TƯ VẤN
+CÔNG
+    TY CỔ PHẦN SÁNG KIẾN
+NÂNG CAO SỨC KHỎE QUỐC TẾ
+VIỆT NAM (VNHI)
+CHỦ
+    ĐẦU TƯ
+VĂN
+    PHÒNG ĐIỀU PHỐI
+HÀ
+  NỘI - 09/2016
+MỤC LỤC
+CHƯƠNG 1. MỞ ĐẦU
+CHƯƠNG 2.
+CƠ
+SỞ PHÁP LÝ
+CHƯƠNG 3.
+Đ
+ƠN
+VỊ LIÊN QUAN
+3.1. Cơ quan chủ quản
+- Bộ Y tế
+3.1.1. Chức năng nhiệm
+vụ
+3.1.2. Trách nhiệm của
+Bộ Y tế về Bảo hiểm y tế
+3.2. C
+ơ
+quan Bảo hiểm xã hội Việt Nam
+3.2.1. Chức năng nhiệm
+vụ
+3.2.2. Cơ cấu tổ chức
+3.3. C
+ơ
+sở khám chữa bệnh bảo hiểm y tế
+3.4. Doanh nghiệp, người
+dân
+3.5. Mối quan hệ
+trong khám chữa bệnh và thanh toán bảo hiểm y tế
+CHƯƠNG 4. HIỆN TRẠNG ỨNG
+DỤNG CÔNG NGHỆ THÔNG TIN TRONG KHÁM CHỮA BỆNH BẢO HI
+Ể
+M
+Y T
+Ế
+4.1. Hiện trạng ứng dụng
+CNTT trong b
+ả
+o hiểm y tế
+4.2. Tình hình ứng dụng
+công nghệ thông tin tại các Bệnh viện
+4.3.
+Ứ
+ng
+dụng CNTT tại các trạm Y tế xã phư
+ờng
+4.4.
+Ứng
+dụng CNTT trong thanh toán viện phí trong Y tế
+4.5. Hạ tầng công nghệ
+thông tin
+4.6.
+V
+ề
+nguồn nhân lực về CNTT
+4.7. Kết luận
+CHƯƠNG 5. ĐỊNH HƯỚNG ỨNG
+DỤNG CÔNG NGHỆ THÔNG TIN TRONG KHÁM CHỮA BỆNH BẢO
+HIỂM
+Y
+TẾ
+5.1. Nguyên tắc xây dựng
+mô hình kiến trúc hệ thống thông tin khám chữa bệnh bảo
+hiểm y tế
+5.2. Định
+hướng
+xây dựng mô hình kiến trúc hệ thống thông tin khám, chữa bệnh bảo
+hiểm y tế
+5.2.1. Định hướng xây
+dựng mô hình kiến trúc
+5.2.2. Tóm tắt thông
+tin khám chữa bệnh
+5.3. Mục tiêu và phạm
+vi áp dụng
+5.3.1. Tầm nhìn
+5.3.2. Mục tiêu chung
+5.3.3. Mục tiêu cụ thể
+5.3.4. Phạm vi
+CHƯƠNG 6. MÔ HÌNH KI
+Ế
+N
+TRÚC
+6.1. Mô hình kiến
+trúc tổng thể h
+ệ
+thống thông tin khám, chữa bệnh
+bảo hiểm y tế
+6.1.1. Thành phần mô
+hình kiến trúc tổng th
+ể
+hệ thống thông tin khám chữa bệnh bảo
+hiểm y
+tế
+6.1.2. Mô hình trao đ
+ổ
+i
+thông tin trong Hệ thống thông tin khám, chữa bệnh bảo hiểm y tế
+6.1.3. Mô hình kiến
+trúc hệ thống khám, chữa bệnh bảo hiểm y tế
+6.2. Các yếu tố ảnh
+hưởng đến kiến trúc hệ thống
+6.2.1. Các yếu tố hiệu
+năng, b
+ả
+o mật cần đáp ứng
+6.2.2. Khả năng tích
+hợp của hệ thống
+6.2.3. Khai thác d
+ữ
+liệu
+6.3. Nguyên tắc triển
+khai
+CHƯƠNG 7. CÁC THÀNH
+PH
+Ầ
+N VÀ YÊU C
+Ầ
+U
+KỸ THUẬT
+7.1. Yêu cầu chung
+7.2. Cổng thông tin
+tích hợp dữ liệu khám chữa bệnh bảo hiểm y tế
+7.3. Hệ thống quản lý
+Danh mục dùng chung
+7.4. Trục tích hợp dữ
+liệu (Enterprise Sevice Bus-ESB)
+7.5.
+Ứng
+dụng liên thông dữ liệu khám chữa bệnh BHYT
+7.6. C
+ơ
+sở dữ liệu, kho dữ liệu
+7.6.1. Kho dữ liệu
+7.6.2. Hệ quản trị cơ
+sở dữ liệu
+7.6.3. Phân tích, thống
+kê
+7.7. Hạ tầng mạng kết
+nối
+7.8. Mô hình hệ thống
+hạ tầng kỹ thuật
+7.9. Yêu cầu an toàn
+thông tin
+7.10. Khuyến nghị yêu
+cầu cần có của Hệ thống quản lý tại cơ sở y tế
+7.10.1. Yêu cầu về mức
+độ hoàn thiện sau khi hoàn thành
+7.10.2. Yêu cầu về
+tiêu chuẩn CNTT
+7.10.3. Yêu cầu về chức
+năng phần mềm
+7.10.4. Yêu cầu về biểu
+mẫu
+7.11. Lộ trình thực
+hiện
+CHƯƠNG 8. PHỤ LỤC
+8.1. Tiêu chuẩn hoạt
+động y tế qua môi trường mạng
+8.1.1. Điều kiện về hạ
+tầng kỹ thuật công nghệ thông tin
+8.1.2. Điều kiện về
+bảo
+đ
+ả
+m an toàn, an ninh thông tin
+8.1.3. Điều kiện về
+nhân lực
+8.1.4. Điều kiện về ứng
+dụng công nghệ thông tin
+8.2. Tiêu chuẩn kỹ
+thuật ứng dụng công nghệ thông tin trong y tế
+8.2.1. Danh mục kỹ
+thuật do Bộ Y tế ban hành
+8.2.2. Danh mục do cơ
+quan khác ban hành
+8.2.3. Tiêu chuẩn kỹ
+thuật ứng dụng CNTT trong các hệ thống thông tin y tế
+8.3. Bảng dữ liệu kết
+xuất theo công văn số 9324/BYT-BH
+8.3.1. Bảng 1. Chỉ
+tiêu tổng hợp khám bệnh, chữa bệnh BHYT
+8.3.2. Bảng 2. Chỉ
+tiêu chi tiết thuốc thanh toán BHYT
+8.3.3. Bảng 3. Ch
+ỉ
+tiêu chi tiết dịch vụ kỹ thuật và vật tư thanh toán BHYT
+8.3.4. B
+ả
+ng
+4. Ch
+ỉ
+tiêu chỉ số kết quả cận lâm sàng
+8.3.5. Bảng 5. Chỉ
+tiêu theo dõi diễn biến lâm sàng
+8.4. Yêu cầu kỹ thuật,
+công nghệ cổng tích
+hợp
+dữ
+liệu KCB BHYT
+8.5. Tham khảo
+BẢNG
+TỪ VỰNG - THUẬT NGỮ
+Thuật ngữ
+Định nghĩa
+BYT
+Bộ Y tế
+Văn phòng điều phối
+Văn phòng
+đ
+iều phối
+  nghiên cứu xây dựng và triển khai Đề án ứng dụng công nghệ thông tin trong
+  khám chữa bệnh và thanh toán bảo hiểm y tế
+BHXH
+Bảo hiểm xã hội
+BV
+Bệnh viện
+KCB
+Khám chữa bệnh
+BHYT
+Bảo hiểm y tế
+CSYT
+-
+Cơ sở y tế có khám chữa bệnh BHYT
+  bao gồm:
+-
+Các cơ sở y tế trực thuộc Bộ Y tế;
+-
+Các cơ sở y tế Bộ/Ngành;
+-
+Các cơ sở y tế Nhà nước thuộc 63 t
+ỉ
+nh/thành
+  phố;
+-
+Các cơ sở y tế tư nhân có tham gia
+  KCB-BHYT.
+TYT
+Trạm y tế
+BV
+Bệnh viện
+BHYT
+Bảo hiểm y tế
+Cơ sở KCB BHYT ban đầu tuyến xã
+Trạm y tế xã, phường, thị trấn; trạm
+  xá, trạm y tế, phòng y tế của cơ quan, đơn vị, tổ chức; phòng khám bác sỹ gia
+  đình tư nhân độc lập; trạm y tế quân-dân y, phòng khám quân-dân y, quân y đơn
+  vị cấp tiểu đoàn và các cơ sở KCB khác theo quy định của Bộ trưởng Bộ Quốc
+  phòng;
+Cơ sở KCB BHYT ban đầu tuyển huyện
+BVĐK huyện, quận, thị xã, TP thuộc
+  tỉnh; trung tâm Y tế (TTYT) huyện có chức năng KCB, TTYT huyện có phòng khám
+  đa khoa; phòng khám đa khoa, phòng khám đa khoa khu vực; BVĐK hạng III, hạng
+  IV và chưa xếp hạng thuộc các bộ, ngành hoặc trực thuộc đơn vị thuộc các bộ,
+  ngành; BVĐK tư nhân tương đương hạng III, tương đương hạng IV hoặc chưa được
+  xếp hạng tương đương; BV y học cổ truyền tư nhân tương đương hạng III, tương
+  đương hạng IV hoặc chưa được x
+ế
+p hạng tương đương; phòng Y tế, bệnh
+  xá trực thuộc Bộ Công an, bệnh xá công an t
+ỉ
+nh, TP trực thuộc
+  T.Ư; TTYT quân -
+dân
+y, bệnh xá
+  quân y, bệnh xá quân- dân y, BV quân y hạng III, hạng IV hoặc chưa được xếp
+  hạng, BV quân- dân y hạng III, hạng IV hoặc chưa được xếp hạng, các cơ sở KCB
+  khác theo quy định của Bộ trưởng Bộ Quốc phòng;
+Cơ sở KCB BHYT ban đầu tuyến tỉnh
+BVĐK tỉnh, TP trực thuộc T.Ư; BVĐK
+  hạng I, hạng II thuộc các Bộ, Ngành, hoặc trực thuộc đơn vị thuộc các Bộ,
+  Ngành; BV chuyên khoa, viện chuyên khoa, trung tâm chuyên khoa, TTYT dự phòng
+  tỉnh, TP trực thuộc T.Ư có Phòng khám đa
+khoa; BV
+  nhi, BV sản-nhi tỉnh, TP trực thuộc T.Ư; BVĐK tư nhân tương đương hạng
+I
+, tương
+  đương hạng
+II
+; BV y học
+  cổ truyền tỉnh, TP trực thuộc T.Ư, bộ, ngành; BV y học cổ truyền tư nhân
+  tương đương hạng I, tương đương hạng II; Phòng khám thuộc Ban bảo vệ ch
+ă
+m sóc sức
+khỏe
+cán bộ
+  tỉnh, TP trực thuộc T.Ư; BV hạng II thuộc Bộ Quốc phòng, BV quân-dân y hạng
+  II, các cơ sở KCB khác theo quy định của Bộ trưởng Bộ Quốc phòng;
+Cơ sở đăng ký KCB BHYT ban đầu tuyến
+  T.Ư
+BVĐK trực thuộc Bộ Y tế (trừ các BV
+  Hữu Nghị, Bệnh viện
+C
+Đà N
+ẵ
+ng và Bệnh
+  viện Thống Nhất trực thuộc Bộ Y tế); BV chuyên khoa, viện chuyên khoa trực
+  thuộc Bộ Y tế có phòng khám đa khoa; BV hạng đặc biệt, BV hạng I trực thuộc
+  Bộ Quốc phòng, Viện Y học cổ truyền Quân đội, các cơ sở KCB khác theo quy
+  định của Bộ trưởng Bộ Quốc phòng;
+DMDC
+-
+Danh mục dùng chung;
+-
+Các bộ mã dùng chung thống nhất toàn
+  quốc được sử dụng trong khám, chữa bệnh và thanh toán bảo hiểm y tế do Bộ Y
+  tế ban hành.
+Kết xuất dữ liệu đ
+ầ
+u ra
+Các bảng chỉ tiêu dữ liệu đầu ra
+  theo quy định của Bộ Y tế áp dụng cho các cơ sở khám chữa bệnh
+Hồ sơ thanh toán
+Hồ sơ thanh toán chi phí khám, chữa
+  bệnh bảo hiểm y tế theo các Quyết định về bảng kê chi phí khám chữa bệnh của
+  B
+ộ
+Y
+tế
+ESB
+Enterprise sevice bus - trục tích
+  hợp dữ liệu.
+SOA
+Service Oriented Architecture - Kiến
+  tr
+ú
+c hướng
+  dịch vụ.
+HL7
+Health Level 7: Chuẩn dữ liệu HL7 ra
+  đời vào những năm 1980 với mục đích thống nhất một chuẩn chung cho khuân dạng
+  dữ liệu text (không phải hình ảnh) để thuận tiện cho việc chia sẻ thông tin
+  giữa các phân hệ phần mềm trong bệnh viện và giữa hệ thống của các bệnh viện.
+SDMX-HD
+Statistical Data and Metadata
+  Exchange - Chuẩn quốc tế hỗ trợ trao đổi các dữ liệu/thông tin thống kê và
+  siêu dữ liệu giữa các hệ thống thông tin y tế.
+Access to information
+Vùng dữ liệu truy cập
+Operational Data store
+Vùng dữ liệu hoạt động
+Data marts
+Vùng siêu dữ liệu
+Data
+warehouse
+Kho dữ liệu
+Staging Area
+Phân luồng dữ liệu
+Any Source
+Các nguồn dữ liệu
+Chương 1
+MỞ ĐẦU
+Tổ chức y tế thế giới (WHO) đã khuyến
+nghị các Quốc gia, vùng lãnh thổ xây dựng và phát triển ứng dụng công nghệ
+thông tin trong lĩnh vực Y tế cần chú trọng các bước như sau:
+(1)
+. Xây dựng chiến lược Quốc gia về chăm
+sóc, bảo vệ sức khỏe nhân dân;
+(2)
+. Xây dựng chiến lược công nghệ thông
+tin song hành cùng phát triển y tế;
+(3)
+. Xây dựng, hoàn thiện hệ thống văn bản
+quy phạm pháp luật phục vụ cho ứng dụng công nghệ thông tin trong Y tế;
+(4)
+. Xây dựng các tiêu chuẩn Y tế điện tử;
+(5)
+. Xây dựng hạ tầng, cơ sở dữ liệu Quốc
+gia về Y tế;
+(6)
+. Xây dựng các ứng dụng công nghệ
+thông tin trong Y tế;
+(7)
+. Quyết tâm của Chính phủ và đảm bảo
+tài chính phát triển đồng bộ công nghệ thông tin trong Y tế;
+(8)
+. Lựa chọn đúng đắn, chính xác đơn vị
+có năng lực toàn diện xây dựng ứng dụng công nghệ thông tin trong Y tế.
+Thực hiện nghị quyết số 68/2013/QH13
+ngày 29/11/2013 của Quốc hội “Trước năm 2018, hoàn thành việc liên thông hệ thống
+phần mềm công nghệ thông tin giữa cơ quan bảo hiểm xã hội và cơ sở khám, chữa bệnh
+nhằm cải tiến thủ tục hành chính trong khám, chữa bệnh, nâng cao hiệu quả công
+tác giám định bảo hiểm y tế, quản lý, sử dụng quỹ bảo hiểm y tế”.
+Thực hiện chức năng nhiệm vụ Chính phủ
+giao Bộ Y tế về bảo hiểm y tế quy định tại
+khoản 12 điều 2 nghị
+định số 63/2012/NĐ-CP
+ngày 31/8/2012 quy định về chức năng, nhiệm vụ Bộ Y tế.
+Thực hiện nghị quyết 36a/NQ-CP của
+Chính phủ về việc “Xây dựng các định mức chi trả cho hoạt động CNTT trong công
+tác khám, chữa bệnh và thanh quyết toán bảo hiểm y tế; chủ trì, phối hợp với Bảo
+hiểm xã hội Việt Nam đưa chi phí tin học hóa bệnh viện, hoạt động CNTT trong bệnh
+viện và hệ thống giám sát điện tử vào trong giá dịch vụ thanh quyết toán bảo hiểm
+y tế”.
+Thực hiện chỉ đạo của Chính phủ tại
+công văn số 8933/VPCP-KGVX về việc thực hiện tin học hóa trong khám chữa bệnh
+BHYT, trong đó giao trách nhiệm cho Bộ Y tế: “Bộ Y tế chịu trách nhiệm tin học
+hóa
+tr
+ong thực hiện
+khám bệnh, chữa bệnh bảo hiểm y tế và chuyển dữ liệu khám bệnh, chữa bệnh này đến
+cơ quan Bảo hiểm xã hội để giám định thanh toán”.
+Việc xây dựng mô hình kiến trúc tổng
+thể hệ thống thông tin khám, chữa bệnh bảo hiểm y tế dựa trên tình hình thực tế
+về ứng dụng công nghệ thông tin tại các cơ sở khám chữa bệnh có tham khảo thành
+tựu đã đạt được của các nước tiên tiến tại Châu Âu, Châu Á. Ngoài ra, mô hình
+kiến trúc tổng thể được xây dựng nhằm xác định rõ các kết nối, tích hợp, chia sẻ,
+sử dụng lại thông tin, cơ sở hạ tầng
+của các hệ thống thông tin của ngành Y tế và
+BHXH, đảm bảo việc triển khai ứng dụng công nghệ thông tin đồng bộ, hạn chế
+trùng lặp, tiết kiệm chi phí, thời gian triển khai. Nâng cao tính linh hoạt của
+các thành phần hệ thống thông tin khi triển khai theo điều kiện thực tế.
+Mô hình kiến trúc tổng thể sẽ là cơ sở
+cho việc triển khai các hoạt động công nghệ thông tin trong Bộ Y tế theo nghị
+quyết số 36a/NQ-CP ngày 14/10/2015 của chính phủ về Chính phủ điện tử và Quyết
+định 1819/QĐ-TTg ngày 26/10/2015 của Thủ tướng Chính phủ phê duyệt Chương trình
+quốc gia về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước
+giai đoạn 2016 - 2020.
+Mô hình kiến trúc hệ thống thông tin khám,
+chữa bệnh bảo hiểm y tế sẽ quản lý trong phạm vi của các hoạt động khám chữa bệnh
+được hưởng bảo hiểm y tế. Hệ thống có khả năng kết nối, liên thông dữ liệu phục
+vụ Bộ Y tế giám sát, quản lý nhà nước về Bảo hiểm y tế. Trong tương lai, khi
+các mảng ứng dụng khác của Bộ Y tế được xây dựng, các hệ thống sẽ kết nối, chia
+sẻ dữ liệu với nhau thành cơ sở dữ liệu y tế quốc gia.
+Mô hình kiến trúc hệ thống được mô tả
+trong tài liệu này mang tính định hướng tổng quát về các mảng ứng dụng, quy định
+kết nối các mảng ứng dụng với nhau trong hệ thống tổng thể phục vụ công tác quản
+lý khám chữa bệnh bảo hiểm y tế trên phạm vi toàn quốc./.
+Chương 2
+CƠ SỞ
+PHÁP LÝ
+Cơ sở nghiên cứu xây dựng mô hình kiến
+trúc tổng thể Hệ thống thông tin khám, chữa bệnh bảo hiểm y tế là những văn bản
+pháp quy của nhà nước đã ban hành có liên quan tới nội dung ứng dụng Công nghệ
+thông tin trong quản lý hành chính nhà nước và nghiệp vụ chuyên môn, bao gồm:
+-
+Luật Công nghệ thông tin số 67/2006/QH11 ngày
+22/6/2006;
+-
+Luật Đầu tư công số 49/2014/QH13 ngày
+18/6/2014;
+-
+Luật Bảo hiểm y tế sửa đổi số 46/2014/QH13
+ngày 13/6/2014;
+-
+Nghị quyết số 68/2013/QH13 ngày 29/11/2013 của
+Quốc hội khóa 13 về việc đẩy mạnh thực hiện chính sách pháp luật về bảo hiểm y
+tế, tiến tới bảo hiểm y tế toàn dân;
+-
+Nghị quyết số 36a/NQ-CP ngày 14/10/2015 của
+Chính phủ về Chính phủ điện tử;
+-
+Nghị định số 63/2012/NĐ-CP ngày 31/8/2012 của
+Chính phủ quy định về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y
+tế;
+-
+Nghị định số 05/2015/NĐ-CP ngày 17/01/2014 của
+Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm
+xã hội Việt Nam;
+-
+Nghị định số 102/2009/NĐ-CP ngày 06/11/2009 của
+Chính phủ về quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân
+sách Nhà nước;
+-
+Quyết định số 1819/QĐ-TTg ngày 26/10/2015 của
+Thủ tướng Chính phủ về phê duyệt Chương trình quốc gia về ứng dụng công nghệ
+thông tin trong hoạt động cơ quan nhà nước giai đoạn 2016-2020;
+-
+Quyết định số 5614/QĐ-BYT ngày 30/12/2015 của
+Bộ trưởng Bộ Y tế về việc phê duyệt kế hoạch ứng dụng và phát triển công nghệ
+thông tin của Bộ Y tế năm 2016;
+-
+Quyết định số 5641/QĐ-BYT ngày 31/12/2015 của
+Bộ trưởng Bộ Y tế về việc ban hành kiến trúc Chính phủ điện tử của Bộ Y tế
+phiên bản 1.0;
+-
+Quyết định số 445/QĐ-BYT ngày 05/2/2016 của của
+Bộ trưởng Bộ Y tế về việc phê duyệt kế hoạch ứng dụng và phát triển công nghệ
+thông tin của Bộ Y tế giai đoạn 2016 -2020;
+-
+Quyết định số 803/QĐ-BYT ngày 11/3/2015 của Bộ
+trưởng Bộ Y tế về việc thành lập Ban chỉ đạo nghiên cứu xây dựng và triển khai
+thực hiện Đề án ứng dụng công nghệ thông tin trong khám bệnh, chữa bệnh và
+thanh toán bảo hiểm y tế;
+-
+Quyết định số 848/QĐ-BYT ngày 13/3/2015 của Bộ
+trưởng Bộ Y tế về việc thành lập
+Tổ
+chuyên môn nghiên cứu xây dựng và triển
+khai thực hiện Đề án ứng dụng công nghệ thông tin trong khám chữa bệnh và thanh
+toán bảo hiểm y tế;
+-
+Quyết định số 1581/QĐ-BYT ngày 25/4/2015 của
+Bộ trưởng Bộ Y tế về việc thành lập “Văn phòng
+đ
+iều phối nghiên cứu
+xây dựng và triển khai Đề án ứng dụng công nghệ thông tin trong khám chữa bệnh
+và thanh toán bảo hiểm y tế”;
+-
+Kế hoạch số 193/KH-BYT ngày 17/3/2016 của Bộ
+Y tế ban hành kế hoạch triển khai ứng dụng công nghệ thông tin trong quản lý
+khám chữa bệnh và thanh toán bảo hiểm y tế năm 2016;
+-
+Ch
+ỉ
+thị số 15/CT-TTg ngày 22 tháng 5 năm 2012 của
+Thủ tướng Chính phủ về việc tăng cường sử dụng văn bản điện tử trong hoạt động
+của cơ quan Nhà nước;
+-
+Chỉ thị số 05/CT-TTg ngày 02/4/2015 của Thủ
+tướng Chính phủ về tăng cường thực hiện chính sách bảo hiểm xã hội và bảo hiểm
+y tế;
+-
+Công
+văn
+số 1178/BTTTT-TTH ngày 21/04/2015 của
+Bộ Thông tin và truyền thông ban hành khung kiến trúc Chính phủ điện tử;
+-
+Công văn số 8933/VPCP-KGVX ngày 29/10/2015 của
+Văn phòng Chính phủ về việc thực hiện hiện tin học hóa trong khám chữa bệnh bảo
+hiểm y tế;
+-
+Công văn số 1710/VPCP-KGVX ngày 16/3/2016 của
+Văn phòng Chính phủ
+về
+việc
+tin học hóa trong thực hiện giám định thanh toán chi phí khám, chữa bệnh BHYT;
+-
+Thông báo số 249/TB-VPCP ngày 01/07/2014 của
+V
+ă
+n phòng Chính
+phủ về việc thông báo kết luận của Thủ tướng Chính phủ Nguy
+ễ
+n T
+ấ
+n Dũng tại
+phiên họp toàn thể lần thứ nhất của Ủy ban Quốc gia về ứng dụng công nghệ thông
+tin;
+-
+Thông báo số 102/TB-VPCP ngày 27/03/2015 của
+Văn phòng Chính phủ thông báo kết luận của Phó thủ tướng Chính phủ Vũ Đức Đam tại
+cuộc họp tin học hóa trong bảo hiểm y tế;
+-
+Thông báo số 205/TB-VPCP ngày 23/06/2015 của
+Văn phòng Chính phủ về kết luận của Phó Thủ tướng Chính phủ Vũ Đức Đam tại cuộc
+họp về tình hình thực hiện tin học hóa trong bảo hiểm y tế theo chỉ đạo của Thủ
+tướng Chính phủ tại thông báo số 102/TB-VPCP.
+Chương 3
+ĐƠN VỊ
+LIÊN QUAN
+3.1. Cơ quan chủ quản
+- Bộ Y tế
+3.1.1.
+Chức n
+ă
+ng nhiệm vụ
+Bộ Y t
+ế
+là cơ quan của Chính
+phủ, thực hiện chức năng quản lý nhà nước về y tế, bao gồm các lĩnh vực: Y tế dự
+phòng; khám bệnh, chữa bệnh, phục hồi chức năng; giám định y khoa, pháp y, pháp
+y tâm thần; y dược cổ truyền; sức khỏe sinh sản; trang thiết bị y tế; dược; mỹ
+phẩm; an toàn thực phẩm; bảo hiểm y tế; dân số - kế hoạch hóa gia đình; quản lý
+nhà nước các dịch vụ công trong lĩnh vực thuộc phạm vi quản lý nhà nước của Bộ
+Y tế.
+Bộ Y tế thực hiện các chức năng, nhiệm
+vụ, quyền hạn theo quy định tại Nghị định số 63/2015/NĐ-CP cụ thể như sau:
+1.
+Trình Chính phủ dự án luật, dự thảo
+nghị quyết của Quốc hội, dự án pháp lệnh, dự thảo nghị quyết của Ủy ban Thường
+vụ Quốc hội, dự thảo nghị quyết, nghị định của Chính phủ theo chương trình, kế
+hoạch xây dựng pháp luật hàng năm của Bộ đã được phê duyệt và các dự án, đề án
+theo sự phân công của Chính phủ, Thủ tướng Chính phủ; chiến lược, quy hoạch, kế
+hoạch phát triển dài hạn, năm năm, hàng năm và các dự án, công trình quan trọng
+quốc gia về ngành, lĩnh vực thuộc phạm vi quản lý nhà nước của Bộ.
+2.
+Trình Thủ tướng Chính phủ dự thảo quyết
+định, chỉ thị và các văn bản khác về ngành, lĩnh vực thuộc phạm vi quản lý nhà
+nước của Bộ hoặc theo phân công.
+3.
+Ban hành thông tư, quyết định, chỉ thị
+và các văn bản khác về quản lý nhà nước đối với ngành, lĩnh vực thuộc phạm vi
+quản lý nhà nước của Bộ.
+4.
+Chỉ đạo, hướng dẫn, tổ chức thực hiện
+các văn bản quy phạm pháp luật, chiến lược, quy hoạch, kế hoạch, các chương
+trình mục tiêu quốc gia, các dự án, công trình quan trọng quốc gia sau khi được
+phê duyệt; thông tin, tuyên truyền, ph
+ổ
+bi
+ế
+n, giáo
+dục pháp luật và theo
+dõi tình hình thi hành pháp luật về các lĩnh vực thuộc phạm vi quản lý nhà nước
+của Bộ.
+5. V
+ề y tế dự phòng
+a)
+Xây dựng, ban hành theo thẩm quyền hoặc
+trình cấp có thẩm quyền ban hành các văn bản quy phạm pháp luật, các quy định
+chuyên môn, các tiêu chuẩn, quy chuẩn kỹ thuật quốc gia về các lĩnh vực: Giám
+sát, phòng, chống bệnh truyền nhiễm, HIV/AIDS, bệnh không lây nhiễm, bệnh nghề
+nghiệp, tai nạn thương tích; kiểm dịch y tế biên giới; vệ sinh sức khỏe môi trường,
+vệ sinh sức khỏe lao động, vệ sinh sức khỏe trường học; vệ sinh chất lượng nước
+uống, nước sinh hoạt; dinh dưỡng cộng đồng; hóa chất gia dụng và hóa chất, chế
+phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế;
+b)
+Ban hành, sửa đổi, bổ sung danh mục bệnh
+truyền nhiễm thuộc các nhóm, danh mục bệnh truyền nhiễm bắt buộc phải sử dụng vắc
+xin, sinh phẩm y tế và tổ chức thực hiện việc tiêm chủng vắc xin và sinh phẩm y
+tế cho các đối tượng bắt buộc theo quy định của pháp luật;
+c)
+Chủ trì, phối hợp với các bộ, ngành
+liên quan ban hành danh mục bệnh cần chữa trị dài ngày được hưởng chế độ ốm đau
+và danh mục bệnh nghề nghiệp được hưởng chế độ bệnh nghề nghiệp tại Việt Nam;
+d)
+Tổ chức giám sát bệnh truyền nhiễm, bệnh
+không lây nhiễm, bệnh không rõ nguyên nhân, phát hiện s
+ớ
+m các bệnh
+truyền nhiễm gây dịch và tổ chức thực hiện công
+bố
+dịch, công bố hết dịch
+theo quy định của pháp luật; chủ trì, phối hợp với các cơ quan có liên quan
+cung cấp chính xác và kịp thời thông tin về bệnh truyền nhiễm;
+đ) Trình cấp có thẩm quyền quyết định
+hoặc quyết định theo thẩm quyền việc tổ chức thực hiện các biện pháp đặc biệt để
+phòng, chống dịch bệnh; kiểm tra, giám sát, hỗ trợ các đơn vị, địa phương trong
+việc tổ chức thực hiện các biện pháp phòng, ch
+ố
+ng dịch bệnh;
+e)
+Tổ chức triển khai thực hiện hoạt động
+kiểm dịch y tế biên giới tại các cửa khẩu; thông tin, báo cáo kịp thời tình
+hình bệnh truyền nhiễm đặc biệt nguy hiểm trên thế giới để chủ động phòng, chống;
+g)
+Chỉ đạo, hướng dẫn việc thẩm định báo
+cáo đánh giá tác động s
+ứ
+c khỏe đối với
+các dự án đầu tư xây dựng khu công nghiệp, khu đô thị, khu dân cư tập trung, cơ
+sở khám bệnh, chữa bệnh truyền nhiễm;
+h)
+Chỉ đạo, hướng dẫn tổ chức thực hiện
+các hoạt động chăm sóc sức khỏe ban đầu cho người dân tại cộng đồng;
+i)
+Tổ chức, phân cấp việc cấp, đình chỉ,
+thu hồi giấy chứng nhận các cơ sở y tế đủ điều kiện sử dụng vắc xin và sinh phẩm
+y tế, giấy chứng nhận đạt tiêu chuẩn an toàn sinh học đối với các phòng xét
+nghiệm theo thẩm quy
+ề
+n;
+k) C
+ấ
+p, đình chỉ, thu hồi
+giấy chứng nhận đăng ký lưu hành, thẩm định nội dung chuyên môn của hồ sơ đăng
+ký quảng cáo hóa chất, ch
+ế
+phẩm diệt
+côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế theo quy định của
+pháp luật;
+l)
+Chỉ đạo, hướng dẫn, kiểm tra, giám sát
+việc thực hiện các quy định chuyên
+mô
+n, các quy chuẩn kỹ thuật quốc gia về
+lĩnh vực y tế dự phòng trong phạm vi cả nước;
+m) Chỉ đạo, hướng dẫn tổ chức thực hiện
+và kiểm tra, giám sát, đánh giá việc thực hiện các hoạt động phòng, chống H
+I
+V
+/
+AIDS trong phạm
+vi cả nước.
+6. V
+ề khám bệnh, chữa bệnh và phục hồi chức
+năng
+a)
+Xây dựng, ban hành theo thẩm quyền hoặc
+trình cấp có thẩm quyền ban hành các văn bản quy phạm pháp luật, các quy định
+chuyên môn, các tiêu chuẩn, quy chuẩn kỹ thuật quốc gia, các định mức kinh tế -
+kỹ thuật về lĩnh vực khám bệnh, chữa bệnh, an toàn truyền máu, điều dưỡng, phục
+hồi chức năng, dinh dưỡng lâm sàng, phẫu thuật thẩm mỹ, giám định y khoa, giám
+định pháp y, giám định pháp y tâm thần;
+b)
+Thẩm định và cho phép các cơ sở khám bệnh,
+chữa bệnh áp dụng các kỹ thuật mới, phương pháp mới lần đầu được thực hiện tại
+Việt Nam theo quy định của pháp luật;
+c)
+Cấp, cấp lại, thu hồi chứng chỉ hành
+nghề khám bệnh, chữa bệnh và cấp, cấp lại, điều chỉnh và thu hồi giấy phép hoạt
+động đối với các cơ sở khám bệnh,
+chữa bệnh theo quy định của pháp luật;
+d)
+Thẩm định nội dung chuyên môn của hồ
+sơ đăng ký quảng cáo hoạt động khám bệnh, chữa bệnh thuộc thẩm quyền theo quy định
+của pháp luật;
+đ) Chỉ đạo, hướng dẫn, kiểm tra, giám
+sát việc thực hiện các văn bản quy phạm pháp luật, quy định chuyên môn, quy chuẩn
+kỹ thuật quốc gia đối với các cơ sở khám bệnh, chữa bệnh, phục hồi chức năng,
+phẫu thuật thẩm mỹ, giám định y khoa, giám định pháp y, giám định pháp y tâm thần.
+7. Về y dược cổ truyền
+a) Xây dựng và trình cấp có thẩm quyền
+ban hành cơ chế, chính sách thực hiện việc kế thừa, bảo tồn, phát triển, hiện đại
+hóa y dược cổ truyền và kết hợp y dược cổ truyền với y dược hiện đại;
+b) Xây dựng, ban hành hoặc trình cấp
+có thẩm quyền ban hành các văn bản quy phạm pháp luật, quy định chuyên môn,
+tiêu chuẩn, quy chuẩn kỹ thuật quốc gia về lĩnh vực y dược cổ truyền;
+c) Cấp, cấp lại chứng chỉ hành nghề
+khám bệnh, chữa bệnh bằng y học cổ truyền; cấp, cấp lại, điều chỉnh, thu hồi giấy
+chứng nhận bài thuốc gia truyền và giấy phép hoạt động đối với các cơ sở khám bệnh,
+chữa bệnh bằng y học cổ truyền theo quy định của pháp luật;
+d) Thẩm định nội dung chuyên môn của hồ
+sơ đăng ký quảng cáo hoạt động khám bệnh, chữa bệnh bằng y học cổ truyền theo
+quy định của pháp luật;
+đ) Chỉ đạo, hướng dẫn, kiểm tra, giám
+sát việc thực hiện các cơ chế, chính sách, các văn bản quy phạm pháp luật, quy
+định chuyên môn, quy chuẩn kỹ thuật quốc gia về y, dược cổ truyền, kết hợp y dược
+cổ truyền với y dược hiện đại.
+8. Về trang thiết bị và công trình y tế
+a)
+Xây dựng và trình cấp có thẩm quyền
+công
+bố
+tiêu chuẩn kỹ
+thuật quốc gia về trang thiết bị y tế; ban hành các quy định chuyên môn, quy
+chuẩn kỹ thuật quốc gia về trang thiết bị y tế;
+b)
+Ban hành danh mục trang thiết bị thiết
+yếu cho các đơn vị, cơ sở y tế;
+c)
+Cấp, đình chỉ, thu hồi giấy đăng ký
+lưu hành sản phẩm trang thiết bị y tế sản xuất trong nước, giấy phép nhập khẩu
+trang thiết bị y tế có ảnh hưởng trực tiếp đến sức khỏe theo danh mục của Bộ Y
+tế; thẩm định nội dung chuyên môn của hồ sơ đăng ký quảng cáo
+tr
+ang thiết bị
+y tế theo quy định của pháp luật;
+d)
+Chỉ đạo, hướng dẫn,
+kiểm
+tra, giám sát
+việc thực hiện các quy định của pháp luật về sản xuất, kinh doanh trang thiết bị
+y tế;
+đ) Chủ trì, phối hợp với các cơ quan
+liên quan xây dựng, ban hành các quy chuẩn kỹ thuật và các tiêu chuẩn thiết kế
+- thiết kế mẫu các công trình y tế.
+9. Về
+dược và mỹ phẩm
+a)
+Xây dựng, ban hành hoặc trình cấp có
+thẩm quyền ban hành các văn bản quy phạm pháp luật, các quy định chuyên môn,
+quy chuẩn kỹ thuật quốc gia về dược, mỹ phẩm; bộ tiêu chuẩn quốc gia về thuốc;
+ban hành Dược điển Việt Nam và Dược thư quốc gia;
+b)
+Cấp, thu hồi chứng chỉ hành nghề dược
+cho cá nhân đăng ký hành nghề dược có vốn đầu tư nước ngoài; giấy chứng nhận đủ
+điều kiện kinh doanh thuốc đối với các cơ sở sản xuất thuốc, cơ sở làm dịch vụ
+bảo quản thuốc, dịch vụ kiểm nghi
+ệ
+m thuốc; giấy phép lưu hành thuốc; giấy phép
+xuất khẩu, nhập khẩu thuốc; giấy phép đăng ký hoạt động về thuốc tại Việt Nam của
+các doanh nghiệp nước ngoài cung cấp thuốc vào Việt Nam; giấy chứng nhận đạt
+tiêu chuẩn thực hành tốt sản xuất thuốc (GMP), thực hành tốt phòng kiểm nghiệm
+thuốc (GLP), thực hành tốt bảo quản thuốc (GSP), thực hành tốt thử thuốc trên
+lâm sàng đối với các đơn vị kinh doanh thuốc theo quy định của pháp luật; cấp,
+hủy giấy chứng nhận hồ sơ công
+bố
+doanh nghiệp tổ chức chuỗi nhà thuốc GPP;
+c)
+Cấp, thu hồi giấy chứng nhận đạt tiêu
+chuẩn thực hành
+tốt
+sản
+xuất mỹ phẩm (CGMP); số tiếp nhận phiếu công bố sản phẩm mỹ phẩm; phiếu tiếp nhận
+hồ sơ công bố thực hành tốt trồng trọt và thu hái cây thuốc và giấy chứng nhận
+lưu hành tự do sản phẩm cho các đơn vị kinh doanh thuốc, mỹ phẩm theo quy định
+của pháp luật;
+d)
+Quản lý chất lượng thuốc và mỹ phẩm;
+quyết định việc đình chỉ lưu hành, thu hồi
+thuốc
+, mỹ phẩm theo quy định của pháp luật;
+phối hợp với các cơ quan có liên quan phòng, chống sản xuất, lưu thông thuốc, mỹ
+phẩm giả, k
+é
+m chất lượng
+và phòng, ch
+ố
+ng nhập lậu
+thuốc, mỹ phẩm;
+đ) Thẩm định nội dung chuyên môn của hồ
+sơ đăng ký quảng cáo thuốc;
+e)
+Thực hiện việc quản lý nhà nước về giá
+thuốc và sử dụng các biện pháp
+bình ổn giá thuốc trên thị trường theo quy định
+của pháp luật;
+g)
+Chỉ đạo, hướng dẫn, tổ chức thực hiện
+và kiểm tra, giám sát việc sử dụng thuốc hợp lý, an toàn, hiệu quả;
+h)
+Chỉ đạo, hướng dẫn tổ chức thực hiện
+và kiểm tra, giám sát việc thực hiện các quy định của pháp luật trong lĩnh vực
+dược, mỹ phẩm.
+10. V
+ề an toàn thực phẩm
+a)
+Chủ trì, xây dựng, ban hành hoặc trình
+cấp có thẩm quyền ban hành các văn bản quy phạm pháp luật về an toàn thực phẩm
+thuộc lĩnh vực
+đ
+ược phân công
+quản lý của Bộ;
+b)
+Chủ trì, xây dựng, ban hành quy chuẩn
+kỹ thuật quốc gia hoặc quy định về chỉ tiêu và mức giới hạn an toàn đối với tất
+cả các sản phẩm thực phẩm; ban hành quy chuẩn kỹ thuật quốc gia đối với phụ gia
+thực phẩm, chất hỗ trợ chế biến, dụng cụ, vật liệu bao gói, chứa đựng tiếp xúc
+trực tiếp với thực phẩm theo quy định của pháp luật;
+c)
+Ban hành các quy định về điều kiện
+chung
+bảo
+đảm
+an
+toàn thực phẩm đối với cơ sở sản xuất, kinh doanh thực phẩm; ban hành các quy định
+cụ thể về điều kiện bảo đảm an toàn thực phẩm đối với bếp ăn tập thể, khách sạn,
+khu nghỉ
+dưỡng
+, nhà hàng,
+cơ sở kinh doanh dịch vụ ăn uống và kinh doanh thức ăn đường ph
+ố
+;
+d)
+Chỉ định các tổ chức chứng nhận hợp
+quy đối với các sản phẩm thực phẩm, phụ gia thực phẩm, chất hỗ trợ chế biến, dụng
+cụ, vật liệu bao gói, chứa đựng tiếp xúc trực tiếp với thực phẩm đã có quy chuẩn
+kỹ thuật được ban hành trên cơ sở tham vấn của các bộ, ngành khi cần thiết;
+đ) Chủ trì tổ chức thực hiện công tác
+tuyên truyền, phổ biến kiến thức, giáo dục pháp luật về an toàn thực phẩm; giám
+sát, phòng ngừa, điều tra và phối hợp ngăn chặn ngộ độc thực phẩm và sự cố về
+an toàn thực phẩm thuộc phạm vi quản lý của Bộ;
+e)
+Quản lý an toàn thực phẩm trong suốt
+quá trình sản xuất, sơ chế, chế biến, bảo quản, vận chuy
+ể
+n, xuất khẩu,
+nhập khẩu, kinh doanh đối với phụ gia thực phẩm, chất hỗ trợ chế biến thực phẩm,
+nước uống
+đóng
+chai, nước
+khoáng thiên nhiên, thực phẩm chức năng, thực phẩm tăng cường vi chất dinh dưỡng,
+dụng cụ, vật liệu bao gói, chứa đựng tiếp xúc trực tiếp với thực phẩm theo quy
+định của pháp luật;
+g)
+Cấp, đình chỉ, thu hồi giấy tiếp nhận
+bản công bố hợp quy, giấy xác nhận công bố phù hợp quy định an toàn thực phẩm đối
+với các thực phẩm đã qua chế biến bao gói sẵn, phụ gia thực phẩm, chất hỗ trợ
+chế biến thực phẩm, dụng cụ, vật liệu bao gói, chứa đựng thực phẩm;
+h)
+Cấp giấy xác nhận nội dung quảng cáo
+phụ gia thực phẩm, chất hỗ trợ chế biến thực phẩm, dụng cụ, vật liệu bao gói,
+chứa đựng thực phẩm và các sản phẩm thực phẩm thuộc phạm vi quản lý của Bộ;
+i)
+Cấp, thu hồi giấy chứng nhận cơ sở đủ điều
+kiện an toàn thực phẩm đối với các cơ sở sản xuất, kinh doanh các sản phẩm thuộc
+phạm vi quản lý của Bộ;
+k) Cấp giấy chứng nhận lưu hành tự do,
+giấy chứng nhận y tế, giấy chứng nhận ngu
+ồ
+n gốc, xuất xứ đối với sản phẩm thực phẩm thuộc
+phạm vi quản lý của Bộ; phụ gia thực phẩm; chất hỗ trợ chế biến; dụng cụ, vật
+liệu bao gói, chứa đựng tiếp xúc trực tiếp với thực phẩm khi tổ chức, cá nhân
+có yêu cầu;
+l)
+Quy định điều kiện cơ sở kiểm nghiệm,
+chỉ định đơn vị tham gia kiểm nghiệm thực phẩm phục vụ quản lý nhà nước thuộc
+phạm vi quản lý của Bộ; chỉ định đơn vị thực hiện kiểm nghiệm trọng tài và kết
+luận cuối cùng khi có sự khác biệt về kết quả kiểm nghiệm của các đơn vị kiểm
+nghiệm thực phẩm trong và ngoài ngành y tế; cấp, đình chỉ, thu hồi giấy đăng ký
+lưu hành bộ xét nghiệm nhanh đối với các chỉ tiêu về an toàn thực phẩm;
+m) Chỉ định cơ quan kiểm tra nhà nước
+về an toàn thực phẩm nhập khẩu đối với các sản phẩm thuộc phạm vi quản lý của Bộ;
+n) Chỉ đạo, hướng dẫn tổ chức thực hiện,
+kiểm tra, giám sát việc thực hiện các quy định của pháp luật về an toàn thực phẩm
+thuộc phạm vi quản lý nhà nước của Bộ;
+o) Tổng hợp, thống kê, báo cáo định kỳ,
+đột xuất về công tác quản lý an toàn thực phẩm trên cơ sở giám sát và tổng hợp
+báo cáo của các bộ quản lý ngành.
+11. V
+ề dân số - kế hoạch hóa gia đình và sức
+khỏe sinh sản:
+a)
+Xây dựng trình cấp có thẩm quyền ban
+hành chính sách về sức khỏe sinh sản và dân số bao gồm: Quy mô dân số, cơ cấu
+dân số và chất lượng dân số;
+b)
+Xây dựng, ban hành hoặc trình cấp có
+thẩm quyền ban hành các văn bản quy phạm pháp luật, các tiêu chuẩn quốc gia về
+dân số - kế hoạch hóa gia đình và sức khỏe sinh
+sản
+; xây dựng, ban hành
+hệ thống chỉ tiêu, chỉ báo về dân số và sức kh
+ỏ
+e sinh sản; quy định
+chuyên môn, quy chuẩn kỹ thuật quốc gia về dịch vụ chăm sóc sức khỏe sinh sản,
+kế hoạch hóa gia đ
+ì
+nh;
+c)
+Quyết định cho phép thực hiện dịch vụ
+tư vấn đối với các cơ sở hành nghề dịch vụ tư vấn về dân
+số
+- kế hoạch
+hóa gia đình theo quy định của pháp luật;
+d)
+Quyết định cho phép các cơ sở y tá thực
+hiện việc xác định lại giới tính, thực hiện sinh con theo phương pháp khoa học
+theo quy định của pháp luật;
+đ) Chỉ đạo, hướng dẫn, tổ chức thực hiện
+và kiểm tra, giám sát việc thực hiện các văn bản quy phạm pháp luật, quy chuẩn
+kỹ thuật quốc gia, chính sách, chương trình, dự án về lĩnh vực dân số - kế hoạch
+hóa gia đình và chăm sóc sức khỏe sinh sản.
+12. V
+ề bảo hiểm y tế
+a)
+Xây dựng, ban hành hoặc trình cấp có
+thẩm quyền ban hành các văn bản quy phạm pháp luật, cơ chế, chính sách về bảo
+hiểm y tế;
+b)
+Ban hành danh mục thuốc, vật tư y tế,
+danh mục dịch vụ kỹ thuật thuộc phạm vi được hưởng của người tham gia bảo hiểm
+y tế và các quy định chuyên môn kỹ thuật liên quan đến khám bệnh, chữa bệnh
+bảo hiểm
+y tế;
+c)
+Xây dựng trình cấp có thẩm quyền ban
+hành các giải pháp nhằm bảo đảm cân đối
+Quỹ bảo hiểm
+y tế;
+d)
+Chỉ đạo, hướng dẫn tổ chức thực hiện,
+kiểm tra các cơ sở y tế, các tổ chức, cá nhân trong việc thực hiện các quy định
+của pháp luật về bảo hiểm y tế.
+13. V
+ề bảo vệ môi trường trong hoạt động y
+tế:
+a)
+Chủ trì, phối hợp với Bộ Tài nguyên và
+Môi trường, Bộ Xây dựng xây dựng, trình cấp có thẩm quyền ban h
+à
+nh các quy định,
+tiêu chuẩn, quy chuẩn kỹ thuật quốc gia về bảo vệ môi trường trong hoạt động y
+tế, bảo vệ môi trường trong hoạt động mai táng, hỏa táng và chất lượng môi trường
+y tế;
+b)
+Tổ chức thẩm định báo cáo đánh giá môi
+trường chiến lược và báo cáo đánh giá tác động môi trường đối với các dự án thuộc
+thẩm quyền quyết định phê duyệt của Bộ Y tế;
+c)
+Chỉ đạo, hướng dẫn tổ chức thực hiện
+việc quan trắc các tác động đối với môi trường từ hoạt động của ngành y tế; quản
+lý và kiểm soát chất th
+ả
+i y tế; khắc
+phục ô nhiễm và phục hồi môi trường y tế; thu thập, lưu trữ và cung cấp thông
+tin về môi trường liên quan đến các lĩnh vực thuộc phạm vi quản lý nhà nước của
+Bộ theo quy định của pháp luật;
+d)
+Chỉ đạo, hướng dẫn tổ chức thực hiện
+các biện pháp bảo vệ sức khỏe con người trước tác động của biến đổi khí hậu, ô
+nhiễm môi trường và các yếu tố môi trường bất lợi;
+đ) Chủ trì, hướng dẫn tổ chức thực hiện
+và kiểm tra, giám sát việc thực hiện các văn bản quy phạm pháp luật, quy chuẩn
+kỹ thuật quốc gia về quản lý và tiêu hủy chất thải y tế và bảo vệ môi trường
+trong hoạt động y tế.
+14. V
+ề quản lý viên chức chuyên ngành y, dược,
+dân số:
+a)
+Xây dựng trình cơ quan có thẩm quy
+ề
+n ban hành
+tiêu chuẩn chức danh nghề nghiệp của viên chức chuyên ngành y, dược, dân số;
+b)
+Hướng dẫn việc xác định vị trí việc
+làm, số lượng người làm việc và cơ cấu viên chức theo chức danh nghề nghiệp
+trong các đơn vị sự nghiệp y t
+ế
+công lập;
+c)
+Chủ trì, phối hợp với cơ quan có liên
+quan quy định cụ thể v
+ề
+tiêu chuẩn, điều
+kiện, nội dung, hình thức thi hoặc xét thăng hạng chức danh nghề nghiệp của
+viên chức chuyên ngành y, dược, dân số; tổ chức thi, xét thăng hạng chức danh
+nghề nghiệp viên chức chuyên ngành y, dược, dân số theo quy định của pháp luật;
+d)
+Chủ trì, phối hợp với cơ quan có liên
+quan xây dựng chế độ, chính sách đối với viên chức chuyên ngành y, dược, dân số;
+đ) Quy định chi tiết về nội dung,
+chương trình, hình thức, thời gian bồi dưỡng viên chức chuyên ngành y, dược,
+dân số theo tiêu chuẩn chức danh nghề nghiệp của viên chức chuyên ngành.
+15. V
+ề đào tạo nhân lực y tế:
+a)
+Trình cấp có thẩm quyền phê duyệt quy
+hoạch, kế hoạch đào tạo nhân lực ngành y tế và c
+ơ chế
+, chính sách đặc thù
+trong đào tạo nhân lực ngành y tế;
+b)
+Ban hành quy chuẩn kỹ thuật quốc gia về
+điều kiện bảo đảm chất lượng đào tạo nhân lực ngành y tế và hướng dẫn, tổ chức
+thực hiện;
+c)
+Ban hành chuẩn năng lực chuyên môn đối
+với các ngành và chuyên ngành đào tạo thuộc lĩnh vực y tế và hướng dẫn, tổ chức
+thực hiện;
+d
+) Phối hợp với Bộ Giáo dục và Đào tạo quản lý
+nhà nước về đào tạo chuyên khoa sau đại học đặc thù ngành y tế gồm: Chuyên khoa
+cấp 1, chuyên khoa cấp 2, bác sĩ nội trú và đào tạo cập nhật kiến thức y khoa
+li
+ên tục đối với
+cán bộ, viên chức chuyên ngành y tế;
+đ) Xây dựng và tổ chức thực hiện kế hoạch
+đào tạo, bồi dưỡng về chuyên môn, nghiệp vụ đối với nhân lực ngành y tế;
+e)
+Quản lý các cơ sở đào tạo nhân lực y tế
+theo quy định của pháp luật.
+16. V
+ề khoa học, công nghệ:
+a)
+Xây dựng, trình cấp có thẩm quyền ban
+hành các văn bản quy phạm pháp luật, chính sách, chiến lược, quy hoạch, kế hoạch
+và quy chuẩn kỹ thuật quốc gia về nghiên cứu khoa học và phát triển công nghệ
+trong n
+g
+ành y tế, thử
+nghiệm lâm sàng và đạo đức nghiên cứu y sinh học trong lĩnh vực y tế;
+b)
+Hướng dẫn, tổ chức thực hiện và giám
+sát, đánh giá việc phổ biến ứng dụng các kết quả nghiên cứu khoa học, đ
+ổ
+i mới công
+nghệ và thực hiện chuyển giao kỹ thuật công nghệ mới trong y tế;
+c)
+Quản lý tiêu chuẩn, quy chuẩn kỹ thuật
+quốc gia trong lĩnh vực y tế theo quy định của pháp luật; hướng dẫn, theo dõi
+việc phổ biến, áp dụng tiêu chuẩn, quy chuẩn kỹ thuật quốc gia thuộc lĩnh vực y
+tế;
+d)
+Tổ chức thực hiện hiệp định về hàng
+rào kỹ thuật trong thương mại (TBT) thuộc lĩnh vực y tế.
+17. V
+ề công nghệ thông tin
+a)
+Xây dựng chiến lược, quy hoạch, kế hoạch
+ứng dụng, phát triển công nghệ thông tin trong ngành y tế và tổ chức thực hiện;
+b)
+Xây dựng, ban hành quy chuẩn kỹ thuật
+về ứng dụng, phát triển công nghệ thông tin trong lĩnh vực y tế;
+c)
+Xây dựng, ban hành và tổ chức thực hiện
+các quy định về hoạt động y tế trên môi trường mạng;
+d)
+Chỉ đạo, hướng dẫn, tổ chức việc ứng dụng
+công nghệ thông tin trong ngành y tế trên phạm vi toàn quốc.
+18.
+Chỉ đạo, hướng dẫn tổ chức thực hiện
+và kiểm tra, giám sát việc thực hiện công tác truyền thông, giáo dục sức khỏe.
+19.
+Quản lý nhà nước các dịch vụ công
+trong ngành, lĩnh vực thuộc phạm vi
+quản lý nhà nước của Bộ theo quy định của
+pháp luật; quy định cụ thể tiêu chí phân loại đơn vị sự nghiệp y tế công lập
+phù hợp với yêu cầu quản lý của ngành y tế.
+20.
+Chủ trì, phối hợp với các cơ quan liên
+quan phòng, chống, cấp cứu và điều trị nạn nhân trong thiên tai, thảm họa.
+21.
+Xây dựng kế hoạch và tổ chức thực hiện
+dự trữ quốc gia về thuốc, hóa chất, trang thiết bị y tế, phương tiện phòng, ch
+ố
+ng dịch bệnh,
+thiên tai thảm họa theo danh mục dự trữ quốc gia đã được Chính phủ quyết định
+và các quy định của pháp luật.
+22.
+Quản lý nhà nước về hội, tổ chức phi
+Chính phủ hoạt động trong lĩnh vực thuộc phạm vi quản lý nhà nước của Bộ theo
+quy định của pháp luật.
+23.
+Xây dựng và chỉ đạo thực hiện kế hoạch
+cải cách hành chính của ngành y tế theo mục tiêu và nội dung của Chương trình tổng
+thể cải cách hành chính nhà nước của Chính phủ.
+24.
+Quản lý về tổ chức bộ máy, biên chế; c
+á
+n bộ, công chức,
+viên chức; thực hiện chế độ tiền lương và các chế độ, chính sách đ
+ã
+i ngộ, khen
+thưởng, kỷ luật đối với cán bộ, công chức, viên chức thuộc phạm vi quản lý của
+Bộ theo quy định của pháp luật.
+25.
+Thực hiện hợp tác quốc tế về các lĩnh
+vực thuộc phạm vi quản lý nhà nước của Bộ theo quy định của pháp luật.
+26.
+Quản lý tài chính, tài sản được giao
+và tổ chức thực hiện ngân sách được phân bổ theo quy định của pháp luật.
+27.
+Thanh tra, kiểm tra việc thực hiện các
+quy định của pháp luật và giải quyết khiếu nại, tố cáo, kiến nghị liên quan các
+lĩnh vực thuộc thẩm quyền quản lý nhà nước của Bộ; thực hiện phòng, chống tham
+nhũng và xử lý các hành vi vi phạm pháp luật trong các lĩnh vực thuộc phạm vi
+quản lý nhà nước của Bộ theo quy định của pháp luật.
+28.
+Xây dựng, ban hành hệ thống chỉ tiêu
+thống kê và chế độ báo cáo thống kê của ngành y tế theo quy định của pháp luật;
+tổ chức thu thập, tổng hợp, phân tích, quản lý và lưu trữ thông tin thống kê
+ngành y tế; xây dựng cơ sở dữ liệu ngành
+y tế.
+29.
+Thực hiện các nhiệm vụ, quyền hạn khác
+do Chính phủ, Thủ tướng Chính phủ giao và theo quy định của pháp luật.
+Danh sách các đơn vị quản lý nhà nước của Bộ
+Y tế:
+TT
+Tên
+Chức năng, nhiệm vụ
+1
+Vụ Truyền thông và thi đua, khen thư
+ở
+ng
+Tham mưu, giúp Bộ trưởng quản lý,
+  chỉ đạo, hướng dẫn tổ chức và kiểm tra, giám sát việc thực hiệ
+n
+công tác
+  thi đua, khen thưởng, tuyên tuyền về cá
+c
+lĩnh vực thuộc phạm vi quản lý nhà
+  nước của Bộ.
+2
+Vụ Sức khỏe Bà mẹ - Trẻ em
+Tham mưu, giúp Bộ trư
+ở
+ng quản lý,
+  chỉ đạo, hướng dẫn tổ chức và kiểm tra, giám sát các hoạt
+động trong
+  l
+ĩ
+nh vực chăm
+  sóc sức khỏe bà mẹ - trẻ
+em.
+3
+Vụ Trang thiết bị và Công trình y tế
+Tham mưu, giúp Bộ trưởng quản lý nhà
+  nước về trang thiết bị và công trình y tế bao gồm xây dựng các tiêu chuẩn,
+  quy chuẩn kỹ thuật quốc gia và các danh mục trang thiết bị thiết yếu; quản lý
+  việc đăng ký nhập kh
+ẩ
+u, sản xuất,
+  kinh doanh, lưu hành sản phẩm trang thiết bị y tế; thẩm định nội dung chuyên
+  môn các quảng cáo.
+4
+Vụ Bảo hiểm y tế
+Tham mưu, giúp Bộ trưởng quản lý,
+  chỉ đạo việc xây dựng, ban hành các văn bản quy phạm pháp luật, cơ chế, chính
+  sách về bảo hiểm y tế và việc thực hiện các quy định của pháp luật về bảo
+  hiểm y tế.
+5
+Vụ Kế hoạch - Tài chính
+Tham mưu, giúp Bộ trưởng quản lý,
+  chỉ đạo thực hiện công tác kế hoạch, đầu tư, thống
+kê
+và thực
+  hiện công tác tài chính, kế toán, tài s
+ả
+n nhà nước đối với các lĩnh vực
+  thuộc phạm vi quản lý nhà nước của Bộ Y tế.
+6
+Vụ Tổ chức cán bộ
+Tham mưu, giúp Bộ trưởng quản lý và
+  chỉ đạo thực hiện công tác tổ chức bộ máy, biên chế cán bộ, công chức, viên
+  chức, lao động, tiền lương và chế độ, chính sách đối với cán bộ, công chức, viên
+  chức, người lao động thuộc phạm vi quản lý của
+Bộ Y tế
+7
+Vụ Hợp tác quốc tế
+Tham mưu, giúp Bộ trưởng quản lý,
+  chỉ đạo thực hiện các hoạt động hợp tác quốc tế và hội nhập quốc tế về các
+  lĩnh vực thuộc phạm vi quản lý nhà nước của Bộ Y tế.
+8
+Vụ Pháp chế
+Tham mưu, giúp Bộ tr
+ư
+ởng thực
+  hiện nhiệm vụ quản lý nhà nước bằng pháp luật đối với các lĩnh vực thuộc phạm
+  vi quản lý của Bộ; tổ chức thực hiện công tác xây dựng pháp luật; rà soát, hệ
+  thống hóa, kiểm tra, hợp nhất văn bản quy phạm pháp luật; phổ biến, giáo dục
+  pháp luật; theo dõi tình hình thi hành pháp luật và kiểm tra việc thực hiện
+  pháp luật; công tác bồi thường của Nhà nước; hỗ trợ pháp lý cho doanh nghiệp.
+9
+Văn phòng Bộ
+Tham mưu giúp Bộ trưởng tổng hợp
+  thông tin quản lý phục vụ chỉ đạo, điều hành, điều phối chương trình làm việc
+  của lãnh đạo Bộ, các cơ quan, đơn vị trực thuộc Bộ theo chương trình,
+kế hoạch
+công tác và
+  theo chỉ đạo của Bộ trưởng;
+quản lý, t
+ổ
+chức thực
+  hiện công tác hành chính, văn thư, lưu trữ, quốc phòng, an ninh, kế hoạch,
+  tài chính, tin học h
+ó
+a qu
+ả
+n lý hành
+  chính, quản trị công sở trong nội bộ cơ quan Bộ.
+10
+Thanh tra B
+ộ
+Tham mưu, giúp Bộ trưởng quản lý,
+  chỉ đạo thực hiện công tác thanh tra hành chính và thanh tra chuyên ngành về
+  các lĩnh vực thuộc phạm vi quản lý nhà nước của Bộ.
+11
+Cục Y tế dự phòng
+Tham mưu, giúp Bộ trưởng Bộ Y tế
+  thực hiện chức năng quản lý nhà nước và tổ chức thực hiện các quy định của
+  pháp luật về lĩnh vực y tế dự phòng trong phạm vi cả nước, bao gồm: phòng,
+  chống bệnh truyền nhiễm, bệnh chưa rõ nguyên nhân, bệnh xã hội; phòng, chống
+  bệnh không lây nhiễm; sức khỏe trường học; dinh dưỡng cộng đồng; kiểm dịch y
+  tế biên giới; hoạt động chăm sóc sức khỏe ban đ
+ầ
+u và nân
+g
+cao sức
+  khỏe cho người dân tại cộng đồng; sử dụng vắc xin, sinh phẩm y tế; xét nghiệm
+  thuộc lĩnh vực y tế dự phòng, an toàn sinh học trong xét nghiệm; quản lý nh
+à
+nước các
+  dịch vụ công cộng thuộc lĩnh vực y tế dự phòng.
+12
+Cục Phòng, chống HIV/AIDS
+Tham mưu, giúp Bộ trưởng Bộ Y tế
+  thực hiện quản lý nhà nước và tổ chức thực thi pháp luật về các hoạt động
+  phòng, chống HIV/A
+I
+DS trong
+  phạm vi cả nước.
+13
+Cục An toàn thực phẩm
+Tham mưu, giúp Bộ trưởng Bộ Y tế
+  thực hiện quản lý nh
+à
+nước và tổ
+  chức thực thi pháp luật về an toàn thực phẩm thuộc trách nhiệm quản lý của Bộ
+  Y tế trong phạm vi cả nước.
+14
+Cục Quản lý Môi trường y tế
+Tham mưu, giúp Bộ trưởng Bộ Y tế
+  thực hiện quản lý nhà nước và tổ chức thực thi pháp luật về các lĩnh vực Vệ
+  sinh sức khỏe môi trường, vệ sinh chất lượng nước u
+ố
+ng, nước
+  sinh hoạt; vệ sinh sức khỏe lao động, phòng, chống bệnh nghề nghiệp và tai
+  nạn thương tích; quản lý hóa chất gia dụng và hóa chất, chế phẩm diệt côn
+  trùng, diệt khu
+ẩ
+n dùng
+  trong gia dụng và y tế; bảo vệ môi trường trong hoạt động y tế theo quy định
+  của pháp luật.
+15
+Cục Khoa học công nghệ và Đào tạo
+Tham mưu, giúp Bộ trưởng quản lý,
+  chỉ đạo thực hiện hoạt động khoa học, công nghệ và đào tạo bao gồm xây dựng
+  quy hoạch, kế hoạch, quy chuẩn, cơ chế, chính sách đào tạo nhân lực y tế;
+quản lý các
+  cơ sở đào tạo; xây dựng các văn bản quy phạm pháp luật, chính sách, chiến
+  lược, quy hoạch, kế hoạch và quy chuẩn kỹ thuật quốc gia về nghiên cứu khoa
+  học và phát triển công nghệ trong ngành y tế, thử nghiệm lâm sàng và đạo đức
+  nghiên cứu y sinh học trong lĩnh vực y tế;
+16
+Cục Quản lý Khám, chữa bệnh
+Tham mưu, giúp Bộ trưởng quản lý,
+  chỉ đạo các hoạt động
+liên
+quan
+  đến lĩnh vực khám, chữa bệnh bao gồm xây dựng, hướng dẫn và giám sát
+thực hiện
+  các văn bản quy phạm pháp luật, quy định, tiêu chuẩn, quy chuẩn kỹ thuật,
+  định mức kinh tế - kỹ thuật về lĩnh vực khám bệnh, chữa bệnh; thẩm định và
+  cho phép các cơ sở khám bệnh, chữa bệnh áp dụng các kỹ thuật, phương pháp
+  mới; cấp phát và quản lý chứng chỉ hành nghề khám bệnh, chữa bệnh và giấy
+  phép hoạt động đối với các cơ sở khám bệnh, chữa bệnh; thẩm định nội dung
+  chuyên môn của hồ sơ đăng ký quảng cáo liên quan
+17
+Cục Quản lý Y, Dược cổ truyền
+Tham mưu, giúp Bộ trưởng quản lý,
+  chỉ đạo các hoạt động liên quan đến lĩnh vực y dược cổ truyền bao gồm xây
+  dựng, hướng dẫn và giám sát thực hiện các văn bản quy phạm pháp luật, quy
+  định, tiêu chuẩn, quy chuẩn kỹ thuật về lĩnh vực y dược cổ truyền; cấp phát
+  và quản lý chứng chỉ hành nghề khám bệnh, chữa bệnh và giấy phép hoạt động
+  đối với các cơ sở khám bệnh, chữa bệnh bằng y học cổ truyền; thẩm định nội
+  dung chuyên môn của hồ sơ đăng ký quảng cáo liên quan
+18
+Cục Quản lý Dược
+Tham mưu, giúp Bộ trưởng quản lý,
+  chỉ đạo các hoạt động liên quan đến lĩnh vực dược,
+mỹ phẩm
+bao gồm xây
+  dựng, hướng dẫn và giám sát thực hiện các văn bản quy phạm pháp luật, quy
+  định, tiêu chuẩn, quy chuẩn kỹ thuật về lĩnh vực dược,
+mỹ
+phẩm; cấp
+  phát và quản lý các loại chứng chỉ, giấy phép trong lĩnh vực dược, mỹ phẩm;
+  quản lý chất lượng, giá cả thuốc
+và mỹ phẩm; thẩm định nội dung
+  chuyên môn của hồ sơ đăng ký qu
+ả
+ng cáo thu
+ố
+c.
+19
+Cục Công nghệ thông tin
+Tham mưu, giúp Bộ trưởng th
+ố
+ng nhất
+  quản lý hoạt động ứng dụng và phát triển công nghệ thông tin trong ngành y
+  tế; tổ chức thực hiện việc ứng dụng và phát triển công nghệ thông tin trong
+  hoạt động của các cơ quan, đơn vị sự nghiệp.
+20
+Tổng cục Dân s
+ố
+- Kế hoạch
+  hóa gia đình
+Tham mưu, giúp Bộ trưởng quản lý,
+  chỉ đạo việ
+c
+xây
+  dựng và thực hiện các văn bản quy phạm phá
+p
+luật, các chính sách, các tiêu
+  chuẩn, quy định, q
+uy
+chuẩn quốc
+  gia,
+các
+  hệ thống chỉ tiêu, chỉ báo v
+ề
+dân số - kế hoạch hóa gia đình và sức khỏe
+  sin
+h
+sản; quản lý
+  việc cho phép thực hiện dịch vụ t
+ư
+vấn, xác định giới
+tính
+, sinh con
+  theo phương phá
+p
+khoa học
+3.1.2.
+Trách nhiệm của Bộ
+Y
+tế về Bảo hiể
+m
+y tế
+Theo luật bảo hiểm y tế số
+25/2008/QH12 ngày 14/11/2008 và Luật Bảo hiểm y tế sửa đổi số 46/2014/QH13 ngày
+13/6/2014, trách nhiệm của Bộ Y tế đối với Bảo hiểm y tế như sau:
+Bộ Y tế chủ trì, phối hợp với các Bộ,
+cơ quan ngang Bộ, cơ quan, tổ chức có liên quan thực hiện nhiệm vụ sau đây:
+-
+Xây dựng chính sách, pháp luật về bảo hiểm y
+t
+ế
+, tổ chức hệ
+thống y tế, tuyến chuyên môn kỹ thuật y tế, nguồn tài chính phục vụ công tác bảo
+vệ, chăm sóc và nâng cao sức khỏe nhân dân dựa trên bảo hiểm y tế toàn dân;
+-
+Xây dựng chiến lược, quy hoạch, kế hoạch tổng
+thể phát triển bảo hiểm
+y tế;
+-
+Ban hành danh mục thuốc, vật tư y tế, dịch vụ
+kỹ thuật thuộc phạm vi được hưởng của người tham gia bảo hiểm y tế và các quy định
+chuyên môn kỹ thuật liên quan đến khám bệnh, chữa bệnh bảo hiểm y tế;
+-
+Xây dựng và trình Chính phủ các giải pháp nhằm
+bảo đảm cân đối qu
+ỹ
+bảo hiểm y tế;
+-
+Tuyên truyền, phổ biến chính sách, pháp luật
+về bảo hiểm y tế;
+-
+Chỉ đạo, hướng dẫn tổ chức triển khai thực hiện
+chế độ bảo hiểm y tế;
+-
+Thanh tra, kiểm tra, xử lý vi phạm và giải
+quyết khiếu nại, tố cáo về bảo hiểm y tế;
+-
+Theo dõi, đánh giá, tổng kết các hoạt động
+trong lĩnh vực bảo hiểm y tế;
+-
+Tổ chức nghiên cứu khoa học và hợp tác quốc tế
+về bảo hiểm y tế.
+3.2. Cơ quan Bảo hiểm
+xã hội Việt Nam
+3.2.1. Chức năng nhiệm vụ
+Theo nghị định
+số
+05/2014/NĐ-CP
+ngày 17/01/2014 chức năng nhiệm vụ của cơ quan Bảo hiểm xã hội Việt Nam quy định
+như sau:
+Bảo hiểm xã hội Việt Nam là cơ quan
+thuộc Chính phủ, có chức năng tổ chức thực hiện chế độ, chính sách bảo hiểm xã
+hội bắt buộc, bảo hiểm xã hội tự nguyện, bảo hiểm y tế; tổ chức thu, chi chế độ
+b
+ả
+o hiểm thất
+nghiệp; quản lý và sử dụng các quỹ:
+B
+ảo hiểm xã hội bắt buộc, bảo hiểm xã hội tự
+nguyện, bảo hiểm thất nghiệp, bảo hiểm y tế theo quy định của pháp luật.
+Bảo hiểm xã hội Việt Nam chịu sự quản
+lý Nhà nước của Bộ Y tế về bảo hiểm y tế, của Bộ Lao động - Thương binh và Xã hội
+về bảo hiểm xã hội, của Bộ Tài chính về chế độ tài chính đối với các quỹ bảo hiểm
+xã hội, bảo hiểm y tế.
+Trách nhiệm và quan hệ của Bảo hiểm xã
+hội Việt Nam đối với các Bộ quản lý nhà nước về lĩnh vực bảo hiểm xã hội, bảo
+hiểm y tế và chế độ tài ch
+í
+nh đối với các quỹ bảo hiểm xã hội, bảo hiểm y tế:
+·
+Đối với Bộ
+Lao động - Thương binh và Xã hội:
+Đề xuất với Bộ Lao động - Thương binh
+và Xã hội xây dựng, sửa đổi, bổ sung chế độ, chính sách về bảo hiểm xã hội; kiến
+nghị thanh tra, kiểm tra các tổ chức, cá nhân trong việc thực hiện bảo hiểm xã
+hội theo quy định của pháp luật; chịu sự thanh tra, kiểm tra của Bộ Lao động -
+Thương binh và Xã hội trong việc thực hiện các quy định của pháp luật về bảo hiểm
+xã hội; báo cáo định kỳ 6 tháng một lần và báo cáo đột xuất với Bộ Lao động -
+Thương binh và Xã hội về tình hình thực hiện chế độ, chính sách bảo hiểm xã hội;
+tình hình thu, chi và quản lý, sử dụng các quỹ bảo hiểm xã hội.
+·
+Đối với Bộ Y
+tế:
+Đề xuất với Bộ Y tế xây dựng, sửa đổi, bổ sung chế độ, chính sách về bảo hiểm y
+tế; tham gia
+với
+Bộ Y tế
+trong việc xác định mức đóng, phạm vi quyền lợi, mức hưởng của người khám, chữa
+bệnh theo chế độ bảo hiểm y tế và cơ chế chi trả chi phí khám, chữa bệnh; giá dịch
+vụ y tế, danh mục thuốc, vật tư y tế, dịch vụ kỹ thuật thuộc phạm vi được hưởng
+của người tham gia bảo hiểm y tế; kiến nghị với Bộ Y tế thanh tra, kiểm tra các
+tổ chức, cá nhân trong việc thực hiện bảo hiểm y tế theo quy định của pháp luật;
+chịu sự thanh tra, kiểm tra của Bộ Y tế trong việc thực hiện các quy định của
+pháp luật về bảo hiểm y
+t
+ế; báo cáo định
+kỳ 6 tháng một lần và báo cáo đột xuất với Bộ Y tế về tình hình thực hiện chế độ,
+chính sách bảo hiểm y tế; tình hình thu, chi và quản lý, sử dụng các quỹ bảo hiểm
+y tế.
+·
+Đối với Bộ Tài chính
+:
+Đề xuất
+với
+Bộ T
+à
+i chính xây dựng,
+sửa đổi, b
+ổ
+sung chế độ
+tài chính đối với các quỹ bảo hiểm xã hội, bảo hiểm y tế và cơ chế tài chính áp
+dụng đối với Bảo hiểm xã hội Việt Nam; chịu sự thanh tra, kiểm tra của Bộ Tài
+chính trong việc thực hiện các quy định của pháp luật về chế độ tài chính đối với
+các quỹ bảo hiểm xã hội, bảo hiểm y tế; báo cáo định kỳ 6 tháng một l
+ầ
+n và báo cáo
+đột xuất với Bộ Tài chính về tình hình thu, chi và quản lý, sử dụng các quỹ bảo
+hiểm xã hội, bảo hiểm y tế.
+Cơ quan Bảo hiểm xã hội Việt Nam ban
+hành quyết định số 99/QĐ-BHXH ngày ngày 28/01/2015 quy định chức năng, nhiệm vụ,
+quyền hạn và cơ c
+ấ
+u tổ chức của
+Bảo hiểm xã hội địa phương;
+·
+Bảo hiểm xã hội Tỉnh, Thành phố trực thuộc
+Trung ương (sau đây gọi chung là Bảo hiểm xã hội Tỉnh) là cơ quan trực thuộc Bảo
+hiểm xã hội Việt Nam đặt tại tỉnh, có chức năng giúp T
+ổ
+ng Giám đốc Bảo
+hiểm xã hội Việt Nam (sau đây gọi là T
+ổ
+ng Giám đốc) tổ chức thực hiện chế độ, chính
+sách bảo hiểm xã hội bắt buộc, bảo hiểm xã hội tự nguyện (sau đây gọi chung là
+bảo hiểm xã hội), bảo hiểm thất nghiệp, bảo hiểm y tế; quản lý các quỹ: Bảo hiểm
+xã hội, bảo hiểm thất nghiệp, bảo hiểm y tế trên địa bàn t
+ỉ
+nh theo quy định
+của Bảo hiểm xã hội Việt Nam và quy định của pháp luật.
+·
+Bảo hiểm xã hội tỉnh chịu sự quản lý trực tiếp,
+toàn diện của Tổng Giám đốc và chịu sự quản lý hành chính nhà nước trên địa bàn
+tỉnh của Ủy ban nhân dân tỉnh.
+·
+Bảo hiểm xã hội tỉnh có tư cách pháp nhân, có
+con dấu, tài khoản và trụ
+sở riêng.
+Vị trí, chức năng của Bảo hiểm xã hội
+huyện
+·
+Bảo hiểm xã hội huyện là cơ quan trực thuộc Bảo
+hiểm xã hội tỉnh đặt tại huyện, có chức năng giúp Giám đốc Bảo hiểm xã hội tỉnh
+tổ ch
+ứ
+c thực hiện
+chế độ, chính sách bảo hiểm xã hội, bảo hiểm y tế; quản lý thu, chi bảo hiểm xã
+hội, bảo hiểm y tế trên địa bàn huyện theo phân cấp quản lý của Bảo hiểm xã hội
+Việt Nam và quy định của pháp luật.
+·
+Bảo hiểm xã hội huyện chịu sự quản lý trực tiếp,
+toàn diện của Giám đốc Bảo hiểm xã hội tỉnh và chịu sự quản lý hành chính nhà
+nước của Ủy ban nhân d
+â
+n huyện.
+·
+Bảo hiểm xã hội huyện có tư cách pháp nhân,
+có con dấu, tài khoản và tr
+ụ
+sở riêng.
+3.2.2.
+Cơ cấu tổ chức
+Bảo hiểm xã hội Việt Nam được tổ chức
+và quản lý theo hệ thống dọc, tập trung, thống nhất từ Trung ương đến địa
+phương, gồm có:
+·
+Ở
+Trung ương là Bảo hiểm xã hội Việt Nam.
+·
+Ở
+tỉnh, thành phố trực thuộc Trung ương là Bảo
+hiểm xã hội tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là Bảo hiểm
+xã hội tỉnh) trực thuộc Bảo hiểm xã hội Việt Nam.
+·
+Ở
+huyện, quận, thị xã, thành phố thuộc tỉnh là
+Bảo hiểm xã hội huyện, quận, thị xã, thành phố thuộc tỉnh (sau đây gọi chung là
+Bảo hiểm xã hội huyện) trực thuộc Bảo hiểm xã hội tỉnh.
+Cơ cấu tổ chức của Bảo hiểm xã hội tỉnh
+·
+1. Phòng Chế độ bảo hiểm xã hội.
+·
+2. Phòng Giám định bảo hiểm y tế.
+·
+3
+.
+Phòng Qu
+ả
+n lý thu.
+·
+4. Phòng Khai thác và thu nợ.
+·
+5. Phòng Cấp sổ, thẻ.
+·
+6. Phòng Tổ chức cán bộ.
+·
+7. Phòng Kế hoạch - Tài chính.
+·
+8. Phòng Kiểm tra.
+·
+9. Phòng Công nghệ thông tin.
+·
+10. Phòng Tiếp nhận và Trả kết quả thủ tục
+hành chính.
+·
+11. Văn phòng.
+·
+Đối với Bảo hiểm xã hội thành phố Hà Nội và Bảo
+hiểm xã hội Thành ph
+ố
+Hồ Chí Minh:
+Thành lập thêm Phòng Quản lý hồ sơ và Phòng Tuyên truyền; tách Phòng Giám định
+bảo hiểm y tế thành Phòng Giám định bảo hiểm y tế 1 và Phòng Giám định bảo hiểm
+y tế 2.
+·
+Các phòng và Văn phòng trực thuộc Bảo hiểm xã
+hội tỉnh có chức năng giúp Giám đốc Bảo hiểm xã hội tỉnh tổ chức thực hiện các
+nhiệm vụ được giao đối với từng lĩnh vực chuyên môn, nghiệp vụ theo quy định của
+Tổng Giám đốc.
+·
+Phòng, Văn phòng chịu sự quản lý, điều hành
+trực tiếp của Giám đốc Bảo hiểm xã hội tỉnh và chịu sự chỉ đạo, kiểm tra, hướng
+d
+ẫ
+n về chuy
+ê
+n môn, nghiệp
+vụ của các đơn vị trực thuộc Bảo hiểm xã hội Việt Nam.
+Cơ cấu tổ chức của Bảo hiểm xã hội huyện
+Đối với Bảo hiểm xã hội huyện có biên
+chế từ 36 viên chức trở lên hoặc có chỉ tiêu dự toán thu - chi bảo hiểm xã hội,
+bảo hiểm y tế hàng năm từ 1.700 tỷ đ
+ồ
+ng trở lên, được thành lập 05 Tổ Nghiệp vụ gồm:
+·
+Tổ Thu bảo hiểm xã hội, bảo hiểm y tế;
+·
+Tổ Cấp sổ, thẻ và Kiểm tra;
+·
+Tổ Thực hiện chính sách bảo hiểm xã hội;
+·
+Tổ Tiếp nhận & Quản lý hồ sơ;
+·
+Tổ Kế toán - Chi trả và Giám định bảo hiểm y
+tế.
+Đối với Bảo hiểm xã hội huyện có biên
+chế từ 26 đến 35 viên chức hoặc có chỉ tiêu dự toán thu - chi bảo hiểm xã hội,
+bảo hiểm y tế hàng n
+ă
+m từ 1.000 tỷ
+đ
+ồ
+ng đến dưới
+1.700 t
+ỷ
+đồng, được
+thành lập 04 tổ nghiệp vụ gồm:
+·
+Tổ Thu - Cấp sổ, thẻ và Kiểm tra;
+·
+Tổ Thực hiện chính sách bảo hiểm xã hội;
+·
+Tổ Tiếp nhận & Quản lý hồ sơ;
+·
+T
+ổ
+Kế toán - Chi trả và Giám định bảo hiểm y tế.
+Đối với Bảo hiểm xã hội huyện có biên
+chế từ 16 đến 25 viên chức và c
+ó
+chỉ tiêu dự toán thu - chi bảo hiểm xã hội, bảo hiểm y tế
+hàng năm từ 100 tỷ đồng đến dưới 1.000 tỷ đồng, được thành lập 03 Tổ Nghiệp vụ
+gồm:
+·
+Tổ Thu - Cấp sổ, thẻ và Kiểm tra;
+·
+Tổ Thực hiện chính sách bảo hiểm xã hội và Tiếp
+nhận & Quản lý hồ sơ;
+·
+T
+ổ
+K
+ế
+toán - Chi trả và Giám định bảo hiểm y tế.
+Đối với những Bảo hiểm xã hội huyện
+không thuộc quy định nêu trên thì không thành lập T
+ổ
+Nghiệp vụ.
+·
+Tổ Nghiệp vụ thuộc Bảo hiểm xã hội huyện do
+Giám đốc Bả
+o
+hiểm xã hội
+tỉnh Quyết định thành lập sau khi được Tổng Giám đốc phê duyệt.
+·
+Tổ Nghiệp vụ có chức năng giúp Giám đốc Bảo
+hiểm xã hội huyện thực hiện các nhiệm vụ được giao đối với từng lĩnh vực chuyên
+môn, nghiệp vụ theo quy định của T
+ổ
+ng Giám đốc.
+·
+Tổ Nghiệp vụ chịu sự quản lý, điều hành trực
+tiếp của Giám đốc Bảo hiểm xã hội huyện.
+3.3. Cơ sở khám chữa
+bệnh bảo hiểm y tế
+Cơ sở khám bệnh, chữa bệnh bảo hiểm y
+tế là cơ sở khám bệnh, chữa bệnh theo đăng ký của người tham gia bảo hiểm y tế
+và được ghi trong thẻ bảo hiểm y tế.
+3.4. Doanh nghiệp,
+người dân
+Doanh nghiệp, người dân là các tổ chức,
+cá nhân trực tiếp mua bảo hiểm y tế với cơ quan BHXH.
+3.5. Mối quan hệ
+trong khám chữa bệnh và thanh toán bảo hiểm y tế
+Sơ đồ
+khái quát mối liên hệ giữa các bên tham gia khám chữa bệnh và thanh toán bảo hiểm
+y tế
+Chương 4
+HIỆN TRẠNG
+ỨNG DỤNG CÔNG NGHỆ THÔNG TIN TRONG KHÁM CHỮA BỆNH BẢO HIỂM Y TẾ
+4.1. Hiện trạng ứng dụng
+CNTT trong bảo hiểm y tế
+Trong những năm qua, số lượng người
+tham gia Bảo hiểm y tế liên tục tăng tính đến hết năm 2015 có khoảng 75% dân số
+tham gia bảo hiểm y tế. Quỹ BHYT liên tục tăng trong các n
+ă
+m gần đây.
+Theo số liệu thống kê của cơ quan BHXH, tính đến tháng 7/2016 có 12.719 cơ sở
+khám chữa bệnh ký hợp đồng kh
+á
+m chữa bệnh bảo hiểm y tế với cơ quan BHXH, trong đó:
+1.134 Bệnh viện; 9.915 Trạm y tế; 359 Trạm y tế quận/huyện; 857 phòng khám đa
+khoa khu vực và tư nhân; 319 trạm y tế chuyên quản (Bệnh xá, Ban bảo vệ sức khỏe).
+Trong khi đó, toàn bộ công tác quản lý
+nhà nước, giám định, chi trả, thống kê, báo cáo của Bộ Y tế, BHXH và các cơ sở
+khám chữa bệnh trên toàn quốc vẫn hoàn toàn thủ công, không có công cụ
+hữu
+hiệu nào hỗ
+trợ cho cán bộ trong việc quản lý, thu, chi và giám định BHYT. Trong khi đó, tại
+các cơ sở KCB có đặc thù nghiệp vụ phức tạp và không th
+ể
+áp dụng quy
+trình chung cho tất cả cơ sở KCB.
+Công tác quản lý nhà nước cũng như
+giám định, chi trả BHYT đang quá tải nặng n
+ề
+. Trong khi đó, các thông tin, quy trình quản
+lý khám, chữa bệnh bảo hiểm y tế đóng vai trò quan trọng trong việc giám định
+và thanh toán chưa được tin học h
+ó
+a và kết nối, chia sẻ thông tin giữa các đơn
+vị liên quan với nhau. Vì vậy, các đơn vị trong ngành Y tế cũng như BHXH không
+thể công khai, minh bạch trong việc quản lý chi phí khám chữa bệnh và giám định
+đ
+ể
+thanh toán
+cho các hoạt động khám chữa bệnh được hưởng BHYT. Cũng v
+ì
+thế, Bộ Y tế
+gặp nhiều khó khăn do không có số liệu báo cáo kịp thời về tình hình quỹ BHYT,
+nghiệp vụ khám chữa bệnh BHYT tại các cơ sở khám chữa bệnh. Nhiều quyết định quản
+lý nhà nước về bảo hiểm y tế dựa trên số liệu l
+ỗ
+i thời do cơ quan Bảo
+hiểm xã hội và cơ sở y tế tổng hợp báo cáo.
+V
+ấn đề lạm dụng thẻ BHYT của bệnh nhân để nhận
+thuốc, hưởng dịch vụ không đúng quy định gây thất thoát lớn cho ngân sách nhà
+nước mà BHXH chưa có biện pháp ngăn chặn hữu hiệu.
+Nhiều cơ sở KCB do nhu cầu cấp bách
+đã
+xây dựng phần
+mềm cho phép kết xuất dữ liệu thanh toán. Tuy nhiên, mức độ tin cậy dữ liệu do
+các phần mềm này kết xuất không cao và chưa tuân thủ theo chuẩn nào và c
+ũ
+ng không th
+ể
+kết nối với
+cơ
+quan Bộ Y tế
+và BHXH. Hiện nay, một số bệnh viện sử dụng phần mềm thống kê khám, chữa bệnh
+do Cơ quan BHXH cung cấp đã đáp ứng một phần yêu cầu trao
+đổi
+dữ liệu điện
+tử
+phục vụ hoạt
+động giám định B
+H
+YT. Tuy
+nhiên,
+để
+đáp
+ứng đầy đủ quy trình giám định, cơ sở khám chữa bệnh và cơ quan BHXH đều phải
+thỏa mãn các điều kiện tiên quyết
+- Đối với cơ sở KCB: toàn bộ quá trình
+tiếp nhận, khám và điều trị người bệnh phải được tin học hóa, ứng dụng đầy đủ
+mô hình Y tế điện tử;
+-
+Tổng thể toàn
+hệ thống: Các phần mềm quản lý khám cơ sở KCB cần liên thông dữ liệu khám, chữa
+bệnh bảo hiểm y tế liên tuyến
+giữa
+các bệnh viện, Sở Y tế, Bộ Y tế và cơ quan
+BHXH. Ngoài ra, phải có bộ quy t
+ắ
+c, từ đi
+ể
+n giám định điện tử dùng chung giữa các đơn vị
+liên quan.
+Trong tình hình hình mới, Chính phủ đã
+chỉ đạo Bộ y tế chịu trách nhiệm tin học hóa trong thực hiện khám, chữa bệnh bảo
+hiểm y tế và chuyển dữ liệu khám, chữa bệnh bảo hiểm y tế này đến cơ quan Bảo
+hiểm xã hội để giám định thanh toán. Cơ quan Bảo hiểm xã hội Việt Nam chịu
+trách nhiệm tin học hóa trong thực hiện giám định thanh toán khám bệnh, chữa bệnh
+bảo hiểm y tế từ dữ liệu do các cơ sở thực hiện khám bệnh, chữa bệnh bảo hiểm y
+tế chuyển đến.
+Đến nay, Bộ Y tế thống nhất mô hình kiến
+trúc tổng thể hệ thống thông tin khám, chữa bệnh BHYT và để sẵn sàng triển khai
+trên toàn quốc. Bộ Y tế đã ban hành bộ dữ liệu đầu ra và đang hoàn thiện các bộ
+Danh mục dùng chung phục vụ liên thông dữ liệu giữa các cơ sở y tế với nhau, với
+Bộ Y tế và với cơ quan Bảo hiểm xã hội Việt Nam để phục vụ giám định chi phí
+khám chữa bệnh Bảo hiểm y tế
+cũng
+như giám sát thông tin thanh toán BHYT trong
+tương lai.
+4.2. Tình hình ứng dụng
+công nghệ thông tin tại các Bệnh viện
+Hiện nay, có khoảng 750/1134 Bệnh viện,
+4000/11.110 Trạm y tế và Trung tâm y tế xã phường đã có phần mềm quản lý. Hầu h
+ế
+t các cơ sở
+khám chữa bệnh sử dụng phần mềm được phát triển trong nước, một số ít các đơn vị
+đầu tư mua s
+ắ
+m hệ thống phần
+mềm nước ngoài. Do nhiều nguyên nhân khác nhau, các
+hệ thống
+phần mềm của
+các bệnh viện không kết nối dữ liệu được với nhau.
+Hầu hết các cơ sở khám chữa bệnh được
+trang bị hạn chế thiết bị công nghệ thông tin, thiếu về số lượng và yếu về cấu
+hình. Do nhu cầu cấp bách,
+nhiều
+cơ sở y tế buộc phải đầu tư theo nhiều cách
+khác nhau như: mua sắm hệ thống phần mềm nước ngoài, trong nước, xin miễn phí
+hoặc tự phát tri
+ể
+n đội
+ngũ
+nhân sự CNTT
+để
+phát triển.
+Quá trình này diễn ra từ những
+năm
+1990, nhiều đơn vị đã định hình cố định về kiến
+trúc hệ thống và công nghệ phát triển.
+Việc ứng dụng CNTT trong các cơ sở
+khám chữa bệnh rất đa dạng nhưng cũng rất rời rạc và không tập
+trung
+, chủ yếu
+dùng cho công việc tài chính, văn phòng, th
+ố
+ng kê, báo cáo. Hạ tầng CNTT tại đa số cơ sở
+KCB còn thiếu và đ
+ã
+cũ
+không đáp ứng được cho việc ứng dụng các phần mềm mới. Hiện tại, các đơn vị
+trong ngành sử dụng các phần mềm đặc trưng ngành như:
+-
+Phần mềm quản lý bệnh viện (chủ yếu quản lý về
+mặt chi phí) từ nhiều nhà cung cấp khác nhau.
+-
+Phần mềm thanh toán BHYT do BHXH cung cấp mi
+ễ
+n phí cài đặt
+tại Bệnh viện.
+-
+Phần mềm báo cáo thống kê Medisoft 2003 của Bộ
+Y tế
+-
+Phần mềm kế toán
+-
+Phần mềm ứng dụng: Quản lý nhân sự, quản lý
+công văn....
+-
+Nhiều bệnh viện đang cùng một lúc sử dụng 05,
+06 phần mềm khác nhau cho nhiều mục đích khác nhau.
+-
+Mặc dù việc
+ứng d
+ụng CNTT tại một số
+cơ sở
+K
+CB đã mang lại
+một s
+ố
+kết quả nhất
+định, nhưng còn rất nhiều hạn chế:
+-
+Chưa có phần mềm quản lý tổng thể toàn bộ
+thông tin của bệnh viện đáp ứng yêu cầu quản lý toàn diện bệnh nhân và hoạt động
+khám chữa bệnh theo quy trình khép kín, liên thông giữa các phòng ban.
+-
+Không có sự kết nối, liên thông với nhau, dữ
+liệu không thống nhất, không chuẩn hóa.
+-
+Chưa có phần mềm phục vụ các ứng dụng kỹ thuật
+Y tế chuyên sâu như: Quản lý bệnh án điện t
+ử
+, quản lý chẩn đoán hình
+ả
+nh, quản lý
+phẫu thuật thủ thuật, đơn thuốc điện tử, ph
+â
+n tích mô hình bệnh tật...
+-
+Ch
+ư
+a tạo một công cụ hỗ trợ
+hữu
+hiệu nhất
+gắn
+bó với người
+sử dụng, phục vụ đắc lực công việc chuyên m
+ô
+n hàng ngày.
+-
+Khi việc ứng dụng phần mềm không thống nhất,
+thiếu đồng bộ và tổng thể thì ngoài hiệu quả khai thác th
+ấ
+p còn tạo
+thêm gánh nặng cho nhân viên y tế khi làm hai việc song song: Ghi chép sổ sách
+và nhập dữ liệu vào máy tính.
+4.3. Ứng dụng CNTT tại
+các trạm Y tế xã phường
+Hiện nay công việc báo cáo thống kê và
+ứng dụng CNTT trong các tuyến Y tế xã phường ở dạng nhỏ lẻ và còn nhiều bất cập,
+chưa có phần mềm quản lý nghiệp vụ và thu thập số liệu thống kê Y tế, quản lý
+dân s
+ố
+, quản lý các
+chương trình mục tiêu quốc gia. Một trong những lý do của việc này là hệ thống
+biểu mẫu thống kê chưa được thống nhất, số lượng biểu mẫu có quá nhiều và còn
+chồng chéo. Vụ Kế hoạch Tài chính, Bộ Y tế được giao là đ
+ầ
+u m
+ố
+i làm nhiệm vụ
+thống kê Y tế đang tiến hành rà soát biểu mẫu, giảm sự trùng lặp và nhất quán lấy
+số liệu thu thập từ trung ương đến địa phương.
+Vụ Kế hoạch Tài chính, Bộ Y tế cũng đ
+ã
+triển khai một
+dự án cho hệ thống báo cáo từ năm 1998, nhưng hiện tại r
+ấ
+t ít nơi sử dụng
+do nguồn nhân lực yếu và khả năng duy trì, hỗ trợ không tốt, đườn
+g
+truyền không
+đảm bảo. Hiện tại hệ thống báo cáo thống kê ch
+ỉ
+đáp ứng các nhu cầu
+cấp bách, chất lượng và tiến
+đ
+ộ báo cáo chưa cao. Do chất lượng thông tin chưa được kiểm
+soát và cập nhật kịp thời, niên giám thống kê Y tế hàng năm của Bộ Y tế thường
+ra chậm.
+Một cách khái quát, tại các Trạm Y tế
+xã hiện đang t
+ồ
+n tại một số
+vấn đề
+chính:
+-
+Chỉ số, chỉ tiêu y tế thu thập được có nhiều
+bất cập;
+-
+Báo cáo chồng chéo;
+-
+Trình độ CNTT của cán bộ chưa
+đáp
+ứng
+yêu cầu quản trị hệ thống;
+-
+Không có những công cụ đơn giản, hiệu quả để
+hỗ trợ cán bộ.
+4.4. Ứng dụng CNTT
+trong thanh toán viện phí trong Y tế
+Hiện nay, về ứng dụng CNTT trong thanh
+toán tại các cơ sở y tế có 02 phầ
+n
+mềm đang khai thác như sau:
+-
+Phần mềm HMS:
++ Có một số chức năng hỗ trợ cho giám
+định thanh toán BHYT
++ Hỗ trợ việc cấu h
+ì
+nh nguyên
+tắc
+thanh toán
+(do Bộ Y tế quy định)
++ Thực hiện theo hình thức Offline
+-
+Phần mềm Viện phí 2.0:
++ Được sử dụng chủ yếu tại các bệnh viện
+tại các địa phương
++ Mục đích phục vụ bệnh viện trong
+công tác ghi nhận chi phí BHYT và hỗ trợ cho việc làm thanh quyết toán BHYT
++ Không phục vụ cho quá trình giám định
+BHYT
+4.5. Hạ tầng công nghệ
+thông tin
+Tất cả các Vụ, Cục, Văn phòng Bộ, Tổng
+Cục đã kết nối mạng nội bộ và kết nối Internet tốc độ cao. T
+ỷ
+lệ tr
+u
+ng bình máy
+tính/CBCC: 100% (trừ khối hành chính - quản trị - bảo vệ).
+Bộ Y tế đã có 100% các đơn vị trực thuộc
+có mạng LAN và kết nối internet tốc độ cao, bình quân m
+ỗ
+i mạng có
+trên 110 máy tính, 43% có hệ thống bảo mật, 53% có hệ thống backup dữ liệu;
+Tại các tỉnh: 95,3% Văn phòng S
+ở
+có mạng LAN
+và kết nối được Internet tốc độ cao, 26% có hệ thống bảo mật và 24% có hệ thống
+lưu trữ dữ liệu;
+Trong các bệnh viện địa phương được điều
+tra có khoảng 52,9% bệnh viện tỉnh có LAN và 81% kết n
+ố
+i được
+Internet tốc độ cao, 37,2% bệnh viện huyện có mạng LAN và 65% kết nối internet;
+Một số ít cơ sở KCB (chiếm 2%) c
+ó
+đường truyền
+riêng, trên 70%
+đ
+ơn vị sử dụng
+đường truyền ADSL; 100% các trường Đại học, Cao đẳng Y - Dược có mạng LAN, kết
+nối Internet và Website;
+Có 16% Sở Y tế có địa ch
+ỉ
+website trên
+Internet, 27% đơn vị trực thuộc Bộ Y tế có trang web, gần 80 đơn vị trực thuộc
+các sở Y tế có Web site trên Internet.
+Ngành Y tế chưa xây dựng được mạng WAN
+kết nối Bộ Y tế với các Sở Y tế, các cơ sở kh
+á
+m chữa bệnh, các
+Trung tâm, trạm Y tế. Điều này gây khó khăn trong hoạt động KCB và thanh toán
+BHYT như việc trao đổi thông tin, liên thông dữ liệu, triển khai các dịch vụ
+như hội ch
+ẩ
+n từ xa,
+telemedicine, hội nghị truyền hình...
+Ngành Y tế cũng chưa c
+ó
+Trung tâm
+tích hợp dữ liệu quy mô quốc gia lưu trữ các CSDL danh mục dùng chung, CSDL quốc
+gia về người bệnh, CSDL quốc gia về bệnh án điện tử và các CSDL khác của ngành
+Y tế.
+4.6. Về nguồn nhân lực
+về CNTT
+Nhân lực CNTT dần trở nên quan trọng
+trong các cơ sở khám chữa bệnh. Hầu hết các cơ sở khám chữa bệnh từ tuyến Huyện
+trở lên đ
+ã
+có cán bộ phụ
+trách về CNTT. Đối với các Bệnh viện cấp Tỉnh đều có phòng CNTT hoặc bộ phận CNTT
+trực thuộc phòng K
+ế
+hoạch tổng hợp.
+Bình quân m
+ỗ
+i Sở Y tế có
+1,57 người và ở các đơn vị trực thuộc là 3,68 người. Nhân lực CNTT chiếm khoảng
+1% so tổng số nhân lực Y tế từ tuyến huyện trở lên.
+Bộ Y tế đã c
+ó
+Quyết định
+1191/QĐ-BYT ngày 14/4/2010 về việc phê duyệt Đề án kiện toàn hệ thống tổ chức
+công nghệ thông tin trong các đơn vị sự nghiệp của ngành y
+t
+ế giai đoạn từ
+năm 2010 đến n
+ă
+m 2015. Tuy
+nhiên chưa có số liệu tổng hợp tình hình thực hiện quyết định này. Hiện nay mới
+có số liệu sơ bộ như sau:
+-
+Cục Công nghệ thông tin: Tổng số 62 người,
+trong đó có 11 cán bộ công chức, 45 viên chức và 6 nhân viên hợp đồng, về học v
+ấ
+n Cục hiện có
+3 người có trình độ tiến sỹ, 11 thạc sỹ và tổng số cán bộ có chuyên môn về công
+nghệ thông tin là 22 người.
+-
+Văn phòng Bộ: Có Phòng Công nghệ thông tin, với
+6 biên chế cán bộ và một số cán bộ hợp đồng. Trong số đó có 3 người có trình độ
+là thạc sỹ CNTT.
+-
+Các đơn vị thuộc Bộ Y tế đều có cán bộ phụ
+trách về ứng dụng CNTT.
+-
+Các cơ sở trực thuộc Bộ Y tế, các bệnh viện
+đã hình thành hệ thống tổ chức chuyên trách công nghệ thông tin. 95% các bệnh
+viện hạng
+I
+và hạng đặc
+biệt đ
+ã
+thành lập
+phòng CNTT, các đơn vị khác đ
+ã
+có bộ phận, cán bộ chuyên trách CNTT.
+-
+Các cơ sở y tế từ tuyến Tỉnh trở lên đã có
+cán bộ chuyên trách về công nghệ thông tin có trình độ t
+ố
+i thi
+ể
+u là Cao đẳng.
+Trung bình mỗi Sở Y tế c
+ó
+1,65 người
+và ở các đơn vị trực thuộc là 3,8 người chuyên trách có trình độ về CNTT. Nhân
+lực CNTT chiếm khoảng 1% so tổng số nhân lực y tế từ Huyện trở
+lên
+. Hầu hết các
+Sở Y tế và các cơ sở trực thuộc đã có chính sách phát
+triển
+nguồn nh
+â
+n lực công
+nghệ thông tin cho đơn vị. Tuy nhiên, chưa có chương trình đào tạo CNTT riêng đặc
+thù cho lĩnh vực y tế nên chưa có nhiều cán bộ gi
+ỏ
+i.
+Thực tế, cũng chưa có hội nghị, diễn
+đàn chia sẻ kiến thức cũng như kinh nghiệm về CNTT trong y tế. Nhìn chung,
+chuyên môn CNTT trong Y tế của cán bộ cần phải kh
+ắ
+c phục về chất lượng
+cũng như bổ sung số lượng và đây được coi là
+điểm
+cần sớm khắc phục.
+4.7. Kết luận
+Với tình trạng ứng dụng công nghệ
+thông tin trong cơ sở còn nhiều hạn ch
+ế
+dẫn đ
+ế
+n khó khăn trong giải quyết thủ tục hành
+chính trong mọi khâu. Trong đó, cán bộ các phòng, ban, khoa của cơ sở khám chữa
+bệnh tốn nhiều thời gian nhất trong việc rà soát, lập hồ sơ đề nghị thanh toán
+chi phí khám chữa bệnh bảo
+hiểm y tế để thanh toán với cơ quan BHXH.
+Bộ Y tế có chức năng quản lý nhà nước
+về bảo hiểm y tế lại gặp nhiều khó khăn trong việc tiếp cận số liệu BHYT đúng
+thời điểm báo cáo. Vì vậy, số liệu tổng hợp, báo cáo về BHYT thường lạc hậu khoảng
+3 tới 6 tháng so với thực tế. Trong khi đó, cơ sở kh
+á
+m chữa bệnh
+và cơ quan BHXH cũng như Bộ Y tế chưa có hệ thống thông tin để thực hiện quản
+lý nhà nước về BHYT. Hiện nay, với lượng tài chính dùng để chi trả cho hoạt động
+khám chữa bệnh bảo hiểm y tế khoảng 70.000 tỷ/ năm (báo cáo của BHXH tại hội
+nghị trực tuyến).
+Vì vậy, Bộ Y tế xây dựng hệ thống
+thông tin khám chữa bệnh bảo hiểm y tế là rất cần thiết và cấp b
+á
+ch.
+Chương 5
+ĐỊNH
+HƯỚNG ỨNG DỤNG CÔNG NGHỆ THÔNG TIN TRONG KHÁM CHỮA BỆNH BẢO HIỂM Y TẾ
+5.1. Nguyên tắc xây dựng
+mô hình kiến trúc hệ thống thông tin khám chữa bệnh bảo hiểm y tế
+-
+Nguyên tắc 1: Phù hợp với khung kiến trúc điện
+tử ban hành kèm theo Công văn số 1178/BTTTT-TTH ngày 21/4/2015 của Bộ Thông tin
+và Truyền thông và khung kiến trúc Chính phủ điện tử phiên b
+ả
+n 1.0 của Bộ
+Y tế kèm theo Quyết định số 5641/QĐ-BYT ngày 31/12/2015 và các văn bản hướng dẫn
+liên quan.
+-
+Nguyên tắc 2: Phù hợp với định hướng, mục
+tiêu triển khai ứng dụng công nghệ thông tin của Quốc gia và định hướng, chiến
+lược của ngành y tế.
+-
+Nguyên tắc 3: Phù hợp với quy định tại Luật Bảo
+hiểm y tế và quy định của Chính phủ về chức năng, nhiệm vụ, quyền hạn và cơ cấu
+tổ chức của Bộ Y tế đối với bảo hiểm y tế. Đảm bảo phù hợp với chiến lược, mục
+tiêu phát triển kinh tế
+- xã hội theo nghị quyết 36a/NQ-CP của Chính phủ.
+-
+Nguyên t
+ắ
+c 4: Tích hợp và chia sẻ thông
+tin
+giữa các hệ
+thống thông tin đã, đang và sẽ triển khai trong các đơn vị thuộc Bộ Y tế và giữa
+các hệ thống thông tin trong Bộ Y tế với các hệ thống thống thông tin của các
+đơn vị trực thuộc, Sở Y tế và các đơn vị y tế trên địa bàn Tỉnh.
+-
+Nguyên tắc 5: Tương thích với các tiêu chuẩn
+của Bộ Y tế đã ban hành tại Quyết định 2035/
+Q
+Đ-BYT ngày 12/06/2013 của Bộ Y tế về việc
+công bố danh mục kỹ thuật về ứng dụng công nghệ thông tin trong lĩnh vực y tế
+và Thông tư số 53/2014/TT-BYT ngày 29/12/2014 của Bộ Y tế quy định điều kiện hoạt
+động y tế trên m
+ô
+i trường mạng
+và danh mục tiêu chuẩn kỹ thuật công nghệ thông tin được quy định tại Thông tư
+22/2013/TT-BYT ngày 23/12/2013 của Bộ thông tin và Truyền thông.
+-
+Nguyên tắc 6: Phù hợp với quy trình nghiệp vụ
+của các đơn vị trong Bộ Y tế, thúc đ
+ẩ
+y chuẩn hóa quy trình nghiệp vụ, hướng đ
+ế
+n đơn giản
+hóa, hiệu quả, th
+ố
+ng nh
+ấ
+t và tường
+minh quy trình nghiệp vụ.
+-
+Nguyên tắc 7: Quản lý thông tin theo hướng tập
+trung, thống nhất, được liên thông, chia sẻ tối đa.
+-
+Nguyên tắc 8:
+Ư
+u tiên triển khai ứng
+dụng công nghệ thông tin theo các kế hoạch, chiến lược đã được ban hành của
+Chính phủ và của Bộ Y tế;
+ưu
+t
+iên
+triển khai trước các thành phần ứng dụng
+có tính cấp bách, đơn gi
+ả
+n, tần suất s
+ử
+dụng cao.
+-
+Nguyên tắc 9: Không triển khai trùng lặp với
+các Hệ thống thông tin/ Cơ sở dữ liệu quốc gia, các hệ thống thông tin chuyên
+ngành mà cần kết nối, chia sẻ, sử dụng lại.
+- Nguyên tắc 10: Đảm bảo tính an ninh,
+an toàn thông tin, có khả năng phòng chống tấn công qua mạng.
+5.2. Định hướng xây dựng
+mô hình kiến trúc hệ thống thông tin khám, chữa bệnh bảo hiểm y tế
+5.2.1.
+Định hướng xây dựng
+mô hình kiến trúc
+Kiến trúc tổng thể hệ thống thông tin
+khám, chữa bệnh BHYT là một cấu phần đ
+ồ
+ng bộ không tách rời Kiến trúc Chính phủ điện
+tử của Bộ Y tế. Hiện nay, Bộ Y tế đã ban hành phiên bản 1.0 mô hình kiến trúc tổng
+thể toàn Ngành Y tế theo quyết định số 5641/QĐ-BYT ngày 31/12/2015. Vì vậy, mô
+hình kiến trúc tổng thể hệ thống thông tin khám, chữa bệnh BHYT được xây dựng
+phải đảm bảo các thành phần kết nối và phù hợp với khung kiến trúc Chính phủ điện
+t
+ử
+phiên b
+ả
+n 1.0 của Bộ
+Y tế và khung kiến trúc Chính phủ điện
+tử
+Quốc gia phiên b
+ả
+n 1.0
+được
+hành
+tại Công văn số 1178/BTTTT-TTH ngày 21/04/2015 của Bộ Thông tin và truyền
+thông.
+Dựa trên tầm nhìn xây dựng cơ sở dữ liệu
+y tế quốc gia, xu hướng phát triển phát triển khoa học CNTT quản lý tập trung,
+thống nhất, kết nối liên thông.
+Đáp ứng yêu cầu dữ liệu để thanh toán
+BHYT của cơ quan BHXH Việt Nam, các Cơ sở KCB, cũng như đơn giản hóa thủ tục
+hành chính, nâng cao hiệu quả công tác quản lý nhà nước về BHYT và giám định
+BHYT.
+Đảm bảo khả năng kết nối và liên thông
+dữ liệu giữa các ứng dụng phục vụ quản lý nhà nước về BHYT của Bộ Y tế.
+Tương thích với các tiêu chuẩn của Bộ
+Y tế đã ban hành tại quyết
+đị
+nh 2035/QĐ-BYT ngày 12/06/2013 của Bộ Y tế về
+việc công bố danh mục kỹ thuật về ứng dụng công nghệ thông tin trong l
+ĩ
+nh vực y tế
+và thông tư số 53/2014/TT-BYT ngày 29/12/2014 của Bộ Y tế quy định điều kiện hoạt
+động y tế trên môi trường mạng và danh mục tiêu chuẩn kỹ thuật công nghệ thông
+tin được quy định tại thông tư 22/20
+1
+3/TT-BYT ngày 23/12/2013 của Bộ thông tin và
+Truyền thông.
+Mô hình kiến trúc t
+ổ
+ng thể hệ thống
+thông tin khám, chữa bệnh bảo hiểm y tế xác định theo các định hướng sau:
+1-
+Xây
+d
+ựng hệ thống ứng dụng
+CNTT thực hiện mục tiêu chung của Bộ
+Y
+t
+ế
+nhằm tổ chức giám sát, chỉ đạo toàn bộ các
+giao dịch điện t
+ử
+trong công
+tác khám chữa bệnh, từ đó tạo ra các kênh giao dịch và kênh thông tin trực tuyến
+giữa cơ sở y tế.
+Triển khai tin học hóa đầy đủ, toàn
+d
+iện các hoạt
+động nghiệp vụ khám chữa bệnh bảo hiểm y tế từ khâu tiếp đón bệnh nhân cho đến
+khi bệnh nhân ra viện tại c
+á
+c cơ sở y tế. Thông qua ứng dụng thu thập, việc lấy dữ liệu
+cũng như truyền dữ liệu từ tất cả các cơ sở y tế di
+ễ
+n ra đ
+ồ
+ng bộ đảm bảo
+các thông tin cập nhật chính xác, độ tin cậy cao. Trên cơ sở đó h
+ì
+nh th
+à
+nh kho dữ liệu
+tập trung thống nhất toàn ngành phục vụ công tác phân tích, dự báo và b
+á
+o cáo thống
+kê phục vụ công tác
+quản lý nhà nước của Bộ Y Tế nói chung và BHYT nói riêng.
+2-
+H
+ì
+nh thành một hệ thống tập trung, thống nhất
+và kết nối linh hoạt.
+Với sự phát triển mạnh mẽ của CNTT, những
+giới hạn về không gian và thời gian không còn mang tính vật lý như trước. Chính
+vì vậy, hệ thống thông tin khám chữa bệnh bảo hiểm y tế sẽ được triển khai theo
+mô hình tập trung, kết hợp phân tán nhằm hình thành một hệ thống tập trung kết
+nối, tích hợp và thống nhất, tạo nền t
+ả
+ng CNTT đ
+ể
+thực hiện các giao dịch trực tuyến, tổng hợp
+số liệu nhanh chóng, tin cậy phục vụ cho công tác quản lý khám chữa bệnh b
+ả
+o hi
+ể
+m y tế. Tập
+trung
+hóa
+cũng
+là nền t
+ả
+ng để triển
+khai việc tích hợp và trao đổi thông tin giữa các ứng dụng CNTT, điều chỉnh và
+hình thành nên các quy trình nghiệp vụ dựa trên nền tảng ứng dụng CNTT hiện đại.
+Hệ thống phải đảm bảo khả năng trao đổi
+thông tin giữa các đơn vị trong ngành y tế cũng như đảm bảo khả năng kết xuất
+và gửi dữ liệu khám chữa bệnh phục vụ giám định, thanh toán và quản lý nhà nước
+trong lĩnh vực bảo hiểm y tế. Việc kết nối giữa hệ thống ứng dụng của Bộ Y tế với
+các cơ sở y tế, cơ quan bảo hiểm và các đơn vị khác sẽ được thực hiện thông qua
+một “trục tích hợp” và được công bố, công khai trên Cổng thông tin tích hợp dữ
+liệu ngành y tế của Bộ Y tế.
+Trục tích hợp làm nhiệm vụ đảm bảo kết
+nối toàn bộ các hệ thống khám chữa bệnh tại các đơn vị y tế và cơ quan bảo hiểm
+với nhau, hình thành một chuỗi liên thông cho phép chia sẻ, tái sử dụng các
+thông tin KCB gi
+ữ
+a các đơn vị
+một cách đầy đủ, hiệu quả.
+Các đơn vị đã có hệ thống ứng dụng đáp
+ứng tiêu chuẩn kết xuất dữ liệu sẽ được kết
+nối
+liên thông vào trục tích hợp thống nhất.
+Các đơn vị chưa có hoặc các ứng dụng chưa đạt chuẩn sẽ được chuẩn hóa và sử dụng
+ứng dụng trong trục tích hợp đ
+ể
+đ
+ả
+m b
+ả
+o tính
+“đồng
+bộ và thống nhất
+”
+.
+Trên cơ sở hệ thống trục thống nhất, dữ
+liệu của toàn bộ các đơn vị được thu thập và hình thành kho dữ liệu tập trung.
+Từ đây, việc thu thập và chia sẻ thông tin dễ dàng, thuận lợi và tin cậy.
+3-
+Tối ưu hóa hạ tầng công nghệ
+Hệ thống được xây dựng trên nền tảng
+công nghệ
+t
+iên tiến trên
+thế giới và tận dụng tối đa nền tảng kỹ thuật CNTT hiện có tại Việt Nam. Hệ thống
+phải được tối ưu hóa về mặt công nghệ nhằm đảm bảo khả năng đáp ứng đầy đủ các
+quy trình nghiệp vụ khám chữa bệnh, cũng như quản lý đầy đủ các thông tin, dữ
+liệu phát sinh trong quá trình khám chữa bệnh tại các cơ sở y tế.
+Hệ thống phải được xây dựng trên mô
+hình kiến trúc tổng thể thống nhất, mềm dẻo; đặc biệt là khả năng xử lý dữ liệu
+lớn mà vẫn đảm bảo tính b
+ả
+o mật, an
+ninh, an toàn và toàn vẹn dữ liệu.
+Các dữ liệu được kết xuất và gửi về Bộ
+Y tế thông qua hệ thống mạng truyền dẫn của các nhà cung cấp dịch vụ viễn
+thông. Các bệnh viện lớn có th
+ể
+thuê đường
+truyền riêng
+(lease line) hoặc đường truyền riêng ảo (VPN), đối với các cơ sở y tế nhỏ có thể
+sử dụng dịch vụ phần mềm ứng dụng và tài nguyên phần cứng phục vụ xử lý và lưu
+trữ dữ liệu và truyền dữ liệu khám chữa bệnh bảo hiểm y tế.
+Ngoài ra, điểm quan trọng trong định
+hướng về tối ưu công nghệ là phải đ
+ả
+m bảo chi phí đầu tư thấp nhất, tuân thủ pháp
+luật về thực hành tiết kiệm đối với cơ quan nhà nước. Đồng thời, thời gian triển
+khai toàn bộ kế hoạch là ng
+ắ
+n nh
+ấ
+t để hoàn thành sứ mệnh phục vụ xã hội.
+4
+-
+Chuyên nghiệp hóa đội ngũ cán bộ
+Đội ngũ cán bộ CNTT của ngành y tế cần
+được chuyên môn hóa theo các vị trí công việc và thực hiện xây dựng, triển
+khai, quản trị, vận hành hệ thống CNTT theo quy trình được chuẩn hóa; đội ngũ
+cán bộ nghiệp vụ (nhân viên văn phòng, y bác sỹ, điều dưỡng) và điều hành có đầy
+đủ năng lực để khai thác, sử dụng các hệ thống ứng dụng CNTT hiện đại. Hình
+thành các bộ phận chuyên trách về hỗ trợ ứng dụng toàn ngành, bộ phận an toàn
+thông tin của Bộ Y tế.
+5.2.2.
+Tóm tắt thông tin
+khám chữa bệnh
+Hệ thống thông tin khám chữa bệnh bảo
+hiểm y tế là một trong các ứng dụng chuyên ngành được xếp trong mô hình tổng
+quan thông tin trong ngành Y tế. Hệ thống này sẽ tích hợp và liên thông với các
+ứng dụng chuyên ngành khác của Bộ Y tế cũng như với các đơn vị khác thông qua
+trục tích hợp dữ liệu.
+Tóm tắt trao đổi
+thông tin ngành y tế
+Như mô hình trên, ngành y tế gồm các
+nhóm thông tin phân loại, phân c
+ấ
+p theo mô hình tập trung kết hợp phân tán:
+(1)
+. Thông tin DMDC, kho dữ liệu quản lý
+tập trung tại Bộ Y tế. Các thông tin tập trung tại Bộ Y tế được quản lý, xử lý
+bằng nhiều ứng dụng chuyên ngành (QLKCB, KCB BHYT, Tiêm chủng...) của từng Vụ,
+Cục thuộc Bộ Y tế cũng như các ứng dụng nội bộ dùng chung cho Bộ Y tế như quản
+lý văn bản, thư điện t
+ử
+...
+(2)
+. Thông tin khám chữa bệnh phân tán tại
+các cơ sở KCB địa phương.
+Các thông tin này được quản lý bằng ứng dụng
+công nghệ thông tin phục vụ chuyên môn tại cơ sở KCB. Các cơ sở KCB địa phương
+kết xuất dữ liệu báo cáo theo chu
+kỳ gửi
+Bộ Y tế;
+(3)
+. Trao đ
+ổ
+i, kết nối thông tin
+với các đơn vị ngoài ngành Y tế như: Bảo hiểm xã hội (bảo hiểm y tế), các Bộ/Ngành
+địa phương khác sẽ thực hiện qua n
+ề
+n tảng chia sẻ, tích hợp dữ liệu. Các thông
+tin
+của
+các đơn vị
+ngoài ngành s
+ẽ
+kết nối với
+từng ứng dụng chuyên ngành tương ứng của các Vụ, Cục thuộc Bộ Y
+t
+ế
+;
+Mô hình kiến trúc
+Chính phủ điện tử Bộ Y tế
+5.3. Mục tiêu
+và phạm vi áp dụng
+5.3.1. T
+ầm nhìn
+Một hệ thống tổng thể:
+Hệ thống thông tin khám chữa bệnh bảo
+hiểm y tế là một thành ph
+ầ
+n trong kiến
+trúc tổng thể của Ngành y tế. Hệ thống có đầy đủ các mảng ứng dụng quản lý khám
+chữa bệnh trong phạm vi BHYT, kết nối với hệ thống của c
+ơ
+sở KCB và
+các hệ thống khác của Bộ Y tế (Quản lý cán bộ ngành y tế, y tế dự phòng...) được
+xây dựng sau này.
+Hệ thống trên nền tảng hiện đại, phù hợp
+với chuẩn quốc tế.
+Cùng với sự tiến bộ của ngành khoa học
+công nghệ thông tin, nền t
+ả
+ng công nghệ phát triển phần mềm. Các thành phần trong kiến
+trúc tổng thể hệ thống thông tin khám chữa bệnh bảo hiểm y tế được xây dựng,
+phát triển tr
+ê
+n nền tảng,
+công cụ của các h
+ã
+ng nổi tiếng
+và được đánh giá cao như Oracle, IBM, Microsoft, hoặc mã nguồn mở ph
+ổ
+biến và đã
+được
+đ
+ánh
+giá
+bởi
+các h
+ã
+ng kiểm thử
+uy tín.
+Hệ thống có tính mở và linh hoạt.
+H
+ệ
+thống thông tin khám chữa bệnh bảo hiểm y tế
+có khả năng kết nối chia sẻ thông tin người khám bệnh BHYT giữa các cơ sở KCB
+trong cùng tỉnh c
+ũ
+ng như ngoại
+tỉnh phục vụ thanh toán BHYT, chuyển tuyến và tổng hợp phân tích số liệu khám
+chữa bệnh bảo hiểm y tế.
+Hệ thống có tính
+ổ
+n định
+Với quy mô triển khai trên toàn quốc
+(14.000 cơ sở KCB), hệ thống phải đảm bảo hiệu năng cho phép tối
+thiểu
+8495 người sử
+dụng đồng thời mà không gặp vấn đề tắc nghẽn gói tin, xử lý dữ liệu tại Trung
+tâm. Các chức năng của của hệ thống có
+đ
+ầy đủ thông báo lỗi, ph
+ả
+n hồi thông
+tin cho người dùng khi sai thao tác hoặc gửi nhận dữ liệu thành công.
+5.3.2.
+Mục tiêu chung
+Mô hình kiến trúc tổng thể hệ thống
+thông tin khám chữa bệnh bảo hiểm y tế được xây dựng nhằm tạo cơ sở nền tảng
+đưa ra các yêu cầu,
+tiêu
+chuẩn một
+cách đồng bộ, thống nhất để triển khai thiết kế sơ bộ, và thiết k
+ế
+thi công đảm
+bảo xây dựng và triển khai hệ thống hiện đại, phù hợp với yêu cầu quản lý của Bộ
+Y tế và thực trạng công nghệ thông tin trong y tế tại các
+cơ sở
+KCB trên toàn
+quốc.
+5.3.3.
+Mục tiêu cụ thể
+·
+Xây dựng mô hình kiến trúc tổng thể hệ thống
+thông tin khám, chữa bệnh bảo hiểm y tế như một cấu phần đồng bộ không tách rời
+Ki
+ế
+n trúc Ch
+í
+nh phủ điện tử
+của Bộ Y tế.
+·
+Xác định các thành phần và mối quan hệ giữa
+các thành phần của kiến trúc tổng thể của Ngành y tế với hệ thống thông tin
+khám chữa bệnh bảo hiểm y tế.
+·
+Xây dựng hệ thống thông tin trong đó dữ liệu
+khám bệnh, chữa bệnh BHYT được kết nối 04 cấp với nhau (Xã, Huyện, Tỉnh, Trung
+ương).
+H
+ệ thống thông
+tin khám chữa bệnh bảo hiểm y tế sẽ kết nối với hệ thống của cơ quan BHXH để
+chia sẻ và trao đổi dữ liệu đề nghị thanh toán BHYT và kết quả giám định BHYT,
+DMDC.
+·
+Xác định lộ trình và kế hoạch tổng quát trong
+việc triển khai kiến trúc kiến trúc tổng thể hệ thống thông tin khám chữa bệnh
+bảo hiểm y tế.
+5
+.
+3.4. Phạm vi
+Mô hình kiến trúc tổng thể hệ thống
+thông tin khám, chữa bệnh BHYT có các thành phần ứng dụng, cơ sở dữ liệu, hạ tầng
+kỹ thuật với phạm vi như sau:
+·
+Các ứng dụng tập trung tại Bộ Y tế
+-
+Cổng thông tin tích hợp dữ liệu khám chữa bệnh
+bảo hiểm y tế;
+-
+Hệ thống quản lý danh mục dùng chung;
+-
+Hệ thống thu nhận dữ liệu và thanh toán BHYT;
+-
+Trục tích hợp dữ liệu;
+-
+Kho dữ liệu;
+-
+Hệ thống phân tích, báo cáo thống kê.
+·
+Các ứng dụng tại cơ sở KCB
+-
+Hệ thống quản lý cơ sở KCB (HIS);
+-
+Ứ
+ng dụng liên thông (Gateway);
+·
+Hệ thống có liên quan ngoài phạm vi:
+-
+Hệ thống giám định BHYT của cơ quan BHXH;
+-
+Chức năng kiểm tra thông tin KCB BHYT của
+BHXH.
+·
+Phạm vi triển khai:
+-
+Triển khai tại Bộ Y tế, cơ quan bảo hiểm xã hội,
+các cơ sở khám chữa bệnh trên toàn quốc, các đơn vị có liên quan khác.
+Chương 6
+MÔ HÌNH
+KIẾN TRÚC
+6.1. Mô hình kiến
+trúc tổng thể hệ thống thông tin khám, chữa bệnh bảo hiểm y tế
+Mô hình kiến trúc tổng thể hệ thống
+thông tin khám, chữa bệnh bảo hiểm y tế thể hiện các thành phần cần có phục vụ
+quản lý khám chữa bệnh bảo hiểm y tế, để đảm bảo đáp ứng các yêu cầu sử dụng, vận
+hành và qu
+ả
+n lý của Bộ Y
+tế, kết nối dữ liệu với hệ thống của cơ quan BHXH.
+Mô hình kiến trúc thể hiện các luồng
+thông tin, các thành phần mang tính định hướng cần phải đáp ứng đối với việc
+thiết kế chi tiết và triển khai các mảng ứng dụng trong hệ thống thông tin khám
+chữa bệnh bảo hiểm y tế cũng như các ứng dụng khác của ngành y tế.
+Căn cứ các yêu cầu về định hướng của
+mô hình kiến trúc tổng thể hệ thống th
+ô
+ng tin khám, chữa bệnh BHYT, các nhà cung cấp
+phần mềm phải đảm bảo thực hiện theo các nguyên tắc triển khai có tính bắt buộc
+bao gồm:
+·
+Phù hợp định hướng chiến lược phát triển ứng
+dụng công ngh
+ệ
+thông tin
+trong toàn ngành Y tế;
+·
+Đáp ứng đầy đủ y
+ê
+u cầu nghiệp
+vụ khám chữa bệnh, thanh toán BHYT và yêu cầu kỹ thuật, nghiệp vụ của ứng dụng;
+·
+Là một cấu ph
+ầ
+n đồng bộ không tách
+rời hệ thống hành chính công (chính p
+h
+ủ điện t
+ử
+) của Bộ Y tế;
+·
+Sử dụng, phát triển và quản lý thống nhất các
+danh mục dùng chung;
+·
+Sử dụng, phát triển và quản lý thống nhất các
+chuẩn trao đ
+ổ
+i dữ liệu giữa
+các đơn vị trong Bộ Y tế và các đơn vị bên ngoài có
+liên
+quan được Bộ
+Y tế ban hành.
+·
+Đảm bảo khả năng chia sẻ thông tin với các hệ
+thống thông tin khác của Bộ Y tế và các hệ thống thông tin giữa Bộ Y tế và các
+hệ thống thông tin bên ngoài thông qua giao thức và tiêu chuẩn được định nghĩa
+trong nền tảng tích hợp chính phủ điện
+tử
+của Bộ Y tế;
+·
+Danh mục dữ liệu dùng chung được sử dụng như
+một từ điển thống nhất về các loại
+dữ liệu
+dùng chung và ý nghĩa
+thông tin được sử dụng trên toàn bộ các hệ thống thông tin của Bộ Y tế, cơ sở
+khám chữa bệnh và cơ quan BHXH.
+·
+Quản lý, lưu trữ và khai thác dữ liệu y tế tập
+trung và bảo đảm an toàn, bảo mật dữ liệu y tế trên đường truyền và lưu trữ;
+·
+Áp dụng các công nghệ hiện đại
+liên
+quan tới liên
+thông và tích hợp thông tin, dịch vụ, di động, phân tích dữ
+liệu
+l
+ớ
+n.
+6.1.1.
+Thành phần mô hình kiến
+trúc tổng th
+ể
+hệ thống
+thông tin khám chữa bệnh bảo
+hiểm
+y tế
+Hệ thống thông tin khám chữa bệnh bảo
+hiểm y tế có 2 phần.
+Phần 1: Tại cơ sở khám chữa bệnh
+·
+Hệ thống các ứng dụng phục vụ cơ sở khám chữa
+bệnh kết xuất dữ liệu theo Công văn số 9324/BYT-BH;
+·
+Ứ
+ng dụng liên thông (Gateway) là thành phần kết
+nối, chuyển dữ liệu từ cơ sở KCB tới cơ quan BHXH và Bộ Y tế
+Phần 2: Các ứng dụng tập trung
+·
+Cổng thông tin tích hợp dữ liệu KCB BHYT: gồm
+cổng chính của Bộ Y tế và các c
+ổ
+ng thành phần được phân quyền (63 c
+ổ
+ng con) cho
+các Sở Y tế có thiết kế theo kiến trúc hướng dịch vụ (SOA), tích hợp đa nền tảng.
+·
+Cổng thông tin tích hợp dữ liệu KCB BHYT là
+nơi đặt giao diện tương tác hai chiều với người dùng của các ứng dụng dịch vụ
+phục vụ quản lý thông tin khám chữa bệnh bảo hiểm y tế.
+·
+Các ứng dụng dịch vụ: gồm hệ thống quản lý
+Danh mục dùng chung, hệ thống thu nhận dữ liệu và thanh toán KCB BHYT, hệ thống
+kết xuất thông tin, phân tích, thống kê báo cáo số liệu khám chữa bệnh bảo hiểm
+y
+tế.
+·
+Trục tích hợp dữ liệu cho phép điều phối dữ
+liệu từ hệ thống của cơ sở y tế về Bộ Y tế và cơ quan bảo hiểm cũng như các ứng
+dụng chuyên ngành khác của Bộ Y tế.
+·
+Kho dữ liệu cho ph
+é
+p tiếp nhận,
+lưu trữ, xử lý và khai thác tập trung các dữ liệu khám chữa bệnh và thanh toán
+BHYT từ cơ sở y tế phục vụ công tác quản lý nhà nước về BHYT, báo cáo - thống
+kê và dự báo của ngành Y tế.
+Bộ Y tế tham gia hệ thống với vai trò
+là đơn vị chủ trì thuê dịch vụ, có khả năng xem và lấy dữ liệu khám chữa bệnh
+BHYT theo thời gian thực phục vụ các nhiệm vụ quản lý Nhà nước về bảo hiểm y tế.
+Cơ sở khám chữa bệnh phải đảm bảo kết xuất dữ liệu đ
+ề
+nghị thanh
+toán theo quy định hiện hành do Bộ Y tế ban hành. Cơ quan Bảo hiểm xã hội Việt
+Nam nhận dữ liệu đề nghị thanh toán chi phí khám chữa bệnh BHYT từ cơ sở khám
+chữa bệnh để giám định, kết quả giám định sẽ trả về cho cơ sở y tế thông qua cổng
+tiếp nhận dữ liệu hệ thống thông tin giám định bảo hiểm y tế (cổng giám định) của
+cơ quan BHXH.
+Giải pháp phần mềm tập trung tại Trung
+ương cần được đ
+ả
+m
+bảo
+yêu cầu cao
+và phải được xây dựng trên các n
+ề
+n tảng công nghệ tiên ti
+ế
+n và có
+điểm
+đánh giá
+(benchmark) công bố rộng rãi trên thế giới như (Oracle/IBM/SAP/SUN hoặc tương
+đương) có khả năng xử lý dữ liệu lớn, liên tục cũng như đảm bảo tính bảo
+mật, an toàn,
+an ninh, toàn vẹn dữ liệu.
+Hệ thống c
+ầ
+n có đầy đủ
+các chức năng triển khai tại cơ sở y tế và tại Bộ Y tế. Yêu cầu chung đối với
+các mảng ứng dụng cơ bản như sau:
+1.
+Các ứng dụng tập trung phục vụ tiếp nhận
+và truyền tải dữ liệu đề nghị thanh toán KCB BHYT do các cơ sở y tế chuyển về.
+Các phân hệ này làm nhiệm vụ tiếp nhận, bóc tách và chuyển dữ liệu được các cơ
+sở y tế kết xuất theo quy chuẩn đưa vào lưu trữ tại kho lưu trữ của Bộ Y tế và
+Cơ quan Bảo hiểm xã hội Việt Nam. Các cán bộ chuyên trách có khả năng giám sát,
+theo dõi trạng thái hồ sơ đề nghị thanh toán KCB BHYT một cách trực quan. Có
+phân hệ/hệ thống Quản lý các cập nhật về DMDC trên toàn quốc, có khả năng đồng
+bộ danh mục với cơ quan BHXH và các cơ sở KCB.
+2.
+Các ứng dụng phục vụ tích hợp cho phép
+kết nối đa nền tảng đảm bảo nhiều ứng dụng khác nhau kết nối lên C
+ổ
+ng tích hợp dữ
+liệu của Bộ Y tế; đặc biệt là khả năng tích hợp với các phân hệ phần mềm tại cơ
+sở y tế và hệ thống giám định bảo hiểm của cơ quan bảo hiểm xã hội Việt Nam.
+3.
+Các ứng dụng phục vụ khai thác, báo
+cáo, thống kê, phân tích và dự báo. Phân hệ này cung cấp các công cụ hỗ trợ Bộ
+Y tế và các cơ sở y tế, các đơn vị có nhu cầu có th
+ể
+khai thác
+các thông tin khám chữa bệnh thông qua C
+ổ
+ng tích hợp dữ liệu của Bộ Y tế. Các ứng dụng
+cho phép tổng hợp và kết xuất các chỉ tiêu chuyên ngành y tế phục vụ công tác
+quản lý nhà nước của Bộ Y tế.
+4.
+Hệ thống cơ sở hạ tầng CNTT, mạng truyền
+dẫn phục vụ vận hành và truyền tải dữ liệu giữa các cơ sở y tế, Cơ quan bảo hiểm
+và Bộ Y tế. Đặc biệt, thiết bị máy chủ phải đồng bộ hỗ trợ tối đa cho công nghệ
+nền tảng phát triển ph
+ầ
+n m
+ề
+m tập trung tại
+Bộ Y tế.
+5.
+Các ứng dụng phục vụ công tác khám chữa
+bệnh bảo hiểm y tế tại các cơ sở y tế như phần mềm HIS, LIS, RIS/PACS. Các phần
+mềm này phải đảm b
+ả
+o các chức
+năng phục vụ công tác quản lý thông tin khám chữa bệnh bảo hiểm y tế theo đặc
+thù của mỗi đơn vị, đồng thời đáp ứng khả năng kết xuất dữ liệu KCB theo khuôn
+dạng chuẩn dữ liệu được Bộ Y tế và BHXH ban hành (hiện nay, khuôn dạng dữ liệu
+đầu ra tuân thủ quy định tại Công văn số 9324/BYT-BH ngày 30/11/2015 và Quyết định
+số 917/QĐ-BHXH ngày 20/6/2016. Trong quá trình triển khai, các cơ sở KCB thực
+hiện theo văn bản hướng dẫn bổ sung, chỉnh sửa, cập nhật dữ liệu và quy chuẩn hồ
+sơ đề nghị thanh toán chi phí KCB BHYT do Bộ Y tế ban hành về việc kết xuất
+h
+ồ sơ đề nghị
+thanh toán chi phí KCB BHYT).
+6.1.2. Mô hình trao đổi thông tin trong Hệ thống
+thông tin khám, chữa bệnh bảo hiểm y tế
+6.1.3. Mô hình kiến trúc hệ thống khám, chữa
+bệnh bảo hiểm y tế
+6.2. Các yếu tố ảnh
+hưởng đến kiến trúc hệ thống
+6.2.1.
+Các yếu tố hiệu năng,
+b
+ả
+o mật cần đáp
+ứng
+·
+Số lượng hồ sơ đề nghị thanh toán BHYT:
+1.000.000 hồ sơ/ngày.
+·
+Số lượng người dùng truy cập đồng thời hệ thống
+để chuyển dữ liệu đề nghị thanh toán: 8495 (50% số lượng truy cập kiểm tra lạm
+dụng thẻ BHYT).
+·
+Số lượng người dùng truy cập đồng thời kiểm
+tra lạm dụng thẻ BHYT: 16.990 (10 người x 40 cơ sở luyến Trung ương, 5 người x
+1096 cơ sở tuyến T
+ỉ
+nh/Huyện, 1
+người x 11.110
+t
+rạm y tế).
+·
+Yêu cầu xử lý real time/batch: 1.000.000.
+·
+Yêu cầu xử lý online/offline: Các cơ sở y tế
+có khả năng làm việc offline.
+·
+Bảo mật:
+-
+Hỗ trợ cơ chế đ
+ă
+ng nhập một lần và
+tích hợp chữ ký số, thiết bị bảo mật chuyên dụng, quy chế sử dụng
+-
+Các dữ liệu được trao đ
+ổ
+i trên mạng
+phải được nén, m
+ã
+hóa và khi
+có y
+ê
+u cầu xác nhận
+từ người gửi phải sử dụng chứng thư số CA;
+-
+Giao thức vận chuyển phải có khả năng bảo mật
+cao;
+-
+Có phương án b
+ả
+o mật tổng thể về mạng,
+ứng dụng và CSDL và kho dữ liệu tập trung;
+·
+Yêu cầu backup/sao lưu dữ liệu:
+-
+Đảm bảo tính sẵn sàng gồm môi trường vận hành
+chính, môi trường dự phòng, môi trường ki
+ể
+m thử/đào tạo;
+-
+Mô hình vận hành hệ thống lưu trữ gồm hệ thống
+lưu trữ dữ liệu và hệ thống sao lưu dữ liệu. Quy trình sao lưu theo thời gian
+hàng ngày, hàng tuần, tháng, năm.
+6.2.2.
+Kh
+ả
+năng tích hợp
+của hệ thống
+-
+Hệ thống thông tin khám, chữa bệnh bảo hiểm y
+tế là hệ thống tổng thể, trong đó Hệ thống của các cơ sở khám chữa bệnh có thể
+kết nối tự động và bán tự động với Cổng thông tin tích hợp dữ liệu ngành y tế.
+Việc tích hợp,
+kết
+nối
+phụ
+thuộc vào mức độ sẵn sàng của hệ thống được cài đặt tại cơ sở y tế. Giai đoạn
+đầu
+dữ liệu sẽ kết
+nối trực tiếp với C
+ổ
+ng thông tin
+tích hợp dữ liệu ngành y tế, trong quá trình vận hành hệ thống, các đơn vị s
+ẽ
+phải
+đề xuất
+lộ trình tích
+hợp tự động cho tất cả các cơ sở y tế thông qua trục tích hợp dữ liệu.
+6.2.3.
+Khai thác dữ liệu
+Hệ thống tập trung tại Bộ Y tế cho
+phép kết xuất báo cáo, phân tích, dự báo phù hợp với đặc thù hoạt động của Bộ Y
+tế.
+Đ
+ả
+m bảo kh
+ả
+năng kết xuất các dữ liệu chỉ tiêu chuyên
+ngành
+y
+tế.
+Các cơ sở y tế có kh
+ả
+năng vận
+hành hệ thống, kết xuất dữ liệu đề nghị thanh toán khi không có kết nối mạng
+(offline)
+·
+Hệ thống cho phép hoạt động trên dữ liệu
+offline tại đơn vị khi không có kết nối mạng;
+·
+Hệ thống đảm bảo tự động kết nối đồng bộ dữ
+liệu offline với CSDL trung tâm ngay khi có kết nối mạng.
+6.3. Nguyên tắc triển
+khai
+Triển khai kiến trúc tổng thể hệ thống
+thông tin khám chữa bệnh bảo hiểm y tế của Bộ Y tế còn cần tuân theo các nguyên
+tắc cơ b
+ả
+n sau:
+a)
+Chuẩn hóa: Giai đoạn này cần xác định
+nhiệm vụ trọng tâm trong việc ban hành và hoàn thiện các tiêu chuẩn, quy chuẩn
+và giải pháp làm nền tảng cho việc thực thi kiến trúc. Mục đích của giai đoạn
+này là thiết lập được môi trường hoàn chỉnh, phục vụ cho việc triển khai và ứng
+dụng kiến trúc một cách bền v
+ữ
+ng.
+Song song với việc chuẩn hóa là xây dựng
+các thành phần hệ thống thông tin khám chữa bệnh bảo hiểm y tế của Bộ Y tế phù
+hợp kế hoạch ứng dụng công nghệ thông tin 2016 - 2020 của Bộ Y tế. Đảm bảo các
+hệ thống này tương thích với các
+tiêu
+chuẩn kỹ thuật về công nghệ thông tin
+do Bộ Thông tin truyền thông và Bộ Y tế ban hành.
+b)
+K
+ế
+t nối, liên thông: Nhiệm vụ trọng tâm của
+giai đoạn này là hoàn thiện các giải pháp và kết nối liên thông toàn hệ thống,
+hiện thực hóa việc chia sẻ và trao đổi thông tin.
+c)
+Tích hợp: các thành phần hệ thống
+thông tin khám chữa bệnh bảo hiểm y tế vào trục tích hợp của Bộ Y tế và tích hợp
+các hệ thống thông tin chuyên ngành, hệ thống quản lý điều hành vào cổng thông
+tin nghiệp vụ của Bộ Y tế.
+d)
+Tối
+ưu
+: Nhiệm vụ chính
+trong giai đoạn này là duy trì sự hoạt động ổn định của hệ thống, cập nhật và
+triển khai các nghiệp vụ mới nhằm theo kịp với xu hướng phát triển của xã hội (
+b
+ao gồm cả
+công nghệ và dịch vụ).
+Chương 7
+CÁC
+THÀNH PHẦN VÀ YÊU CẦU KỸ THUẬT
+7.1. Yêu cầu chung
+Toàn bộ các hạng mục phần mềm được xây
+dựng phải đáp ứng yêu cầu nghiệp vụ, đảm bảo đủ chức năng sử dụng cho
+người
+dùng cuối. Đối
+với các thiết bị ph
+ầ
+n cứng, công
+nghệ phát triển phần mềm, phần mềm hệ thống phải có điểm benchmark được công bố
+rộng rãi toàn cầu (ngoại trừ các thiết bị CNTT phổ thông như máy trạm, máy in).
+Các thiết bị CNTT phải được kiểm thử loại b
+ỏ
+m
+ã
+độc truyền tín hiệu tới địa chỉ không đúng.
+Tất cả các chương trình, hệ thống ứng
+dụng tham gia vào quá trình thanh toán BHYT điện tử để bảo đảm kết nối đến các
+thành phần của phần mềm nền tảng thông qua trục tích hợp, các ứng dụng phải được
+hỗ trợ chuẩn thông điệp (message) là XML và hỗ trợ các chuẩn về giao thức vận chuyển
+(transport protocol) như: Web service, FTP, SFTP, JMS ...
+Yêu cầu chung đối với việc kết xuất Hồ
+sơ đề nghị thanh toán chi phí khám chữa bệnh BHYT. Hệ thống quản lý tại cơ sở
+khám chữa bệnh đảm bảo:
+·
+Đảm bảo kết xuấ
+t
+đủ dữ liệu đầu ra phục
+vụ thanh toán BHYT theo quy định của Bộ Y tế và cơ quan BHXH.
+·
+Tuân thủ hướng dẫn kết xuất dữ liệu do Bộ Y tế
+ban hành thống nhất;
+Các hệ thống quản lý bệnh viện, phòng
+khám, trung tâm y tế, trạm y tế (đã có, phải b
+ổ
+sung, cấp mới) tại
+các cơ sở KCB tham gia hệ thống thanh toán BHYT điện tử, bảo đảm yêu cầu quy
+trình luồng nghiệp vụ theo sơ đồ sau:
+Mô hình tiến trình
+khám chữa bệnh và thanh toán bảo hiểm y tế
+Mô
+tả quy trình:
+(1)
+. Cơ sở khám chữa bệnh nhập thông tin
+người khám, chữa bệnh;
+(2).
+Xác thực đối tượng tham gia bảo hiểm y
+tế (tình hạng thẻ, đối tượng, mức chi trả, lịch sử khám...);
+(3)
+. Truy cập chức năng kiểm tra thông
+tin thẻ BHYT do cơ quan BHXH cung cấp để kiểm tra hiệu lực, lịch sử khám, chữa
+bệnh;
+(4)
+. Thực hiện nghiệp vụ khám, chữa bệnh;
+(5)
+. Kết xuất dữ liệu khám chữa bệnh bảo
+hiểm y tế và đóng gói thành Hồ sơ đề nghị thanh toán chi phí khám chữa bệnh bảo
+hiểm y tế (Hồ sơ);
+(6)
+. Gửi đồng thời Hồ sơ đề nghị thanh
+toán chi phí khám chữa bệnh bảo hiểm y tế về BHXH và Bộ Y tế;
+(7)
+. Cơ quan BHXH tiếp nhận Hồ sơ, phản hồi
+thông tin tiếp nhận cho cơ sở khám chữa bệnh ngay khi nhận được hồ sơ. Ti
+ế
+n hành giám định
+và trả kết quả giám định cho cơ sở khám chữa bệnh, Sở Y tế, Bộ Y tế thông qua cổng
+giám định của
+BHXH.
+7.2. Cổng thông tin
+tích hợp dữ liệu khám chữa bệnh bảo hiểm y tế
+Cổng thông tin tích hợp dữ liệu KCB
+BHYT là một trong các thành phần ứng dụng tập trung tại Bộ Y tế, phục vụ quản
+lý dữ liệu thông tin khám, chữa bệnh BHYT của Bộ Y tế.
+C
+ổng thông tin
+tích hợp dữ liệu KCB BHYT cho phép tích hợp đa nền tảng, đa CSDL chuyên ngành của
+Bộ Y tế và các ngành liên quan. C
+ổ
+ng thông tin tích hợp dữ liệu KCB BHYT trong
+hệ thống thông tin khám chữa bệnh BHYT là điểm kết
+nối
+dữ liệu của
+các ứng dụng, c
+ầ
+n phải đáp ứng
+những yêu c
+ầ
+u như:
+·
+Tích hợp với Cổng thông tin điện tử đã có của
+Bộ Y tế;
+·
+Có đầy đủ các tính năng quản lý người dùng
+(roles), nhóm vai trò (group roles) khác nhau và tạo ra cơ chế đăng nhập một lần;
+·
+Cung cấp các chức năng gửi dữ liệu thanh toán
+BHYT cho Cơ sở KCB chưa có phần mềm ứng dụng;
+·
+Tích hợp các ứng dụng dịch vụ: quản lý các
+Danh mục dùng chung và các thông tin liên quan; kiểm soát lạm dụng thẻ BHYT; quản
+lý thông tuyến, quản lý lưu
+trữ
+hồ sơ thanh toán BHYT; quản lý hồ sơ chuyển
+tuyến...
+Các ứng dụng được tích hợp vào Cổng tích
+hợp dữ liệu KCB BHYT đảm bảo cung cấp các yêu cầu chức năng cho người dùng như
+sau:
+·
+Giám sát được quá trình chuyển hồ sơ thanh
+toán BHYT lên cổng tích hợp dữ liệu;
+·
+Kiểm tra tính toàn vẹn và thông tin xác nhận
+hồ sơ thanh toán BHYT đã gửi thành công từ cơ quan BHXH;
+·
+Xem kết quả giám định: Hồ sơ xuất toán, hồ sơ
+đã được chấp nhận thanh toán;
+·
+Chuyển kết quả thanh toán BHYT vào kho dữ liệu
+tập trung;
+·
+Thống kê
+số
+liệu các cấp về thanh toán BHYT theo
+yêu cầu;
+·
+Bệnh viện huyện có thể xem được các hồ sơ
+thanh toán BHYT của tất các Cơ sở KCB BHYT tuyến xã và tương đương (liên thông
+KCB BHYT tuyến Huyện);
+·
+Sở y tế có thể xem được các hồ sơ thanh toán
+BHYT của tất các cơ sở KCB BHYT tuyến huyện và tương đương trong toàn tỉnh
+(liên thông KCB BHYT tuyến Tỉnh);
+·
+Bộ y tế có thể xem được các hồ sơ thanh toán
+BHYT của tất các cơ sở KCB BHYT trên tất cả các tuyến (liên thông KCB BHYT toàn
+quốc);
+·
+Cung cấp các báo cáo thống kê, phân tích dữ
+liệu
+nhanh
+, biểu thị dưới
+dạng biểu đồ, đồ thị (dashboard), phục vụ quản lý nhà nước của Bộ Y tế về Bảo
+hiểm y tế với số liệu được tổng hợp từ 14.000 cơ sở KCB.
+Các yêu
+cầu
+kỹ thuật, công nghệ
+phải đảm bảo các nội dung theo phụ lục yêu cầu cổng tích hợp dữ liệu.
+7. 3 Hệ thống quản lý
+Danh mục dùng chung
+Hệ thống cơ sở dữ liệu Danh mục dùng
+chung là phần mềm quản lý tập trung theo phân cấp các bộ mã danh mục dùng chung
+do Bộ Y tế ban hành và quản lý nhà nước. Hệ thống cho phép cơ sở KCB đề xuất, Sở
+Y tế, Bộ Y tế chuẩn hóa. Dữ liệu được khai thác chung trong ngành y tế và chia
+sẻ với BHXH trên hệ thống. Hệ thống cơ sở dữ liệu Danh mục dùng chung cần đảm bảo
+yêu cầu chức năng cụ thể như sau:
+-
+Quản lý bộ mã của các danh mục dùng chung do
+Bộ Y tế ban hành. Giúp Bộ Y tế chủ động tổng hợp, rà soát và quản lý nhà nước về
+danh mục dùng chung.
+-
+Có các quy trình đ
+ề
+xuất, chuẩn
+hóa, phê duyệt, ban hành, chia sẻ bộ mã danh mục dùng chung từ cấp địa phương
+lên Trung ương.
+-
+Quản lý bộ m
+ã
+danh mục dùng chung
+cấp tỉnh và cho phép các cơ sở KCB trên địa bàn tỉnh sử dụng, đồng bộ cập nhật
+về cơ sở để thực hiện áp dụng.
+-
+Sở Y tế quản lý thông tin đấu thầu trên địa
+bàn; cho phép xác định phạm vi thanh toán danh mục dùng chung do Sở Y tế hoặc
+cơ sở KCB thực hiện đấu thầu.
+-
+Tự động danh mục dùng chung
+đã
+chuẩn hóa vào
+hệ thống của cơ sở KCB.
+-
+Thống kê, giám sát theo phân cấp quá trình
+chuẩn hóa bộ mã danh mục dùng chung của các cơ sở KCB, các địa phương trên toàn
+quốc.
+7.4. Trục tích hợp dữ
+liệu (Enterprise Sevice Bus-ESB)
+Khi triển khai hệ thống trục tích hợp
+dữ liệu ESB, thay vì tương tác trực tiếp, các ứng dụng của Bộ Y tế sẽ giao tiếp
+thông qua một kênh (bus); kênh này cung cấp các đặc tính công nghệ ảo hóa và quản
+lý để triển khai thực hiện và mở rộng định nghĩa cốt lõi của SOA
+(Service-Oriented Architecture - Kiến trúc định hướng dịch vụ). Trục tích hợp
+là một
+tr
+ong các thành
+phần của nh
+ó
+m phần mềm nền
+tảng lớp giữa (middleware) dựa trên các công nghệ IBM, Oracle, Microsoft,... Trục
+tích hợp dữ liệu cung cấp các đặc tính về:
+·
+Quản lý, phân phối dữ liệu: được sử dụng để hỗ
+trợ việc tích hợp và trao đổi thông tin giữa các ứng dụng, phần mềm trong hệ thống
+tổng th
+ể
+có nhiều mảng
+ứng dụng khác nhau. Mục đích của ESB là làm cho việc tích hợp các ứng dụng và
+quy trình trở nên thuận tiện hơn bằng cách cung cấp một quy trình phân tán, điều
+hướng thông minh, bảo mật và có thể tự động chuyển đổi dữ liệu.
+·
+Quản lý quy trình: là một giải pháp mô hình
+hóa, tự động hóa, quản lý và tối ưu hóa quy trình nghiệp vụ nhằm đem lại lợi
+ích lớn nh
+ấ
+t cho một tổ
+chức, cung cấp các công cụ để mô hình hóa, thiết kế, phát triển, giả lập, triển
+khai, giám sát các quy trình nghiệp vụ của tổ chức đó.
+·
+Giám sát quy trình: cung cấp các chức năng để
+theo dõi hoạt động quy
+trình của các thành phần trong hệ thống phần mềm nền tảng.
+·
+Các chuẩn và kiến trúc lập trình: Theo kiến
+trúc của hệ thống chính quyền điện tử, các ứng dụng sẽ kết nối đến các thành phần
+của phần mềm nền tảng thông qua trục tích hợp. Hiện nay các sản phẩm trục tích
+hợp được sử dụng phổ biến đều có thể tích hợp với g
+ầ
+n như toàn bộ
+các ứng dụng, kể cả các hệ thống chuyên dụng như ERP, các phần mềm tài chính với
+các kết nối đặc trưng của ngành tài chính, như OFS, hoặc các ứng dụng đã được
+viết từ lâu với các ngôn ngữ COBOL,...Tuy vậy đ
+ể
+việc kết nối tích hợp
+một cách dễ dàng, tốn ít thời gian và công sức nhất, các ứng dụng nên hỗ trợ
+chuẩn thông điệp (message) là XML, các chuẩn trao đổi dữ liệu trong y tế như
+HL7, DICOM và hỗ trợ các chuẩn về giao thức vận chuyển (transport protocol),
+tiêu chuẩn báo cáo thống kê trong y tế (SDMX-HD).
+·
+Địa điểm và nhân dạng: Các phần mềm ứng dụng
+của Bộ Y tế không cần biết địa
+điểm
+hoặc nhân dạng của các phần mềm ứng dụng tham
+gia khác trong cùng hệ thống. Ví dụ, ứng dụng yêu cầu lấy dữ liệu không cần phải
+biết r
+ằ
+ng một yêu cầu
+có thể được phục vụ bởi
+bất
+kỳ
+một hệ thống ứng dụng cung cấp dịch vụ nào. Phần mềm ứng dụng (gồm cơ sở dữ liệu)
+cung cấp dịch vụ có thể được thêm vào hoặc gỡ bỏ mà không làm đổ vỡ hệ thống.
+·
+Giao thức tương tác: Những phần mềm ứng dụng
+tham gia kết nối và chia s
+ẻ
+dữ liệu với nhau không cần phải chia sẻ cùng một giao thức
+giao tiếp hay dạng tương tác. Một yêu cầu được biểu diễn dưới dạng SOAP/HTTP có
+thể được phục vụ b
+ở
+i một bên
+cung cấp thứ 3.
+·
+Giao diện: Các phần mềm ứng dụng yêu cầu dữ
+liệu và phần mềm ứng dụng cung cấp dữ liệu không cần phải thống nhất về một giao
+diện chung. ESB hóa giải các sự khác nhau b
+ằ
+ng cách chuyển đổi các thông báo y
+ê
+u cầu thành một
+khuôn dạng mà phần mềm yêu cầu lấy dữ liệu c
+ầ
+n thiết.
+·
+Chất lượng (Tương tác) Dịch vụ (QoS): Các phần
+mềm ứng dụng tham
+gia
+khai b
+á
+o các yêu cầu
+QoS của mình, bao gồm cả hiệu năng và độ tin cậy, quyền hạn của các yêu cầu, mã
+hóa/giải mã, toàn vẹn các nội dung thông báo, kiểm tra tự động các tương tác dịch
+vụ và việc định tuy
+ế
+n các yêu cầu
+ấy như thế nào (ví dụ như đi đến bản triển khai thực hiện đang sẵn sàng, dựa
+trên tiêu chí về phân tải công việc). Các chính sách mô tả các yêu cầu và khả
+năng QoS của những b
+ê
+n yêu cầu và
+bên cung cấp dịch vụ có
+thể
+được
+chính các dịch vụ thỏa m
+ã
+n hoặc được
+thỏa m
+ã
+n bởi ESB qua
+việc bù trừ các
+chỗ
+không
+ăn khớp.
+Một ESB cần phải hỗ trợ nhiều loại
+hình tương tác, bao gồm một chiều, yêu cầu/đáp ứng, không đồng bộ, đồng bộ và
+công b
+ố
+/đăng ký. Nó
+c
+ũ
+ng hỗ trợ quá
+trình xử lý sự kiện phức tạp trong đó một loạt các sự kiện có th
+ể
+được quan
+sát đ
+ể
+sinh ra một
+sự kiện như là một hệ quả của các m
+ố
+i quan hệ trong loạt sự kiện.
+ESB được chèn vào giữa các phần mềm ứng
+dụng tham gia hệ thống tổng thể đảm bảo yêu cầu điều biến sự tương tác của
+chúng thông qua một cấu kiện logic được gọi là một thành phần hòa giải
+(mediation). Các thành phần hòa giải hoạt
+đ
+ộng với các thông báo
+đ
+ang trên đường
+truyền d
+ẫ
+n giữa những
+bên yêu c
+ầ
+u (consumer)
+và cung cấp dịch vụ (provider). Đối với các tương tác phức tạp, các thành ph
+ầ
+n hòa giải có
+th
+ể
+móc
+nối
+theo tu
+ầ
+n tự. Mục Các
+m
+ẫ
+u hòa giải
+(Mediation patterns) sẽ phải thể hiện được các mẫu hòa giải chung được triển
+khai, QoS và các khái niệm quản lý này.
+Ngoài ra, ESB phải đảm bảo cung cấp một
+cách tiếp cận linh hoạt và d
+ễ
+quản lý để triển khai thực hiện SOA. Được chèn trong suốt
+giữa các điểm đầu cuối, kênh này nâng cao chất lượng dịch vụ; tạo điều kiện thuận
+lợi cho các tương tác giữa phần mềm ứng dụng y
+ê
+u cầu dữ liệu - phần
+mềm ứng dụng cung cấp dữ liệu mặc dù các giao thức, các mẫu tương tác hay các
+kh
+ả
+năng dịch vụ
+không hoàn toàn ăn kh
+ớ
+p và cho phép
+giám sát và quản lý.
+7.5. Ứng dụng liên
+thông dữ liệu khám chữa bệnh BHYT
+Tại cơ sở khám chữa bệnh sẽ được triển
+khai ứng dụng liên thông (Gateway) phục vụ kết nối, chuyển dữ liệu đề nghị
+thanh toán chi phí khám chữa bệnh BHYT về cổng giám định của BHXH và về Bộ Y tế.
+Ứ
+ng dụng liên thông dữ liệu là giải pháp cho
+phép chuyển đồng thời dữ liệu đề nghị thanh toán từ cơ sở KCB tới cơ quan BHXH
+và Bộ Y tế.
+Ứ
+ng dụng liên
+thông dữ liệu KCB BHYT là điểm điều phối dữ liệu đề nghị thanh toán BHYT, cần
+có các yêu cầu sau:
+·
+Đồng bộ và thống nhất với cổng tích hợp dữ liệu
+khám chữa bệnh BHYT của Bộ Y tế;
+·
+Giao tiếp và chuyển đồng thời dữ liệu đề nghị
+thanh toán chi phí khám chữa bệnh bảo hiểm y tế tới cổng tiếp nhận của Cơ quan
+BHXH và Bộ Y tế
+.
+7.6. Cơ sở dữ liệu,
+kho dữ liệu
+7.6.1.
+Kho dữ liệu
+Quy mô dữ liệu trong phạm vi quản lý
+KCB và thanh toán BHYT tương đ
+ối
+lớn (về chủng loại, số lượng...). Vì vậy,
+các công nghệ lưu trữ thông thường s
+ẽ
+không đem lại hiệu quả cao trong việc khai
+thác, phân tích, thống kê, tổng hợp. Kho dữ liệu (Data Warehouse) được xây dựng
+là r
+ấ
+t phù hợp đối
+với điều kiện hiện tại cũng như phù hợp xu hướng phát triển trong tương lai.
+Dữ liệu đầu vào và đầu ra đều cần được
+lưu trữ trong kho dữ liệu theo một mô hình thống nhất, đáp ứng chuẩn SDMX-HD và
+đảm b
+ả
+o;
+-
+Nhất quán và chính xác.
+-
+Xử lý được lượng dữ liệu lớn.
+-
+An toàn.
+Mô hình kho dữ liệu bao gồm các thành
+phần được mô
+tả
+ở
+hình
+sau:
+Dữ liệu từ các nguồn trước hết được
+tập hợp
+ở vùng
+Persistent Staging Area
+.
+Ở
+vùng dữ liệu
+đệm này, dữ liệu được lưu trữ với định dạng giống như dữ liệu ở hệ thống cung cấp.
+Dữ liệu này sẽ được xử lý ở các bước tiếp theo thành dữ liệu có cấu trúc th
+ố
+ng nhất, phục
+vụ cho xử lý và ph
+â
+n tích thông
+tin.
+Sau bước xử lý, làm sạch, dữ liệu được
+lưu ở Data Warehouse dưới dạng thông tin tích hợp, thống nhất, đơn nhất, lưu trữ
+lịch sử. Đây là nguồn dữ liệu phản ánh một cách trung thực, đầy đủ phục vụ cho
+mọi công tác xử l
+ý
+và phân tích
+dữ liệu.
+Để phục vụ cho công tác khai thác
+thông tin, dữ liệu sẽ được lưu ở Architected Data Marts dưới dạng đã được tạo
+chỉ mục cho phân tích đa chi
+ề
+u. Mô hình dữ liệu được xây dựng một cách trực quan, thống
+nhất, đảm bảo cho
+các
+chuyên viên nghiệp vụ không cần hiểu biết sâu về tin học cũng có thể khai thác
+thông tin một cách
+d
+ễ dàng. Khai
+thác thông tin, tạo báo cáo đều làm việc trên mô hình dữ liệu ở lớp này, mà
+không cần quan tâm đến khía cạnh kỹ thuật của dữ liệu lưu trữ.
+Dữ liệu thay đổi theo thời gian thực
+được
+chuyển đến
+vùng Operational Data Store để phục vụ cho xử lý phân tích dữ liệu hoạt động. Dữ
+liệu ở vùng này cũng được định kỳ chuy
+ể
+n sang vùng Data Warehouse để phân tích tổng
+hợp theo nhiều chiều.
+Trên cơ sở dữ liệu khám chữa bệnh
+bảo
+hiểm y tế do
+các cơ s
+ở
+khám chữa bệnh
+gửi
+đến, các Sở Y
+tế, Bộ Y tế tiến hành phân loại, phân nhóm để đưa vào các khối (cube) dữ liệu
+lưu trữ.
+Các thành phần lưu trữ chính:
+Kho lưu trữ ngắn hạn: Nhằm lưu trữ những
+hồ sơ KCB và thanh toán BHYT đang trong thời gian truy cập thường xuyên (mỗi
+module dự ki
+ế
+n lưu trữ dữ
+liệu cho 12 triệu hồ sơ KCB). Tùy theo nhu cầu của BYT và BHXH, có thể tăng thời
+gian lưu trữ
+tr
+ong kho ngắn
+hạn bằng cách t
+ă
+ng số lượng
+module.
+Sau thời gian truy cập thường xuyên, dữ
+liệu được tự động chuyển qua kho lưu trữ lâu dài.
+Kho lưu trữ lâu dài: Nhằm lưu trữ
+những
+hồ sơ KCB và
+thanh toán BHYT đã qua thời gian truy cập thường xuyên (m
+ỗ
+i module dự
+kiến lưu trữ dữ liệu cho 140 triệu hồ sơ KCB). Tùy theo thời gian cần lưu tr
+ữ
+của Bộ Y tế,
+có thể tăng số lượng module trong kho
+7.6.2.
+Hệ quản trị
+cơ
+sở dữ liệu
+Cơ sở dữ liệu của hệ thống thông tin
+khám chữa bệnh bảo hiểm y tế bao gồm dữ liệu để nghị thanh toán chi phí khám chữa
+bệnh BHYT của các Cơ sở KCB, của Sở Y tế, Bộ Y tế và các cơ sở dữ liệu danh mục
+dùng chung. Hệ quản trị cơ sở dữ liệu để thiết lập, quản lý và vận hành dữ liệu
+cho hệ thống đáp ứng các tiêu chí như sau:
+·
+Bộ nhớ RAM không giới hạn
+·
+Chạy trên các hệ điều hành Window, Unix,
+Linux
+·
+Hỗ trợ hệ điều hành 64bit
+·
+Hỗ trợ lập hệ thống máy chính và máy dự phòng
+·
+H
+ỗ
+trợ khôi phục các bảng, các giao dịch, các
+truy v
+ấ
+n trong quá
+trình phát triển
+·
+Hỗ trợ sao lưu và quản trị sao lưu các giao dịch
+·
+Hỗ trợ khôi phục các b
+ả
+n sao lưu
+·
+Hỗ trợ cơ chế chia tải và cân bằng tải (RAC)
+·
+Quản trị tự động các khối lượng và bộ nhớ của
+các tiến trình
+·
+H
+ỗ
+trợ bộ nhớ tạm (cache) cho các lệnh truy vấn
+và các bảng dữ liệu
+·
+H
+ỗ
+trợ các mã nguồn SQL và mã nguồn Java
+·
+Hỗ trợ kiểm soát dữ liệu, thao tác đọc ghi dữ
+liệu
+·
+Hỗ trợ các bảo mật nâng cao quản trị theo người
+dùng, nhóm người dùng, các nhóm tác nghiệp (Roles)
+·
+H
+ỗ
+trợ các xác thực proxy cho các giao thức mạng
+·
+Hỗ trợ các c
+ô
+ng cụ mã hóa và giải
+mã dữ liệu
+·
+Hỗ trợ lập trình ngôn ng
+ữ
+SQL
+·
+Hỗ trợ lập trình ngôn ngữ Java, Java Server
+Pages (JSP)
+·
+Hỗ trợ các phát triển các ứng dụng phát triển
+và triển khai nhanh
+·
+Hỗ trợ đa kết nối (OLE, ODBC, .net Provider)
+·
+Quản trị tự động bộ nhớ
+·
+Quản trị tự động các lưu trữ
+·
+Hỗ trợ nén dữ liệu
+·
+Hỗ trợ các công cụ phát triển và quản trị hệ
+thống kho dữ liệu (Data Warehouse)
+·
+Hỗ trợ phân vùng dữ liệu (Partitioning)
+·
+Hỗ trợ tính năng xử lý dữ liệu theo hàng đợi
+·
+H
+ỗ
+tr
+ợ các truy vấn và các giao dịch phân tán
+·
+Hỗ trợ xử lý các nội dung XML, các dữ liệu
+Multi Media
+·
+Hỗ trợ tính năng tìm ki
+ế
+m nâng cao
+·
+Hỗ trợ đa ngôn ngữ
+7.6.3.
+Phân tích, thống kê
+Phân tích, thống kê: Hệ thống phân
+tích, thống kê đ
+ể
+phục vụ cho
+việc lập báo cáo, thống kê, phục vụ quản lý nhà nước c
+ủa
+Bộ Y tế. Dữ
+liệu được lấy từ kho dữ liệu và các dữ liệu của các ứng dụng.
+Yêu cầu chức năng phân tích, báo cáo
+thống kê
+Các chức năng phân tích, báo cáo thống
+k
+ê
+bao gồm các
+thành phần chủ yếu sau:
+- K
+ế
+t nối Kho chứa dữ liệu được tổng hợp từ các
+đơn vị cung cấp thông tin bao gồm dữ liệu cơ sở từ các cơ sở khám chữa bệnh.
+Kho dữ liệu được
+xây
+dựng nhất quán, đảm bảo dữ liệu được lưu trữ, x
+ử
+lý và kết xuất báo
+cáo một cách thuận lợi và an toàn.
+- Chức năng tích hợp số liệu đầu v
+à
+o và đảm bảo
+chất lượng số liệu đảm bảo thông tin thu thập từ các bên liên quan được thiết kế
+m
+ở
+, đáp ứng các
+chuẩn trao đổi dữ liệu phổ biến, cung cấp các công cụ mạnh để thiết lập kết nối
+mới, cũng như theo dõi, quản lý các kết nối dữ liệu đang hoạt động. Dữ liệu đầu
+vào phải được tiến hành qua các bước kiểm tra, lọc, loại trừ các dữ liệu th
+ừ
+a, phát hiện
+và b
+ổ
+sung các dữ
+liệu còn thi
+ế
+u, sửa các dữ
+liệu sai... Nh
+ữ
+ng thao tác
+kiểm tra, làm sạch dữ liệu được tự động hóa một cách tối đa, giúp cho công việc
+làm sạch dữ liệu trở nên nhẹ nhàng đối với người sử dụng, trong khi nâng cao
+được chất lượng
+dữ liệu đầu
+vào.
+-
+Hệ thống b
+á
+o cáo đầu ra cung cấp các báo cáo được lập
+trình sẵn, hơn thế n
+ữ
+a còn có công
+cụ để các chuyên viên có thể tự khai thác dữ liệu, tạo các báo cáo mới. Hệ thống
+thông tin đầu ra được trình diễn
+bởi
+nhiều hình thức giao diện hết sức
+phong phú, trực quan,
+dễ
+tiếp
+cận.
+-
+Không những chỉ là một hệ thống báo cáo đơn
+thuần, chức năng Báo cáo đầu ra còn tạo ra một tiêu chuẩn mới về việc cung cấp
+và tiếp cận thông tin đối với người dùng. Thông tin sẽ được truy cập từ bất
+kỳ
+đâu dưới dạng
+người dùng dễ tiếp thu nhất, đảm bảo bảo mật và an toàn, những thông tin quan
+trọng còn được tự động cập nhật và chuyển đến người dùng một cách nhanh nhất.
+7.7. Hạ tầng mạng kết
+nối
+Toàn bộ việc lựa chọn phương án kỹ thuật
+công nghệ cũng như thiết kế Cơ sở hạ tầng truyền thông ngành y tế cần phải tuân
+thủ
+các nguyên tắc
+cơ bản như sau:
+·
+Phù hợp với cấu trúc, công nghệ mạng hiện có
+và xu hướng phát triển công nghệ mới trên thế giới.
+·
+K
+hả
+năng
+có
+thể nâng cấp, mở rộng.
+·
+Đáp ứng được các yêu cầu về dịch vụ trong
+công tác quản lý, điều hành.
+·
+Chi phí khởi tạo thuê dịch vụ ban đầu, chi
+phí khai thác, vận hành, b
+ả
+o dưỡng thấp.
+·
+Tận dụng triệt để cơ sở hạ tầng sẵn có của
+ngành Y tế.
+·
+Phương án kỹ thuật - công nghệ được lựa chọn
+đồng thời với phương án kinh tế, sao cho công tác đầu tư có hiệu quả nhất,
+không lãng phí vốn, đảm bảo giá thành phù hợp với thị trường.
+·
+Bảo đảm tính tổng thể, tính thống nhất, tính
+mở rộng, tính kinh tế và kế hoạch phát triển hợp lý:
+·
+Tính tổng thể của hệ thống:
+·
+Cấu hình linh hoạt, đ
+ầ
+y đủ cho các
+tính năng kỹ thuật cần thiết.
+·
+Đảm bảo tính hiện đại của toàn hệ thống
+(không bị lạc hậu).
+·
+Phù hợp với quy mô kế hoạch thuê dịch vụ.
+·
+Đảm bảo độ an toàn thông tin.
+·
+Đảm bảo về tốc độ xử lý, truy nhập, .v.v...
+·
+Tính thống nhất của hệ thống.
+·
+Thống nhất về cơ sở hạ tầng mạng.
+·
+Thống nhất về dữ liệu
+gốc
+, nguồn tài
+nguyên.
+·
+Thống nhất về vận hành, khai thác và quản lý.
+·
+Thống nhất về các chương trình phần mềm, xử
+lý, điều khiển.
+Tính mở của hệ thống:
+·
+Hệ thống có thể tiếp tục phát triển, nâng cấp
+về mặt cấu trúc cũng như kỹ thuật khi có nhu cầu tăng cao.
+·
+Có khả năng mở rộng về quy mô.
+Tính kinh tế của hệ thống:
+·
+Đảm bảo các yêu cầu về kỹ thuật, hiện đại,
+nhưng không lãng phí khi sử dụng các thi
+ế
+t bị trong khi nhu c
+ầ
+u, trình độ
+chưa cho phép sử dụng hết các tính năng.
+·
+Đảm bảo lượng vốn đầu tư không lớn, nhưng vẫn
+xây dựng được một mạng hoàn chỉnh đáp ứng đầy đủ các yêu cầu, nhu cầu.
+Kế hoạch phát triển hợp lý:
+·
+Để hoàn thiện toàn bộ mạng là một quá trình
+phát triển dần dần, không thể triển khai đầu tư ồ ạt, mà cần phải tập trung
+hoàn thiện ở những khâu trọng điểm, những nơi thực sự có nhu cầu.
+·
+Phải đầu tư các kỹ thuật, công nghệ tiên ti
+ế
+n, hiện đại.
+·
+Có kế hoạch nâng cấp, mở rộng hệ thống phù hợp
+với các giai đoạn phát triển trong từng khu vực.
+·
+Có kế hoạch đào tạo nguồn nhân lực có đủ năng
+lực, trình độ để quản lý, khai thác, bảo dưỡng hệ thống.
+Yêu cầu vận hành hạ tầng phải đảm bảo
+những yêu cầu sau:
+·
+Đảm bảo khả n
+ă
+ng hoạt động tin cậy
+và liên tục (24x7);
+·
+Chủ động cung cấp và kiểm soát dịch vụ;
+·
+Hỗ trợ truyền tải cho tất cả các ứng dụng
+trong hệ thống thông tin khám chữa bệnh bảo hiểm y tế;
+·
+Kiến trúc tối ưu với các lưu lượng ứng d
+ụ
+ng nghiệp vụ
+của các phân hệ & giữa các phân hệ, các đ
+ơn
+vị ngoài ngành và
+các ứng dụng thời gian thực;
+·
+Linh động sẵn sàng hỗ trợ thiết bị truyền thống
+hoặc cloud, kết nối DRC, IPv6;
+·
+Ổ
+n định cho đến thời điểm 2020, dễ dàng mở rộng
+thiết bị theo nhu cầu phát tri
+ể
+n;
+·
+Giúp tối ưu tổng chi phí hoạt động & vận
+hành xét trên nhiều mặt:
+-
+Kênh truyền;
+-
+Thiết bị;
+-
+Môi trường vận hành;
+-
+Nhân lực.
+7.8. Mô hình hệ thống
+hạ tầng kỹ thuật
+Hạ tầng kỹ thuật của hệ thống thông
+tin khám chữa bệnh bảo hiểm y tế 03 môi trư
+ờ
+ng:
+·
+Môi trường hệ thống chính: Là môi trường mà hệ
+thống được đưa vào khai thác, sử dụng cho các hoạt động tác nghiệp hàng ngày của
+các cơ quan, đơn vị;
+·
+Môi trường dự phòng: Là môi trường cho hệ thống
+dự phòng và được vận hành song song với môi trường hệ thống chính, sẽ thay thế
+môi trường hệ thống chính khi
+cần
+thiết nhằm đảm bảo sự hoạt động liên tục,
+thông suốt của hệ thống, về hiệu năng, môi trường này có hiệu năng tối thi
+ể
+u bằng 70% của
+môi trường hệ thống chính;
+·
+Môi trường phát triển, kiểm thử và đào tạo là
+môi trường để thực hiện việc phát tri
+ể
+n, nâng cấp, chỉnh sửa lỗi hệ thống trước khi
+chuy
+ể
+n sang môi
+trường hệ thống chính cũng như thực hiện công tác đào tạo, chuyển giao công nghệ.
+V
+ề hiệu năng,
+môi trường này có hiệu năng
+tối thiểu
+b
+ằ
+ng 10% của môi trường hệ thống chính;
+Các môi trường được tích hợp trong hệ
+thống hạ tầng cơ sở kỹ thuật như hình vẽ sau:
+Cả ba môi trường phải được xây dựng dựa
+trên cùng một nền t
+ả
+ng kiến trúc
+phần cứng, phần mềm hệ thống và các phiên bản phần mềm nhằm bảo đảm tính tương
+thích giữa các môi trường. Hệ thống phần cứng phải được tối ưu
+về
+khả năng
+tương thích với phần mềm được sử dụng làm nền tảng phát triển.
+Môi trường hệ thống chính và môi trường
+phát triển, kiểm thử và đào tạo được lắp đặt trong trung tâm dữ liệu do Văn
+phòng điều phối chủ trì thuê.
+Môi trư
+ờ
+ng dự phòng lắp đặt ở
+một nơi khác không cùng địa điểm với môi trường hệ thống chính và được đồng bộ
+với môi trường hệ thống chính qua mạng WAN.
+Người dùng truy cập vào hệ thống thực
+hiện nghiệp vụ của mình thông qua các trình duyệt Web phổ biến như Microsoft
+Internet Explorer, FireFox (hoặc giao diện chuyên dụng, nếu có).
+Khi môi trường hệ thống chính bị ngừng
+hoạt động v
+ì
+lý do nào đó
+(sự cố, thảm họa hoặc kế hoạch bảo trì, nâng cấp, chỉnh sửa), khi đó môi trường
+dự phòng sẽ được đưa vào sử dụng thay thế và đóng vai trò như môi trường hệ thống
+chính và ngược lại khi môi trường hệ thống chính đã đưa trở lại hoạt động thì
+môi trường dự phòng trở lại trạng thái như cũ. Qu
+á
+trình thay đ
+ổ
+i vai trò giữa
+các môi trường này là trong suốt đối với người sử dụng đầu cu
+ố
+i.
+Các công việc liên quan đến phát triển,
+nâng cấp, ch
+ỉ
+nh sửa ...hệ
+thống thông tin khám chữa bệnh bảo hiểm y tế đều phải thực hiện trên môi trường
+phát triển, kiểm thư và đào tạo và được chuy
+ể
+n sang môi trường hệ thống chính sau khi đã
+được kiểm thử và đánh giá thành công.
+Yêu cầu triển khai hạ tầng phục vụ hệ
+thống thông tin khám chữa bệnh bảo hiểm y tế là kiến trúc 3 tầng, bao gồm: tầng
+trình bày (Presentation Tier), tầng nghiệp vụ (Business Tier) và tầng dữ liệu
+(Data Tier). Các tầng có sự tách biệt về mặt vật lý và đảm nhiệm các chức năng
+và hiệu năng cũng như an toàn thông tin.
+M
+ôi
+trường hệ thống chính được chia thành hai hệ
+thống: Hệ thống các
+ứn
+g dụng nghiệp
+vụ chuyên ngành và hệ thống phân tích, báo cáo, thống kê với các cơ sở dữ liệu
+riêng biệt
+.
+Trong mô
+hình tích hợp được mô tả b
+ằ
+ng hình vẽ dưới đây các ứng dụng chuyên ngành và báo cáo
+được đặt trên cùng cặp máy chủ ứng dụng với tên gọi là m
+á
+y chủ ứng dụng
+nghiệp vụ và máy chủ ứng dụng hệ thống báo cáo, còn các hệ quản trị cơ sở dữ liệu
+cũng nằm trên cùng cặp máy chủ c
+ơ
+sở dữ liệu với tên gọi là máy chủ cơ sở dữ
+liệu nghiệp vụ và máy chủ kho dữ liệu một cách tương ứng.
+Trong mô hình này, hệ thống được bảo mật
+qua hai mức tường lửa: Tường lửa th
+ứ
+nhất nằm giữa tầng trình bày và tầng nghiệp
+vụ, tường lửa th
+ứ
+hai nằm giữa
+tầng nghiệp vụ và tầng dữ liệu. M
+ỗ
+i tầng bao gồm những thiết bị riêng biệt như
+máy chủ, t
+ủ
+lưu trữ, tủ
+băng từ..., cụ thể nh
+ư
+sau:
+Máy chủ ở tầng trình bày phải đảm nhận
+chức năng thực hiện và hiển thị giao diện người sử dụng và quản lý các tương
+tác người dùng. Hay cụ th
+ể
+, với
+vai trò máy
+chủ Web, cho phép người sử dụng thông qua trình duyệt Web phổ biến như
+Microsoft Internet Explorer, FireFox (hoặc giao
+d
+iện đặc thù khác, nếu
+có) truy nhập vào hệ thống thực hiện công việc. Với yêu cầu phải đáp ứng:
+-
+Số lượng người truy nhập đồng thời lớn, khoảng
+8495;
+-
+Khả năng s
+ẵ
+n sàng cao;
+-
+Xử lý nhanh, không quá 5s/một giao dịch.
+Nên máy chủ ở tầng này phải thuộc loại
+máy chủ khối, mức tương đối cao và là một cặp chạy tr
+ê
+n công nghệ
+Cluster
+với
+hệ
+điều hành Unix, có thiết bị cân b
+ằ
+ng tải nh
+ằ
+m đảm bảo tận
+d
+ụng tối ưu khả năng
+đáp ứng yêu c
+ầ
+u người dùng.
+Máy chủ cần phải sử dụng là máy chủ UNIX với kiến trúc chip RISC, có hiệu suất
+cao, trong bộ xử lý cần có sẵn các bộ tăng tốc mã hóa, nén. Máy chủ cần hỗ trợ
+tính năng chia máy chủ v
+ậ
+t lý thành
+các máy chủ mức vùng vật lý (Physical Domain) và trên các vùng vật lý n
+à
+y có khả năng
+chia tiếp thành các vùng logic hay còn gọi là các máy chủ ảo (VM). CPU của các
+máy chủ cần có số lượng 8 luồng/lõi (core) để đảm bảo t
+í
+nh xử lý đồng
+thời
+nhiều giao dịch
+cho tầng này.
+Máy chủ ở tầng nghiệp vụ phải thực hiện
+các nhóm chức năng cốt lõi của hệ thống. Máy chủ ở tầng này phải đảm nhiệm việc
+thực hiện những xử lý logic như: giao ti
+ế
+p với tầng trình bày và tầng dữ liệu, xử lý hợp
+lệ, sự toàn vẹn về mặt dữ liệu.. .và được tách ra hai cấu phần:
+·
+Hỗ trợ cho các quy trình xử lý nghiệp vụ.
+·
+Hỗ
+tr
+ợ cho các quy trình thực hiện hệ thống báo
+cáo, thống kê, phân tích dữ liệu.
+Như vậy, yêu cầu máy chủ phải đáp ứng:
+·
+Khả năng thực hiện nhiều yêu cầu, tình huống
+phức tạp;
+·
+Khả năng sẵn sàng cao, cho phép dừng hệ thống
+để thay thế CPU, Mem mà máy chủ vật lý v
+ẫ
+n hoạt động dựa trên khả năng chia máy chủ vật
+lý thành các v
+ù
+ng vật lý
+riêng để tách biệt CPU, bộ nhớ khi cần thay thế;
+·
+Khả năng xử lý nhanh;
+·
+Khả năng hỗ t
+r
+ợ di chuyển máy chủ ảo
+từ máy chủ vật lý này sang máy chủ vật lý khác, quá trình chuyển máy áo phải được
+bảo mật (live migration);
+·
+Khả năng hỗ trợ nhiều tiến trình hoạt động đồng
+thời (multi-thread);
+·
+Tích hợp công nghệ ảo hóa được xác thực cho
+cơ sở dữ liệu và ứng dụng, cho phép tối ưu hóa tài nguyên. Hỗ trợ tính năng
+chia máy chủ vật lý thành các máy chỉ mức vùng vật lý (Physical Domain) và trên
+các v
+ù
+ng vật lý này
+có khả năng chia tiếp thành các vùng logic (LDOM) hay cò
+n
+gọi là các
+máy chủ ảo (VM);
+·
+Kh
+ả
+năng tạo ra nhiều loại báo cáo phức tạp đáp ứng
+một cách chính xác, kịp thời và có khả năng tùy biến.
+Nên máy chủ ở tầng này phải thuộc loại
+máy chú khối, cấu hình mạnh và là một cặp chạy song hành với hệ điều hành Unix
+và được tách thành hai loại máy chủ: máy chủ phục vụ ứng dụng nghiệp vụ và máy
+chủ phục vụ ứng dụng hệ thống báo c
+á
+o.
+Máy chủ ở tầng dữ liệu thực hiện chức
+năng cung cấp việc truy cập đến dữ liệu được lưu trữ trong các phạm vi của hệ
+thống và thực chất là các hệ qu
+ả
+n trị CSDL. Máy chủ cần phải sử dụng là máy chủ UNIX với
+kiến trúc chip RISC. Có hiệu suất cao, trong bộ xử lý cần có sẵn các bộ tăng tốc
+mã hóa, nén và hỗ trợ tăng tốc cho cơ sở dữ liệu. Máy chủ cần hỗ trợ tính năng
+chia máy chủ vật lý thành các máy chỉ mức vùng vật lý (Physical Domain) và trên
+các vùng vật lý này có khả năng chia
+tiếp
+thành các vùng logic (LDOM) hay còn gọi
+là các máy chủ ảo (VM). Đối với cơ sở dữ liệu, lớp này thực hiện kết nối trực
+tiếp với cơ sở dữ liệu và thực hiện tất cả các thao tác liên quan đến cơ sở dữ
+liệu mà hệ thống yêu cầu với hai loại cơ sở dữ liệu riêng biệt:
+·
+Cơ sở dữ liệu nghiệp vụ;
+·
+Kho dữ liệu dùng riêng cho báo cáo.
+Do đ
+ó
+, máy chủ ở tầng này
+phải đáp ứng được các yêu cầu:
+·
+Kh
+ả
+n
+ă
+ng sẵn sàng cao, cho phép dừng hệ thống để
+thay thế CPU, Memory mà máy chủ vật lý vẫn hoạt động dựa trên khả năng chia máy
+chủ vật lý thành các vùng vật lý riêng để tách biệt CPU, bộ nhớ khi cần thay thế.
+·
+Khả năng quản trị cơ sở dữ liệu quan hệ lớn,
+CPU của máy chủ cần hỗ trợ các bộ tăng tốc xử lý cho CSDL;
+·
+Khả
+nă
+ng thực hiện được các yêu cầu đối với nhiều
+tính toán lớn, phức tạp, yêu cầu chính xác, đáp ứng kịp thời; m
+ỗ
+i giao dịch
+nhập/sửa/xóa các chứng từ nghiệp vụ tối đa không quá 10s/
+1
+giao dịch với
+các dữ liệu được lưu trữ không quá 5 năm. CPU của máy ch
+ủ
+cần hỗ trợ
+các bộ t
+ă
+ng tốc xử lý
+cho CSDL;
+·
+Tích hợp công nghệ ảo hóa được xác thực cho
+cơ sở dữ liệu và ứng dụng, cho phép tối ưu hóa tài nguyên. Máy chủ cần hỗ trợ
+tính năng chia máy chủ vật lý thành các máy chỉ mức vùng vật lý (Physical
+Domain) và trên các vùng vật lý này có khả năng chia tiếp thành các vùng logic
+(LDOM) hay còn gọi là các máy chủ ảo (VM). Các máy chủ ảo và công nghệ máy chủ ảo
+này phải được xác thực và hỗ trợ hệ quản trị CSDL sử dụng trong hệ thống;
+·
+Khả n
+ă
+ng cung cấp hệ thống báo cáo với số lượng lớn,
+phức tạp về tính toán, đáp ứng nhu cầu về tính chính xác, kịp thời...
+Nên các máy tầng này phải là máy chủ
+khối mức rất cao Enterprise và là một cặp chạy Cluster với hệ điều hành Unix và
+được phân chia thành hai loạ
+i
+máy chủ: máy chủ quản trị cơ sở dữ liệu nghiệp vụ và máy
+chủ quản trị kho dữ liệu.
+Ngoài ra các máy chủ còn phải đáp ứng được
+các tính năng:
+·
+Khả năng kiểm tra
+lỗi
+ECC với bộ nhớ
+RAM và bộ nhớ đệm của bộ vi xử
+lý
+.
+·
+C
+ấu hình máy chủ cho những máy ch
+ủ
+có yêu cầu
+cao phải có kiến trúc cho phép thay nóng và mở rộng về mặt hiệu năng như: gắn
+thêm các bộ vi xử lý, tăng thêm dung lượng RAM và các khe cắm mở rộng I/O cho
+các thiết bị mạng và ngoại
+vi
+khác. Cho phép dừng hệ thống
+để
+thay thế CPU,
+bộ nhớ mà máy chủ vật lý vẫn hoạt động dựa trên khả năng chia tài nguyên vật lý
+thành các vùng riêng để tách biệt CPU, bộ nhớ khi cần thay thế.
+·
+Các máy chủ phải có đặc tính hỗ trợ tự chuẩn
+đoán để phát hiện các hỏng hóc và các ngư
+ỡ
+ng hạn chế khác của hệ thống và báo động
+tự
+động hoặc báo
+hiệu b
+iến
+cố
+.
+·
+Các máy chủ phải cho phép quản trị từ xa và
+việc quản trị phải sử dụng đường k
+ế
+t n
+ố
+i độc lập, không dùng chung kết
+nối
+với đường dữ
+liệu ứng dụng.
+C
+ơ
+sở dữ liệu của hệ thống thông tin khám chữa
+bệnh bảo hiểm y tế là rất lớn và tốc độ tăng trưởng bình quân 10% năm với yêu c
+ầ
+u ti
+ế
+n tới bảo hi
+ể
+m y tế toàn
+dân nên số lượng hồ sơ
+đề
+nghị
+thanh toán BHYT trao đ
+ổ
+i hàng ngày ở
+mức cao và tăng trưởng nhanh. Do
+đ
+ó, các yêu cầu xử lý, lưu trữ rất phức
+t
+ạp với kh
+ố
+i lượng lớn
+cho hai loại cơ sở dữ liệu riêng biệt: cơ sở dữ liệu nghiệp vụ và kho dữ liệu;
+thực hiện việc đồng bộ với môi trường dự phòng cũng như hỗ trợ khả năng sao lưu
+hàng ngày... nên dữ liệu phải được lưu trữ trên hệ thống lưu trữ chuyên dụng
+(Storagework) nằm trong mạng SAN chuyên dụng, và phải có các tính năng:
+·
+Có khả năng hỗ trợ cả loại ổ đĩa cứng (HDD)
+hoặc ổ đĩa thể rắn (SSD- Solid State Drive hoặc Flash) cũng như cơ ch
+ế
+cho phép
+chuyển dữ liệu tự động giữa bộ nhớ, Flash và ổ đĩa. Hỗ trợ công nghệ xử l
+ý
+vùng đệm
+trên thiết bị Flash, cho phép tăng tốc độ truy xuất dữ liệu;
+·
+Có t
+ố
+c độ đọc/ghi cao, có khả năng nâng cấp, mở rộng
+và phải có t
+ố
+i thi
+ể
+u hai bộ điều
+khiển hoạt động theo cơ chế song hành;
+·
+Hỗ trợ khả năng quét dữ liệu tại chỗ (query
+offload) để giảm tải cho máy chủ CSDL và giảm lượng dữ liệu trên đường truyền
+khi sao lưu;
+·
+Hệ thống lưu trữ ngoài cần hỗ trợ khả năng
+nén theo cột dành cho h
+ệ
+quản
+trị CSDL nhằm tiết kiệm dung lượng được sử dụng;
+·
+Thiết bị lưu trữ phải hỗ trợ công nghệ RAID
+hoặc tương tự, cho phép ki
+ể
+m soát và phát hiện ra lỗi, phục hồi cấu h
+ì
+nh RAID và kh
+ả
+n
+ă
+ng thay th
+ế
+nóng.
+Hệ thống lưu trữ ngoài cần hỗ trợ khả
+năng đảm bảo chất lượng dịch vụ cho ứng dụng (QoS), nhằm đ
+ạ
+t độ ưu tiên
+việc đọc/ghi cho các ứng dụng
+được cài đặt trên hệ thống.
+• Trong mạng SAN còn có hệ thống b
+ă
+ng từ
+ảo
+hoặc băng từ
+được kết n
+ố
+i với máy chủ
+(và thiết bị lưu trữ) để thực hiện công tác sao lưu dữ liệu (hệ thống phần mềm,
+cơ sở dữ liệu) theo định kỳ nhằm bảo đảm an toàn và khôi phục lại trạng thái dữ
+liệu (hệ thống) khi xảy ra những sự cố trong hệ thống máy chủ, lỗi chương
+trình, hoặc lỗi do người dùng.
+7.9. Yêu cầu an toàn
+thông tin
+Tuân thủ chính sách, điều kiện bảo đảm
+an ninh, an toàn bảo mật thông tin (chi tiết tại phụ lục 8.1.2). Ngoài ra, môi
+trường vận hành hệ thống cần đảm bảo dịch vụ
+x
+ử lý sự cố liên quan
+đến an toàn an ninh bảo mật dữ liệu trong t
+ì
+nh huống bị tấn công qua mạng:
+Quản trị an toàn, an ninh thông tin
+-
+Có khả năng phát hiện bất thường trong vận
+hành hệ thống;
+-
+Phát hiện thiết bị, người dùng không tuân thủ
+chính sách an toàn thông tin và cô lập thiết bị, người dùng để kiểm tra, xử lý
+hành vi;
+-
+Mã hóa, phân quyền truy cập dữ liệu;
+-
+Tích hợp các giải pháp toàn diện, phục vụ việc
+giám sát và bảo vệ hệ thống cũng như dữ liệu của Bộ Y tế;
+-
+Giám sát và bảo vệ được thực hiện ở nhiều tầng,
+mang tới khả năng phòng thủ sâu (Defense - in - depth) cho tổ chức, bảo vệ hệ
+thống và dữ liệu ở mức cao. Thu thập dữ liệu ATTT từ nhiều nguồn: Firewall,
+IPS, Antivirus, Hệ điều hành, ứng dụng;
+-
+Phát hiện mã độc, tấn công trong vùng server
+Farm;
+-
+Hỗ trợ giám sát điều tra và xử lý sự cố 24/7.
+Khả năng chống tấn công từ c
+hố
+i dịch vụ
+-
+Giảm thiểu tấn công băng thông lớn như: DNS
+Aplification,
+I
+CMP flood,
+U
+DP flood ...
+Băng thông bảo vệ lên đến 40Gbps;
+-
+Giảm thiểu tấn công lớp ứng dụng: sys flood,
+http flood... Năng lực xử lý lên đến 100.000 reques
+t/
+s.
+Tấn công khai thác lỗ hổng ứng dụng
+Web
+-
+Triển khai firewall ở tầng ứng dụng Web
+-
+Phát hiện và ngăn chặn tấn công khai thác l
+ỗ
+hổng ở tầng ứng
+dụng Web: Top 10 OWASP như SQL Injection,
+XSS
+, Command Injection,..
+-
+Hỗ trợ ngăn chặn cả các l
+ỗ
+h
+ổ
+ng 0-day, 1
+-day
+-
+Năng lực xử lý tối thiểu: 2.400 reques
+t/s
+Khả năng chống tấn công có chủ đích của
+ứng
+dụng phá hoại
+(mã độc):
+-
+Bảo vệ đa lớp, toàn
+d
+iện cho toàn
+bộ các lớp của hệ thống;
+-
+Cập nhật liên tục thông tin các cuộc tấn công
+mạng trên thế giới;
+-
+Có các thuật toán quét hệ thống để phát hiện ứng
+dụng chưa được nhận diện và có khả năng phân tích, dịch ngược ứng dụng “lạ” và
+báo cáo một cách tự động.
+-
+Cách ly, phân vùng lây nhiễm mã độc;
+-
+Có khả năng vô hiệu hóa khả năng thi hành của
+mã độc;
+-
+Khả năng phát hiện tấn công có chủ đích:
+-
+Khả năng cảnh báo các cuộc tấn công mục tiêu
+dữ liệu, phát tán video, chuỗi ký tự.
+-
+Có khả năng tìm địa chỉ tấn công và vô hiệu
+hóa cuộc tấn công;
+Đào tạo chuyên sâu về an toàn, an ninh
+thông tin
+-
+C
+ử
+cán bộ đào tạo, tập huấn tại các trung tâm
+an ninh mạng
+7.10. Khuyến nghị yêu
+cầu cần có của Hệ thống quản lý tại cơ sở y tế
+7.10.1.
+Yêu cầu về mức đ
+ộ
+hoàn thi
+ệ
+n sau khi
+hoàn thành
+Hệ thống quản lý cơ sở khám chữa bệnh
+đáp ứng các chức năng cơ bản cho các nghiệp vụ từ khâu tiếp đón cho đến khâu kết
+xuất hồ sơ bệnh án điện tử. Tham chiếu mô hình hoàn thiện của hệ thống quản lý
+hồ
+bệnh
+án điện tử 8 mức (0-7) đ
+ể
+đánh giá mức
+độ trưởng thành hệ thống và bao phủ các chức năng, chất lượng triển khai phần mềm
+HIS như sau:
+Mô hình tiêu chí đánh giá mức độ trư
+ở
+ng thành hệ
+thống quản lý bệnh viện sau khi hoàn thiện:
+·
+Bệnh viện Trung ương: mức 5.
+·
+Bệnh viện tỉnh: mức 3.
+·
+Bệnh viện huyện: mức 2.
+7.10.2.
+Yêu cầu về tiêu chuẩn
+CNTT
+Hệ thống phần mềm quản lý Bệnh viện đảm
+bảo đáp ứng tiêu chí kỹ thuật quy định là bắt buộc được nêu tại các văn bản như
+sau:
+-
+Thông tư số 53/2014/TT-BYT ngày 29/12/2014 của
+Bộ Y tế quy định điều kiện hoạt động y tế trên môi trường mạng;
+-
+Quyết định số 2035/QĐ-BYT ngày 12/06/2013 của
+Bộ Y tế về
+việc
+công bố danh
+mục kỹ thuật về ứng dụng CNTT trong lĩnh vực y tế.
+-
+Thông tư
+số
+22/2013/TT-BTTTT ngày 23/12/2013 của Bộ
+Thông tin và truyền thông ban hành về Danh mục tiêu chuẩn kỹ thuật về ứng dụng
+công nghệ thông tin trong cơ quan nhà nước.
+7.10.3.
+Yêu cầu về chức năng
+phần mềm
+Hệ thống phần mềm quản lý Bệnh viện
+đáp ứng đủ yêu cầu về quản lý được quy định tại
+mục
+I
+.1
+phụ lục kèm
+theo Quy
+ế
+t định số
+5573/QĐ-BYT ngày 29/12/2006 và yêu cầu nội dung các phân hệ được quy định tại
+mục II
+phụ lục kèm theo Quyết định số 5573/QĐ-BYT ngày 29/12/2006.
+Ngoài việc đáp ứng yêu cầu quản lý, s
+ố
+lượng các chức
+năng cơ bản theo quy định nêu
+tr
+ên, hệ thống ph
+ầ
+n m
+ề
+m quản lý Bệnh
+viện phải đáp ứng nhu c
+ầ
+u thực hiện
+công việc hàng ngày của Bệnh viện, phù hợp với xu th
+ế
+mới về hệ thống
+quản lý tập trung, đ
+ủ
+chức năng hỗ
+trợ trong chuyên môn cho bác sỹ, dược sỹ và các chức năng phân tích, báo cáo thống
+kê khoa học y khoa và hành chính...
+7.10.4.
+Yêu cầu về biểu mẫu
+Hệ thống phần mềm quản lý cơ sở khám
+chữa bệnh phải có chức năng quản lý, kết xuất các dữ liệu và biểu mẫu do Bộ Y tế
+ban hành:
+-
+Phân hệ quản lý Danh mục dùng chung;.
+-
+Chức năng quản lý, kết xuất hồ sơ theo m
+ẫ
+u hồ sơ bệnh
+án.
+-
+M
+ẫ
+u bảng kê chi ph
+í
+khám, chữa bệnh
+sử dụng tại cơ sở khám, chữa bệnh.
+-
+Dữ liệu đề nghị thanh toán BHYT.
+-
+Dữ liệu chuyển tuyến.
+7.11. Lộ trình thực
+hiện
+Bộ Y tế chưa xây dựng xong hệ thống
+Chính phủ điện tử. Hệ thống thông tin khám, chữa bệnh BHYT là hệ thống lớn đầu
+tiên được triển khai và được chia thành 4 giai đoạn:
+Giai đoạn 1: Kết nối và liên thông
+(2016)
+·
+Xây dựng đủ các thành phần nhưng chưa xây dựng
+trục tích hợp.
+·
+Ứ
+ng dụng liên thông (Gateway) đóng vai trò,
+chuyển dữ liệu đồng thời từ cơ sở khám chữa bệnh tới Bộ Y tế và BHXH.
+·
+Các ứng dụng giao tiếp với nhau dựa trên giao
+thức vận chuyển Web Service hoặc FTP.
+Giai đoạn 2: Xây dựng trục tích hợp, kết
+nối tự động với cơ sở KCB cấp tỉnh (30/6/2018).
+·
+Xây dựng trục tích hợp dữ liệu kết nối dữ liệu
+tự động giữa hệ thống quản lý khám chữa bệnh của các cơ sở KCB tuyến tỉnh/huyện
+với hệ thống tập trung của BHXH và Bộ Y tế.
+·
+Ứ
+ng dụng liên thông (Gateway) đóng vai trò,
+chuyển dữ liệu đồng thời từ cơ sở khám chữa bệnh tới Bộ Y tế và BHXH.
+·
+Các ứng dụng giao tiếp với nhau dựa trên giao
+thức vận chuyển Web Service hoặc chuyển file theo chuẩn HL7, D
+I
+COM.
+Giai đoạn 3: Xây dựng trục tích hợp, kết
+nối tự động với cơ sở KCB cấp TƯ, Tỉnh (30/12/2018).
+·
+Xây dựng trục tích hợp dữ liệu kết nối dữ liệu
+tự động giữa hệ thống quản lý bệnh viện của các cơ sở KCB tuy
+ế
+n Trung ương
+với hệ thống tập trung của BHXH và Bộ Y tế.
+·
+Ứ
+ng dụng liên thông (Gateway) đóng vai trò,
+chuyển dữ liệu đồng thời từ cơ sở khám chữa bệnh tới Bộ Y tế và BHXH.
+·
+Các ứng dụng giao tiếp với nhau qua các File
+XML dựa trên giao thức vận chuyển Web Service hoặc chuyển file theo chuẩn HL7,
+DICOM, SDMXHD.
+Giai đoạn 4: Hoàn thành hệ thống theo
+mô hình kiến trúc tổng thể (2020).
+·
+Xây dựng trục tích hợp dữ liệu kết nối dữ liệu
+tự động giữa hệ thống quản lý của các cơ sở KCB tuyến Huyện/Xã với hệ thống tập
+trung của BHXH và Bộ Y tế.
+·
+Ứ
+ng dụng liên thông (Gateway) đóng vai trò,
+chuyển dữ liệu đồng thời từ cơ sở khám chữa bệnh tới Bộ Y tế và BHXH.
+·
+Các ứng dụng giao tiếp với nhau dựa trên giao
+thức vận chuyển Web Service, truyền file đối với cơ quan BHXH. Giữa Bộ Y tế và
+cơ sở khám chữa bệnh thông qua các bộ kết nối (Adapter service) của trục tích hợp
+dữ liệu.
+·
+Kết nối, tích hợp với các ứng dụng chuy
+ê
+n ngành khác
+của Bộ Y tế hình thành kiến trúc tổng thể Ngành y tế.
+·
+Dữ liệu chuyển tuân thủ giao thức vận chuyển
+Web Service và tiêu chuẩn HL7, DICOM, SDMX-HD.
+Sơ đồ lộ trình thực
+hiện
+Chương 8
+PHỤ LỤC
+8.1. Tiêu chuẩn hoạt
+động y tế qua môi trường mạng
+8.1.1.
+Điều kiện về hạ tầng
+kỹ thuật công nghệ thông tin
+1.
+Đối với hoạt động có sử dụng máy chủ
+và phần mềm hệ thống:
+a)
+Bảo đảm hạ tầng máy chủ và các thiết bị
+đi kèm có đủ công suất, hiệu năng, tốc độ xử lý truy xuất dữ liệu, đáp ứng yêu
+cầu triển khai các hoạt động y tế trên môi trường mạng;
+b)
+Bảo đảm hệ thống máy chủ có tính sẵn
+sàng cao, cơ chế dự phòng linh hoạt để hoạt động liên tục;
+c)
+Bảo đảm hệ điều hành và phần mềm hệ thống
+cài đặt trên các máy chủ có b
+ả
+n quyền hoặc xuất xứ, nguồn gốc rõ ràng.
+2.
+Hệ thống mạng:
+a)
+Hệ thống mạng (mạng viễn thông, mạng
+Internet, mạng diện rộng, mạng nội bộ, các kết nối khác) được thiết kế, triển
+khai phù hợp, có băng thông đáp ứng mục đích sử dụng; trường hợp sử dụng mạng
+viễn thông phải thực hiện đầy đủ quyền và nghĩa vụ được quy định tại
+Điều 16 của Luật viễn thông
+.
+b)
+Trang thiết bị mạng, các phần mềm phân
+tích, quản lý giám sát mạng phải có bản quyền hoặc xuất xứ, nguồn gốc rõ ràng;
+c)
+Có phương án dự phòng đầy đủ bảo đảm
+hoạt động của hệ thống mạng.
+3.
+Cơ sở dữ liệu:
+a)
+Cơ sở dữ liệu sử dụng cho các hoạt động
+y tế trên môi trường mạng phải ổn định; xử lý, lưu trữ được khối lượng dữ liệu
+theo yêu cầu nghiệp vụ;
+b)
+Hệ quản trị cơ sở dữ liệu có nguồn g
+ố
+c, xuất xứ rõ
+ràng hoặc sử dụng các hệ quản trị cơ sở dữ liệu mã nguồn mở được dùng rộng rãi
+trong nước và quốc tế.
+4.
+Máy trạm: Có đủ máy trạm, cấu hình phù
+hợp cho các hoạt động y tế trên môi trường mạng.
+8.1.2.
+Điều kiện về b
+ả
+o đảm an
+toàn, an ninh thông tin
+1.
+Có chính sách về an toàn, bảo mật
+thông tin phù hợp với quy định về an toàn, bảo mật hệ thống công nghệ thông tin
+của Nhà nước và quy chế an toàn bảo mật thông tin của cơ quan.
+2.
+An toàn, an ninh hệ thống mạng:
+a)
+Bảo đảm có biện pháp kỹ thuật cho phép
+kiểm soát các truy cập đối với hệ thống mạng;
+b)
+Có biện pháp phát hiện và phòng chống
+xâm nhập, phòng chống phát tán mã độc hại cho hệ thống;
+c)
+Có chính sách cập nhật định kỳ các bản
+vá lỗi hệ thống, cập nhật cấu hình
+cho các thiết bị;
+d)
+Có biện pháp bảo đảm an toàn thông tin
+cho các máy trạm khi kết nối với
+môi
+trường mạng;
+đ) Bảo đảm an toàn, an ninh về mặt vật
+lý tại vị trí đặt các hệ thống máy chủ;
+e)
+Các trang thiết bị mạng, an ninh, bảo
+mật, phần mềm chống vi rút, công cụ phân tích, quản trị mạng được cài đặt
+tr
+ong mạng của
+cơ quan phải có nguồn gốc, xuất
+xứ rõ
+ràng.
+3.
+An toàn, bảo mật thông tin đối với phần
+mềm ứng dụng:
+a)
+Có quy định ghi lại các lỗi và quá
+trình xử lý l
+ỗ
+i, đặc biệt
+là các lỗi về an toàn, bảo mật trong kiểm tra và thử nghiệm các phần mềm ứng dụng;
+b)
+Các phiên bản phần mềm bao gồm cả
+chương trình nguồn cần được quản lý tập trung, lưu trữ, bảo mật và có cơ chế
+phân quyền cho từng thành viên trong việc thao tác với các tập tin;
+c)
+Có kế hoạch định kỳ kiểm tra m
+ã
+nguồn, nhằm
+loại trừ các đoạn mã độc hại, các lỗ h
+ổ
+ng bảo mật;
+d)
+Đơn vị cung c
+ấ
+p phần mềm ứng
+dụng phải cam kết không có các đoạn m
+ã
+độc hại
+tro
+ng sản phẩm.
+4.
+An toàn dữ liệu:
+a)
+Bảo đảm có cơ chế bảo vệ và phân quyền
+truy cập đối với các tài nguyên cơ sở dữ liệu;
+b)
+Ghi nhật ký đối với các truy cập cơ sở
+dữ liệu, các thao tác đối với cấu hình cơ sở dữ liệu;
+c)
+Có phương án sao lưu dữ liệu, b
+ả
+o đảm khôi phục
+dữ liệu trong trường hợp c
+ầ
+n thiết;
+d)
+Bảo đảm có thuật toán mã hóa phù hợp
+yêu cầu bảo đảm tính bí mật và khả năng xử lý của hệ thống;
+đ) Rà soát, cập nhật các bản vá, các bản
+sửa lỗi hệ quản trị cơ sở dữ liệu theo định kỳ và theo khuyến cáo của nhà cung
+cấp;
+e)
+Có các giải pháp ngăn chặn các h
+ì
+nh thức tấn
+công cơ sở dữ liệu.
+5.
+Quản lý sự cố:
+a)
+Có quy trình quản lý sự cố, trong đó
+phải
+quy định rõ
+trách nhiệm của các bộ phận liên quan, chi tiết các bước thực hiện bao gồm cả
+việc thông báo người sử dụng cũng như bộ phận vận hành hệ thống công nghệ thông
+tin; trường hợp hạ tầng công nghệ thông tin được thuê ngoài thì đơn vị cung cấp
+dịch vụ phải cung cấp quy trình xử lý sự cố.
+b)
+Định kỳ rà soát, cập nhật các sự cố và
+phương án xử lý cho quy trình quản
+lý sự cố;
+c)
+Áp dụng các giải pháp kỹ thuật để phát
+hiện, xử lý kịp thời các cuộc tấn công vào hệ thống mạng;
+d)
+Có biện pháp phòng chống rủi ro và thảm
+họa công nghệ thông tin một cách có hệ thống nh
+ằ
+m hạn chế t
+ố
+i đa những rủi
+ro của hoạt động y
+tế
+trên
+môi trường mạng.
+8.1.3.
+Điều kiện về nhân lực
+1.
+B
+ả
+o đảm nhân lực chuyên trách về công nghệ
+thông tin (về số lượng, trình độ) đáp ứng được yêu cầu hoạt động y tế trên môi
+trường mạng của cơ quan.
+2.
+Đối với các cơ quan sự nghiệp hạng đặc
+biệt, hạng 1 và các trường đại học trong ngành y tế phải có phòng công nghệ th
+ô
+ng tin,
+tối thiểu
+5 người,
+trong đó
+số
+người
+có trình độ từ cao đ
+ẳ
+ng chuyên
+ngành công nghệ thông tin trở lên chi
+ế
+m 60% tổng số nhân lực của phòng.
+3.
+Đối với các cơ quan sự nghiệp hạng 2,
+hạng 3 của ngành y tế bảo đảm phải có tổ công nghệ thông tin trở lên với nhân sự
+tối thi
+ể
+u là 03 người
+có trình độ công nghệ thông tin từ trung cấp trở lên.
+4.
+Xây dựng kế hoạch và tổ chức đào tạo
+nâng cao trình độ công nghệ thông tin cho nhân lực tham gia vào hoạt động y tế
+trên môi trường mạng.
+5.
+Trường hợp thuê nhân lực bên ngoài,
+nhân lực tham gia hoạt động y tế trên môi trường mạng của đơn vị được thuê phải
+đáp ứng yêu cầu chuyên môn nghiệp vụ; trong hợp
+đ
+ồng có điều khoản ghi
+rõ việc thực hiện cam kết đáp ứng qui định tại Khoản 5 Điều 6 Thông tư này.
+8.1.4.
+Điều kiện về ứng dụng
+công nghệ thông tin
+1.
+Bảo đảm hạ tầng kỹ thuật theo quy định
+tại Điều 3 Thông tư này.
+2.
+Chuẩn hóa các quy trình nghiệp vụ bảo
+đảm ứng dụng công nghệ thông tin hoạt động y tế trên môi trường mạng có hiệu quả.
+3.
+Áp dụng các tiêu chuẩn quốc gia, quốc
+tế trong quá trình xây dựng các ứng dụng công nghệ thông tin y tế:
+a)
+Tiêu chuẩn HL7 (bản tin HL7 phiên bản
+2.
+x
+, bản tin HL7
+phiên bản 3, kiến trúc tài liệu lâm sàng CDA);
+b)
+Tiêu chuẩn h
+ì
+nh ảnh số và
+truyền tải trong y tế: DICOM;
+c)
+Ti
+ê
+u chuẩn kết nối, liên thông và trao đ
+ổ
+i dữ liệu giữa
+các ứng dụng và thiết bị y tế: ISO/IEEE 11073;
+d)
+Tiêu chuẩn trao đổi và chia sẻ các chỉ
+số, siêu dữ liệu thống kê trong lĩnh vực y tế: SDMX-HD;
+đ) Các tiêu chuẩn đã được ban hành
+theo Thông tư số 22/2013/BTTTT ngày 23 tháng 12 năm 2013 của Bộ trưởng Bộ Thông
+tin và Truyền thông.
+4.
+Có Quy chế quản lý và vận hành ứng dụng
+công nghệ thông tin tại cơ
+quan.
+5.
+Việc khai thác và sử dụng dữ liệu
+thông tin y tế liên quan đến người bệnh phải bảo đảm quyền được tôn trọng bí mật
+riêng tư của người bệnh theo quy định của Luật khám bệnh, chữa bệnh.
+6.
+Được phép sử dụng chữ ký số, chứng thư
+số theo quy định tại Nghị định số 26/2007/NĐ-CP ngày 15/02/2006 của Chính phủ về
+việc quy định chi tiết thi hành luật giao dịch điện tử về chữ ký số và dịch vụ
+chứng thực ch
+ữ
+ký số, Nghị
+định số 106/2011/NĐ-CP ngày 23/11/2011 của Chính phủ sửa đổi, bổ sung một
+số
+điều của
+Nghị định số 26/2007/NĐ-CP, Nghị định số 170/2013/NĐ-CP ngày 13/11/2013 của
+Chính phủ về việc sửa đổi, bổ sung một số điều của Nghị định số 26/2007/NĐ-CP
+và Nghị
+đ
+ịnh số
+106/2011/NĐ-CP ngày 23/11/2011 của Chính phủ sửa đổi, bổ sung một số điều của
+Nghị định số 26/2007/NĐ-CP.
+7.
+Việc lập, lưu trữ và khai thác hồ sơ bệnh
+án điện tử phải tuân thủ quy định tại
+Điều 59 của Luật khám bệnh,
+chữa bệnh
+.
+8.
+Trường hợp thuê dịch vụ ứng dụng công
+nghệ thông tin bên ngoài phải có hợp đồng với các điều khoản quy định về cam kết
+về sở hữu hợp pháp thông tin, trách nhiệm của m
+ỗ
+i bên khi có sự cố xảy
+ra.
+8.2. Tiêu chuẩn kỹ
+thuật ứng dụng công nghệ thông tin trong y tế
+8.2.1. Danh mục kỹ thuật do Bộ Y tế
+ban hành
+Số
+TT
+Loại danh mục
+Ký hiệu
+danh
+mục
+Tên đầy đ
+ủ
+Quy định áp
+  dụng
+Ghi chú
+Nguồn tài
+  liệu tham chiếu
+1
+Danh mục các xét nghiệm huyết học,
+  hóa sinh và vi sinh
+Bảng mã các xét nghiệm Huyết học,
+  Hóa sinh và Vi sinh
+Bắt buộc
+Ban hành theo Quyết định số
+  4069/2001/QD-BYT ngày 28 tháng 9 năm 2001 của Bộ trưởng Bộ Y tế và các văn bản
+  cập nhật văn bản này
+http://www.kcb.vn
+http://www.moh.gov.vn
+2
+Danh mục các chẩn đoán Hình
+ả
+nh và Nội
+soi
+Bảng mã các chẩn đoán Hình ảnh và Nội
+  soi
+Bắt buộc
+Ban hành theo Quyết định số 4069/2001
+  /QĐ-B YT ngày 28 tháng 9 năm 2001 của Bộ trưởng Bộ Y tế và các văn b
+ả
+n cập nhật
+  văn bản này
+http://www.kcb.vn
+http://www.moh.gov.vn
+8.2.2. Danh mục do cơ quan khác ban
+hành
+Số
+TT
+Loại danh mục
+Ký hiệu
+danh
+mục
+Tên đầy đ
+ủ
+Quy định áp
+  dụng
+Ghi chú
+Nguồn tài
+  liệu tham chiếu
+1
+Danh mục tiêu chuẩn kỹ thuật về ứng
+  dụng công nghệ thông tin
+trong cơ quan nhà nước
+Danh mục tiêu chuẩn kỹ thuật về
+ứng
+dụng công
+nghệ thông
+  tin trong cơ quan nhà nước
+Theo quy định của Bộ Thông tin và
+Truyền
+  thông
+Thông tư s
+ố
+22/2013/TT-BTTTT
+  ngày 23 tháng 12 năm 2013
+http://www.mic.gov.vn
+2
+Danh mục đơn vị hành chính
+Danh mục đơn vị hành chính Việt Nam
+Bắt buộc
+Ban hành theo Quyết định số
+  124/2004/QĐ-TTg ngày 08 tháng 7 năm 2004 của Thủ tướng Chính phủ và những
+  thay đ
+ổ
+i đã được cập
+  nhật theo quy định.
+http://moj.gov.vn
+3
+Danh mục các dân tộc Việt Nam
+Danh mục các dân tộc Việt Nam
+Bắt buộc
+Ban hành theo Quyết định số 121 -
+  TCTK/PPCĐ ngày 02 tháng 3
+năm
+1979 của Tổng cục trư
+ở
+ng Tổng cục
+  Thống kê và những thay đ
+ổ
+i đã
+được
+cập nhật theo quy định
+http://www.srem.com.vn
+4
+Danh mục nghề nghiệp
+B
+ả
+ng mã nghề nghiệp
+Bắt buộc
+Danh mục nghề nghiệp được ban hành
+  theo Quyết định số 114/1998/QĐ-TCTK ngày 29 tháng 3 năm 1998 của Tổng cục Thống
+  kê
+http://www.gso.gov.vn
+7
+Danh mục quản lý bệnh tật theo Tổ chức
+Y tế thế giới
+ICD-10-CM
+International Classification of
+  Diseases -Clinical
+Modifications
+B
+ắ
+t buộc
+T
+ổ
+chức Y tế Th
+ế
+giới ban
+  hành
+http://www.cdc.gov
+8.2.3.
+Tiêu chuẩn kỹ thuật ứng
+dụng CNTT trong các hệ thống thông tin y tế
+Số
+TT
+Loại danh mục
+Ký hiệu
+danh
+mục
+Tên đầy đ
+ủ
+Quy định áp
+  dụng
+Ghi chú
+Nguồn tài
+  liệu tham chiếu
+1
+Giao thức trao đổi dữ liệu, thông
+  tin y tế HL7
+HL7
+messages
+  version 2.x, 3.0
+Health Level Seven messages version
+  2.x, 3.0
+B
+ắ
+t buộc
+Tổ chức HL7 ban hành
+http://www.hl7.org
+4
+Chuẩn hình ảnh
+số
+và truyền
+  thông trong y tế
+DICOM
+The Digital Imaging and
+  Communications in Medicine - version 2.0
+Bắt buộc
+Hiệp hội các nhà sản xuất điện tử quốc
+  gia (NEMA) - Hoa Kỳ ban hành
+http://medical.nema.org
+5
+Chuẩn quốc tế hỗ trợ trao
+đổi
+các dữ liệu/thông
+  tin thống
+k
+ê
+và siêu dữ
+  liệu giữa các hệ thống thông tin y tế
+SDMX-HD
+Statistical Data and Metadata
+  Exchange
+(SDMX)-base
+d
+data
+  exchange format for the Health Domain
+(
+HD)
+Bắt buộc
+Tổ chức Y tế Thế giới ban hành
+http://www.sdmx-hd.org
+8.3. Bảng dữ liệu kết
+xuất theo công văn số 9324/BYT-BH
+8.3.1.
+Bảng 1. Chỉ tiêu tổng
+hợp khám bệnh, chữa bệnh BHYT
+(
+Ban hành kèm theo Công văn số 9324/BYT-BH
+ngày 30/11/2015
+-
+b
+ắ
+t buộc k
+ế
+t xuất)
+TT
+Chỉ tiêu
+Kiểu dữ
+  liệu
+Kích thước
+  tối đa
+Diễn giải
+1
+ma_lk
+Chuỗi
+Mã đợt điều trị duy nhất (dùng để
+  liên kết giữa bảng tổng hợp (bảng 1) và các bảng chi tiết (bảng 2 đến bảng 5)
+  trong 1 lần khám bệnh, chữa bệnh (PRIMARY KEY)).
+2
+stt
+Số
+6
+Từ 1 đến hết trong 1 lần gửi dữ liệu
+3
+ma_bn
+Chuỗi
+15
+Mã số bệnh nhân qui định tại CSKCB
+4
+ho_ten
+Chuỗi
+Họ và tên người bệnh
+5
+ngay_sinh
+Chuỗi
+8
+Ngày sinh ghi trên thẻ gồm 8 ký tự;
+  4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày (nếu không có ngày sinh thì năm
+  sinh: 4 ký tự)
+6
+gioi_tinh
+Số
+1
+Giới tính; Mã hóa (1 : Nam; 2 : Nữ)
+7
+dia_chi
+Chuỗi
+Địa chỉ ghi trên thẻ BHYT, trẻ em
+  không có thẻ ghi địa chỉ (xã, huyện, tỉnh) trên giấy tờ thay thế
+8
+ma_the
+Chuỗi
+15
+Mã thẻ BHYT do cơ quan BHXH cấp
+  (trường hợp chưa có thẻ nhưng vẫn được hưởng quyền lợi BHYT, VD: trẻ em,
+  người ghép tạng,…thì mã theo nguyên tắc: mã đối tượng + mã tỉnh + mã huyện +
+  000 + số thứ tự đối tượng không có thẻ đến khám trong năm.
+VD: TE1+xx (mã tỉnh)+yy (mã huyện)+000+ zzzzz (số thứ tự trẻ dưới 6 tuổi
+  không có thẻ đến khám trong năm)
+9
+ma_dkbd
+Chuỗi
+5
+Mã cơ sở KCB nơi người bệnh đăng ký
+  ban đầu ghi trên thẻ BHYT
+10
+gt_the_tu
+Chuỗi
+8
+Thời điểm thẻ có giá trị gồm 8 ký
+  tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày
+11
+gt_the_den
+Chuỗi
+8
+Thời điểm thẻ hết giá trị gồm 8 ký
+  tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày
+12
+ten_benh
+Chuỗi
+Ghi đầy đủ chẩn đoán khi ra viện
+13
+ma_benh
+Chuỗi
+5
+Mã bệnh chính theo ICD 10
+14
+ma_benhkhac
+Chuỗi
+Mã bệnh kèm theo theo ICD 10, có
+  nhiều mã ICD được phân cách bằng ký tự chấm phẩy (;)
+15
+ma_lydo_vvien
+Số
+1
+Mã hóa đối tượng đến khám BHYT (1: 
+  Đúng tuyến; 2 : Cấp cứu; 3 : Trái tuyến)
+16
+ma_noi_chuyen
+Chuỗi
+5
+Mã cơ sở KCB chuyển người bệnh đến
+  (mã do cơ quan BHXH cấp)
+17
+ma_tai_nan
+Số
+1
+Tai nạn thương tích; Mã hóa tham
+  chiếu bảng 8 (Bảng tai nạn thương tích)
+18
+ngay_vao
+Chuỗi
+12
+Ngày giờ đến khám hoặc nhập viện
+  gồm: 12 ký tự; 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày + 2 ký tự giờ (24
+  giờ) + 2 ký tự phút
+Ví dụ: ngày 31/03/2015 15:20 được hiển thị là: 201503311520
+19
+ngay_ra
+Chuỗi
+12
+Ngày giờ ra viện gồm 12 ký tự; 4 ký
+  tự năm + 2 ký tự tháng + 2 ký tự ngày + 2 ký tự giờ (24 giờ) + 2 ký tự phút.
+Ví dụ: ngày 05/04/2015 09:20 được hiển thị là: 201504050920
+20
+so_ngay_dtri
+Số
+3
+Số ngày điều trị thực tế
+21
+ket_qua_dtri
+Số
+1
+Kết quả điều trị; Mã hóa (1: Khỏi;
+  2: Đỡ; 3: Không thay đổi; 4: Nặng hơn; 5: Tử vong)
+22
+tinh_trang_rv
+Số
+1
+Tình trạng ra viện; Mã hóa (1: Ra
+  viện; 2: Chuyển viện; 3: Trốn viện; 4: Xin ra viện)
+23
+ngay_ttoan
+Chuỗi
+12
+Ngày giờ thanh toán gồm 12 ký tự; 4
+  ký tự năm + 2 ký tự tháng + 2 ký tự ngày + 2 ký tự giờ (24 giờ) + 2 ký tự
+  phút
+24
+muc_huong
+Số
+3
+Ghi mức hưởng tương ứng với quyền
+  lợi được hưởng của người bệnh (trường hợp đúng tuyến ghi 80 hoặc 95 hoặc 100,
+  trái tuyến ghi mức hưởng * tỷ lệ hưởng tùy theo hạng bệnh viện)
+25
+t_thuoc
+số
+15
+Tổng tiền thuốc đã làm tròn số đến
+  đơn vị đồng
+26
+t_vtyt
+số
+15
+Tổng tiền vật tư y tế đã làm tròn số
+  đến đơn vị đồng
+27
+t_tongchi
+Số
+15
+Tổng chi phí trong lần/đợt điều trị
+28
+t_bntt
+Số
+15
+Số tiền người bệnh thanh toán (bao
+  gồm phần cùng trả và tự trả), định dạng số
+29
+t_bhtt
+Số
+15
+Số tiền đề nghị BHXH thanh toán
+30
+t_nguonkhac
+Số
+15
+Số tiền người bệnh được các nguồn
+  tài chính khác hỗ trợ
+31
+t_ngoaids
+Số
+15
+Chi phí ngoài định suất
+32
+nam_qt
+Số
+4
+Năm đề nghị BHXH thanh toán
+33
+thang_qt
+Số
+2
+Tháng đề nghị BHXH thanh toán
+34
+ma_loai_kcb
+Số
+1
+Mã hóa hình thức KCB
+(1: Khám
+  bệnh; 2: Điều trị ngoại trú; 3: Điều trị nội trú)
+35
+ma_khoa
+Chuỗi
+3
+Nếu bệnh nhân điều trị ở nhiều khoa
+  thì ghi mã khoa tổng kết hồ sơ bệnh án
+36
+ma_cskcb
+Chuỗi
+5
+Mã cơ sở KCB nơi điều trị (Mã do cơ
+  quan BHXH cấp)
+37
+ma_khuvuc
+Chuỗi
+2
+Ghi mã nơi sinh sống trên thẻ
+  "K1/K2/K3"
+38
+ma_pttt_qt
+Chuỗi
+Mã phẫu thuật thủ thuật Quốc tế theo
+  ICD 9 CM Vol 3 cho phẫu thuật thủ thuật (Triển khai sau khi Bộ Y tế ban hành
+  bảng tham chiếu và có văn bản chỉ đạo. Nếu có nhiều PTTT thì mỗi mã cách nhau
+  bởi dấu chẩm phẩy (;)
+39
+can_nang
+Số
+5
+Chỉ thu thập với các bệnh nhân là
+  trẻ em dưới 1 tuổi.
+Là số kilogam (kg) cân nặng của trẻ em khi vào viện
+Số thập phân,  dấu thập phân là dấu phẩy (,)
+Ghi đến 2 chữ số sau dấu thập phân  (vd: 5,75 là 5,75 kg)
+Ghi chú:
+Chỉ tiêu số thứ tự
+30 (t
+_
+nguonkhac) tạm
+thời chưa bắt buộc
+8.3.2.
+B
+ả
+ng 2. Chí
+tiêu chi tiết thuốc thanh toán BHYT
+(Ban hành kèm theo Công văn số
+9324/BYT-BH ngày 30/11/2015 - bắt buộc kết xuất)
+TT
+Chỉ tiêu
+Kiểu dữ
+  liệu
+Kích thước
+  tối đa
+Diễn giải
+1
+ma_lk
+Chuỗi
+Mã đợt điều trị duy nhất (Dùng để
+  liên kết giữa bảng tổng hợp (Bảng 1) và bảng này trong 1 lần khám bệnh, chữa
+  bệnh).
+2
+stt
+Số
+Từ 1 đến hết trong 1 lần gửi dữ liệu
+3
+ma_thuoc
+Chuỗi
+Mã thuốc theo mã quy định tại Bộ mã
+  danh mục dùng chung của Bộ Y tế
+4
+ma_nhom
+Chuỗi
+4
+Dùng để phân loại, sắp xếp các chi
+  phí vào các mục tương ứng  tham chiếu phụ lục Bảng 6
+5
+ten_thuoc
+Chuỗi
+Tên thuốc ghi đúng theo danh mục
+  thuốc đăng ký Cục QLD công bố
+6
+don_vi_tinh
+Chuỗi
+50
+Đơn vị tính ghi đúng theo danh mục
+  thuốc đăng ký Cục QLD công bố
+7
+ham_luong
+Chuỗi
+Hàm lượng ghi đúng theo danh mục
+  thuốc đăng ký Cục QLD công bố
+8
+duong_dung
+Chuỗi
+Đường dùng ghi theo mã quy định tại
+  bộ mã danh mục dùng chung của Bộ Y tế
+9
+lieu_dung
+chuỗi
+Liều dùng trong ngày
+10
+so_dang_ky
+Chuỗi
+Số đăng ký của thuốc theo danh mục
+  thuốc đăng ký Cục QLD công bố
+11
+so_luong
+Số
+5
+Số lượng thực tế sử dụng làm tròn
+  đến 2 chữ số thập phân
+12
+don_gia
+Số
+15
+Đơn giá thanh toán BHYT làm tròn đến
+  đơn vị đồng
+13
+tyle_tt
+Số
+3
+Tỷ lệ thanh toán BHYT đối với thuốc
+  có quy định tỷ lệ (%); Số nguyên dương
+14
+thanh_tien
+Số
+15
+= so_luong * don_gia * tyle_tt hoặc
+  số tiền đề nghị cơ quan BHXH thanh toán (làm tròn đến đơn vị đồng)
+15
+ma_khoa
+Chuỗi
+3
+Mã khoa bệnh nhân được chỉ định sử
+  dụng thuốc
+(tham
+  chiếu phụ lục Bảng 7)
+16
+ma_bac_si
+Chuỗi
+Mã hóa theo số chứng chỉ hành nghề
+  của người chỉ định
+17
+ma_benh
+Chuỗi
+Mã bệnh chính; nếu có các bệnh khác
+  kèm theo ghi các mã bệnh tương ứng, cách nhau bằng dấu chấm phẩy (;)
+18
+ngay_yl
+Chuỗi
+12
+Ngày ra y lệnh (gồm 12 ký tự, theo
+  cấu trúc: yyyymmddHH:mm = 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày + 2 ký
+  tự giờ (24 giờ) + 2 ký tự phút)
+Ví dụ: ngày 31/03/2015 15:20 được hiển thị là: 201503311520
+19
+ma_pttt
+Số
+1
+Mã phương thức thanh toán (0: Phí
+  dịch vụ; 1 : định suất; 2 : ngoài định suất;
+3: DRG)
+Ghi chú:
+-
+Máu và chế phẩm của máu ghi tương tự như thuốc
+-
+Chỉ tiêu số thứ tự 18 (ngay_yl) tạm thời chưa
+bắt buộc
+-
+D
+ấ
+u * là dấu nhân
+8.3.3
+B
+ả
+ng 3. Chỉ
+tiêu chi tiết dịch vụ kỹ thuật và vật tư thanh toán BHYT
+(Ban hành kèm theo Công văn số
+9324/BYT-BH ngày 30/11/2015 - bắt buộc kết xuất)
+TT
+Chỉ tiêu
+Kiểu dữ
+  liệu
+Kích thước
+  tối đa
+Diễn giải
+1
+ma_lk
+Chuỗi
+Mã đợt điều trị duy nhất (dùng để
+  liên kết giữa bảng tổng hợp (Bảng 1) và bảng này trong 1 lần khám bệnh, chữa
+  bệnh).
+2
+stt
+Số
+Từ 1 đến hết trong 1 lần gửi dữ liệu
+3
+ma_dich_vu
+Chuỗi
+Mã dịch vụ quy định tại Bộ mã danh mục
+  dùng chung của Bộ Y tế
+4
+ma_vat_tu
+Chuỗi
+Mã vật tư sử dụng quy định tại Bộ mã
+  danh mục dùng chung của Bộ Y tế, chỉ ghi các vật tư chưa có trong cơ cấu giá
+  dịch vụ
+5
+ma_nhom
+Chuỗi
+4
+Dùng để phân loại, sắp xếp các chi
+  phí vào các mục tương ứng
+6
+ten_dich_vu
+Chuỗi
+Tên dịch vụ
+7
+don_vi_tinh
+Chuỗi
+50
+Đơn vị tính
+8
+so_luong
+Số
+5
+Số lượng thực tế sử dụng làm tròn
+  đến 2 chữ số thập phân
+9
+don_gia
+Số
+15
+Đơn giá thanh toán BHYT làm tròn đến
+  đơn vị đồng
+10
+tyle_tt
+Số
+3
+Tỷ lệ thanh toán BHYT đối với dịch
+  vụ kỹ thuật, vật tư y tế có quy định (tỷ lệ %; Số nguyên dương)
+11
+thanh_tien
+Số
+15
+= so_luong * don_gia * tyle_tt hoặc
+  số tiền đề nghị cơ quan BHXH thanh toán (Làm tròn đến đơn vị đồng)
+12
+ma_khoa
+Chuỗi
+3
+Mã khoa nơi phát sinh dịch vụ (tham
+  chiếu phụ lục Bảng 7)
+13
+ma_bac_si
+Chuỗi
+Bác sỹ khám và chỉ định (mã hóa theo
+  số giấy phép hành nghề)
+14
+ma_benh
+Chuỗi
+18
+Mã bệnh chính (theo ICD 10) được bác
+  sỹ chẩn đoán, nếu có các bệnh khác kèm theo ghi các mã bệnh tương ứng, cách
+  nhau bằng dấu chấm phẩy (;)
+15
+ngay_yl
+Chuỗi
+12
+Ngày ra y lệnh (gồm 12 ký tự, theo
+  cấu trúc: yyyymmddHHmm = 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày + 2 ký tự
+  giờ (24 giờ) + 2 ký tự phút)
+Ví dụ: ngày 31/03/2015 15:20 được hiển thị là: 201503311520
+16
+ngay_kq
+Chuỗi
+12
+Ngày có kết quả (gồm 12 ký tự, theo
+  cấu trúc: yyyymmddHHmm = 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày + 2 ký tự
+  giờ (24 giờ) + 2 ký tự phút)
+Ví dụ: ngày 31/03/2015 15:20 được hiển thị là: 201503311520
+Ghi ch
+ú
+:
+-
+Trường hợp dịch vụ có sử dụng vật tư kèm
+theo: ghi mã dịch vụ tại cột (3), ghi mã vật tư tại cột (4)
+-
+Chỉ tiêu số thứ tự 15 (ngay_yl) tạm thời chưa
+yêu cầu bắt buộc
+-
+Dấu * là dấu nhân
+8.3.4.
+B
+ả
+ng 4. Chỉ
+tiêu chỉ số kết quả cận lâm sàng
+(Ban hành kèm theo Công văn số
+9324/BYT-BH ngày 30/11/2015)
+TT
+Chỉ tiêu
+Kiểu dữ
+  liệu
+Kích thước
+  tối đa
+Diễn giải
+1
+ma_lk
+Chuỗi
+15
+Mã đợt điều trị duy nhất (dùng để
+  liên kết giữa bảng tổng hợp (Bảng 1) và bảng này trong 1 lần khám bệnh, chữa
+  bệnh).
+2
+stt
+Số
+3
+Từ 1 đến hết trong 1 lần gửi dữ liệu
+3
+ma_dich_vu
+Chuỗi
+15
+Mã dịch vụ kỹ thuật CLS
+4
+ma_chi_so
+Chuỗi
+Mã chỉ số xét nghiệm
+5
+ten_chi_so
+Chuỗi
+Tên chỉ số xét nghiệm
+6
+gia_tri
+Chuỗi
+Giá trị chỉ số (kết quả xét nghiệm)
+7
+ma_may
+Chuỗi
+Mã danh mục máy CLS (máy XN, máy XQ,
+  siêu âm…)
+8
+mo_ta
+Chuỗi
+Mô tả do người đọc kết quả ghi
+9
+ket_luan
+Chuỗi
+Kết luận của người đọc kết quả
+10
+ngay_kq
+Chuỗi
+12
+Ngày có kết quả (gồm 12 ký tự, theo
+  cấu trúc: yyyymmddHHmm = 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày + 2 ký tự
+  giờ (24 giờ) + 2 ký tự phút)
+Ví dụ: ngày 31/03/2015 15:20 được hiển thị là: 201503311520
+8.3.5.
+B
+ả
+ng 5. Chỉ
+tiêu theo dõi diễn biến lâm sàng
+(Ban hành kèm theo Công văn số
+9324/BYT-BH ngày 3
+0
+/11/2015)
+TT
+Chỉ tiêu
+Kiểu dữ
+  liệu
+Kích thước
+  tối đa
+Diễn giải
+1
+ma_lk
+Chuỗi
+15
+Mã đợt điều trị duy nhất (dùng để
+  liên kết giữa bảng tổng hợp (Bảng 1) và bảng này trong 1 lần khám bệnh, chữa
+  bệnh).
+2
+stt
+Số
+3
+Từ 1 đến hết trong 1 lần gửi dữ liệu
+3
+dien_bien
+Chuỗi
+Ghi diễn biến bệnh trong lần khám
+4
+hoi_chan
+Chuỗi
+Ghi kết quả hội chẩn (nếu có)
+5
+phau_thuat
+Chuỗi
+Mô tả cách thức phẫu thuật
+6
+ngay_yl
+Chuỗi
+12
+Ngày ra y lệnh (gồm 13 ký tự, theo
+  cấu trúc: yyyymmddHHmm = 4 ký tự năm + 2 ký tự tháng + 2 ký tự ngày + 2 ký tự
+  giờ (24 giờ) + 2 ký tự phút)
+Ví dụ: ngày 31/03/2015 15:20 được hiển thị là: 201503311520
+8.4. Yêu cầu
+kỹ thuật, công nghệ cổng tích hợp dữ liệu KCB BHYT
+STT
+Nội dung yêu cầu
+I
+Yêu cầu chung
+1
+Tuân thủ theo công nghệ xây dựng ứng
+  dụng trên nền giao diện web (Web
+-
+based application). Giao diện được
+  trình bày khoa học, hợp lý và đảm bảo mỹ thuật hài hòa với mục đích của Cổng thông
+  tin Bộ/Tỉnh/Huyện/Cơ sở khám chữa bệnh, sử dụng các chuẩn về truy cập thông
+  tin phù hợp tiêu chuẩn Việt Nam và theo thông lệ quốc tế.
+2
+Tương thích với các trình duyệt Web
+  thông dụng như IE, Firefox, Opera, v.v...
+3
+Các chức năng quản lý dành cho lãnh
+  đạo Bộ Y tế có khả năng hiển thị và xử lý trên thiết bị di động.
+4
+Khả năng hỗ trợ tối thiểu hai ngôn
+  ngữ: tiếng Việt và tiếng Anh để thể hiện nội dung thông tin
+5
+Khả năng tích hợp kênh thông tin dịch
+  vụ ứng dụng để trao đ
+ổ
+i thông tin
+  với các ứng dụng liên quan của ngành y tế.
+6
+Khả năng tích hợp kênh thông tin dịch
+  vụ, ứng dụng cung cấp dịch vụ theo các chuẩn
+t
+ương tác của phần mềm
+  cổng lõi (JSR168, J2EE, webservic
+e
+, Web-cliping...).
+7
+Phương án triển khai, đào tạo chuyển
+  giao công nghệ rõ ràng và khả thi
+8
+Khả năng chịu tải lớn (1,000,000 hồ
+  sơ đề nghị thanh toán giao dịch thành công/ ngày và các giao dịch khác liên
+  quan đến kiểm tra lạm dụng th
+ẻ
+BHYT,
+chuyển tuyến
+cho khoảng 400,000
+  lượt khám/ ngày) cho
+khoảng
+14,000
+  cơ sở y tế toàn quốc hoạt động ổn định.
+II
+Các yêu c
+ầ
+u về n
+ề
+n tảng công
+  nghệ
+1
+Có khả năng cá nhân hóa thông tin
+  cho từng người dùng (Customization hay Personalization): cho phép thiết đặt
+  các thông tin khác nhau cho các loại đối tượng sử dụng khác nhau theo yêu cầu.
+  Tính n
+ă
+ng này dựa
+  trên hoạt
+đ
+ộng thu thập
+  thông tin về người dùng và cộng đồng người dùng, từ đó cung cấp các thông tin
+  chính xác tại thời điểm được yêu cầu
+2
+Có khả năng quản lý đăng nhập một lần,
+  tích hợp nhiều loại thông tin theo cơ chế SSO: cho phép dịch vụ xuất bản
+  thông tin hoặc các dịch vụ khác của portal l
+ấ
+y thông tin về ng
+ư
+ời dùng khi
+  hoạt động mà không phải yêu cầu người dùng phải đăng nhập lại mỗi khi có yêu
+  cầu. Đây là một tính năng rất quan trọng vì các ứng dụng và dịch vụ trong
+  portal sẽ phát triển một cách nhanh chóng khi xuất hiện nhu cầu, mà các ứng dụng
+  và dịch vụ này tất yếu sẽ có các nhu cầu về xác thực hoặc truy xuất thông tin
+  người dùng
+3
+Có khả năng hỗ trợ nhiều môi trường
+  hiển thị thông tin tr
+ê
+n thiết bị
+  di động
+.
+Các
+  chức năng dành cho lãnh đạo cơ sở y tế, Vụ/Cục, Bộ có khả năng thao tác trên
+  thiết bị di động (thống kê, phân tích, báo cáo): (Multidevice support): cho
+  phép hiển thị cùng một nội
+d
+ung thông tin trên nhiều loại thiết bị khác
+  nhau như: màn hình máy tính (PC), thiết bị di động (Mobile phone, Wireless
+  phone, PDA), sử dụng để in hay cho bản fax... một cách tự động b
+ằ
+ng cách xác
+  định thiết bị hiển thị thông qua các thuộc tính khác nhau. V
+í
+dụ: cùng một
+  nội dung đó, khi hiển thị trên màn hình máy tính th
+ì
+sử dụng
+  HTML, nhưng khi hệ thống xác định được thiết hiển thị là PDA hay mobile
+  phone, hệ thống sẽ loại bỏ các ảnh có trong nội dung và tự động chuyển nội
+  dung đó sang định dạng WML (Wireless Markup Language) để phù hợp cho việc hi
+ể
+n thị trên
+  màn hình của thiết bị di động.
+4
+Có khả năng quản trị c
+ổ
+ng con (C
+ổ
+ng dữ liệu
+  KCB BHYT phân cấp cho Tỉnh)
+5
+Có khả năng quản trị người dùng theo
+  chuẩn LDAP
+6
+Có khả năng mã hóa và giải mã thông
+  tin người dùng, đặc biệt là dữ liệu đề nghị thanh toán BHYT được thu nhận và
+  chuyển dữ liệu thông qua cổng.
+7
+Công cụ tìm ki
+ế
+m (Search
+  Engine): với khả năng tìm ki
+ế
+m toàn v
+ă
+n mạnh mẽ, công cụ tìm kiếm không chỉ
+  tìm kiếm trong hệ thống Portal nội bộ mà còn trên nhiều các nguồn tài nguyên
+  khác nhau, trên các ứng dụng trong mạng nội bộ, trên internet hay trong các
+  cơ sở dữ liệu có cấu trúc hay không cấu trúc đến các thư mục đâu đó trên mạng
+  WAN, LAN
+8
+Sử dụng công nghệ phát triển c
+ổ
+ng thông
+  tin tin cậy như: Microsoft sharepoint Portal; Oracle WebLogic Portal; Sun
+  Java System Portal; IBM WebSphere Portal
+9
+Quản trị cổng thông tin (Portal
+  adminis
+tr
+ation): xác
+  định cách thức hiển thị thông tin cho người dùng cuối. Tính năng này không chỉ
+  đơn gi
+ả
+n là thiết
+  lập các giao diện người dùng với các chi tiết đồ
+họa
+(look-and-feel), với tính năng này, người quản trị phải định nghĩa được các
+  thành phần thông tin, các kênh tương tác với người sử dụng cuối, định nghĩa
+  nhóm người dùng cùng với các quyền truy cập và sử dụng thông tin khác nhau
+10
+Quản trị người dùng (Portal user
+  management): cung cấp các khả năng quản trị người dùng cuối,
+tùy
+thuộc vào
+  đối tượng sử dụng của portal. Tại đây, người sử dụng có thể tự đăng ký trở
+  thành thành viên tại một cổng thông tin công cộng (như Yahoo, MSN...) hoặc được
+  người quản trị tạo lập và gán quyền sử dụng tương ứng đối với các cổng thông
+  tin doanh nghiệp. Mặt khác, tuỳ vào từng kiểu portal mà số lượng thành viên
+  có thể từ vài nghìn tới hàng triệu. Hiện tại phương pháp phân quyền sử dụng dựa
+  trên vai trò (RoleL based security) được sử dụng như một tiêu chuẩn trong các
+  hoạt động xác định quyền truy cập và cung cấp thông tin cho các đối tượng
+  khác nha
+u
+  trong portal cũng như các ứng dụng Web
+11
+Nhà cung cấp dịch vụ (Services
+  Provider): với nền tàng phát triển mạnh m
+ẽ
+, Cổng thông tin không chỉ mạnh về
+  cung cấp thông tin, dữ liệu, tương tác đa chiều mà còn là công cụ cung cấp
+  thông tin, dữ liệu dưới dạng dịch vụ. Với nền tảng ứng dụng công nghệ ESB (Enterprise
+  Service Bus) và BPM (Business Processes Management), cùng với các
+F
+amework
+  phát triển mạnh m
+ẽ
+, mọi yêu cầu
+  đều trở thành dịch vụ mà các ứng dụng
+lõi
+, ứng dụng nền t
+ả
+ng có th
+ể
+cung c
+ấ
+p một cách
+  nhanh nhất và bảo đảm an toàn thông tin
+12
+Social Content: thêm vào đó, người
+  dùng có thể sẽ thỏa mãn với tính năng Social Content, đây đang là xu hướng mới
+  và s
+ẽ
+phổ biến
+  trong tương lai, khi mà mỗi file tài liệu không chỉ đơn giản là tải lên
+  server để lưu trữ, mà tài liệu sẽ là đối tượng, là chủ đề có thể chia sẻ, lưu
+  trữ, tìm kiếm, thảo luận, thành quy trình phục vụ công việc
+13
+Social for business: ngoài các ứng dụng
+  tương tác B2C, Portal c
+ũ
+ng cung cấp
+  gi
+ả
+i pháp mạng
+  xã hội đặc thù nội bộ trong đơn vị, cho phép tương tác, chia sẻ, quản lý công
+  việc giữa mọi nhân viên, lãnh đạo là thông suốt trên mọi vùng miền địa lý, giải
+  pháp này hỗ trợ video trong giao tiếp, trao đổi.
+III
+Yêu cầu
+về
+sao lưu,
+  phục hồi dữ liệu
+1
+Phải có cơ chế sao lưu dữ liệu định
+  kỳ, đột xuất đảm bảo nhanh chóng đưa hệ thống hoạt động trở lại trong trường
+  hợp có sự cố xảy ra.
+2
+Các dữ liệu cần sao lưu:
+-
+Dữ liệu cấu hình hệ thống (Quản lý
+  người sử dụng; cấu hình thiết lập kênh thông tin...).
+-
+Cơ sở d
+ữ
+liệu lưu
+  trữ hồ sơ đề nghị thanh toán của các cơ sở y tế.
+-
+Các dữ liệu nghiệp vụ liên quan
+  khác.
+3
+-
+Có cơ chế phục hồi dữ liệu khi hệ thống
+  gặp sự cố
+IV
+Yêu cầu khác của Cổng
+  tích hợp dữ liệu
+1
+Mô tả kiến trúc tổng thể của c
+ổ
+ng thông
+  tin tích hợp BYT
+2
+Mô t
+ả
+chi tiết nền tảng
+  công nghệ triển khai cổng thông tin tích hợp BYT gồm công nghệ phát triển,
+  môi trường phát triển (nếu là mã nguồn mở thì nêu rõ nguồn gốc, các thành phần
+  đã có, chỉnh sửa b
+ổ
+sung, bản
+  quy
+ề
+n thương mại)
+3
+Mô tả chi tiết giải pháp kỹ thuật kết
+  nối với các cơ sở y tế, Sở Y tế, BHXH trong việc liên thông dữ liệu khám chữa
+  bệnh BHYT thông qua c
+ổ
+ng tích hợp
+  BYT
+4
+Mô tả chi tiết các thành phần ứng dụng
+  gồm các hệ thống tiếp nhận dữ liệu; khai thác, phân tích dự báo và báo cáo thống
+  kê tích hợp vào c
+ổ
+ng tích hợp
+BYT và các
+  đề xuất khác của nhà cung cấp
+5
+Mô tả phương án, tiêu chuẩn kỹ thuật,
+  quy trình sử dụng của người dùng đảm an toàn an ninh dữ liệu liên thông
+6
+Mô tả chi tiết phương án của nhà
+  cung cấp về mô hình triển khai hạ tầng (máy chủ, cân b
+ằ
+ng tải, lưu
+  trữ, tường lửa, đường truyền từ các cơ sở y t
+ế
+tới TTDL) cho các
+  thành phần môi trường vận hành chính, dự phòng, đào tạo
+7
+Mô tả tính toán cấu hình thiết bị phần
+  cứng cho mô hình triển khai hạ tầng n
+ê
+u trên
+V
+Đáp ứng
+các tiêu
+  chí đánh giá tại Công văn số 310/CV-
+Ư
+DCNTT.
+1
+Bộ tiêu chí đánh giá ban đầu theo bộ
+  tiêu chí đánh giá cổng thông tin tại các mục
+I
+.1,
+I
+.2;
+I.3
+và III.1,
+  III.2,
+III
+.4,
+III
+.5 Phần B
+  trong phụ lục kèm theo công văn
+số
+310/BTTTT-ƯDCNTT ngày 10/02/2012 của
+  Bộ Thông tin và Truyền thông
+2
+Trước khi đưa vào sử dụng, cổng tích
+  hợp KCB BHYT sẽ phải tiến hành đánh gi
+á
+thực nghiệm (test vận hành) chủ yếu
+  về bảo mật và hiệu năng. Các tiêu chí này sẽ đưa ra sau khi cổng tích hợp của
+  các nhà cung cấp
+sẵn
+sàng triển
+  khai thực tế.
+8.5. Tham khảo
+·
+Tham khảo tiêu chí của Gartner về các giai đoạn
+phát triển Chính phủ điện tử
+·
+Tham khảo tiêu chí công nghệ thông tin trong
+y tế của tổ chức HIMSS.
+·
+Tham khảo hướng dẫn của Joint Learning
+Network và Public Health Institute
+·
+Comparisons of Health Insurance Systems in
+Developed Countries của các tác giả: Randall
+P
+. Ellis, Tianxu Chen,
+and Calvin E. Luscombe Boston University, Department of Economics 270 Bay State
+Road; Boston MA 02215 USA
+·
+2014 International Profiles Of Health Care
+Systems: Aus
+tr
+alia, Canada,
+Denmark, England, Trance, Germany, Italy, Japan, The Netherlands, New Zealand,
+Norway, Singapore, Sweden, Switzerland, and the United States
+·
+Đề xuất chiến lược e-Health của Vinasa
+·
+Đề xuất mô hình quản lý khám chữa bệnh bảo hiểm
+y tế của NTT Data sử dụng tại Nhật bản
+·
+Kết quả thí điểm
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

@@ -1,0 +1,446 @@
+BẢO HIỂM XÃ HỘI
+  VIỆT NAM
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 510/QĐ-BHXH
+Hà Nội, ngày 07
+  tháng 05 năm 2024
+QUYẾT ĐỊNH
+BAN HÀNH CHƯƠNG TRÌNH HÀNH ĐỘNG CỦA BẢO HIỂM XÃ HỘI VIỆT NAM
+THỰC HIỆN NGHỊ QUYẾT SỐ 398-NQ/BCSĐ NGÀY 15/3/2024 CỦA BAN CÁN SỰ ĐẢNG BẢO HIỂM
+XÃ HỘI VIỆT NAM
+TỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM
+Căn cứ Nghị định số
+89/2020/NĐ-CP ngày 04/8/2020 của Chính phủ quy định chức năng, nhiệm vụ, quyền
+hạn và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam;
+Căn cứ Nghị quyết số
+398-NQ/BCSĐ ngày 15/3/2024 của Ban Cán sự đảng Bảo hiểm xã hội Việt Nam về việc
+tăng cường công tác bảo đảm an toàn thông tin mạng ngành Bảo hiểm xã hội Việt
+Nam;
+Theo đề nghị của Giám đốc
+Trung tâm Công nghệ thông tin.
+QUYẾT ĐỊNH:
+Điều 1.
+Ban hành kèm theo Quyết định này Chương trình hành động của
+Bảo hiểm xã hội Việt Nam thực hiện Nghị quyết số 398-NQ/BCSĐ ngày 15/3/2024 của
+Ban Cán sự đảng Bảo hiểm xã hội Việt Nam về việc tăng cường công tác bảo đảm an
+toàn thông tin mạng Ngành Bảo hiểm xã hội Việt Nam.
+Điều 2.
+Quyết định này có hiệu lực thi hành kể từ ngày ký.
+Điều 3.
+Giám đốc Trung tâm Công nghệ thông tin, Chánh Văn phòng Bảo
+hiểm xã hội Việt Nam, Thủ trưởng các đơn vị trực thuộc Bảo hiểm xã hội Việt Nam
+và Giám đốc Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương chịu
+trách nhiệm thi hành Quyết định này./.
+Nơi nhận:
+- Như Điều 3;
+- Tổng Giám đốc (để b/c);
+- Bộ TTTT (để b/c);
+- BCSĐ BHXH Việt Nam (để b/c);
+- Các Phó Tổng Giám đốc;
+- Lưu: VT, CNTT.
+KT. TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Chu Mạnh Sinh
+CHƯƠNG TRÌNH HÀNH ĐỘNG CỦA BẢO
+HIỂM XÃ HỘI VIỆT NAM
+THỰC HIỆN NGHỊ QUYẾT SỐ 398-NQ/BCSĐ NGÀY 15/3/2024 CỦA BAN
+CÁN SỰ ĐẢNG BẢO HIỂM XÃ HỘI VIỆT NAM
+(Kèm theo Quyết định số 510/QĐ-BHXH ngày 07/05/2024 của Tổng Giám đốc Bảo hiểm
+xã hội Việt Nam)
+Thực hiện Nghị quyết số
+398-NQ/BCSĐ ngày 15/3/2023 của Ban cán sự đảng Bảo hiểm xã hội (BHXH) Việt Nam
+về việc tăng cường công tác bảo đảm an toàn thông tin mạng (ATTT) ngành BHXH Việt
+Nam (sau đây gọi tắt là Nghị quyết số 398-NQ/BCSĐ), BHXH Việt Nam xây dựng
+Chương trình hành động thực hiện Nghị quyết số 398-NQ/BCSĐ với các nội dung
+sau:
+I. MỤC ĐÍCH,
+YÊU CẦU
+1. Mục đích
+Khắc phục được những tồn tại, hạn
+chế; phát huy vai trò tích cực, chủ động trong công tác bảo đảm ATTT; tập trung
+trí tuệ và sức mạnh tổng hợp của toàn Ngành để tiếp tục tổ chức thực hiện hiệu
+quả các mục tiêu, nhiệm vụ tại Nghị quyết số 398-NQ/BCSĐ; xây dựng, đào tạo nguồn
+nhân lực chất lượng cao về an ninh mạng; rà soát, xây dựng và ban hành các văn
+bản quy định về ATTT để triển khai thực hiện thống nhất trong toàn Ngành; xây dựng
+ngành BHXH Việt Nam hiện đại, chuyên nghiệp, hiệu quả đáp ứng yêu cầu xây dựng
+Chính phủ điện tử, hướng tới Chính phủ số.
+2. Yêu cầu
+- Đảm bảo sự nhất quán với việc
+thực hiện các mục tiêu, nhiệm vụ bảo đảm ATTT đến năm 2025 mà BHXH Việt Nam đã
+ban hành tại các Kế hoạch về phát triển Chính phủ số, Chuyển đổi số đến năm
+2025.
+- Thực hiện nghiêm túc, đầy đủ
+quy định của pháp luật về an toàn, an ninh mạng và các nhiệm vụ, giải pháp của Nghị
+quyết số 398-NQ/BCSĐ.
+- Xác định rõ trọng tâm, lộ
+trình thực hiện; phân công đúng chức năng, nhiệm vụ và đảm bảo phối hợp chặt chẽ,
+hiệu quả, kịp thời giữa các đơn vị trong triển khai thực hiện nhiệm vụ; chủ động
+giải quyết kịp thời những khó khăn, vướng mắc trong quá trình thực hiện đảm bảo
+hoàn thành các nhiệm vụ đề ra.
+II. CHỈ TIÊU
+CHỦ YẾU
+- 100% công chức, viên chức và
+người lao động (CCVC) trong toàn Ngành được phổ biến, quán triệt quan điểm, mục
+tiêu, nhiệm vụ, giải pháp trong thực hiện công tác bảo đảm ATTT được nêu tại Nghị
+quyết, kịp thời phổ biến chủ trương, hướng dẫn để thống nhất trong triển khai
+thực hiện.
+- 100% CCVC trong toàn Ngành được
+đào tạo, bồi dưỡng nâng cao nhận thức, trách nhiệm trong công tác bảo đảm ATTT;
+tập huấn về kỹ năng số, kỹ năng bảo mật thông tin trên môi trường mạng.
+- Kiện toàn Đội ứng cứu sự cố,
+bảo đảm 100% BHXH cấp tỉnh có CCVC chuyên trách về ATTT tham gia Đội ứng cứu sự
+cố ATTT Ngành BHXH Việt Nam (Đội ứng cứu sự cố); duy trì giao ban Đội ứng cứu sự
+cố tối thiểu 01 lần/quý để kịp thời chia sẻ thông tin và tháo gỡ vướng mắc
+trong quá trình thực hiện công tác bảo đảm ATTT.
+- Hoàn thiện các quy định, hướng
+dẫn về ATTT của Ngành BHXH Việt Nam và các quy trình nghiệp vụ gắn với việc
+phân cấp, phân quyền trên phần mềm nghiệp vụ bảo đảm rõ người, rõ việc, rõ
+trách nhiệm.
+- Tiếp tục duy trì và đầu tư,
+phát triển hạ tầng thông tin, bảo đảm hệ thống hạ tầng kỹ thuật ATTT có đầy đủ
+chế độ bảo hành, hỗ trợ kỹ thuật và bản quyền tính năng.
+- Xây dựng cơ chế, chính sách
+và tiếp tục nghiên cứu, triển khai các giải pháp kỹ thuật bảo đảm ATTT theo quy
+định của nhà nước.
+- Hằng năm, tổ chức triển khai
+công tác đào tạo, tập huấn, phát triển nguồn nhân lực chuyên trách công tác bảo
+đảm ATTT; tổ chức hội nghị ATTT và diễn tập ứng cứu sự cố ATTT trong toàn
+Ngành.
+- Hằng năm, tổ chức các Đoàn kiểm
+tra, hướng dẫn công tác bảo đảm ATTT tại các đơn vị trong toàn Ngành.
+- Hằng năm, tiến hành đánh giá
+hiệu quả của các biện pháp bảo đảm ATTT đã được phê duyệt để điều chỉnh, phê
+duyệt hồ sơ đề xuất cấp độ và phương án bảo đảm ATTT đối với các hệ thống đang
+triển khai hoặc triển khai mới.
+III. NHIỆM VỤ,
+GIẢI PHÁP
+1. Nhiệm
+vụ
+1.1. Đào tạo, tập huấn
+- Tiếp tục đào tạo, huấn luyện
+nâng cao kiến thức chuyên sâu nghiệp vụ về ATTT cho CCVC quản lý, kỹ thuật.
+- Chú trọng công tác tập huấn,
+bồi dưỡng nâng cao nhận thức và kỹ năng số, kỹ năng ATTT cho CCVC trong toàn
+Ngành với sự tham gia trình bày của các chuyên gia, báo cáo viên của các đơn vị
+thuộc Bộ Công an, Bộ Thông tin - Truyền thông, Ban Cơ yếu Chính phủ.
+1.2. Tăng cường kỷ luật, kỷ
+cương, thực hiện công tác thi đua khen thưởng
+- Tăng cường công tác lãnh đạo,
+chỉ đạo của Thủ trưởng các đơn vị trực thuộc BHXH Việt Nam và BHXH các tỉnh.
+Người đứng đầu đơn vị chịu trách nhiệm khi có sự cố gây mất ATTT trong đơn vị của
+mình quản lý.
+- Tăng cường kỷ luật, kỷ cương
+hành chính, đổi mới phương thức, lề lối làm việc, kiên quyết xử lý theo quy định
+những CCVC có hành vi vi phạm quy chế, quy định của Ngành về ATTT, làm lộ lọt,
+mất tài khoản, dữ liệu…
+- Tăng cường công tác quán triệt
+kịp thời, liên tục, nâng cao nhận thức, ý thức trách nhiệm của CCVC để nhận thức
+đầy đủ vị trí, vai trò và tầm quan trọng của công tác bảo đảm ATTT, đặc biệt là
+ý thức trách nhiệm bảo vệ tài khoản nghiệp vụ của CCVC trong toàn Ngành.
+- Biểu dương, khen thưởng các tập
+thể, cá nhân có thành tích xuất sắc trong thực hiện công tác bảo đảm ATTT.
+1.3. Quy hoạch, xây dựng các
+“hàng rào kỹ thuật”
+- Thường xuyên rà soát, điều chỉnh,
+bổ sung, hoàn thiện các quy định, quy chế về ATTT của Ngành BHXH Việt Nam; các quy
+trình nghiệp vụ gắn với việc phân cấp, phân quyền trên phần mềm nghiệp vụ bảo đảm
+rõ người, rõ việc, rõ trách nhiệm.
+- Xây dựng các tiêu chuẩn, quy
+chuẩn kỹ thuật, quy hoạch chính sách ATTT trong hoạt động ứng dụng CNTT phù hợp
+với tình hình ATTT trong từng giai đoạn.
+- Triển khai các giải pháp kỹ
+thuật ATTT bảo đảm hạn chế tối đa các hành vi vi phạm; giám sát và ngăn chặn kịp
+thời các hành vi vi phạm chính sách ATTT; khoanh vùng, cô lập, khống chế các vi
+phạm ATTT trong phạm vi hẹp để giảm thiểu thiệt hại về tài sản thông tin, dữ liệu;
+đánh giá, tháo gỡ khó khăn, vướng mắc trong việc thực hiện công tác bảo đảm
+ATTT.
+- Tiếp tục rà soát, đánh giá và
+phê duyệt hồ sơ đề xuất cấp độ và phương án bảo đảm ATTT cho các hệ thống thông
+tin của BHXH Việt Nam và BHXH tỉnh, thành phố.
+1.4. Xây dựng nguồn nhân lực
+- Nghiên cứu, đánh giá kiện
+toàn về mô hình, bộ máy tổ chức, nhân sự phù hợp với yêu cầu chuyển đổi số nói
+chung và thực hiện công tác bảo đảm ATTT trong ngành BHXH Việt Nam nói riêng.
+Đánh giá việc thực hiện kiện toàn, cơ cấu lại Phòng CNTT về Văn phòng BHXH cấp
+tỉnh của 56 đơn vị BHXH cấp tỉnh, bảo đảm nguồn nhân lực làm CNTT, ATTT theo
+đúng hướng dẫn của BHXH Việt Nam về bàn giao nhiệm vụ của Phòng CNTT và Văn
+phòng BHXH cấp tỉnh.
+- Kiện toàn và đẩy mạnh hoạt động
+của Đội ứng cứu sự cố, CCVC chuyên trách ATTT của BHXH các tỉnh là lực lượng
+nòng cốt trong việc triển khai thực hiện nhiệm vụ bảo đảm ATTT tại các đơn vị.
+1.5. Trang bị hạ tầng kỹ thuật
+- Trang bị hạ tầng kỹ thuật mới,
+hiện đại, có khả năng ngăn chặn tấn công bảo đảm an toàn dữ liệu, ATTT.
+- Duy trì chế độ bảo hành cho
+các hệ thống hạ tầng kỹ thuật ATTT bảo đảm luôn hoạt động ổn định và có sự hỗ
+trợ kỹ thuật từ các đơn vị cung cấp sản phẩm nhằm tối ưu hóa các tính năng của
+thiết bị. Đẩy nhanh triển khai các nhiệm vụ/dự án đã được xây dựng.
+1.6. Phối hợp với các cơ
+quan liên quan
+- Tăng cường công tác phối hợp
+với các đơn vị chức năng về an ninh mạng của Bộ Công an, Bộ Quốc phòng, Bộ
+Thông tin - Truyền thông, Ban Cơ yếu Chính phủ nhằm thực hiện giám sát các hệ
+thống thông tin của Ngành; kịp thời phát hiện và xử lý sự cố, lỗ hổng, ngăn chặn,
+bóc gỡ mã độc tấn công vào hệ thống mạng; áp dụng các giải pháp quản lý và kỹ
+thuật bảo đảm ATTT phù hợp.
+- Tăng cường hợp tác quốc tế
+trong đào tạo, nghiên cứu và ứng dụng khoa học, kỹ thuật, công nghệ về ATTT.
+2. Giải
+pháp
+- Tổ chức các lớp bồi dưỡng
+nâng cao kiến thức chuyên sâu về ATTT như: an toàn mạng máy tính, an toàn hệ điều
+hành, an toàn các ứng dụng web, an toàn cơ sở dữ liệu, các kỹ thuật tấn công và
+xâm nhập mạng, mô hình bảo vệ và các kỹ thuật phòng thủ chống tấn công xâm nhập,
+quản trị mạng an toàn, sử dụng công cụ bảo đảm an toàn, quản lý và đánh giá điểm
+yếu, lỗ hổng, các kỹ thuật kiểm tra đánh giá an toàn, các vấn đề về chính sách,
+pháp luật và chuẩn hóa an toàn thông tin.
+- Triển khai các hình thức
+tuyên truyền, phổ biến chuyên đề về an toàn, an ninh thông tin dưới nhiều hình
+thức đa dạng như hội nghị giao ban, hội nghị chuyên đề, hội nghị diễn tập… để
+CCVC tích cực tham gia, hưởng ứng học tập.
+- Tổ chức xây dựng, bổ sung vào
+kế hoạch thực hiện công tác trọng tâm của đơn vị về công tác bảo đảm ATTT.
+- Xây dựng các chương trình, kế
+hoạch, nội dung kiểm tra trực tiếp, gián tiếp công tác bảo đảm ATTT tại các đơn
+vị. Kịp thời đề xuất xử lý các vi phạm, biểu dương khen thưởng các tập thể, cá
+nhân thực hiện tốt công tác bảo đảm ATTT.
+- Rà soát, chỉnh sửa, bổ sung
+các quy trình, quy chế, các tiêu chuẩn, quy chuẩn kỹ thuật, quy hoạch chính
+sách ATTT trong hoạt động ứng dụng CNTT đã được ban hành. Xây dựng mới, bãi bỏ
+các các quy định ATTT phù hợp với tình hình ATTT trong từng giai đoạn.
+- Tổ chức đánh giá việc thực hiện
+kiện toàn cơ cấu lại Phòng CNTT về Văn phòng BHXH cấp tỉnh theo Quyết định số
+2355/QĐ-BHXH ngày 16/9/2022 của Tổng Giám đốc BHXH Việt Nam quy định chức năng,
+nhiệm vụ, quyền hạn và cơ cấu tổ chức của BHXH địa phương.
+- Khẩn trương đẩy nhanh tiến độ
+các dự án mua sắm, trang bị, gia hạn bảo hành, hỗ trợ kỹ thuật các hệ thống
+công nghệ thông tin.
+- Mời các chuyên gia ATTT của Bộ
+Công an, Bộ Thông tin - Truyền thông tham gia xây dựng các nội dung, kế hoạch
+đánh giá ATTT cho các hệ thống thông tin của Ngành. Thường xuyên tham gia các
+cuộc đào tạo, diễn tập ATTT trong nước và quốc tế do các đơn vị chức năng về
+ATTT tổ chức.
+IV. TỔ CHỨC
+THỰC HIỆN
+1. Ban Chỉ đạo chuyển đổi số
+ngành BHXH Việt Nam chỉ đạo, đôn đốc, kiểm tra, giám sát, đánh giá kết quả công
+tác bảo đảm an toàn, an ninh mạng trong toàn Ngành; đột xuất hoặc định kỳ hằng
+năm báo cáo Ban Thường vụ Đảng ủy cơ quan và Ban Cán sự đảng BHXH Việt Nam. Định
+kỳ hằng năm tổ chức tổng kết đánh giá kết quả triển khai, thực hiện Nghị quyết
+số 398-NQ/BCSĐ.
+2. Các đơn vị trực thuộc BHXH
+Việt Nam, BHXH các tỉnh, thành phố trực thuộc Trung ương tổ chức triển khai các
+nhiệm vụ được giao (tại Phụ lục kèm theo) đảm bảo tiến độ, chất lượng; báo cáo
+tình hình thực hiện nhiệm vụ về BHXH Việt Nam (qua Trung tâm CNTT).
+PHỤ LỤC
+PHÂN CÔNG TRIỂN KHAI THỰC HIỆN NGHỊ QUYẾT SỐ 398-NQ/BCSĐ
+VỀ TĂNG CƯỜNG CÔNG TÁC BẢO ĐẢM AN TOÀN THÔNG TIN MẠNG NGÀNH BẢO HIỂM XÃ HỘI VIỆT
+NAM
+(Kèm theo Quyết định số 510/QĐ-BHXH ngày 07/05/2024 của Tổng Giám đốc Bảo hiểm
+xã hội Việt Nam)
+TT
+Nhiệm vụ
+Đơn vị chủ trì
+Đơn vị phối hợp
+Thời gian thực hiện
+Kết quả
+1. Đào
+  tạo, tập huấn
+1
+Bồi dưỡng nâng cao kiến thức
+  chuyên sâu về ATTT cho CCVC quản lý, kỹ thuật.
+Trung tâm CNTT
+Vụ Tổ chức cán bộ, Trường Đào tạo nghiệp vụ và các đơn vị liên quan
+Hàng năm
+Tối thiểu 01 lớp bồi dưỡng/năm
+  nâng cao kiến thức chuyên sâu về ATTT được tổ chức. Tập trung bồi dưỡng các kỹ
+  năng: bảo vệ, bảo mật các hệ thống thông tin, phân tích phòng chống mã độc,
+  kiểm tra an ninh trên không gian mạng (pen-test)…
+2
+Tập huấn, bồi dưỡng nâng cao
+  nhận thức và kỹ năng số, kỹ năng ATTT cho CCVC trong toàn Ngành. Các khóa tập
+  huấn có sự tham gia của các chuyên gia thuộc Bộ Công an, Bộ Thông tin - Truyền
+  thông, Ban Cơ yếu Chính phủ.
+Trung tâm CNTT
+Các đơn vị liên quan
+Hàng năm
+Các khóa tập huấn, bồi dưỡng
+  được tổ chức (02 khóa/năm)
+3
+Triển khai các hình thức
+  tuyên truyền, phổ biến chuyên đề về ATTT
+Trung tâm Truyền thông
+Tạp chí BHXH, Trung tâm CNTT và các đơn vị liên quan
+Thường xuyên
+Nhiều hình thức tuyên truyền,
+  phổ biến về công tác ATTT mạng được thực hiện.
+4
+Triển khai công tác bảo đảm
+  ATTT đa dạng dưới nhiều hình thức như hội nghị giao ban, hội nghị chuyên đề,
+  hội nghị diễn tập
+Trung tâm CNTT
+Các đơn vị liên quan
+Hàng năm
+Văn bản triển khai, báo cáo kết
+  quả hội nghị yêu cầu tối thiểu 01 hội nghị/năm; có ít nhất 03 bài viết/tháng trên
+  chuyên mục ATTT Cổng thông tin điện tử BHXH Việt Nam
+2. Tăng
+  cường kỷ luật, kỷ cương, thực hiện công tác thi đua khen thưởng
+1
+Xây dựng, bổ sung công tác bảo
+  đảm ATTT mạng vào kế hoạch công tác trọng tâm của đơn vị
+Các đơn vị
+Trung tâm CNTT
+Thường xuyên
+Các kế hoạch, chương trình
+  công tác trọng tâm được ban hành.
+2
+Tăng cường kỷ luật, kỷ cương
+  hành chính, đổi mới phương thức, lề lối làm việc, kiên quyết xử lý theo quy định
+  những CCVC có hành vi vi phạm quy chế, quy định của Ngành về ATTT, làm lộ lọt,
+  mất tài khoản, dữ liệu…
+Vụ Tổ chức cán bộ
+Thanh tra BHXH, Vụ Thi đua - Khen thưởng, Trung tâm CNTT và các đơn vị
+  liên quan
+Thường xuyên
+Các vi phạm quy chế, quy định
+  về bảo đảm ATTT tại các đơn vị được xử lý nghiêm khắc, kịp thời.
+3
+Quán triệt kịp thời, liên tục,
+  nâng cao nhận thức, ý thức trách nhiệm của mỗi CCVC để nhận thức đầy đủ vị
+  trí, vai trò và tầm quan trọng của công tác bảo đảm ATTT, đặc biệt là ý thức
+  trách nhiệm bảo vệ tài khoản nghiệp vụ của CCVC trong toàn Ngành
+Trung tâm CNTT
+Các đơn vị liên quan
+Thường xuyên
+100% CCVC được phổ biến, quán
+  triệt đối với công tác bảo đảm ATTT, ý thức bảo vệ tài khoản nghiệp vụ.
+4
+Biểu dương, khen thưởng các tập
+  thể, cá nhân có thành tích xuất sắc trong thực hiện công tác bảo đảm ATTT.
+Vụ Thi đua - Khen thưởng
+Trung tâm CNTT và các đơn vị liên quan
+Thường xuyên
+Các phong trào thi đua bảo đảm
+  ATTT mạng được phát động và thực hiện.
+3. Quy
+  hoạch, xây dựng các “hàng rào kỹ thuật”
+1
+Rà soát, điều chỉnh, bổ sung,
+  hoàn thiện các quy định, quy chế về ATTT của ngành BHXH Việt Nam; các quy
+  trình nghiệp vụ gắn với việc phân cấp, phân quyền trên phần mềm nghiệp vụ bảo
+  đảm rõ người, rõ việc, rõ trách nhiệm
+Trung tâm CNTT
+Vụ Pháp chế và các đơn vị liên quan
+Thường xuyên
+Rà soát sửa đổi các quy định
+  về thiết kế hệ thống hạ tầng thông tin, thiết kế mẫu mạng nội bộ, mạng diện rộng,
+  quy trình ứng cứu sự cố hệ thống thông tin ngành Bảo hiểm xã hội.
+2
+Xây dựng các tiêu chuẩn, quy
+  chuẩn kỹ thuật, quy hoạch chính sách ATTT trong hoạt động ứng dụng CNTT
+Trung tâm CNTT
+Các đơn vị liên quan
+Thường xuyên
+Các quy định về tiêu chuẩn,
+  quy chuẩn kỹ thuật, chính sách ATTT được ban hành.
+3
+Đôn đốc, kiểm tra, hướng dẫn các
+  đơn vị trong toàn Ngành công tác triển khai các giải pháp kỹ thuật ATTT, hạn
+  chế tối đa các hành vi vi phạm; giám sát và ngăn chặn kịp thời các hành vi vi
+  phạm; khoanh vùng, cô lập, khống chế các vi phạm trong phạm vi hẹp để giảm
+  thiểu thiệt hại về tài sản thông tin, dữ liệu; đánh giá, tháo gỡ khó khăn, vướng
+  mắc trong việc thực hiện công tác bảo đảm ATTT
+Trung tâm CNTT
+Các đơn vị liên quan
+Thường xuyên
+Các cuộc kiểm tra trực tiếp,
+  gián tiếp công tác bảo đảm ATTT tại các đơn vị; các khó khăn được tháo gỡ,
+  các vi phạm chính sách ATTT được phát hiện và ngăn chặn kịp thời.
+4
+Rà soát, đánh giá và phê duyệt
+  hồ sơ đề xuất cấp độ và phương án bảo đảm ATTT cho các hệ thống thông tin của
+  BHXH Việt Nam.
+Trung tâm CNTT
+Các đơn vị liên quan
+Thường xuyên
+Đề xuất phê duyệt hồ sơ đề xuất
+  cấp độ đối với hệ thống thông tin cho đang vận hành xong trước 30/9/2024
+4. Xây dựng
+  nguồn nhân lực
+1
+Nghiên cứu, đánh giá kiện
+  toàn về mô hình, bộ máy tổ chức, nhân sự phù hợp với yêu cầu chuyển đổi số
+  nói chung và thực hiện công tác bảo đảm ATTT trong ngành BHXH Việt Nam nói
+  riêng. Đánh giá việc thực hiện kiện toàn, cơ cấu lại Phòng CNTT về Văn phòng
+  BHXH cấp tỉnh của 56 đơn vị BHXH cấp tỉnh, bảo đảm nguồn nhân lực làm CNTT,
+  ATTT.
+Vụ Tổ chức cán bộ; BHXH các tỉnh, thành phố
+Trung tâm CNTT
+Năm 2024
+56 đơn vị BHXH cấp tỉnh, bảo
+  đảm nguồn nhân lực làm CNTT, ATTT theo đúng hướng dẫn của BHXH Việt Nam về
+  bàn giao nhiệm vụ của Phòng CNTT và Văn phòng BHXH cấp tỉnh
+2
+Kiện toàn và đẩy mạnh hoạt động
+  của Đội ứng cứu sự cố, CCVC chuyên trách ATTT của BHXH các tỉnh
+Trung tâm CNTT
+Vụ Tổ chức cán bộ và BHXH các tỉnh, thành phố
+Năm 2024
+Quyết định kiện toàn Đội ứng
+  cứu sự cố; 100% BHXH các tỉnh có tối thiểu 01 viên chức chuyên trách đủ điều
+  kiện, tiêu chuẩn, năng lực, trình độ đảm nhận công tác bảo đảm ATTT.
+5. Trang
+  bị hạ tầng kỹ thuật
+1
+Trang bị hạ tầng kỹ thuật hiện
+  đại, có khả năng ngăn chặn tấn công, bảo đảm an toàn dữ liệu nghiệp vụ, dữ liệu
+  cá nhân trong phạm vi quản lý của Ngành
+Trung tâm CNTT
+Các đơn vị liên quan
+Thường xuyên
+Các máy móc, thiết bị hiện đại
+  được trang bị.
+2
+Duy trì chế độ bảo hành cho
+  các hệ thống hạ tầng kỹ thuật ATTT, bảo đảm hoạt động ổn định và có sự hỗ trợ
+  kỹ thuật từ các đơn vị cung cấp sản phẩm nhằm tối ưu hóa các tính năng của
+  thiết bị. Đẩy nhanh triển khai các nhiệm vụ/dự án đã được xây dựng
+Trung tâm CNTT
+Ban QLDA và các đơn vị liên quan
+Thường xuyên
+Chế độ bảo hành, hỗ trợ kỹ
+  thuật cho các hệ thống hạ tầng kỹ thuật ATTT được thực hiện thường xuyên,
+  liên tục.
+6. Phối hợp
+  với các cơ quan liên quan
+1
+Phối hợp với các đơn vị chức
+  năng về ATTT của Bộ Công an, Bộ Thông tin - Truyền thông thực hiện giám sát
+  các hệ thống thông tin của Ngành; kịp thời phát hiện và xử lý sự cố, lỗ hổng,
+  ngăn chặn, bóc gỡ mã độc tấn công vào hệ thống mạng; áp dụng các giải pháp quản
+  lý và kỹ thuật bảo đảm ATTT phù hợp
+Trung tâm CNTT
+Các đơn vị liên quan
+Thường xuyên
+Phối hợp chia sẻ dữ liệu giám
+  sát ATTT các hệ thống với Trung tâm An ninh mạng quốc gia (Bộ Công an) xong
+  trước ngày 30/6/2024; Phối hợp cùng các đơn vị thuộc Bộ thông tin và Truyền
+  thông thực hiện kiểm tra, đánh giá ATTT cho các hệ thống thông tin ngành
+  BHXH.
+2
+Tăng cường hợp tác quốc tế
+  trong đào tạo, nghiên cứu và ứng dụng khoa học, kỹ thuật, công nghệ về ATTT
+Vụ Hợp tác quốc tế
+Trung tâm CNTT và các đơn vị liên quan
+Thường xuyên
+Các hội thảo, khóa đào tạo quốc
+  tế được tổ chức.
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

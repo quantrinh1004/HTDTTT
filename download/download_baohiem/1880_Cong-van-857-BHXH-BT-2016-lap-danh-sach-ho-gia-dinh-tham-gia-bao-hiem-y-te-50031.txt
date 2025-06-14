@@ -1,0 +1,105 @@
+BẢO
+  HIỂM XÃ HỘI VIỆT NAM
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 857/BHXH-BT
+V/v rà soát dữ liệu lập danh sách hộ gia
+  đình tham gia BHYT
+Hà
+  Nội, ngày 14 tháng 3 năm 2016
+Kính
+  gửi:
+Bảo hiểm xã hội
+  các tỉnh, thành phố
+trực thuộc Trung ương.
+Thực hiện Kế hoạch số 3825/KH-BHXH
+ngày 06/10/2015 của Bảo hiểm xã hội (BHXH) Việt Nam triển khai thực hiện Công
+văn số 3170/BHXH-BT ngày 24/8/2014 về lập danh sách hộ gia đình (HGĐ) tham gia
+bảo hiểm y tế (BHYT), đến nay vẫn còn tình trạng chưa hoàn thành việc thu thập
+Mẫu DK01, chất lượng Mẫu DK01 không đúng quy định, thiếu thông tin, thông tin
+chưa chính xác, chênh lệch so với dân số trên địa bàn... Để khắc phục tình
+trạng trên và đảm bảo chất lượng thông tin Mẫu DK01, BHXH Việt Nam hướng dẫn
+quy trình rà soát, đối chiếu, kiểm tra dữ liệu hộ gia đình tham gia BHYT đã
+nhập vào phần mềm quản lý như sau:
+1. Rà soát, xóa dữ liệu trùng
+trên phần mềm
+1.1. Thực hiện xóa dữ liệu trùng
+đối với các trường hợp:
+a) Trùng thông tin toàn bộ HGĐ
+- Trường hợp trùng trên cùng địa
+bàn xã, phường: xác định đúng 01 (một) HGĐ và xóa bỏ HGĐ trùng còn lại.
+- Trường hợp trùng khác địa bàn xã,
+phường: thực hiện xác minh, giữ lại 01 (một) HGĐ nơi có đăng ký hộ khẩu thường
+trú hoặc tạm trú; xoá bỏ HGĐ trùng còn lại.
+b) HGĐ không có thành viên
+1.2. Người thực hiện: cán bộ Bưu
+điện trực tiếp rà soát, xóa dữ liệu; cán bộ BHXH chịu trách nhiệm kiểm tra.
+1.3. Thời gian hoàn thành: 03 ngày
+(từ ngày 15-17/3/2016)
+2. Đối chiếu thông tin kê khai
+tại Mẫu DK01 với dữ liệu đã nhập Mẫu DK01 trong phần mềm
+2.1. Thực hiện đối chiếu trực tiếp
+bằng phương pháp thủ công
+- Đối chiếu dữ liệu thành viên HGĐ
+đã nhập vào phần mềm với thông tin HGĐ kê khai tại Mẫu DK01;
+- Chỉnh sửa, bổ sung dữ liệu nhập
+thiếu, chưa chính xác đảm bảo khớp đúng với thông tin HGĐ kê khai tại Mẫu DK01.
+2.2. Người thực hiện: Cán bộ Bưu
+điện trực tiếp đối chiếu; cán bộ BHXH chịu trách nhiệm đôn đốc kiểm tra, đảm
+bảo tiến độ, chất lượng.
+2.3. Thời gian hoàn thành: 10 ngày
+(từ ngày 18-27/3/2016)
+3. Rà soát dữ liệu thành viên
+HGĐ với dữ liệu cấp thẻ BHYT của cơ quan BHXH
+3.1. Trung tâm Công nghệ thông tin
+thuộc BHXH Việt Nam:
+- Đối chiếu thông tin thành viên
+HGĐ đã nhập vào phần mềm theo Mẫu DK01 với dữ liệu cấp thẻ BHYT để phân loại dữ
+liệu trùng, dữ liệu không trùng, dữ liệu thiếu ngày, tháng sinh hoặc sai thông
+tin số thẻ BHYT...
+- Chuyển dữ liệu đã phân loại cho
+BHXH tỉnh.
+3.2. BHXH tỉnh:
+- Nhận dữ liệu đã được phân loại do
+BHXH Việt Nam cung cấp;
+- Tổ chức rà soát dữ liệu trùng
+thông tin để xác định đối tượng thành viên HGĐ; bổ sung thông tin còn thiếu;
+điều chỉnh thông tin chưa khớp đúng.
+- Gửi dữ liệu sau khi đã rà soát về
+BHXH Việt Nam.
+3.3. Thời gian thực hiện 02 ngày
+(từ ngày 28-29/3/2016)
+4. Một số lưu
+ý
+4.1. Việc tổ chức rà soát, đối chiếu,
+kiểm tra dữ liệu HGĐ tham gia BHYT thực hiện theo thứ tự các nội dung trên,
+trường hợp xã hoặc huyện trên địa bàn tỉnh hoàn thiện công đoạn nào trước thời
+gian quy định thì thực hiện ngay công đoạn tiếp theo, không nhất thiết phải làm
+xong toàn tỉnh mới đến bước tiếp theo.
+4.2. Việc thu thập Mẫu DK01:
+- Trường hợp thành viên HGĐ không
+xác định được ngày, tháng sinh (chỉ có năm sinh) thì ghi bổ sung số chứng minh
+nhân dân, hoặc ghi số thẻ BHYT hoặc ghi mối quan hệ cha/mẹ vào Cột ghi chú Mẫu
+DK01.
+- Thực hiện bàn giao 03 bên (BHXH,
+Bưu điện, UBND xã).
+Trong quá trình thực hiện nếu có
+vướng mắc, kịp thời báo cáo BHXH Việt Nam để nghiên cứu, giải quyết./.
+Nơi nhận:
+- Như trên;
+- Tổng Giám đốc (để b/c);
+- Các Phó Tổng Giám đốc;
+- Tổng Công ty Bưu điện Việt Nam;
+- Các Ban: CSYT, ST, PC, CNTT, VP;
+- Lưu: VT, BT(02b).
+KT.
+  TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Đỗ Văn Sinh
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

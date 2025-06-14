@@ -1,0 +1,283 @@
+ỦY BAN NHÂN DÂN
+THÀNH PHỐ HÀ NỘI
+-------
+CỘNG HÒA XÃ HỘI CHỦ
+  NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+6378/QĐ-UBND
+Hà Nội, ngày 14 tháng
+  12 năm 2023
+QUYẾT
+ĐỊNH
+PHÊ DUYỆT PHƯƠNG ÁN TÁI CẤU TRÚC QUY TRÌNH
+THỰC HIỆN DỊCH VỤ CÔNG TRỰC TUYẾN TRONG TIẾP NHẬN, GIẢI QUYẾT CÁC THỦ TỤC HÀNH
+CHÍNH LĨNH VỰC BỔ TRỢ TƯ PHÁP, LÝ LỊCH TƯ PHÁP TRÊN MÔI TRƯỜNG ĐIỆN TỬ THUỘC
+THẨM QUYỀN CỦA CƠ QUAN, ĐƠN VỊ TRÊN ĐỊA BÀN THÀNH PHỐ HÀ NỘI
+CHỦ TỊCH
+ỦY BAN NHÂN DÂN THÀNH PHỐ HÀ NỘI
+Căn cứ Luật Tổ chức
+chính quyền địa phương ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của
+Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019;
+Căn cứ Nghị định số
+61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa
+liên thông trong giải quyết thủ tục hành chính;
+Căn cứ Nghị định số
+45/2020/NĐ-CP ngày 08/4/2020 của Chính phủ về thực hiện thủ tục hành chính trên
+mới trường điện tử;
+Căn cứ Nghị định số
+47/2020/NĐ-CP ngày 09/4/2020 của Chính phủ về quản lý, kết nối và chia sẻ dữ
+liệu số của cơ quan nhà nước;
+Căn cứ Nghị định số
+107/2021/NĐ-CP ngày 06/12/2021 của Chính phủ sửa đổi, bổ sung một số điều của
+Nghị định số 61/2018/NĐ-CP của Chính phủ về thực hiện cơ chế một cửa, một cửa
+liên thông trong giải quyết thủ tục hành chính;
+Căn cứ Nghị định số
+42/2022/NĐ-CP ngày 24/6/2022 của Chính phủ quy định về việc cung cấp thông tin
+và dịch vụ công trực tuyến của cơ quan nhà nước trên môi trường mạng;
+Căn cứ Nghị định số
+59/2022/NĐ-CP ngày 05/9/2022 của Chính phủ quy định về định danh và xác thực
+điện tử;
+Căn cứ Thông tư số
+01/2018/TT-VPCP của Văn phòng Chính phủ hướng dẫn thi hành một số quy định của
+Nghị định số 61/2018/NĐ-CP của Chính phủ về thực hiện cơ chế một cửa, một cửa
+liên thông trong giải quyết thủ tục hành chính;
+Căn cứ Thông tư số
+22/2019/TT-BTTTT ngày 31/12/2019 của Bộ Thông tin và Truyền thông quy định về
+tiêu chí chức năng, tính năng kỹ thuật của Cổng dịch vụ công và Hệ thống thông
+tin một cửa điện tử cấp bộ, cấp tỉnh;
+Căn cứ Thông tư số
+74/2022/TT-BTC ngày 22 tháng 12 năm 2022 của Bộ Tài chính quy định về hình
+thức, thời hạn thu, nộp, kê khai các khoản phí, lệ phí thuộc thẩm quyền quy
+định của Bộ Tài chính;
+Căn cứ Quyết định số
+06/QĐ-TTg ngày 06/01/2022 của Thủ tướng Chính phủ phê duyệt Đề án “Phát triển
+ứng dụng dữ liệu dân cư; định danh và xác thực điện tử phục vụ chuyển đổi số
+quốc gia giai đoạn 2022-2025, tầm nhìn đến năm 2030”;
+Căn cứ Nghị quyết số
+07/2023/NQ-HĐND ngày 04/7/2023 của Hội đồng nhân dân thành phố Hà Nội về việc
+thu phí, lệ phí thuộc thẩm quyền quyết định của Hội đồng nhân dân Thành phố
+trên địa bàn thành phố Hà Nội;
+Căn cứ Quyết định số
+1675/QĐ-UBND ngày 22/3/2023 của UBND Thành phố về việc phê duyệt các quy trình
+nội bộ giải quyết thủ tục hành chính lĩnh vực tư pháp trên địa bàn thành phố Hà
+Nội;
+Căn cứ Quyết định số
+5758/QĐ-UBND ngày 10/11/2023 của UBND Thành phố về việc phê duyệt các quy trình
+nội bộ giải quyết thủ tục hành chính được sửa đổi, bổ sung lĩnh vực Luật sư,
+Công chứng, Hộ tịch, Lý lịch tư pháp thuộc phạm vi chức năng quản lý nhà nước
+của cơ quan, đơn vị thuộc thành phố Hà Nội;
+C
+ăn cứ Quyết định số
+4239/QĐ-UBND ngày 24/8/2023 của UBND Thành phố về việc phê duyệt danh mục các
+TTHC đáp ứng yêu cầu triển khai tái cấu trúc quy trình, cung cấp dịch vụ công
+trực tuyến toàn trình, một phần trong tiếp nhận, giải quyết TTHC trên môi
+trường điện tử thành phố Hà Nội năm 2023 và các năm tiếp theo;
+Theo đề nghị của Sở
+Tư pháp tại Tờ trình số 4119/TTr-STP ngày 23/11/2023.
+QUYẾT
+ĐỊNH:
+Điều 1.
+Phê
+duyệt kèm theo quyết định này phương án tái cấu trúc, quy trình thực hiện dịch
+vụ công trực tuyến trong tiếp nhận, giải quyết các thủ tục hành chính lĩnh vực
+Bổ trợ tư pháp, Lý lịch tư pháp trên môi trường điện tử thuộc thẩm quyền của cơ
+quan, đơn vị trên địa bàn thành phố Hà Nội.
+Điều 2.
+Quyết
+định này có hiệu lực thi hành kể từ ngày ký ban hành.
+Điều 3.
+Chánh
+Văn phòng Ủy ban nhân dân Thành phố, Giám đốc các Sở, Ngành: Tư pháp, Công an
+Thành phố, Thông tin và Truyền thông; Chủ tịch UBND các quận, huyện, thị xã;
+Chủ tịch UBND các xã, phường, thị trấn và các tổ chức, cá nhân có liên quan
+chịu trách nhiệm thi hành Quyết định này./.
+Nơi nhận:
+-
+  Như Điều 3;
+- Bộ Công an;
+- Văn phòng Chính phủ;
+- Bộ Tư pháp;
+- Bộ Thông tin và Truyền thông;
+- TT Thành Ủy, TT HĐND TP;
+- Chủ tịch UBND Thành phố;
+- PCTTT UBNDTP L.H.Sơn;
+- VP UBND TP: CVP, PCVP, NC, KSTTHC, THCB;
+- Lưu: VT, KSTTHC.
+KT. CHỦ TỊCH
+PHÓ CHỦ TỊCH
+Lê Hồng Sơn
+PHƯƠNG ÁN TÁI CẤU TRÚC QUY TRÌNH THỰC HIỆN
+DỊCH VỤ CÔNG TRỰC TUYẾN TRONG TIẾP NHẬN, GIẢI QUYẾT CÁC THỦ TỤC HÀNH CHÍNH LĨNH
+VỰC BỔ TRỢ TƯ PHÁP, LÝ LỊCH TƯ PHÁP TRÊN MÔI TRƯỜNG ĐIỆN TỬ THUỘC THẨM QUYỀN
+CỦA CƠ QUAN, ĐƠN VỊ TRÊN ĐỊA BÀN THÀNH PHỐ HÀ NỘI
+(ban
+hành kèm theo Quyết định số    /QĐ-UBND ngày    tháng    năm 2023 của Chủ tịch
+UBND Thành phố)
+I.
+Lĩnh vực Luật sư
+1.
+Quy trình: Đăng ký hoạt động của tổ chức hành nghề luật sư (QT-01.TP)
+Bước
+Chủ
+  thể
+Quy
+  trình chi tiết
+Thời
+  gian
+Trạng
+  thái
+Căn
+  cứ pháp lý
+Ghi
+  chú
+1.
+  Nộp hồ sơ
+Cá
+  nhân
+- Công dân truy cập
+  vào Cổng dịch vụ công Quốc gia https://dichvucong.gov.vn hoặc cổng dịch vụ
+  công thành phố http://dichvucong.hanoi.gov.vn để đăng ký/đăng nhập tài khoản,
+  xác thực định danh điện tử để xác định đúng người có yêu cầu trong lĩnh vực
+  luật sư, chọn thủ tục đăng ký hoạt động của tổ chức hành nghề luật sư.
+- Cổng dịch vụ công
+  bảo đảm việc xác thực định danh điện tử, kết nối với Cơ sở dữ liệu quốc gia
+  về dân cư để khai thác các trường thông tin của công dân có trong Cơ sở dữ
+  liệu quốc gia về dân cư (thực hiện dịch vụ khai thác thông tin công dân từ Cơ
+  sở dữ liệu quốc gia về dân cư trên cơ sở số định danh cá nhân, tự động điền
+  vào biểu mẫu điện tử tương tác trên Cổng dịch vụ công).
+- Người nộp hồ sơ
+  điền các nội dung theo biểu mẫu tiếp nhận
+(Chi tiết tại phụ lục 1.1 kèm
+  theo).
+- Tích hợp thành
+  phần hồ sơ theo mẫu tại biểu mẫu điện tử
+(chi tiết tại phụ lục 1.2 kèm
+  theo);
+- Người nộp kiểm
+  tra, cập nhật thông tin bảo đảm thông tin đầy đủ, chính xác, hợp pháp.
+- Phí/lệ phí:
+  50.000 đồng (nộp
+khi nhận kết quả).
+Cổng dịch vụ công
+  quốc gia thực hiện đăng nhập một lần, điều hướng người dùng tới Cổng dịch vụ
+  công thành phố để thực hiện các bước tiếp theo.
+Tài khoản gồm Tên
+  đăng nhập và mật khẩu.
+Luật Luật sư năm
+  2006;
+Nghị định số
+  123/2013/NĐ- CP ngày 14/10/2013 của Chính phủ;
+Thông tư số
+  05/2021/TT- BTP ngày 24/6/2021 của Bộ Tư pháp;
+Thông tư số
+  47/2019/TT- BTC ngày 05/8/2019 của Bộ Tài chính.
+2.
+  Xử lý hồ sơ
+Bộ
+  phận
+Một cửa
+1. Nhập hồ sơ mới
+  trên hệ thống.
+2. Kiểm tra hồ sơ
+  và các thông tin.
+Trường hợp hồ sơ
+  cần bổ sung hoặc hồ sơ không thuộc thẩm quyền giải quyết: gửi Thông báo đến
+  Người nộp hồ sơ
+(mẫu thông báo điện tử)
+, nêu rõ lý do và có văn bản
+  hướng dẫn người yêu cầu bổ sung hồ sơ, hoàn thiện hồ sơ, nêu rõ loại giấy tờ,
+  nội dung cần bổ sung để Người nộp hồ sơ bổ sung, hoàn thiện.
+3. Trường hợp hồ sơ
+  đủ điều kiện giải quyết:
+3.1. Cập nhật thông
+  tin và hệ thống thông tin giải quyết TTHC
+(Sổ theo dõi điện tử theo mẫu)
+3.2. Xác nhận thông
+  tin, gửi thông báo tiếp nhận
+(mã hồ sơ và ngày giờ trả kết quả)
+vào
+  tài khoản của người nộp hồ sơ.
+Chuyển hồ sơ đến
+  lãnh đạo phòng chuyên môn thụ lý hồ sơ.
+4. Trường hợp người
+  nộp hồ sơ không bổ sung, hoàn thiện được hồ sơ thì Bộ phận Một cửa có văn bản
+  từ chối giải quyết yêu cầu của người nộp hồ sơ.
+01
+  ngày làm việc
+- Tiếp nhận hồ sơ
+- Scan hồ sơ trên
+  hệ thống thông tin giải quyết TTHC của Thành phố,
+- Thông báo hẹn trả
+  kết quả (
+hoặc văn bản từ chối, văn bản hướng dẫn),
+- Phiếu chuyển xử
+  lý
+(thể hiện trong phần mềm bằng lệnh chuyển)
+Biểu mẫu theo Thông
+  tư số 01/2018/TT-VPCP ngày 23/11/2018 của Văn phòng Chính phủ
+Lãnh
+  đạo, công chức phòng thụ lý hồ sơ
+1. Truy cập và hệ
+  thống thông tin giải quyết TTHC nhận thông báo có hồ sơ mới và tiếp nhận hồ
+  sơ.
+2. Phân công cho
+  công chức thụ lý hồ sơ, tham mưu giải quyết.
+3. Công chức kiểm
+  tra hồ sơ
+(biểu mẫu, file đính kèm)
+. Thẩm định hồ sơ đăng ký hoạt động
+  của tổ chức hành nghề luật sư: dự thảo giấy đăng ký hoạt động của tổ chức
+  hành nghề luật sư hoặc văn bản từ chối trình lãnh đạo phòng xem xét.
+05
+  ngày làm việc
+Cập nhật trên hệ
+  thống/Yêu cầu bổ sung/từ chối giải quyết
+Lãnh
+  đạo Phòng
+Kiểm tra hồ sơ:
+- Nếu đồng ý: Ký
+  nháy văn bản, trình lãnh đạo Sở.
+- Nếu không đồng ý:
+  Chuyển lại chuyên viên thụ lý, thẩm định hồ sơ.
+01
+  ngày làm việc
+Cập nhật trên Hệ
+  thống/Yêu cầu bổ sung/từ chối giải quyết
+Lãnh
+  đạo
+Sở
+Phê duyệt nội dung
+  văn bản:
+- Nếu đồng ý: Ký
+  duyệt văn bản.
+- Nếu không đồng ý:
+  Chuyển lại lãnh đạo phòng chuyên môn.
+02
+  ngày làm việc
+Cập nhật trên Hệ
+  thống/Yêu cầu bổ sung/từ chối giải quyết
+3.
+  Hoàn thiện hồ sơ,
+trả kết quả
+Bộ
+  phận một cửa/ Phòng chuyên môn/Cá nhân nộp hồ sơ
+1. Bộ phận văn thư
+  phát hành văn bản; bàn giao hồ sơ cho phòng chuyên môn.
+2. Chuyên viên
+  phòng chuyên môn chuyển bộ phận một cửa để trả Người nộp hồ sơ.
+3. Bộ phận Một cửa
+  trả kết quả
+(trên hệ thống qua địa chỉ mail của đơn vị)
+.
+01
+  ngày làm việc
+Trang thông tin
+  đồng bộ Cổng dịch vụ công quốc gia
+Văn bản này có file đính kèm, bạn vui lòng tải Văn bản về để xem toàn bộ nội dung.
+Tải về
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc

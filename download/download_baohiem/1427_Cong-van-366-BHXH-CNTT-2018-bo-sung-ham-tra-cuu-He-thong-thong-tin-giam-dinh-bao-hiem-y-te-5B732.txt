@@ -1,0 +1,342 @@
+BẢO HIỂM XÃ HỘI VỆT
+  NAM
+-------
+CỘNG HÒA XÃ HỘI CHỦ
+  NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+366/BHXH-CNTT
+V/v bổ sung hàm tra cứu trên Hệ thống thông tin giám
+  định bảo hiểm y tế
+Hà Nội, ngày 31
+  tháng 01 năm 2018
+Kính gửi:
+- Bảo hiểm xã hội các tỉnh, thành phố trực
+  thuộc Trung ương;
+- Bảo hiểm xã hội Bộ Quốc phòng;
+- Bảo hiểm xã hội Công an Nhân dân.
+(Sau đây gọi chung là BHXH các tỉnh)
+Căn cứ Quyết định số 917/QĐ-BHXH ngày 20/6/2016
+của Tổng Giám đốc BHXH Việt Nam về Ban hành Cổng tiếp nhận dữ liệu Hệ thống
+thông tin Giám định Bảo hiểm y tế phiên bản 2.0. Để hỗ trợ cơ sở khám, chữa bệnh
+(cơ sở KCB) trong việc tra cứu tự động giá trị sử dụng thẻ bảo hiểm y tế (BHYT)
+có kết quả đồng nhất với kết quả tra cứu trực tiếp trên Hệ thống thông tin Giám
+định bảo hiểm y tế và tự động tra cứu thông tin cơ bản về cơ sở KCB trong danh mục
+cơ sở KCB. BHXH Việt Nam đã bổ sung 02 hàm tra cứu gồm:
+NhanThongTinCSKCB
+và
+KQNhanLichSuKCB2018
+(
+hướng dẫn chi tiết tại phụ lục kèm
+theo
+).
+Đề nghị BHXH các tỉnh thông báo đến các cơ sở
+y tế có ký hợp đồng khám chữa bệnh với cơ quan BHXH để các cơ sở y tế chủ động
+trong việc điều chỉnh phần mềm quản lý tại bệnh viện. Trong quá trình thực hiện,
+nếu có vướng mắc kịp thời báo cáo về BHXH Việt Nam để xem xét, giải quyết.
+Nơi nhận:
+-
+  Như trên;
+- Bộ Y tế;
+- Tổng Giám đốc (để b/c);
+- Các Phó Tổng Giám đốc;
+- Các đơn vị: VP, TT, CSYT, GĐB, GĐN;
+- Lưu: VT, CNTT.
+KT. TỔNG GIÁM ĐỐC
+PHÓ TỔNG GIÁM ĐỐC
+Phạm Lương Sơn
+PHỤ LỤC
+(
+Kèm
+theo công văn số 366/BHXH-CNTT ngày 31/01/2018 của BHXH Việt Nam
+)
+A. HÀM NHẬN THÔNG TIN
+CƠ SỞ KHÁM CHỮA BỆNH
+1. Mô tả
+Request URL
+HMAC http://egw.baohiemxahoi.gov.vn/api/egw/NhanThongTinCSKCB
+Request Method
+POST
+Request Header
+Content-Type: application/json
+Query Parameters
+username= {username} &password=
+  {password} &token= {token} &id_token={id_token}&macskcb={ macskcb
+  } (Tham khảo mục 2)
+Form data
+Cơ sở khám chữa bệnh kiểm tra tính đúng đắn của
+thông tin thẻ của bệnh nhân.
+2. Thông điệp yêu cầu
+Dữ liệu đầu vào
+Tên Field
+Kiểu dữ liệu
+Ghi chú
+Mã cơ sở KCB
+macskcb
+Chuỗi ký tự
+Mã cơ sở khám chữa bệnh cần tra cứu
+Tên đăng nhập
+username
+Chuỗi ký tự
+Tài khoản đăng nhập
+Mật khẩu
+password
+Chuỗi ký tự
+Mật khẩu đăng nhập
+Token
+token
+Chuỗi ký tự
+Token được trả về từ trước
+TokenlD
+id_token
+Chuỗi ký tự
+Token ID được trả về ở hàm trước
+3. Thông điệp trả lời
+Cấu trúc:
+- Header status:
+- Header Content-Type:application/json;charset=UTF-8
+- Json data
+Trong đó
+- Có hai khả năng đối với thông điệp trả lời:
+Trường hợp có lỗi trong quá trình xử lý hoặc trường hợp xử lý thành công.
+- Trường hợp lỗi: Xem danh mục lỗi sẽ được gửi
+trả lại.
+Trường
+Kết quả
+Header status:500
+An unexpected error occurred
+- Trường hợp thành công: Hệ thống trả về:
+Trường
+Kết quả
+Header status
+200
+Header Content- Type
+application/json;charset=UTF-8
+Json data
+Trả về là object KQNhanThongTinCSKCB bao gồm
+  các thuộc tính sau:
++ maketqua: Trả về mã kết quả giao dịch
+  (Thành công, lỗi)
++ message: Thông báo
++ macskcb: Mã cơ sở khám chữa bệnh
++ ten: Tên cơ sở
++ hang: Hạng bệnh viện (0-đặc biệt, 1-hạng
+  1,2-hạng 2,3-hạng3,4- hạng 4,5-chưa phân hạng)
++ tuyen: Tuyến chuyên môn kỹ thuật (1-trung
+  ương,2-tỉnh,3- huyện,4-xã)
++ diachi: Địa chỉ
++ tenchuquan: Tên cơ quan chủ quản
++ ngaysua: Ngày sửa
++ macha: Mã cơ sở cha
++ hieuluc: Hiệu lực (1 - có,0 - không)
++ ngayngunghoatdong: Ngày ngừng hoạt động
++ matinh: Mã tỉnh
++ mahuyen: Mã huyện
+Mô tả mã kết quả trả về:
+Mã kết quả
+Mô tả
+200
+Nhận thông tin thành công
+205
+Sai định dạng tham số truyền vào
+206
+Không tìm thấy thông tin cơ sở
+401
+Lỗi xác thực tài khoản
+500
+Lỗi server
+4. Mẫu hàm ứng dụng
+- Code mẫu c#
+- Code mẫu Java
+- Class hỗ trợ
+B. BỔ SUNG HÀM KIỂM
+TRA LỊCH SỬ KHÁM CHỮA BỆNH
+1. Mô tả
+Request URL
+HMAC
+http://egw.baohiemxahoi.gov.vn/api/egw/NhanLichSuKCB2018
+Request Method
+POST
+Request Header
+Content-Type: application/json
+Query Parameters
+token= {token} &id_token= {id_token}
+  &username={username} &password= {password}
+(Tham khảo mục 2)
+Form data
+Đối tượng “theBHYT2018” bao gồm
+{
+“maThe”: { mã thẻ },
+“hoTen”: ( họ tên },
+“ngaySinh”: { ngày sinh }
+}
+(Tham khảo mục 2)
+Cơ sở khám chữa bệnh kiểm tra tính đúng đắn của
+thông tin thẻ của bệnh nhân.
+2. Thông điệp yêu cầu
+Dữ liệu đầu vào
+Tên Field
+Kiểu dữ liệu
+Ghi chú
+Mã thẻ
+maThe
+Chuỗi ký tự
+Mã thẻ
+Họ tên
+hoTen
+Chuỗi ký tự
+Họ tên chủ thẻ
+Ngày sinh
+ngaySinh
+Chuỗi ký tự
+Ngày sinh (DD/MM/YYYY) /Trường hợp chỉ có
+  năm sinh (YYYY).
+Tên đăng nhập
+username
+Chuỗi ký tự (an 5)
+Tài khoản đăng nhập
+Mật khẩu
+password
+Chuỗi ký tự (an 6.. 10)
+Mật khẩu đăng nhập
+Token
+token
+Chuỗi ký tự
+Token được trả về từ trước
+TokenlD
+id token
+Chuỗi ký tự
+Token ID được trả về ở hàm trước
+3. Thông điệp trả lời
+Cấu trúc:
+- Header status:
+- Header Content-Type:application/json;charset=UTF-8
+- Json data
+Trong đó
+- Có hai khả năng đối với thông điệp trả lời:
+Trường hợp có lỗi trong quá trình xử lý hoặc trường hợp xử lý thành công.
+- Trường hợp lỗi: Xem danh mục lỗi sẽ được gửi
+trả lại.
+Trường
+Kết quả
+Header status:500
+An unexpected error occurred
+- Trường hợp thành công: Hệ thống trả về:
+Trường
+Kết quả
+Header status
+200
+Header Content-Type
+application/json;charset=UTF-8
+Json data
+Trả về là object KQNhanLichSuKCB2018 bao gồm
+  các thuộc tính sau:
++ maKetQua: Trả về mã kết quả giao dịch
+  (Thành công, lỗi)
++ ghiChu: Ghi chú
++ maThe: Mã thẻ hiện tại
++ hoTen: Họ tên
++ ngaySinh: ngày sinh
++ gioiTinh: giới tính
++ diaChi: Địa chỉ
++ maDKBD: Mã đăng kí ban đầu
++ cqBHXH: Tên cơ quan bảo hiểm xã hội
++ gtTheTu: Thời gian thẻ có giá trị sử dụng
++ gtTheDen: Hạn thẻ
++ maKV: Mã khu vực
++ ngayDu5Nam: Ngày đủ năm năm liên tục
++ maSoBHXH: Mã số
++ maTheCu: Mã thẻ cũ
++ maTheMoi: Mã thẻ mới
++ gtTheTuMoi: Thời gian thẻ mới có giá trị sử
+  dụng
++ gtTheDenMoi: Hạn thẻ mới
++ dsLichSuKCB2018: Danh sách object lịch sử
+  khám chữa bệnh, mỗi object bao gồm (= null nếu thông tin thẻ không chính xác)
+{
+- maHoSo: mã hồ sơ, để tra cứu thông tin
+  chi tiết
+- maCSKCB: mã cơ sở khám chữa bệnh,
+- ngayVao: ngày vào (định dạng
+  yyyyMMddhhmm),
+- ngayRa: ngày ra (định dạng yyyyMMddhhmm),
+- tenBenh: tên bệnh,
+- tinhTrang: tình trạng ra viện,
+- kqDieuTri: kết quả điều trị
+}
++ dsLichSuKT2018: Danh sách object lịch sử tra
+  cứu thẻ, mỗi object bao gồm (= null nếu thông tin thẻ không chính xác)
+{
+- userKT: user tra cứu
+- thoiGianKT: thời gian tra cứu (định dạng
+  yyyyMMddhhmm),
+- thongBao: thông báo
+- maLoi: mã lỗi
+}
+Mô tả mã kết quả trả về:
+Mã kết quả
+Mô tả
+000
+Thẻ còn giá trị sử dụng
+001
+Thẻ do BHXH Bộ Quốc Phòng quản lý, đề nghị
+  kiểm tra thẻ và thông tin giấy tờ tùy thân
+002
+Thẻ do BHXH Bộ Công An quản lý, đề nghị kiểm
+  tra thẻ và thông tin giấy tờ tùy thân
+003
+Thẻ cũ hết giá trị sử dụng nhưng đã được cấp
+  thẻ mới
+004
+Thẻ cũ còn giá trị sử dụng nhưng đã được cấp
+  thẻ mới
+010
+Thẻ hết giá trị sử dụng
+051
+Mã thẻ không đúng
+052
+Mã tỉnh cấp thẻ(kí tự thứ 4,5 của mã thẻ)
+  không đúng
+053
+Mã quyền lợi thẻ(kí tự thứ 3 của mã thẻ)
+  không đúng
+050
+Không thấy thông tin thẻ bhyt
+060
+Thẻ sai họ tên
+061
+Thẻ sai họ tên(đúng kí tự đầu)
+070
+Thẻ sai ngày sinh
+100
+Lỗi khi lấy dữ liệu sổ thẻ
+101
+Lỗi server
+110
+Thẻ đã thu hồi
+120
+Thẻ đã báo giảm
+121
+Thẻ đã báo giảm. Giảm chuyển ngoại tỉnh
+122
+Thẻ đã báo giảm. Giảm chuyển nội tỉnh
+123
+Thẻ đã báo giảm. Thu hồi do tăng lại cùng đơn
+  vị
+124
+Thẻ đã báo giảm. Ngừng tham gia
+130
+Trẻ em không xuất trình thẻ
+205
+Lỗi sai định dạng tham số truyền vào
+401
+Lỗi xác thực tài khoản
+4. Mẫu hàm ứng dụng
+- Code mẫu c#
+- Code mẫu JAVA:
+- Class hỗ trợ
+Tải Văn bản tiếng Việt
+Tải Văn bản tiếng Việt
+Tải Văn bản gốc
+Tải Văn bản gốc
