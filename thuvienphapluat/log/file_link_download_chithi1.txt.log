@@ -1,0 +1,21 @@
+2025-06-14 04:20:01,525 - CRITICAL - 🚨 Lỗi nghiêm trọng: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x59910111cc9a <unknown>
+#1 0x599100bc26e0 <unknown>
+#2 0x599100bfd0b2 <unknown>
+#3 0x599100bf824f <unknown>
+#4 0x599100c488b6 <unknown>
+#5 0x599100c47f76 <unknown>
+#6 0x599100c39c03 <unknown>
+#7 0x599100c0647b <unknown>
+#8 0x599100c070e1 <unknown>
+#9 0x5991010e144b <unknown>
+#10 0x5991010e537f <unknown>
+#11 0x5991010c8f89 <unknown>
+#12 0x5991010e5f18 <unknown>
+#13 0x5991010ad6df <unknown>
+#14 0x59910110a308 <unknown>
+#15 0x59910110a4e6 <unknown>
+#16 0x59910111bb76 <unknown>
+#17 0x78176df5b609 start_thread
+
