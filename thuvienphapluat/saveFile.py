@@ -11,7 +11,7 @@ from selenium.webdriver.chrome.options import Options
 from retrying import retry
 from bs4 import BeautifulSoup
 
-field = "1_baocao1"
+field = "1_baocao2_test"
 download_dir = "download_" + field
 os.makedirs(download_dir, exist_ok=True)
 
@@ -84,7 +84,7 @@ def download_content(url, index):
             pass
 
         try:
-            WebDriverWait(driver, 20).until(
+            WebDriverWait(driver, 10).until(
                 EC.presence_of_element_located((By.CSS_SELECTOR, "div#tab1.contentDoc, div.col-md-12.py-4"))
             )
         except Exception:
@@ -133,9 +133,9 @@ def main():
 
     logging.info(f"Total {len(download_urls)} links found in {field}.txt")
 
-    max_workers = 1
+    max_workers = 5
     start_index = 0
-    batch_size = 1
+    batch_size = 8
 
     for batch_start in range(start_index, len(download_urls), batch_size):
         batch_urls = download_urls[batch_start:batch_start + batch_size]
@@ -153,11 +153,11 @@ def main():
                 except Exception as e:
                     logging.error(f"Failed to process {url}: {e}")
 
-        delay = random.uniform(5, 12)
+        delay = random.uniform(5, 8)
         logging.info(f"⏳ {delay:.2f}s between batches...")
         time.sleep(delay)
 
-    logging.info("🎉 All TXT content saved.")
+    logging.info("All TXT content saved.")
 
 if __name__ == "__main__":
     try:
