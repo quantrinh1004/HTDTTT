@@ -1,0 +1,51 @@
+2025-06-24 04:57:54,521 - INFO - ➡️ Đang truy cập: https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=&area=0&match=True&type=1&status=1&signer=0&sort=1&lan=1&scan=0&org=0&fields=&chlbg=23/06/1945&chlend=23/06/2035&page=1
+2025-06-24 04:57:54,599 - INFO - ⏳ Chờ 5.97s giả lập người dùng...
+2025-06-24 04:58:02,581 - INFO - 🧭 Tiêu đề trang: Just a moment...
+2025-06-24 04:58:23,179 - ERROR - ❌ Lỗi tại trang 1: Message: 
+Stacktrace:
+#0 0x5d1a61d7645a <unknown>
+#1 0x5d1a6181b760 <unknown>
+#2 0x5d1a6186d127 <unknown>
+#3 0x5d1a6186d321 <unknown>
+#4 0x5d1a618bbe94 <unknown>
+#5 0x5d1a61892e7d <unknown>
+#6 0x5d1a618b930b <unknown>
+#7 0x5d1a61892c23 <unknown>
+#8 0x5d1a6185f4a5 <unknown>
+#9 0x5d1a61860111 <unknown>
+#10 0x5d1a61d3af1b <unknown>
+#11 0x5d1a61d3ee19 <unknown>
+#12 0x5d1a61d21ac9 <unknown>
+#13 0x5d1a61d3f9c8 <unknown>
+#14 0x5d1a61d0634f <unknown>
+#15 0x5d1a61d63a28 <unknown>
+#16 0x5d1a61d63c06 <unknown>
+#17 0x5d1a61d75336 <unknown>
+#18 0x7d71be855609 start_thread
+
+2025-06-24 04:58:23,182 - INFO - ➡️ Đang truy cập: https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=&area=0&match=True&type=1&status=1&signer=0&sort=1&lan=1&scan=0&org=0&fields=&chlbg=23/06/1945&chlend=23/06/2035&page=2
+2025-06-24 04:58:23,266 - INFO - ⏳ Chờ 3.37s giả lập người dùng...
+2025-06-24 04:58:28,649 - INFO - 🧭 Tiêu đề trang: Just a moment...
+2025-06-24 04:58:49,225 - ERROR - ❌ Lỗi tại trang 2: Message: 
+Stacktrace:
+#0 0x5d1a61d7645a <unknown>
+#1 0x5d1a6181b760 <unknown>
+#2 0x5d1a6186d127 <unknown>
+#3 0x5d1a6186d321 <unknown>
+#4 0x5d1a618bbe94 <unknown>
+#5 0x5d1a61892e7d <unknown>
+#6 0x5d1a618b930b <unknown>
+#7 0x5d1a61892c23 <unknown>
+#8 0x5d1a6185f4a5 <unknown>
+#9 0x5d1a61860111 <unknown>
+#10 0x5d1a61d3af1b <unknown>
+#11 0x5d1a61d3ee19 <unknown>
+#12 0x5d1a61d21ac9 <unknown>
+#13 0x5d1a61d3f9c8 <unknown>
+#14 0x5d1a61d0634f <unknown>
+#15 0x5d1a61d63a28 <unknown>
+#16 0x5d1a61d63c06 <unknown>
+#17 0x5d1a61d75336 <unknown>
+#18 0x7d71be855609 start_thread
+
+2025-06-24 04:58:49,229 - INFO - 🎉 Hoàn tất! Tổng cộng 0 link đã lưu vào link_downloads/file_link_download_chithi_full111.txt
