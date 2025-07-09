@@ -1,0 +1,422 @@
+MỤC LỤC
+                                VĂN BẢN
+In mục lục
+BÁO CÁO TÌNH HÌNH THỰC HIỆN NGHỊ QUYẾT SỐ 17/NQ-CP NGÀY 07/3/2019 CỦA CHÍNH PHỦ VỀ MỘT SỐ NHIỆM VỤ, GIẢI PHÁP TRỌNG TÂM PHÁT TRIỂN CHÍNH PHỦ ĐIỆN TỬ GIAI ĐOẠN 2019 - 2020, ĐỊNH HƯỚNG ĐẾN 2025
+I. TÌNH HÌNH TRIỂN KHAI, KẾT QUẢ THỰC HIỆN
+1. Về công tác chỉ đạo, điều hành
+2. Xây dựng, hoàn thiện thể chế
+3. Xây dựng nền tảng phát triển Chính phủ điện tử
+4. Xây dựng các hệ thống thông tin đổi mới lề lối, phương thức làm việc, phục vụ người dân, doanh nghiệp
+5. Về việc xây dựng CPĐT gắn kết chặt chẽ với bảo đảm an toàn thông tin, an ninh mạng, an ninh quốc gia, bảo vệ thông tin cá nhân
+II. ĐÁNH GIÁ KẾT QUẢ TRIỂN KHAI
+III. PHƯƠNG HƯỚNG, NHIỆM VỤ TRỌNG TÂM
+IV. ĐỀ XUẤT, KIẾN NGHỊ
+BỘ THÔNG TIN VÀ
+TRUYỀN THÔNG
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 154/BC-BTTTT
+Hà Nội, ngày 27
+  tháng 10 năm 2022
+BÁO CÁO
+TÌNH HÌNH THỰC HIỆN NGHỊ QUYẾT SỐ
+17/NQ-CP
+NGÀY 07/3/2019 CỦA
+CHÍNH PHỦ VỀ MỘT SỐ NHIỆM VỤ, GIẢI PHÁP TRỌNG TÂM PHÁT TRIỂN CHÍNH PHỦ ĐIỆN TỬ
+GIAI ĐOẠN 2019 - 2020, ĐỊNH HƯỚNG ĐẾN 2025
+Thực hiện ý kiến chỉ đạo của
+Thủ tướng Chính phủ tại Văn bản số 435/LĐCP ngày 16/10/2019 về việc báo cáo
+tình hình thực hiện Nghị quyết số
+17/NQ-CP
+ngày 07/3/2019 về một số nhiệm vụ,
+giải pháp trọng tâm phát triển Chính phủ điện tử giai đoạn 2019 - 2020, định
+hướng đến 2025 (sau đây gọi tắt là Nghị quyết số 17/NQ-CP) tại các phiên họp
+Chính phủ thường kỳ, trên cơ sở báo cáo của các bộ, ngành, địa phương, Bộ
+Thông tin và Truyền thông xin báo cáo tình hình thực hiện Nghị quyết số
+17/NQ-CP
+trong tháng 10 năm 2022 như sau:
+I. TÌNH HÌNH
+TRIỂN KHAI, KẾT QUẢ THỰC HIỆN
+1. Về công
+tác chỉ đạo, điều hành
+- Tại Nghị quyết Hội nghị trực
+tuyến Chính phủ với địa phương và Phiên họp Chính phủ thường kỳ tháng 9 năm
+2022 (Nghị quyết số
+130/NQ-CP
+ngày 06/10/2022), Chính phủ đã yêu cầu các bộ,
+ngành, địa phương tập trung thực hiện đẩy mạnh việc rà soát, triển khai các
+giải pháp cụ thể, thiết thực, tạo đột phá mạnh mẽ nâng cao hiệu quả thực
+hiện nhiệm vụ cải cách hành chính, chuyển đổi số được giao, bảo đảm hoàn
+thành các nhiệm vụ năm 2022. Đồng thời đẩy mạnh thực hiện các nhiệm vụ của
+Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử
+phục vụ chuyển đổi số quốc gia giai đoạn 2022 - 2025, tầm nhìn đến năm 2030 (Đề
+án 06) và kết luận của Thủ tướng Chính phủ tại Hội nghị ngày 09/8/2022; tập
+trung chuẩn bị các điều kiện cần thiết để thực hiện đúng lộ trình khi sổ hộ
+khẩu, sổ tạm trú giấy không còn giá trị sử dụng từ ngày 01/01/2023. Nhanh
+chóng hoàn thành việc kết nối các hệ thống thông tin giải quyết thủ tục hành
+chính với Cơ sở dữ liệu quốc gia về dân cư, Cổng dịch vụ công Quốc gia để
+khai thác thông tin phục vụ giải quyết thủ tục hành chính; giao Bộ Công an, Bộ
+Thông tin và Truyền thông khẩn trương hoàn thành việc kiểm tra an ninh, an
+toàn các hệ thống thông tin và khắc phục các lỗ hổng bảo mật, nguy cơ mất an
+ninh, an toàn thông tin khi kết nối với hệ thống Cơ sở dữ liệu quốc gia về
+dân cư, Cổng dịch vụ công Quốc gia; giao Bộ Công an xây dựng kế hoạch triển
+khai Nghị định số
+59/2022/NĐ-CP
+ngày 05/9/2022 về định danh và xác thực
+điện tử, tạo cơ sở pháp lý đẩy nhanh tiến độ triển khai thực hiện Đề án 06;
+giao Bộ Thông tin và Truyền thông chủ trì, phối hợp với các cơ quan, địa
+phương thực hiện mục tiêu phấn đấu mỗi người dân có 01 máy điện thoại thông
+minh, mỗi hộ gia đình có 01 đường internet cáp quang tốc độ cao theo tinh thần
+Nghị quyết số
+105/NQ-CP
+ngày 14/7/2020 của Chính phủ, thúc đẩy các địa phương
+tăng tỷ lệ người dân sử dụng dịch vụ công trực tuyến (DVCTT), thúc đẩy chương
+trình đưa người dân lên môi trường số; hướng dẫn thực hiện việc thiết lập
+các điểm hỗ trợ đồng bào dân tộc thiểu số ứng dụng công nghệ thông tin tại xã;
+chỉ đạo các nhà mạng cung cấp miễn phí chữ ký số cá nhân cho người dân khi
+thực hiện thủ tục hành chính trên môi trường điện tử; giao Ban Cơ yếu Chính
+phủ bảo đảm cấp phát đủ chữ ký số cho cán bộ tại Bộ phận một cửa các cấp trong
+tháng 11/2022;
+- Ngày 06/10/2022, Chính phủ đã
+ban hành Nghị quyết số
+131/NQ-CP
+về đẩy mạnh cải cách thủ tục hành chính và
+hiện đại hóa phương thức chỉ đạo, điều hành phục vụ người dân, doanh nghiệp.
+Trong đó, Chính phủ xác định cần đẩy mạnh thực hiện chuyển đổi số toàn
+diện, thực chất, sâu rộng trong tiếp nhận, giải quyết thủ tục hành chính, đẩy
+nhanh tiến độ số hóa hồ sơ, kết quả giải quyết thủ tục hành chính theo đúng quy
+định của Chính phủ tại Nghị định số 45/2022/NĐ và Nghị định số
+107/2021/NĐ-CP
+;
+- Ngày 13/10/2022, Thủ tướng
+Chính phủ đã ban hành Chỉ thị số 18/CT- TTg về đẩy mạnh triển khai các hoạt động
+ứng cứu sự cố an toàn thông tin mạng Việt Nam. Trong đó, Thủ tướng Chính phủ
+yêu cầu các bộ, ngành, địa phương cần chủ động trong các hoạt động bảo đảm an
+toàn thông tin mạng, nghiêm túc thực hiện rà soát, phát hiện và khắc phục
+các lỗ hổng, điểm yếu theo cảnh báo của cơ quan chức năng; chủ động theo dõi,
+phát hiện sớm các nguy cơ mất an toàn thông tin mạng để kịp thời xử lý, khắc
+phục.
+2. Xây dựng,
+hoàn thiện thể chế
+- Về việc xây dựng Nghị
+định bảo vệ dữ liệu cá nhân, sau khi Chính phủ thông qua hồ sơ xây dựng
+Nghị định tại Nghị quyết số
+27/NQ-CP
+ngày 07/3/2022, Bộ Công an tiếp tục xây
+dựng hồ sơ lấy ý kiến Ban Cán sự Đảng Chính phủ đối với dự thảo Nghị định
+bảo vệ dữ liệu cá nhân;
+- Về việc xây dựng Nghị
+định quy định về định danh và xác thực điện tử, ngày 05/9/2022, Chính phủ đã
+ban hành Nghị định số
+59/2022/NĐ-CP
+Quy định về định danh và xác thực
+điện tử.
+3. Xây dựng
+nền tảng phát triển Chính phủ điện tử
+- Về Nền tảng tích hợp, chia sẻ
+dữ liệu: Nền tảng tích hợp, chia sẻ dữ liệu quốc gia (NDXP) được xây dựng, từng
+bước kết nối, chia sẻ dữ liệu giữa các bộ, ngành, địa phương. Đến tháng 12
+năm 2020, 22/22 bộ, cơ quan ngang bộ; 63/63 tỉnh, thành phố trực thuộc Trung
+ương đã có Nền tảng tích hợp, chia sẻ dữ liệu cấp bộ/tỉnh (LGSP) và kết nối với
+Nền tảng tích hợp, chia sẻ dữ liệu quốc gia, đạt tỷ lệ 100%. Nền tảng NDXP đã
+kết nối với hệ thống của 90 cơ quan, đơn vị; trong đó có 85 LGSP của bộ,
+ngành, địa phương; 08 cơ sở dữ liệu và 12 hệ thống thông tin có quy mô, phạm
+vi từ Trung ương đến địa phương. Tính đến ngày 25/10/2022, tổng số giao dịch
+thực hiện thông qua NDXP trong tháng 10 năm 2022 là 69.609.615; tổng số giao
+dịch thực hiện thông qua NDXP từ khi khai trương đến nay là hơn 778 triệu
+giao dịch; tính từ đầu năm 2022, trung bình hằng ngày có khoảng 1,9 triệu
+giao dịch thực hiện thông qua NDXP.
+- Về việc xây dựng các cơ sở
+dữ liệu (CSDL) tạo nền tảng CPĐT:
++ CSDL quốc gia về Dân cư: Bộ
+Công an đã vận hành chính thức Hệ thống CSDL quốc gia về Dân cư từ ngày
+01/7/2021. Ngày 06/01/2022, Thủ tướng Chính phủ đã ban hành Quyết định số
+06/QĐ-TTg
+phê duyệt Đề án phát triển ứng dụng dữ liệu về dân cư, định danh
+và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022 - 2025, tầm
+nhìn đến năm 2030. Bộ Công an chủ trì, phối hợp với Văn phòng Chính phủ đã có
+văn bản đề nghị các bộ, ngành thành viên đăng ký nhiệm vụ trọng tâm những
+tháng cuối năm 2022 (Văn bản số 5198/VPCP-KSTT, ngày 13/8/2022). Bộ Công an
+đang tập trung hoàn thiện Thông tư hướng dẫn trao đổi thông tin, dữ liệu giữa
+Cơ sở dữ liệu quốc gia về dân cư và các hệ thống thông tin, cơ sở dữ liệu quốc
+gia, cơ sở dữ liệu chuyên ngành, các bộ, ngành, địa phương;
++ CSDL về Bảo hiểm: BHXH Việt
+Nam đã hoàn thành dự thảo Quy chuẩn kỹ thuật quốc gia Cấu trúc thông điệp dữ
+liệu cơ sở dữ liệu quốc gia về bảo hiểm hiện đang tiếp thu, hoàn thiện và
+giải trình dự thảo theo ý kiến góp ý của Bộ Thông tin và Truyền thông; sau khi
+xin ý kiến từ các cơ quan, đơn vị liên quan, BHXH Việt Nam đang hoàn thiện
+dự thảo Quy chế Quản lý, cập nhật, khai thác và sử dụng thông tin, dữ liệu
+trong các Hệ thống phần mềm nghiệp vụ và từ cơ sở dữ liệu tập trung Ngành
+BHXH Việt Nam; nhằm bảo đảm tiến độ triển khai Đề án 06, BHXH Việt Nam đã phối
+hợp với Bộ Công an thực hiện xác thực thông tin công dân trong CSDL quốc gia
+về dân cư qua số CMND để đối chiếu, đồng bộ (lấy) số CCCD từ CSDL quốc gia về
+dân cư sang CSDL của BHXH. Tính đến ngày 18/10/2022, hoàn thành xác thực đúng
+thông tin công dân của trên 55 triệu người tham gia; Về việc triển khai thí điểm
+khám chữa bệnh Bảo hiểm y tế (BHYT) bằng CCCD gắn chíp, tính đến ngày
+18/10/2022, toàn quốc đã có 11.651 cơ sở khám chữa bệnh BHYT thực hiện tra cứu
+thông tin thẻ BHYT bằng CCCD gắn chíp; BHXH đã có các văn bản gửi bộ, ngành,
+địa phương đề nghị phối hợp kê khai mã số BHXH; BHXH Việt Nam tiếp tục kết nối,
+trao đổi, chia sẻ dữ liệu giữa BHXH với Cục Chuyển đổi số quốc gia (Bộ Thông
+tin và Truyền thông), Bộ Tư pháp, Tổng cục Thuế, Cục Việc làm (Bộ Lao động -
+Thương binh và Xã hội), Bộ Y tế; Bộ Kế hoạch và Đầu tư; Bộ Giáo dục và Đào tạo;
+Bộ Nội vụ; phối hợp với Văn phòng Chính phủ kết nối và chia sẻ dữ liệu chứng
+thực từ bản sao điện tử và các dữ liệu dịch vụ công liên quan đến CSDL quốc
+gia về Bảo hiểm theo quy định hiện hành, đồng thời triển khai thí điểm chứng
+thực thông tin trên sổ BHXH phù hợp với CSDL quốc gia về Bảo hiểm; tiếp tục phối
+hợp với Văn phòng Chính phủ và các Bộ liên quan hoàn thiện quy trình để tích hợp
+cung cấp các dịch vụ công; BHXH Việt Nam đã cung cấp 100% DVC mức độ 4 lên cổng
+dịch vụ công của Ngành và tích hợp, cung cấp 25 DVC trực tuyến của Ngành trên
+Cổng DVC quốc gia;
++ CSDL hộ tịch điện tử toàn
+quốc: Từ tháng 10 năm 2020 đến nay, Hệ thống thông tin đăng ký và quản lý hộ
+tịch dùng chung của Bộ Tư pháp đã được triển khai tại 63/63 tỉnh, thành phố
+trực thuộc Trung ương với hơn 20.000 người dùng tại 10.933 UBND cấp xã, 710
+Phòng Tư pháp và 63 Sở Tư pháp. Tính đến ngày 19/10/2022, trên Hệ thống đăng
+ký và quản lý hộ tịch đã có 31.298.858 dữ liệu đăng ký khai sinh, trong đó có
+7.865.052 trẻ em được cấp Số định danh cá nhân theo quy định; 6.791.435 dữ
+liệu đăng ký kết hôn; 4.529.759 dữ liệu đăng ký khai tử và 8.048.158 dữ liệu
+khác.
+4. Xây dựng
+các hệ thống thông tin đổi mới lề lối, phương thức làm việc, phục vụ người dân,
+doanh nghiệp
+a) Các hệ thống thông tin đổi
+mới lề lối, phương thức làm việc
+- Trục liên thông văn bản quốc
+gia: Số lượng văn bản điện tử gửi, nhận trong tháng 10 năm 2022 là 599.202 văn
+bản (Gửi: 126.950 văn bản, nhận 472.252 văn bản). Từ khi khai trương
+(12/3/2019) đến nay Hệ thống có tổng số hơn 15,2 triệu văn bản điện tử được
+gửi và nhận giữa các cơ quan hành chính nhà nước trên Trục liên thông văn bản
+quốc gia;
+- Hệ thống thông tin phục vụ họp
+và xử lý công việc của Chính phủ (e- Cabinet): Từ ngày 20/9/2022 đến ngày
+20/10/2022, Hệ thống đã phục vụ 02 phiên họp Chính phủ và xử lý 51 Phiếu lấy ý
+kiến thành viên Chính phủ (thay thế gần 19 nghìn hồ sơ, tài liệu giấy). Từ khi
+khai trương đến nay, Hệ thống đã phục vụ 61 hội nghị, phiên họp của Chính phủ
+và thực hiện xử lý 1.350 phiếu lấy ý kiến thành viên Chính phủ (thay thế gần
+486 nghìn hồ sơ, tài liệu giấy);
+- Hệ thống thông tin báo cáo
+Quốc gia, Trung tâm thông tin chỉ đạo điều hành của Chính phủ, Thủ tướng Chính
+phủ: Trong tháng 10, đã xây dựng Infographic báo cáo tình hình kinh tế xã hội
+phục vụ phiên họp Chính phủ thường kỳ; tiếp tục xây dựng hoàn thiện kho dữ
+liệu các chỉ tiêu kinh tế xã hội; tiếp tục xây dựng và hoàn thiện Bộ chỉ số điều
+hành và Bộ chỉ số thống kê của Hệ thống. Tính đến nay, Hệ thống đã kết nối,
+liên thông các hệ thống thông tin, CSDL có chức năng báo cáo của 78 bộ, cơ
+quan, tập đoàn, tổng công ty nhà nước và địa phương để cung cấp thông tin, dữ
+liệu trực tuyến theo thời gian thực với 210 chỉ tiêu thông tin trực tuyến;
+đã có 69/179 chế độ báo cáo các bộ, cơ quan báo cáo Thủ tướng Chính phủ, Chính
+phủ, Uỷ ban Thường vụ Quốc hội, Quốc hội được tích hợp hoặc nhập liệu trực tiếp
+trên Hệ thống thông tin báo cáo Chính phủ; đang xây dựng 04 bộ chỉ số (bộ chỉ
+số điều hành, bộ chỉ số thống kê, bộ chỉ số theo dõi, giám sát, bộ chỉ số KTXH
+địa phương) phục vụ sự chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ
+(với tần suất dữ liệu theo ngày, hàng tháng, quý và năm, giai đoạn 2010-2022);
+kết nối, tương tác trực tuyến với 155 điểm cầu tại Trung tâm phục vụ hành
+chính công, Trung tâm điều hành của các bộ, ngành, địa phương, các hệ thống
+camera giám sát các hồ đập thủy điện, cửa khẩu biên giới. Xây dựng, vận hành
+kho dữ liệu phục vụ chỉ đạo, điều hành, cung cấp ấn phẩm đồ họa thông tin
+(infographic) về tình hình kinh tế - xã hội phục vụ phiên họp Chính phủ thường
+kỳ hàng tháng.
+b) Các hệ thống thông tin phục
+vụ người dân, doanh nghiệp
+- Trong tháng 10 năm 2022, các
+bộ, ngành, địa phương tiếp tục đẩy mạnh cung cấp DVCTT mức độ 3, 4. Tính đến
+ngày 25/10/2022, tỷ lệ DVCTT đủ điều kiện đưa lên mức độ 4 là khoảng 98%; các
+bộ, ngành, địa phương đang tiếp tục thúc đẩy triển khai DVCTT theo hướng toàn
+trình quy định tại Nghị định số
+42/2022/NĐ-CP
+ngày 24/6/2022 của Chính phủ
+quy định về việc cung cấp thông tin và dịch vụ công trực tuyến của cơ quan
+nhà nước trên môi trường mạng;
+- Cổng Dịch vụ công quốc gia:
+Từ ngày 20/9/2022 đến ngày 20/10/2022, Cổng đã có trên 370 nghìn tài khoản đăng
+ký; trên 12 triệu hồ sơ đồng bộ trạng thái; trên 689 nghìn lượt thực hiện
+các dịch vụ tiện ích từ cổng; trên 739 nghìn hồ sơ trực tuyến thực hiện từ
+Cổng; trên 300 nghìn giao dịch thanh toán trực tuyến với số tiền hơn 234 tỷ đồng.
+Từ khi khai trương đến nay đã cung cấp 4.003 dịch vụ công trực tuyến mức độ
+3, 4; hơn 3,2 triệu tài khoản đăng ký; đã có hơn 828 triệu lượt truy cập tìm
+hiểu thông tin, dịch vụ; hơn 142,8 triệu hồ sơ đồng bộ trạng thái; hơn 7,7
+triệu lượt thực hiện các dịch vụ tiện ích; hơn 5,6 triệu hồ sơ trực
+tuyến thực hiện từ Cổng; hơn
+3 triệu giao dịch thanh toán trực tuyến với số tiền hơn 3 tỷ đồng; hơn 200
+nghìn cuộc gọi tới tổng đài tư vấn.
+5. Về việc
+xây dựng CPĐT gắn kết chặt chẽ với bảo đảm an toàn thông tin, an ninh mạng, an
+ninh quốc gia, bảo vệ thông tin cá nhân
+Công tác tổ chức kiểm tra, đánh
+giá, giám sát, bảo đảm an toàn, an ninh mạng cho các hệ thống thông tin phục vụ
+CPĐT tiếp tục được đẩy mạnh.
+Trong tháng 10 năm 2022, Trung
+tâm Giám sát an toàn không gian mạng quốc gia thuộc Bộ Thông tin và Truyền
+thông đã ghi nhận, cảnh báo và hướng dẫn xử lý 857 cuộc tấn công mạng gây ra
+sự cố vào các hệ thống thông tin tại Việt Nam, giảm 13,3% so với tháng
+9/2022, tăng 8,1% so với cùng kỳ tháng 10/2021.
+Để bảo đảm an toàn thông tin mạng,
+Bộ Thông tin và Truyền thông vẫn tiếp tục tăng cường công tác giám sát, chủ động
+rà quét trên không gian mạng Việt Nam, đánh giá, thống kê và tiếp tục đẩy mạnh
+tuyên truyền, cảnh báo trên các phương tiện thông tin đại chúng để người dùng
+biết và phòng tránh; tiếp tục có các văn bản cảnh báo rộng rãi, đôn đốc việc
+rà soát điểm yếu lỗ hổng, dấu hiệu tấn công mạng.
+Chi tiết tình hình thực
+hiện các nhiệm vụ của từng bộ, ngành báo cáo tại
+Phụ lục kèm
+theo.
+II. ĐÁNH GIÁ
+KẾT QUẢ TRIỂN KHAI
+1. Đánh giá chung
+Trong tháng 10 năm 2022, việc
+triển khai CPĐT nói chung và Nghị quyết số
+17/NQ-CP
+nói riêng tiếp tục được
+các bộ, ngành, địa phương tích cực triển khai thực hiện và đạt được một số
+kết quả nhất định, cụ thể:
+- Chính phủ, Thủ tướng Chính phủ,
+Ủy ban Quốc gia về chuyển đổi số tiếp tục có những chỉ đạo quyết liệt, sát sao
+để phát triển CPĐT, chính phủ số, chuyển đổi số quốc gia. Tại các bộ, ngành,
+địa phương, công tác chỉ đạo, điều hành phát triển CPĐT, chính phủ số, chuyển
+đổi số tiếp tục được quan tâm; 100% các bộ, ngành, địa phương đã kiện toàn
+Ban Chỉ đạo chuyển đổi số;
+- Chính phủ, Thủ tướng Chính phủ
+tiếp tục có những chỉ đạo nhằm đẩy nhanh tiến độ triển khai thực hiện Đề án
+06; trên cơ sở hướng dẫn của Bộ Thông tin và Truyền thông về các thành phần
+công nghệ thông tin thiết yếu cần thiết và tiêu chuẩn, định mức phục vụ triển
+khai Đề án 06 (Văn bản số
+1552/BTTTT-THH
+ngày 16/4/2022), các bộ, ngành, địa
+phương tiếp tục hoàn thành việc kết nối các hệ thống thông tin giải quyết thủ
+tục hành chính với Cơ sở dữ liệu quốc gia về dân cư, Cổng dịch vụ công Quốc
+gia nhằm khai thác thông tin phục vụ giải quyết thủ tục hành chính;
+- Các bộ, ngành, địa phương tiếp
+tục tăng cường triển khai các biện pháp đẩy mạnh cung cấp dịch vụ công trực
+tuyến;
+- Công tác tổ chức kiểm tra,
+đánh giá, giám sát, bảo đảm an toàn, an ninh mạng cho các hệ thống thông tin
+phục vụ CPĐT tiếp tục được đẩy mạnh;
+- Các nền tảng cho phát triển CPĐT,
+thực hiện chuyển đổi số quốc gia tiếp tục được quan tâm thúc đẩy phát triển.
+2. Tồn tại, hạn chế
+- Một số nghị định quan trọng
+tạo hành lang pháp lý cho triển khai CPĐT chưa được ban hành (Nghị định về bảo
+vệ dữ liệu cá nhân);
+- Công tác an toàn, an ninh mạng
+nhiều nơi còn chưa được bảo đảm;
+- Việc chia sẻ, mở dữ liệu của
+các cơ quan nhà nước còn hạn chế, chưa phát huy hết hiệu quả;
+- Tỷ lệ hồ sơ giải quyết thủ tục
+hành chính được thực hiện hoàn toàn trên môi trường mạng chưa cao.
+III. PHƯƠNG
+HƯỚNG, NHIỆM VỤ TRỌNG TÂM
+Để thúc đẩy phát triển Chính phủ
+điện tử hướng tới Chính phủ số, Bộ Thông tin và Truyền thông đề nghị một số
+phương hướng, nhiệm vụ trọng tâm các bộ, ngành, địa phương cần tập trung triển
+khai trong tháng 11/2022 như sau:
+1. Rà soát, đẩy mạnh triển khai
+để hoàn thành các nhiệm vụ được giao theo Kế hoạch hoạt động năm 2022 của Ủy
+ban Quốc gia về chuyển đổi số tại Quyết định số
+27/QĐ-UBQGCĐS
+ngày 15/3/2022;
+2. Triển khai các nội dung để
+cung cấp thông tin và dịch vụ công trực tuyến của cơ quan nhà nước tuân thủ
+Nghị định số
+42/2022/NĐ-CP
+ngày 24/6/2022 của Chính phủ quy định về việc
+cung cấp thông tin và dịch vụ công trực tuyến của cơ quan nhà nước trên môi
+trường mạng, đặc biệt là cung cấp DVCTT toàn trình;
+3. Triển khai các nhiệm vụ được
+giao tại Nghị quyết số
+131/NQ-CP
+ngày 06/10/2022 của Chính phủ về đẩy mạnh cải
+cách thủ tục hành chính và hiện đại hóa phương thức chỉ đạo, điều hành phục vụ
+người dân, doanh nghiệp;
+4. Triển khai phát triển nguồn
+nhân lực phục vụ chuyển đổi số theo kế hoạch để thực hiện Quyết định số
+146/QĐ-TTg
+ngày 28/01/2022 của Thủ tướng Chính phủ phê duyệt Đề án “Nâng cao
+nhận thức, phổ cập kỹ năng và phát triển nguồn nhân lực chuyển đổi số quốc gia
+đến năm 2025, định hướng đến năm 2030”;
+5. Đẩy mạnh triển khai các nền
+tảng số địa phương đã lựa chọn tập trung thúc đẩy trong năm 2022 để giải quyết
+các vấn đề của người dân trong phát triển kinh tế - xã hội;
+6. Tổ chức hoạt động hiệu quả
+các Tổ Công nghệ số cộng đồng đến cấp thôn, xóm, tổ để hướng dẫn, phổ cập kỹ
+năng số cho người dân thực hiện chuyển đổi số;
+7. Phối hợp với Văn phòng Chính
+phủ kết nối, tích hợp, chia sẻ thông tin, dữ liệu phục vụ chỉ đạo, điều hành của
+Chính phủ, Thủ tướng Chính phủ theo Quyết định số
+1498/QĐ-TTg
+ngày 11 tháng 9
+năm 2021 với Trung tâm thông tin chỉ đạo, điều hành của Chính phủ, Thủ tướng
+Chính phủ;
+8. Tiếp tục thực hiện các
+nhiệm vụ được giao tại Quyết định số
+06/QĐ-TTg
+ngày 06/01/2022 của Thủ tướng
+Chính phủ; phối hợp với Văn phòng Chính phủ triển khai tái cấu trúc quy trình,
+tích hợp, cung cấp các dịch vụ công trực tuyến và thanh toán trực tuyến trên
+Cổng Dịch vụ công quốc gia.
+IV. ĐỀ XUẤT,
+KIẾN NGHỊ
+Bộ Thông tin và Truyền thông kiến
+nghị Chính phủ, Thủ tướng Chính phủ quan tâm, chỉ đạo các bộ, ngành, địa
+phương một số nội dung sau:
+1. Khẩn trương triển khai, hoàn
+thành các nội dung trong Kế hoạch hoạt động của Ban Chỉ đạo chuyển đổi số của bộ,
+ngành, địa phương năm 2022;
+2. Khẩn trương triển khai xây
+dựng, hoàn thiện và đưa vào vận hành các cơ sở dữ liệu quốc gia, cơ sở dữ
+liệu chuyên ngành đã được phê duyệt và đẩy mạnh kết nối, tích hợp, chia sẻ
+thông tin, dữ liệu với Hệ thống báo cáo Chính phủ, Trung tâm thông tin, chỉ đạo
+điều hành của Chính phủ, Thủ tướng Chính phủ;
+3. Khẩn trương hoàn thiện,
+nâng cấp để kết nối, tích hợp, chia sẻ phân hệ theo dõi nhiệm vụ Bộ trưởng,
+Thủ trưởng cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân và Chủ
+tịch Ủy ban nhân dân cấp tỉnh với Hệ thống thông tin theo dõi nhiệm vụ của
+cơ quan hành chính nhà nước theo hướng dẫn của Văn phòng Chính phủ. Trường hợp
+chưa có phân hệ hoặc phân hệ chưa đáp ứng yêu cầu thì sử dụng Hệ thống thông
+tin theo dõi nhiệm vụ của cơ quan hành chính nhà nước do Văn phòng Chính phủ
+phối hợp với Bộ Thông tin và Truyền thông triển khai thống nhất trong toàn quốc;
+4. Tiếp tục thực hiện nghiêm
+việc ký số, gửi nhận văn bản và xử lý hồ sơ công việc trên môi trường điện tử
+tại các cấp chính quyền; tích hợp, cung cấp dịch vụ công trực tuyến lên Cổng
+dịch vụ công quốc gia; số hóa và tái sử dụng kết quả số hóa hồ sơ, giấy tờ, kết
+quả giải quyết trong tiếp nhận, giải quyết thủ tục hành chính thuộc thẩm quyền.
+Quyết liệt triển khai hiệu quả, đúng tiến độ các nhiệm vụ được giao tại Đề
+án 06.
+Trên đây là Báo cáo tình hình
+thực hiện Nghị quyết số
+17/NQ-CP
+, Bộ Thông tin và Truyền thông kính trình
+Chính phủ, Thủ tướng Chính phủ./.
+Nơi nhận:
+- Thủ tướng Chính phủ (để b/c);
+- Các Phó Thủ tướng Chính phủ (để b/c);
+- Văn phòng Chủ tịch nước;
+- Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;
+- UBND các tỉnh, thành phố trực thuộc trung ương;
+- Bộ TTTT: Bộ trưởng, các Thứ trưởng, các đơn vị thuộc Bộ;
+- Lưu: VT, CĐSQG (CĐS). (145b)
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+Nguyễn Huy Dũng
+Lưu trữ
+Ghi chú
+Ý kiến
+Facebook
+Email
+In
+Thư Viện
+Nhà Đất
+Bán nhà cấp 4, 42.7m2, hẻm 4m đường Âu Dương Lân, P.3, Quận 8
+4.66 tỷ
+,
+DT 42.7 m²
+,
+Quận 8, Hồ Chí Minh
+Bài liên quan:
+Thúc đẩy phát triển Chính phủ điện tử hướng tới Chính phủ số
+>> Xem thêm
+Bản án liên quan
+PHÁP LUẬT DOANH NGHIỆP
+Hỏi đáp pháp luật
+Báo cáo 154/BC-BTTTT năm 2022 thực hiện Nghị quyết 17/NQ-CP về nhiệm vụ, giải pháp trọng tâm phát triển Chính phủ điện tử giai đoạn 2019-2020, định hướng đến 2025 do Bộ Thông tin và Truyền thông ban hành

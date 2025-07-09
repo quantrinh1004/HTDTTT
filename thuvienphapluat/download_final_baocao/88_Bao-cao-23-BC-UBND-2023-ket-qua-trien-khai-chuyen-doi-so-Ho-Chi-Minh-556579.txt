@@ -1,0 +1,754 @@
+MỤC LỤC
+                                VĂN BẢN
+In mục lục
+BÁO CÁO VỀ KẾT QUẢ TRIỂN KHAI CHUYỂN ĐỔI SỐ VÀ ĐÔ THỊ THÔNG MINH CỦA THÀNH PHỐ HỒ CHÍ MINH NĂM 2022
+A. Về công tác điều hành, tổ chức triển khai chuyển đổi số và đô thị thông minh tại Thành phố Hồ Chí Minh
+B. Kết quả triển khai chuyển đổi số và đô thị thông minh tại Thành phố Hồ Chí Minh
+I. về tuyên truyền, nâng cao nhận thức
+1. Tổ chức Hội nghị, hội thảo, tọa đàm về chuyển đổi số
+2. Đào tạo, tập huấn về chuyển đổi số
+3. Triển khai cổng thông tin Chuyển đổi số và Bản tin Chuyển đổi số của Thành phố
+4. Triển khai Tổ công nghệ số cộng đồng
+5. Thành phố tiếp tục xây dựng chương trình truyền thông IT TODAY phát sóng trên kênh truyền hình Thành phố (HTV9) để thực hiện tuyên truyền kết quả triển khai chuyển đổi số, xây dựng đô thị thông minh, phát triển ứng dụng trí tuệ nhân tạo,... của Thành phố. Trong năm 2022 đã thực hiện phát sóng 8 số với các nội dung về hỗ trợ doanh nghiệp vừa và nhỏ, nhà xuất bản số, chuyển đổi số báo chí, chuyện đọc thời công nghệ, hộ tịch điện tử,... Đồng thời đẩy mạnh chỉ đạo tuyên truyền trên các báo, đài về các kết quả, các dịch vụ tiện ích do quá trình chuyển đổi số, phát triển chính quyền điện tử hướng đến chính quyền số mang lại.
+6. Tổ chức các hoạt động hưởng ứng Ngày chuyển đổi số quốc gia - 10/10/2022
+7. Kế hoạch triển khai Bộ chỉ số đánh giá chuyển đổi số trên địa bàn Thành phố Hồ Chí Minh năm 2023 và triển khai Hệ thống đánh giá Bộ chỉ số Chuyển đổi số của Thành phố
+II. Hợp tác trong nước và quốc tế
+III. Phát triển hạ tầng số
+1. Trung tâm dữ liệu Thành phố
+2. Hạ tầng mạng đô thị băng thông rộng Thành phố (MetroNet)
+3. Hạ tầng công nghệ thông tin (CNTT) tại các sở, ban, ngành Ủy ban nhân dân thành phố Thủ Đức và Ủy ban nhân dân các quận, huyện
+4. Hạ tầng mạng viễn thông
+5. Chương trình hỗ trợ điện thoại thông minh cho các hộ nghèo
+IV. Phát triển nền tảng tích hợp, chia sẻ dữ liệu Thành phố
+V. Xây dựng chính quyền số
+VI. Về Phát triển kinh tế số
+1. Nghiên cứu đo lường đóng góp của kinh tế số cho GRDP của Thành phố
+2. Trung tâm hỗ trợ và tư vấn chuyển đổi số (DXCenter)
+3. Diễn đàn kinh tế Thành phố
+4. Tổ chức Hội nghị gặp mặt giữa lãnh đạo Thành phố với doanh nghiệp, chuyên gia ngành công nghiệp công nghệ thông tin - truyền thông năm 2022.
+VII. Về Xây dựng Kho dữ liệu dùng chung của Thành phố
+1. Về cơ sở dữ liệu nguôi dân:
+2. Về cơ sở dữ liệu tổ chức, doanh nghiệp
+3. Về cơ sở dữ liệu quản lý đô thị và bản đồ
+4. Về tổ chức khai thác Kho dữ liệu dùng chung của Thành phố
+5. Về hợp tác với Ngân hàng Thế giới xây dựng Chiến lược quản trị dữ liệu của Thành phố
+VIII. Về triển khai Trung tâm điều hành đô thị thông minh (IOC)
+IX. Về triển khai Trung tâm mô phỏng dự báo kinh tế - xã hội
+X. Về triển khai Trung tâm An toàn thông tin - Đô thị thông minh Thành phố (SOC)
+ỦY
+  BAN NHÂN DÂN
+THÀNH PHỐ HỒ CHÍ MINH
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+23
+/BC-UBND
+Thành
+  phố Hồ Chí Minh, ngày 08 tháng 02 năm 2023
+BÁO CÁO
+VỀ KẾT QUẢ TRIỂN KHAI CHUYỂN ĐỔI SỐ VÀ ĐÔ THỊ THÔNG MINH CỦA THÀNH PHỐ
+HỒ CHÍ MINH NĂM 2022
+Thực hiện Kế hoạch số
+593/KH-UBND
+ngày 28 tháng 02 năm 2022 của Ủy ban nhân dân Thành phố Hồ Chí Minh về kế hoạch
+triển khai Chương trình “Chuyển đổi số của Thành phố Hồ Chí Minh” và Đề án “Xây
+dựng Thành phố Hồ Chí Minh trở thành đô thị thông minh năm 2022, Ủy ban nhân
+dân Thành phố Hồ Chí Minh báo cáo kết quả triển khai như sau:
+A. Về công tác
+điều hành, tổ chức triển khai chuyển đổi số và đô thị thông minh tại Thành phố
+Hồ Chí Minh
+Ủy ban nhân dân Thành phố đã thành lập
+Ban Chỉ đạo và Tổ Giúp việc Ban Chỉ đạo về chuyển đổi số của Thành phố Hồ Chí
+Minh
+[1]
+trên cơ
+sở hợp nhất Ban Điều hành và Tổ Giúp việc thực hiện Đề án Xây dựng Thành phố Hồ
+Chí Minh trở thành đô thị thông minh và Ban Chỉ đạo và Tổ Giúp việc xây dựng
+Chính quyền điện tử Thành phố. Ban Chỉ đạo về chuyển đổi số của Thành phố do đồng
+chí Chủ tịch Ủy ban nhân dân Thành phố làm Trưởng ban nhằm đảm bảo sự chỉ đạo tập
+trung, thống nhất, xuyên suốt trong quá trình triển khai chuyển đổi số và đô thị
+thông minh của Thành phố.
+Ủy ban nhân dân Thành phố đã ban hành
+Kế hoạch triển khai chuyển đổi số và đô thị thông minh năm 2022
+[2]
+, trong đó xác định mục tiêu,
+giải pháp, nhiệm vụ trọng tâm, chỉ đạo các đơn vị thành lập Ban Chỉ đạo và xây
+dựng kế hoạch năm để triển khai thực hiện. Có 40 đơn vị đã thành lập Ban Chỉ đạo
+chuyển đổi số, 51 đơn vị đã ban hành Kế hoạch triển khai chuyển đổi số và đô thị
+thông minh năm 2022.
+Đặc biệt, để tăng cường sự tham gia của
+cả hệ thống chính trị trong công tác triển khai chuyển đổi số và xây dựng đô thị
+thông minh của Thành phố, đặc biệt là trong bối cảnh Thành phố đang trong quá
+trình phục hồi và phát triển kinh tế - xã hội sau đại dịch Covid-19, Thành ủy
+Thành phố Hồ Chí Minh đã ban hành Chỉ thị số 17-CT/TU ngày 27 tháng 08 năm 2022
+về đẩy mạnh công tác chuyển đổi số và xây dựng Thành phố Hồ Chí Minh trở thành
+đô thị thông minh. Theo đó, Ủy ban nhân dân Thành phố đã ban hành Công văn số
+4776/UBND-KT ngày 12 tháng 12 năm 2022 về triển khai Chỉ thị số 17-CT/TU của
+Thành ủy.
+B. Kết quả triển
+khai chuyển đổi số và đô thị thông minh tại Thành phố Hồ Chí Minh
+I. về tuyên truyền,
+nâng cao nhận thức
+1. Tổ chức Hội
+nghị, hội thảo, tọa đàm về chuyển đổi số
+Thành phố Hồ Chí Minh đã tổ chức các
+Hội nghị, hội thảo về chuyển đổi số và đô thị thông minh, như sau:
+- Tọa đàm “Kinh tế số - Triển vọng và
+định hướng phát triển trên địa bàn Thành phố Hồ Chí Minh”, tổ chức vào ngày 25
+tháng 3 năm 2022.
+- Hội thảo “Chuyển đổi số - Hỗ trợ và
+thúc đẩy phát triển doanh nghiệp nhỏ và vừa”, tổ chức vào ngày 08 tháng 4 năm
+2022.
+- Hội thảo về đô thị thông minh năm 2022,
+tổ chức vào ngày 26 tháng 4 năm 2022.
+- Hội thảo “Dữ liệu dùng chung và Dữ
+liệu mở - Hướng tới Chiến lược dữ liệu của Thành phố”, tổ chức vào ngày 28
+tháng 6 năm 2022.
+- Hội thảo và triển lãm quốc tế an
+toàn thông tin khu vực phía Nam năm 2022, tổ chức vào ngày 25-26 tháng 8 năm
+2022.
+- Hội thảo “Xây dựng tầm nhìn chiến
+lược quản trị dữ liệu của Thành phố”, tổ chức vào ngày 30 tháng 8 năm 2022.
+- Hội thảo “Chiến lược quản trị dữ liệu
+của Thành phố”, tổ chức vào ngày 19 tháng 10 năm 2022.
+2. Đào tạo, tập
+huấn về chuyển đổi số
+Thành phố Hồ Chí Minh đã ban hành các
+Kế hoạch tổ chức lớp bồi dưỡng kiến thức cơ bản về chuyển đổi số và công nghệ
+thông tin - truyền thông cho đội ngũ cán bộ, công chức, viên chức, người lao động
+đang công tác tại các sở, ban, ngành, Ủy ban nhân dân thành phố Thủ Đức, Ủy ban
+nhân dân quận, huyện và các doanh nghiệp nhà nước thuộc Thành phố
+[3]
+và tổ chức các
+lớp đào tạo như sau:
+- Đã tổ chức 14 lớp (từ ngày
+04/07/2022 đến 30/08/2022) đào tạo kiến thức cơ bản về chuyển đổi số cho 1431
+cán bộ cán bộ, công chức, viên chức, người lao động (718 cán bộ, công chức và
+713 viên chức và các đối tượng khác).
+- Đang tổ chức 40 lớp đào tạo, bồi dưỡng,
+tập huấn và phát triển nguồn nhân lực công nghệ thông tin và truyền thông cho
+2000 học viên, trong đó số lượng cán bộ, công chức của Thành phố tham dự là
+1500 học viên và hỗ trợ đào tạo cho 500 viên chức, người lao động tại các đơn vị
+sự nghiệp, tổ chức, doanh nghiệp.
+3. Triển khai cổng
+thông tin Chuyển đổi số và Bản tin Chuyển đổi số của Thành phố
+Thành phố Hồ Chí Minh đã tổ chức triển
+khai và đưa vào vận hành Cổng thông tin Chuyển đổi số của Thành phố tại địa chỉ
+https://chuyendoiso.hochiminhcity.gov.vn. Đây là kênh chính thức tổng hợp thông
+tin liên quan đến kế hoạch, chương trình Chuyển đổi số, các hoạt động và kết quả
+Chuyển đổi số của Thành phố Hồ Chí Minh; đồng thời là thư viện cung cấp các tài
+liệu mà các đơn vị có thể sử dụng để triển khai tập huấn, đào tạo các nội dung
+về chuyển đổi số.
+Đồng thời, Thành phố Hồ Chí Minh đã
+triển khai chuyên mục “Diễn đàn số”, là một thành phần của Cổng thông tin Chuyển
+đổi số, nhằm tạo kênh thông tin tiếp nhận, trao đổi giữa chính quyền, chuyên
+gia và doanh nghiệp, ghi nhận các ý kiến hiến kế, góp ý, thảo luận về chuyển đổi
+số của chuyên gia và doanh nghiệp.
+Ngoài ra, ngày 30 tháng 4 năm 2022,
+Thành phố Hồ Chí Minh chính thức giới thiệu Bản tin Chuyển đổi số Thành phố Hồ
+Chí Minh. Mục tiêu xây dựng bản tin nhằm phổ biến, tuyên truyền và cung cấp
+thông tin định kỳ hàng tháng về kết quả triển khai chương trình Chuyển đổi số của
+Thành phố Hồ Chí Minh; kịp thời tổng hợp, ghi nhận các sự kiện tiêu biểu, các
+văn bản mới; các hoạt động nổi bật của Lãnh đạo Thành phố; các giải pháp, mô
+hình chuyển đổi số hay, sáng tạo, hiệu quả tại các sở, ban, ngành, Ủy ban nhân
+dân thành phố Thủ Đức và Ủy ban nhân dân các quận, huyện đê các đơn vị học tập,
+nhân rộng.
+Cổng thông tin Chuyển đổi số và Bản
+tin Chuyển đổi số là hai sản phẩm tuyên truyền quan trọng góp phần nâng cao nhận
+thức về chuyển đổi số, cung cấp thông tin về quá trình chuyển đổi số của Thành
+phố.
+4. Triển khai Tổ
+công nghệ số cộng đồng
+Ủy ban nhân dân Thành phố ban hành
+Công văn số 2350/UBND-KT ngày 13 tháng 7 năm 2022 về thí điểm triển khai Tổ
+công nghệ số cộng đồng tại Thành phố Hồ Chí Minh cho Ủy ban nhân dân thành phố
+Thủ Đức và Ủy ban nhân dân các quận, huyện theo hướng dẫn của Bộ Thông tin và
+Truyền thông nhằm thực hiện các hoạt động tuyên truyền, hướng dẫn, hỗ trợ người
+dân sử dụng các dịch vụ công nghệ số do các cơ quan nhà nước cung cấp.
+Ủy ban nhân dân Thành phố Thủ Đức và
+các quận, huyện đã thành lập
+2.620
+tổ công nghệ số cộng đồng với
+11.059
+thành viên.
+Ngày 29 tháng 9 năm 2022, Thành phố
+đã phối hợp với Cục Chuyển đổi số quốc gia tổ chức Hội nghị tập huấn, đào tạo
+cho các Tổ công nghệ số cộng đồng.
+5.
+Thành phố tiếp tục xây dựng chương trình truyền
+thông IT TODAY phát sóng trên kênh truyền hình Thành phố (HTV9) để thực hiện
+tuyên truyền kết quả triển khai chuyển đổi số, xây dựng đô thị thông minh, phát
+triển ứng dụng trí tuệ nhân tạo,... của Thành phố. Trong năm 2022 đã thực hiện
+phát sóng 8 số với các nội dung về hỗ trợ doanh nghiệp vừa và nhỏ, nhà xuất bản
+số, chuyển đổi số báo chí, chuyện đọc thời công nghệ, hộ tịch điện tử,... Đồng
+thời đẩy mạnh chỉ đạo tuyên truyền trên các báo, đài về các kết quả, các dịch vụ
+tiện ích do quá trình chuyển đổi số, phát triển chính quyền điện tử hướng đến
+chính quyền số mang lại.
+6. Tổ chức các hoạt
+động hưởng ứng Ngày chuyển đổi số quốc gia - 10/10/2022
+Từ ngày 08 tháng 10 năm 2022 đến ngày
+14 tháng 10 năm 2022, Thành phố đã tổ chức Tuần lễ Đổi mới sáng tạo và Chuyển đổi
+số Thành phố Hồ Chí Minh năm 2022 với Chủ đề “Chuyển đổi số - động lực mới cho
+phát triển của Thành phố”, gồm chuỗi các hoạt động hưởng ứng ngày chuyển đổi số
+quốc gia 10/10 như: Các Hội thảo khoa học và Tọa đàm về chuyển đổi số và đổi mới
+sáng tạo; triển lãm các sản phẩm công nghệ chuyển đổi số; các cuộc thi và trao
+thưởng cho những tổ chức và cá nhân có đóng góp cho chuyển đổi số và hệ sinh
+thái khởi nghiệp đổi mới sáng tạo của Thành phố Hồ Chí Minh; triển lãm, giới
+thiệu sách, tác phẩm về chuyển đổi số;....
+7. Kế hoạch triển
+khai Bộ chỉ số đánh giá chuyển đổi số trên địa bàn Thành phố Hồ Chí Minh năm
+2023 và triển khai Hệ thống đánh giá Bộ chỉ số Chuyển đổi số của Thành phố
+Ngày 10 tháng 01 năm 2023, Ủy ban
+nhân dân Thành phố đã ban hành Quyết định số
+79/QĐ-UBND
+về ban hành Bộ chỉ số
+đánh giá Chuyển đổi số của Thành phố Hồ Chí Minh, hiện đang hoàn thiện Kế hoạch
+triển khai Bộ chỉ số đánh giá chuyển đổi số của Thành phố Hồ Chí Minh năm 2023
+cho các sở, ban, ngành, Ủy ban nhân dân thành phố Thủ Đức và Ủy ban nhân dân
+các quận, huyện.
+II. Hợp tác trong
+nước và quốc tế
+- Phối hợp chặt chẽ với các cơ quan
+ngành dọc như Văn phòng Chính phủ (Cục Kiểm soát Thủ tục hành chính), Bộ Thông
+tin và Truyền thông (Cục Tin học hóa ), Bộ Nội Vụ (Cục Văn thư và lưu trữ), Bộ
+Công An (C06), Bộ Quốc phòng (Bộ Tư lệnh Tác chiến không gian mạng) trong tham
+mưu, tổ chức triển khai chương trình, đề án Chuyển đổi số và xây dựng đô thị
+thông minh tại Thành phố Hồ Chí Minh.
+- Hợp tác với Ngân hàng Thế giới
+trong xây dựng Chiến lược dữ liệu Thành phố Hồ Chí Minh); hợp tác với Tập đoàn
+Công nghiệp - Viễn thông Quân đội về xây dựng Đô thị thông minh, Chuyển đổi số
+giai đoạn 2022 - 2025;.... Phối hợp với các hiệp hội ngành nghề như Hội Tin học
+Thành phố, Chỉ hội An toàn thông tin phía Nam, các trường viện... thường xuyên
+tổ chức các Hội thảo, chương trình nhằm nâng cao năng lực chuyển đổi số cho đội
+ngũ cán bộ, công chức, viên chức của Thành phố.
+III. Phát triển hạ
+tầng số
+1. Trung tâm dữ
+liệu Thành phố
+Thành phố đã tổ chức triển khai tập
+trung các ứng dụng của các sở, ngành, Ủy ban nhân dân thành phố Thủ Đức và Ủy
+ban nhân dân các quận, huyện trên
+1.034 máy chủ
+tại Trung tâm dữ liệu
+Thành phố và tăng cường an toàn an ninh thông tin cho các hệ thống này. Đây là
+hạ tầng trung tâm dữ liệu có số lượng máy chủ của các cơ quan nhà nước lớn nhất
+nước được xây dựng trên nền tảng hạ tầng điện toán đám mây hiện đại, được đầu
+tư đầy đủ hệ thống và chính sách bảo vệ giám sát an ninh hiện đại, đảm bảo nguồn
+nhân lực chuyên trách về an toàn thông tin, giám sát vận hành liên tục cơ sở dữ
+liệu (CSDL) của Thành phố.
+2. Hạ tầng mạng
+đô thị băng thông rộng Thành phố (MetroNet)
+Thành phố đã thực hiện kết nối từ Ủy
+ban nhân dân Thành phố đến sở, ban, ngành, quận, huyện, phường, xã, thị trấn,
+các tổng công ty và các đơn vị trực thuộc thông qua hệ thống mạng băng thông rộng
+Thành phố. Hiện nay, có hơn 800 điểm đã kết nối vào hệ thống mạng phục vụ việc
+trao đổi thông tin trong vận hành, liên thông hệ thống thông tin chỉ đạo điều
+hành các cấp.
+3. Hạ tầng công
+nghệ thông tin (CNTT) tại các sở, ban, ngành Ủy ban nhân dân thành phố Thủ Đức
+và Ủy ban nhân dân các quận, huyện
+Thành phố đang từng bước thực hiện đầu
+tư và nâng cấp hệ thống hạ tầng của các sở, ban, ngành, quận, huyện, bao gồm: mạng
+nội bộ, trang thiết bị máy trạm, máy chủ, các thiết bị mạng, hệ thống an toàn
+thông tin... phù hợp với tình hình thực tế tại đơn vị và mô hình chung của
+Thành phố, nhằm đáp ứng nhu cầu về ứng dụng công nghệ thông tin trong phục vụ
+công tác chuyên môn, quản lý tại đơn vị. 100% cán bộ công chức sử dụng máy
+tính; 100% các cơ quan có LAN, kết nối Internet tốc độ cao, kết nối WAN.
+4. Hạ tầng mạng
+viễn thông
+Hạ tầng cáp quang băng rộng đã được
+triển khai đến cấp xã, đảm bảo 100% xã, phường trên địa bàn Thành phố Hồ Chí
+Minh có mạng lưới và dịch vụ truy cập Internet băng rộng. Hạ tầng di động 3G,
+4G cũng đã được phủ khắp Thành phố, đảm bảo hạn chế tối đa vùng lõm sóng hoặc
+chưa đảm bảo chất lượng đến cấp xã, khu phố, ấp.
+Thành phố là địa phương đầu tiên triển
+khai thí điểm hạ tầng và dịch vụ 5G tại thành phố Thủ Đức. Đồng thời, Thành phố
+cũng đã xây dựng dự thảo Kế hoạch triển khai hạ tầng viễn thông di động thế hệ
+thứ 5 (5G) giai đoạn 2021- 2025 trên địa bàn Thành phố Hồ Chí Minh, đang phối hợp,
+trao đổi với các cơ quan chuyên môn của Bộ Thông tin và Truyền thông, Tập đoàn
+VNPT và Tập đoàn Viettel để rà soát, đảm bảo các nội dung của dự thảo Kế hoạch phù
+hợp với định hướng phát triển mạng di động 5G chung của quốc gia và Kế hoạch
+phát triển hạ tầng và dịch vụ 5G của các doanh nghiệp viễn thông.
+Về phát triển hạ tầng kết nối mạng
+Internet vạn vật (IoT): Thành phố đang vận hành mạng lưới camera giám sát phục
+vụ giao thông, an ninh trật tự với trên 10.000 camera; ứng dụng IoT trong cảnh
+báo quản lý môi trường, khí hậu. Thành phố đã phối hợp với Học viện Công nghệ
+bưu chính viễn thông để thực hiện đề tài nghiên cứu khoa học “Thiết kế mạng
+băng rộng cho Thành phố thông minh” bằng nguồn kinh phí nhiệm vụ khoa học công
+nghệ, làm cơ sở để xây dựng phương án triển khai mạng băng rộng phục vụ cho
+phát triển đô thị thông minh và chuyển đổi số của Thành phố.
+5. Chương trình
+hỗ trợ điện thoại thông minh cho các hộ nghèo
+Ủy ban nhân dân Thành phố giao Sở
+Thông tin và Truyền thông tổ chức khảo sát hơn 40.000 hộ khó khăn, hộ nghèo nhằm
+triển khai Chương trình hỗ trợ điện thoại thông minh (smartphone) có kết nối
+internet cho hộ nghèo, hộ cận nghèo và hộ có thu nhập thấp, hoàn cảnh khó khăn;
+xây dựng kế hoạch triển khai trong đó vận động xã hội hóa của các cá nhân, tổ
+chức doanh nghiệp viễn thông trên địa bàn ủng hộ Chương trình.
+IV. Phát triển nền
+tảng tích hợp, chia sẻ dữ liệu Thành phố
+Thành phố đã đưa vào vận hành chính
+thức Nền tảng tích hợp, chia sẻ dữ liệu dùng chung Thành phố (tên tiếng Anh là
+Ho Chi Minh City Local Government Service Platform, viết tắt là HCM LGSP) làm nền
+tảng phát triển các ứng dụng thống nhất của các cơ quan Nhà nước trên địa bàn
+Thành phố theo Kiến trúc chính quyền điện tử. Hệ thống có vai trò quan trọng
+trong việc cung cấp nền tảng “mở” giúp tập hợp nhiều nguồn lực tham gia phát
+triển hệ thống Thành phố, tránh tình trạng độc quyền, phụ thuộc vào một số nhà
+cung cấp dịch vụ, giải pháp.
+Hiện tại, nền tảng tích hợp, chia sẻ
+dữ liệu dùng chung đã sẵn sàng thực hiện liên thông
+1.139
+đơn vị trên địa
+bàn Thành phố và liên thông Nền tảng tích hợp, chia sẻ dữ liệu quốc gia (NGSP)
+giúp tạo luồng thông tin tự động giữa các hệ thống các cơ quan Nhà nước.
+Thực hiện Quyết định số
+06/QĐ-TTg
+ngày 06 tháng 01 năm 2022 về phê duyệt Đề án phát triển ứng dụng dữ liệu về dân
+cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022
+- 2025, tầm nhìn đến năm 2030 (Đề án 06), Thành phố đã phối hợp với Cục C06 - Bộ
+Công an thử nghiệm giải pháp kỹ thuật kết nối sử dụng dịch vụ xác thực trong cơ
+sở dữ liệu quốc gia về dân cư phục vụ giải quyết thủ tục hành chính đối với Hệ
+thống Nền tảng tích hợp, chia sẻ dữ liệu Thành phố Hồ Chí Minh (HCM LGSP).
+V. Xây dựng chính
+quyền số
+1. Phát triển các ứng dụng, dịch vụ
+CNTT phục vụ công tác chỉ đạo, điều hành của các cơ quan nhà nước
+a)
+Hệ thống
+Thư điện tử công vụ: đã cung cấp
+24.770
+hộp thư cho các đơn vị và cán bộ,
+công chức, viên chức.
+b)
+Hệ thống
+Quản lý tài liệu điện tử: Thành phố đã triển khai liên thông kết nối hơn 1.108
+đơn vị trên địa bàn Thành phố, đạt 100% các sở, ban, ngành, Ủy ban nhân dân
+thành phố Thủ Đức, Ủy ban nhân dân quận, huyện, phường, xã, thị trấn tham gia;
+và có hơn 10,6 triệu văn bản điện tử được gửi và nhận qua Trục liên thông của
+Thành phố; các văn bản khi phát hành đều đã ứng dụng ký số và vận hành trên môi
+trường mạng. Đồng thời, Thành phố đã ban hành Mã định danh điện tử của các cơ
+quan, đơn vị phục vụ kết nối, chia sẻ dữ liệu trên địa bàn Thành phố
+[4]
+c)
+Hệ thống
+Hội nghị trực tuyến Thành phố: Hệ thống được mở rộng phục vụ về công tác tuyên
+truyền, triển khai ứng dụng công nghệ thông tin, các buổi tập huấn trực tuyến, hội
+nghị sơ kết, tổng kết chỉ đạo điều hành giữa các sở, ban, ngành, Ủy ban nhân
+dân thành phố Thủ Đức, Ủy ban nhân dân quận, huyện, phường xã, thị trấn (đạt
+100% các đơn vị tham gia).
+d)
+Hệ thống
+tổng hợp thông tin kinh tế xã hội phục vụ công tác chỉ đạo điều hành của Thành
+phố
+(nhiệm vụ được Ủy ban Quốc gia về chuyển đổi số giao tại Quyết định số
+27/QĐ-UBQGCĐS
+ngày 15/3/2022)
+: Thành phố đã công bố và đưa vào hoạt động hệ
+thống tổng hợp thông tin phục vụ chỉ đạo điều hành. Hệ thống tổng hợp thông tin
+kinh tế - xã hội (Dashboard kinh tế - xã hội) được xây dựng căn cứ theo Quyết định
+số
+54/2016/QĐ-TTg
+ngày 19 tháng 12 năm 2016 của Thủ Tướng Chính phủ về ban hành
+hệ thống chỉ tiêu thống kê cấp tỉnh, cấp huyện, cấp xã và Quyết định số
+878/QĐ-UBND ngày 06 tháng 3 năm 2018 của Ủy ban nhân dân Thành phố Hồ Chí Minh
+về việc ban hành biểu mẫu thu thập hệ thống chỉ tiêu thống kê cấp tỉnh. Theo đó
+các nhóm chỉ tiêu áp dụng ở cấp Thành phố cũng như chi tiết đến từng quận, huyện,
+sở, ngành theo 20 nhóm lĩnh vực với 110 chỉ tiêu được phân loại theo tháng, quý
+và năm, được trình diễn dưới dạng đồ thị, biểu đồ, hình ảnh minh họa, hỗ trợ
+Lãnh đạo Thành phố đánh giá mức độ tăng/giảm, tỷ lệ hoàn thành so với kế hoạch,
+so sánh số liệu cùng kỳ hoặc giữa các giai đoạn, từ đó, có thể đánh giá tổng thể
+và toàn diện về tình hình hoạt động, hiệu quả kế hoạch công tác, kịp thời phát
+hiện các dấu hiệu bất thường để đưa ra các định hướng, quyết định và hành động
+phù hợp. Hệ thống cũng được phân quyền về sở, ngành, Ủy ban nhân dân thành phố
+Thủ Đức và Ủy ban nhân dân quận, huyện, giúp các cấp có thể nắm bắt tổng quan về
+tình hình phát triển của địa phương, đơn vị.
+2. Phát triển ứng dụng, dịch vụ
+CNTT phục vụ người dân và doanh nghiệp
+a)
+Hệ thống
+thông tin giải quyết thủ tục hành chính của Thành phố
+(Cổng dịch vụ công và
+Hệ thống thông tin một cửa điện tử gắn với đánh giá hài lòng việc giải quyết thủ
+tục hành chính):
+Thành phố đã triển khai và vận hành Hệ
+thống thông tin giải quyết thủ tục hành chính của thành phố, kết nối với Cổng Dịch
+vụ công quốc gia của Văn phòng Chính phủ và hệ thống xác thực, định danh của Bộ
+Công An.
+Ngày 29 tháng 10 năm 2022, Thành phố
+đã ra mắt Hệ thống thông tin giải quyết thủ tục hành chính Thành phố cung cấp
+các dịch vụ công trực tuyến theo Quyết định
+06/QĐ-TTg
+ngày 06 tháng 01 năm 2022
+của Thủ tướng Chính phủ phê duyệt Đề án phát triển ứng dụng dữ liệu về dân cư,
+định danh và xác thực điện tử phục vụ chuyển đổi số Quốc gia giai đoạn 2022 -
+2025, tầm nhìn đến năm 2030; Quyết định số
+422/QĐ-TTg
+ngày 04 tháng 4 năm 2022
+của Thủ tướng Chính phủ về dịch vụ công trực tuyến cần sớm được tích hợp trên Cổng
+dịch vụ công Quốc gia năm 2022; Quyết định số
+3895/QĐ-UBND
+ngày 16 tháng 11 năm
+2021 của Ủy ban nhân dân Thành phố phê duyệt Danh mục thủ tục hành chính đáp ứng
+yêu cầu thực hiện dịch vụ công trực tuyến mức độ 3, mức độ 4 trên địa bàn Thành
+phố năm 2021 -2022; Quyết định số
+26/QĐ-UBND
+ngày 05 tháng 01 năm 2022 của Ủy
+ban nhân dân Thành phố phê duyệt bổ sung Danh mục thủ tục hành chính đáp ứng
+yêu cầu thực hiện dịch vụ công trực tuyến mức độ 3, mức độ 4 trên địa bàn Thành
+phố năm 2021 - 2022.
+b)
+Cổng
+thông tin 1022 tiếp nhận và giải đáp thông tin: Thành phố đã triển khai Cổng
+thông tin 1022 tiếp nhận và giải đáp thông tin với sự tham gia của
+86
+đơn vị và
+625
+đầu mối xử lý là chính quyền các cấp và các cơ quan chức
+năng Thành phố. Cổng thông tin 1022 là kênh giao tiếp giữa Chính quyền Thành phố
+với người dân để tiếp nhận thông tin phản ánh trên nhiều lĩnh vực của đời sống
+xã hội như hạ tầng kỹ thuật đô thị (điện, cấp thoát nước, cây xanh, chiếu sáng,
+viễn thông,...), tài nguyên môi trường, trật tự đô thị, tiếng ồn đô thị,..., ý
+kiến, góp ý, hiến kế của người dân gửi đến Lãnh đạo Thành phố để xây dựng và
+phát triển Thành phố Hồ Chí Minh. Đồng thời, trong thời gian Thành phố Hồ Chí
+Minh triển khai các giải pháp phục vụ công tác phòng, chống dịch COVID- 19, Cổng
+thông tin 1022 là kênh tiếp nhận và xử lý chính thức các thông tin phản ánh từ
+người dân đến Chính quyền Thành phố nhằm kịp thời xử lý nhanh nhất những thông
+tin phản ánh về các vi phạm, các yêu cầu hỗ trợ người dân trong công cuộc
+phòng, chống COVID-19 trên địa bàn Thành phố. Tháng 04/2022, Thành phố đã công
+bố và đưa vào hoạt động Hệ thống theo dõi việc xử lý phản ánh, kiến nghị của
+người dân thông qua Tổng đài 1022. Hệ thống sẽ cung cấp thông tin, tình hình xử
+lý phản ánh, kiến nghị dưới dạng biểu đồ nhiệt, bản đồ GIS Thành phố và các khối
+biểu đồ cột, biểu đồ tròn. Thông tin được thể hiện theo từng lĩnh vực, đơn vị xử
+lý (quận, huyện, xã, phường), giúp trực quan hóa tình hình xử lý phản ánh kiến
+nghị của người dân. Hệ thống giúp lãnh đạo Thành phố và các đơn vị có thể tra cứu,
+giám sát từng kiến nghị; theo dõi chất lượng, tình hình xử lý phản ánh kiến nghị,
+kịp thời ra quyết định điều hành nhằm nâng cao chất lượng phục vụ người dân, tổ
+chức, doanh nghiệp.
+VI. Về Phát triển
+kinh tế số
+1. Nghiên cứu
+đo lường đóng góp của kinh tế số cho GRDP của Thành phố
+Thành phố đã tổ chức nghiên cứu, thu
+thập số liệu và xây dựng dự thảo báo cáo về đánh giá đóng góp của kinh tế số trong
+GRDP trên địa bàn Thành phố ở góc độ nghiên cứu khoa học; từ đó định hình những
+chính sách cơ bản để phát triển kinh tế số của thành phố. Theo đó, ước lượng tỷ
+lệ đóng góp của kinh tế số cho GRDP của thành phố năm 2022 là
+15,38%
+(chưa bao gồm thương mại điện tử và kinh tế chia sẻ).
+Thành phố cũng đã tổ chức Tọa đàm nhằm
+lấy ý kiến góp ý của các chuyên gia, nhà khoa học, các doanh nghiệp về phương
+pháp đánh giá, chính sách phát triển kinh tế số của thành phố.
+2. Trung tâm hỗ
+trợ và tư vấn chuyển đổi số (DXCenter)
+Thành phố Hồ Chí Minh đã thành lập
+Trung tâm hỗ trợ và tư vấn Chuyển đổi số Thành phố (viết tắt là DXCenter) đặt tại
+QTSC; Trung tâm tập trung thúc đẩy các hoạt động chuyển đổi số của Thành phố
+đóng vai trò như cầu nối giữa các thành phần khác nhau của nền kinh tế số, tạo
+ra sự cộng hưởng mang lại hiệu quả cao nhất cho hoạt động chuyển đổi số.
+DXCenter sẽ có các chức năng cơ bản
+như thúc đẩy hoạt động kết nối cung cầu, chuyển giao công nghệ, thử nghiệm sản
+phẩm công nghệ số; triển khai các hoạt động nhằm đổi mới tư duy và nhận thức về
+chuyển đổi số thông qua các sự kiện, các chương trình đào tạo, huấn luyện, truyền
+thông về chuyển đổi số; thúc đẩy hệ sinh thái khởi nghiệp đổi mới sáng tạo, hỗ
+trợ các cá nhân, doanh nghiệp nghiên cứu, phát triển các sản phẩm công nghệ số.
+Cùng với đó, Trung tâm sẽ triển khai các chương trình hợp tác quốc tế về chuyến
+đối số, hợp tác với các đối tác có uy tín trên thế giới; tìm kiếm các nguồn tài
+trợ cho các dự án chuyển đổi số của Việt Nam; đánh giá, thẩm định chất lượng,
+hiệu quả của các sản phẩm công nghệ; hỗ trợ nghiên cứu phát triển, cải tiến,
+nâng cấp các sản phẩm, giải pháp công nghệ.
+3. Diễn đàn
+kinh tế Thành phố
+Thành phố đã tổ chức Diễn đàn kinh tế
+Thành phố Hồ Chí Minh năm 2022 với chủ đề “
+Kinh tế số: Động lực tăng trưởng
+và phát triển Thành phố Hồ Chí Minh trong tương lai
+” từ ngày 14 đến ngày 17
+tháng 4 năm 2022 với sự tham gia của Lãnh đạo Chính phủ, lãnh đạo các Bộ ngành
+Việt Nam; đại diện các cơ quan ngoại giao, cơ quan lãnh sự, tổ chức quốc tế;
+các nhà quản lý và Lãnh đạo các địa phương nước ngoài đến từ
+15
+quốc
+gia;
+43
+diễn giả trong và ngoài nước là chuyên gia kinh tế và kinh tế số,
+công nghệ số, đại diện các quốc gia thành công trong lĩnh vực chuyển đổi số;
+doanh nghiệp.
+Đây là sự kiện quan trọng thiết thực
+giúp Thành phố lắng nghe, thảo luận với các chuyên gia, các nhà khoa học, các tổ
+chức, các doanh nghiệp trong và ngoài nước về phát triển kinh tế số Thành phố.
+4. Tổ chức Hội
+nghị gặp mặt giữa lãnh đạo Thành phố với doanh nghiệp, chuyên gia ngành công
+nghiệp công nghệ thông tin - truyền thông năm 2022.
+Thành phố đã tổ chức Hội nghị gặp mặt
+giữa lãnh đạo Thành phố với doanh nghiệp, chuyên gia ngành công nghiệp công nghệ
+thông tin - truyền thông năm 2022 nhằm lắng nghe, trao đổi các khó khăn, vướng
+mắc trong hoạt động của doanh nghiệp công nghệ thông tin, điện tử, viễn thông
+và tìm kiếm các phương án, giải pháp hỗ trợ, tháo gỡ; trao đổi thông tin nhu cầu,
+đặt hàng cho doanh nghiệp công nghệ thông tin, điện tử, viễn thông tham gia giải
+quyết các bài toán phục hồi, phát triển kinh tế - xã hội của Thành phố; lắng
+nghe ý tưởng, sáng kiến, hiến kế giải pháp của doanh nghiệp, chuyên gia nhằm
+thúc đẩy nhanh và toàn diện thực hiện chuyển đổi số của Thành phố nói chung, hỗ
+trợ cho các doanh nghiệp vừa và nhỏ chuyển đổi số nói riêng.
+VII. Về Xây dựng
+Kho dữ liệu dùng chung của Thành phố
+1. Về cơ sở dữ
+liệu nguôi dân:
+a)
+Cơ sở
+dữ liệu hộ tịch
+Thành phố Hồ Chí Minh là địa phương đầu
+tiên trong cả nước hoàn thành vấn đề số hóa 4 loại sổ hộ tịch: sổ đăng ký kết
+hôn, sổ đăng ký khai sinh, sổ đăng ký khai tử và sổ đăng ký nhận cha, mẹ, con,
+với tổng số khoảng 12 triệu hồ sơ. Tất cả dữ liệu số hóa số hộ tịch của Thành
+phố đã được đồng bộ với cơ sở dữ liệu hộ tịch của Bộ Tư pháp.
+Đồng thời, Thành phố đã ban hành Kế
+hoạch thí điểm khai thác, sử dụng Dữ liệu số hóa sổ hộ tịch tại Thành phố
+[5]
+. Từ ngày 15
+tháng 6 năm 2022, Thành phố thực hiện cấp bản sao trích lục kết hôn, khai sinh,
+khai tử, đăng ký nhận cha, mẹ, con từ Dữ liệu số hóa sổ hộ tịch tại Kho dữ liệu
+dùng chung thành phố cho người dân mà không phụ thuộc vào nơi đã đăng ký, nơi
+lưu trữ sổ hộ tịch và nơi cư trú, người dân sẽ không phải mất thời gian về nơi
+cư trú trước đây hoặc nơi đăng ký hộ tịch để trích lục mà có thể đến bất cứ phường
+xã nào tại Thành phố để được trích lục.
+b)
+Cơ sở
+dữ liệu dân cư: Đã phối hợp Bộ Công an hoàn thành kết nối sử dụng dịch vụ xác
+thực và định danh điện tử trong cơ sở dữ liệu quốc gia về dân cư phục vụ giải
+quyết thủ tục hành chính.
+c)
+Về dữ
+liệu ngành giáo dục: đã hoàn thành xây dựng cơ sở dữ liệu trường, lớp, học
+sinh, giáo viên, nhân viên và đang tiếp tục xây dựng các cơ sở dữ liệu tốt nghiệp
+trung học phổ thông và văn bằng, chứng chỉ.
+d)
+Ngoài
+ra, Thành phố cũng đã thực hiện số hóa và vận hành nhiều dữ liệu liên quan đến
+cơ sở dữ liệu người dân như dữ liệu lao động thương binh xã hội, dữ liệu y tế,
+dữ liệu văn hóa, dữ liệu cán bộ công chức...
+2. Về cơ sở dữ
+liệu tổ chức, doanh nghiệp
+Thành phố đã triển khai hoàn tất tích
+hợp và chia sẻ dữ liệu Đăng ký doanh nghiệp từ Sở Kế hoạch và Đầu tư; đang phối
+hợp kết nối với Cục thuế Thành phố chuẩn bị tích hợp và chia sẻ dữ liệu tổng hợp
+về thuế của Thành phố.
+3. Về cơ sở dữ
+liệu quản lý đô thị và bản đồ
+- Thành phố đã triển khai và tích hợp
+dữ liệu về: hệ thống thoát nước; hệ thống chiếu sáng đô thị; hệ thống công viên
+cây xanh; xử lý nước thải; dữ liệu hạ tầng giao thông (dữ liệu cầu, đường, tín
+hiệu giao thông); dữ liệu điện lực; dữ liệu cấp nước; dữ liệu bản đồ địa chính,
+địa hình; dữ liệu quy hoạch đô thị về Kho dữ liệu dùng chung của Thành phố.
+- Thành phố đang tổ chức thử nghiệm
+chia sẻ và khai thác dữ liệu nền thông tin địa lý tỷ lệ 1:2000, 1:5000 khu vực
+thành phố Thủ Đức. Hiện tại, dữ liệu nền thông tin địa lý gồm 87 lớp dữ liệu (nền
+địa lý, cơ sở đo đạc, dân cư, giao thông, thủy văn, địa hình, phủ bề mặt, biên
+giới địa giới).
+- Thực hiện kết nối, chia sẻ dữ liệu
+công chứng và cơ sở dữ liệu địa chính nhằm nâng cao hiệu lực, hiệu quả quản lý,
+phòng chống vi phạm về pháp luật về đất đai, kinh doanh bất động sản. Đã triển
+khai thí điểm tại 7 phòng công chứng trực thuộc Sở Tư pháp, chi nhánh Văn phòng
+đăng ký đất đai quận 1 và quận 6
+[6]
+.
+4. Về tổ chức
+khai thác Kho dữ liệu dùng chung của Thành phố
+Thành phố đã triển khai cổng dữ liệu
+của Thành phố tại địa chỉ https://data.hochiminhcity.gov.vn/, thực hiện chia sẻ
+dữ liệu cho các sở, ban, ngành, Ủy ban nhân dân thành phố Thủ Đức và Ủy ban
+nhân dân quận, huyện khai thác và sử dụng, bao gồm: Dữ liệu văn bản điện tử,
+Thông tin doanh nghiệp, Hộ kinh doanh cá thể, Thông tin giao dịch đảm bảo,
+Thông tin đăng ký quyền sử dụng nhà ở, đất ở, Cơ sở khám chữa bệnh, Chứng chỉ
+hành nghề y, Cơ sở giáo dục, Dịch vụ giáo dục, Dự án đầu tư nước ngoài, Dự án đầu
+tư công, Thông tin giá thị trường của một số mặt hàng thiết yếu.
+5. Về hợp tác với
+Ngân hàng Thế giới xây dựng Chiến lược quản trị dữ liệu của Thành phố
+Thành phố đã hợp tác với Ngân hàng Thế
+giới xây dựng và đang hoàn thiện Chiến lược quản trị dữ liệu của Thành phố, dự
+kiến ban hành trong tháng 02/2023. Chiến lược quản trị dữ liệu được xây dựng nhằm
+khai thác tiềm năng của dữ liệu để phục vụ tốt hơn cho hoạt động của các cơ
+quan chính quyền Thành phố, cung cấp dịch vụ thân thiện và hiệu quả hơn cho người
+dân, tăng năng suất lao động, đổi mới sáng tạo, hướng đến phát triển kinh tế số
+một cách toàn diện và bền vững.
+Chiến lược quản trị dữ liệu của Thành
+phố sẽ xác định đúng mức độ ưu tiên, xây dựng được lộ trình, kế hoạch triển
+khai các hạng mục, dự án về tạo lập và khai thác dữ liệu phù hợp phục vụ nhu cầu
+quản trị của Thành phố cũng như phục vụ hiệu quả cho quá trình chuyển đối số của
+Thành phố.
+VIII. Về triển
+khai Trung tâm điều hành đô thị thông minh (IOC)
+Sở Thông tin và Truyền thông (cơ quan
+Thường trực Ban Chỉ đạo về chuyển đổi số của Thành phố) được Ủy ban nhân dân
+Thành phố giao chủ trì thực hiện tiếp nhận tài trợ của Cơ quan Thương mại và
+phát triển Hoa Kỳ (USTDA) đối với Dự án hỗ trợ kỹ thuật Trung tâm điều hành đô
+thị thông minh. Các nội dung được hỗ trợ tư vấn kỹ thuật gồm miêu tả các chức
+năng thành phần, lộ trình đầu tư, cơ chế chính sách vận hành khai thác Trung
+tâm điều hành đô thị thông minh IOC của Thành phố Hồ Chí Minh.
+Đến nay, Thành phố đã đưa vào vận
+hành Hệ thống thông tin tổng hợp phục vụ chỉ đạo điều hành của lãnh đạo Thành
+phố, theo đó hệ thống chỉ tiêu được phân loại theo tháng, quý và năm, được
+trình diễn dưới dạng đồ thị, biểu đồ, hình ảnh minh họa, hỗ trợ lãnh đạo Ủy ban
+nhân dân Thành phố đánh giá mức độ tăng/giảm, tỷ lệ hoàn thành so với kế hoạch,
+so sánh số liệu cùng kỳ hoặc giữa các giai đoạn.
+Về Hệ thống giám sát hình ảnh
+camera tập trung của Thành phố:
+Ủy ban nhân dân Thành
+phố đã ban hành “Quy chế quản lý, vận hành và khai thác các hệ thống giám sát
+hình ảnh trên địa bàn Thành phố”
+[7]
+. Quy chế này quy định việc quản lý, lắp đặt,
+vận hành, tích hợp, khai thác và bảo dưỡng các hệ thống giám sát hình ảnh trên
+địa bàn Thành phố, đây là một bộ phận cấu thành quan trọng của Trung tâm IOC.
+Về Hệ thống tổng đài khẩn cấp liên
+thông 113 - 114 - 115 và phòng, chống thiên tai phục vụ công tác cứu hộ, cứu nạn
+tại Thành phố:
+Thành phố đã ban hành Quy chế quản lý,
+vận hành và sử dụng hệ thống tổng đài khẩn cấp liên thông 113-114-115 và phòng
+chống thiên tai phục vụ công tác cứu nạn cứu hộ tại Thành phố
+[8]
+; ban hành Quy trình tiếp nhận
+và xử lý thông tin phục vụ công tác cứu nạn, cứu hộ và nhắn tin cảnh báo thiên
+tai qua mạng thông tin di động trên địa bàn Thành phố
+[9]
+.
+Thành phố cũng đã bổ sung, tăng cường
+trang thiết bị thuộc hệ thống tổng đài khẩn cấp liên thông 113- 114 - 115 để phục
+vụ công tác tiếp nhận và điều phối thông tin cấp cứu, vận chuyển. Triển khai phần
+mềm điều phối cấp cứu 115 tích hợp với hệ thống liên thông 113-114-115, giúp
+quá trình tiếp nhận và xử lý thông tin cấp cứu được số hoá hoàn toàn và kết nối
+liên thông hoàn toàn từ khâu tiếp nhận thông tin đến việc điều phối xe ở trạm
+trung tâm 115 đến việc điều xe ở các trạm vệ tinh.
+IX. Về triển khai
+Trung tâm mô phỏng dự báo kinh tế - xã hội
+Ủy ban nhân dân Thành phố đã ban hành
+Quyết định số 3214/QĐ-UBND ngày 01 tháng 8 năm 2019 thành lập Trung tâm Mô phỏng
+và Dự báo kinh tế - xã hội trực thuộc Viện nghiên cứu phát triển được thành lập.
+Kết quả hoạt động đến nay như sau:
+- Công tác tổ chức bộ máy và xây dựng
+các quy chế, quy định làm cơ sở hoạt động của Trung tâm cơ bản đã hoàn thành.
+- Các kế hoạch công tác và kế hoạch,
+phương án tài chính đã được phê duyệt nhằm phục vụ cho hoạt động hàng năm; đồng
+thời, công tác đầu tư cơ sở vật chất kỹ thuật cũng đang được triển khai thực hiện.
+- Các hoạt động phát triển sản phẩm
+chuyên môn theo chức năng, nhiệm vụ của Trung tâm hiện đang tập trung vào cơ sở
+dữ liệu, dashboard trực quan hóa dữ liệu, chuỗi báo cáo định kỳ và đề án khoa học
+xây dựng mô hình, kịch bản dự báo; đến nay, sản phẩm chuyên môn của Trung tâm
+đã thông qua Viện Nghiên cứu phát triển từng bước tham gia vào quá trình góp phần
+tham mưu hoạch định chính sách, định hướng phát triển Thành phố.
+- Mối quan hệ hợp tác với các tổ chức
+và các chuyên gia, nhà khoa học được chú trọng trong quá trình hoạt động của
+Trung tâm; từ đó, góp phần xây dựng định hướng phát triển Trung tâm và đảm bảo
+tính khoa học và thực tiễn của sản phẩm chuyên môn phục vụ cho Thành phố.
+X. Về triển khai
+Trung tâm An toàn thông tin - Đô thị thông minh Thành phố (SOC)
+Đã thành lập thành lập Công ty cổ phần
+vận hành Trung tâm An toàn thông tin (HISSC). Công ty HISSC đã tổ chức bộ máy,
+nhân sự, trang bị các giải pháp kỹ thuật để thu thập, phân tích thông tin, các
+nguy cơ gây mất an toàn thông tin, đáp ứng nhiệm vụ giám sát, phòng ngừa và ứng
+cứu sự cố về an toàn thông tin.
+Trên đây là báo cáo về kết quả triển
+khai chuyển đổi số và đô thị thông minh của Thành phố Hồ Chí Minh năm 2022./.
+Nơi nhận:
+- UBQG về CĐS;
+- Bộ TTTT;
+- Thường trực Thành ủy;
+- Thường trực HĐND Thành phố;
+- Ban Tuyên giáo Thành ủy;
+- Thành viên BCĐ Chuyển đổi số TP;
+- TTUB: các PCT;
+- VPUB: CVP, các PCVP;
+- Phòng KT, KSTTHC;
+- Lưu: VT (KT-P.Loan).
+KT.
+  CHỦ TỊCH
+PHÓ CHỦ TỊCH
+Dương Anh Đức
+[1]
+Quyết định số 944/QĐ-UBND ngày
+31/3/2022 về thành lập Ban Chỉ đạo và Tổ Giúp việc Ban Chỉ đạo về chuyển đổi số
+của Thành phố Hồ Chí Minh
+[2]
+Kế hoạch số
+593/KH-UBND
+ngày
+28/02/2022 về triển khai Chương trình “Chuyển đổi số của Thành phố Hồ Chí Minh”
+và Đề án “Xây dựng Thành phố Hồ Chí Minh tr
+ở
+thành đô thị
+thông minh” năm 2022
+[3]
+Kế hoạch số 29
+1
+4/KH-UBND ngày 18/08/2022 của Ủy ban nhân dân Thành phố Hồ Chí Minh về
+hành Kế hoạch “Đào tạo, bồi dưỡng, tập huấn và phát triển nguồn nhân lực công
+nghệ thông tin và truyền thông thành phố Hồ Chí Minh giai đoạn 2022 – 2025
+”
+; K
+ế
+h
+o
+ạch số 1372/KH-SNV
+ngày 05/4/2022 của Sở Nội vụ về tổ chức lớp bồi dưỡng ki
+ế
+n
+thức cơ b
+ả
+n về chuyển đổi số năm 2022; Kế hoạch số
+1999/KH-STTTT ngày 29/09/2022 của Sở Thông tin và Truyền thông về đào tạo, bồi
+dưỡng, tập huấn và phát triển nguồn nhân lực công nghệ thông tin và truyền
+thông thành phố Hồ Chí Minh năm 2022 - 2023
+[4]
+Quyết định số 3079/QĐ-UBND
+ngày 12/09/2022 của Ủy ban nhân dân thành phố về ban hành mã định danh điện tử
+áp dụng cho các cơ quan, đơn vị tại Thành phố Hồ Chí Minh
+[5]
+Công văn số 1773/UBND-NCPC
+ngày 31/5/2022 của Ủ
+y
+ban nhân dân Thành phố Hồ Chí Minh về
+triển khai thực hiện thí điểm khai thác, sử dụng Dữ liệu số hóa sổ hộ tịch tại
+Thành phố Hồ Chí Minh; Kế hoạch số 2475/KH-STP ngày 02/6/2022 của Sở Tư pháp về
+triển khai thực hiện thí điểm khai thác, sử dụng dữ liệu số hóa sổ hộ tịch
+Thành phố Hồ Chí Minh
+[6]
+Công văn số 3520/STP-BTTP ngày
+01/08/2022 của Sở Tư pháp về thực hiện thí điểm kết nối, chia sẻ cơ sở dữ liệu
+công chứng và cơ sở dữ liệu địa ch
+í
+nh
+[7]
+Quy
+ế
+t định
+số
+01/2022/QĐ-UBND
+ngày 12/01/2022.
+[8]
+Quyết định số
+4013/QĐ-UBND
+ngày 24/11/2021.
+[9]
+Quyết định số
+52/2022/QĐ-UBND
+ngày 30/12/2022.
+Lưu trữ
+Ghi chú
+Ý kiến
+Facebook
+Email
+In
+Thư Viện
+Nhà Đất
+Bán đất thổ cư 130m² Gia Tân 2, Thống Nhất, Đồng Nai – giá 690 triệu
+690 triệu
+,
+DT 130 m²
+,
+Huyện Thống Nhất, Đồng Nai
+Bản án liên quan
+PHÁP LUẬT DOANH NGHIỆP
+Hỏi đáp pháp luật
+Báo cáo 23/BC-UBND năm 2023 về kết quả triển khai chuyển đổi số và đô thị thông minh của Thành phố Hồ Chí Minh năm 2022

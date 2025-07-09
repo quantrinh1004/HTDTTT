@@ -1,0 +1,1611 @@
+MỤC LỤC
+                                VĂN BẢN
+In mục lục
+BÁO CÁO TÌNH HÌNH THỰC HIỆN NGHỊ QUYẾT SỐ 36A/NQ-CP CỦA CHÍNH PHỦ VỀ CHÍNH PHỦ ĐIỆN TỬ NĂM 2017
+I. TỔNG HỢP TÌNH HÌNH TRIỂN KHAI CÁC NHIỆM VỤ CHUNG CỦA NGHỊ QUYẾT 36a
+II. TÌNH HÌNH TRIỂN KHAI CÁC NHIỆM VỤ CỤ THỂ CỦA CÁC BỘ, NGÀNH, ĐỊA PHƯƠNG
+III. NHẬN XÉT, KIẾN NGHỊ
+PHỤ LỤC I KẾT QUẢ TRIỂN KHAI DỊCH VỤ CÔNG TRỰC TUYẾN MỨC ĐỘ 3 VÀ 4 TẠI CÁC BỘ, NGÀNH, ĐỊA PHƯƠNG QUÝ IV VÀ NĂM 2017
+1. Bộ, ngành
+2. Các tỉnh, thành phố trực thuộc Trung ương
+PHỤ LỤC II TÌNH HÌNH THỰC HIỆN CÁC NHIỆM VỤ CỤ THỂ TẠI NGHỊ QUYẾT 36a
+1. Văn phòng Chính phủ
+2. Bộ Thông tin và Truyền thông:
+3. Bộ Tài chính:
+4. Bộ Kế hoạch và Đầu tư:
+5. Bộ Lao động - Thương binh và Xã hội
+6. Bộ Giáo dục và Đào tạo
+7. Bộ Giao thông vận tải
+8. Bộ Tài nguyên và Môi trường:
+9. Bộ Xây dựng:
+10. Bộ Tư pháp
+11. Bộ Khoa học và Công nghệ
+12. Bộ Văn hóa, Thể thao và Du lịch
+13. Bộ Y tế
+14. Bảo hiểm xã hội Việt Nam:
+15. Bộ Nội vụ:
+16. Bộ Công Thương
+17. Bộ Nông nghiệp và Phát triển nông thôn
+18. Bộ Công an
+19. Bộ Ngoại giao
+20. Ngân hàng Nhà nước Việt Nam
+21. Thanh tra Chính phủ
+22. Ủy ban nhân dân thành phố Hà Nội
+23. Ủy ban nhân dân Thành phố Hồ Chí Minh
+VĂN PHÒNG CHÍNH
+  PHỦ
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 314/BC-VPCP
+Hà Nội, ngày 10
+  tháng 01 năm 2018
+BÁO CÁO
+TÌNH
+HÌNH THỰC HIỆN NGHỊ QUYẾT SỐ 36A/NQ-CP CỦA CHÍNH PHỦ VỀ CHÍNH PHỦ ĐIỆN TỬ NĂM
+2017
+Thực hiện nhiệm vụ được giao tại Nghị quyết số
+36a/NQ-CP ngày 14 tháng 10 năm 2015 của Chính phủ về Chính phủ điện tử (gọi tắt
+là Nghị quyết 36a), Văn phòng Chính phủ xin báo cáo tóm tắt tình hình thực hiện
+một số giải pháp chủ yếu của Nghị quyết 36a tại Phiên họp Chính phủ với địa
+phương ngày 28 tháng 12 năm 2017.
+Trên cơ sở báo cáo của các bộ, ngành, địa phương gửi
+về đến ngày 20 tháng 12 năm 2017, Văn phòng Chính phủ báo cáo tình hình thực hiện
+Nghị quyết 36a/NQ-CP của năm 2017.
+I. TỔNG HỢP TÌNH HÌNH TRIỂN KHAI
+CÁC NHIỆM VỤ CHUNG CỦA NGHỊ QUYẾT 36a
+1. Chỉ số phát triển Chính phủ điện tử (EGDI) của
+Liên hợp quốc:
+giải pháp nâng cao chỉ số về dịch vụ công trực tuyến (OSI),
+hạ tầng viễn thông (TII) và nguồn nhân lực (HCI)
+Năm 2016, Chỉ số phát triển Chính phủ điện tử của
+Việt Nam được LHQ xếp hạng thứ 89/193 quốc gia. Trong đó, chỉ số về dịch vụ
+công trực tuyến tăng 8 bậc, từ thứ hạng 82/193 lên thứ hạng 74/193. Trong khu vực
+ASEAN, so với năm 2014 tụt hạng từ thứ 5 xuống thứ 6, xếp sau các nước ASEAN5
+(bao gồm: Singapore, Malaysia, Thái Lan, Philipines và Brunei).
+Để nâng cao chỉ số xếp hạng Chính phủ điện tử của
+Việt Nam, tại Hội nghị về Chỉ số Chính phủ Điện tử của Liên hợp quốc, ngày 17
+tháng 01 năm 2017, Phó Thủ tướng Chính phủ Vũ Đức Đam đã chỉ đạo:
+- Các bộ, cơ quan, nhất là các bộ thuộc 6 lĩnh vực
+trọng điểm (giáo dục, y tế, tài chính, phúc lợi xã hội, lao động, môi trường)
+tham khảo kinh nghiệm các nước có dịch vụ công trực tuyến phát triển (Pháp,
+Singapore), lựa chọn một số dịch vụ công trực tuyến đơn giản, có thể triển khai
+ngay, được người dân sử dụng thường xuyên và dịch vụ có thu phí để tiến hành thực
+hiện trước; phối hợp, hỗ trợ một số địa phương có điều kiện thuận lợi nhằm triển
+khai cung cấp dịch vụ công trực tuyến một cách đồng bộ. Thúc đẩy thuê dịch vụ
+công nghệ thông tin để cung cấp dịch vụ công trực tuyến, trước hết là các dịch
+vụ có thu phí.
+- Khẩn trương thống nhất đầu mối, làm rõ các số liệu
+cần cung cấp cho các tổ chức quốc tế (UNDP, ITU, UNESCO...) và Liên hợp quốc; định
+kỳ hàng quý phối hợp nhằm bảo đảm tính chính xác, đồng bộ của số liệu giữa các
+cơ quan trước khi bộ chủ trì cung cấp cho các tổ chức quốc tế nêu trên, đồng thời
+cập nhật cổng thông tin điện tử của các bộ, ngành mình.
+- Bộ Giáo dục và Đào tạo khẩn trương phối hợp Bộ
+Lao động - Thương binh và Xã hội và các bộ, cơ quan liên quan bổ sung, cập nhật
+các số liệu còn thiếu trong chỉ số Hạ tầng nhân lực, bảo đảm tính thống nhất
+trước khi cung cấp cho tổ chức quốc tế liên quan.
+- Bộ Thông tin và Truyền thông: chủ trì, làm đầu mối
+về cải thiện thứ hạng chỉ số Chính phủ điện tử của Việt Nam trong Bảng xếp hạng
+của Liên hiệp quốc. Hướng dẫn, đôn đốc các bộ, ngành, địa phương thống nhất
+cách cung cấp thông tin; khẩn trương cập nhật các số liệu mới nhất liên quan Chỉ
+số hạ tầng viễn thông, cung cấp cho tổ chức quốc tế có liên quan. Phối hợp với
+các hiệp hội, hội thuộc lĩnh vực công nghệ thông tin hoàn thiện hệ thống chỉ
+tiêu đánh giá xếp hạng trong lĩnh vực công nghệ thông tin, Chính phủ điện tử
+phù hợp với chuẩn mực và thông lệ quốc tế (Hội tin học Việt Nam: Báo cáo
+Vietnam ICT Index; Hiệp hội an toàn thông tin: Báo cáo đánh giá an toàn thông
+tin;...).
+2. Kết nối, liên thông các hệ thống quản lý văn
+bản của các bộ, ngành, địa phương với Văn phòng Chính phủ
+Cơ bản hoàn thành kết nối, liên thông các hệ thống
+quản lý văn bản của các bộ, ngành, địa phương với Văn phòng Chính phủ. Đã có 26
+bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và 63/63 tỉnh, thành phố trực thuộc
+Trung ương kết nối liên thông phần mềm quản lý văn bản, hình thành một hệ thống
+quản lý văn bản điện tử thống nhất, thông suốt từ trung ương đến địa phương,
+cho phép tự động nhận biết được trạng thái xử lý văn bản giữa các cơ quan.
+Trên cơ sở kết quả thử nghiệm mô hình mẫu liên
+thông 4 cấp hành chính có sử dụng chữ ký số chuyên dùng giữa Văn phòng Chính phủ
+với UBND Thành phố Hồ Chí Minh, Văn phòng Chính phủ đã xây dựng, triển khai kế
+hoạch hoàn thiện kết nối liên thông 26 bộ, ngành, 62 địa phương, theo 3 giai đoạn:
+a) Giai đoạn 1: từ ngày 30 tháng 3 năm 2017 đến
+ngày 30 tháng 4 năm 2017, gồm 7 đơn vị: Bộ Văn hóa, Thể thao và Du lịch, Thanh
+tra Chính phủ; các tỉnh, thành phố: Đà Nẵng, Quảng Ninh, Long An, Bắc Ninh, Đồng
+Nai. Đến nay đã chuyển chính thức gửi nhận văn bản với Văn phòng Chính phủ qua
+hệ thống quản lý văn bản 4 cấp chính quyền cho 5/7 đơn vị (Bộ Văn hóa, Thể thao
+và Du lịch; các tỉnh, thành phố: Đà Nẵng, Quảng Ninh, Long An, Bắc Ninh).
+b) Giai đoạn 2: từ ngày 5 tháng 6 năm 2017 đến ngày
+30 tháng 9 năm 2017, gồm 20 đơn vị: Các bộ: Công Thương, Y tế, Xây dựng; UBND
+các tỉnh: Hà Nội, Hải Phòng, Hải Dương, Thái Bình, Hà Nam, Hòa Bình, Hà Giang,
+Nghệ An, Quảng Trị, Thừa Thiên Huế, Quảng Nam, Bình Định, Gia Lai, Đăk Lắk, Tiền
+Giang, Trà Vinh, Sóc Trăng. Đến nay đã chuyển chính thức gửi nhận văn bản với
+Văn phòng Chính phủ qua hệ thống quản lý văn bản 4 cấp chính quyền cho 10/20
+đơn vị gồm các Bộ: Y tế, Công Thương; các tỉnh, thành phố: Thái Bình, Thừa
+thiên Huế, Bình Định, Gia Lai, Đăk Lắk, Tiền Giang, Trà Vinh, Hà Giang.
+c) Giai đoạn 3: từ ngày 1 tháng 11 năm 2017 đến
+ngày 30 tháng 12 năm 2017, gồm 61 đơn vị: 21 Bộ, ngành: Thông tin và Truyền
+thông, Lao động - Thương binh và Xã hội, Nông nghiệp và Phát triển nông thôn,
+Khoa học và Công nghệ, Giao thông vận tải, Tài nguyên và Môi trường, Tư pháp,
+Tài chính, Ngoại giao, Kế hoạch và Đầu tư, Nội vụ, Giáo dục và Đào tạo, Ủy ban
+Dân tộc, Viện Hàn Lâm Khoa học và Công nghệ Việt Nam, Thông tấn xã Việt Nam,
+Ngân hàng Nhà nước Việt Nam, Viện Hàn lâm Khoa học xã hội Việt Nam, Bảo hiểm Xã
+hội Việt Nam, Đài Truyền hình Việt Nam, Đài Tiếng nói Việt Nam, Học viện Chính
+trị Quốc gia Hồ Chí Minh; 40 tỉnh, thành phố: Cần Thơ, Điện Biên, Bắc Kạn,
+Thanh Hóa, Bắc Giang, Yên Bái, Lạng Sơn, Đắk Nông, Ninh Thuận, Phú Yên, Quảng
+Bình, Khánh Hòa, Bình Thuận, Lâm Đồng, Bình Phước, Hà Tĩnh, Bà Rịa-Vũng Tàu, An
+Giang, Cà Mau, Bình Dương, Kiên Giang, Vĩnh Long, Bến Tre, Lai Châu, Thái
+Nguyên, Vĩnh Phúc, Tuyên Quang, Nam Định, Cao Bằng, Hưng Yên, Lào Cai, Ninh
+Bình, Phú Thọ, Sơn La, Quảng Ngãi, Kon Tum, Tây Ninh, Đồng Tháp, Bạc Liêu, Hậu
+Giang. Văn phòng Chính phủ đang phối hợp với các đơn vị liên quan hỗ trợ các bộ,
+ngành, địa phương để khẩn trương hoàn thành.
+Văn phòng Chính phủ đang tổ chức xây dựng và hoàn
+thiện quy chế gửi, nhận văn bản điện tử trên hệ thống quản lý văn bản 4 cấp
+chính quyền trình Thủ tướng Chính phủ ban hành. Hoàn thiện dự thảo Nghị định một
+cửa liên thông trong giải quyết thủ tục hành chính, trình Chính phủ xem xét ban
+hành năm 2017.
+3. Công khai tiến độ xử lý hồ sơ trên Cổng Thông
+tin điện tử Chính phủ
+63/63 tỉnh, thành phố và 19/30 bộ ngành đã công
+khai tiến độ xử lý hồ sơ trên Cổng Thông tin điện tử Chính phủ. Riêng Bộ Quốc
+phòng, Bộ Công an và Ban Quản lý Lăng Chủ tịch Hồ Chí Minh, Thanh tra Chính phủ
+là 4 cơ quan đặc thù, chưa công khai tiến độ xử lý hồ sơ trên Cổng Thông tin điện
+tử Chính phủ.
+4. Đẩy mạnh việc cung cấp dịch vụ công trực tuyến
+và thiết lập Cổng dịch vụ công Quốc gia
+Thủ tướng Chính phủ đã ban hành Quyết định số
+846/QĐ-TTg
+ngày 9 tháng 6 năm 2017 về Danh mục dịch vụ công trực tuyến mức độ 3
+và 4 thực hiện tại các Bộ, ngành địa phương năm 2017, có 358 thủ tục hành chính
+triển khai dịch vụ công trực tuyến mức độ 3, 4 để các bộ, ngành thực hiện trong
+năm 2017 và 353 thủ tục hành chính triển khai dịch vụ công trực tuyến mức độ 3,
+4 để các địa phương thực hiện trong năm 2017.
+Văn phòng Chính phủ đang hoàn thiện dự án khả thi Cổng
+dịch vụ công Quốc gia, đã cơ bản hoàn thành giao diện và phương án kỹ thuật kết
+nối Cổng dịch vụ công Quốc gia, trên cơ sở tham khảo mô hình Công dịch vụ công
+quốc gia của một số quốc gia xếp thứ hạng cao.
+5. Bổ sung, hoàn thiện cơ chế, chính sách về tài
+chính, đầu tư trong lĩnh vực công nghệ thông tin
+Thực hiện Nghị quyết số
+41/NQ-CP
+ngày 26 tháng 5
+năm 2016 của Chính phủ về chính sách ưu đãi thuế thúc đẩy phát triển và ứng dụng
+công nghệ thông tin tại Việt Nam, Bộ Tài chính đang triển khai thực hiện dự án
+Luật sửa đổi, bổ sung các Luật về thuế thu nhập doanh nghiệp về quy định ưu đãi
+thuế đối với lĩnh vực khoa học và công nghệ để thực hiện Luật Công nghệ cao, Luật
+Khoa học và Công nghệ; Thủ tướng Chính phủ ban hành Quyết định số
+13/2017/QĐ-TTg
+ngày 28 tháng 4 năm 2017 về việc sửa đổi, bổ sung Danh mục công
+nghệ cao được ưu tiên đầu tư phát triển và cần đặc biệt khuyến khích, theo đó
+các doanh nghiệp thực hiện dự án ứng dụng công nghệ cao, dự án sản xuất sản phẩm
+công nghệ cao trong lĩnh vực công nghệ thông tin thuộc các Danh mục được phê
+duyệt sẽ được áp dụng hưởng các chính sách ưu đãi.
+Về Cơ chế đầu tư, mua sắm và thuê dịch vụ, sản phẩm
+công nghệ thông tin phù hợp với đặc thù của công nghệ thông tin: Bộ Thông tin
+và Truyền thông chủ trì, phối hợp Văn phòng Chính phủ, Bộ Tư pháp và các bộ, cơ
+quan liên quan: Bộ Kế hoạch và Đầu tư, Bộ Tài chính, UBND TP Hà Nội, UBND TP Hồ
+Chí Minh, Hiệp hội Phần mềm và Dịch vụ công nghệ thông tin (VINASA), Hội Tin học
+Việt Nam (VAIP),… tiếp thu ý kiến Thành viên Chính phủ, hoàn thiện dự thảo Nghị
+định về quản lý đầu tư ứng dụng CNTT sử dụng vốn nhà nước (sửa đổi Nghị định
+102/2009/NĐ-CP
+theo đó tập trung quy định rõ về mua sắm và thuê dịch vụ CNTT),
+trình Chính phủ xem xét ban hành.
+6. Đảm bảo an toàn thông tin, an ninh thông tin
+Triển khai thực hiện Luật an toàn thông tin mạng số
+86/2016/QH13 và Nghị định số
+85/2016/NĐ-CP
+ngày 01 tháng 7 năm 2016 của Chính
+phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ, Thủ tướng Chính phủ đã
+ban hành các Quyết định số
+898/QĐ-TTg
+ngày 27 tháng 5 năm 2016 phê duyệt phương
+hướng, mục tiêu, nhiệm vụ bảo đảm an toàn thông tin mạng giai đoạn 2016 - 2020,
+Quyết định số
+05/2017/QĐ-TTg
+ngày 16 tháng 3 năm 2017 về hệ thống phương án ứng
+cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia và Quyết định số
+632/QĐ-TTg
+ngày 10 tháng 5 năm 2017 ban hành Danh mục 11 lĩnh vực quan trọng cần
+ưu tiên bảo đảm an toàn thông tin mạng và hệ thống thông tin quan trọng quốc
+gia. Việc triển khai các nhiệm vụ bảo đảm an toàn hệ thống thông tin được thực
+hiện theo tinh thần người đứng đầu các bộ, ngành, địa phương chịu trách nhiệm
+cá nhân về an toàn hệ thống thông tin thuộc ngành, lĩnh vực minh quản lý, không
+được để mất quyền kiểm soát hệ thống công nghệ thông tin, hệ thống máy tính.
+Nghị quyết số
+131/NQ-CP
+ngày 06 tháng 12 năm 2017 Phiên họp thường kỳ tháng 11
+năm 2017 của Chính phủ đã chỉ đạo các bộ, ngành khẩn trương kiện toàn đơn vị
+chuyên trách, đầu mối tham mưu, quản lý về an toàn thông tin.
+II. TÌNH HÌNH TRIỂN KHAI CÁC NHIỆM
+VỤ CỤ THỂ CỦA CÁC BỘ, NGÀNH, ĐỊA PHƯƠNG
+1. Tình hình thực hiện các nhiệm vụ cụ thể được
+giao tại Nghị quyết 36a
+Có 9/23 Bộ, cơ quan đã hoàn thành toàn bộ các nhiệm
+vụ cụ thể được giao; 22/23 cơ quan đã triển khai hoàn thành một số nhiệm vụ
+(Thanh tra Chính phủ có 2 nhiệm vụ được giao, chưa thực hiện được).
+Cơ quan
+Số nhiệm vụ cụ
+  thể được giao
+Số nhiệm vụ đã
+  hoàn thành
+Số nhiệm vụ
+  đang triển khai
+1
+Văn phòng Chính phủ
+6
+3
+3
+2
+Bộ Thông tin và Truyền thông
+6
+3
+3
+3
+Bộ Tài chính
+5
+3
+2
+4
+Bộ Kế hoạch và Đầu tư
+4
+4
+0
+5
+Bộ Lao động - Thương binh và Xã hội
+1
+1
+0
+6
+Bộ Giáo dục và Đào tạo
+3
+3
+0
+7
+Bộ Giao thông vận tải
+2
+1
+1
+8
+Bộ Tài nguyên và Môi trường
+3
+1
+2
+9
+Bộ Xây dựng
+4
+3
+1
+10
+Bộ Tư pháp
+6
+3
+3
+11
+Bộ Khoa học và Công nghệ
+3
+3
+0
+12
+Bộ Văn hóa, Thể thao và Du lịch
+2
+2
+0
+13
+Bộ Y tế
+6
+3
+3
+14
+Bảo hiểm xã hội Việt Nam
+5
+3
+2
+15
+Bộ Nội vụ
+2
+1
+1
+16
+Bộ Công Thương
+2
+1
+1
+17
+Bộ Nông nghiệp và Phát triển Nông thôn
+1
+1
+0
+18
+Bộ Công an
+1
+1
+0
+19
+Bộ Ngoại giao
+1
+1
+0
+20
+Ngân hàng Nhà nước Việt Nam
+1
+1
+0
+21
+Thanh tra Chính phủ
+2
+0
+2
+22
+UBND thành phố Hà Nội
+3
+1
+2
+23
+UBND Thành phố Hồ Chí Minh
+2
+1
+1
+2. Kết quả thực hiện cung cấp các dịch vụ công
+trực tuyến năm 2017
+Trong Quý IV năm 2017, nhiều Bộ, ngành, địa phương
+đã chính thức triển khai Cổng dịch vụ công trực tuyến (DVCTT) nhằm thực hiện
+cam kết cải cách thủ tục hành chính của Bộ, ngành, địa phương với người dân và
+cộng đồng doanh nghiệp; tăng cường kết nối DVCTT với Cơ chế một cửa quốc gia
+(VNSW) (Bộ Công Thương, Bộ Khoa học và Công nghệ;…).
+Theo báo cáo của các Bộ, ngành, địa phương đang tiếp
+tục triển khai, mở rộng các DVCTT trên cơ sở Danh mục DVCTT mức độ 3, 4 (theo
+các Quyết định số
+846/QĐ-TTg
+của Thủ tướng Chính phủ, Công văn số
+2779/VPCP-KGVX
+và quyết định triển khai chủ động của Bộ, ngành, địa phương);
+nhiều DVCTT mức độ 3, 4 được người dân, doanh nghiệp thực hiện với số lượng hồ
+sơ được tiếp nhận và giải quyết rất lớn. Ví dụ: Bộ Công an: 8.834.680 hồ sơ (cấp
+hộ chiếu và khai báo tạm trú); Bộ Công Thương 771.661 hồ sơ; Bộ Giáo dục và Đào
+tạo: 270.000 hồ sơ; Bộ Giao thông vận tải: 144.189 hồ sơ (cấp giấy phép lái xe
+và giấy phép kinh doanh vận tải);...Thành phố Hà Nội: 225.173 hồ sơ; Lâm Đồng:
+110.625 hồ sơ; Cà Mau: 95.018 hồ sơ; Thái Nguyên: 91.201 hồ sơ; Hà Nam: 81.929
+hồ sơ:...)
+Có 51/63 các tỉnh, thành phố trực thuộc Trung ương
+có báo cáo gửi Văn phòng Chính phủ về tình hình thực hiện Nghị quyết 36a và kết
+quả thực hiện Danh mục các dịch vụ công trực tuyến mức độ 3, 4 của năm 2017.
+Trong đó, 06 tỉnh có báo cáo nhưng thông tin, số liệu không phù hợp với yêu cầu
+theo Danh mục dịch vụ công trực tuyến đã công bố (chi tiết tại Phụ lục I kèm
+theo).
+III. NHẬN XÉT, KIẾN NGHỊ
+Qua 2 năm triển khai thực hiện Nghị quyết 36a về
+Chính phủ điện tử, đặc biệt trong năm 2017 đến nay, các bộ, ngành, địa phương
+đã có những chuyển biến rõ nét từ nhận thức đến hành động, tích cực triển khai ứng
+dụng công nghệ thông tin, tăng cường kết nối liên thông, mở rộng thực hiện cung
+cấp dịch vụ công trực tuyến. Chính phủ điện tử dần đi vào thực chất, các bộ,
+ngành, địa phương, cùng với việc tích cực triển khai các Nghị quyết số 19 của
+Chính phủ về Cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh của
+quốc gia, Nghị quyết số 35 của Chính phủ về Hỗ trợ phát triển doanh nghiệp đã
+góp phần nâng cao chất lượng, hiệu quả hoạt động của các cơ quan nhà nước, phục
+vụ người dân và doanh nghiệp ngày càng tốt hơn.
+Tuy nhiên, theo thống kê các báo cáo đến nay, trong
+71 nhiệm vụ cụ thể của các bộ, ngành Trung ương được giao tại Nghị quyết 36a, mới
+có 44 nhiệm vụ cơ bản hoàn thành, đạt tỷ lệ 61,9%. Một số bộ, ngành có nhiệm vụ
+với thời hạn cụ thể đã qua nhưng chưa thực hiện xong. Một số nhiệm vụ, giải
+pháp quan trọng như đề xuất cơ chế tài chính phù hợp cho đầu tư, ứng dụng công
+nghệ thông tin, thiết lập các hệ thống thông tin nền tảng cho phát triển Chính
+phủ điện tử (hệ thống thông tin đất đai - xây dựng), hay việc cấp phép qua mạng
+điện tử để tạo thuận lợi cho người dân, doanh nghiệp mới chỉ bước đầu được triển
+khai, chưa có kết quả cụ thể.
+Văn phòng Chính phủ kiến nghị Chính phủ chỉ đạo các
+bộ, ngành, địa phương:
+a) Tập trung triển khai, hoàn thành các nhiệm vụ được
+giao tại Nghị quyết 36a, đặc biệt là đối với các nhiệm vụ có thời hạn cụ thể.
+Thực hiện nghiêm túc, gửi báo cáo đúng thời hạn về tình hình triển khai Nghị
+quyết 36a tới Văn phòng Chính phủ để tổng hợp, báo cáo Chính phủ tại Phiên họp
+các tháng cuối Quý.
+b) Các Bộ: Thông tin và Truyền thông, Giáo dục và
+Đào tạo tập trung thực hiện một số giải pháp cụ thể nhằm nâng cao chỉ số phát
+triển Chính phủ điện tử theo Liên hợp quốc. Trong đó, Bộ Thông tin và Truyền
+thông tập trung đẩy mạnh băng thông rộng để nâng cao chỉ số về hạ tầng; Bộ Giáo
+dục và Đào tạo cập nhật ngay với UNESCO và các tổ chức có liên quan những thông
+tin căn bản về giáo dục Việt Nam bao gồm Chỉ số về Nhân lực, thường xuyên cập
+nhật số liệu trên trang thông tin điện tử của Bộ.
+c) Khẩn trương hoàn thành việc cung cấp các dịch vụ
+công trực tuyến mức độ 3,4 trong năm 2017 theo Danh mục dịch vụ công trực tuyến
+đã được Thủ tướng Chính phủ ban hành. Đẩy mạnh cải cách thủ tục hành chính, ưu
+tiên thực hiện làm trước một bước các dịch vụ công trực tuyến liên quan tới
+doanh nghiệp, nhất là có giải pháp hỗ trợ các doanh nghiệp nhỏ và siêu nhỏ.
+d) Chính phủ gương mẫu đẩy mạnh ứng dụng công nghệ
+thông tin. Trong đó, Văn phòng Chính phủ, Bộ Thông tin và Truyền thông, Bộ Nội
+vụ và Bộ Khoa học và Công nghệ phải đi đầu thực hiện xử lý hồ sơ, văn bản điện
+tử, kết nối lên cổng thông tin điện tử trong hệ thống của mình từ cấp bộ tới địa
+phương.
+đ) Bộ Thông tin và Truyền thông chủ trì, phối hợp
+các bộ, ngành, địa phương tập trung rà soát, tham mưu Thủ tướng Chính phủ chỉ đạo
+thống nhất việc xây dựng các Cơ sở dữ liệu quốc gia nền tảng; trên tinh thần kết
+nối thống nhất về Cổng dịch vụ công quốc gia của Chính phủ, chia sẻ, dùng chung
+giữa các bộ, ngành, địa phương và đẩy mạnh thuê dịch vụ công nghệ thông tin.
+Trong năm 2018, Bộ Công an tập trung triển khai Cơ sở dữ liệu quốc gia về dân
+cư, gắn với phát triển sản phẩm trọng điểm là thẻ căn cước công dân.
+e) Văn phòng Chính phủ tập trung khẩn trương hoàn
+thành thiết lập Cổng dịch vụ công quốc gia, khai trương trong năm 2018 bảo đảm
+kết nối, chia sẻ dữ liệu với cổng dịch vụ công các bộ, ngành, địa phương.
+g) Về hạ tầng kỹ thuật và một số sản phẩm, giải
+pháp công nghệ thông tin cụ thể phục vụ phát triển Chính phủ điện tử, Bộ Thông
+tin và Truyền thông chủ trì, phối hợp cùng các bộ, cơ quan: Khoa học và Công
+nghệ, Kế hoạch và Đầu tư, Tài chính; Ngân hàng Nhà nước, Văn phòng Chính phủ và
+các doanh nghiệp viễn thông, công nghệ thông tin tập trung sớm thực hiện các
+nhiệm vụ cụ thể về phát triển hạ tầng băng rộng, thanh toán điện tử, chính sách
+khuyến khích phát triển thị trường và sản phẩm quốc gia trong lĩnh vực công nghệ
+thông tin.
+Nơi nhận:
+- Thủ tướng Chính phủ (để b/c);
+- Các Phó Thủ tướng Chính phủ (để b/c);
+- Các bộ, cơ quan ngang bộ, cơ quan thuộc CP;
+- Các tỉnh ủy, thành ủy trực thuộc TW;
+- UBND các tỉnh, thành phố trực thuộc TW;
+- VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục đơn vị: KTTH,
+  ĐMDN, TH, HC, TKBT, QHĐP, CN, NN, KSTT; Cổng TTĐT, TTTH;
+- Lưu: VT, KGVX(3b).Tr.
+BỘ TRƯỞNG, CHỦ
+  NHIỆM
+Mai Tiến Dũng
+PHỤ LỤC I
+KẾT QUẢ TRIỂN KHAI DỊCH VỤ CÔNG TRỰC TUYẾN MỨC ĐỘ 3 VÀ
+4 TẠI CÁC BỘ, NGÀNH, ĐỊA PHƯƠNG QUÝ IV VÀ NĂM 2017
+(Kèm theo Báo cáo số 314/BC-VPCP ngày 10 tháng 01 năm 2018)
+1. Bộ, ngành
+STT
+Bộ, ngành
+Số lượng DVCTT
+  3, 4 hiện tại
+Số lượng DVCTT
+  xây dựng, triển khai năm 2017
+Số lượng HS tiếp
+  nhận, giải quyết trực tuyến
+Ghi chú
+Mức 3
+Mức 4
+1
+Công an
+-
+02
+8.834.680
+(cấp
+  hộ chiếu và khai báo tạm trú)
+Quý IV/2017
+2
+Quốc phòng
+-
+-
+-
+-
+Không có nội
+  dung báo cáo về triển khai DVCTT
+3
+Nội vụ
+-
+-
+-
+-
+Chưa nhận được
+  báo cáo
+4
+Ngoại giao
+37
+-
+-
+-
+Năm 2017
+5
+Công Thương
+154
+22
+12
+771.661
+Năm 2017
+6
+Giáo dục và Đào tạo
+-
+20
+04
+270.000
+Năm 2017
+7
+Giao thông vận tải
+256
+125
+144.189
+(cấp giấy
+  phép lái xe và giấy phép kinh doanh vận tải)
+Năm 2017
+8
+Kế hoạch và Đầu tư
+-
+-
+-
+12.990
+(đăng ký
+  đầu tư)
+Quý IV/2017
+9
+Khoa học và Công nghệ
+-
+40
+-
+Năm 2017
+10
+Lao động - Thương Binh và Xã hội
+-
+12
+35.000
+Năm 2017
+11
+Nông nghiệp và Phát triển nông thôn
+-
+-
+18
+4.482
+Năm 2017
+12
+Tài chính
+332
+42
+44
+-
+Năm 2017
+13
+Tài nguyên và Môi trường
+-
+58
+15
+-
+Năm 2017
+14
+Thông tin và Truyền thông
+-
+-
+-
+-
+Quý IV/2017.
+  Không có nội dung báo cáo cụ thể về triển khai DVCTT
+15
+Tư pháp
+-
+-
+-
+-
+Đang triển khai
+16
+Văn hóa, Thể thao và Du lịch
+34
+16
+05
+200
+Quý IV/2017
+17
+Xây dựng
+-
+04
+-
+-
+Năm 2017
+18
+Y tế
+-
+06
+52
+-
+Năm 2017
+19
+Ngân hàng Nhà nước Việt Nam
+-
+15
+1.372
+Năm 2017
+20
+Thanh tra Chính phủ
+-
+-
+-
+-
+Đang triển khai
+21
+Ủy ban Dân tộc
+-
+-
+-
+-
+Không có số liệu
+  cụ thể về kết quả triển khai
+22
+Bảo hiểm xã hội Việt Nam
+-
+-
+-
+-
+Không có nội
+  dung báo cáo cụ thể về triển khai DVCTT
+23
+Đài Truyền hình Việt Nam
+-
+-
+-
+-
+Không có nội
+  dung báo cáo về triển khai DVCTT
+24
+Học Viện Chính trị quốc gia Hồ Chí Minh
+-
+-
+-
+Không có nội
+  dung báo cáo về triển khai DVCTT
+2. Các tỉnh, thành phố trực thuộc
+Trung ương
+STT
+Tỉnh/Thành phố
+Số lượng DVCTT
+  xây dựng, triển khai năm 2017
+Số lượng HS tiếp
+  nhận, giải quyết trực tuyến
+Ghi chú
+Mức độ 3
+Mức độ 4
+Mức độ 3
+Mức độ 4
+1
+TP Hà Nội
+81
+-
+225.173
+2
+TP Hồ Chí Minh
+-
+-
+-
+-
+Đang triển khai
+3
+TP Hải Phòng
+480
+79
+3405
+11887
+Số lượng DVCTT
+  mức 3, 4 hiện tại
+4
+TP Đà Nẵng
+555
+-
+-
+Số lượng DVCTT
+  mức 3, 4 hiện tại
+5
+TP Cần Thơ
+313
+141.857
+217.651
+Năm 2017
+6
+Cao Bằng
+970
+0
+0
+0
+Số lượng DVCTT
+  mức 3, 4 hiện tại
+7
+Lạng Sơn
+137
+-
+-
+-
+8
+Lai Châu
+-
+-
+-
+-
+Chưa nhận được
+  báo cáo
+9
+Điện Biên
+-
+-
+-
+-
+Chưa nhận được
+  báo cáo
+10
+Hà Giang
+1.087
+24
+-
+-
+Số lượng DVCTT
+  mức 3, 4 hiện tại
+11
+Sơn La
+300
+75
+-
+-
+Số lượng DVCTT
+  mức 3, 4 hiện tại
+12
+Tuyên Quang
+470
+14
+1.155
+494
+Số lượng DVCTT
+  mức 3, 4 hiện tại
+13
+Yên Bái
+-
+-
+-
+-
+Đang triển khai
+14
+Lào Cai
+463
+-
+-
+Chưa bao gồm 40
+  DVCTT mức độ 4 từ các bộ chuyên ngành
+15
+Bắc Kạn
+166
+61
+221
+214
+16
+Thái Nguyên
+544
+46
+18.003
+73.198
+Số lượng DVCTT
+  mức 3, 4 hiện tại
+17
+Phú Thọ
+574
+-
+-
+-
+Số lượng DVCTT
+  mức 3, 4 hiện tại
+18
+Vĩnh Phúc
+05
+02
+516
+08
+Năm 2017
+19
+Bắc Giang
+667
+106
+1.389
+4.169
+Số lượng DVCTT
+  mức 3, 4 hiện tại
+20
+Bắc Ninh
+335
+20.000
+21
+Hòa Bình
+105
+08
+622
+221
+22
+Quảng Ninh
+1.010
+242
+6.795
+4.797
+Số lượng DVCTT
+  mức 3, 4 hiện tại
+23
+Hải Dương
+-
+-
+-
+-
+Chưa nhận được
+  báo cáo
+24
+Hưng Yên
+713
+78
+2393
+08
+Số lượng DVCTT
+  mức 3, 4 hiện tại
+25
+Thái Bình
+221
+10
+1.238
+10.960.7
+26
+Hà Nam
+1.868
+19
+81.929
+-
+Số lượng DVCTT
+  mức 3, 4 hiện tại
+27
+Nam Định
+-
+-
+-
+-
+Đang triển
+  khai.
+Không có nội
+  dung báo cáo cụ thể về triển khai DVCTT
+28
+Ninh Bình
+402
+135
+13.334
+-
+29
+Thanh Hóa
+38
+04
+-
+-
+30
+Nghệ An
+971
+31
+-
+-
+Số lượng DVCTT
+  mức 3, 4 hiện tại
+31
+Hà Tĩnh
+907
+-
+-
+-
+Quý III,
+  IV/2017
+32
+Quảng Bình
+94
+54
+17
+1423
+33
+Quảng Trị
+143
+15
+185
+-
+34
+Thừa Thiên Huế
+1.353
+605
+15.586
+599
+Số lượng DVCTT
+  mức 3, 4 hiện tại
+35
+Quảng Nam
+363
+24
+402
+36
+Quảng Ngãi
+200
+-
+-
+37
+Bình Định
+70
+-
+3.187
+Năm 2017
+38
+Phú Yên
+-
+-
+-
+-
+Chưa nhận được
+  báo cáo
+39
+Khánh Hòa
+450
+46
+-
+-
+Số lượng DVCTT
+  mức 3, 4 hiện tại
+40
+Ninh Thuận
+-
+-
+-
+-
+Chưa nhận được
+  báo cáo
+41
+Bình Thuận
+-
+-
+-
+-
+Chưa nhận được
+  báo cáo
+42
+Gia Lai
+285
+52
+-
+-
+43
+KonTum
+32
+-
+318
+Chưa bao gồm
+  107 DVCTT mức độ 4 từ các bộ chuyên ngành
+44
+Đắk Lắk
+434
+32
+-
+-
+45
+Đắk Nông
+444
+-
+-
+46
+Lâm Đồng
+327
+94
+110.625
+47
+Đồng Nai
+391
+-
+-
+Số lượng DVCTT
+  mức 3, 4 hiện tại
+48
+Bà Rịa - Vũng Tàu
+-
+-
+-
+-
+Chưa nhận được
+  báo cáo
+49
+Long An
+258
+05
+-
+-
+50
+Tây Ninh
+-
+-
+-
+-
+Chưa nhận được
+  báo cáo
+51
+Bình Dương
+323
+-
+-
+52
+Bình Phước
+-
+-
+-
+-
+Chưa nhận được
+  báo cáo
+53
+Tiền Giang
+921
+236
+-
+-
+Số lượng DVCTT
+  mức 3, 4 hiện tại
+54
+Bến Tre
+106
+-
+2020
+-
+55
+Hậu Giang
+-
+-
+-
+-
+Chưa nhận được
+  báo cáo
+56
+Sóc Trăng
+-
+-
+-
+-
+Không có số liệu
+  cụ thể về kết quả triển khai
+57
+Đồng Tháp
+-
+-
+-
+-
+Chưa nhận được
+  báo cáo
+58
+Vĩnh Long
+-
+-
+-
+-
+Chưa nhận được
+  báo cáo
+59
+Trà Vinh
+-
+-
+-
+-
+Chưa nhận được
+  báo cáo
+60
+An Giang
+561
+406
+-
+-
+Số lượng DVCTT
+  mức 3, 4 hiện tại
+61
+Kiên Giang
+656
+68
+-
+-
+Số lượng DVCTT
+  mức 3, 4 hiện tại
+62
+Bạc Liêu
+-
+-
+-
+-
+Đang triển khai
+63
+Tỉnh Cà Mau
+1022
+99
+95.018
+Số lượng DVCTT
+  mức 3, 4 hiện tại
+(Nguồn: Tổng hợp từ Báo cáo Quý IV và năm 2017 về
+tình hình triển khai và kết quả thực hiện Nghị quyết 36a/NQ-CP của các Bộ,
+ngành, địa phương).
+PHỤ LỤC II
+TÌNH HÌNH THỰC HIỆN CÁC NHIỆM VỤ CỤ THỂ TẠI NGHỊ QUYẾT
+36a
+(Kèm theo Báo cáo số 314/BC-VPCP ngày 10 tháng 01 năm 2018)
+1. Văn phòng Chính phủ
+a) Về kết nối liên thông:
+- Là đơn vị chủ quản Hệ thống quản lý văn bản 4 cấp
+chính quyền. Đã thử nghiệm mô hình mẫu liên thông 4 cấp với TP. Hồ Chí Minh
+như: áp dụng ký số cho văn bản phát hành; đã liên thông gửi nhận văn bản giữa
+Văn phòng Chính phủ với 576 cơ quan, đơn vị, bao gồm các sở ban ngành, quận huyện,
+phường xã, các đơn vị sự nghiệp và các công ty, tổng công ty nhà nước, toàn bộ
+thư mời họp, công văn đã áp dụng điện tử hạn chế tối đa việc gửi bản bản giấy
+giúp tiết kiệm rất lớn chi phí và thời gian.
+- Trên cơ sở kết quả thử nghiệm mô hình liên thông
+4 cấp hành chính giữa Văn phòng Chính phủ và Ủy ban nhân dân TP. Hồ Chí Minh đến
+nay đã hoàn thành chuyển chính thức gửi nhận văn bản qua hệ thống 4 cấp chính
+quyền cho 10/20 đơn vị của giai đoạn 2. Hiện nay còn Bộ Công Thương, Ủy ban
+nhân dân các tỉnh: Hà Nội, Hải Phòng, Hải Dương, Hà Nam, Hòa Bình, Nghệ An, Quảng
+Trị, Quảng Nam. Trong thời gian tới, Văn phòng Chính phủ tiếp tục phối hợp với
+61 đơn vị: 21 Bộ, ngành và 40 tỉnh để hoàn thiện liên thông 4 cấp chính quyền.
+b) Đã thiết lập Trang tin doanh nghiệp và đưa vào vận
+hành Hệ thống tiếp nhận, trả lời kiến nghị của doanh nghiệp tại địa chỉ:
+http://doanhnghiep.chinhphu.vn; Hệ thống tiếp nhận, trả lời phản ánh, kiến nghị
+của người dân tại địa chỉ
+http://nguoidan.chinhphu.vn
+.
+Đối với kênh tiếp nhận, trả lời phản ánh, kiến nghị
+của người dân, doanh nghiệp của Văn phòng Chính phủ đã tiếp nhận và xử lý 23
+nhóm vấn đề với gần 100 phản ánh, kiến nghị của hơn 300 doanh nghiệp trong nước
+và nước ngoài đang đầu tư tại Việt Nam. Từ ngày Hệ thống kiến nghị của doanh
+nghiệp đi vào hoạt động (1/10/2016) đã tiếp nhận 1441 kiến nghị, chuyển các bộ,
+ngành xử lý 1174, các bộ, ngành đã trả lời 966 kiến nghị (đạt tỷ lệ 82,35%).
+Hai hệ thống thông tin đã tiếp nhận 6.691 phản ánh, kiến nghị, trong đó, đã
+chuyển các bộ, địa phương xử lý 1.946 phản ánh, kiến nghị, các bộ, địa phương
+đã trả lời và đăng tải công khai 1.303 kết quả xử lý trên Cổng Thông tin điện tử
+Chính phủ.
+2. Bộ Thông tin và Truyền
+thông:
+a) Đã hoàn thành các nhiệm vụ: cấp thẻ nhà báo, giấy
+phép thiết lập trang thông tin điện tử tổng hợp và giấy phép ra kênh, chương
+trình chuyên quảng cáo qua mạng điện tử; thực hiện các giải pháp để nâng cao chỉ
+số thành phần hạ tầng viễn thông của Việt Nam theo phương pháp đánh giá phát
+triển Chính phủ điện tử của Liên Hợp quốc; sử dụng Quỹ Dịch vụ viễn thông công
+ích Việt Nam hỗ trợ Cổng/Trang thông tin điện tử của Ủy ban nhân dân các cấp và
+cung cấp dịch vụ công trực tuyến.
+b) Đã hoàn thiện dự thảo Thông tư quy định tiêu chuẩn
+chức danh viên chức công nghệ thông tin, dự kiến ban hành trong tháng 12 năm
+2017; dự kiến trình Thủ tướng Chính phủ dự thảo Quyết định về việc đề xuất
+chính sách thu hút và sử dụng chuyên gia giỏi về công nghệ thông tin phục vụ cơ
+quan nhà nước Quý I năm 2018.
+c) Xây dựng và áp dụng Hệ thống quản lý chất lượng
+theo Tiêu chuẩn
+TCVN ISO 9001:2008
+như: số hóa các tài liệu hệ thống, quy trình
+hệ thống và quy trình công việc đã ban hành trong Hệ thống quản lý chất lượng.
+Đăng tải các tài liệu, quy trình lên trang thông tin điện tử; triển khai cung cấp
+dịch vụ công trực tuyến mức độ 3, 4 đối với các thủ tục hành chính đã được quy
+trình hóa trong hệ thống quản lý chất lượng; ứng dụng công nghệ thông tin đối với
+các quy trình khác trong hệ thống quản lý chất lượng.
+3. Bộ Tài chính:
+a) Đã triển khai cung cấp 923 thủ tục dịch vụ công
+trực tuyến, trong đó: 263 dịch vụ công trực tuyến mức độ 1; 328 dịch vụ công trực
+tuyến mức độ 2; 86 dịch vụ công trực tuyến mức độ 3 và 246 dịch vụ công trực
+tuyến mức độ 4.
+b) Thực hiện hóa đơn điện tử trên phạm vi toàn quốc,
+cơ quan thuế hỗ trợ doanh nghiệp vừa và nhỏ thực hiện hóa đơn điện tử có xác thực
+của cơ quan thuế: hỗ trợ cho hơn 200 doanh nghiệp triển khai việc đăng ký và xuất
+hóa đơn điện tử có xác thực tại Cục Thuế thành phố Hà Nội và Thành phố Hồ Chí
+Minh; đến ngày 20 tháng 8 năm 2017 tổng số hóa đơn được xác thực là trên 5,3
+triệu hóa đơn, tổng doanh thu đã xác thực là 41,3 nghìn tỷ đồng, tổng số thuế
+đã xác thực trên 3.247 nghìn tỷ đồng.
+c) Tiếp tục triển khai dịch vụ nộp thuế qua mạng,
+hoàn thuế điện tử và phối hợp triển khai dịch vụ nộp thuế đất đai, lệ phí trước
+bạ, hộ cá nhân qua mạng:
+- Thí điểm nộp thuế điện tử cho thuê nhà và hoạt động
+chuyển nhượng bất động sản cho các Chi cục trực thuộc Cục Thuế thành phố Hà Nội
+và Thành phố Hồ Chí Minh; đến ngày 15 tháng 8 năm 2017 tổng số tờ khai điện tử
+đã tiếp nhận là 37.903 tờ khai với tổng tài khoản đã đăng ký với cơ quan thuế
+là 28.368 tài khoản.
+- Đã triển khai ứng dụng hoàn thuế điện tử từ ngày
+15 tháng 5 năm 2017 trên toàn quốc; đã có 2.952 doanh nghiệp kê khai Hoàn thuế
+điện tử với tổng hồ sơ tiếp nhận là 7.643 hồ sơ, tổng số tiền đề nghị hoàn thuế
+là trên 37.5 nghìn tỷ đồng, trong đó cơ quan thuế đã giải quyết 4.845 hồ sơ với
+số tiền đã hoàn là 26.34 nghìn tỷ đồng.
+d) Tiếp tục hoàn thiện, nâng cao hiệu quả hệ thống
+Hải quan điện tử, thực hiện cơ chế một cửa quốc gia và kết nối một cửa ASEAN. Đến
+tháng 8 năm 2017, cơ chế một cửa quốc gia đã kết nối chính thức với 11 bộ,
+ngành. Ngoài thủ tục thông quan hàng hóa (Bộ Tài chính), 41 thủ tục hành chính
+của 10 bộ, ngành đã thực hiện thông qua cơ chế một cửa quốc gia với tổng số hơn
+602 nghìn bộ, trên 15,1 nghìn doanh nghiệp tham gia.
+đ) Đang xây dựng các dịch vụ công điện tử phục vụ
+kiểm soát chi ngân sách nhà nước qua mạng, triển khai tại 5 thành phố trực thuộc
+Trung ương; đang hoàn thiện đề án đẩy mạnh việc thu phạt vi phạm hành chính qua
+mạng điện tử.
+4. Bộ Kế hoạch và Đầu tư:
+a) Thực hiện các giải pháp nâng cao tỷ lệ đăng ký
+doanh nghiệp và đăng ký đầu tư qua mạng điện tử với tỷ lệ đăng ký doanh nghiệp
+qua mạng điện tử cả nước đạt 53,6%, thành phố Hà Nội đạt 96,86%, Thành phố Hồ
+Chí Minh đạt 58,2%; tỷ lệ đăng ký đầu tư qua mạng điện tử có 12.900 hồ sơ đăng
+ký đầu tư, trong đó số hồ sơ kê khai qua mạng là 5.015 hồ sơ, đạt tỷ lệ 38,6%.
+b) Tổ chức thực hiện đấu thầu mua sắm công qua mạng:
+Số hồ sơ đăng ký mới của bên mời thầu và nhà thầu lên Hệ thống mạng đấu thầu quốc
+gia Quý IV/2017 có 28.885 hồ sơ; tỷ lệ gói thầu chào hàng cạnh tranh thực hiện
+lựa chọn nhà thầu qua mạng trên toàn quốc đạt 11,87%; tỷ lệ gói thầu quy mô nhỏ
+đấu thầu rộng rãi, đấu thầu hạn chế thực hiện lựa chọn nhà thầu qua mạng đạt
+9,86%
+c) Tiếp tục triển khai Hệ thống thông tin về đầu tư
+sử dụng vốn nhà nước trên toàn quốc để tin học hóa công tác báo cáo giám sát đầu
+tư cũng như việc lập, theo dõi kế hoạch đầu tư công trung hạn, hằng năm.
+5. Bộ Lao động - Thương binh và
+Xã hội
+a) Đẩy mạnh cung cấp dịch vụ công trực tuyến: về
+Đăng ký hợp đồng cung ứng lao động được triển khai tới các Sở Lao động - Thương
+binh và Xã hội trên toàn quốc. Hoàn thành dịch vụ công trực tuyến cấp giấy chứng
+nhận đủ điều kiện hoạt động kiểm định kỹ thuật an toàn lao động; Chứng chỉ kiểm
+định viên; cấp, cấp lại, gia hạn, đổi giấy phép hoạt động cho thuê, cho thuê lại
+lao động; cấp, cấp lại giấy phép lao động cho chuyên gia khoa học công nghệ làm
+việc tại Việt Nam. Toàn bộ các dịch vụ công trực tuyến mức độ 3, mức độ 4 đều
+được tích hợp chữ ký số chuyên dụng của Ban Cơ yếu Chính phủ và chữ ký số của
+các nhà cung cấp chữ ký số công cộng.
+b) Đã xây dựng, hoàn thiện Hệ thống cấp giấy phép
+lao động cho người nước ngoài và triển khai chính thức hoạt động tại
+http://dvc.vieclamvietnam.gov.vn
+6. Bộ Giáo dục và Đào tạo
+a) Về các giải pháp nâng cao chỉ số thành phần nguồn
+nhân lực của Việt Nam theo phương pháp đánh giá Chính phủ điện tử của Liên Hợp
+quốc: Đã phối hợp với Tổng cục Thống kê, Bộ Kế hoạch và Đầu tư và Tổng cục dạy
+nghề, Bộ Lao động - Thương binh và Xã hội thống nhất số liệu công bố các chỉ số
+nguồn nhân lực. Đẩy mạnh thực hiện các giải pháp nâng cao chỉ số thành phần nguồn
+nhân lực.
+b) Đã triển khai thành công Cổng thông tin tuyển
+sinh quốc gia, kênh thông tin chính thức hỗ trợ thí sinh và các trường trong
+công tác tuyển sinh năm 2017.
+c) Triển khai hệ thống phần mềm quản lý, cung cấp dịch
+vụ đăng ký trực tuyến mức độ 4 trong cả nước phục vụ kỳ thi THPT quốc gia và
+xét tuyển đại học, cao đẳng năm 2017, đã hỗ trợ hơn 860.000 thí sinh đăng ký
+xét tuyển đầu vào các trường đại học; xây dựng cơ sở dữ liệu toàn ngành về giáo
+dục mầm non và giáo dục phổ thông bao gồm 04 cơ sở dữ liệu thành phần: về mạng
+lưới trường học, dữ liệu về lớp học; về học sinh; về đội ngũ (giáo viên, nhân
+viên và cán bộ quản lý giáo dục).
+7. Bộ Giao thông vận tải
+a) Việc xây dựng hệ thống và hướng dẫn thực hiện
+qua mạng điện tử trên toàn quốc đối với cấp, đổi giấy phép lái xe, cấp đổi giấy
+phép kinh doanh vận tải và cấp đổi biển hiệu, phù hiệu xe ô tô: Đã cấp đổi
+48.547 giấy phép lái xe trong nước; 6.531 giấy phép lái xe quốc tế. Triển khai
+hệ thống dịch vụ công trực tuyến mức độ 4 cấp đổi giấy phép kinh doanh vận tải;
+cấp đổi biển hiệu, phù hiệu xe ô tô tại 59/63 Sở Giao thông vận tải. Đã giải
+quyết 76.473 hồ sơ.
+b) Đã hoàn thành xây dựng, 51/56 dịch vụ công trực
+tuyến; hoàn thành xây dựng và đang đào tạo, sử dụng thử nghiệm 5/56 dịch vụ
+công trực tuyến lĩnh vực Đường bộ, phấn đấu hoàn thành 56/56 dịch vụ công trực
+tuyến trong tháng 12/2017.
+c) Đã phối hợp Bộ Công an triển khai chính thức hệ
+thống giám sát xử lý vi phạm trật tự an toàn giao thông trên cao tốc Nội Bài -
+Lào Cai; đang vận hành thử nghiệm trên cao tốc Pháp Vân - Cầu Giẽ.
+d) Đã vận hành thương mại 11 trạm thu phí không dừng;
+hoàn thành lắp đặt thiết bị thu phí (chưa vận hành) 5 trạm; triển khai phát thẻ
+Etag, đến nay đã dán được hơn 365.000 thẻ.
+8. Bộ Tài nguyên và Môi trường:
+a) Đã hoàn thành triển khai việc cấp chứng nhận
+đánh giá tác động môi trường trên mạng điện tử qua hệ thống cung cấp dịch vụ
+công trực tuyến. Đã hoàn thành cung cấp dịch vụ công trực tuyến cho 73 thủ tục
+hành chính, trong đó có 58 dịch vụ công trực tuyến mức độ 3 và 10 dịch vụ công
+trực tuyến mức độ 4
+b) Đã hoàn thiện dự thảo Nghị định quy định về giao
+dịch điện tử trong lĩnh vực đất đai, trình Chính phủ ban hành; phối hợp với Tổng
+cục Thuế triển khai thực hiện liên thông thông tin tại 07 tỉnh thí điểm nhằm
+chia sẻ, trao đổi thông tin giữa cơ quan Thuế và cơ quan Đăng ký đất đai.
+c) Xây dựng hệ thống và hướng dẫn thực hiện qua mạng
+điện tử trên toàn quốc đối với việc đăng ký quyền sử dụng đất, tài sản gắn liền
+với đất và phối hợp, cung cấp thông tin phục vụ thực hiện các nghĩa vụ thuế. Hệ
+thống đảm bảo thực hiện kết nối và chia sẻ dữ liệu tới hệ thống thông tin của
+các cơ quan thuế, xây dựng, nông nghiệp, giao thông, viễn thông, ngân hàng,
+công chứng và các cơ quan khác có liên quan.
+d) Đang phối hợp thiết lập hệ thống thông tin quản
+lý đất đai - xây dựng; hướng dẫn các địa phương sử dụng phần mềm chung cho cả
+hai lĩnh vực đất đai và xây dựng; tích hợp thông tin về cấp phép và các thủ tục
+liên quan.
+9. Bộ Xây dựng:
+a) Xây dựng các Hệ thống thông tin phục vụ công tác
+quản lý nhà nước của ngành có quy mô toàn quốc: Hệ thống thông tin thống kê xây
+dựng; Hệ thống thông tin quản lý nhà và thị trường bất động sản. Xây dựng Cổng
+dịch vụ công trực tuyến Bộ Xây dựng.
+b) Đã triển khai tích hợp dịch vụ nhận hồ sơ, trả kết
+quả giải quyết thủ tục hành chính thông qua dịch vụ bưu chính công ích lên các
+dịch vụ công trực tuyến của Bộ.
+c) Đã hoàn thành xây dựng Cổng thông tin công khai
+quy hoạch đô thị toàn quốc, đang vận hành tại địa chỉ:
+quyhoach.xaydung.gov.vn
+10. Bộ Tư pháp
+a) Đã hoàn thành xây dựng hệ thống và hướng dẫn thực
+hiện qua mạng điện tử trên toàn quốc việc cấp phiếu lý lịch tư pháp, đăng ký
+giao dịch bảo đảm về động sản (trừ tàu bay, tàu biển), các dịch vụ công trong
+lĩnh vực quốc tịch. Đến nay đã tiếp nhận trên 51.561 lượt hồ sơ đăng ký cấp Phiếu
+Lý lịch tư pháp trực tuyến.
+b) Đã thiết lập hệ thống thông tin về văn bản quy
+phạm pháp luật thống nhất từ Trung ương đến địa phương. Đến nay, toàn bộ Cổng
+thông tin của 63/63 tỉnh, thành phố và 22/25 bộ, ngành đã thực hiện xong việc
+trích xuất cơ sở dữ liệu quốc gia về pháp luật; trong Quý III năm 2017 các bộ,
+ngành, địa phương đã cập nhật được 1743 văn bản.
+c) Đã thí điểm triển khai Hệ thống thông tin về quản
+lý hộ tịch tại Thành phố Hồ Chí Minh, Hải Phòng, Đà Nẵng và Nghệ An. Đang tiếp
+tục triển khai, dự kiến hết năm 2017 sẽ được đưa vào sử dụng tại 26 tỉnh, thành
+phố trực thuộc Trung ương.
+d) Đã triển khai việc đăng ký khai sinh qua mạng tại
+16 tỉnh, thành phố; ghi nhận 889.894 trường hợp đăng ký khai sinh, trong đó
+658.304 trường hợp trẻ em là công dân Việt Nam dưới 14 tuổi đăng ký khai sinh lần
+đầu được cấp Sổ định danh cá nhân.
+Qua kinh nghiệm thực hiện tại Hà Nội và TP. Hồ Chí
+Minh, trên cơ sở kết nối Hệ thống thông tin đăng ký và quản lý Hộ tịch với trục
+kết nối liên thông quốc gia, Bộ Tư pháp tiếp tục thực hiện mở rộng việc đăng ký
+khai sinh, khai tử trực tuyến cho các tỉnh, thành phố bảo đảm lộ trình triển
+khai Đề án cơ sở dữ liệu hộ tịch điện tử toàn quốc.
+11. Bộ Khoa học và Công nghệ
+a) Triển khai xây dựng Cơ sở dữ liệu thông tin
+KH&CN ở 03 trạng thái: (i) Nhiệm vụ KH&CN đã thực hiện, (ii) Nhiệm vụ
+KH&CN đang thực hiện, (iii) Kết quả nghiên cứu và ứng dụng; xây dựng phần mềm
+thủ tục đăng ký trực tuyến kết quả thực hiện nhiệm vụ KH&CN.
+- Đang xây dựng hệ thống thu thập, phân tích, tổng
+hợp thông tin từ nhiều nguồn dữ liệu phục vụ công tác quản lý, ra quyết định và
+hoạch định chính sách trong lĩnh vực KH&CN trong khuôn khổ Chương trình
+nghiên cứu và phát triển sản phẩm công nghệ thông tin phục vụ Chính phủ điện tử
+(mã số KC.01/16-20).
+- Đang vận hành tốt hệ thống phục vụ đăng ký bảo hộ
+sở hữu công nghiệp trực tuyến ở mức 3 từ 01 tháng 01 năm 2017 tại địa chỉ
+http://dvctt.noip.gov.vn
+.
+Việc tiếp nhận đơn trực tuyến đang có chiều hướng gia tăng nhanh.
+- Triển khai Chương trình nghiên cứu và phát triển
+sản phẩm công nghệ thông tin phục vụ Chính phủ điện tử (mã số KC.01/16-20), Bộ
+Khoa học và Công nghệ đã hoàn thành quy trình xét duyệt, chuẩn bị ký hợp đồng
+thực hiện đối với 07 nhiệm vụ KH&CN trong năm 2017; đã xây dựng được 18 nhiệm
+vụ KH&CN để đưa ra tuyển chọn, giao trực tiếp thực hiện từ năm 2018. Thực
+hiện Chỉ thị số
+16/CT-TTg
+ngày 04 tháng 5 năm 2017 của Thủ tướng Chính phủ về
+việc tăng cường năng lực tiếp cận cuộc Cách mạng công nghiệp lần thứ 4
+(CMCN4.0), Bộ KH&CN đang xây dựng và tổ chức thực hiện một số nhiệm vụ như:
+xử lý dữ liệu lớn (Big Data); trí tuệ nhân tạo (AI); thực tại ảo (VR), thực tại
+tăng cường (AR) nhằm mục tiêu phát triển công nghiệp công nghệ số, nông nghiệp
+thông minh, du lịch thông minh, đô thị thông minh.
+12. Bộ Văn hóa, Thể thao và Du
+lịch
+a) Đã hoàn thành việc kết nối liên thông phần mềm
+quản lý văn bản với Văn phòng Chính phủ (bảo đảm thống nhất sử dụng sổ đăng ký
+công văn đi - đến trên trục liên thông, ứng dụng chữ ký số, chứng thư số chuyên
+dùng Chính phủ).
+b) Đẩy mạnh cung cấp dịch vụ công trực tuyến, duy
+trì cung cấp 13 dịch vụ công trực tuyến mức độ 3 từ năm 2016; năm 2017 đã đưa vào
+sử dụng 17 dịch vụ công trực tuyến (trong đó có 16 dịch vụ mức độ 3 và 1 mức độ
+4) đã hoàn thành kế hoạch Chính phủ giao và hoàn thành vượt kế hoạch thêm 04 dịch
+vụ công trực tuyến mức độ 4.
+c) Đã phối hợp hoàn thành kết nối liên thông, duy
+trì tích hợp với Cổng dịch vụ công quốc gia trong giai đoạn thử nghiệm từ tháng
+7 năm 2016, đáp ứng yêu cầu về Chính phủ điện tử.
+13. Bộ Y tế
+a) Kết quả triển khai các giải pháp chủ yếu thực hiện
+Chính phủ điện tử: Cổng thông tin điện tử luôn được cập nhật, Hệ thống quản lý
+văn bản điện tử và điều hành đã được triển khai đến tất cả các đơn vị trong Bộ
+và các Sở y tế; đã triển khai ứng dụng chữ ký số đến tất cả các đơn vị, các
+lãnh đạo đơn vị thuộc Bộ; đã ứng dụng chữ ký số trong các phần mềm dịch vụ công
+trực tuyến của Bộ Y tế để trả kết quả trực tuyến cho doanh nghiệp.
+b) Về ứng dụng CNTT phục vụ người dân và doanh nghiệp:
+Cổng thông tin điện tử có các chuyên trang, đường dây nóng để tiếp nhận, xử lý
+thắc mắc của người dân, doanh nghiệp; công khai tiến độ giải quyết hồ sơ của Bộ
+Y tế trên Cổng thông tin điện tử Chính phủ. Hệ thống dịch vụ công trực tuyến phục
+vụ người dân và doanh nghiệp có 377 thủ tục hành chính thực hiện tại cơ quan Bộ,
+trong đó, 06 dịch vụ công trực tuyến mức độ 3 và 52 thủ tục hành chính đã được
+xây dựng thành dịch vụ công trực tuyến mức độ 4, trong đó có 03 dịch vụ công trực
+tuyến mức độ 4 đã được triển khai tại các Sở Y tế trên toàn quốc.
+c) Về các nhiệm vụ cụ thể được giao tại Nghị quyết
+36a
+- Đã hoàn thành kết nối hệ thống thông tin quản lý
+khám chữa bệnh và thanh toán bảo hiểm y tế qua mạng điện tử;
+- Đã hoàn thành xây dựng hệ thống và hướng dẫn thực
+hiện qua mạng điện tử trên toàn quốc đối với việc cấp chứng chỉ hành nghề khám
+bệnh, chữa bệnh - hoàn thành trước ngày 01 tháng 01 năm 2017;
+- Đang triển khai xây dựng định mức chi trả cho hoạt
+động công nghệ thông tin trong công tác khám, chữa bệnh và thanh quyết toán bảo
+hiểm y tế; phối hợp với Bảo hiểm xã hội Việt Nam đưa chi phí tin học hóa bệnh
+viện, hoạt động công nghệ thông tin trong bệnh viện và hệ thống giám sát điện tử
+vào giá dịch vụ thanh quyết toán bảo hiểm y tế;
+- Đã hoàn thành việc chỉ đạo, phối hợp với các bệnh
+viện trực thuộc Bộ Y tế và trực thuộc các thành phố lớn xây dựng và vận hành hệ
+thống tư vấn khám, chữa bệnh từ xa;
+- Đang triển khai xây dựng hệ thống bệnh án điện tử
+(thí điểm triển khai bệnh án điện tử và thực hiện chuyển hồ sơ bệnh án điện tử
+giữa các bệnh viện). Xây dựng hệ thống thông tin quản lý tiêm chủng, bệnh truyền
+nhiễm và bệnh không lây nhiễm, triển khai toàn quốc; đến nay đã hoàn thành xây
+dựng hệ thống thông tin quản lý tiêm chủng, khai trương ngày 24 tháng 3 năm
+2017. Đang triển khai trên phạm vi cả nước Hệ thống quản lý bệnh truyền nhiễm.
+14. Bảo hiểm xã hội Việt Nam:
+a) Về đơn giản hóa thủ tục hành chính: tiếp tục rà
+soát, đơn giản hóa 32 thủ tục hành chính thuộc thẩm quyền, đến nay đã cắt giảm
+được 4 thủ tục hành chính, từ 32 thủ tục hành chính xuống còn 28 thủ tục hành
+chính.
+b) Về rút ngắn thời gian giao dịch: Các đơn vị tham
+gia bảo hiểm xã hội hoàn toàn chủ động về thời gian nộp hồ sơ, có thể nộp hồ sơ
+24 giờ trong ngày và 7 ngày trong tuần, kể cả ngày nghỉ, ngày lễ, ngày Tết.
+- Sổ bảo hiểm xã hội, thẻ bảo hiểm y tế được cấp mới,
+cấp lại theo mẫu mới từ ngày 01 tháng 8 năm 2017 để đáp ứng yêu cầu về quản lý
+cơ sở dữ liệu tập trung toàn quốc, kết nối liên thông dữ liệu hộ gia đình, quản
+lý thu, sổ thẻ, giải quyết chế độ bảo hiểm xã hội, bảo hiểm y tế thông qua mã số
+bảo hiểm xã hội được cấp duy nhất cho người tham gia bảo hiểm xã hội.
+- Trong năm 2017 đã cấp 107 chữ ký số chuyên dùng của
+Ban Cơ yếu Chính phủ cho Bảo hiểm xã hội các tỉnh, thành phố, tổng số chữ ký số
+của ngành đến hết tháng 9/2017 là 1.685 chữ ký số.
+- Đưa vào triển khai Hệ thống phần mềm Quản lý văn
+bản và điều hành và triển khai tích hợp 12 quy trình giải quyết công việc và 04
+quy trình điều hành (ISO điện tử) vào hệ thống.
+- Tiếp tục duy trì và hoàn thiện Hệ thống thông tin
+giám định bảo hiểm y tế, thực hiện giám định điện tử hồ sơ đề nghị thanh toán tại
+tất cả các cơ sở khám chữa bệnh. Tính đến hết tháng 8 năm 2017 toàn quốc có
+12.308 cơ sở khám chữa bệnh bảo hiểm y tế liên thông dữ liệu lên Hệ thống thông
+tin giám định bảo hiểm y tế, tỷ lệ bình quân đạt 98,8%.
+15. Bộ Nội vụ:
+a) Triển khai các giải pháp, nhiệm vụ chủ yếu
+- Tiếp tục triển khai thực hiện Dự án “Đầu tư nâng
+cấp Trung tâm tích hợp dữ liệu của Bộ Nội vụ”, tiến tới hình thành Trung tâm
+tích hợp dữ liệu của Bộ.
+- Đã triển khai xong 07 dịch vụ công mức 3 trên Cổng
+thông tin điện tử của Bộ (
+http://moha.gov.vn/dich-vu-cong.html
+);
+- Hoàn thiện hệ thống thông tin tiếp nhận, xử lý kiến
+nghị và giải quyết công việc, thủ tục hành chính để người dân và doanh nghiệp
+đánh giá, phản ảnh về chính sách, thủ tục giải quyết hành chính và việc thực
+thi công vụ của cán bộ, công chức trực tiếp giải quyết thủ tục hành chính tại Bộ
+Nội vụ.
+- Đẩy mạnh phát triển Bộ Nội vụ điện tử, nâng cao
+chất lượng, hiệu quả hoạt động của Bộ, đẩy mạng cải cách hành chính, cải cách
+công chức, công vụ. Công khai, minh bạch hoạt động của Bộ trên môi trường mạng,
+phục vụ người dân và tổ chức tốt hơn. Công khai tiến độ giải quyết hồ sơ trên Cổng
+thông tin điện tử của Bộ Nội vụ và Chính phủ.
+b) Việc thực hiện các nhiệm vụ cụ thể
+- Thực hiện chương trình tổng thể cải cách hành
+chính gắn với tăng cường ứng dụng công nghệ thông tin và đẩy mạnh ứng dụng công
+nghệ thông tin trong thực hiện cơ chế một cửa, cơ chế một cửa liên thông tại
+các cơ quan hành chính nhà nước ở địa phương: Phối hợp với Bộ Thông tin và Truyền
+thông xây dựng Chương trình phối hợp thúc đẩy gắn kết ứng dụng công nghệ thông
+tin với cải cách hành chính; Công bố kết quả Chỉ số cải cách hành chính năm
+2016 của các Bộ, cơ quan ngang Bộ và Ủy ban nhân dân các tỉnh, thành phố trực
+thuộc Trung ương.
+- Hoàn thành việc xây dựng phần mềm thi tuyển, thi
+nâng ngạch công chức. Đưa vào sử dụng hệ thống thông tin quản lý cán bộ, công
+thức trên phạm vi toàn quốc; đã triển khai thí điểm quản lý CBCCVC và CBCC cấp
+xã cho 2 cơ quan Trung ương và 19 địa phương (đến nay, tổng số lượng hồ sơ các
+địa phương thực hiện thí điểm đã nhập trên 87.798 hồ sơ).
+16. Bộ Công Thương
+a) Toàn bộ 305 thủ tục hành chính cấp Trung ương
+thuộc phạm vi quản lý của Bộ đã được triển khai trực tuyến ở mức độ 2 trở lên;
+trong đó có 154 dịch vụ công trực tuyến mức độ 3 và mức độ 4; đã tiếp nhận, xử
+lý hơn 771.661 hồ sơ. Đã thực hiện kết nối 5 thủ tục về xuất nhập khẩu với Cơ
+chế một cửa quốc gia. Đã phê duyệt Kế hoạch triển khai cơ chế một cửa quốc gia
+và Cơ chế một cửa ASEAN của Bộ giai đoạn 2017 - 2020.
+b) Tăng cường sử dụng văn bản điện tử trong hoạt động
+của cơ quan nhà nước, liên thông phần mềm quản lý văn bản với Văn phòng Chính
+phủ: Đã cải tiến quy trình xử lý văn bản và xây dựng mới Hệ thống văn bản điện
+tử Bộ Công Thương (iMOIT). Bộ Công Thương là một trong các Bộ đầu tiên công
+khai tiến độ xử lý hồ sơ công việc của cơ quan trên Cổng Thông tin điện tử
+Chính phủ.
+c) Ứng dụng công nghệ thông tin, triển khai công tơ
+điện thông minh trong đo đếm điện năng từ xa (ARM), tiến tới xây dựng hệ thống
+đo đếm điện năng thông minh (AMI): Đã và đang lắp đặt công tơ điện tử có khả
+năng thu thập dữ liệu từ xa thay thế công tơ cơ khí tại Hà Nội và TP. Hồ Chí
+Minh. Số lượng công tơ điện tử đã lắp đặt: tại Hà Nội là 2.376.000 công tơ điện
+tử (44% trên tổng số công tơ khách hàng), 624.116 công tơ điện tử có đo xa (25%
+trên tổng số công tơ khách hàng); tại TP Hồ Chí Minh là 2.313.201 công tơ điện
+tử (22% trên tổng số công tơ khách hàng), 387.065 công tơ điện tử có đo xa
+(16,7% trên tổng số công tơ khách hàng).
+d) Thực hiện chứng nhận nhãn năng lượng qua mạng điện
+tử: Đã hoàn thành cung cấp dịch vụ công trực tuyến mức độ 4 về Cấp giấy chứng
+nhận dán nhãn năng lượng từ ngày 23 tháng 12 năm 2016. Đến nay đã có 113 doanh
+nghiệp đăng ký sử dụng và 333 bộ hồ sơ được công bố qua hình thức trực tuyến.
+17. Bộ Nông nghiệp và Phát triển
+nông thôn
+a) Hoàn thành xây dựng Cổng dịch vụ công trực tuyến
+của Bộ. Đã cung cấp dịch vụ công trực tuyến mức độ 4 cho 8 thủ tục hành chính;
+tổng số đã tiếp nhận, xử lý 4.482 hồ sơ. Đang tiếp tục thực hiện các chuỗi thủ
+tục hành chính theo nhóm đối với 18 thủ tục hành chính cung cấp dịch vụ công trực
+tuyến mức độ 3, 4.
+b) Triển khai Cơ chế một cửa quốc gia: ngoài 9 thủ
+tục hành chính thực hiện thí điểm, tiếp tục triển khai mở rộng đối với 26 thủ tục
+hành chính. Kết quả tiếp nhận, xử lý giải quyết hồ sơ cấp phép điện tử qua Công
+một cửa quốc gia tổng số 158.857 hồ sơ, trong đó: Đã xử lý, giải quyết và cấp
+phép/Giấy chứng nhận điện tử 149.720 hồ sơ, đang tiếp tục xử lý 9.137 hồ sơ.
+c) Bộ tiếp tục xây dựng hệ thống điện tử thông suốt,
+kết nối liên thông văn bản điện tử, dữ liệu; tăng cường ứng dụng công nghệ
+thông tin gắn với cải cách hành chính.
+18. Bộ Công an
+a) Đẩy mạnh công tác bảo đảm an toàn an ninh thông
+tin: đã tham mưu, báo cáo các cấp Lãnh đạo về tình hình mất an ninh, an toàn
+thông tin, lộ lọt bí mật nhà nước trên không gian mạng. Chủ động thường xuyên
+triển khai kế hoạch rà quét, kiểm tra, đánh giá, phối hợp các cơ quan thực hiện
+nhiệm vụ bảo đảm an ninh, an toàn thông tin Chính phủ điện tử.
+b) Triển khai cấp thị thực điện tử cho người nước
+ngoài nhập cảnh vào Việt Nam. Triển khai cơ sở dữ liệu quốc gia về người nước
+ngoài nhập cảnh, xuất cảnh, cư trú tại Việt Nam. Xây dựng danh mục “Các câu hỏi
+thường gặp” liên quan thị thực điện tử (bằng tiếng Việt, tiếng Anh, tiếng Pháp
+và tiếng Tây ban Nha); mở hộp thư giải đáp thắc mắc hoạt động 24/24; xây dựng
+cơ sở hạ tầng kỹ thuật, trang thiết bị phần cứng và phần mềm để thực hiện Đề án
+“Sản xuất và phát hành hộ chiếu điện tử tại Việt Nam.
+c) Thực hiện cải cách thủ tục hành chính, cung cấp
+dịch vụ công trực tuyến của ngành công an tới người dân và doanh nghiệp. Ban
+hành Đề án đơn giản hóa thủ tục hành chính, giấy tờ công dân và các cơ sở dữ liệu
+liên quan đến quản lý dân cư; công bố thủ tục hành chính mới ban hành trong
+lĩnh vực đăng ký, quản lý phương tiện giao thông cơ giới đường bộ.
+d) Cung cấp các dịch vụ công trực tuyến của ngành
+Công an tới người dân và doanh nghiệp bao gồm:
+- Khai báo, tiếp nhận và quản lý thông tin tạm trú
+của người nước ngoài trên nền Internet tại 63/63 tỉnh, thành phố trên cả nước,
+riêng Quý IV năm 2017 đã giải quyết 8.675.246 hồ sơ trực tuyến và 8.720.694 hồ
+sơ không trực tuyến.
+- Xây dựng hệ thống tiếp nhận, xử lý tờ khai điện tử
+đề nghị cấp hộ chiếu qua mạng Internet, chính thức tiếp nhận tờ khai điện tử tại
+12 địa phương, trong Quý IV năm 2017 đã giải quyết 159.434 hồ sơ trực tuyến và
+33.445 hồ sơ không trực tuyến.
+- Triển khai thử nghiệm công tác đăng ký xe qua mạng
+Internet; phối hợp với Tổng cục Thuế triển khai nộp thuế điện tử trước bạ đối với
+ô tô, xe máy, thử nghiệm việc đăng ký xe được nộp lệ phí trước bạ đối với đăng
+ký xe được nộp lệ phí trước bạ điện tử.
+- Đang tiến hành các thủ tục đấu thầu, mua sắm hàng
+hóa, xây dựng phần mềm, phấn đấu hoàn thành kết nối vào trục liên thông văn bản
+của Văn phòng Chính phủ trong quý I/2018.
+19. Bộ Ngoại giao
+a) Đẩy mạnh xây dựng, đưa vào sử dụng một số ứng dụng
+công nghệ thông tin phục vụ quản lý nhà nước: Cổng thông tin nội bộ Bộ Ngoại
+giao, quản lý hồ sơ điện tử, cơ sở dữ liệu Luật pháp và Điều ước quốc tế,...
+b) Bộ có 68 thủ tục hành chính, trong đó có 27 thủ
+tục hành chính đã có dịch vụ công trực tuyến mức độ 3 và 03 thủ tục hành chính
+có dịch vụ công trực tuyến mức độ 4. Với các thủ tục hành chính cung cấp tại cơ
+quan đại diện Việt Nam ở nước ngoài, Bộ Ngoại giao có 24/38 dịch vụ công trực
+tuyến đạt mức độ 3, 4 trong đó có 02 dịch vụ mức 4: cấp thị thực và cấp giấy miễn
+thị thực cho người Việt Nam ở nước ngoài.
+c) Đang tiến hành triển khai dự án xây dựng mới Cổng
+thông tin điện tử của Bộ, cung cấp đầy đủ chức năng thông tin về pháp luật,
+chính sách, quy định, thủ tục hành chính, các thông tin về Việt Nam, thông tin
+về hoạt động của các cơ quan nhà nước và ngành Ngại giao. Cổng thông tin điện tử
+mới sẽ tích hợp tất cả các dịch vụ công do Bộ Ngoại giao cung cấp.
+d) Đã hoàn thành xây dựng Hệ thống hướng dẫn thực
+hiện qua mạng đối với các dịch vụ công được thực hiện tại các Cơ quan đại diện
+Việt Nam ở nước ngoài thực hiện 23 dịch vụ công qua mạng điện tử hoạt động từ
+ngày 01 tháng 01 năm 2017 tại địa chỉ
+http://dichvucong.mofa.gov.vn
+20. Ngân hàng Nhà nước Việt
+Nam
+a) Đã hoàn thành việc nâng cấp hệ thống thanh toán
+liên ngân hàng, đáp ứng yêu cầu nộp thuế qua mạng của người dân. Hiện đang tiếp
+tục phối hợp chặt chẽ với Bộ Tài chính triển khai thanh toán điện tử trong thu
+nộp NSNN. Tiến đến cuối tháng 10/2017, đã có 46 ngân hàng thương mại hoàn thành
+kết nối với hệ thống nộp thuế điện tử của Tổng cục Thuế trên 63 tỉnh/ thành phố.
+b) Đang khẩn trương triển khai kế hoạch nâng cấp 15
+dịch vụ công trực tuyến năm 2017 theo Danh mục đã được Thủ tướng Chính phủ phê
+duyệt. Đang lập kế hoạch triển khai xây dựng, vận hành Cổng thanh toán tập
+trung để thanh toán các khoản phí, lệ phí và các khoản nộp ngân sách Nhà nước
+khi thực hiện các dịch vụ công trực tuyến. Từ đầu năm 2017, đã tiếp nhận, giải
+quyết 1372 hồ sơ thủ tục hành chính thông qua hình thức dịch vụ công trực tuyến
+mức độ 3, 4.
+21. Thanh tra Chính phủ
+Nhiệm vụ ứng dụng công nghệ thông tin trong hoạt động
+thanh tra, phòng chống tham nhũng đang cố gắng từng bước hoàn thành trong, dự
+kiến hoàn thành trong Quý I năm 2018.
+22. Ủy ban nhân dân thành phố
+Hà Nội
+Đã triển khai đồng bộ 81 dịch vụ công trực tuyến tới
+168 phường, 12 Quận và 10 Sở, đạt 20,4% tổng số thủ tục hành chính của cơ quan
+nhà nước Thành phố. Đã ban hành danh mục 375 dịch vụ công trực tuyến mức 3, 4
+triển khai đợt 1 năm 2017
+Triển khai hệ thống giao thông thông minh như: nâng
+cấp hệ thống điều khiển tín hiệu giao thông, rà soát, nâng cấp hệ thống ứng dụng
+công nghệ thông tin phục vụ quản lý giao thông; triển khai thí điểm ứng dụng và
+thanh toán trông giữ xe ô tô qua điện thoại di động (Iparking); dự kiến trong
+năm 2017 Thành phố sẽ hoàn thành triển khai “Hệ thống thông tin giao thông tích
+hợp, xây dựng bản đồ giao thông Hà Nội, cung cấp thông tin về tình trạng giao
+thông và vận tải hành khách công cộng theo thời gian thực phục vụ công tác quản
+lý, điều hành, điều tiết giao thông của các cơ quan quản lý nhà nước, cho người
+dân và du khách”.
+23. Ủy ban nhân dân Thành phố
+Hồ Chí Minh
+Thành phố Hồ Chí Minh đã vận hành Cổng thông tin địa
+lý về giao thông, đến nay có 1.299.529 lượt truy cập để tra cứu thông tin giao
+thông.
+Đã hoàn thành nhiệm vụ được giao tại Nghị quyết
+36a, đạt tỷ lệ đăng ký doanh nghiệp qua mạng điện tử và tỷ lệ cấp giấy chứng nhận
+đầu tư qua mạng điện tử. Trong năm 2017, tỷ lệ đăng ký doanh nghiệp qua mạng điện
+tử khoảng 65% và tỷ lệ cấp giấy chứng nhận đầu tư qua mạng điện tử khoảng 48%.
+Đang triển khai hệ thống đo đếm điện năng từ xa.
+Triển khai lắp đặt công tơ khách hàng sau trạm công cộng, tính đến hết tháng
+12/2017 số lượng khách hàng đã lắp công tơ điện tử là 511.924 công tơ, bao gồm
+435 công tơ 1 pha và 76.636 công tơ 3 pha.
+Trên đây là Phụ lục về tình hình thực hiện các nhiệm
+vụ cụ thể được giao tại Nghị quyết 36a gửi kèm theo báo cáo năm 2017./.
+Lưu trữ
+Ghi chú
+Ý kiến
+Facebook
+Email
+In
+Thư Viện
+Nhà Đất
+Bán nhanh lô đất tiềm năng full thổ cư 100% giá rẻ, xã Gia Tân 2, huyện Thống Nhất, Đồng Nai.
+579 triệu
+,
+DT 120 m²
+,
+Huyện Thống Nhất, Đồng Nai
+Bản án liên quan
+PHÁP LUẬT DOANH NGHIỆP
+Hỏi đáp pháp luật
+Báo cáo 314/BC-VPCP năm 2018 về tình hình thực hiện Nghị quyết 36a/NQ-CP về Chính phủ điện tử năm 2017 do Văn phòng Chính phủ ban hành

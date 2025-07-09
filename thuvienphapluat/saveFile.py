@@ -11,7 +11,7 @@ from selenium.webdriver.chrome.options import Options
 from retrying import retry
 from bs4 import BeautifulSoup
 
-field = "1_baocao2_test"
+field = "final_baocao"
 download_dir = "download_" + field
 os.makedirs(download_dir, exist_ok=True)
 
@@ -51,8 +51,8 @@ def create_driver():
 
 cookies = [
     {'name': 'lg_user', 'value': '0=c5aGJtZE1ZVzVRYUhWdmJtY3NURTRzVkhKMVpRPTU0', 'domain': 'thuvienphapluat.vn'},
-    {'name': 'thuvienphapluatnew', 'value': '4C262F512F9A0CB533D38ED63A151092043D27B355189316B43E4DB20816CE30C2E41289113774B996AF26FB95E21374B7CB8ED0D14885DAEE4F01181D277436117255016CBAC63942D4392C4AD1D5A77A8A7B2E31C7A0E4A17FE124C28A33126BE1251365F3F7E6813CD8BEA807375499FE62746CD3F5FE2E0FEA93BC66E09D88F99E15EC08FC4622B3F84558DFA522AA2E35BB8D5A070A1C6024B1B20705A7C1568A6E1FC2522837F7CF1E6A27E00C3F6FF3D87174B5857EB6D69566EDE2A017FECEAA2528E92D884ED712', 'domain': 'thuvienphapluat.vn'},
-    {'name': 'ASP.NET_SessionId', 'value': 'x4khck23viz0ptnhjfk2ji5c', 'domain': 'thuvienphapluat.vn'}
+    {'name': 'thuvienphapluatnew', 'value': '9137EC1279A1921F03278A20A989C3D91210997D05DFA9AEB8AAE67D2B255CBD95FA9C55799498B7FC9B2B161D61A9E0BB008EF50B4245598698FA633FE1AE2082C7CDB097807FF21429C6B3039D48215002DE730FB4E9FE2DFDF073C15BE592236D9737E61D32E77B3AD60F079C94B0519AA753AC3289FF5D144C7EE7C196471837624268D570B2AAAA0BB69E4B310CBF8115FC8E37255894E2B79E84179AF761C778F6D5004A7142F2206876297B8F4AC5C272FB9BD89707CCAAED9FCEAC73C4892F84105A6B875A486ECE', 'domain': 'thuvienphapluat.vn'},
+    {'name': 'ASP.NET_SessionId', 'value': 'thrrpmphh3ku45s4sfrodxf5', 'domain': 'thuvienphapluat.vn'}
 ]
 
 @retry(stop_max_attempt_number=3, wait_fixed=2000)
@@ -62,6 +62,9 @@ def download_content(url, index):
         driver = create_driver()
         base_url = "https://thuvienphapluat.vn"
         driver.get(base_url)
+        delay1 = random.uniform(4, 7)
+        logging.info(f"⏳ Waiting {delay1:.2f}s for user emulation...")
+        time.sleep(delay1)
         for cookie in cookies:
             try:
                 driver.add_cookie(cookie)
@@ -78,17 +81,17 @@ def download_content(url, index):
 
         try:
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight/4);")
-            time.sleep(random.uniform(0.5, 1.0))
+            time.sleep(random.uniform(0.5, 1.5))
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight/2);")
         except Exception:
             pass
 
         try:
-            WebDriverWait(driver, 10).until(
+            WebDriverWait(driver, 8).until(
                 EC.presence_of_element_located((By.CSS_SELECTOR, "div#tab1.contentDoc, div.col-md-12.py-4"))
             )
         except Exception:
-            screenshot_path = f"{download_dir}/error_file_{index}.png"
+            screenshot_path = f"{download_dir}/error_file_{index + 1298 + 1}.png"
             driver.save_screenshot(screenshot_path)
             logging.error(f"❌ Main content not found at {full_url} - saved image error {screenshot_path}")
             return False
@@ -107,7 +110,7 @@ def download_content(url, index):
 
         doc_id_with_ext = url.rstrip("/").split("/")[-1]
         doc_id, _ = os.path.splitext(doc_id_with_ext)
-        file_path = os.path.join(download_dir, f"{index + 1}_{doc_id}.txt")
+        file_path = os.path.join(download_dir, f"{index + 1298 + 1}_{doc_id}.txt")
         with open(file_path, "w", encoding="utf-8") as file:
             file.write(text)
 
@@ -133,9 +136,9 @@ def main():
 
     logging.info(f"Total {len(download_urls)} links found in {field}.txt")
 
-    max_workers = 5
+    max_workers = 2
     start_index = 0
-    batch_size = 8
+    batch_size = 2
 
     for batch_start in range(start_index, len(download_urls), batch_size):
         batch_urls = download_urls[batch_start:batch_start + batch_size]
@@ -153,7 +156,7 @@ def main():
                 except Exception as e:
                     logging.error(f"Failed to process {url}: {e}")
 
-        delay = random.uniform(5, 8)
+        delay = random.uniform(3, 8)
         logging.info(f"⏳ {delay:.2f}s between batches...")
         time.sleep(delay)
 

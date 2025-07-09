@@ -1,0 +1,380 @@
+MỤC LỤC
+                                VĂN BẢN
+In mục lục
+BÁO CÁO THỰC HIỆN HƯỚNG DẪN SỐ 822/HD-VTLTNN NGÀY 26 THÁNG 8 NĂM 2015 CỦA CỤC VĂN THƯ VÀ LƯU TRỮ NHÀ NƯỚC VỀ QUẢN LÝ VĂN BẢN ĐI, VĂN BẢN ĐẾN VÀ LẬP HỒ SƠ TRONG MÔI TRƯỜNG MẠNG
+I. TÌNH HÌNH XÂY DỰNG TRIỂN KHAI PHẦN MỀM QUẢN LÝ VĂN BẢN VÀ HỒ SƠ CÔNG VIỆC
+II. KẾT QUẢ THỰC HIỆN
+1. Tính pháp lý của văn bản điện tử và quy trình quản lý văn bản đi, đến, lập hồ sơ trong môi trường mạng
+2. Thông tin đầu vào, đầu ra của dữ liệu quản lý văn bản đi, đến và hồ sơ
+III. NHẬN XÉT, ĐÁNH GIÁ
+IV. ĐỀ XUẤT, KIẾN NGHỊ
+ỦY BAN NHÂN DÂN
+THÀNH PHỐ HỒ CHÍ MINH
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+174
+/BC-UBND
+Thành
+  phố Hồ Chí Minh, ngày
+10
+tháng 10 năm 2016
+BÁO CÁO
+THỰC
+HIỆN HƯỚNG DẪN SỐ
+822/HD-VTLTNN
+NGÀY 26 THÁNG 8 NĂM 2015 CỦA CỤC VĂN THƯ VÀ LƯU
+TRỮ NHÀ NƯỚC VỀ QUẢN LÝ VĂN BẢN ĐI, VĂN BẢN ĐẾN VÀ LẬP HỒ SƠ TRONG MÔI TRƯỜNG MẠNG
+Căn cứ Công văn số
+862/VTLTNN-TTTH
+ngày 22 tháng 8 năm 2016 của Cục Văn thư và Lưu trữ Nhà nước về tình hình thực
+hiện Hướng dẫn số
+822/HD-VTLTNN
+ngày 26 tháng 8 năm 2015 của Cục Văn thư và Lưu
+trữ Nhà nước về việc hướng dẫn quản lý văn bản đi, đến và lập hồ sơ trong môi
+trường mạng, Ủy ban nhân dân thành phố Hồ Chí Minh báo cáo, đánh giá tình hình
+thực hiện Hướng dẫn số
+822/HD-VTLTNN
+như sau:
+I. TÌNH HÌNH XÂY DỰNG
+TRIỂN KHAI PHẦN MỀM QUẢN LÝ VĂN BẢN VÀ HỒ SƠ CÔNG VIỆC
+1. Công tác phổ biến, tuyên truyền
+Thực hiện Chỉ thị số
+15/CT-TTg
+ngày
+22 tháng 5 năm 2012 của Thủ tướng Chính phủ về việc tăng cường sử dụng văn bản
+điện tử trong hoạt động của cơ quan nhà nước; Nghị quyết 36a/NQ-CP ngày 14
+tháng 10 năm 2015 của Chính phủ về Chính phủ điện tử; Quyết định số
+1819/QĐ-TTg
+ngày 26 tháng 10 năm 2015 của Thủ tướng Chính phủ phê duyệt Chương trình quốc
+gia về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước giai
+đoạn 2016 - 2020; Thông tư số
+07/2012/TT-BNV
+ngày 22 tháng 11 năm 2012 của Bộ Nội
+vụ hướng dẫn quản lý văn bản, lập hồ sơ và nộp lưu hồ sơ, tài liệu vào Lưu trữ
+cơ quan; Hướng dẫn số
+822/HD-VTLTNN
+ngày 26 tháng 8 năm 2015 của Cục Văn thư và
+Lưu
+trữ
+Nhà nước về việc hướng dẫn quản lý văn bản đi, đến
+và lập hồ sơ trong môi trường mạng, Ủy ban nhân dân đã chỉ đạo Sở Thông tin và
+Truyền thông, Sở Nội vụ tổ chức triển khai ứng dụng công nghệ thông tin và công
+tác quản lý, điều hành hoạt động phần mềm Quản lý văn bản và hồ sơ công việc;
+quản lý văn bản, lập hồ sơ và nộp lưu hồ sơ, tài liệu vào Lưu trữ cơ quan cho
+các cơ quan nhà nước tại Thành phố
+Hồ
+Chí Minh và thực hiện
+việc kết nối liên thông văn bản qua môi trường mạng đến các cơ quan, tổ chức,
+đơn vị.
+Các cơ quan, tổ chức đã triển khai phổ
+biến, tuyên truyền, quán triệt văn bản quy định và hướng dẫn về liên thông Hệ
+thống phần mềm quản lý văn bản của Thành phố, tiến đến xây dựng một hệ thống
+Chính quyền điện tử và Quy định lập hồ sơ, chỉnh lý, số hóa tài liệu và nộp lưu
+hồ sơ, tài liệu vào Lưu trữ cơ quan tại các cơ quan, tổ chức; qua đó, hướng dẫn
+sử dụng phần mềm hỗ trợ quản lý văn bản đi, đến.
+2. Công tác triển khai thực hiện
+a) Xây dựng phần mềm Quản lý văn bản
+và hồ sơ công việc;
+phần
+mềm hệ thống Chính quyền điện tử
+Căn cứ Chỉ thị số
+15/CT-TTg
+; Nghị quyết
+36a/NQ-CP; Quyết định số
+1819/QĐ-TTg
+, Ủy ban nhân dân thành phố đã giao Sở
+Thông tin và Truyền thông xây dựng phần mềm Quản lý văn bản và hướng dẫn nghiệp
+vụ đến các cơ quan, tổ chức như sau:
+- Quyết định số
+2254/QĐ-UBND
+ngày 15
+tháng 5 năm 2015 của Ủy ban nhân dân thành phố về phê duyệt Quy hoạch công nghệ
+thông tin Thành phố đến năm 2025.
+- Kế hoạch số 7547/KH-UBND ngày 08 tháng
+12 năm 2015 của Ủy ban nhân dân thành phố về ứng dụng CNTT trong cơ quan nhà nước
+tại Thành phố Hồ Chí Minh năm 2016.
+- Quyết định số
+2260/QĐ-UBND
+ngày 09
+tháng 5 năm 2016 của Ủy ban nhân dân thành phố về phê duyệt “Kế hoạch ứng dụng
+công nghệ thông tin trong hoạt động của cơ quan nhà nước giai đoạn 2016 -
+2020”.
+- Công văn số 3726/UBND-TTTH ngày 18
+tháng 7 năm 2016 của Ủy ban nhân dân thành phố về việc sử dụng phần mềm theo
+dõi việc thực hiện các văn bản chỉ đạo của Thường trực Ủy ban nhân dân thành phố.
+b) Ban hành Quy định số hóa hồ sơ,
+tài liệu và nộp lưu vào Lưu trữ cơ quan
+Ủy ban nhân dân thành phố đã ban hành
+Quyết định số
+38/2014/QĐ-UBND
+ngày 07 tháng 11 năm 2014 Quy định về lập hồ sơ,
+chỉnh lý, số hóa tài liệu và nộp lưu hồ sơ, tài liệu vào Lưu trữ cơ quan tại
+các cơ quan, tổ chức trên địa bàn Thành phố; Công văn số 668/UBND-VX ngày 05
+tháng 02 năm 2015 của Ủy ban nhân dân thành phố về việc tổ chức thực hiện Quyết
+định số
+38/2014/QĐ-UBND
+ngày 07 tháng 11 năm 2014 của Ủy ban nhân dân thành phố
+về ban hành Quy định lập hồ sơ, chỉnh lý, số hóa tài liệu và nộp lưu hồ sơ, tài
+liệu vào Lưu trữ cơ quan tại các cơ quan tổ chức trên địa bàn thành phố.
+Bên cạnh đó, cơ quan chuyên môn đã
+xây dựng, ban hành văn bản triển khai, giới thiệu đến các cơ quan, tổ chức trên
+địa bàn Thành phố Hồ Chí Minh thực hiện việc chỉ đạo, điều hành, Quản lý văn bản
+và hồ sơ công việc trong môi trường mạng:
+- Sở Nội vụ chỉ đạo Chi cục Văn thư -
+Lưu trữ ban hành Công văn số 259/CCVTLT-QL ngày 23 tháng 9 năm 2015 về việc giới
+thiệu Hướng dẫn quản lý văn bản đi, đến và lập hồ sơ trong môi trường mạng đến
+các cơ quan, tổ chức theo Hướng dẫn số
+822/HD-VTLTNN
+ngày 26 tháng 8 năm 2015 của
+Cục Văn thư và Lưu trữ Nhà nước về việc hướng dẫn quản lý văn bản đi, đến và lập
+hồ sơ trong môi trường mạng.
+- Công văn số 119/STTTT-CNTT ngày 29
+tháng 01 năm 2016 của Sở Thông tin và Truyền thông về việc vận hành phần mềm Quản
+lý văn bản và hồ sơ công việc; Công văn số 993/STTTT-CNTT ngày 29 tháng 7 năm
+2016 của Sở Thông tin và Truyền thông về hướng dẫn sử dụng phần mềm theo dõi việc
+thực hiện các văn bản chỉ đạo của Thường trực Ủy ban nhân dân thành phố.
+3. Ủy ban nhân dân thành phố chỉ đạo
+tăng cường ứng dụng công nghệ thông tin trong phát hành thư mời và tiếp nhận hồ
+sơ hành chính
+Ủy ban nhân dân thành phố Hồ Chí Minh
+đã chỉ đạo các cơ quan, tổ chức cung cấp thông tin tiếp nhận thư mời họp và tiếp
+nhận hồ sơ hành chính tại Công văn số 3576/UBND-THKH ngày 08 tháng 7 năm 2016 về
+tăng cường ứng dụng công nghệ thông tin trong việc phát hành thư mời và tiếp nhận
+hồ sơ hành chính.
+Sở Thông tin và Truyền thông đã xây dựng
+phần mềm hệ thống chính quyền điện tử, trong đó đã tích
+hợp
+các nội dung như: giải quyết hồ sơ một cửa điện tử; quản lý văn bản; lịch
+công tác; quản trị đơn vị; thư điện tử...
+II. KẾT QUẢ THỰC
+HIỆN
+Hiện nay, hầu hết các cơ quan, tổ chức
+tại Thành phố Hồ Chí Minh đều sử dụng phần mềm Quản lý văn bản và hồ sơ công việc;
+đồng thời một số cơ quan, tổ chức đang ứng dụng phần mềm hệ thống Chính quyền
+điện tử trong việc quản lý văn bản đi, văn bản đến và hồ sơ công việc như sau:
+1. Tính pháp lý của
+văn bản điện tử và quy trình quản lý văn bản đi, đến, lập hồ sơ trong môi trường
+mạng
+a) Tính hợp pháp của văn bản điện tử
+trao đổi qua môi trường mạng
+Ủy ban nhân dân thành phố Hồ Chí Minh
+xây dựng và ban hành văn bản điện tử đều dựa trên cơ sở pháp luật và văn bản
+quy định về giao dịch điện tử.
+Khi đăng ký sử dụng phần mềm Quản lý
+văn bản và hồ sơ công việc các cơ quan, tổ chức và cán bộ, công chức, viên chức
+đều được cung cấp thông tin đăng nhập và mật khẩu để bảo đảm độ tin cậy, tính
+toàn vẹn và xác thực của văn bản điện tử từ lúc văn bản đó được khởi tạo lần đầu
+dưới dạng hoàn chỉnh; nội dung văn bản điện tử đó có thể truy cập, sử dụng và để
+tham chiếu khi cần thiết.
+Song song với việc thu thập tài liệu
+lưu trữ giấy, các cơ quan, tổ chức đã thực hiện thu thập tài liệu lưu trữ điện
+tử vào Lưu trữ cơ quan.
+b) Quản lý văn bản đến trong môi trường
+mạng
+Việc chuyển giao văn bản đến, tra cứu
+thông tin trong môi trường mạng nhanh chóng, thuận lợi đảm bảo thời gian giao,
+nhận hồ sơ.
+Tổ chức lại tinh gọn và hoạt động có
+hiệu quả tại bộ phận văn thư cơ quan.
+Quản lý văn bản đến trong môi trường
+mạng tại Thành phố Hồ Chí Minh thực hiện theo Hướng dẫn số
+822/HD-VTLTNN
+ngày
+26 tháng 8 năm 2015 của Cục Văn thư và Lưu trữ Nhà nước từ khi tiếp nhận văn bản
+đến, chuyển Lãnh đạo cho ý kiến chỉ đạo, ý kiến phân phối, đến công chức, viên
+chức chủ trì và phối hợp giải quyết.
+c) Quản lý văn bản đi trong môi trường
+mạng
+Việc quản lý văn bản đi trong môi trường
+mạng đã được tích hợp tại phần mềm Quản lý văn bản và hồ sơ công việc; phần mềm
+hệ thống Chính quyền điện tử nhằm giúp các cơ quan nhà nước đảm bảo tính pháp
+lý của văn bản trao đổi và an toàn, an ninh thông tin để thực hiện giao dịch
+hành chính điện tử, trao đổi thông tin một cách có hiệu quả trong nội bộ từng
+cơ quan và giữa cơ quan nhà nước với nhau.
+Tuy nhiên, công chức, viên chức
+chuyên môn tại một số cơ quan xây dựng dự thảo văn bản đi chưa thực hiện việc
+soạn thảo văn bản trong môi trường mạng; việc thực hiện chữ ký số chưa được
+tích hợp trong hai phần mềm trên.
+d) Quản lý hồ sơ trong môi trường mạng
+Căn cứ vào Khung phân loại hồ sơ,
+trong quá trình giải quyết công việc công chức, viên chức xác định mã hồ sơ cho
+văn bản đi, văn bản đến, ý kiến chỉ đạo, ý kiến đóng góp văn bản tài liệu khác
+có liên quan và
+phần mềm
+đáp ứng các bước thực hiện theo
+Hướng dẫn số
+822/HD-VTLTNN
+.
+2. Thông tin đầu
+vào, đầu ra của dữ liệu quản lý văn bản đi, đến và hồ sơ
+a) Thông tin đầu vào của dữ liệu quản
+lý văn bản đến, văn bản đi và quản lý hồ sơ
+- Tại phần mềm Quản lý văn bản và hồ
+sơ công việc; phần mềm hệ thống Chính quyền điện tử đảm bảo 14 nội dung thông tin
+đầu vào của dữ liệu quản lý văn bản đến theo Hướng dẫn số
+822/HD-VTLTNN
+.
+- Phần mềm Quản lý văn bản và hồ sơ
+công việc; phần mềm hệ thống Chính quyền điện tử đảm bảo 12 nội dung thông tin
+đầu vào của dữ liệu quản lý văn bản đi theo Hướng dẫn số
+822/HD-VTLTNN
+.
+- Thông tin đầu vào của dữ liệu quản
+lý hồ sơ thực hiện 12 nội dung theo Hướng dẫn
+số
+822/HD-VTLTNN
+.
+b) Thông tin đầu ra “sổ đăng ký văn bản
+đến” và “sổ đăng ký văn bản đi” (420
+x
+297 cm) đều được in
+ra sổ (khổ giấy A4), mẫu đăng ký bên trong “Sổ đăng ký văn bản đến” và “Sổ đăng
+ký văn bản đi” thực hiện theo quy định.
+c) Thông tin đầu ra “phiếu trình ký
+văn bản”: Phần mềm quản lý văn bản đi, văn bản đến và lập hồ sơ công việc và
+phần
+mềm hệ thống Chính quyền điện tử chưa tích hợp phiếu trình ký văn
+bản; tuy nhiên, các cơ quan, tổ chức thực hiện mẫu phiếu trình văn bản giấy
+theo Quyết định số
+5078/QĐ-UBND
+ngày 10 tháng 10 năm 2015 của Chủ tịch Ủy ban
+nhân dân Thành phố Hồ Chí Minh về việc ban hành mẫu Phiếu trình và sắp xếp
+thành phần tài liệu trong hồ sơ trình duyệt, trình ký hồ sơ tại các cơ quan, tổ
+chức và Hướng dẫn số
+992/HD-SNV
+ngày 25 tháng 3 năm 2016 của Sở Nội vụ hướng dẫn
+các mẫu Phiếu trình duyệt, trình ký hồ sơ đối với các cơ quan, tổ chức.
+d) Th
+ô
+ng tin đầu
+ra “báo cáo tình hình giải quyết văn bản đến” trong phần mềm của Thành phố Hồ
+Chí Minh đang thực hiện đều áp dụng theo quy định của Cục Văn thư và Lưu trữ
+Nhà nước.
+đ) Thông tin đầu ra “báo cáo tình
+hình văn bản đi” được thực hiện theo quy định tại Hướng dẫn số
+822/HD-VTLTNN
+trong phần mềm quản lý văn bản đi, văn bản đến và lập hồ sơ công việc và
+phần
+mềm hệ thống Chính quyền điện tử của Thành phố Hồ Chí Minh.
+e) Thông tin đầu ra “mục lục văn bản”
+và “mục lục hồ sơ”: Phần mềm quản lý văn bản đi, văn bản đến và lập hồ sơ công
+việc và
+phần
+mềm hệ thống Chính quyền điện tử chưa tích hợp
+“mục lục văn bản” và “mục lục hồ sơ”, cho nên các cơ quan, tổ chức thực hiện “mục
+lục văn bản” và “mục lục hồ sơ” trên hồ sơ giấy theo Thông tư số
+07/2012/TT-BNV
+ngày 22 tháng 11 năm 2012 của Bộ Nội vụ hướng dẫn quản lý văn bản, lập hồ sơ và
+nộp lưu hồ sơ, tài liệu vào Lưu trữ cơ quan.
+III. NHẬN XÉT,
+ĐÁNH GIÁ
+1.
+Ưu
+điểm
+Thực hiện phần mềm quản lý văn bản
+đi, văn bản đến và lập hồ sơ công việc nhằm đồng bộ và đạt hiệu quả công tác tại
+các cơ quan, tổ chức của Thành phố Hồ Chí Minh. Thực hiện việc này nhằm góp phần
+thực hiện cải cách hành chính, tổ chức quản lý khoa học công việc tiết kiệm chi
+phí và sức người trong việc sao y, phát hành văn bản và hồ sơ công việc; thống
+nhất nghiệp vụ quản lý văn bản đi, văn bản đến và lập hồ sơ trong môi trường mạng,
+góp phần nâng cao hiệu quả công tác quản lý nhà nước, công tác chỉ đạo điều
+hành, hoạt động, tổ chức của Thành phố; thực hiện ứng dụng phần mềm đồng bộ là
+để quản lý chặt chẽ hồ sơ, tài liệu giấy không để mất mát, thất lạc, truy cập
+vào hệ thống để có thể khai thác, tham khảo thông tin và xử lý công việc được
+hiệu quả, xuyên suốt từ cấp thành phố đến sở, ngành, quận, huyện.
+2. Khó
+k
+hăn
+Ngoài ưu điểm nêu trên cũng còn một số
+khó khăn nhất định trong việc thực hiện các văn bản quy định về tăng cường sử dụng
+văn bản điện tử trong hoạt động của cơ quan nhà nước; Chính phủ điện tử; quản
+lý văn bản đến, đi và lập hồ sơ trong môi trường mạng như:
+- Tính pháp lý của Hướng dẫn số
+822/HD-VTLTNN
+chưa cao; các quy định và tính pháp lý của văn bản điện tử, đối
+tượng văn bản và cơ quan áp dụng chưa được quy định cụ thể.
+- Trang thiết bị hạ tầng thông tin
+chưa đầy đủ, đồng bộ nên còn hạn chế trong việc lưu trữ tài liệu điện tử.
+- Cán bộ, công chức, viên chức tại
+các cơ quan, tổ chức còn lập hồ sơ giấy chưa thực hiện việc lập hồ sơ trong môi
+trường mạng; chức năng quét
+để
+lưu trữ dữ liệu văn bản đến
+vào phần mềm Quản lý văn bản và hồ sơ công việc; phần mềm hệ thống Chính quyền
+điện tử xử lý rất chậm cho nên các cơ quan, tổ chức phải lưu dữ liệu trong máy
+tính cá nhân nên chiếm dụng tài nguyên máy tính rất lớn không thể đáp
+ứng
+nhu cầu khai thác, sử dụng.
+- Nhân sự và khả năng phục vụ cho việc
+lập hồ sơ trên môi trường mạng còn hạn chế chủ yếu phụ thuộc vào người làm công
+tác văn thư, lưu trữ.
+IV. ĐỀ XUẤT, KIẾN
+NGHỊ
+1.
+Căn cứ
+các quy định của Chỉ thị số
+15/CT-TTg
+ngày 22 tháng 5 năm 2012 của Thủ tướng
+Chính phủ về việc tăng cường sử dụng văn bản điện tử trong hoạt động của cơ
+quan nhà nước; Nghị quyết số 36a/NQ-CP ngày 14 tháng 10 năm 2015 của Chính phủ
+về Chính phủ điện tử; Quyết định số
+1819/QĐ-TTg
+ngày 26 tháng 10 năm 2015 của
+Thủ tướng Chính phủ phê duyệt Chương trình quốc gia về ứng dụng công nghệ thông
+tin trong hoạt động của cơ quan nhà nước giai đoạn 2016 - 2020, đề xuất Bộ Nội
+vụ sớm ban hành Thông tư quy định về quản lý văn bản đi, văn bản đến trong môi
+trường mạng.
+2.
+Điều
+chỉnh kích thước thông tin đầu ra “sổ đăng ký văn bản đến, sổ đăng ký văn bản
+đi” phù hợp với máy in là 297
+x
+210 mm (khổ giấy A4).
+Trên đây là Báo cáo thực hiện Hướng dẫn
+số 822/HD-
+V
+TLTNN ngày 26 tháng 8 năm 2015 của Cục Văn thư
+và Lưu trữ Nhà nước về quản lý văn bản đi, văn bản đến trong môi trường mạng của
+Ủy ban nhân dân thành phố Hồ Chí Minh./.
+Nơi nhận:
+- Cục Văn thư và Lưu trữ
+  Nhà nước;
+- TT
+U
+B: CT, PCT/VX;
+- Sở Nội vụ TP (3b);
+- Sở Thông tin và Truyền thông;
+- Chi cục Văn thư - Lưu tr
+ữ;
+- VP
+U
+B: CVP,
+  PVP/VX;
+- Phòng VX, TTTH;
+- Lưu: VT, (VX-Nh)
+T.
+KT. CHỦ TỊCH
+PHÓ CHỦ TỊCH
+Nguyễn Thị Thu
+Lưu trữ
+Ghi chú
+Ý kiến
+Facebook
+Email
+In
+Thư Viện
+Nhà Đất
+Bán nhà Đại Mỗ 40m², 6 tầng thang máy, mặt tiền 5m, ô tô gần nhà – giá chỉ 6 tỷ
+6 tỷ
+,
+DT 40 m²
+,
+Quận Nam Từ Liêm, Hà Nội
+Bản án liên quan
+PHÁP LUẬT DOANH NGHIỆP
+Hỏi đáp pháp luật
+Báo cáo 174/BC-UBND năm 2016 thực hiện Hướng dẫn 822/HD-VTLTNN về quản lý văn bản đi, văn bản đến và lập hồ sơ trong môi trường mạng do Thành phố Hồ Chí Minh ban hành

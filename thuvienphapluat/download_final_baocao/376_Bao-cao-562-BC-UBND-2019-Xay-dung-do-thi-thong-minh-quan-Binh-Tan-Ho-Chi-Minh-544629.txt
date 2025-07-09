@@ -1,0 +1,372 @@
+MỤC LỤC
+                                VĂN BẢN
+In mục lục
+BÁO CÁO TIẾN ĐỘ THỰC HIỆN KẾ HOẠCH TRIỂN KHAI ĐỀ ÁN “XÂY DỰNG THÀNH PHỐ HỒ CHÍ MINH TRỞ THÀNH ĐÔ THỊ THÔNG MINH GIAI ĐOẠN 2017 - 2020, TẦM NHÌN ĐẾN NĂM 2025” VÀ TIẾN ĐỘ THỰC HIỆN KẾ HOẠCH TRIỂN KHAI XÂY DỰNG KHO DỮ LIỆU DÙNG CHUNG VÀ PHÁT TRIỂN HỆ SINH THÁI DỮ LIỆU MỞ (GIAI ĐOẠN 1) TRÊN ĐỊA BÀN QUẬN BÌNH TÂN (THÁNG 9/2019)
+I. Về triển khai Đề án “Xây dựng Thành phố Hồ Chí Minh trở thành đô thị thông minh giai đoạn 2017 - 2020, tầm nhìn đến năm 2025” trên địa bàn quận:
+II. Về triển khai xây dựng Kho dữ liệu dùng chung và phát triển hệ sinh thái dữ liệu mở (giai đoạn 1)
+ỦY
+  BAN NHÂN DÂN
+QUẬN BÌNH TÂN
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+562/
+BC-UBND
+Bình
+  Tân, ngày
+19
+tháng
+9
+năm
+2019
+BÁO CÁO
+TIẾN ĐỘ THỰC HIỆN KẾ HOẠCH TRIỂN KHAI ĐỀ ÁN “XÂY DỰNG THÀNH PHỐ HỒ CHÍ MINH
+TRỞ THÀNH ĐÔ THỊ THÔNG MINH GIAI ĐOẠN 2017 - 2020, TẦM NHÌN ĐẾN NĂM 2025” VÀ TIẾN
+ĐỘ THỰC HIỆN KẾ HOẠCH TRIỂN KHAI XÂY DỰNG KHO DỮ LIỆU DÙNG CHUNG VÀ PHÁT TRIỂN
+HỆ SINH THÁI DỮ LIỆU MỞ (GIAI ĐOẠN 1) TRÊN ĐỊA BÀN QUẬN BÌNH TÂN (THÁNG 9/2019)
+Thực hiện Kế hoạch số
+1008/KH-UBND
+ngày 14 tháng 3 năm 2018 của
+Ủ
+y ban nhân dân Thành phố về
+xây dựng Kho dữ liệu dùng chung và phát triển Hệ sinh thái dữ liệu mở cho thành
+phố Hồ Chí Minh;
+Thực hiện Kế hoạch số 4804/KH-UBND
+ngày 24 tháng 10 năm 2018 của Ủy ban nhân dân Thành phố về triển khai xây dựng
+Kho dữ liệu dùng chung và phát triển Hệ sinh thái dữ liệu mở của thành phố Hồ
+Chí Minh (giai đoạn 1);
+Thực hiện Công văn số 787/STTTT-CNTT
+ngày 27 tháng 4 năm 2018 của Sở Thông tin và Truyền thông thành phố về báo cáo tiến
+độ triển khai K
+ế
+hoạch triển khai Đề án Xây dựng Thành phố
+Hồ Chí Minh trở thành đô thị thông minh năm 2018;
+Thực hiện Kế hoạch số 285/KH-UBND
+ngày 21 tháng 5 năm 2018 của Ủy ban nhân dân quận về triển khai thực hiện Đề án
+“Xây dựng Thành phố Hồ Chí Minh tr
+ở
+thành đô thị thông
+minh giai đoạn 2017-2020, tầm nhìn đến năm 2025” trên địa bàn quận;
+Thực hiện Kế hoạch số 516/KH-UBND
+ngày 14 tháng 11 năm 2018 của Ủy ban nhân dân quận về tri
+ể
+n
+khai xây dựng kho dữ liệu dùng chung và phát triển hệ sinh thái dữ liệu mở
+(giai đoạn 1);
+Ủy ban nhân dân quận Bình Tân báo cáo
+tiến độ thực hiện kế hoạch triển khai Đề án “Xây dựng Thành phố Hồ Chí Minh trở
+thành đô thị thông minh giai đoạn 2017 - 2020, tầm nhìn đến năm 2025” và tiến độ
+thực hiện Kế hoạch triển khai xây dựng kho dữ liệu dùng chung và phát triển h
+ệ
+sinh thái dữ liệu mở (giai đoạn 1) trên địa bàn quận tháng 9 năm
+2019 nh
+ư
+sau:
+I. Về triển khai Đề án “Xây dựng
+Thành phố Hồ Chí Minh trở thành đô thị thông minh giai đoạn 2017 - 2020, tầm
+nhìn đến năm 2025” trên địa bàn quận:
+1.
+Căn cứ
+Quyết định số
+6179/QĐ-UBND
+ngày 23 tháng 11 năm 2017 của Ủy ban nhân dân Thành
+phố về phê duyệt Đề án “Xây dựng thành phố Hồ Chí Minh trở thành đô thị thông
+minh giai đoạn 2017-2020, tầm nhìn đến năm 2025”. Ủy ban nhân dân quận đã ban
+hành Kế hoạch số 285/KH-UBND ngày 21 tháng 5 năm 2018 về triển khai thực hiện Đề
+án “Xây dựng Thành phố Hồ Chí Minh tr
+ở
+thành đô thị thông
+minh giai đoạn 2017-2020, tầm nhìn đến năm 2025” trên địa bàn quận Bình Tân.
+2.
+Đã
+thành lập Ban Chỉ đạo triển khai thực hiện Đề án “Xây dựng thành phố Hồ Chí
+Minh trở thành đô thị thông minh giai đoạn 2017-2020, tầm nhìn đến năm 2025” tại
+Quyết định số 4794/QĐ-UBND ngày 24 tháng 7 năm 2018 của UBND quận Bình Tân do đồng
+chí Chủ tịch Ủy ban nhân dân quận làm Trư
+ở
+ng ban.
+3.
+Quận
+đã có Kế hoạch xây dựng các ứng dụng di động trực tuy
+ế
+n hỗ
+trợ người dân và cán bộ, công chức quận Bình Tân, bao gồm: các ứng dụng phục vụ
+người dân
+1
+; xây dựng cơ sở dữ liệu G
+I
+S nền; các ứng dụng phục vụ cho công tác quản lý và cán bộ, công chức
+2
+. Ước tính tổng kinh phí thực hiện là
+11.777.700.000 đồng (Mười một tỷ bảy trăm bảy mươi bảy triệu bảy trăm ngàn đồng)
+để lấy ý kiến S
+ở
+Thông tin và Truyền thông trước khi triển
+khai thực hiện.
+4.
+Triển
+khai ứng dụng tương tác với người dân (ứng dụng Bình Tân công dân số)
+Đã tổ chức công bố ứng dụng Bình Tân
+công dân s
+ố
+đ
+ể
+phục vụ người dân trên
+trên địa bàn quận vào ngày 07 tháng 11 năm 2018. Đồng thời, ban hành Quyết định
+số 8066/QĐ-UBND ngày 07 tháng 11 năm 2018 về Quy chế tiếp nhận, xử lý và phản hồi
+thông tin qua ứng dụng tương tác với người dân trên các lĩnh vực quản lý nhà nước
+trên địa bàn quận Bình Tân; Quyết định số 2104/QĐ-UBND ngày 08 tháng 5 năm 2019
+về sửa đổi Quy chế tiếp nhận, xử lý và phản hồi thông tin qua ứng dụng tương
+tác với người dân trên các lĩnh vực quản lý nhà nước trên địa bàn quận Bình
+Tân. Thực hiện công tác tuyên truyền, vận động người dân tải ứng dụng về điện
+thoại đ
+ể
+sử dụng, đến nay có 11.660 cán bộ, công chức,
+viên chức, người dân trên địa bàn quận cài đặt ứng dụng Bình Tân công dân số về
+điện thoại.
+5. Xây dựng phần mềm quản lý chỉ đạo
+điều hành của Ủy ban nhân dân quận
+Triển khai vận hành chính thức phần mềm
+Quản lý chỉ đạo điều hành cho 47 cơ quan, đơn vị sử dụng trong việc tiếp nhận
+và xử lý, báo cáo các ý ki
+ế
+n chỉ đạo của Thường trực UBND
+quận thông qua địa ch
+ỉ
+: https://cqdt-binhtan.tphcm.gov.vn.
+6. Xây dựng hệ thống họp trực tuyến
+tại Ủy ban nhân dân 10 phường
+Phối hợp đơn vị tư vấn khảo sát hệ thống
+họp trực tuyến giữa UBND quận với UBND 10 phường; kết nối hệ thống họp giao ban
+trực tuyến giữa UBND quận và UBND 10 phường, đảm bảo các cuộc họp định kỳ được
+thực hiện trực tuyến nh
+ằ
+m tiết kiệm chi phí, thời gian đi
+lại, tạo sự thuận lợi, chủ động trong công việc. Đồng thời báo cáo đề xuất chủ
+trương đầu tư hạ tầng họp trực tuyến giữa quận và UBND 10 phường tại Báo cáo số
+03/BCTĐ-NB ngày 14 tháng 01 năm 2019 với tổng mức đầu tư dự kiến 3,2 tỷ đồng, gửi
+Sở Kế hoạch và Đầu tư thành phố xem xét.
+7. Nâng cấp phần mềm và hoàn thiện
+dữ liệu doanh nghiệp, đơn vị sản xuất, kinh doanh
+Thường xuyên cập nhật, quản lý số liệu
+doanh nghiệp, hộ kinh doanh đang hoạt động, chấm dứt hoạt động, vi phạm hành
+chính trên phần mềm quản lý doanh nghiệp. Công tác quản lý số liệu doanh nghiệp
+và hộ kinh doanh được phối hợp chặt chẽ và thống nhất gi
+ữ
+a
+các cơ quan, đơn vị phục vụ tốt cho công tác cập nhật s
+ố
+liệu
+hàng tháng, quý, năm của Ủy ban nhân dân quận.
+8. Xây dựng Trung tâm điều hành,
+tích hợp các hệ thống camera
+Chỉ đạo Ban Quản lý dự án đầu tư xây
+dựng khu vực quận Bình Tân báo cáo đề xuất chủ trương đầu tư dự án lắp đặt và
+tích hợp hệ thống camera giám sát, hệ thống trung tâm điều hành của quận tại
+Báo cáo số 1943/BC-BQLDA ngày 29 tháng 7 năm 2019; ban hành Văn bản số
+1245/BCTĐ-NB ngày 30 tháng 7 năm 2019 của Hội đồng thẩm định chủ trương đầu tư
+chương trình, dự án đầu tư công quận Bình Tân về báo cáo thẩm định nội bộ đề xuất
+chủ trương đầu tư dự án lắp đặt và tích hợp hệ thống camera giám sát, hệ thống
+trung tâm điều hành của quận (đang chờ phê duyệt phê duyệt chủ trương từ Ủy ban
+nhân dân Thành phố).
+9. Xây dựng hệ thống giải pháp y tế
+thông tin
+Cải tiến hệ thống phần mềm khám bệnh,
+chữa bệnh, giải quyết nhanh chóng kịp thời các thủ tục hành chính trong khám bệnh,
+chữa bệnh giúp người bệnh tiết kiệm được thời gian chờ đợi.
+Triển khai phần mềm H
+I
+S (hệ thống thông tin quản lý bệnh viện) phục vụ công tác khám chữa bệnh
+từ khâu đăng ký, khám bệnh, điều trị, viện phí, cấp thuốc cho đến khi xuất viện.
+Triển khai phần mềm L
+I
+S (hệ thống thông tin phòng xét nghiệm) tự động nhận kết quả từ máy xét
+nghiệm, kết nối với trên 80 loại thiết bị xét nghiệm p
+h
+ổ
+biến tại Việt Nam, nhận thông tin bệnh nhân, thông tin chỉ định xét nghiệm từ hệ
+th
+ố
+ng HIS chuyển sang, gửi trả kết quả xét nghiệm về lại hệ
+th
+ố
+ng HIS.
+10. Số hóa bản đồ xây dựng cơ sở dữ
+liệu G
+I
+S phục vụ quản lý đô thị và cung cấp thông
+tin quy hoạch trực tuyến:
+Thực hiện cung cấp các loại
+bản đồ cho Sở Quy hoạch và kiến trúc Thành phố. Sở Quy hoạch và kiến trúc chủ
+trì và đang k
+ế
+t hợp đơn vị tư vấn hoàn thiện ứng dụng.
+II. Về triển khai
+xây dựng Kho dữ liệu dùng chung và phát triển hệ sinh thái dữ liệu mở (giai đoạn
+1)
+1.
+Thực
+hiện Kế hoạch s
+ố
+4804/KH-UBND ngày 24 tháng 10 năm 2018 của
+Ủy ban nhân dân Thành phố về triển khai xây dựng kho dữ liệu dùng chung và phát
+triển hệ sinh thái dữ liệu mở của thành phố Hồ Chí Minh (giai đoạn 1), Ủy ban
+nhân dân quận ban hành Thông báo số 1427/TB-UBND ngày 05 tháng 11 năm 2018 về
+chuẩn bị triển khai thu thập thông tin cơ sở dữ liệu người dân và đã xây dựng,
+triển khai thực hiện kế hoạch số 516/KH-UBND ngày 14 tháng 11 năm 2018 về triển
+khai xây dựng kho dữ liệu dùng chung và phát triển hệ sinh thái dữ liệu mở
+(giai đoạn
+1
+).
+2.
+Cơ sở
+dữ liệu người dân
+2.1
+Tổ chức
+thu thập thông tin dân cư
+Thu thập thông tin dân cư thường trú:
+Thực hiện triển khai thu thập cơ sở dữ liệu quốc gia về dân cư trên địa bàn quận.
+Kết quả: đã hoàn thành công tác thu thập dữ liệu và phối hợp thực hiện Scan phiếu
+DC 01 được 332.148/332.148 nhân khẩu (tỷ lệ 100%). Đã tổ chức Hội nghị tổng kết
+công tác thu thập thông tin dân cư trên địa bàn quận và triển khai công tác thu
+thập thông tin dân cư tạm trú trên địa bàn quận. Đến nay, đã thu về 446.150 phiếu
+thông tin dân cư tạm trú/446.150 nhân kh
+ẩ
+u tạm trú (tỷ lệ
+100%).
+2.2
+Tạo lập
+cơ sở dữ liệu từ các phiếu thu thập thông tin dân c
+ư
+: Đã
+chỉ đạo các cơ quan, đơn vị phối hợp cơ quan chức năng, hoàn chỉnh hồ sơ mời thầu,
+lựa chọn đơn vị thực hiện tạo lập cơ sở dữ liệu từ các phiếu thu thập thông tin
+dân cư đảm bảo mô hình triển khai theo hướng dẫn kỹ thuật của Sở Thông tin và
+Truyền thông Thành phố. Thực hiện khảo sát các địa điểm dự kiến phục vụ việc nhập
+dữ liệu thông tin dân cư tạm trú trên địa bàn quận.
+2.3
+Tạo lập
+cơ sở dữ liệu hộ tịch
+Ban hành Công văn số 3505/UBND-TP
+ngày 19 tháng 11 năm 2018 về việc thống kê số liệu lưu trữ hộ tịch trên địa bàn
+quận; đồng thời chỉ đạo Ủy ban nhân dân 10 phường báo cáo về tình h
+ì
+nh nhập liệu hồ sơ hộ tịch, hướng dẫn tiếp tục nhập liệu dữ liệu hộ tịch.
+Ban hành Công văn số 274/UBND ngày 28 tháng 01 năm 2019 về kinh phí triển khai
+tạo lập cơ sở dữ liệu đầu kỳ cho cơ sở dữ liệu hộ tịch và được Sở Thông tin và
+Truyền thông Thành phố b
+ố
+trí vốn kế hoạch đợt 1 năm 2019
+về Văn phòng HĐND và UBND quận về dự án triển khai tạo lập cơ sở dữ liệu đầu kỳ
+cho cơ sở dữ liệu hộ tịch tại quận Bình Tân với t
+ổ
+ng kinh
+phí là 3.744.000.000 đồng tại Quyết định số 104/QĐ-STTTT ngày 13 tháng 5 năm
+2019; đồng thời làm việc với đơn vị tư vấn (công ty HD King) về tri
+ể
+n khai tạo lập cơ sở dữ liệu đầu kỳ cho cơ sở dữ liệu hộ tịch tại quận,
+lập hồ sơ thuyết minh gửi Sở Thông tin và Truyền thông phê duyệt.
+Ban hành thông báo số 256/TB-VP ngày
+12 tháng 6 năm 2019 về kết luận của Phó Ch
+ủ
+tịch Ủy ban
+nhân dân quận Đ
+ỗ
+Đình Thiện về tạo lập dữ liệu đầu kỳ cho
+cơ sở dữ liệu hộ tịch, giao Văn phòng Hội đồng nhân dân và Ủy ban nhân dân quận
+liên hệ Sở Thông tin và Truyền thông thành phố đ
+ể
+được hướng
+dẫn các bước lập, thẩm định dự án; lập hồ sơ mời thầu, tổ chức đấu thầu, trình
+cơ quan có thẩm quyền phê duyệt, triển khai thực hiện dự án theo đúng quy định,
+báo cáo kết quả thực hiện cho Sở Thông tin và Truyền thông thành phố, Ủy ban
+nhân dân quận.
+Trên đâ
+y
+là Báo
+cáo tháng 9/2019 của Ủy ban nhân dân quận Bình Tân về tiến độ thực hiện kế hoạch
+triển khai Đề án “Xây dựng Thành phố Hồ Chí Minh trở thành đô thị thông minh
+giai đoạn 2017 - 2020, tầm nhìn đến năm 2025” và tiến độ thực hiện Kế hoạch triển
+khai xây dựng kho dữ liệu dùng chung và phát tri
+ể
+n hệ sinh
+thái dữ liệu m
+ở
+(giai đoạn
+1
+) trên địa
+bàn quận./.
+Nơi nhận:
+- UBND Thành phố;
+- S
+ở
+Thông tin và Truyền th
+ô
+ng Thành phố;
+- UBND quận: CT, các PCT;
+- Ban Tu
+yê
+n giáo Quận ủy;
+- VP.HĐND và UBND quận: CVP, các PCVP;
+- Các cơ quan chuyên môn thuộc quận;
+- Công an Quận;
+- Tổ tin học (để đăng Website);
+- UBND 10 phường;
+- Lưu: VT-TH, VHTT (Tr).
+KT. CHỦ TỊCH
+PHÓ CHỦ TỊCH
+Đỗ Đình Thiện
+1
+Ứng dụng
+d
+i động tiếp nhận góp ý của người
+dân trên địa bàn, ứng dụng cổng tra cứu thông tin quy hoạch trực tuyến; ứng dụng
+di động phục vụ công dân (Bình Tân eCitizen)
+2
+Nâng cấp phần mềm đáp ứng yêu cầu liên thông văn bản 4 cấp chính
+quyền theo Nghị quyết 36a;
+ứ
+ng dụng di động hỗ trợ cán bộ
+công chức (B
+ì
+nh Tân eDashBoard); ứng dụng biên tập ch
+ỉ
+nh lý biến động hồ sơ đất đai, quy hoạch xây dựng đô thị và môi trường
+trên nền GIS/CAD tại Phòng Tài nguyên và Môi trường, Chi nhánh Văn phòng Đăng
+ký đất đai, Phòng Qu
+ả
+n lý đất đai, UBND phường; xây dựng
+phần mềm tác nghiệp cho 79 thủ tục dự kiến triển khai dịch vụ công mức độ 3, 4
+theo K
+ế
+hoạch
+175/KH-UBND
+ngày 23/3/2018 của UBND quận;
+xây dựng và triển khai 148 quy trình ISO
+đ
+iện t
+ử
+(31 thủ tục tại các phòng ban, 117 thủ tục tại UBND phườn
+g
+)
+Lưu trữ
+Ghi chú
+Ý kiến
+Facebook
+Email
+In
+Thư Viện
+Nhà Đất
+Bán tòa căn hộ dịch vụ 7 tầng đường Láng, Đống Đa – Doanh thu 700 triệu/năm – Giá chỉ 12 tỷ
+12 tỷ
+,
+DT 70 m²
+,
+Quận Đống Đa, Hà Nội
+Bản án liên quan
+PHÁP LUẬT DOANH NGHIỆP
+Hỏi đáp pháp luật
+Báo cáo 562/BC-UBND về tiến độ thực hiện Kế hoạch triển khai Đề án "Xây dựng Thành phố Hồ Chí Minh trở thành đô thị thông minh giai đoạn 2017-2020, tầm nhìn đến năm 2025" và tiến độ thực hiện Kế hoạch triển khai xây dựng Kho dữ liệu dùng chung và phát triển hệ sinh thái dữ liệu mở (giai đoạn 1) trên địa bàn quận Bình Tân, thành phố Hồ Chí Minh (tháng 9/2019)

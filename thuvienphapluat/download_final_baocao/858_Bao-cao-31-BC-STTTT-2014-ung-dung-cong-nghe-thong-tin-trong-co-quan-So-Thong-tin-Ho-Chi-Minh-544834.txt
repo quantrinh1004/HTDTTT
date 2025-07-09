@@ -1,0 +1,896 @@
+MỤC LỤC
+                                VĂN BẢN
+In mục lục
+BÁO CÁO VỀ KẾT QUẢ THỰC HIỆN ỨNG DỤNG CÔNG NGHỆ THÔNG TIN TRONG CÁC CƠ QUAN NHÀ NƯỚC TRONG 03 NĂM ĐẦU TRIỂN KHAI THỰC HIỆN CHƯƠNG TRÌNH CẢI CÁCH HÀNH CHÍNH GẮN VỚI MỤC TIÊU XÂY DỰNG MÔ HÌNH CHÍNH QUYỀN ĐÔ THỊ GIAI ĐOẠN 2011 - 2015
+PHẦN I: ĐÁNH GIÁ KẾT QUẢ ỨNG DỤNG CÔNG NGHỆ THÔNG TIN TRONG HOẠT ĐỘNG CỦA CƠ QUAN NHÀ NƯỚC
+I. Về tham mưu chỉ đạo thực hiện, xây dựng cơ chế chính sách:
+II. Về kinh phí triển khai:
+III. Về kết quả triển khai ứng dụng CNTT phục vụ cải cách hành chính của thành phố:
+1. Hệ thống quản lý văn bản và hồ sơ công việc:
+2. Hệ thống gởi thư mời họp qua tin nhắn và thư điện tử:
+3. Trang thông tin điện tử Tp.HCM và các trang thành viên:
+4. “Một cửa điện tử”:
+5. Hệ thống đánh giá sự hài lòng của người dân:
+6. ISO điện tử:
+7. Xây dựng và cung cấp dịch vụ công trực tuyến:
+8. Hệ thống giao ban điện tử đa phương tiện:
+9. Hệ thống Quản lý cán bộ công chức
+10. Hệ thống đất đai xây dựng:
+11. Xây dựng các hệ thống thông tin của Thành phố:
+12. Xây dựng hạ tầng mạng công nghệ thông tin:
+13. Trung tâm chứng thực chuyên dùng (hạ tầng):
+14. An toàn an ninh thông tin:
+15. Triển khai ứng dụng trên nền tảng đám mây nguồn mở, điện toán đám mây và xây dựng khung kiến trúc cho chính quyền điện tử:
+IV. Đánh giá chung:
+PHẦN II: KẾ HOẠCH TRIỂN KHAI ỨNG DỤNG CNTT TRONG HOẠT ĐỘNG CỦA CƠ QUAN NHÀ NƯỚC NĂM 2014 - 2015
+1. Cơ sở hạ tầng:
+2. Triển khai ứng dụng CNTT trong cơ quan nhà nước:
+3. Triển khai phần mềm mã nguồn mở trong cơ quan nhà nước:
+4. Triển khai hệ thống thông tin chuyên ngành:
+5. An toàn an ninh thông tin:
+ỦY BAN NHÂN DÂN
+THÀNH PHỐ HỒ CHÍ MINH
+SỞ THÔNG TIN VÀ
+TRUYỀN THÔNG
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+  3
+1
+/BC-STTTT
+Thành
+  phố Hồ Chí Minh, ngày
+20
+tháng
+5
+năm 2014
+BÁO CÁO
+VỀ KẾT QUẢ THỰC HIỆN ỨNG DỤNG CÔNG NGHỆ THÔNG TIN TRONG CÁC CƠ QUAN NHÀ
+NƯỚC TRONG 03 NĂM ĐẦU TRIỂN KHAI THỰC HIỆN CHƯƠNG TRÌNH CẢI CÁCH HÀNH CHÍNH GẮN
+VỚI MỤC TIÊU XÂY DỰNG MÔ HÌNH CHÍNH QUYỀN ĐÔ THỊ GIAI ĐOẠN 2011 - 2015
+Sở Thông tin và Truyền thông báo cáo
+kết quả thực hiện sơ kết 03 năm triển khai thực hiện ứng dụng công nghệ thông
+tin trong các cơ quan nhà nước theo Kế hoạch thực hiện Chương trình cải cách
+hành chính gắn với mục tiêu xây dựng mô hình Chính quyền đô thị giai đoạn 2011
+- 2015 ban hành kèm theo Quyết định số
+23/2011/QĐ-UBND
+ngày 14/5/2011 (sau đây
+viết tắt là Kế hoạch 23) như sau:
+PHẦN I: ĐÁNH
+GIÁ KẾT QUẢ ỨNG DỤNG CÔNG NGHỆ THÔNG TIN TRONG HOẠT ĐỘNG CỦA CƠ QUAN NHÀ NƯỚC
+I. Về tham mưu chỉ
+đạo thực hiện, xây dựng cơ chế chính sách:
+1. Tham mưu chỉ đạo thực hiện.
+Căn cứ nội dung Kế hoạch 23 của Ủy
+ban nhân dân thành phố, Sở Thông tin và Truyền thông đã tham mưu Ủy ban nhân
+dân thành phố ban hành một số Chương trình, đề án, dự án thực hiện ứng dụng
+CNTT trong hoạt động các cơ quan nhà nước nhằm đẩy mạnh cải cách hành chính tại
+thành phố:
+Quyết định số
+27/2012/QĐ-UBND
+ngày
+28/6/2012 của Ủy ban nhân dân thành phố về phê duyệt “Chương trình phát triển
+công nghệ thông tin - truyền thông giai đoạn 2011 - 2015”.
+Quyết định số
+5867/QĐ-UBND
+ngày
+16/11/2012 của Ủy ban nhân dân thành phố về phê duyệt chương trình Phát triển ứng
+dụng CNTT trên công nghệ nguồn mở giai đoạn 2013 - 2015.
+Đây là Chương trình khung xuyên suốt trong ứng dụng CNTT trong các sở
+ngành, quận huyện.
+Quyết định số
+5852/QĐ-UBND
+ngày
+16/11/2012 của Ủy ban nhân dân thành phố về phê duyệt “Hệ thống thông tin
+chuyên ngành”.
+Quyết định số
+6219/QĐ-UBND
+ngày
+06/12/2012 của Ủy ban nhân dân thành phố về phê duyệt chương trình phát triển ứng
+dụng CNTT trong doanh nghiệp nhà nước thành phố giai đoạn 2012-2015.
+Quyết định số
+6233/QĐ-UBND
+ngày
+07/12/2012 của Ủy ban nhân dân thành phố về ban hành “Mô hình đất đai xây dựng
+tại TPHCM”.
+Quyết định số
+6319/QĐ-UBND
+ngày
+12/12/2012 của Ủy ban nhân dân thành phố về phê duyệt chương trình xây dựng và triển
+khai an toàn an ninh thông tin trong cơ quan quản lý nhà nước giai đoạn
+2012-2015.
+Quyết định số
+2296/QĐ-UBND
+ngày
+09/5/2013 của Ủy ban nhân dân thành phố về việc phê duyệt Chương trình ứng dụng
+công nghệ thông tin trong ngành y tế Thành phố Hồ Chí Minh giai đoạn 2012-2015.
+Quyết định số
+3326/QĐ-UBND
+ngày
+24/6/2013 của Ủy ban nhân dân thành phố về việc phê duyệt Chương trình ứng dụng
+công nghệ thông tin trong ngành giáo dục đào tạo Thành phố Hồ Chí Minh giai đoạn
+2013 - 2015.
+Quyết định số
+4326/QĐ-UBND
+ngày
+12/8/2013 của Ủy ban nhân dân thành phố Hồ Chí Minh về việc phê duyệt Chương
+trình ứng dụng khoa học công nghệ giảm ùn tắc giao thông giai đoạn 2013 - 2015,
+tầm nhìn đến 2020.
+Quyết định số
+1337/QĐ-UBND
+ngày
+20/3/2014 của Ủy ban nhân dân thành phố Hồ Chí Minh về việc phê duyệt Chương
+trình ứng dụng công nghệ thông tin ngành văn hóa, du lịch Thành phố Hồ Chí Minh
+giai đoạn 2014 - 2015 và định hướng đến năm 2020.
+Quyết định số
+1869/QĐ-UBND
+ngày
+17/4/2014 của Ủy ban nhân dân thành phố Hồ Chí Minh về phê duyệt “Chương trình
+xây dựng Hệ thống thông tin quản lý ngành tài nguyên và môi trường Thành phố Hồ
+Chí Minh giai đoạn 2014 - 2020”.
+Hiện nay, Sở TTTT đang hoàn chỉnh các
+chương trình ứng dụng CNTT trong ngành Xây dựng, Qui hoạch đô thị, chống ngập,
+xây dựng nông thôn mới trình Ủy ban nhân dân thành phố phê duyệt.
+2. Xây dựng Qui hoạch Công nghệ thông
+tin thành phố đến năm 2020 tầm nhìn đến năm 2025 (dự kiến trình trong quí
+2/2014) nhằm đảm bảo phát triển ứng dụng CNTT theo đúng qui hoạch.
+Ứng dụng và phát triển công nghệ
+thông tin là yếu tố có tính chiến lược, góp phần tăng trưởng kinh tế, phát triển
+xã hội và tăng năng suất, hiệu quả lao động. Quy hoạch công nghệ thông tin là một
+quy hoạch ngành nhằm định hướng ứng dụng và phát triển công nghệ thông tin, góp
+phần vào sự phát triển kinh tế - xã hội (KTXH) của địa phương.
+Quy hoạch công nghệ thông tin có thể
+nói là một kế hoạch chiến lược, định hướng và giúp địa phương triển khai ứng dụng
+công nghệ thông tin một cách có hiệu quả. Hội đồng nhân dân và Ủy ban nhân dân
+thành phố đều nhận thức được công nghệ thông tin thực sự là một trong những động
+lực quan trọng nhất của sự phát triển.
+3. Tham mưu UBND thành phố ban hành
+các chính sách, cơ chế, quy định liên quan đến ứng dụng CNTT trong các sở ban
+ngành, quận huyện:
+a) Về hệ thống thư điện tử:
+- Quyết định số
+41/2011/QĐ-UBND
+ngày
+17/6/2011 của Ủy ban nhân dân thành phố về ban hành Quy chế về quản lý, sử dụng
+hệ thống thư điện tử Thành phố Hồ Chí Minh;
+- Công văn số
+2033/UBND-CNN
+ngày
+13/5/2014 của Ủy ban nhân dân thành phố về tăng cường sử dụng văn bản điện tử,
+thư điện tử của cơ quan nhà nước theo Chỉ thị số
+15/CT-TTg
+của Thủ tướng Chính
+phủ.
+b) Về Văn bản điện tử:
+- Thông báo kết luận số 571/TB-VP
+ngày 26/8/2011 về kết luận của Phó Chủ tịch Ủy ban nhân dân thành phố Lê Mạnh
+Hà tại cuộc họp ngày 12/8/2011 về ứng dụng công nghệ thông tin tại các Quận -
+Huyện thành phố;
+- Thông báo kết luận số 701/TB-VP
+ngày 14/9/2012 về về ý kiến kết luận của Phó Chủ tịch Ủy ban nhân dân thành phố
+Lê Mạnh Hà tại cuộc họp ngày 4/9/2012 về triển khai Chỉ thị số
+15/CT-TTg
+ngày
+22/5/2012 của Thủ tướng Chính phủ về tăng cường sử dụng văn bản điện tử trong
+hoạt động của cơ quan nhà nước;
+- Công văn số 5635/UBND-TTTH ngày
+02/11/2012 của Ủy ban nhân dân thành phố về đẩy mạnh thực hiện Chỉ thị số
+15/CT-TTg
+của Thủ tướng Chính phủ về tăng cường sử dụng văn bản điện tử trong
+hoạt động cơ quan nhà nước;
+- Công văn số 226/UBND-TTH ngày
+16/01/2014 của Ủy ban nhân dân thành phố về tăng cường trao đổi, sử dụng văn bản
+điện tử trong công tác văn phòng tại các cơ quan, đơn vị
+- Công văn số
+2033/UBND-CNN
+ngày
+13/5/2014 của Ủy ban nhân dân thành phố về tăng cường sử dụng văn bản điện tử,
+thư điện tử của cơ quan nhà nước theo Chỉ thị số
+15/CT-TTg
+của Thủ tướng Chính
+phủ.
+c) Về chính sách hỗ trợ cho cán bộ
+công chức chuyên trách CNTT:
+Sở TTTT trình UBND TP Tờ trình số
+07/TTr-STTTT ngày 02/4/2014 về hỗ trợ đối với cán bộ, công chức, viên chức
+chuyên trách công nghệ thông tin tại các cơ quan hành chính, đơn vị sự nghiệp
+trên địa bàn Thành phố Hồ Chí Minh.
+d) Về dịch vụ công trực tuyến:
+Quyết định số
+6555/QĐ-UBND
+ngày
+12/12/2013 của Ủy ban nhân dân thành phố về phê duyệt Kế hoạch cung cấp dịch vụ
+công trực tuyến tại Thành phố Hồ Chí Minh giai đoạn 2013-2015, định hướng đến
+2020 phục vụ cho người dân, tổ chức và doanh nghiệp.
+e) Về Hệ thống gửi thư mời họp qua
+tin nhắn và thư điện tử:
+- Công văn số 5135/VP-TTTH ngày
+02/7/2013 của Văn phòng Ủy ban nhân dân thành phố về vận hành thí điểm phần mềm
+đăng ký lịch và gửi thư mời họp.
+- Công văn số 6458/VP-CNN ngày
+05/12/2013 của Văn phòng Ủy ban nhân dân thành phố về triển khai hệ thống gửi
+thư mời họp qua tin nhắn điện thoại di động.
+- Công văn số 1675/VP-CNN ngày
+12/3/2014 của Văn phòng Ủy ban nhân dân thành phố về gửi thư mời họp điện tử.
+II. Về kinh phí
+triển khai:
+T
+ổ
+ng kinh phí
+triển khai ứng dụng CNTT trong cơ quan nhà nước từ năm 2011 đến 2014: 456,65 tỷ
+đồng, trong đó:
+- Năm 2011: 77,69 tỷ đồng.
+- Năm 2012: 89,9 tỷ đồng.
+- Năm 2013: 152,69 tỷ đồng.
+- Năm 2014: 136,37 tỷ đồng.
+III. Về kết quả
+triển khai ứng dụng CNTT phục vụ cải cách hành chính của thành phố:
+1. Hệ thống quản
+lý văn bản và hồ sơ công việc:
+Tháng 3/2014, Sở Thông tin và Truyền
+thông đã triển khai vận hành thử nghiệm hệ thống liên thông kết nối các phần mềm
+Quản lý văn bản trên công nghệ nguồn mở tại Văn phòng Ủy ban
+nhân
+dân thành phố và các Sở - Ban - Ngành, Quận - Huyện giai đoạn 1 từ ngày
+20/2 - 20/3/2014 cho 37/72 đơn vị. Theo thống kê của Sở Thông tin và Truyền
+thông, từ tháng 10-2013 đến tháng 2-2014, hệ thống liên thông văn bản điện tử của
+TP đã liên thông 17.419 văn bản, trong đó có 5.940 văn bản gửi và 11.479 văn bản
+nhận. Đến nay, tất cả 24 quận - huyện, 12 sở ngành và Văn phòng UBND TP đã được
+kết nối vào hệ thống liên thông văn bản điện tử để nhận và gửi các văn bản điện
+tử thông qua các phần mềm quản lý văn bản. Các cơ quan có số lượng văn bản điện
+tử liên thông nhiều là Văn phòng UBND TP, Sở Quy hoạch Kiến trúc, Sở Xây dựng,
+Sở Tài nguyên và Môi trường, quận 4, quận 8, quận 9, quận Tân Bình, quận Bình Thạnh,
+huyện Nhà Bè ...
+Hiện Sở đang triển khai thí điểm giai
+đoạn 2 cho 22 đơn vị từ ngày 21/4 - 21/5/2014. Trên cơ sở kết quả triển khai
+thí điểm, Sở Thông tin và Truyền thông sẽ báo cáo kết quả cho UBND TP và đề xuất
+kế hoạch triển khai nhân rộng cho các đơn vị còn lại.
+Để
+đảm bảo hệ thống vận hành ổn định
+và phát triển, Sở TTTT đang hoàn chỉnh dự thảo Quy chế về quản lý, sử dụng Hệ
+thống quản lý văn bản và hồ sơ công việc qua mạng tại TPHCM và trình UBND TP
+trong quý
+II
+/2014.
+2. Hệ thống gởi
+thư mời họp qua tin nhắn và thư điện tử:
+Sở TTTT đang triển khai hệ thống thay
+thế thư mời họp giấy bằng thư mời họp qua tin nhắn và thư điện tử tại Văn phòng
+Ủy ban nhân dân thành phố.
+Thư mời họp và tài liệu đính kèm cuộc
+họp được gởi cho Lãnh đạo cơ quan và Lãnh đạo Văn phòng của các cơ quan nhà nước
+qua tin
+nhắn
+và thư điện tử. Việc triển khai hệ thống này
+một mặt góp phần trong việc cải cách hình thức gởi thư mời truyền thống một mặt
+khác đã giúp tiết kiệm kinh phí gởi thư rất lớn cho các đơn vị.
+Sở TTTT sẽ triển khai đồng loạt cho
+các cơ quan nhà nước sau khi đánh giá kết quả triển khai hệ thống này tại Văn
+phòng UBND TP.
+3. Trang thông
+tin điện tử Tp.HCM và các trang thành viên:
+Sở TTTT đã hoàn chỉnh nâng cấp Trang
+thông tin điện tử HCMCityweb và các trang thành viên nhằm đảm bảo việc tích hợp
+hệ thống ứng dụng công nghệ thông tin của đơn vị, các yêu cầu kỹ thuật, nội
+dung trang thông tin điện tử theo Nghị định số
+43/2011/NĐ-CP
+của Chính phủ đảm
+bảo an toàn, an ninh thông tin. Hiện nay đã nâng cấp hoàn chỉnh 78/78 đơn vị.
+Việc cung cấp thông tin đầy đủ trên
+trang thông tin điện tử tại các cơ quan hành chính nhà nước sẽ hỗ trợ người dân
+trong việc tra cứu thông tin, nghiên cứu các loại hồ sơ hành chính, thủ tục,
+các biểu mẫu hành chính, các dịch vụ công trực tuyến, cung cấp thông tin về hoạt
+động của đơn vị, về các quy định pháp luật mới ban hành... Đây là hình thức cải
+cách hành chính mang lại nhiều lợi ích và cung cấp thông tin đến gần người dân
+hơn.
+Sở TTTT đang tiếp tục rà soát cập nhật
+hoàn chỉnh lại các trang thông tin thành phần theo kiến trúc chung của Trang
+thông tin điện tử của thành phố tiến tới xây dựng hoàn chỉnh mô hình giao dịch
+điện tử tích hợp môi trường dịch vụ công trực tuyến với các hệ thống ứng dụng
+công nghệ thông tin đã triển khai và đảm bảo an toàn an ninh thông tin của hệ
+thống mạng thành phố.
+Ngày 06/5/2014, Ủy ban nhân dân thành
+phố có công văn số
+1923/UBND-CNN
+về kinh phí cập nhật thông tin cho các trang
+thông tin điện tử thành viên HCM CityWeb, chấp thuận chủ trương cho các Sở
+ngành thành phố, UBND các quận huyện có trang thông tin điện tử là thành viên của
+trang thông tin điện tử thành phố HCM City Web được sử dụng kinh phí thường
+xuyên (kinh phí tự chủ) được giao hàng năm để chi cập nhật thông tin lên trang
+thông tin điện tử của đơn vị. Giao Sở Thông tin và Truyền thông hướng dẫn nội
+dung chi và mức chi theo quy định của pháp luật, bảo đảm đúng quy định và tiết
+kiệm ngân sách, không vượt quá 5 triệu đồng/tháng/đơn vị.
+4. “Một cửa điện
+tử”:
+Đây là hệ thống Một cửa điện tử đầu
+tiên trong cả nước cung cấp tình trạng giải quyết hồ sơ hành chính của người
+dân tại các cơ quan quản lý nhà nước trên địa bàn thành phố tại địa chỉ:
+http://motc
+u
+a.ict-hcm.gov.vn hoặc qua số điện thoại: 1900
+545 444.
+Đồng thời, việc triển khai hệ thống
+“Một cửa điện tử” trên điện thoại di động trên cơ sở ứng dụng mạng 3G bước đầu
+cũng đã phát huy hiệu quả, tạo thuận lợi để người dân có thể tra cứu tình trạng
+hồ sơ hành chính mọi lúc mọi nơi.
+Hệ thống Một cửa điện tử TP hiện đã
+có 24 quận huyện và 7 sở ban ngành tham gia cung cấp tình trạng hồ sơ hành
+chính cho người dân, điều này đã tác động tích cực đến cải cách hành chính của
+thành phố.
+Trong thời gian qua, Sở Thông tin và
+Truyền thông đã hoàn thành việc nâng cấp hạ tầng phần cứng, nâng cấp hoàn chỉnh
+quy trình hồ sơ theo mô hình một cửa liên thông 24 quận - huyện; Cổng thông tin
+một cửa điện tử của thành phố về cung cấp thông tin xử lý hồ sơ tại 24 quận -
+huyện và 7 sở - ngành giúp cho việc truy cập và tra cứu được dễ dàng và nhanh
+chóng hơn.
+Nhằm đảm bảo Hệ thống Một cửa điện tử
+thành phố vận hành ổn định và phát triển, Sở Thông tin và Truyền thông đang
+hoàn chỉnh dự thảo Quy chế về quản lý, sử dụng hệ thống Một cửa điện tử và
+trình Ủy ban nhân dân thành phố phê duyệt trong quý
+II
+/2014.
+5. Hệ thống đánh
+giá sự hài lòng của người dân:
+Hiện nay Hệ thống đánh giá sự hài
+lòng của người dân đang được triển khai tại một số đơn vị: Quận 1, Quận 2, Quận
+3, Quận 9. Tuy nhiên, mô hình và hình thức triển khai tại mỗi đơn vị khác nhau,
+trong năm 2014 thành phố sẽ hoàn chỉnh hình thức đánh giá chung cho hệ thống
+đánh giá sự hài lòng của người dân để triển khai nhân rộng cho các cơ quan hành
+chính trên địa bàn thành phố.
+6. ISO điện tử:
+Sở Thông tin và Truyền thông đang phối
+hợp với Sở Khoa học và Công nghệ, Sở Tư pháp, Sở Nội vụ và các sở ngành trong
+việc triển khai ISO kết hợp triển khai ứng dụng công nghệ thông tin. Mục tiêu của
+việc triển khai ISO điện tử nhằm thống nhất các quy trình, biểu mẫu trong các
+quy trình thủ tục hành chính tại các đơn vị kết hợp ứng dụng công nghệ thông
+tin trong việc: Kiểm soát quy trình, dịch vụ; Quy trình đánh giá nội bộ; Quy
+trình xem xét hệ thống quản lý chất lượng lãnh đạo.
+Sở Thông tin và Truyền thông sẽ hoàn
+chỉnh quy trình thủ tục ISO điện tử trong lĩnh vực đăng ký kinh doanh thống nhất
+cho 24 Quận
+-
+Huyện và sẽ trình UBND TP ban hành tạo điều
+kiện cho người dân và doanh nghiệp trong việc thực hiện các thủ tục một cách
+nhanh chóng và tiện lợi.
+Ngoài ra, trong năm 2014, Sở TTTT sẽ
+triển khai thêm một số thủ tục ISO điện tử sau:
+- Lĩnh vực Đăng ký kinh doanh (23 thủ
+tục);
+- Lĩnh vực Cấp phép vệ sinh An toàn
+thực phẩm (3 thủ tục);
+- Lĩnh vực Lao động, tiền lương, tiền
+công (5 thủ tục);
+- Lĩnh vực Quản lý đô thị (4 thủ tục);
+- Lĩnh vực Hành chính tư pháp (3 thủ
+tục);
+7. Xây dựng và
+cung cấp dịch vụ công trực tuyến:
+- Số lượng dịch vụ công trực tuyến mức
+độ 1: 0 dịch vụ;
+- Số lượng dịch vụ công trực tuyến mức
+độ 2: 2.172 dịch vụ;
+- Số lượng dịch vụ công trực tuyến mức
+độ 3: 39 dịch vụ;
+- Số lượng dịch vụ công trực tuyến mức
+độ 4: 4 dịch vụ (Cấp phép Họp báo; cấp phép Hội thảo - Hội nghị có yếu tố nước
+ngoài; cấp phép nhập khẩu xuất bản
+phẩm
+không kinh doanh,
+cấp phép thiết lập Trang thông tin điện tử tổng hợp trên internet).
+Năm 2014, Sở Thông tin và Truyền
+thông sẽ tiến hành triển khai 192 dịch vụ công mức độ 3 cho các Sở và Quận-Huyện
+theo Quyết định
+6555/QĐ-UBND
+về phê duyệt “Kế hoạch cung cấp dịch vụ công trực
+tuyến của thành phố Hồ Chí Minh giai đoạn 2013 - 2015, định hướng đến năm
+2020”.
+Sở Thông tin và Truyền thông đã tiến
+hành khảo sát, đánh giá mức độ hài lòng của người dân, doanh nghiệp đối với dịch
+vụ công trực tuyến. Trên cơ sở đó, Sở Thông tin và Truyền thông đã xây dựng kế
+hoạch cung cấp dịch vụ công trực tuyến của thành phố Hồ Chí Minh giai đoạn 2013
+- 2015, định hướng đến năm 2020 và trình Ủy ban nhân dân thành phố. Ngày
+12/12/2013, Ủy ban nhân dân thành phố đã ban hành Quyết định
+6555/QĐ-UBND
+về
+phê duyệt “Kế hoạch cung cấp dịch vụ công trực tuyến của thành phố Hồ Chí Minh
+giai đoạn 2013 - 2015, định hướng đến năm 2020”. Sở Thông tin và Truyền thông
+đang hoàn chỉnh mô hình và giải pháp kỹ thuật công nghệ Cổng dịch vụ công trực
+tuyến trên nền điện toán đám mây đ
+ể
+thực hiện lộ trình
+cung cấp dịch vụ công trực tuyến theo Kế hoạch đã được phê duyệt nhằm phục vụ tốt
+hơn cho người dân và doanh nghiệp.
+Sở Thông tin và Truyền thông đã làm
+việc với Ngân hàng nhà nước Tp.HCM, Kho bạc nhà nước Tp.HCM, Sở Tài chính, Sở
+Công Thương để tìm ra giải pháp giải quyết khó khăn trong việc nộp phí/lệ phí đối
+với dịch vụ công trực tuyến theo chỉ đạo của Ủy ban nhân dân thành phố tại công
+văn số 2300/VP-CNN ngày 01/4/2014. Các đơn vị đã thống nhất các nội dung trong
+việc phối hợp xây dựng quy trình thanh toán trực tuyến, giải pháp kỹ thuật
+thanh toán trực tuyến cũng như sẽ dự thảo chính sách trình Ủy ban nhân dân
+thành phố để gửi Bộ Tài chính trong việc hỗ trợ phí dịch vụ trung gian trong
+thanh toán trực tuyến.
+8. Hệ thống giao
+ban điện tử đa phương tiện:
+Triển khai và vận hành chính thức hệ
+thống giao ban điện tử đa phương tiện và triển khai tại
+6 điểm:
+- Ủy ban nhân dân Thành phố,
+- Sở Thông tin và Truyền Thông,
+- Ủy ban nhân dân huyện Củ Chi,
+- Ủy ban nhân dân huyện Bình Chánh,
+- Ủy ban nhân dân huyện Hóc Môn,
+- Ủy ban nhân dân quận 12.
+Năm 2014 triển khai hệ thống giao ban
+điện tử đa phương tiện cho tất cả các cơ quan nhà nước trên địa bàn thành phố.
+9. Hệ thống Quản
+lý cán bộ công chức
+Hệ thống Quản lý cán bộ công chức
+thành phố đã được cài đặt tập trung tại Trung tâm dữ liệu thành phố và vận hành
+ổn định. Tháng 7/2012, Sở TTTT đã thực hiện nâng cấp hạ tầng phần cứng và hỗ trợ
+thiết lập kết nối Metronet cho các đơn vị tham gia vận hành hệ thống quản lý
+cán bộ công chức. Hệ thống đã được triển khai cho tất cả các Sở ngành, UBND các
+quận, huyện, trong năm 2014, Sở TTTT sẽ tiếp tục triển khai cho các đơn vị nhà
+nước còn lại trên địa bàn thành phố.
+10. Hệ thống đất
+đai xây dựng:
+Đã hoàn thiện mô hình tổng thể hệ thống
+đất đai xây dựng cho toàn thành phố, xây dựng kế hoạch và lộ trình thực hiện nhằm
+triển khai hoàn chỉnh hệ thống thông tin đất đai xây dựng toàn thành phố, kết nối
+từ Sở Tài nguyên và Môi trường, Sở Xây Dựng, Ủy ban nhân dân các quận huyện,
+tích hợp và cung cấp dịch vụ công lên
+C
+ổng thông tin của
+thành phố.
+UBND TP đã ban hành Quyết định số
+6233/QĐ-UBND
+ngày 07/12/2012 về Mô hình hệ thống thông tin đất đai - xây dựng tại TPHCM nhằm
+thống nhất mô hình triển khai đất đai - xây dựng cho toàn thành phố.
+Hiện nay, 24/24 Quận/Huyện đều triển
+khai phần mềm ứng dụng phục vụ công tác quản lý đất đai - xây dựng, trong đó:
+- Triển khai hoàn chỉnh hoàn chỉnh hệ
+thống phần mềm quản lý đất đai - xây dựng và liên thông chia sẻ dữ liệu giữa
+các phòng ban: 4 Quận/Huyện (Quận 4, 7, Tân Bình và Huyện Hóc Môn);
+- Triển khai các phân hệ quản lý đất
+đai - xây dựng nhưng chưa thành hệ thống hoàn chỉnh, chưa liên thông chia sẻ dữ
+liệu giữa các phòng ban: 20 Quận/Huyện, trong đó:
++ Lĩnh vực quản lý đất đai: 20 Quận/Huyện
+triển khai phần mềm do Trung tâm viễn thám - Bộ Tài nguyên và Môi trường
+(VILIS) xây dựng;
++ Lĩnh vực quản lý xây dựng: 20 Quận/Huyện
+triển khai phần mềm do Sở TTTT triển khai và đơn vị tự thực hiện.
+Trong 3 tháng đầu năm 2014, thành phố
+đã đẩy mạnh xây dựng các cơ sở dữ liệu nền tảng về quản lý đất đai - xây dựng tại
+thành phố làm nền tảng cho việc triển khai các phần mềm ứng dụng trong lĩnh vực
+quản lý đô thị, cụ thể:
+- Triển khai công tác xây dựng
+cơ
+sở dữ liệu quản lý đất đai do Sở Tài nguyên môi trường làm chủ đầu
+tư với tổng kinh phí 78,513 tỉ tại Quyết định số 5946/2009/QĐ-UBND.
+Đến
+nay, Sở Tài nguyên và Môi trường đã hoàn thành 75% khối lượng công việc
+thực hiện. Nhằm hỗ trợ Sở Tài nguyên và Môi trường hoàn tất nhiệm vụ được giao,
+Sở Thông tin và Truyền thông đã có công văn số 273/STTTT-CNTT ngày 6/3/2014 hướng
+dẫn các Quận/Huyện triển khai các giải pháp kỹ thuật để hoàn chỉnh cơ sở dữ liệu
+đất đai trước tháng 6/2014.
+- Triển khai xây dựng cơ sở dữ liệu về
+công trình dân dụng cao tầng và công trình công cộng tập trung đông
+người
+trên địa bàn thành phố Hồ Chí Minh.
+Đến
+nay đã
+tạo lập dữ liệu số hoá về 596/1200 công trình dân dụng cao tầng và công trình
+công cộng tập trung đông
+người
+tại thành phố.
+- Dự án “Ứng dụng công nghệ LIDAR xây
+dựng mô hình 3 chiều phục vụ quản lý đô thị tại TP.
+Hồ
+Chí
+Minh” do Trung tâm ứng dụng GIS - Sở Khoa học và Công nghệ làm chủ đầu tư.
+Kết
+quả của dự án đã tạo lập dữ liệu số (gọi là dữ liệu LIDAR) về
+toàn bộ diện tích của thành phố. Bộ dữ liệu tạo lập từ dự án sẵn sàng ứng dụng
+phục vụ công tác quản lý đô thị như: cập nhật cơ sở dữ liệu nền địa hình, xây dựng
+cốt san nền của thành phố, xây dựng mô hình 3 chiều đô thị, quy hoạch vùng đô
+thị, quy hoạch sử dụng đất, quản lý cơ sở hạ tầng (
+đường
+sá,
+cầu cống, lưới điện,...) mô phỏng và dự báo ngập lụt,...Ủy ban nhân dân đã chỉ
+đạo giao Sở Thông tin và Truyền thông chủ trì quản lý và khai thác dữ liệu
+LIDAR phục vụ công tác quản lý Nhà nước và các nhiệm vụ khác tại công văn số
+6932/UBND-CNN ngày 25/12/2013 của Văn phòng Ủy ban nhân dân thành phố. Sở Thông
+tin và Truyền thông đang xây dựng thông báo hướng dẫn các đơn vị tiếp cận, khai
+thác và sử dụng dữ liệu LIDAR; ngoài ra, Sở Thông tin và Truyền thông cũng đang
+xây dựng dự thảo Quy chế quản lý và khai thác dữ liệu LIDAR trình Ủy ban nhân
+dân thành phố ban hành.
+- Sở Thông tin và Truyền thông đang
+hoàn thiện Chương trình tổng thể ứng dụng hệ thống thông tin địa lý (GIS) phục
+vụ công tác quản lý đô thị theo chỉ đạo của Ủy ban nhân dân thành phố.
+11. Xây dựng các
+hệ thống thông tin của Thành phố:
+Các hệ thống thông tin cơ bản đã triển
+khai trong thời gian qua:
+- Hệ thống thông tin Văn hóa - Xã hội:
+Cơ sở dữ liệu (CSDL) Hộ tịch; CSDL Cán bộ công chức; CSDL Nhân khẩu - Hộ khẩu;
+CSDL Giáo dục, CSDL Bảo hiểm xã hội.
+- Hệ thống thông tin Kinh tế: CSDL
+Doanh nghiệp, CSDL số liệu xuất nhập khẩu, đầu tư...
+- Hệ thống thông tin Quản lý đô thị:
+CSDL Đất đai - Xây dựng; CSDL Quy hoạch.
+- Hệ thống thông tin Khoa học công
+nghệ: CSDL đề tài nghiên cứu khoa học, CSDL chuyên gia đầu ngành...
+- Hệ thống thông tin Văn hóa
+-
+Du lịch: quản lý hiện vật tại các bảo tàng tại Thành phố; hệ thống
+di sản văn hóa vật thể, phi vật thể tại Thành phố; Tổng đài thông tin du lịch
+1087 và trạm thông tin du lịch.
+Đang triển khai dự án chuẩn hóa dữ liệu
+hệ thống thông tin thông tin - truyền thông nhằm chuẩn hóa dữ liệu chuyên ngành
+của Sở Thông tin và Truyền thông.
+Bên cạnh đó, thành phố đã triển khai
+nghiên cứu xây dựng kiến trúc tổng
+thể
+công nghệ thông tin
+cho toàn Thành phố, làm cơ sở cho việc xây dựng và triển khai hoàn chỉnh các hệ
+thống thông tin của Thành phố.
+12. Xây dựng hạ
+tầng mạng công nghệ thông tin:
+- Trung tâm dữ liệu thành phố: đây là
+hệ thống tập trung các ứng dụng dùng chung của thành phố như: hệ thống
+HCMCityweb, hệ thống cán bộ công chức, thư điện tử, một cửa điện tử, dịch vụ
+công...Định hướng của thành phố trong thời gian tới là tất cả các ứng dụng triển
+khai tại các cơ quan nhà nước đều tập trung tại Trung tâm dữ liệu thành phố nhằm
+quản lý tập trung
+dữ
+liệu, đảm bảo việc tích hợp và chia sẻ
+thông tin, đặc biệt là đảm bảo an toàn, anh ninh thông tin.
+- Trung tâm điều hành hệ thống mạng
+băng thông rộng thành phố (NOC): Hệ thống đang được vận hành và giám sát tại
+QTSC. Hiện tại, hệ thống hoạt động giám sát hạ tầng hiệu quả, phát hiện được
+các sự cố mất kết nối và giải quyết kịp thời. Hiện nay, Trung tâm điều hành hệ
+thống mạng NOC đang là điểm kết nối, liên thông giữa mạng MetroNet thành phố và
+mạng Truyền số liệu chuyên dùng dành riêng cho các cơ quan Đảng và nhà nước.
+Nhằm đảm bảo hệ thống vận hành ổn định,
+Sở Thông tin và Truyền thông đã xây dựng và đang hoàn chỉnh Quy định về quản
+lý, vận hành và sử dụng Mạng truyền số liệu chuyên dùng của các cơ quan Đảng,
+Nhà nước tại thành phố Hồ Chí Minh để trình UBND TP trong quý
+II
+/2014.
+- Hệ thống Thư điện tử thành phố: Hệ
+thống thư điện tử đang hoạt động ổn định và được các cơ quan quản lý Nhà nước,
+cán bộ công chức, viên chức sử dụng thông dụng hơn trước. Hệ thống đã
+cấp
+tổng số
+11.628 hộp thư điện tử, tỷ lệ số hộp thư điện tử sử dụng
+trong công việc là 81,78%.
+- Hệ thống mạng đô thị băng thông rộng
+thành phố (MetroNet): Hiện nay, hệ thống mạng Metronet đã được triển khai tổng
+cộng
+578
+điểm kết nối các sở - ban - ngành, quận - huyện, phường - xã -
+thị trấn và các đơn vị trực thuộc khác phục vụ hiệu quả việc vận hành, liên
+thông hệ thống thông tin chỉ đạo điều hành các cấp.
+13. Trung tâm chứng
+thực chuyên dùng (hạ tầng):
+Triển khai áp dụng chữ ký số cho
+thông tin chỉ đạo điều hành tại các quận huyện, sở ban ngành trên hệ thống
+cityweb và hệ thống văn bản nhằm tăng cường tính pháp lý của hệ thống văn bản số.
+Tổng số đơn vị được cấp chứng thư số: 71 đơn vị. Bao gồm: 24 quận huyện; 14 Sở;
+32 ban ngành và Ủy ban nhân dân thành phố.
+Sở Thông tin và Truyền thông đang phối
+hợp với Trung tâm Chứng thực điện tử chuyên dùng Chính phủ - Ban Cơ yếu Chính
+phủ để triển khai chứng thư số cho tất cả các đơn vị Sở - Ban - Ngành, Quận -
+Huyện trên địa bàn thành phố:
+- Giai đoạn 1: quý
+II
+/2014, mỗi đơn vị sẽ được triển khai 01 chứng thư số cho đơn vị để phục
+vụ cho liên thông kết nối quản lý văn bản toàn thành phố.
+- Giai đoạn 2: quý IV/2014 và năm 2015
+sẽ tổ chức triển khai cho toàn bộ cán bộ công chức của Sở - Ban - Ngành, Quận -
+Huyện và các doanh nghiệp nhà nước trực thuộc Ủy ban nhân dân thành phố.
+14. An toàn an
+ninh thông tin:
+Xây dựng các hệ thống hạ tầng dùng
+chung (Trung tâm dữ liệu thành phố): nhằm đảm bảo an toàn, cho các hệ thống
+thông tin của thành phố, cũng như đảm bảo khả năng cung cấp các dịch vụ công một
+cách liên tục, ổn định. Trung tâm dữ liệu thành phố được đặt công viên phần mềm
+Quang Trung và được giám sát 24/24 và trang bị các phương tiện kỹ thuật hiện đại
+nhằm đảm bảo an toàn các hệ thống thông tin quan trọng của thành phố.
+Thành lập bộ phận kỹ thuật chuyên
+trách và được trang bị các thiết bị chuyên dùng nhằm đảm bảo an toàn thông tin
+cho các cơ quan nhà nước thành phố, kịp thời khắc phục các sự cố.
+Triển khai nội dung các chính sách đảm
+bảo an toàn thông tin tại các cơ quan nhà nước nhằm giảm thiểu các nguy cơ gây
+mất an toàn thông tin trong quá trình ứng dụng công nghệ thông tin trong quản
+lý nhà nước trên địa bàn thành phố. Hoàn chỉnh mô hình bảo mật thông tin hệ thống
+thông tin cơ sở cấp quận, huyện, sở ngành, các hệ thống hạ tầng dùng chung...
+15. Triển khai ứng
+dụng trên nền tảng đám mây nguồn mở, điện toán đám mây và xây dựng khung kiến
+trúc cho chính quyền điện tử:
+Thực hiện Quyết định số
+5867/QĐ-UBND
+ngày 16/11/2012 của Ủy ban nhân dân thành phố về phê duyệt chương trình Phát
+triển ứng dụng CNTT trên công nghệ nguồn mở giai đoạn 2013 - 2015, trong năm
+2013 thành phố tập trung triển khai các ứng dụng nguồn mở cho các cơ quan nhà
+nước trên nền tảng đám mây (tập trung tại Trung tâm dữ liệu của thành phố) nhằm
+thay thế dần các ứng dụng nguồn đóng mà thành phố đã triển khai cho các đơn vị
+trong giai đoạn 2005 -2011.
+Trong năm 2014 thành phố tập trung
+chuyển đổi các ứng dụng nguồn đóng đã triển khai cho 24 quận huyện trong thời
+gian qua sang các ứng dụng nguồn mở theo lộ trình đã được phê duyệt tại Quyết định
+số
+5867/QĐ-UBND
+.
+IV. Đánh giá
+chung:
+1.
+Thuận
+l
+ợi
+:
+Thành phố đã đẩy mạnh chương trình Chính
+phủ điện tử, tăng cường năng lực của cơ quan hành chính, thực hiện công khai
+minh bạch trong hoạch định chính sách, phòng chống tham nhũng và nâng cao năng
+lực phát hiện, xử lý các hành vi tham nhũng: 24 Quận huyện, 52 Sở Ban ngành đã
+được triển khai ứng dụng công nghệ thông tin trong cơ quan nhà nước trong thời
+gian qua.
+Cơ sở hạ tầng kỹ thuật tại các Sở,
+Ngành, Quận, Huyện được hoàn thiện và củng cố, xây dựng và đưa vào vận hành nền
+tảng hạ tầng phục vụ cho liên thông, kết nối chia sẻ thông tin giữa các cơ quan
+Nhà nước: Mạng MetroNet kết nối từ thành phố đến Sở, Ngành, Quận, Huyện và Phường,
+Xã, Trung tâm điều khiển NOC, Hệ thống thư điện tử thành phố, Hệ thống giao ban
+trực tuyến; Hệ thống liên thông Quản lý văn bản và hồ sơ công việc;
+Kiến trúc công nghệ thông tin thành
+phố đang dần hình thành, đặc biệt là tại cấp Quận, Huyện;
+Hệ thống phần mềm ứng dụng tiếp tục đẩy
+mạnh được triển khai và không ngừng nâng cấp phù hợp với yêu cầu công việc và
+tiến bộ công nghệ. Thành phố cũng đúc kết kinh nghiệm triển khai, đặc biệt là tại
+cấp Sở, Ngành để có những giải pháp phù hợp, có thể triển khai nhanh với chi
+phí thấp: phần mềm quản lý công văn, phần mềm lõi, cổng thông tin,...;
+Cơ sở dữ liệu tác nghiệp tại các cấp
+được xây dựng khá hoàn chỉnh, sẵn sàng cho việc liên thông, kết nối, chia
+sẻ
+dữ liệu;
+Hệ thống Một cửa điện tử không ngừng
+được mở rộng về số lượng kết nối lẫn nội dung thông tin và phương tiện truy cập,
+là dịch vụ hành chính công đầu tiên trong cả nước cung cấp trên công nghệ 3G.
+Đây là kênh thông tin để lãnh đạo, người dân và doanh nghiệp giám sát hiệu quả
+các hoạt động hành chính một cách công khai minh bạch.
+Nhiều dịch vụ công trực tuyến cấp độ
+cao (3, 4) được đưa vào hoạt động, rút ngắn thời gian giải quyết hồ sơ và giảm
+phiền hà, nhũng nhiễu cho người dân và doanh nghiệp;
+Công tác đảm bảo an toàn an ninh
+thông tin được đẩy mạnh, đảm bảo phát hiện và ngăn chặn hiệu quả các trường hợp
+tấn công vào hệ thống thông tin của cơ quan Nhà nước.
+2. Những khó khăn, vướng mắc chung
+khi triển khai ứng dụng CNTT
+Nhận thức của một bộ phận CBCC, trong
+đó, có cả lãnh đạo sở ngành, quận huyện về vai trò của ứng dụng CNTT trong CCHC
+chưa cao thể hiện: tỷ lệ sử dụng hộp thư chung của thành phố chưa cao (đặc biệt
+là lãnh đạo sở ngành, quận huyện), chưa quan tâm đúng mức trong triển khai ứng
+dụng CNTT tại đơn vị, cũng như chưa nhận thấy được tầm quan trọng trong việc ứng
+dụng công nghệ thông tin trong việc đẩy mạnh cải cách hành chính tại đơn vị,
+nâng cao hiệu quả trong công việc.
+Ứng
+dụng CNTT theo ngành dọc (do các
+cơ quan Trung ương triển khai) và tại địa phương (tỉnh thành phố trực thuộc
+Trung ương) chưa có sự phối hợp một cách tổng thể.
+Thủ tục hành chính và qui trình ISO
+chưa thống nhất ở cấp quận huyện dẫn đến việc khó khăn trong triển khai các phần
+mềm dùng chung, chia sẻ thông tin và liên thông dữ liệu giữa các quận huyện
+(CNTT chỉ là công cụ để giúp các qui trình ISO, TTHC thực hiện hiệu quả hơn).
+Việc liên thông kết nối, chia sẻ
+thông tin giữa các đơn vị, tạo luồng thông tin tự động, đẩy mạnh kết nối liên
+thông giữa các hệ thống thông tin của các Sở, ban, ngành, quận, huyện thành phố
+chỉ mới ở giai đoạn thí điểm, các hệ thống thông tin vẫn còn đang ở dạng rời rạc
+tại các đơn vị và chưa kết nối chia sẻ thông tin được nhiều. Việc liên thông kết
+nối, chia sẻ thông tin giữa các đơn vị sẽ được tập trung đẩy mạnh triển khai
+trong giai đoạn 2013-2015.
+Thành phố đang chuyển đổi dần nền tảng
+công nghệ từ nguồn đóng sang nguồn mở, triển khai tập trung các phần mềm ứng dụng
+trên Trung tâm dữ liệu chung, ứng dụng điện toán đám mây nhằm đảm bảo an ninh
+thông tin, tiết kiệm kinh phí và tích hợp các phần mềm trên cùng một nền tảng
+công nghệ nhằm tiết giảm thời gian. Đây là thách thức không nhỏ trong việc vừa
+đảm bảo hệ thống tác nghiệp điện tử vẫn hoạt động, vừa chuyển sang mô hình mới
+với việc ứng dụng những công nghệ mới.
+3. Đề xuất, kiến nghị:
+Thống nhất cơ chế, trình tự, kế hoạch
+ứng dụng CNTT giữa Bộ ngành và địa phương, nhất là việc xây dựng các cơ sở dữ
+liệu quốc gia ngành nhằm kết nối số liệu thông suốt trong quá trình tạo lập,
+khai thác, bảo vệ, lưu trữ.
+Tăng cường nhận thức và kỹ năng ứng dụng
+CNTT gắn với cải cách hành chính đối với cán bộ công chức - nhất là cán bộ lãnh
+đạo diện Thành ủy quản lý; coi đây là một trong những tiêu chuẩn bắt buộc để
+xem xét khi bổ nhiệm hoặc bổ nhiệm lại.
+Đảm bảo kế hoạch vốn ngân sách hằng
+năm cho ứng dụng CNTT nhằm đảm bảo hài hòa trong xây dựng đồng bộ kết cấu hạ tầng
+của một đô thị lớn, đặc biệt - trong đó, hạ tầng thông tin tham gia trong tất cả
+các loại hạ tầng khác.
+Trong năm 2014 cần thống nhất các thủ
+tục hành chính tại cấp quận huyện, sở ngành (Sở Nội vụ, Sở Tư pháp), qui trình
+ISO tại các sở ngành quận huyện (Sở Khoa học và Công nghệ) để triển khai đồng bộ
+các
+phần
+mềm dịch vụ công trực tuyến và ISO điện tử cho cơ
+quan thành phố phục vụ người dân, tổ chức doanh nghiệp được thuận lợi.
+PHẦN II: KẾ HOẠCH
+TRIỂN KHAI ỨNG DỤNG CNTT TRONG HOẠT ĐỘNG CỦA CƠ QUAN NHÀ NƯỚC NĂM 2014 - 2015
+1. Cơ sở hạ tầng:
+Tiếp tục hoàn thiện hạ tầng truyền
+thông tốc độ cao, đa dịch vụ, liên kết các hệ thống thông tin nội bộ UBND các
+quận huyện, phường xã trên địa bàn tỉnh, đảm bảo an toàn bảo mật, đáp ứng yêu cầu
+thông tin giữa các cơ quan quản lý Nhà nước của thành phố.
+Xây dựng, duy trì và áp dụng quy
+trình nghiệp vụ đảm bảo an toàn thông tin mật trên mạng cơ quan.
+Xây dựng, áp dụng quy trình sao lưu,
+dự phòng (backup) dữ liệu, đảm bảo an toàn thông tin dữ liệu, đầu tư các thiết
+bị lưu trữ số liệu của ngành.
+Mở rộng triển khai kết
+nối
+mạng Metronet kết nối các sở ngành, quận huyện trên cơ sở sử dụng và
+khai thác có hiệu quả tài nguyên đã đầu tư. Thực hiện việc kết nối liên thông với
+Trung ương và các tỉnh thành thông qua Mạng truyền số liệu chuyên dùng của cơ
+quan Đảng và Nhà nước.
+Duy trì và nâng cấp hệ thống cơ sở hạ
+tầng tại các quận huyện, sở ban ngành theo mô hình hạ tầng dùng chung cho toàn
+thành phố.
+Duy trì và nâng cấp hạ tầng các hệ thống
+Datacenter thành phố (hệ thống thư điện tử thành phố, hệ thống HCMCityWeb, hệ
+thống quản lý cán bộ công chức...) nhằm tăng cường khả năng bảo mật, an toàn an
+ninh thông tin.
+Triển khai và nâng cấp hệ thống hạ tầng
+dùng chung: hệ thống định danh (AD), hệ thống chứng thực chữ ký số (CA), hạ tầng
+phần cứng và hệ thống mạng Metronet của toàn Thành phố
+2. Triển khai ứng
+dụng CNTT trong cơ quan nhà nước:
+Hệ thống chỉ đạo điều hành: đưa vào vận
+hành chính thức liên thông kết nối hệ thống quản lý văn bản, hồ sơ công việc,
+chỉ đạo điều hành từ Ủy ban nhân dân thành phố đến các Quận, Huyện và Sở, Ban,
+ngành.
+Hệ thống cung cấp thông tin và giao dịch
+với người dân, doanh nghiệp:
+- Nâng cấp dịch vụ công trực tuyến cấp
+độ 3, 4. Tập trung triển khai nhân rộng số lượng và chất lượng dịch vụ công tại
+các sở ban ngành, quận huyện. Tra cứu hồ sơ trên
+cổng
+thông
+tin Một cửa điện tử thành phố.
+- Triển khai hoàn thiện hệ thống
+HCMCityweb của thành phố, đảm bảo an toàn an ninh thông tin và vận hành ổn định.
+- Tiếp tục mở rộng phạm vi kết nối “Một
+cửa điện tử” với Sở, Ban, ngành nhằm cung cấp tình trạng giải quyết hồ sơ thành
+phố, đảm bảo hệ thống dịch vụ 1900 hoạt động xuyên suốt, ổn định.
+- Khai thác thông tin tích hợp và tổng
+hợp từ các sở, ngành, quận, huyện và kết nối khai thác với cơ quan Đảng, kết nối
+các hệ thống thông tin bằng đường truyền dẫn tốc độ cao, đa dịch vụ.
+- Hệ thống đánh giá độ hài lòng của
+người dân.
+Tiếp tục triển khai các hệ thống: hệ
+thống thông tin đất đai xây dựng; hệ thống thông tin dân cư; Hệ thống kinh tế;
+Hệ thống thông tin y tế, giáo dục.
+Sở ngành:
+Triển khai hoàn tất các ứng dụng cấp
+phép chuyên ngành tại các sở, ngành trên nền tảng phần mềm lõi đã triển khai để
+hoàn chỉnh hệ thống thông tin của các đơn vị.
+Quận huyện:
+- Chuyển đổi và hoàn thiện toàn bộ hệ
+thống phần mềm ứng dụng nguồn mở tại các quận huyện nhằm thống nhất các ứng dụng
+phục vụ liên thông chia sẻ thông tin trong các phòng ban của Quận - Huyện và giữa
+các Quận - Huyện với nhau.
+- Hoàn chỉnh triển khai đất đai xây dựng
+theo mô hình chung của thành phố.
+- Xây dựng mô hình ứng dụng công nghệ
+thông tin - truyền thông tại phường, xã, thị trấn kết nối với hệ thống tại cấp quận
+đã triển khai thời gian qua, đảm bảo phục vụ hiệu quả nhanh chóng cho người dân
+và doanh nghiệp.
+- Kết nối thành hệ thống thông tin từ
+xã, phường, quận, huyện, đến các Sở chuyên ngành và thành phố nhằm nâng cao hiệu
+lực, hiệu quả quản lý và xây dựng nên hành chính điện tử hiện đại phục vụ nhân
+dân và lãnh đạo các cấp.
+3. Triển khai
+phần mềm mã nguồn mở trong cơ quan nhà nước:
+- Xây dựng và ban hành cơ chế, chính
+sách khuyến khích ứng dụng và phát triển phần mềm nguồn mở để thu hút các trường,
+viện, hiệp hội nghiên cứu khoa học tham gia vào việc đào tạo và nghiên cứu phát
+triển phần mềm nguồn mở; khuyến khích và tạo điều kiện thuận lợi cho các chuyên
+gia trong và ngoài nước cũng như các công ty đầu tư kinh doanh, phát triển,
+chuyển giao công nghệ và đào tạo về phần mềm nguồn mở tại TP. HCM;
+- Xây dựng kiến trúc ứng dụng CNTT và
+phát triển hệ thống phần mềm trong xây dựng chính phủ điện tử của Thành phố
+trên nền tảng công nghệ nguồn mở, định hướng đưa về mô hình tập trung trên nền
+tảng công nghệ điện toán đám mây;
+- Triển khai các ứng dụng mới trên nền
+tảng công nghệ mã nguồn mở và cuốn chiếu dần các ứng dụng cũ đã triển khai trên
+công nghệ nguồn đóng sang công nghệ nguồn mở;
+- Tổ chức đào tạo sử dụng phần mềm
+nguồn mở cho các cán bộ công chức nhà nước;
+- Hình thành đội ngũ cán bộ đủ năng lực
+triển khai ứng dụng, phát triển phần mềm nguồn mở và hỗ trợ giải quyết sự cố
+cho các Sở - Ban - Ngành, Quận - Huyện 24/7;
+- Hỗ trợ đào tạo cán bộ kỹ thuật tại
+các Sở - Ban - Ngành, Quận - Huyện có chuyên môn về quản trị và sử dụng phần mềm
+nguồn mở;
+- Xây dựng và triển khai chương trình
+đào tạo phát triển phần mềm nguồn mở tại các trường Đại học nhằm tạo lực lượng
+chủ lực trong công tác xây dựng và phát triển phần mềm tại TP.HCM;
+- Xây dựng trang thông tin diễn đàn
+nguồn mở nhằm kết nối, chia sẻ kinh nghiệm trong quá trình triển khai, phát triển
+PMNM nhằm tạo kênh thông tin đào tạo và giải đáp trực tuyến cho các đơn vị Sở-Ban-Ngành,
+Quận/Huyện.
+4. Triển khai hệ
+thống thông tin chuyên ngành:
+- Xây dựng các cơ chế, quy định trong
+công tác chuyển đổi tích
+hợp
+dữ liệu từ các Sở - Ban -
+Ngành, Quận/Huyện về Trung tâm dữ liệu thành phố;
+- Xây dựng cơ chế, quy định trong việc
+phân quyền khai thác sử dụng hệ thống cơ sở dữ liệu giữa các Sở - Ban - Ngành,
+Quận/Huyện;
+- Xây dựng và triển khai kiến trúc
+tích
+hợp
+các hệ thống thông tin của thành phố hình thành
+kho dữ liệu thô dần tiến đến việc khai khoáng và kết xuất dữ liệu báo cáo phục
+vụ hỗ trợ lãnh đạo thành phố các cấp định hướng, ra quyết định;
+- Xây dựng hệ thống phần mềm tích hợp
+(Middleware) kết nối các hệ thống phần mềm phân tán tại các Quận/Huyện và Sở
+chuyên ngành đặt tại Trung tâm dữ liệu thành phố như hệ thống thông tin Văn hóa
+- xã hội; Kinh tế, Quản lý đô thị và Khoa học công nghệ.
+5. An toàn an
+ninh thông tin:
+- Xây dựng kế hoạch tổng thể đảm bảo
+an toàn an ninh cho các hệ thống thông tin và các hệ thống dùng chung của thành
+phố.
+- Thực hiện chuẩn hóa hạ tầng dùng
+chung bao gồm hoàn thiện hệ thống định danh, hệ thống chứng thực điện tử chuyên
+dùng toàn thành phố làm cơ sở nền tảng liên thông kết nối, đảm bảo độ bảo mật
+và tính pháp lý cho các văn bản luân chuyển trên môi trường mạng.
+- Tiếp tục củng cố và tăng cường lực
+lượng đảm bảo an toàn thông tin của thành phố và bổ sung, hoàn thiện và triển
+khai các chính sách, quy định về đảm bảo an toàn an ninh thông tin cho các hệ
+thống thông tin thành phố.
+- Triển khai tổ chức diễn tập tác chiến
+điện tử, tạo ra quy trình chuẩn về tác chiến điện tử nhằm phát triển khả năng
+phản ứng nhanh trong các trường hợp xảy ra sự cố về an toàn thông tin.
+- Tổ chức Đoàn kiểm tra đánh giá về
+an toàn thông tin của các hệ thống CNTT tại các đơn vị có hệ thống thông tin
+quan trọng và hệ thống dùng chung của thành phố.
+- Đầu tư trang bị hạ tầng thiết bị và
+các giải pháp an toàn thông tin tại các đơn vị cho phù hợp với mô hình an toàn
+thông tin của thành phố. Xây dựng lực lượng, bồi dưỡng chuyên môn về an toàn
+thông tin cho đội ngũ cán bộ phụ trách CNTT tại các đơn vị
+- Triển khai phần mềm lọc nội dung
+trên Internet thông qua hệ thống mạng ngữ nghĩa nhằm hạn chế các thông tin có nội
+dung xấu, tạo môi trường mạng trong sạch cho Thành phố
+.
+Nơi nhận:
+- HĐND TP (Ban PC, Đoàn
+  Giám sát);
+- Sở Nội vụ, Sở KHCN;
+- BGĐ;
+- VP, P.KHTH;
+- Lưu: VT, P. CNTT (MT.8).
+GIÁM ĐỐC
+Lê Thái Hỷ
+Lưu trữ
+Ghi chú
+Ý kiến
+Facebook
+Email
+In
+Thư Viện
+Nhà Đất
+Bán nhà biệt thự 200m² khu Kiều Đàm Trần Xuân Soạn, Quận 7, Full nội thất cao cấp, sổ hồng riêng, giá chỉ 27 tỷ
+27 tỷ
+,
+DT 200 m²
+,
+Quận 7, Hồ Chí Minh
+Bản án liên quan
+PHÁP LUẬT DOANH NGHIỆP
+Hỏi đáp pháp luật
+Báo cáo 31/BC-STTTT năm 2014 về kết quả thực hiện ứng dụng công nghệ thông tin trong các cơ quan nhà nước trong 03 năm đầu triển khai thực hiện Chương trình cải cách hành chính gắn với mục tiêu xây dựng mô hình Chính quyền đô thị giai đoạn 2011-2015 do Sở Thông tin và Truyền thông Thành phố Hồ Chí Minh ban hành
