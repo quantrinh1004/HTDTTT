@@ -1,0 +1,567 @@
+MỤC LỤC
+                                VĂN BẢN
+In mục lục
+QUYẾT ĐỊNH BAN HÀNH QUY CHẾ HOẠT ĐỘNG VÀ CUNG CẤP THÔNG TIN CỦA CỔNG THÔNG TIN ĐIỆN TỬ BỘ NỘI VỤ TRÊN MÔI TRƯỜNG MẠNG
+Điều 1. Ban hành kèm theo Quyết định này “Quy chế hoạt động và cung cấp thông tin của Cổng thông tin điện tử Bộ Nội vụ trên môi trường mạng”.
+Điều 2. Quyết định này có hiệu lực kể từ ngày ký.
+Điều 3. Chánh Văn phòng Bộ, Giám đốc Trung tâm Công nghệ thông tin, Thủ trưởng các đơn vị thuộc, trực thuộc Bộ và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
+QUY CHẾ HOẠT ĐỘNG VÀ CUNG CẤP THÔNG TIN CỦA CỔNG THÔNG TIN ĐIỆN TỬ BỘ NỘI VỤ TRÊN MÔI TRƯỜNG MẠNG
+Chương I QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng
+Điều 2. Nguyên tắc chung
+Điều 3. Cổng thông tin điện tử Bộ Nội vụ
+Điều 4. Những nội dung Trung tâm Công nghệ thông tin cần xin ý kiến Lãnh đạo Bộ để triển khai
+Điều 5. Kết nối nền tảng mạng xã hội
+Điều 6. Đơn vị quản lý, vận hành
+Chương II THÔNG TIN TRÊN CỔNG THÔNG TIN ĐIỆN TỬ BỘ NỘI VỤ
+Điều 7. Ngôn ngữ, hình thức thể hiện
+Điều 8. Nội dung thông tin chính của Cổng TTĐT Bộ
+Điều 9. Cung cấp thông tin
+Điều 10. Thời gian cung cấp thông tin
+Điều 11. Thu thập, cập nhật thông tin trên Cổng TTĐT Bộ
+Điều 12. Tiếp nhận, xử lý và đăng tải thông tin
+Điều 13. Các thông tin từ chối đăng tải
+Chương III ĐẢM BẢO HOẠT ĐỘNG CỔNG THÔNG TIN ĐIỆN TỬ BỘ NỘI VỤ
+Điều 14. Đảm bảo hạ tầng kỹ thuật
+Điều 15. An toàn thông tin, an ninh mạng
+Điều 16. Trang thông tin điện tử thành phần
+Điều 17. Kinh phí hoạt động
+Chương IV TỔ CHỨC THỰC HIỆN
+Điều 18. Trách nhiệm của các đơn vị
+Điều 19. Chế độ báo cáo
+Điều 20. Khen thưởng
+Điều 21. Xử lý vi phạm
+Điều 22. Sửa đổi, bổ sung
+BỘ NỘI VỤ
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 668/QĐ-BNV
+Hà Nội, ngày 30
+  tháng 6 năm 2025
+QUYẾT ĐỊNH
+BAN
+HÀNH QUY CHẾ HOẠT ĐỘNG VÀ CUNG CẤP THÔNG TIN CỦA CỔNG THÔNG TIN ĐIỆN TỬ BỘ NỘI
+VỤ TRÊN MÔI TRƯỜNG MẠNG
+BỘ TRƯỞNG BỘ NỘI VỤ
+Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6
+năm 2006;
+Căn cứ Luật Tiếp cận thông tin ngày 06 tháng 4
+năm 2016;
+Căn cứ Luật An toàn thông tin mạng ngày 19 tháng
+06 năm 2015;
+Căn cứ Luật An ninh mạng ngày 12 tháng 6 năm
+2018;
+Căn cứ Nghị định số 25/2025/NĐ-CP ngày 21 tháng
+02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ
+chức của Bộ Nội vụ;
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng
+4 năm 2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ
+quan nhà nước;
+Căn cứ Nghị định số 42/2022/NĐ-CP ngày 24 tháng
+6 năm 2022 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực
+tuyến của cơ quan nhà nước trên môi trường mạng;
+Căn cứ Thông tư số 22/2023/TT-BTTTT ngày
+31/12/2023 của Bộ Thông tin và Truyền thông quy định cấu trúc, bố cục, yêu cầu
+kỹ thuật cho cổng thông tin điện tử và trang thông tin điện tử của cơ quan nhà
+nước;
+Theo đề nghị của Giám đốc Trung tâm Công nghệ
+thông tin.
+QUYẾT ĐỊNH:
+Điều 1.
+Ban hành kèm theo
+Quyết định này “Quy chế hoạt động và cung cấp thông tin của Cổng thông tin điện
+tử Bộ Nội vụ trên môi trường mạng”.
+Điều 2.
+Quyết định này có
+hiệu lực kể từ ngày ký.
+Quyết định này thay thế Quyết định số 448/QĐ-BNV
+ngày 23/6/2023 của Bộ trưởng Bộ Nội vụ ban hành “Quy chế tổ chức, hoạt động và
+cung cấp thông tin cho Cổng thông tin điện tử Bộ Nội vụ” và Quyết định số
+36/QĐ-LĐTBXH ngày 08/01/2014 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội
+về việc ban hành Quy chế hoạt động Cổng thông tin điện tử Bộ Lao động - Thương
+binh và Xã hội.
+Điều 3.
+Chánh Văn phòng Bộ,
+Giám đốc Trung tâm Công nghệ thông tin, Thủ trưởng các đơn vị thuộc, trực thuộc
+Bộ và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
+Nơi nhận:
+- Như Điều 3;
+- Bộ trưởng (để b/c);
+- Các đ/c Thứ trưởng;
+- Bộ Khoa học và Công nghệ;
+- Sở Nội vụ các tỉnh, thành phố trực thuộc TW;
+- Các đơn vị thuộc, trực thuộc Bộ;
+- Cổng thông tin điện tử Bộ Nội vụ (để đăng tải);
+- Lưu: VT, TTCNTT(05).
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+Trương Hải Long
+QUY CHẾ
+HOẠT
+ĐỘNG VÀ CUNG CẤP THÔNG TIN CỦA CỔNG THÔNG TIN ĐIỆN TỬ BỘ NỘI VỤ TRÊN MÔI TRƯỜNG
+MẠNG
+(Ban hành kèm theo Quyết định số 668/QĐ-BNV ngày 30/06/2025 của Bộ trưởng Bộ
+Nội vụ)
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh, đối
+tượng áp dụng
+1. Quy chế này quy định việc hoạt động và cung cấp
+thông tin của Cổng thông tin điện tử Bộ Nội vụ (sau đây gọi tắt là Cổng TTĐT Bộ)
+và các Trang thông tin điện tử thành phần được tích hợp trên Cổng TTĐT Bộ trên
+môi trường mạng.
+2. Quy chế này áp dụng đối với các đơn vị thuộc, trực
+thuộc Bộ Nội vụ (sau đây gọi là cơ quan, đơn vị) tham gia quản lý, duy trì hoạt
+động, bảo đảm an toàn, an ninh thông tin và cung cấp, khai thác, sử dụng thông
+tin, cá nhân hóa việc hiển thị thông tin trên Cổng TTĐT Bộ.
+Điều 2. Nguyên tắc chung
+1. Thông tin trên Cổng TTĐT Bộ đảm bảo đúng chủ
+trương, đường lối, của Đảng, chính sách, pháp luật của Nhà nước; đúng mục đích,
+trung thực, khách quan, công khai, minh bạch, kịp thời, đầy đủ, chính xác; tuân
+thủ các quy định của pháp luật về bảo vệ bí mật Nhà nước, an toàn an ninh thông
+tin, sở hữu trí tuệ và quy định pháp luật có liên quan.
+2. Các báo, trang thông tin điện tử hoặc cổng thông
+tin điện tử các Bộ, ngành, địa phương và các tổ chức, cá nhân có quyền khai
+thác thông tin trên Cổng TTĐT Bộ. Khi sử dụng thông tin trên Cổng TTĐT Bộ phải
+ghi rõ: “Nguồn: Cổng thông tin điện tử Bộ Nội vụ” hoặc “Theo:
+https://moha.gov.vn”.
+3. Thông tin cá nhân do người sử dụng cung cấp
+trong quá trình tác nghiệp trên Cổng TTĐT Bộ được bảo vệ, bảo mật theo quy định
+của pháp luật.
+4. Nghiêm cấm việc lợi dụng Cổng TTĐT Bộ để cung cấp,
+truyền đi hoặc đặt đường liên kết trực tiếp đến những thông tin vi phạm các quy
+định hiện hành nhằm mục đích chống phá Đảng, Nhà nước, lợi ích của Nhân dân, vi
+phạm pháp luật, xâm phạm quyền, lợi ích hợp pháp của cơ quan, tổ chức và công
+dân, vụ lợi cá nhân; gây ảnh hưởng đến an ninh quốc gia, trật tự, an toàn xã hội;
+vi phạm các quy định của pháp luật.
+5. Thông tin cung cấp được gửi qua hòm thư điện tử:
+congttdt@moha.gov.vn kèm theo tệp văn bản định dạng thông dụng (.doc, .docx,
+.pdf,...), sử dụng phông chữ Unicode theo chuẩn TCVN 6909:2001, ảnh minh họa hoặc
+hình vẽ được định dạng theo các chuẩn ảnh thông dụng (.jpg, .img, .bmp,…). Các
+thông tin có thể cung cấp dưới dạng văn bản in ấn, ghi trên đĩa cứng hoặc USB…
+Điều 3. Cổng thông tin điện tử
+Bộ Nội vụ
+1. Cổng thông tin điện tử Bộ Nội vụ là kênh cung cấp
+thông tin chính thống, tập trung của Bộ Nội vụ trên môi trường mạng. Hoạt động
+của Cổng TTĐT Bộ tuân thủ theo quy định của pháp luật.
+2. Cổng TTĐT Bộ có địa chỉ tên miền trên Internet
+là: https://moha.gov.vn; địa chỉ thư điện tử: congttdt@moha.gov.vn.
+3. Cổng TTĐT Bộ có chức năng:
+a) Thông tin, truyền thông, phổ biến đường lối, chủ
+trương của Đảng, chính sách, pháp luật của Nhà nước về các lĩnh vực thuộc chức
+năng quản lý nhà nước của Bộ Nội vụ; là kênh cung cấp, trao đổi thông tin giữa
+Bộ Nội vụ với các cơ quan, tổ chức, cá nhân trong và ngoài ngành.
+b) Liên kết, tích hợp thống nhất, tập trung các
+kênh thông tin và các ứng dụng của Bộ Nội vụ nhằm phục vụ việc cung cấp thông
+tin, công bố, chia sẻ dữ liệu chính thống của Bộ cho tổ chức, cá nhân khai
+thác, sử dụng trên môi trường mạng.
+c) Kết nối, tích hợp với Cổng Thông tin điện tử
+Chính phủ, Hệ thống giám sát, đo lường mức độ cung cấp và sử dụng dịch vụ Chính
+phủ số.
+Điều 4. Những nội dung Trung
+tâm Công nghệ thông tin cần xin ý kiến Lãnh đạo Bộ để triển khai
+1. Nâng cấp, mở rộng các chức năng của Cổng TTĐT Bộ.
+2. Kết nối với các nền tảng mạng xã hội.
+3. Thay đổi giao diện trang chủ của Cổng TTĐT Bộ.
+4. Bổ sung ngôn ngữ tiếng nước ngoài.
+Điều 5. Kết nối nền tảng mạng
+xã hội
+Cổng TTĐT Bộ có hỗ trợ kết nối hoặc mở kênh cung cấp
+thông tin chính thống của Bộ tới các nền tảng mạng xã hội do cơ quan nhà nước
+cho phép cung cấp thông tin trên môi trường mạng theo quy định của pháp luật
+(Facebook, YouTube, Zalo…) nhằm tăng cường cung cấp thông tin về chính sách, hoạt
+động của Bộ Nội vụ đến tổ chức, công dân.
+Điều 6. Đơn vị quản lý, vận
+hành
+Trung tâm Công nghệ thông tin chịu trách nhiệm xây
+dựng, phát triển và vận hành, đảm bảo Cổng TTĐT Bộ hoạt động liên tục, an toàn,
+thông suốt; các đơn vị thuộc, trực thuộc Bộ phối hợp cung cấp, tiếp nhận và xử
+lý thông tin theo đúng chức năng, nhiệm vụ được giao.
+Chương II
+THÔNG TIN TRÊN CỔNG
+THÔNG TIN ĐIỆN TỬ BỘ NỘI VỤ
+Điều 7. Ngôn ngữ, hình thức thể
+hiện
+1. Ngôn ngữ hiển thị trên Cổng TTĐT Bộ bao gồm tiếng
+Việt, tiếng Anh và một số ngôn ngữ khác.
+2. Thông tin cung cấp trên Cổng TTĐT Bộ được thể hiện
+dưới dạng: chữ, hình ảnh, âm thanh, video, các loại hình khác (eMagazine,
+Infographic,…).
+Điều 8. Nội dung thông tin
+chính của Cổng TTĐT Bộ
+1. Thông tin giới thiệu Bộ Nội vụ: Chức năng, nhiệm
+vụ, cơ cấu tổ chức; Lãnh đạo Bộ; Quy chế làm việc; Quy tắc ứng xử; Lịch sử Bộ.
+2. Tin tức, sự kiện liên quan tới các hoạt động
+chính, nổi bật của Bộ Nội vụ; các vấn đề quan trọng, trọng tâm, trọng điểm
+trong hoạt động của Bộ.
+3. Văn bản quy phạm pháp luật và văn bản quản lý
+hành chính thuộc thẩm quyền ban hành hoặc được giao chủ trì soạn thảo bao gồm:
+a) Hệ thống các văn bản quy phạm pháp luật về các
+lĩnh vực thuộc chức năng quản lý nhà nước của Bộ Nội vụ;
+b) Văn bản chỉ đạo, điều hành; phản hồi đối với các
+kiến nghị, yêu cầu của tổ chức, cá nhân; thông tin về khen thưởng đối với các tổ
+chức, cá nhân; xử phạt đối với các tổ chức, doanh nghiệp hoạt động trong lĩnh vực
+quản lý nhà nước của Bộ;
+c) Các điều ước quốc tế mà Việt Nam là thành viên, thỏa
+thuận quốc tế mà Việt Nam là một bên liên quan đến chức năng quản lý nhà nước của
+Bộ Nội vụ; thủ tục hành chính, quy trình giải quyết công việc của Bộ Nội vụ;
+d) Thông tin về văn bản bao gồm: Loại hình văn bản,
+số ký hiệu, trích yếu, cơ quan ban hành, ngày có hiệu lực và ngày hết hiệu lực
+(nếu có);
+đ) Dự thảo văn bản quy phạm pháp luật do Bộ Nội vụ
+chủ trì xin ý kiến đóng góp của các tổ chức, cá nhân;
+e) Thông tin phổ biến, hướng dẫn thực hiện pháp luật,
+chế độ, chính sách đối với những lĩnh vực thuộc phạm vi quản lý nhà nước của Bộ
+Nội vụ;
+f) Danh mục thông tin công khai theo Quyết định số
+232/QĐ-BNV ngày 30/3/2020 của Bộ trưởng Bộ Nội vụ ban hành Quy chế cung cấp
+thông tin cho công dân của Bộ Nội vụ.
+4. Giới thiệu chiến lược, kế hoạch, quy hoạch ngành,
+lĩnh vực thuộc thẩm quản lý nhà nước của Bộ; chương trình công tác và chương
+trình hành động của Bộ; thông tin liên quan tới hoạt động về các lĩnh vực thuộc
+thẩm quyền quản lý nhà nước của Bộ.
+5. Các chuyên mục, chuyên trang và nội dung thông
+tin khác theo chủ trương và kế hoạch tuyên truyền do Lãnh đạo Bộ yêu cầu đăng tải
+trên Cổng TTĐT Bộ.
+6. Số liệu thống kê, cơ sở dữ liệu
+Số liệu thống kê về các lĩnh vực: tổ chức hành
+chính, sự nghiệp nhà nước; tổ chức chính quyền địa phương; cán bộ, công chức,
+viên chức và công vụ; cải cách hành chính; lao động, tiền lương, bảo hiểm xã hội;
+việc làm; an toàn, vệ sinh lao động; hội, quỹ xã hội, quỹ từ thiện, tổ chức phi
+chính phủ; người có công; thanh niên; bình đẳng giới; văn thư, lưu trữ nhà nước;
+thi đua, khen thưởng và các lĩnh vực khác thuộc phạm vi quản lý nhà nước của Bộ
+Nội vụ.
+7. Bộ Nội vụ với các tổ chức, công dân
+a) Thông tin về hoạt động của Bộ, Lãnh đạo Bộ với cử
+tri, đại biểu Quốc hội và công dân;
+b) Thông tin về việc trả lời, văn bản trả lời của Bộ
+về các vấn đề mà công dân, cử tri, đại biểu quốc hội quan tâm, chất vấn;
+c) Tiếp nhận phản ánh, kiến nghị, sáng kiến, giải
+pháp của cơ quan, đơn vị, tổ chức, cá nhân trên mạng Internet gửi Bộ Nội vụ.
+8. Thông tin tiếng nước ngoài: tùy theo khả năng và
+điều kiện cho phép, các thông tin có thể được chọn lọc để cung cấp trên phiên bản
+tiếng Anh và một số ngôn ngữ khác trên Cổng TTĐT Bộ.
+9. Căn cứ vào tình hình và điều kiện thực tế, Trung
+tâm Công nghệ thông tin đề xuất Lãnh đạo Bộ xem xét, phê duyệt nội dung, tính chất
+thông tin cung cấp trên Cổng TTĐT Bộ phù hợp với chức năng, nhiệm vụ trong từng
+giai đoạn của Bộ Nội vụ.
+10. Thông tin đối ngoại
+a) Cung cấp thông tin chính thống, đa ngôn ngữ
+(trong đó có tiếng Anh) về đường lối, chủ trương của Đảng, chính sách, pháp luật
+của Nhà nước và các hoạt động quản lý nhà nước thuộc phạm vi chức năng của Bộ Nội
+vụ ra thế giới; đồng thời, cập nhật, phổ biến thông tin quốc tế có liên quan phục
+vụ công tác chỉ đạo, điều hành và hội nhập quốc tế của Bộ;
+b) Thông tin xây dựng, quảng bá hình ảnh Bộ, ngành
+Nội vụ đến với người dân và cộng đồng xã hội trong và ngoài nước;
+c) Thông tin về hợp tác quốc tế và hội nhập quốc tế
+trong lĩnh vực thuộc phạm vi quản lý nhà nước của Bộ Nội vụ.
+11. Thông tin dự án, đấu thầu, mua sắm công
+a) Danh sách các dự án do Bộ quản lý, chuẩn bị đầu
+tư, các dự án đang triển khai, các dự án đã hoàn tất;
+b) Thông tin về dự án gồm: tên dự án, mục tiêu, địa
+điểm đầu tư, lĩnh vực chuyên môn, loại dự án, thời gian thực hiện, kinh phí, loại
+hình tài trợ, nhà tài trợ, tình trạng dự án; thông tin về các gói thầu trong
+quá trình triển khai dự án.
+12. Thông tin khoa học
+Thông tin về các đề tài, chương trình nghiên cứu
+khoa học do Bộ chủ trì thực hiện; các bài viết, báo cáo, kết quả nghiên cứu
+khoa học trong lĩnh vực thuộc phạm vi quản lý nhà nước của Bộ.
+13. Chuyên trang Bộ trưởng: Thông tin chỉ đạo, điều
+hành và các bài phát biểu của Bộ trưởng đương nhiệm; các hoạt động của Bộ trưởng
+đương nhiệm tại các Hội nghị Trung ương, kỳ họp Quốc hội, Ủy ban Thường vụ Quốc
+hội, phiên họp của Chính phủ và hoạt động khác liên quan đến lĩnh vực quản lý
+nhà nước của Bộ, ngành Nội vụ.
+14. Những thông tin: Báo cáo tài chính năm công
+khai theo quy định của Luật Kế toán; Báo cáo công tác định kỳ của Bộ, ngành Nội
+vụ.
+Điều 9. Cung cấp thông tin
+1. Các đơn vị thuộc, trực thuộc Bộ
+a) Cử công chức, viên chức làm đầu mối và cung cấp
+thông tin, dữ liệu về các lĩnh vực công tác thuộc phạm vi chức năng, nhiệm vụ của
+đơn vị cho Cổng TTĐT Bộ theo quy định tại Quy chế này;
+b) Chịu trách nhiệm trước Bộ trưởng và trước pháp
+luật về những nội dung thông tin, dữ liệu đã cung cấp cho Trung tâm Công nghệ
+thông tin (Cổng thông tin điện tử). Thông tin được gửi qua Hệ thống quản lý văn
+bản và chỉ đạo, điều hành của Bộ Nội vụ, trường hợp gửi bằng văn bản giấy hoặc
+qua hòm thư công vụ phải có xác nhận hoặc ký số của lãnh đạo đơn vị.
+c) Chủ động rà soát, cung cấp các văn bản quy phạm
+pháp luật, thủ tục hành chính, hướng dẫn nghiệp vụ, biểu mẫu điện tử, số liệu
+thống kê chuyên ngành và các thông tin khác trong phạm vi chức năng, nhiệm vụ
+được giao để đăng tải trên Cổng TTĐT Bộ;
+d) Chủ động rà soát thông tin của đơn vị, của công
+chức, viên chức làm đầu mối liên hệ để đề nghị Trung tâm Công nghệ thông tin cập
+nhật trên Cổng TTĐT Bộ khi có sự thay đổi;
+đ) Phối hợp với Trung tâm Công nghệ thông tin liên
+kết, tích hợp dữ liệu và các ứng dụng chuyên môn (nếu có) thuộc thẩm quyền thực
+hiện của đơn vị lên Cổng thông tin theo quy định của pháp luật;
+e) Đơn vị được giao chủ trì soạn thảo văn bản quy phạm
+pháp luật gửi văn bản đề nghị đăng tải kèm hồ sơ dự thảo văn bản để đăng tải
+xin ý kiến Nhân dân trên Cổng TTĐT Bộ và cung cấp văn bản sau khi ban hành để
+đăng tải theo quy định của Luật Ban hành văn bản quy phạm pháp luật;
+f) Đơn vị có nhu cầu thông tin, truyền thông theo
+nhiệm vụ được giao của đơn vị mình, có trách nhiệm cung cấp đầy đủ, chính xác
+và kịp thời mọi thông tin, dữ liệu thuộc lĩnh vực do đơn vị quản lý; chịu trách
+nhiệm kiểm tra độ “Mật” của thông tin trước khi gửi đăng tải trên Cổng TTĐT Bộ;
+g) Các văn bản không thuộc tài liệu “Mật”, cần phổ
+biến, đăng tải trên Cổng TTĐT Bộ phải ghi rõ tại mục “Nơi nhận: TTCNTT để đăng
+tải trên Cổng TTĐT Bộ” để đăng tải theo quy định;
+h) Các tin, dữ liệu, hình ảnh được sưu tầm, trích dẫn,...
+từ các nguồn thông tin, tài liệu của nơi khác phải ghi rõ nguồn gốc trích dẫn.
+2. Công chức, viên chức đầu mối cung cấp thông tin
+có trách nhiệm
+a) Chủ động thu thập, cung cấp thông tin thuộc
+trách nhiệm của đơn vị, báo cáo Thủ trưởng đơn vị về việc cung cấp thông tin để
+đăng tải trên Cổng TTĐT Bộ theo quy định của Quy chế này;
+b) Phối hợp với Trung tâm Công nghệ thông tin trong
+việc kiểm tra, xác thực thông tin liên quan đến tin, bài, video, clip… trong phạm
+vi lĩnh vực quản lý của đơn vị;
+c) Chịu trách nhiệm trước thủ trưởng đơn vị về việc
+bảo đảm cung cấp thông tin của đơn vị trên Cổng TTĐT Bộ;
+Điều 10. Thời gian cung cấp
+thông tin
+1. Bảo đảm cập nhật thường xuyên, chính xác đối với
+các mục tin quy định tại Luật Tiếp cận thông tin.
+2. Đối với các tin tức, sự kiện về hoạt động của Bộ,
+của Lãnh đạo Bộ được đăng tải trên Cổng TTĐT Bộ trong thời hạn 02 giờ làm việc
+kể từ khi kết thúc sự kiện.
+Điều 11. Thu thập, cập nhật
+thông tin trên Cổng TTĐT Bộ
+1. Viên chức, người lao động được giao nhiệm vụ chủ
+động thu thập, kiểm tra, rà soát, biên tập thông tin để đăng tải lên Cổng TTĐT
+Bộ.
+2. Giám đốc Trung tâm Công nghệ thông tin ban hành
+Quy trình biên tập, cập nhật thông tin trên Cổng TTĐT Bộ.
+Điều 12. Tiếp nhận, xử lý và
+đăng tải thông tin
+1. Tiếp nhận và xử lý thông tin: Trung tâm Công nghệ
+thông tin có trách nhiệm tiếp nhận, xử lý, biên tập, cập nhật thông tin, bảo đảm
+thông tin cung cấp trên Cổng TTĐT Bộ theo quy định của pháp luật.
+2. Đăng tải thông tin
+a) Đối với sự kiện nổi bật nằm trong kế hoạch truyền
+thông của Bộ Nội vụ, Trung tâm Công nghệ thông tin có trách nhiệm biên tập và
+đăng tải tin, bài trong thời hạn 02 giờ kể từ khi nhận được tin, bài do các đơn
+vị cung cấp;
+b) Đối với các sự kiện khác, Trung tâm Công nghệ
+thông tin có trách nhiệm biên tập và đăng tải tin, bài trong thời hạn 04 giờ kể
+từ khi nhận được tin, bài do các đơn vị cung cấp.
+Điều 13. Các thông tin từ chối
+đăng tải
+1. Thông tin có nội dung không phù hợp với chủ
+trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước. Thông tin không
+bảo đảm chất lượng, không rõ nguồn gốc hoặc không đúng sự thật và các thông tin
+trùng lặp nội dung đã được đăng tải trên Cổng TTĐT Bộ.
+2. Thông tin có nội dung thuộc bí mật Nhà nước;
+thông tin đã được cấp có thẩm quyền quyết định nhưng chưa được phổ biến công
+khai hoặc chỉ phổ biến trong phạm vi theo quy định.
+3. Thông tin không bảo đảm chất lượng, đã được
+Trung tâm Công nghệ thông tin đề nghị tác giả cung cấp thông tin xác thực, bổ
+sung hoặc làm rõ nhưng không được chấp nhận.
+4. Các văn bản tại Nơi nhận không có nội dung: Cổng
+TTĐT Bộ; thông tin có nội dung không thuộc phạm vi quy định bắt buộc phải cung
+cấp thông tin trên Cổng/Trang thông tin điện tử của cơ quan nhà nước hoặc không
+phải lĩnh vực thuộc phạm vi quản lý của Bộ Nội vụ.
+5. Thông tin chuyên sâu, chuyên ngành cần phải thẩm
+định. Các thông tin khác theo quy định của pháp luật không được đăng lên Cổng
+TTĐT Bộ hoặc thông tin vào thời điểm không thích hợp.
+Chương III
+ĐẢM BẢO HOẠT ĐỘNG CỔNG
+THÔNG TIN ĐIỆN TỬ BỘ NỘI VỤ
+Điều 14. Đảm bảo hạ tầng kỹ
+thuật
+Trung tâm Công nghệ thông tin đảm bảo hạ tầng kỹ
+thuật để Cổng TTĐT Bộ hoạt động thông suốt:
+1. Thường xuyên kiểm tra, bảo dưỡng, bảo trì, chỉnh
+sửa, giám sát hoạt động Cổng TTĐT Bộ, bảo đảm các điều kiện kỹ thuật về tính ổn
+định, thông suốt, hoạt động liên tục 24 giờ trong tất cả các ngày.
+2. Thực hiện việc rà soát, đề xuất phương án nâng cấp
+hệ thống, phát triển Cổng Thông tin điện tử Bộ Nội vụ; đáp ứng yêu cầu cung cấp
+thông tin đầy đủ, chính xác, kịp thời đến độc giả.
+3. Trung tâm Công nghệ thông tin được trang bị đầy
+đủ hệ thống máy chủ, đường truyền và các thiết bị công nghệ cần thiết khác để đảm
+bảo lưu trữ, khai thác, bảo mật, đảm bảo an toàn, an ninh thông tin phục vụ tác
+nghiệp, thu thập, biên tập và cập nhật thông tin lên Cổng TTĐT Bộ.
+Điều 15. An toàn thông tin, an
+ninh mạng
+Trung tâm Công nghệ thông tin đảm bảo an toàn thông
+tin, an ninh mạng cho Cổng TTĐT Bộ:
+1. Xây dựng và triển khai giải pháp hiệu quả chống
+lại các tấn công gây mất an toàn thông tin, dữ liệu Cổng TTĐT Bộ, phương án dự
+phòng khắc phục sự cố đảm bảo Cổng TTĐT Bộ hoạt động liên tục ở mức tối đa; đảm
+bảo an toàn thông tin mạng, an toàn dữ liệu, phòng, chống virus, mã độc…
+2. Thực hiện việc sao lưu dữ liệu hàng ngày; đảm bảo
+sẵn sàng khôi phục lại hoạt động của hệ thống khi có sự cố xảy ra theo các quy
+định hiện hành về bảo đảm an toàn, an ninh thông tin; lập quy trình kiểm tra
+tính sẵn sàng, toàn vẹn thông tin của dữ liệu được sao lưu.
+3. Quản lý quyền truy cập của các cơ quan, đơn vị,
+cá nhân đúng thẩm quyền, chức năng; thu hồi tài khoản liên quan đến Cổng TTĐT Bộ
+đối với các tổ chức, cá nhân đã chấm dứt làm việc, cộng tác với Cổng TTĐT Bộ.
+4. Định kỳ hàng tháng đánh giá, rà soát, báo cáo mức
+độ nghiêm trọng các rủi ro do truy cập không hợp lệ, sử dụng trái phép tài khoản
+truy cập, mất, thay đổi hoặc phá hủy thông tin, hệ thống thông tin liên quan hoặc
+các nguy cơ mất an toàn thông tin khác đến Cổng TTĐT Bộ.
+Điều 16. Trang thông tin điện
+tử thành phần
+1. Trang thông tin điện tử của các đơn vị thuộc, trực
+thuộc Bộ (sau đây gọi là Trang thông tin điện tử thành phần) được kết nối, tích
+hợp và là thành phần của Cổng thông tin điện tử của Bộ. Trang thông tin điện tử
+thành phần có thể được thiết lập trực tiếp trên hệ thống Cổng TTĐT Bộ hoặc do
+các cơ quan, đơn vị xây dựng độc lập và kết nối với Cổng TTĐT Bộ.
+2. Trang thông tin điện tử thành phần sử dụng công
+nghệ địa chỉ Internet IPv6 và tên miền cấp 4 là tên viết tắt của cơ quan bằng
+tiếng Việt không dấu hoặc tiếng Anh theo dạng: tendonvi.moha.gov.vn. Các Trang
+thông tin điện tử thành phần phải gắn mã giám sát trên Hệ thống giám sát, đo lường
+mức độ cung cấp và sử dụng dịch vụ Chính phủ số (Hệ thống EMC).
+3. Đối với Trang thông tin điện tử thành phần kết nối,
+tích hợp trên Cổng TTĐT Bộ, cơ quan, đơn vị chủ quản Trang thông tin điện tử
+thành phần phải thống nhất với Trung tâm Công nghệ thông tin về nền tảng công
+nghệ, dữ liệu đặc tả, cấu trúc, bố cục, yêu cầu kỹ thuật theo quy định và duy
+trì Trang thông tin điện tử thành phần, phù hợp với kiến trúc Chính phủ điện tử
+của Bộ Nội vụ và thiết kế hệ thống thông tin trên Cổng TTĐT Bộ.
+Điều 17. Kinh phí hoạt động
+1. Kinh phí hoạt động của Cổng TTĐT Bộ bao gồm:
+a) Duy trì hoạt động của Cổng TTĐT Bộ;
+b) Hạ tầng kỹ thuật;
+c) Cập nhật tin, bài.
+2. Kinh phí duy trì, quản trị, vận hành và phát triển
+Cổng TTĐT Bộ do ngân sách Nhà nước cấp, tổng hợp chung vào kinh phí hàng năm của
+Trung tâm Công nghệ thông tin, được Bộ trưởng Bộ Nội vụ phê duyệt.
+3. Kinh phí bảo đảm cơ sở hạ tầng và an toàn thông
+tin
+Định kỳ theo giai đoạn, hằng năm, Trung tâm Công
+nghệ thông tin xây dựng kế hoạch bảo trì, bảo dưỡng, nâng cấp các hệ thống cung
+cấp thông tin trên Cổng TTĐT Bộ trình Lãnh đạo Bộ xem xét, phân bổ kinh phí, nhằm
+bảo đảm hoạt động cung cấp thông tin ổn định, an toàn thông tin.
+4. Kinh phí tạo lập thông tin và chi trả nhuận bút,
+cung cấp thông tin
+Chế độ thù lao, nhuận bút cho việc cung cấp thông
+tin trên Cổng TTĐT Bộ và các kênh cung cấp khác thực hiện theo quy định tại
+Điều 22 Nghị định số 42/2022/NĐ-CP
+ngày 24/6/2022 của Chính phủ
+quy định về việc cung cấp thông tin và dịch vụ công trực tuyến của cơ quan nhà
+nước trên môi trường mạng và các quy định khác của pháp luật có liên quan (nếu
+có).
+Chương IV
+TỔ CHỨC THỰC HIỆN
+Điều 18. Trách nhiệm của các
+đơn vị
+1. Các đơn vị thuộc, trực thuộc Bộ
+a) Cung cấp thông tin; phân công công chức, viên chức
+làm đầu mối phối hợp chặt chẽ với Trung tâm Công nghệ thông tin cung cấp thông
+tin theo quy định và theo chức năng, nhiệm vụ, quyền hạn của đơn vị mình trên Cổng
+TTĐT Bộ và kênh cung cấp thông tin của Bộ trên môi trường mạng. Đồng thời, chịu
+trách nhiệm trước pháp luật, Lãnh đạo Bộ về tính chính xác các thông tin do cơ
+quan, đơn vị mình cung cấp;
+b) Đề xuất bằng văn bản những nội dung, kênh thông
+tin chính thuộc thẩm quyền quản lý của đơn vị mình cần được đăng tải, tích hợp
+trên Cổng TTĐT Bộ;
+c) Thủ trưởng các cơ quan, đơn vị chỉ đạo, bảo đảm
+việc tuân thủ các quy định tại Quy chế này trong phạm vi chức năng, nhiệm vụ,
+quyền hạn của đơn vị mình;
+d) Vụ Hợp tác quốc tế có trách nhiệm phối hợp với
+Trung tâm Công nghệ thông tin cung cấp thông tin đầy đủ, chính xác và kịp thời
+về các hoạt động đối ngoại, hội nhập quốc tế của Bộ Nội vụ một cách chủ động và
+khi có yêu cầu.
+2. Trung tâm Công nghệ thông tin
+a) Giúp Lãnh đạo Bộ xây dựng, quản lý, duy trì và
+phát triển Cổng TTĐT Bộ theo quy định tại Quy chế này và các quy định khác của
+pháp luật có liên quan; bảo đảm hệ thống hoạt động liên tục, thông suốt, an
+toàn và đúng tôn chỉ, mục đích;
+b) Đa dạng nội dung, hình thức hoạt động và các ứng
+dụng, sản phẩm truyền thông đa phương tiện để nâng cao năng lực thông tin, truyền
+thông về chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước,
+các nhiệm vụ liên quan đến chức năng quản lý nhà nước của Bộ. Ứng dụng công nghệ
+thông tin, tổ chức cung cấp thông tin qua mạng xã hội và thiết bị di động theo
+quy định của pháp luật;
+c) Chủ trì quản lý và đăng tải kịp thời các thông
+tin chính thống của Bộ Nội vụ trên môi trường mạng; là đầu mối kết nối, tích hợp
+với Cổng Thông tin điện tử Chính phủ, Cổng thông tin điện tử các Bộ, ngành và
+Trang thông tin điện tử Sở Nội vụ các tỉnh, thành phố trực thuộc trung ương; tổ
+chức phối hợp tích hợp, khai thác, sử dụng thông tin, cơ sở dữ liệu thuộc phạm
+vi quản lý nhà nước của Bộ trên Cổng TTĐT Bộ;
+d) Đưa tin và tiếp nhận tin, bài của cộng tác viên
+về các sự kiện, hoạt động của Bộ; tổng hợp tin hoạt động của các Bộ, ngành, địa
+phương có liên quan đến chức năng quản lý nhà nước của Bộ;
+đ) Xây dựng, phát triển, tập huấn kỹ năng viết tin
+bài, xử lý thông tin và bảo mật dữ liệu đội ngũ phóng viên, biên tập viên, cộng
+tác viên, đầu mối cung cấp thông tin của các đơn vị thuộc, trực thuộc Bộ đáp ứng
+yêu cầu nhiệm vụ thông tin, tuyên truyền về các lĩnh vực thuộc chức năng quản
+lý nhà nước của Bộ Nội vụ;
+e) Lựa chọn để tổ chức biên tập, biên dịch thông
+tin sang tiếng nước ngoài, phục vụ công tác thông tin đối ngoại của Bộ trên Cổng
+TTĐT Bộ;
+f) Chủ trì, phối hợp với cơ quan, đơn vị chủ quản
+Trang thông tin điện tử thành phần trong việc thống nhất về nền tảng công nghệ,
+dữ liệu đặc tả, cấu trúc, bố cục, yêu cầu kỹ thuật và duy trì Trang thông tin
+điện tử thành phần.
+3. Văn phòng Bộ
+a) Chủ trì cung cấp thông tin về những vấn đề có
+tính thời sự, tác động lớn tới xã hội, các nhiệm vụ chính trị trọng tâm, trọng
+điểm mà Bộ Nội vụ đang triển khai thực hiện cần thông tin, truyền thông trên Cổng
+TTĐT Bộ; chủ trì, tham mưu và phối hợp với Trung tâm Công nghệ thông tin trong
+việc xử lý khi xảy ra sự cố phát sinh trong công tác truyền thông cần đính
+chính, thông báo trên Cổng TTĐT Bộ;
+b) Chủ trì, phối hợp với các đơn vị xây dựng Thông
+cáo báo chí về từng lĩnh vực công tác của Bộ đăng tải trên chuyên mục Thông cáo
+báo chí, Cổng thông tin điện tử của Bộ theo quy định;
+c) Theo dõi, tổng hợp việc chấp hành quy định bắt
+buộc các đơn vị khi tham mưu, xây dựng thể chế thuộc lĩnh vực quản lý nhà nước
+của Bộ Nội vụ có trách nhiệm mời Trung tâm Công nghệ thông tin tham dự trong
+quá trình triển khai thực hiện;
+d) Phối hợp với Trung tâm Công nghệ thông tin trong
+việc cung cấp, cập nhật thông tin về các hoạt động của Bộ trưởng Bộ Nội vụ một
+cách nhanh chóng, kịp thời và chính xác trên Trang thông tin điện tử của Bộ trưởng
+Bộ Nội vụ.
+4. Các đơn vị báo chí
+a) Tạp chí Tổ chức nhà nước và Lao động có trách
+nhiệm cung cấp các bài nghiên cứu, trao đổi mang tính chuyên sâu, các thông tin
+chuyên đề mang tính định hướng, phản biện đối với các vấn đề dư luận xã hội
+quan tâm liên quan đến chức năng quản lý nhà nước của Bộ Nội vụ để đăng tải lên
+Cổng TTĐT Bộ;
+b) Báo Dân trí có trách nhiệm phối hợp cung cấp các
+thông tin liên quan đến các hoạt động của Lãnh đạo Bộ tại trung ương, các Bộ,
+ngành và địa phương để đăng tải trên Cổng TTĐT Bộ trong trường hợp Trung tâm
+Công nghệ thông tin không tham dự.
+5. Vụ Kế hoạch - Tài chính
+Bố trí kinh phí phục vụ các hoạt động của Cổng
+thông tin điện tử Bộ Nội vụ theo kế hoạch ngân sách nhà nước hàng năm cấp cho Bộ
+và theo chế độ quy định.
+Điều 19. Chế độ báo cáo
+Định kỳ hàng năm, Trung tâm Công nghệ thông tin có
+trách nhiệm báo cáo Lãnh đạo Bộ tình hình hoạt động và đề xuất các biện pháp nhằm
+nâng cao chất lượng hoạt động của Cổng TTĐT Bộ.
+Điều 20. Khen thưởng
+Tổ chức, cá nhân thực hiện tốt việc cung cấp thông
+tin theo quy định tại Quy chế này, tùy theo thành tích cụ thể, Bộ trưởng quyết
+định khen thưởng theo quy định.
+Điều 21. Xử lý vi phạm
+Tổ chức, cá nhân có hành vi vi phạm các quy định về
+cung cấp, khai thác, sử dụng thông tin trên Cổng TTĐT Bộ hoặc cản trở việc cung
+cấp thông tin theo quy định tại Quy chế này và theo các quy định khác của pháp
+luật có liên quan, tùy theo tính chất, mức độ vi phạm sẽ bị xử lý theo quy định
+của pháp luật.
+Điều 22. Sửa đổi, bổ sung
+Trong quá trình thực hiện Quy chế, nếu có phát sinh
+vướng mắc, các đơn vị thuộc, trực thuộc Bộ phản ánh bằng văn bản về Trung tâm
+Công nghệ thông tin để tổng hợp, báo cáo Bộ trưởng xem xét, điều chỉnh, bổ sung
+cho phù hợp./.
+Lưu trữ
+Ghi chú
+Ý kiến
+Facebook
+Email
+In
+Thư Viện
+Nhà Đất
+BÁN ĐẤT MT LIÊU BÌNH HƯƠNG, DT 198M² (9X22), NGAY CHỢ VIỆT KIỀU, FULL THỔ CƯ, GIÁ 1.2 TỶ, SHR
+1.2 tỷ
+,
+DT 198
+,
+Huyện Củ Chi, Hồ Chí Minh
+Bản án liên quan
+PHÁP LUẬT DOANH NGHIỆP
+Hỏi đáp pháp luật
+Quyết định 668/QĐ-BNV năm 2025 về Quy chế hoạt động và cung cấp thông tin của Cổng thông tin điện tử Bộ Nội vụ trên môi trường mạng

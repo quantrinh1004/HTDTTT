@@ -1,0 +1,30 @@
+2025-07-11 08:14:08,664 - INFO - ➡️ Đang truy cập: https://thuvienphapluat.vn/page/searchlegal.aspx?keyword=&area=0&match=True&type=0&status=1&signer=0&sort=1&lan=1&scan=0&org=0&fields=15&chlbg=09/07/1945&chlend=09/07/2035&page=20
+2025-07-11 08:14:09,081 - INFO - ⏳ Chờ 5.80s giả lập người dùng...
+2025-07-11 08:14:19,984 - INFO - 🧭 Tiêu đề trang: THƯ VIỆN PHÁP LUẬT _ Tra cứu, Nắm bắt Pháp Luật Việt Nam
+2025-07-11 08:14:37,832 - ERROR - ❌ Lỗi tại trang 20: Message: 
+Stacktrace:
+#0 0x5793a38bb23a <unknown>
+#1 0x5793a3365ab0 <unknown>
+#2 0x5793a33b76f0 <unknown>
+#3 0x5793a33b78e1 <unknown>
+#4 0x5793a3405b94 <unknown>
+#5 0x5793a33dd1cd <unknown>
+#6 0x5793a3402fee <unknown>
+#7 0x5793a33dcf73 <unknown>
+#8 0x5793a33a9aeb <unknown>
+#9 0x5793a33aa751 <unknown>
+#10 0x5793a387fb4b <unknown>
+#11 0x5793a3883929 <unknown>
+#12 0x5793a3866929 <unknown>
+#13 0x5793a38844e8 <unknown>
+#14 0x5793a384b0df <unknown>
+#15 0x5793a38a88e8 <unknown>
+#16 0x5793a38a8ac6 <unknown>
+#17 0x5793a38ba556 <unknown>
+#18 0x78a45d540609 start_thread
+
+2025-07-11 08:14:37,844 - INFO - ➡️ Đang truy cập: https://thuvienphapluat.vn/page/searchlegal.aspx?keyword=&area=0&match=True&type=0&status=1&signer=0&sort=1&lan=1&scan=0&org=0&fields=15&chlbg=09/07/1945&chlend=09/07/2035&page=21
+2025-07-11 08:14:38,205 - INFO - ⏳ Chờ 5.93s giả lập người dùng...
+2025-07-11 08:14:40,435 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/c5fdfd9e6b5f0b01f13f796b7048eefc
+2025-07-11 08:14:40,436 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7e6aa4e47740>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c5fdfd9e6b5f0b01f13f796b7048eefc
+2025-07-11 08:14:40,437 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7e6aa4e471d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c5fdfd9e6b5f0b01f13f796b7048eefc

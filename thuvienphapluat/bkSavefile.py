@@ -11,7 +11,7 @@ from selenium.webdriver.chrome.options import Options
 from retrying import retry
 from bs4 import BeautifulSoup
 
-field = "test"
+field = "bomayhanhchinh"
 download_dir = "download_" + field
 os.makedirs(download_dir, exist_ok=True)
 
@@ -23,20 +23,51 @@ logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(message)s",
     handlers=[
         logging.StreamHandler(),
-        logging.FileHandler(log_file, mode="w", encoding="utf-8")
+        logging.FileHandler(log_file, mode="a", encoding="utf-8")
     ]
 )
 
+# ==================== Hàm xử lý CAPTCHA ====================
+def handle_captcha_auto(driver):
+    logging.info("✅ CAPTCHA.")
+    try:
+        captcha_img = WebDriverWait(driver, 12).until(
+            EC.presence_of_element_located((By.XPATH, '//img[contains(@src, "/RegistImage.aspx")]'))
+        )
+        captcha_src = captcha_img.get_attribute("src")
+        if not captcha_src.startswith("http"):
+            captcha_src = f"https://thuvienphapluat.vn{captcha_src}"
+
+        session_cookies = {c['name']: c['value'] for c in driver.get_cookies()}
+        headers = {'User-Agent': driver.execute_script("return navigator.userAgent;")}
+        img_data = requests.get(captcha_src, cookies=session_cookies, headers=headers).content
+
+        img = Image.open(BytesIO(img_data)).convert("L")
+        img = img.resize((img.size[0]*2, img.size[1]*2))
+        img = img.point(lambda x: 0 if x < 140 else 255, '1')  # làm nét
+
+        captcha_text = pytesseract.image_to_string(img, config='--psm 7 digits').strip()
+        logging.info(f"🤖 CAPTCHA OCR: {captcha_text}")
+
+        driver.find_element(By.ID, "ctl00_Content_txtSecCode").clear()
+        driver.find_element(By.ID, "ctl00_Content_txtSecCode").send_keys(captcha_text)
+        driver.find_element(By.ID, "ctl00_Content_CheckButton").click()
+        time.sleep(3)
+    except TimeoutException:
+        logging.info("✅ Không có CAPTCHA.")
+    except Exception as e:
+        logging.warning(f"⚠️ Lỗi xử lý CAPTCHA: {e}")
+
 def create_driver():
     chrome_options = Options()
-    chrome_options.add_argument("--headless=new")  
+    chrome_options.add_argument("--headless=new")  # ❗ Có thể bỏ nếu muốn thấy trình duyệt
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
     chrome_options.add_argument("--blink-settings=imagesEnabled=false")
     chrome_options.add_argument("--window-size=1920,1080")
     chrome_options.add_argument("start-maximized")
-    chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0")
+    chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36")
     chrome_options.add_experimental_option("prefs", {"profile.managed_default_content_settings.images": 2})
     chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
     chrome_options.add_experimental_option('useAutomationExtension', False)
@@ -49,12 +80,17 @@ def create_driver():
     })
     return driver
 
+
+# ==================== Cookie ====================
 cookies = [
+    {'name': 'cf_clearance', 'value': 'YSl_wE2XeCyG7Wi5ZKHANEFZihvV.OL0EDjnWbFkyV0-1752030951-1.2.1.1-HDW0ABCa8.4J4CU2Yxh3DCfUJdwpkpRFIIzbw4WNCxF8c206AnVEJsRHPjsTTy0.8BLJpC.vjeSY0aPXkB3VHfVC8V4hK0ASe_11tzFVJw6cYmp1YSW2lzV_oecB9jvyBWOgSC7zC11UPNtGIfT3F5l_kZMm3rhExBEfdCgXQuZdhvd1B_VlDOG98gQwyewbuSPG71IYa7FhC35yDmC64wXcPG5zYqgyzpMWmmhhLq0', 'domain': 'thuvienphapluat.vn'},
+    {'name': 'ASP.NET_SessionId', 'value': 'x1nureejgpaxyy3av4qzzzau', 'domain': 'thuvienphapluat.vn'},
+    {'name': 'thuvienphapluatnew', 'value': '6A5483D68FC937A9135B357CAA8F8FA85746EBE366A91C07FCD36DE091839971C67CD3AFA8EBB293BEA0838DE4D9FB7E9C784F1A70A557EC9F0789DFD2F6C90E3FB248938A36D1ADF932D7C8CCF16EBD5988883C81FB5E3B4A12AB71328D06A33FFD388DEA3D2402A3E6D32BDE1E1B472ADA0762D087C0A1A818BC0ABAE99F3BF4EAAD7608CE246966D0A3C0248E8132CDE95D9AA2BBB09C6E219F1F9156D0A10F8A112F555081CFDBBE5A8C28869416AACBA1AEE08127B88323CC1F3DA02BB18EC6DC28E542AD260DD93AEF', 'domain': 'thuvienphapluat.vn'},
+    {'name': 'dl_user', 'value': '0=c5aGJtZE1ZVzVRYUhWdmJtYzU0', 'domain': 'thuvienphapluat.vn'},
     {'name': 'lg_user', 'value': '0=c5aGJtZE1ZVzVRYUhWdmJtY3NURTRzVkhKMVpRPTU0', 'domain': 'thuvienphapluat.vn'},
-    {'name': 'thuvienphapluatnew', 'value': '9137EC1279A1921F03278A20A989C3D91210997D05DFA9AEB8AAE67D2B255CBD95FA9C55799498B7FC9B2B161D61A9E0BB008EF50B4245598698FA633FE1AE2082C7CDB097807FF21429C6B3039D48215002DE730FB4E9FE2DFDF073C15BE592236D9737E61D32E77B3AD60F079C94B0519AA753AC3289FF5D144C7EE7C196471837624268D570B2AAAA0BB69E4B310CBF8115FC8E37255894E2B79E84179AF761C778F6D5004A7142F2206876297B8F4AC5C272FB9BD89707CCAAED9FCEAC73C4892F84105A6B875A486ECE', 'domain': 'thuvienphapluat.vn'},
-    {'name': 'ASP.NET_SessionId', 'value': 'thrrpmphh3ku45s4sfrodxf5', 'domain': 'thuvienphapluat.vn'}
 ]
 
+#index + 1
 @retry(stop_max_attempt_number=3, wait_fixed=2000)
 def download_content(url, index):
     driver = None
@@ -62,7 +98,7 @@ def download_content(url, index):
         driver = create_driver()
         base_url = "https://thuvienphapluat.vn"
         driver.get(base_url)
-        delay1 = random.uniform(4, 7)
+        delay1 = random.uniform(2, 4)
         logging.info(f"⏳ Waiting {delay1:.2f}s for user emulation...")
         time.sleep(delay1)
         for cookie in cookies:
@@ -70,6 +106,8 @@ def download_content(url, index):
                 driver.add_cookie(cookie)
             except Exception as e:
                 logging.warning(f"Could not add cookie: {e}")
+        
+        # handle_captcha_auto(driver)
         driver.refresh()
 
         full_url = f"{url}" if url.startswith("http") else f"{base_url}{url}"
@@ -91,7 +129,7 @@ def download_content(url, index):
                 EC.presence_of_element_located((By.CSS_SELECTOR, "div#tab1.contentDoc, div.col-md-12.py-4"))
             )
         except Exception:
-            screenshot_path = f"{download_dir}/error_file_{index + 1298 + 1}.png"
+            screenshot_path = f"{download_dir}/error_file_{index + 1 + random.uniform(1, 1000)}.png"
             driver.save_screenshot(screenshot_path)
             logging.error(f"❌ Main content not found at {full_url} - saved image error {screenshot_path}")
             return False
@@ -110,7 +148,7 @@ def download_content(url, index):
 
         doc_id_with_ext = url.rstrip("/").split("/")[-1]
         doc_id, _ = os.path.splitext(doc_id_with_ext)
-        file_path = os.path.join(download_dir, f"{index + 1298 + 1}_{doc_id}.txt")
+        file_path = os.path.join(download_dir, f"new_{doc_id}.txt")
         with open(file_path, "w", encoding="utf-8") as file:
             file.write(text)
 
@@ -126,8 +164,9 @@ def download_content(url, index):
         if driver is not None:
             driver.quit()
 
+
 def main():
-    with open('./link_downloads/file_link_download_baocao_full.txt', 'r', encoding='utf-8') as file:
+    with open('./link_downloads/bomayhanhchinh.txt', 'r', encoding='utf-8') as file:
         download_urls = [
             line.strip()
             for line in file
@@ -136,9 +175,9 @@ def main():
 
     logging.info(f"Total {len(download_urls)} links found in {field}.txt")
 
-    max_workers = 2
+    max_workers = 1
     start_index = 0
-    batch_size = 2
+    batch_size = 1
 
     for batch_start in range(start_index, len(download_urls), batch_size):
         batch_urls = download_urls[batch_start:batch_start + batch_size]
@@ -156,7 +195,7 @@ def main():
                 except Exception as e:
                     logging.error(f"Failed to process {url}: {e}")
 
-        delay = random.uniform(3, 8)
+        delay = random.uniform(3, 5)
         logging.info(f"⏳ {delay:.2f}s between batches...")
         time.sleep(delay)
 

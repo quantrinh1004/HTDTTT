@@ -1,0 +1,509 @@
+2025-07-14 10:30:56,896 - INFO - ➡️ page error before: 154
+2025-07-14 10:30:56,897 - INFO - ➡️ Đang truy cập: https://thuvienphapluat.vn/page/searchlegal.aspx?keyword=&area=0&match=True&type=0&status=1&signer=0&sort=1&lan=1&scan=0&org=0&fields=15&chlbg=09/07/1945&chlend=09/07/2035&page=154
+2025-07-14 10:30:57,436 - INFO - ⏳ Chờ 5.22s giả lập người dùng...
+2025-07-14 10:31:04,423 - INFO - 🤖 CAPTCHA OCR: 815811
+2025-07-14 10:31:07,573 - INFO - 🧭 Tiêu đề trang: Tra cứu Văn Bản Pháp Luật
+2025-07-14 10:31:07,594 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Quyet-dinh-939-QD-UBND-2025-thu-tuc-hanh-chinh-Tai-chinh-doanh-nghiep-So-Tai-chinh-Lang-Son-659986.aspx
+2025-07-14 10:31:07,598 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-41-2025-QD-UBND-chuc-nang-nhiem-vu-quyen-han-So-Cong-Thuong-Hue-655402.aspx
+2025-07-14 10:31:07,602 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-1261-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Viec-lam-So-Noi-vu-Quang-Binh-655842.aspx
+2025-07-14 10:31:07,606 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-695-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-sua-doi-co-quan-So-Nong-nghiep-Bac-Ninh-655642.aspx
+2025-07-14 10:31:07,610 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-690-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-dia-chat-khoang-san-So-Nong-nghiep-Bac-Ninh-655640.aspx
+2025-07-14 10:31:07,614 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-757-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-giam-ngheo-Uy-ban-xa-Ca-Mau-661156.aspx
+2025-07-14 10:31:07,618 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1274-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Phat-trien-nong-thon-nganh-Nong-nghiep-Dong-Nai-661863.aspx
+2025-07-14 10:31:07,622 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Dau-tu/Quyet-dinh-758-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-dau-thau-Uy-ban-tinh-Ca-Mau-661189.aspx
+2025-07-14 10:31:07,628 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-512-QD-UBND-2025-Quy-trinh-thu-tuc-hanh-chinh-tin-nguong-ton-giao-So-Dan-toc-Cao-Bang-662282.aspx
+2025-07-14 10:31:07,631 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-511-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-quan-ly-cong-san-So-Tai-chinh-Cao-Bang-662279.aspx
+2025-07-14 10:31:07,635 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-538-QD-UBND-2025-Quy-trinh-thu-tuc-hanh-chinh-tin-nguong-ton-giao-So-Dan-toc-Ninh-Thuan-657521.aspx
+2025-07-14 10:31:07,639 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1000-QD-BNNMT-2025-cong-bo-chuan-hoa-thu-tuc-hanh-chinh-linh-vuc-trong-trot-653955.aspx
+2025-07-14 10:31:07,643 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1138-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Thuy-san-So-Nong-nghiep-Hue-658593.aspx
+2025-07-14 10:31:07,647 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1118-QD-UBND-2025-ap-dung-dinh-muc-ky-thuat-tra-ket-qua-thu-tuc-hanh-chinh-Hue-658592.aspx
+2025-07-14 10:31:07,651 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-381-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-quan-ly-cong-san-So-Tai-chinh-Gia-Lai-658110.aspx
+2025-07-14 10:31:07,655 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-858-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Chinh-quyen-dia-phuong-So-Noi-vu-Yen-Bai-654167.aspx
+2025-07-14 10:31:07,660 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-698-QD-UBND-2025-Quy-trinh-thu-tuc-hanh-chinh-Quan-ly-lao-dong-So-Noi-vu-Lai-Chau-654627.aspx
+2025-07-14 10:31:07,664 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-697-QD-UBND-2025-Quy-trinh-thu-tuc-hanh-chinh-An-toan-ve-sinh-lao-dong-So-Noi-vu-Lai-Chau-654628.aspx
+2025-07-14 10:31:07,668 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-455-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-So-Y-te-So-Noi-vu-Ninh-Binh-654174.aspx
+2025-07-14 10:31:07,671 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Thuong-mai/Quyet-dinh-640-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-luu-thong-hang-hoa-So-Cong-Thuong-Phu-Yen-664600.aspx
+2025-07-14 10:31:07,671 - INFO - ➡️ page error before: 156
+2025-07-14 10:31:07,672 - INFO - ➡️ Đang truy cập: https://thuvienphapluat.vn/page/searchlegal.aspx?keyword=&area=0&match=True&type=0&status=1&signer=0&sort=1&lan=1&scan=0&org=0&fields=15&chlbg=09/07/1945&chlend=09/07/2035&page=156
+2025-07-14 10:31:08,086 - INFO - ⏳ Chờ 5.60s giả lập người dùng...
+2025-07-14 10:31:13,887 - INFO - 🤖 CAPTCHA OCR: 138461
+2025-07-14 10:31:17,016 - INFO - 🧭 Tiêu đề trang: Tra cứu Văn Bản Pháp Luật
+2025-07-14 10:31:17,033 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-904-QD-UBND-2025-Danh-muc-dich-vu-cong-truc-tuyen-mot-phan-So-Ngoai-vu-Son-La-653843.aspx
+2025-07-14 10:31:17,036 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-912-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Quan-ly-cong-san-Uy-ban-tinh-Dak-Lak-653668.aspx
+2025-07-14 10:31:17,040 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-913-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Tre-em-So-Y-te-Dak-Lak-653844.aspx
+2025-07-14 10:31:17,044 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-1050-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-viec-lam-So-Noi-vu-Khanh-Hoa-654264.aspx
+2025-07-14 10:31:17,048 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-1070-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Viec-lam-So-Noi-vu-Vung-Tau-653748.aspx
+2025-07-14 10:31:17,052 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1063-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-khi-tuong-thuy-van-So-Nong-nghiep-Nam-Dinh-653667.aspx
+2025-07-14 10:31:17,056 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-1051-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-quan-ly-lao-dong-So-Noi-vu-Khanh-Hoa-654265.aspx
+2025-07-14 10:31:17,059 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-607-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-bao-ton-thien-nhien-So-Nong-nghiep-Quang-Ngai-653738.aspx
+2025-07-14 10:31:17,063 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-606-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-du-lieu-tai-nguyen-So-Nong-nghiep-Quang-Ngai-653737.aspx
+2025-07-14 10:31:17,067 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-860-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Moi-truong-nganh-Nong-nghiep-Binh-Phuoc-654617.aspx
+2025-07-14 10:31:17,071 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-840-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-thiet-bi-y-te-So-Y-te-Yen-Bai-654173.aspx
+2025-07-14 10:31:17,075 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Ke-toan-Kiem-toan/Quyet-dinh-634-QD-KTNN-2025-nhiem-vu-quyen-han-phong-Kiem-toan-Nha-nuoc-chuyen-nganh-V-654263.aspx
+2025-07-14 10:31:17,079 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-993-QD-UBND-2025-Danh-muc-thu-tuc-hanh-chinh-So-Nong-nghiep-Moi-truong-Can-Tho-653779.aspx
+2025-07-14 10:31:17,082 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-992-QD-UBND-2025-cong-bo-Danh-muc-thu-tuc-hanh-chinh-So-Nong-nghiep-Can-Tho-653769.aspx
+2025-07-14 10:31:17,085 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1217-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Quan-ly-cong-san-So-Tai-chinh-Ben-Tre-653736.aspx
+2025-07-14 10:31:17,089 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1370-QD-UBND-2025-quy-trinh-giai-quyet-thu-tuc-hanh-chinh-Tre-em-So-Y-te-Binh-Dinh-654618.aspx
+2025-07-14 10:31:17,093 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1420-QD-BTC-2025-Ke-hoach-pho-bien-giao-duc-phap-luat-653764.aspx
+2025-07-14 10:31:17,097 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bat-dong-san/Quyet-dinh-608-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-dat-dai-So-Nong-nghiep-Quang-Ngai-653739.aspx
+2025-07-14 10:31:17,100 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-28-2025-QD-UBND-bai-bo-Quyet-dinh-08-2024-QD-UBND-Bac-Ninh-653977.aspx
+2025-07-14 10:31:17,104 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-19-2025-QD-UBND-bai-bo-Quyet-dinh-56-2008-QD-UBND-Can-Tho-653698.aspx
+2025-07-14 10:31:17,104 - INFO - ➡️ page error before: 162
+2025-07-14 10:31:17,104 - INFO - ➡️ Đang truy cập: https://thuvienphapluat.vn/page/searchlegal.aspx?keyword=&area=0&match=True&type=0&status=1&signer=0&sort=1&lan=1&scan=0&org=0&fields=15&chlbg=09/07/1945&chlend=09/07/2035&page=162
+2025-07-14 10:31:17,521 - INFO - ⏳ Chờ 4.11s giả lập người dùng...
+2025-07-14 10:31:21,842 - INFO - 🤖 CAPTCHA OCR: 378811
+2025-07-14 10:31:24,952 - INFO - 🧭 Tiêu đề trang: Tra cứu Văn Bản Pháp Luật
+2025-07-14 10:31:24,968 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Thuong-mai/Quyet-dinh-713-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-luu-thong-hang-hoa-So-Cong-Thuong-Ha-Nam-652432.aspx
+2025-07-14 10:31:24,971 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-712-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Thiet-bi-y-te-So-Y-te-Vinh-Long-655564.aspx
+2025-07-14 10:31:24,975 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-701-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Khen-thuong-So-Noi-vu-Vinh-Long-655563.aspx
+2025-07-14 10:31:24,979 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-700-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Quan-ly-cong-san-So-Tai-chinh-Vinh-Long-655562.aspx
+2025-07-14 10:31:24,982 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-711-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Tin-nguong-Ton-giao-So-Dan-toc-Bac-Lieu-658344.aspx
+2025-07-14 10:31:24,986 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1030-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-To-chuc-Uy-ban-tinh-Khanh-Hoa-655667.aspx
+2025-07-14 10:31:24,990 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-681-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Phat-trien-nong-thon-So-Nong-nghiep-Bac-Ninh-655647.aspx
+2025-07-14 10:31:24,994 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-735-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-thuy-loi-So-Nong-nghiep-Ca-Mau-661153.aspx
+2025-07-14 10:31:24,997 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-734-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-dia-chat-khoang-san-Uy-ban-tinh-Ca-Mau-660984.aspx
+2025-07-14 10:31:25,001 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Thuong-mai/Quyet-dinh-1202-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-luu-thong-hang-hoa-So-Cong-Thuong-Dong-Nai-662003.aspx
+2025-07-14 10:31:25,005 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1201-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-giao-duc-nganh-Giao-duc-Dong-Nai-660711.aspx
+2025-07-14 10:31:25,008 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-25-2025-QD-UBND-bai-bo-van-ban-quy-pham-phap-luat-Ben-Tre-656857.aspx
+2025-07-14 10:31:25,012 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1203-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-nganh-Noi-vu-Dong-Nai-661691.aspx
+2025-07-14 10:31:25,016 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-733-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-thuy-san-Uy-ban-tinh-Ca-Mau-661188.aspx
+2025-07-14 10:31:25,020 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-489-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-khi-tuong-thuy-van-So-Nong-nghiep-Cao-Bang-662269.aspx
+2025-07-14 10:31:25,023 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1029-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-tai-nguyen-nuoc-So-Nong-nghiep-Khanh-Hoa-657288.aspx
+2025-07-14 10:31:25,027 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1534-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Bien-va-Hai-dao-So-Nong-nghiep-Ho-Chi-Minh-661479.aspx
+2025-07-14 10:31:25,031 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-1533-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Nguoi-co-cong-So-Noi-vu-Ho-Chi-Minh-661476.aspx
+2025-07-14 10:31:25,035 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1521-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-noi-bo-So-Giao-thong-cong-chanh-Ho-Chi-Minh-661480.aspx
+2025-07-14 10:31:25,038 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-491-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-chinh-quyen-dia-phuong-So-Noi-vu-Cao-Bang-662272.aspx
+2025-07-14 10:31:25,038 - INFO - ➡️ page error before: 165
+2025-07-14 10:31:25,039 - INFO - ➡️ Đang truy cập: https://thuvienphapluat.vn/page/searchlegal.aspx?keyword=&area=0&match=True&type=0&status=1&signer=0&sort=1&lan=1&scan=0&org=0&fields=15&chlbg=09/07/1945&chlend=09/07/2035&page=165
+2025-07-14 10:31:25,727 - INFO - ⏳ Chờ 6.26s giả lập người dùng...
+2025-07-14 10:31:32,180 - INFO - 🤖 CAPTCHA OCR: 211265
+2025-07-14 10:31:35,689 - INFO - 🧭 Tiêu đề trang: Tra cứu Văn Bản Pháp Luật
+2025-07-14 10:31:35,705 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1508-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Giao-duc-So-Giao-duc-Ho-Chi-Minh-652440.aspx
+2025-07-14 10:31:35,708 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1507-QD-UBND-2025-thu-tuc-hanh-chinh-Bao-ton-thien-nhien-So-Tai-nguyen-Ho-Chi-Minh-652444.aspx
+2025-07-14 10:31:35,712 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1506-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-du-lieu-tai-nguyen-So-Tai-nguyen-Ho-Chi-Minh-652443.aspx
+2025-07-14 10:31:35,716 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Thuong-mai/Quyet-dinh-1505-QD-UBND-2025-thu-tuc-hanh-chinh-Luu-thong-hang-hoa-So-Cong-Thuong-Ho-Chi-Minh-652442.aspx
+2025-07-14 10:31:35,720 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Thuong-mai/Quyet-dinh-1327-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Luu-thong-hang-hoa-So-Cong-Thuong-Binh-Dinh-652438.aspx
+2025-07-14 10:31:35,723 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Thuong-mai/Quyet-dinh-1154-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Luu-thong-hang-hoa-So-Cong-Thuong-Thai-Nguyen-652359.aspx
+2025-07-14 10:31:35,727 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1040-QD-UBND-2025-thu-tuc-hanh-chinh-Hoat-dong-xay-dung-quan-ly-cong-nghiep-Vung-Tau-657775.aspx
+2025-07-14 10:31:35,731 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1043-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Bao-tro-xa-hoi-Uy-ban-xa-Vung-Tau-652436.aspx
+2025-07-14 10:31:35,734 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-873-QD-UBND-2025-thu-tuc-hanh-chinh-Khi-tuong-thuy-van-So-Nong-nghiep-Son-La-652279.aspx
+2025-07-14 10:31:35,738 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-839-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Tai-nguyen-nuoc-nganh-Nong-nghiep-Binh-Phuoc-652203.aspx
+2025-07-14 10:31:35,742 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Thuong-mai/Quyet-dinh-829-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Luu-thong-hang-hoa-So-Cong-Thuong-Hoa-Binh-652190.aspx
+2025-07-14 10:31:35,745 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-736-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Bao-ton-thien-nhien-So-Nong-nghiep-Bac-Kan-652189.aspx
+2025-07-14 10:31:35,749 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-715-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-tin-nguong-ton-giao-nganh-Dan-toc-Binh-Thuan-652192.aspx
+2025-07-14 10:31:35,753 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Thuong-mai/Quyet-dinh-678-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-luu-thong-hang-hoa-So-Cong-Thuong-Lai-Chau-652435.aspx
+2025-07-14 10:31:35,757 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-592-QD-UBND-2025-dinh-chinh-van-ban-quy-pham-phap-luat-Quang-Ngai-652352.aspx
+2025-07-14 10:31:35,761 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-886-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Quan-ly-cong-san-So-Tai-chinh-Hung-Yen-657384.aspx
+2025-07-14 10:31:35,766 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-884-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-ve-sinh-lao-dong-So-Noi-vu-Hung-Yen-657383.aspx
+2025-07-14 10:31:35,770 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-882-QD-UBND-2025-dieu-chinh-quy-trinh-thu-tuc-hanh-chinh-So-Xay-dung-Hung-Yen-657378.aspx
+2025-07-14 10:31:35,774 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-888-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-du-lieu-tai-nguyen-So-Nong-nghiep-Hung-Yen-657389.aspx
+2025-07-14 10:31:35,778 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-887-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Bao-tro-xa-hoi-So-Y-te-Hung-Yen-657387.aspx
+2025-07-14 10:31:35,778 - INFO - ➡️ page error before: 168
+2025-07-14 10:31:35,778 - INFO - ➡️ Đang truy cập: https://thuvienphapluat.vn/page/searchlegal.aspx?keyword=&area=0&match=True&type=0&status=1&signer=0&sort=1&lan=1&scan=0&org=0&fields=15&chlbg=09/07/1945&chlend=09/07/2035&page=168
+2025-07-14 10:31:36,282 - INFO - ⏳ Chờ 4.05s giả lập người dùng...
+2025-07-14 10:31:40,536 - INFO - 🤖 CAPTCHA OCR: 
+2025-07-14 10:31:43,648 - INFO - 🧭 Tiêu đề trang: THƯ VIỆN PHÁP LUẬT _ Tra cứu, Nắm bắt Pháp Luật Việt Nam
+2025-07-14 10:31:52,480 - ERROR - ❌ Lỗi tại trang 168: Message: 
+Stacktrace:
+#0 0x5b7b517b823a <unknown>
+#1 0x5b7b51262ab0 <unknown>
+#2 0x5b7b512b46f0 <unknown>
+#3 0x5b7b512b48e1 <unknown>
+#4 0x5b7b51302b94 <unknown>
+#5 0x5b7b512da1cd <unknown>
+#6 0x5b7b512fffee <unknown>
+#7 0x5b7b512d9f73 <unknown>
+#8 0x5b7b512a6aeb <unknown>
+#9 0x5b7b512a7751 <unknown>
+#10 0x5b7b5177cb4b <unknown>
+#11 0x5b7b51780929 <unknown>
+#12 0x5b7b51763929 <unknown>
+#13 0x5b7b517814e8 <unknown>
+#14 0x5b7b517480df <unknown>
+#15 0x5b7b517a58e8 <unknown>
+#16 0x5b7b517a5ac6 <unknown>
+#17 0x5b7b517b7556 <unknown>
+#18 0x70536ac1b609 start_thread
+
+2025-07-14 10:31:52,492 - INFO - ➡️ page error before: 169
+2025-07-14 10:31:52,492 - INFO - ➡️ Đang truy cập: https://thuvienphapluat.vn/page/searchlegal.aspx?keyword=&area=0&match=True&type=0&status=1&signer=0&sort=1&lan=1&scan=0&org=0&fields=15&chlbg=09/07/1945&chlend=09/07/2035&page=169
+2025-07-14 10:31:52,928 - INFO - ⏳ Chờ 6.00s giả lập người dùng...
+2025-07-14 10:31:59,139 - INFO - 🤖 CAPTCHA OCR: 327182
+2025-07-14 10:32:02,251 - INFO - 🧭 Tiêu đề trang: Tra cứu Văn Bản Pháp Luật
+2025-07-14 10:32:02,269 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Thuong-mai/Quyet-dinh-883-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Luu-thong-hang-hoa-So-Cong-Thuong-Dak-Lak-652250.aspx
+2025-07-14 10:32:02,273 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-882-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-quan-ly-cong-san-So-Tai-chinh-Dak-Lak-652249.aspx
+2025-07-14 10:32:02,276 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-866-QD-UBND-2025-Ke-hoach-thuc-hien-sap-xep-don-vi-hanh-chinh-cap-xa-Son-La-652220.aspx
+2025-07-14 10:32:02,280 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-859-QD-UBND-2025-thu-tuc-hanh-chinh-khai-thac-du-lieu-tai-nguyen-So-Nong-nghiep-Son-La-652211.aspx
+2025-07-14 10:32:02,284 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-830-QD-UBND-2025-chuan-hoa-quy-trinh-thu-tuc-hanh-chinh-nganh-Xay-dung-Binh-Phuoc-652205.aspx
+2025-07-14 10:32:02,288 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-654-QD-UBND-2025-thu-tuc-hanh-chinh-dieu-chinh-co-quan-So-Khoa-hoc-Bac-Ninh-652206.aspx
+2025-07-14 10:32:02,292 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-1150-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-quan-ly-lao-dong-ngoai-nuoc-So-Noi-vu-Ben-Tre-653676.aspx
+2025-07-14 10:32:02,295 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-613-QD-TTPVHCC-2025-cong-bo-thu-tuc-hanh-chinh-Ban-Quan-ly-khu-cong-nghe-cao-Ha-Noi-656339.aspx
+2025-07-14 10:32:02,299 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-681-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Bao-chi-So-Van-hoa-Vinh-Long-655561.aspx
+2025-07-14 10:32:02,303 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-764-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-viec-lam-cap-tinh-Lam-Dong-661458.aspx
+2025-07-14 10:32:02,307 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-706-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-cong-san-So-Tai-chinh-Ca-Mau-661228.aspx
+2025-07-14 10:32:02,310 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bat-dong-san/Quyet-dinh-1193-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Dat-dai-So-Nong-nghiep-Hai-Phong-656123.aspx
+2025-07-14 10:32:02,313 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-27-2025-QD-UBND-bai-bo-mot-so-Dieu-tai-cac-Quyet-dinh-linh-vuc-nong-nghiep-Tay-Ninh-655601.aspx
+2025-07-14 10:32:02,317 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Thong-tu-19-2025-TT-BCT-thoi-han-luu-tru-ho-so-tai-lieu-nganh-Cong-Thuong-653590.aspx
+2025-07-14 10:32:02,321 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-570-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-So-Nong-nghiep-Moi-truong-Quang-Ngai-652041.aspx
+2025-07-14 10:32:02,325 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-704-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-giao-duc-Truong-Cao-dang-cong-dong-Ca-Mau-660982.aspx
+2025-07-14 10:32:02,329 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-4047-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Cong-chuc-So-Noi-vu-Long-An-660691.aspx
+2025-07-14 10:32:02,332 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-4051-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-duong-bo-So-Xay-dung-Long-An-660688.aspx
+2025-07-14 10:32:02,336 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Thuong-mai/Quyet-dinh-705-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-luu-thong-hang-hoa-So-Cong-Thuong-Ca-Mau-661252.aspx
+2025-07-14 10:32:02,340 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-712-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-bien-va-hai-dao-So-Nong-nghiep-Ca-Mau-661230.aspx
+2025-07-14 10:32:02,340 - INFO - ➡️ page error before: 173
+2025-07-14 10:32:02,340 - INFO - ➡️ Đang truy cập: https://thuvienphapluat.vn/page/searchlegal.aspx?keyword=&area=0&match=True&type=0&status=1&signer=0&sort=1&lan=1&scan=0&org=0&fields=15&chlbg=09/07/1945&chlend=09/07/2035&page=173
+2025-07-14 10:32:02,726 - INFO - ⏳ Chờ 6.37s giả lập người dùng...
+2025-07-14 10:32:09,312 - INFO - 🤖 CAPTCHA OCR: 
+2025-07-14 10:32:12,416 - INFO - 🧭 Tiêu đề trang: THƯ VIỆN PHÁP LUẬT _ Tra cứu, Nắm bắt Pháp Luật Việt Nam
+2025-07-14 10:32:21,242 - ERROR - ❌ Lỗi tại trang 173: Message: 
+Stacktrace:
+#0 0x5b7b517b823a <unknown>
+#1 0x5b7b51262ab0 <unknown>
+#2 0x5b7b512b46f0 <unknown>
+#3 0x5b7b512b48e1 <unknown>
+#4 0x5b7b51302b94 <unknown>
+#5 0x5b7b512da1cd <unknown>
+#6 0x5b7b512fffee <unknown>
+#7 0x5b7b512d9f73 <unknown>
+#8 0x5b7b512a6aeb <unknown>
+#9 0x5b7b512a7751 <unknown>
+#10 0x5b7b5177cb4b <unknown>
+#11 0x5b7b51780929 <unknown>
+#12 0x5b7b51763929 <unknown>
+#13 0x5b7b517814e8 <unknown>
+#14 0x5b7b517480df <unknown>
+#15 0x5b7b517a58e8 <unknown>
+#16 0x5b7b517a5ac6 <unknown>
+#17 0x5b7b517b7556 <unknown>
+#18 0x70536ac1b609 start_thread
+
+2025-07-14 10:32:21,254 - INFO - ➡️ page error before: 174
+2025-07-14 10:32:21,254 - INFO - ➡️ Đang truy cập: https://thuvienphapluat.vn/page/searchlegal.aspx?keyword=&area=0&match=True&type=0&status=1&signer=0&sort=1&lan=1&scan=0&org=0&fields=15&chlbg=09/07/1945&chlend=09/07/2035&page=174
+2025-07-14 10:32:21,677 - INFO - ⏳ Chờ 4.81s giả lập người dùng...
+2025-07-14 10:32:26,695 - INFO - 🤖 CAPTCHA OCR: 862561
+2025-07-14 10:32:30,238 - INFO - 🧭 Tiêu đề trang: Tra cứu Văn Bản Pháp Luật
+2025-07-14 10:32:30,270 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-853-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Viec-lam-So-Noi-vu-Hung-Yen-657374.aspx
+2025-07-14 10:32:30,274 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-185-QD-BDTTG-2025-nhiem-vu-quyen-han-Truong-Du-bi-Dai-hoc-Dan-toc-Sam-Son-655343.aspx
+2025-07-14 10:32:30,278 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-182-QD-BDTTG-2025-chuc-nang-nhiem-vu-quyen-han-Truong-pho-thong-Vung-cao-Viet-Bac-655391.aspx
+2025-07-14 10:32:30,282 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-178-QD-BDTTG-2025-chuc-nang-nhiem-vu-Truong-Du-bi-Dai-hoc-Dan-toc-Trung-uong-655390.aspx
+2025-07-14 10:32:30,286 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Thuong-mai/Quyet-dinh-760-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-luu-thong-hang-hoa-So-Cong-Thuong-Lam-Dong-661277.aspx
+2025-07-14 10:32:30,289 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Chi-thi-04-CT-UBND-2025-tang-cuong-quan-ly-cong-tac-van-thu-luu-tru-trong-sap-xep-bo-may-Lam-Dong-660963.aspx
+2025-07-14 10:32:30,293 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-4015-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-y-te-du-phong-So-Y-te-Long-An-660680.aspx
+2025-07-14 10:32:30,296 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-4019-QD-UBND-2025-thu-tuc-hanh-chinh-Hoat-dong-Xay-dung-nganh-xay-dung-Long-An-660774.aspx
+2025-07-14 10:32:30,300 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-4027-QD-UBND-2025-cong-bo-Danh-muc-thu-tuc-hanh-chinh-So-Van-hoa-Long-An-660681.aspx
+2025-07-14 10:32:30,304 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1170-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Do-dac-ban-do-So-Nong-nghiep-Dong-Nai-662017.aspx
+2025-07-14 10:32:30,308 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1160-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-du-lieu-tai-nguyen-So-Nong-nghiep-Dong-Nai-662015.aspx
+2025-07-14 10:32:30,311 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1159-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Bao-ton-thien-nhien-nganh-Nong-nghiep-Dong-Nai-661949.aspx
+2025-07-14 10:32:30,315 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-843-QD-BNNMT-2025-cong-bo-thu-tuc-hanh-chinh-chuan-hoa-linh-vuc-thuy-loi-653597.aspx
+2025-07-14 10:32:30,320 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1029-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-bao-ton-thien-nhien-So-Nong-nghiep-Hue-657983.aspx
+2025-07-14 10:32:30,324 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-1028-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-nguoi-co-cong-So-Noi-vu-Hue-658037.aspx
+2025-07-14 10:32:30,327 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-587-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Chinh-quyen-dia-phuong-So-Noi-vu-Phu-Yen-664593.aspx
+2025-07-14 10:32:30,330 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-931-QD-UBND-2025-cong-bo-Danh-muc-thu-tuc-hanh-chinh-So-Xay-dung-Can-Tho-664072.aspx
+2025-07-14 10:32:30,335 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-382-QD-UBND-HC-2025-cong-bo-Danh-muc-thu-tuc-hanh-chinh-So-Van-hoa-Dong-Thap-654549.aspx
+2025-07-14 10:32:30,339 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Quyet-dinh-09-2025-QD-TTg-sua-doi-Quyet-dinh-20-2020-QD-TTg-ma-dinh-danh-dien-tu-651574.aspx
+2025-07-14 10:32:30,342 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bat-dong-san/Quyet-dinh-672-QD-UBND-2025-sua-doi-Quyet-dinh-3468-QD-UBND-Vinh-Phuc-654223.aspx
+2025-07-14 10:32:30,342 - INFO - ➡️ page error before: 175
+2025-07-14 10:32:30,342 - INFO - ➡️ Đang truy cập: https://thuvienphapluat.vn/page/searchlegal.aspx?keyword=&area=0&match=True&type=0&status=1&signer=0&sort=1&lan=1&scan=0&org=0&fields=15&chlbg=09/07/1945&chlend=09/07/2035&page=175
+2025-07-14 10:32:30,715 - INFO - ⏳ Chờ 5.92s giả lập người dùng...
+2025-07-14 10:32:36,836 - INFO - 🤖 CAPTCHA OCR: 544357
+2025-07-14 10:32:39,950 - INFO - 🧭 Tiêu đề trang: Tra cứu Văn Bản Pháp Luật
+2025-07-14 10:32:39,965 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-14-2025-QD-UBND-chuc-nang-Trung-tam-Tu-van-nha-o-sinh-vien-Hung-Yen-652340.aspx
+2025-07-14 10:32:39,969 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bat-dong-san/Quyet-dinh-11-2025-QD-UBND-chuc-nang-nhiem-vu-Trung-tam-Phat-trien-quy-dat-Vinh-Phuc-653999.aspx
+2025-07-14 10:32:39,974 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bao-hiem/Quyet-dinh-1277-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-bao-hiem-xa-hoi-So-Noi-vu-Binh-Dinh-654181.aspx
+2025-07-14 10:32:39,978 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-13-2025-QD-UBND-chuc-nang-nhiem-vu-quyen-han-So-Cong-Thuong-Hung-Yen-652341.aspx
+2025-07-14 10:32:39,982 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-812-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-tre-em-So-Y-te-Tra-Vinh-652071.aspx
+2025-07-14 10:32:39,986 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-814-QD-UBND-2025-cong-bo-sua-doi-thu-tuc-hanh-chinh-viec-lam-So-Noi-vu-Tra-Vinh-652070.aspx
+2025-07-14 10:32:39,990 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-982-QD-BGDDT-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Giao-duc-Dao-tao-651946.aspx
+2025-07-14 10:32:39,994 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1276-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-nguoi-co-cong-So-Noi-vu-Binh-Dinh-654182.aspx
+2025-07-14 10:32:39,998 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-804-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Tin-nguong-ton-giao-Phu-Tho-654180.aspx
+2025-07-14 10:32:40,002 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-213-QD-UBND-2025-thuc-hien-Chuong-trinh-cat-giam-thu-tuc-hanh-chinh-san-xuat-Ninh-Thuan-655628.aspx
+2025-07-14 10:32:40,006 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-158-QD-SVHTTDL-2025-quy-trinh-thu-tuc-hanh-chinh-van-hoa-So-Van-hoa-Khanh-Hoa-654401.aspx
+2025-07-14 10:32:40,010 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1004-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-nuoi-con-nuoi-So-Tu-phap-Vung-Tau-657780.aspx
+2025-07-14 10:32:40,014 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-428-QD-UBND-2025-Quy-trinh-thu-tuc-hanh-chinh-tin-nguong-ton-giao-So-Noi-vu-Ninh-Binh-651769.aspx
+2025-07-14 10:32:40,018 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bao-hiem/Quyet-dinh-427-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-lao-dong-tien-luong-So-Noi-vu-Ninh-Binh-651904.aspx
+2025-07-14 10:32:40,023 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-724-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-khi-tuong-thuy-van-So-Nong-nghiep-Dien-Bien-654482.aspx
+2025-07-14 10:32:40,027 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-723-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-cap-dich-vu-cong-truc-tuyen-So-Dan-toc-Dien-Bien-654417.aspx
+2025-07-14 10:32:40,031 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-657-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Lao-dong-tien-luong-So-Noi-vu-Lai-Chau-652501.aspx
+2025-07-14 10:32:40,035 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-656-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-An-toan-ve-sinh-lao-dong-So-Noi-vu-Lai-Chau-652505.aspx
+2025-07-14 10:32:40,039 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-655-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Nguoi-co-cong-So-Noi-vu-Lai-Chau-652502.aspx
+2025-07-14 10:32:40,042 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-654-QD-UBND-2025-cong-bo-Danh-muc-thu-tuc-hanh-chinh-bi-bai-bo-So-Noi-vu-Lai-Chau-653658.aspx
+2025-07-14 10:32:40,042 - INFO - ➡️ page error before: 176
+2025-07-14 10:32:40,043 - INFO - ➡️ Đang truy cập: https://thuvienphapluat.vn/page/searchlegal.aspx?keyword=&area=0&match=True&type=0&status=1&signer=0&sort=1&lan=1&scan=0&org=0&fields=15&chlbg=09/07/1945&chlend=09/07/2035&page=176
+2025-07-14 10:32:40,431 - INFO - ⏳ Chờ 4.80s giả lập người dùng...
+2025-07-14 10:32:45,434 - INFO - 🤖 CAPTCHA OCR: 774854
+2025-07-14 10:32:48,547 - INFO - 🧭 Tiêu đề trang: Tra cứu Văn Bản Pháp Luật
+2025-07-14 10:32:48,563 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-662-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Quan-ly-cong-san-So-Tai-chinh-Lai-Chau-652500.aspx
+2025-07-14 10:32:48,567 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-658-QD-UBND-2025-thu-tuc-hanh-chinh-Quan-ly-lao-dong-nuoc-ngoai-So-Noi-vu-Lai-Chau-652503.aspx
+2025-07-14 10:32:48,571 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-660-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Tong-hop-So-Nong-nghiep-Lai-Chau-652504.aspx
+2025-07-14 10:32:48,574 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-799-QD-BNNMT-2025-chuc-nang-nhiem-vu-Chi-cuc-Dia-chat-Khoang-san-mien-Trung-654140.aspx
+2025-07-14 10:32:48,578 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1275-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Tai-nguyen-nuoc-So-Nong-nghiep-Binh-Dinh-654184.aspx
+2025-07-14 10:32:48,582 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-281-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Viec-lam-nganh-Noi-vu-Kon-Tum-652362.aspx
+2025-07-14 10:32:48,586 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bat-dong-san/Quyet-dinh-35-2025-QD-UBND-Quy-che-phoi-hop-Van-phong-Dang-ky-dat-dai-voi-Uy-ban-huyen-Soc-Trang-651676.aspx
+2025-07-14 10:32:48,590 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Thuong-mai/Quyet-dinh-30-2025-QD-UBND-chuc-nang-nhiem-vu-Chi-cuc-Quan-ly-thi-truong-Tien-Giang-651675.aspx
+2025-07-14 10:32:48,594 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-26-2025-QD-UBND-chuc-nang-nhiem-vu-So-Cong-Thuong-Khanh-Hoa-652026.aspx
+2025-07-14 10:32:48,597 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-25-2025-QD-UBND-chuc-nang-nhiem-vu-Chi-cuc-Thuy-san-Chan-nuoi-va-Thu-y-Hai-Phong-652314.aspx
+2025-07-14 10:32:48,601 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-23-2025-QD-UBND-chuc-nang-nhiem-vu-Chi-cuc-Trong-trot-va-Kiem-lam-Hai-Phong-652315.aspx
+2025-07-14 10:32:48,605 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-992-QD-UBND-2025-phe-duyet-Danh-muc-vi-tri-viec-lam-So-Giao-duc-Dao-tao-Nam-Dinh-651735.aspx
+2025-07-14 10:32:48,609 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1106-QD-UBND-2025-thu-tuc-hanh-chinh-Giao-duc-Co-so-dao-tao-giao-vien-Quang-Binh-651700.aspx
+2025-07-14 10:32:48,612 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1096-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Giao-duc-dao-tao-So-Giao-duc-Thanh-Hoa-651701.aspx
+2025-07-14 10:32:48,616 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bat-dong-san/Quyet-dinh-1014-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-dat-dai-So-Nong-nghiep-Nghe-An-652058.aspx
+2025-07-14 10:32:48,620 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1013-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-tai-nguyen-nuoc-So-Nong-nghiep-Nghe-An-652051.aspx
+2025-07-14 10:32:48,624 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1036-QD-BVHTTDL-2025-thuc-hien-Nghi-quyet-66-NQ-CP-don-gian-hoa-thu-tuc-hanh-chinh-651967.aspx
+2025-07-14 10:32:48,627 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1016-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Giao-duc-Uy-ban-Nghe-An-651702.aspx
+2025-07-14 10:32:48,631 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1015-QD-UBND-2025-Quy-trinh-thu-tuc-hanh-chinh-Bao-tro-xa-hoi-So-Noi-vu-Nghe-An-651699.aspx
+2025-07-14 10:32:48,635 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-997-QD-UBND-2025-phe-duyet-Danh-muc-vi-tri-viec-lam-So-Tai-chinh-Nam-Dinh-651730.aspx
+2025-07-14 10:32:48,635 - INFO - ➡️ page error before: 178
+2025-07-14 10:32:48,635 - INFO - ➡️ Đang truy cập: https://thuvienphapluat.vn/page/searchlegal.aspx?keyword=&area=0&match=True&type=0&status=1&signer=0&sort=1&lan=1&scan=0&org=0&fields=15&chlbg=09/07/1945&chlend=09/07/2035&page=178
+2025-07-14 10:32:49,213 - INFO - ⏳ Chờ 7.82s giả lập người dùng...
+2025-07-14 10:32:57,246 - INFO - 🤖 CAPTCHA OCR: 888751
+2025-07-14 10:33:00,359 - INFO - 🧭 Tiêu đề trang: Tra cứu Văn Bản Pháp Luật
+2025-07-14 10:33:00,374 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Chi-thi-05-CT-UBND-2025-tang-cuong-quan-ly-cong-tac-van-thu-luu-tru-sap-xep-bo-may-Vinh-Long-650811.aspx
+2025-07-14 10:33:00,379 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-660-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Chinh-quyen-dia-phuong-So-Noi-vu-Vinh-Long-655782.aspx
+2025-07-14 10:33:00,383 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bat-dong-san/Quyet-dinh-657-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Dat-dai-So-Nong-nghiep-Vinh-Long-655878.aspx
+2025-07-14 10:33:00,387 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Thuong-mai/Quyet-dinh-658-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Luu-thong-hang-hoa-So-Cong-Thuong-Vinh-Long-655780.aspx
+2025-07-14 10:33:00,391 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-920-QD-UBND-2025-cong-bo-Danh-muc-thu-tuc-hanh-chinh-So-Xay-dung-Can-Tho-651704.aspx
+2025-07-14 10:33:00,394 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-652-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Tai-nguyen-nuoc-So-Nong-nghiep-Vinh-Long-655880.aspx
+2025-07-14 10:33:00,398 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-846-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Bao-ton-thien-nhien-So-Nong-nghiep-Hung-Yen-657348.aspx
+2025-07-14 10:33:00,401 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bat-dong-san/Quyet-dinh-844-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-dat-dai-So-Nong-nghiep-Hung-Yen-657350.aspx
+2025-07-14 10:33:00,405 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-964-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-bao-tro-xa-hoi-So-Y-te-Nam-Dinh-651503.aspx
+2025-07-14 10:33:00,409 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-24-2025-QD-UBND-chuc-nang-nhiem-vu-Chi-cuc-Quan-ly-tai-nguyen-nuoc-Hai-Phong-655917.aspx
+2025-07-14 10:33:00,413 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-636-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-noi-bo-So-Noi-vu-Bac-Ninh-655646.aspx
+2025-07-14 10:33:00,416 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-635-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-duoc-sua-doi-So-Noi-vu-Bac-Ninh-655645.aspx
+2025-07-14 10:33:00,420 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1254-QD-BTP-2025-Trien-khai-Ket-luan-Hoi-nghi-Tu-phap-cac-tinh-co-chung-duong-bien-gioi-Lao-655389.aspx
+2025-07-14 10:33:00,424 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-758-QD-TTg-2025-Ke-hoach-thuc-hien-sap-xep-don-vi-hanh-chinh-652178.aspx
+2025-07-14 10:33:00,428 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bat-dong-san/Quyet-dinh-1139-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Dat-dai-nganh-Nong-nghiep-Dong-Nai-661945.aspx
+2025-07-14 10:33:00,431 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-759-QD-TTg-2025-phe-duyet-De-an-sap-xep-to-chuc-lai-don-vi-hanh-chinh-cac-cap-651583.aspx
+2025-07-14 10:33:00,435 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-637-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-bao-ton-thien-nhien-So-Nong-nghiep-Bac-Ninh-658722.aspx
+2025-07-14 10:33:00,439 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bat-dong-san/Quyet-dinh-1457-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-linh-vuc-dat-dai-Uy-ban-quan-Ho-Chi-Minh-661478.aspx
+2025-07-14 10:33:00,442 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1018-QD-UBND-2025-thu-tuc-hanh-chinh-khong-phu-thuoc-vao-dia-gioi-hanh-chinh-Hue-657665.aspx
+2025-07-14 10:33:00,446 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bat-dong-san/Quyet-dinh-12-2025-QD-UBND-co-che-giam-sat-dich-vu-cong-linh-vuc-quan-ly-dat-dai-Nghe-An-657513.aspx
+2025-07-14 10:33:00,446 - INFO - ➡️ page error before: 182
+2025-07-14 10:33:00,446 - INFO - ➡️ Đang truy cập: https://thuvienphapluat.vn/page/searchlegal.aspx?keyword=&area=0&match=True&type=0&status=1&signer=0&sort=1&lan=1&scan=0&org=0&fields=15&chlbg=09/07/1945&chlend=09/07/2035&page=182
+2025-07-14 10:33:00,847 - INFO - ⏳ Chờ 6.07s giả lập người dùng...
+2025-07-14 10:33:07,124 - INFO - 🤖 CAPTCHA OCR: 844123
+2025-07-14 10:33:10,247 - INFO - 🧭 Tiêu đề trang: Tra cứu Văn Bản Pháp Luật
+2025-07-14 10:33:10,265 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Thuong-mai/Quyet-dinh-33-2025-QD-UBND-chuc-nang-nhiem-vu-Chi-cuc-Quan-ly-thi-truong-Phu-Tho-651762.aspx
+2025-07-14 10:33:10,270 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-27-2025-QD-UBND-sua-doi-Quy-dinh-phan-cap-quan-ly-linh-vuc-khoa-hoc-Dien-Bien-651759.aspx
+2025-07-14 10:33:10,274 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-21-2025-QD-UBND-sua-doi-Quy-che-lam-viec-Uy-ban-nhan-dan-Bac-Kan-651760.aspx
+2025-07-14 10:33:10,278 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-28-2025-QD-UBND-chuc-nang-nhiem-vu-Chi-cuc-Quan-ly-tai-nguyen-nuoc-va-Thuy-loi-Da-Nang-654249.aspx
+2025-07-14 10:33:10,282 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Thong-tu-26-2025-TT-BCA-giay-chung-nhan-chuyen-mon-thuyen-vien-tren-phuong-tien-thuy-655044.aspx
+2025-07-14 10:33:10,286 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-981-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Bao-tro-xa-hoi-So-Y-te-Vung-Tau-657748.aspx
+2025-07-14 10:33:10,290 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1143-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-sua-doi-linh-vuc-Tre-em-Hai-Phong-651716.aspx
+2025-07-14 10:33:10,294 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1080-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Tre-em-So-Y-te-Thanh-Hoa-651784.aspx
+2025-07-14 10:33:10,298 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-850-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-tin-nguong-Uy-ban-tinh-Dak-Lak-652246.aspx
+2025-07-14 10:33:10,302 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-837-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Tre-em-So-Y-te-Son-La-651779.aspx
+2025-07-14 10:33:10,306 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-808-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-giao-duc-nganh-Giao-duc-Binh-Phuoc-651782.aspx
+2025-07-14 10:33:10,311 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Quyet-dinh-804-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-Buu-chinh-nganh-Khoa-hoc-Binh-Phuoc-651787.aspx
+2025-07-14 10:33:10,315 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-752-QD-TTg-2025-kien-toan-thanh-vien-Ban-Chi-dao-du-an-quan-trong-quoc-gia-nganh-Giao-thong-651605.aspx
+2025-07-14 10:33:10,319 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-751-QD-TTg-2025-thanh-lap-Ban-Chi-dao-giai-quyet-van-de-kho-khan-du-an-ton-dong-651604.aspx
+2025-07-14 10:33:10,323 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-745-QD-BNNMT-2025-chuc-nang-nhiem-vu-Dai-Khi-tuong-Thuy-van-Nam-Bo-Tay-Nguyen-651601.aspx
+2025-07-14 10:33:10,327 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-741-QD-BNNMT-2025-chuc-nang-Trung-tam-Dieu-tra-khao-sat-dich-vu-khi-tuong-thuy-van-651602.aspx
+2025-07-14 10:33:10,331 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Quyet-dinh-706-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-cap-dich-vu-cong-truc-tuyen-So-Van-hoa-Dien-Bien-651789.aspx
+2025-07-14 10:33:10,335 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-703-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-truc-tuyen-So-Xay-dung-Dien-Bien-651790.aspx
+2025-07-14 10:33:10,339 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-702-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-dich-vu-cong-truc-tuyen-So-Y-te-Dien-Bien-651715.aspx
+2025-07-14 10:33:10,343 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-646-QD-UBND-2025-Quy-trinh-thu-tuc-hanh-chinh-Bao-tro-xa-hoi-So-Y-te-Lai-Chau-652218.aspx
+2025-07-14 10:33:10,343 - INFO - ➡️ page error before: 184
+2025-07-14 10:33:10,344 - INFO - ➡️ Đang truy cập: https://thuvienphapluat.vn/page/searchlegal.aspx?keyword=&area=0&match=True&type=0&status=1&signer=0&sort=1&lan=1&scan=0&org=0&fields=15&chlbg=09/07/1945&chlend=09/07/2035&page=184
+2025-07-14 10:33:10,727 - INFO - ⏳ Chờ 4.32s giả lập người dùng...
+2025-07-14 10:33:15,268 - INFO - 🤖 CAPTCHA OCR: 517848
+2025-07-14 10:33:18,379 - INFO - 🧭 Tiêu đề trang: Tra cứu Văn Bản Pháp Luật
+2025-07-14 10:33:18,395 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Xuat-nhap-khau/Quyet-dinh-1401-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Xuat-nhap-khau-Ban-Quan-ly-Khu-che-xuat-Ho-Chi-Minh-659031.aspx
+2025-07-14 10:33:18,399 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1403-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Bao-tro-xa-hoi-So-Y-te-Ho-Chi-Minh-659030.aspx
+2025-07-14 10:33:18,403 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1404-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Do-dac-Ban-do-So-Tai-nguyen-Ho-Chi-Minh-659028.aspx
+2025-07-14 10:33:18,407 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1416-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Tai-nguyen-nuoc-So-Tai-nguyen-Ho-Chi-Minh-659024.aspx
+2025-07-14 10:33:18,410 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-34-2025-QD-UBND-sua-doi-Dieu-le-to-chuc-hoat-dong-Quy-Dau-tu-phat-trien-Long-An-651551.aspx
+2025-07-14 10:33:18,414 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-272-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-bi-bai-bo-nganh-xay-dung-Kon-Tum-651399.aspx
+2025-07-14 10:33:18,418 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-22-2025-QD-UBND-chuc-nang-nhiem-vu-Chi-cuc-Trong-trot-Bao-ve-thuc-vat-Dong-Thap-651568.aspx
+2025-07-14 10:33:18,421 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-1400-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Viec-lam-So-Noi-vu-Ho-Chi-Minh-659023.aspx
+2025-07-14 10:33:18,425 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-750-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-bao-tro-xa-hoi-cap-tinh-Lam-Dong-661341.aspx
+2025-07-14 10:33:18,429 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-745-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-giao-duc-dao-tao-cap-tinh-Lam-Dong-661275.aspx
+2025-07-14 10:33:18,433 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-800-QD-UBND-2024-quy-trinh-thu-tuc-hanh-chinh-Di-san-van-hoa-nganh-Van-hoa-Binh-Phuoc-651290.aspx
+2025-07-14 10:33:18,437 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bat-dong-san/Quyet-dinh-659-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-dat-dai-So-Nong-nghiep-Binh-Thuan-651305.aspx
+2025-07-14 10:33:18,441 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-658-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-do-dac-So-Nong-nghiep-Binh-Thuan-651301.aspx
+2025-07-14 10:33:18,445 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-529-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Tre-em-So-Y-te-An-Giang-656344.aspx
+2025-07-14 10:33:18,449 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1081-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-tin-nguong-So-Dan-toc-Thanh-Hoa-651394.aspx
+2025-07-14 10:33:18,452 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-687-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-quan-ly-lao-dong-ngoai-nuoc-So-Noi-vu-Ca-Mau-660985.aspx
+2025-07-14 10:33:18,456 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-686-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-nguoi-co-cong-So-Noi-vu-Ca-Mau-660990.aspx
+2025-07-14 10:33:18,459 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bao-hiem/Quyet-dinh-684-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-bao-hiem-xa-hoi-So-Tai-chinh-Ca-Mau-660980.aspx
+2025-07-14 10:33:18,463 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-434-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-hoat-dong-khoa-hoc-So-Khoa-hoc-Tuyen-Quang-651294.aspx
+2025-07-14 10:33:18,467 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1406-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-moi-truong-Ban-Cong-nghe-cao-Ho-Chi-Minh-660942.aspx
+2025-07-14 10:33:18,467 - INFO - ➡️ page error before: 185
+2025-07-14 10:33:18,467 - INFO - ➡️ Đang truy cập: https://thuvienphapluat.vn/page/searchlegal.aspx?keyword=&area=0&match=True&type=0&status=1&signer=0&sort=1&lan=1&scan=0&org=0&fields=15&chlbg=09/07/1945&chlend=09/07/2035&page=185
+2025-07-14 10:33:18,872 - INFO - ⏳ Chờ 6.59s giả lập người dùng...
+2025-07-14 10:33:25,657 - INFO - 🤖 CAPTCHA OCR: 
+2025-07-14 10:33:28,764 - INFO - 🧭 Tiêu đề trang: THƯ VIỆN PHÁP LUẬT _ Tra cứu, Nắm bắt Pháp Luật Việt Nam
+2025-07-14 10:33:37,604 - ERROR - ❌ Lỗi tại trang 185: Message: 
+Stacktrace:
+#0 0x5b7b517b823a <unknown>
+#1 0x5b7b51262ab0 <unknown>
+#2 0x5b7b512b46f0 <unknown>
+#3 0x5b7b512b48e1 <unknown>
+#4 0x5b7b51302b94 <unknown>
+#5 0x5b7b512da1cd <unknown>
+#6 0x5b7b512fffee <unknown>
+#7 0x5b7b512d9f73 <unknown>
+#8 0x5b7b512a6aeb <unknown>
+#9 0x5b7b512a7751 <unknown>
+#10 0x5b7b5177cb4b <unknown>
+#11 0x5b7b51780929 <unknown>
+#12 0x5b7b51763929 <unknown>
+#13 0x5b7b517814e8 <unknown>
+#14 0x5b7b517480df <unknown>
+#15 0x5b7b517a58e8 <unknown>
+#16 0x5b7b517a5ac6 <unknown>
+#17 0x5b7b517b7556 <unknown>
+#18 0x70536ac1b609 start_thread
+
+2025-07-14 10:33:37,618 - INFO - ➡️ page error before: 188
+2025-07-14 10:33:37,618 - INFO - ➡️ Đang truy cập: https://thuvienphapluat.vn/page/searchlegal.aspx?keyword=&area=0&match=True&type=0&status=1&signer=0&sort=1&lan=1&scan=0&org=0&fields=15&chlbg=09/07/1945&chlend=09/07/2035&page=188
+2025-07-14 10:33:38,194 - INFO - ⏳ Chờ 6.27s giả lập người dùng...
+2025-07-14 10:33:44,688 - INFO - 🤖 CAPTCHA OCR: 445871
+2025-07-14 10:33:47,810 - INFO - 🧭 Tiêu đề trang: THƯ VIỆN PHÁP LUẬT _ Tra cứu, Nắm bắt Pháp Luật Việt Nam
+2025-07-14 10:33:56,669 - ERROR - ❌ Lỗi tại trang 188: Message: 
+Stacktrace:
+#0 0x5b7b517b823a <unknown>
+#1 0x5b7b51262ab0 <unknown>
+#2 0x5b7b512b46f0 <unknown>
+#3 0x5b7b512b48e1 <unknown>
+#4 0x5b7b51302b94 <unknown>
+#5 0x5b7b512da1cd <unknown>
+#6 0x5b7b512fffee <unknown>
+#7 0x5b7b512d9f73 <unknown>
+#8 0x5b7b512a6aeb <unknown>
+#9 0x5b7b512a7751 <unknown>
+#10 0x5b7b5177cb4b <unknown>
+#11 0x5b7b51780929 <unknown>
+#12 0x5b7b51763929 <unknown>
+#13 0x5b7b517814e8 <unknown>
+#14 0x5b7b517480df <unknown>
+#15 0x5b7b517a58e8 <unknown>
+#16 0x5b7b517a5ac6 <unknown>
+#17 0x5b7b517b7556 <unknown>
+#18 0x70536ac1b609 start_thread
+
+2025-07-14 10:33:56,681 - INFO - ➡️ page error before: 192
+2025-07-14 10:33:56,682 - INFO - ➡️ Đang truy cập: https://thuvienphapluat.vn/page/searchlegal.aspx?keyword=&area=0&match=True&type=0&status=1&signer=0&sort=1&lan=1&scan=0&org=0&fields=15&chlbg=09/07/1945&chlend=09/07/2035&page=192
+2025-07-14 10:33:57,097 - INFO - ⏳ Chờ 4.30s giả lập người dùng...
+2025-07-14 10:34:01,597 - INFO - 🤖 CAPTCHA OCR: 725427
+2025-07-14 10:34:04,717 - INFO - 🧭 Tiêu đề trang: Tra cứu Văn Bản Pháp Luật
+2025-07-14 10:34:04,733 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-753-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Bao-tro-xa-hoi-So-Y-te-Hoa-Binh-651409.aspx
+2025-07-14 10:34:04,736 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-762-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-giao-duc-dao-tao-So-Giao-duc-Hoa-Binh-654888.aspx
+2025-07-14 10:34:04,740 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Quyet-dinh-838-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Ho-tro-doanh-nghiep-nho-So-Tai-chinh-Lang-Son-664076.aspx
+2025-07-14 10:34:04,745 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Thong-tu-24-2025-TT-BCA-sua-doi-Thong-tu-104-2021-TT-BCA-bao-ve-bi-mat-Nha-nuoc-651207.aspx
+2025-07-14 10:34:04,750 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-696-QD-BNNMT-2025-cong-bo-chuan-hoa-thu-tuc-hanh-chinh-linh-vuc-bao-ton-thien-nhien-651393.aspx
+2025-07-14 10:34:04,754 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bao-hiem/Quyet-dinh-318-QD-BNV-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-bao-hiem-xa-hoi-651588.aspx
+2025-07-14 10:34:04,757 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-323-QD-BNV-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-an-toan-ve-sinh-lao-dong-651590.aspx
+2025-07-14 10:34:04,761 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-11-2025-QD-UBND-chuc-nang-nhiem-vu-Phong-Giao-duc-Dao-tao-huyen-Can-Gio-Ho-Chi-Minh-652034.aspx
+2025-07-14 10:34:04,765 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-206-QD-UBND-2025-phe-duyet-vi-tri-viec-lamdon-vi-cong-lap-thuoc-So-Van-hoa-Kon-Tum-651805.aspx
+2025-07-14 10:34:04,768 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-616-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Bao-tro-xa-hoi-So-Y-te-Vinh-Long-656701.aspx
+2025-07-14 10:34:04,772 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-676-QD-BNNMT-2025-chuc-nang-nhiem-vu-Trung-tam-Du-bao-khi-tuong-thuy-van-quoc-gia-651628.aspx
+2025-07-14 10:34:04,776 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-675-QD-BNNMT-2025-chuc-nang-Trung-tam-Thong-tin-va-Du-lieu-khi-tuong-thuy-van-651627.aspx
+2025-07-14 10:34:04,780 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-609-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Tre-em-So-Y-te-Bac-Ninh-652224.aspx
+2025-07-14 10:34:04,784 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-608-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-tin-nguong-So-Noi-vu-Bac-Ninh-652222.aspx
+2025-07-14 10:34:04,789 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-260-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-quan-ly-cu-tru-Kon-Tum-650781.aspx
+2025-07-14 10:34:04,793 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Chi-thi-05-CT-UBND-2025-quan-ly-cong-tac-van-thu-luu-tru-trong-qua-trinh-sap-xep-bo-may-Quang-Ngai-652321.aspx
+2025-07-14 10:34:04,797 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Thuong-mai/Quyet-dinh-34-2024-QD-UBND-chuc-nang-nhiem-vu-Chi-cuc-Quan-ly-thi-truong-Quang-Ninh-651029.aspx
+2025-07-14 10:34:04,802 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-34-2025-QD-UBND-sua-doi-Quy-dinh-co-cau-to-chuc-So-Y-te-Ninh-Binh-651061.aspx
+2025-07-14 10:34:04,807 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-54-2025-QD-UBND-bai-bo-Quyet-dinh-39-2015-QD-UBND-Ho-Chi-Minh-650837.aspx
+2025-07-14 10:34:04,811 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-414-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Di-san-van-hoa-So-Van-hoa-Tuyen-Quang-650688.aspx
+2025-07-14 10:34:04,811 - INFO - ➡️ page error before: 194
+2025-07-14 10:34:04,811 - INFO - ➡️ Đang truy cập: https://thuvienphapluat.vn/page/searchlegal.aspx?keyword=&area=0&match=True&type=0&status=1&signer=0&sort=1&lan=1&scan=0&org=0&fields=15&chlbg=09/07/1945&chlend=09/07/2035&page=194
+2025-07-14 10:34:05,213 - INFO - ⏳ Chờ 5.98s giả lập người dùng...
+2025-07-14 10:34:11,393 - INFO - 🤖 CAPTCHA OCR: 481473
+2025-07-14 10:34:14,512 - INFO - 🧭 Tiêu đề trang: Tra cứu Văn Bản Pháp Luật
+2025-07-14 10:34:14,528 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-35-2025-QD-UBND-chuc-nang-nhiem-vu-Chi-cuc-Kiem-lam-So-Nong-nghiep-Hue-651402.aspx
+2025-07-14 10:34:14,532 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-30-2025-QD-UBND-bai-bo-Quyet-dinh-08-2024-QD-UBND-Kon-Tum-651401.aspx
+2025-07-14 10:34:14,536 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-22-2025-QD-UBND-bai-bo-Quyet-dinh-26-2015-QD-UBND-Khanh-Hoa-651216.aspx
+2025-07-14 10:34:14,539 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Quyet-dinh-354-QD-UBND-HC-2025-Quy-che-tiep-cong-dan-truc-tuyen-cua-Uy-ban-tinh-Dong-Thap-652428.aspx
+2025-07-14 10:34:14,543 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-918-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-giao-duc-nghe-nghiep-So-Giao-duc-Hue-654938.aspx
+2025-07-14 10:34:14,547 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-917-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-So-Van-hoa-va-The-thao-Hue-654871.aspx
+2025-07-14 10:34:14,551 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-909-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-So-Nong-nghiep-va-Moi-truong-Khanh-Hoa-651223.aspx
+2025-07-14 10:34:14,555 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-665-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-tin-nguong-So-Dan-toc-Dien-Bien-651458.aspx
+2025-07-14 10:34:14,559 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-32-2025-QD-UBND-bai-bo-Quyet-dinh-38-2015-QD-UBND-An-Giang-656337.aspx
+2025-07-14 10:34:14,562 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-322-QD-BNV-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-quan-ly-lao-dong-ngoai-nuoc-653849.aspx
+2025-07-14 10:34:14,566 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-320-QD-BNV-2025-cong-bo-thu-tuc-hanh-chinh-sua-doi-linh-vuc-nguoi-co-cong-651695.aspx
+2025-07-14 10:34:14,570 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-321-QD-BNV-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-lao-dong-tien-luong-651587.aspx
+2025-07-14 10:34:14,574 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1033-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Phat-thanh-truyen-hinh-So-Van-hoa-Quang-Binh-651357.aspx
+2025-07-14 10:34:14,577 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1037-QD-UBND-2025-quy-trinh-dich-vu-cong-Ket-cau-ha-tang-giao-thong-So-Xay-dung-Quang-Binh-651321.aspx
+2025-07-14 10:34:14,581 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1099-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Di-san-van-hoa-Hai-Phong-651143.aspx
+2025-07-14 10:34:14,586 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-319-QD-BNV-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Chinh-quyen-dia-phuong-650739.aspx
+2025-07-14 10:34:14,590 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-653-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-viec-lam-Uy-ban-tinh-Ca-Mau-660994.aspx
+2025-07-14 10:34:14,594 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bat-dong-san/Quyet-dinh-648-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-dat-dai-Uy-ban-tinh-Ca-Mau-660889.aspx
+2025-07-14 10:34:14,598 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-647-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-tre-em-So-Y-te-Ca-Mau-660888.aspx
+2025-07-14 10:34:14,602 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-438-QD-UBND-2025-Phuong-an-don-gian-hoa-thu-tuc-hanh-chinh-So-Khoa-hoc-Ninh-Thuan-654854.aspx
+2025-07-14 10:34:14,602 - INFO - ➡️ page error before: 196
+2025-07-14 10:34:14,602 - INFO - ➡️ Đang truy cập: https://thuvienphapluat.vn/page/searchlegal.aspx?keyword=&area=0&match=True&type=0&status=1&signer=0&sort=1&lan=1&scan=0&org=0&fields=15&chlbg=09/07/1945&chlend=09/07/2035&page=196
+2025-07-14 10:34:14,984 - INFO - ⏳ Chờ 4.05s giả lập người dùng...
+2025-07-14 10:34:19,235 - INFO - 🤖 CAPTCHA OCR: 168474
+2025-07-14 10:34:22,355 - INFO - 🧭 Tiêu đề trang: Tra cứu Văn Bản Pháp Luật
+2025-07-14 10:34:22,371 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1045-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-kham-chua-benh-So-Y-te-Ben-Tre-658765.aspx
+2025-07-14 10:34:22,374 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1053-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-dien-luc-So-Cong-Thuong-Ben-Tre-658767.aspx
+2025-07-14 10:34:22,378 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1046-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-dien-luc-So-Cong-Thuong-Ben-Tre-658766.aspx
+2025-07-14 10:34:22,382 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-723-QD-TTg-2025-Ke-hoach-trien-khai-thi-hanh-Luat-Di-san-van-hoa-650745.aspx
+2025-07-14 10:34:22,386 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1186-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Tre-em-So-Y-te-Binh-Dinh-651410.aspx
+2025-07-14 10:34:22,389 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-22-2025-QD-UBND-bai-bo-Quyet-dinh-23-2018-QD-UBND-Ben-Tre-653631.aspx
+2025-07-14 10:34:22,393 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-21-2025-QD-UBND-to-chuc-hoat-dong-To-Nhan-dan-tu-quan-Ben-Tre-653632.aspx
+2025-07-14 10:34:22,397 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-259-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Di-san-van-hoa-So-Van-hoa-Kon-Tum-650629.aspx
+2025-07-14 10:34:22,401 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1180-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-tin-nguong-So-Dan-toc-Binh-Dinh-651720.aspx
+2025-07-14 10:34:22,404 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-256-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Nong-nghiep-va-Moi-truong-Kon-Tum-650628.aspx
+2025-07-14 10:34:22,408 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-411-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-cac-linh-vuc-moi-So-Van-hoa-Tuyen-Quang-650650.aspx
+2025-07-14 10:34:22,412 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-501-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Khi-tuong-thuy-van-So-Nong-nghiep-Bac-Giang-650788.aspx
+2025-07-14 10:34:22,416 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-713-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Bao-tro-xa-hoi-nganh-Y-te-Ha-Tinh-650710.aspx
+2025-07-14 10:34:22,420 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-581-QD-TTPVHCC-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Trong-trot-So-Nong-nghiep-Ha-Noi-650708.aspx
+2025-07-14 10:34:22,423 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-401-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-So-Nong-nghiep-Cao-Bang-653512.aspx
+2025-07-14 10:34:22,427 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-755-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Bao-tro-xa-hoi-Phu-Tho-655491.aspx
+2025-07-14 10:34:22,431 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1158-QD-BYT-2025-cong-bo-sua-doi-thu-tuc-hanh-chinh-linh-vuc-Bao-tro-xa-hoi-650570.aspx
+2025-07-14 10:34:22,435 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Thong-tu-002-2025-TT-BNV-sua-doi-Thong-tu-01-2025-TT-BNV-che-do-thuc-hien-sap-xep-to-chuc-bo-may-650679.aspx
+2025-07-14 10:34:22,439 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-754-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Di-san-van-hoa-cap-tinh-Phu-Tho-650858.aspx
+2025-07-14 10:34:22,444 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-753-QD-UBND-2025-thu-tuc-hanh-chinh-Bao-Tro-xa-hoi-cac-cap-chinh-quyen-Phu-Tho-650859.aspx
+2025-07-14 10:34:22,444 - INFO - ➡️ page error before: 198
+2025-07-14 10:34:22,444 - INFO - ➡️ Đang truy cập: https://thuvienphapluat.vn/page/searchlegal.aspx?keyword=&area=0&match=True&type=0&status=1&signer=0&sort=1&lan=1&scan=0&org=0&fields=15&chlbg=09/07/1945&chlend=09/07/2035&page=198
+2025-07-14 10:34:23,135 - INFO - ⏳ Chờ 6.13s giả lập người dùng...
+2025-07-14 10:34:29,477 - INFO - 🤖 CAPTCHA OCR: 213618
+2025-07-14 10:34:32,595 - INFO - 🧭 Tiêu đề trang: Tra cứu Văn Bản Pháp Luật
+2025-07-14 10:34:32,610 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bat-dong-san/Quyet-dinh-300-QD-UBND-2025-Quy-trinh-thu-tuc-hanh-chinh-Kinh-doanh-bat-dong-san-So-Xay-dung-Gia-Lai-650577.aspx
+2025-07-14 10:34:32,614 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-393-QD-UBND-2025-Quy-trinh-noi-bo-giai-quyet-thu-tuc-hanh-chinh-So-Van-hoa-Ninh-Binh-650795.aspx
+2025-07-14 10:34:32,618 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-392-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Tre-em-So-Y-te-Ninh-Binh-650793.aspx
+2025-07-14 10:34:32,621 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-803-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-viec-lam-So-Noi-vu-Hung-Yen-657319.aspx
+2025-07-14 10:34:32,625 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-803-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Ly-lich-tu-phap-Cong-an-tinh-Dak-Lak-650498.aspx
+2025-07-14 10:34:32,629 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-431-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Di-san-van-hoa-So-Van-hoa-Ninh-Thuan-652167.aspx
+2025-07-14 10:34:32,633 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-701-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-tin-nguong-ton-giao-So-Dan-toc-Yen-Bai-650495.aspx
+2025-07-14 10:34:32,638 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-700-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Tre-em-So-Y-te-Yen-Bai-650496.aspx
+2025-07-14 10:34:32,643 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bat-dong-san/Quyet-dinh-1333-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-dat-dai-So-Tai-nguyen-Ho-Chi-Minh-659016.aspx
+2025-07-14 10:34:32,648 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bat-dong-san/Quyet-dinh-1323-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-linh-vuc-dat-dai-Uy-ban-phuong-Ho-Chi-Minh-659014.aspx
+2025-07-14 10:34:32,655 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-25-2025-QD-UBND-bai-bo-quyet-dinh-cua-Uy-ban-nhan-dan-Ha-Giang-650953.aspx
+2025-07-14 10:34:32,660 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-24-2025-QD-UBND-bai-bo-Quyet-dinh-36-2015-QD-UBND-Bac-Ninh-650952.aspx
+2025-07-14 10:34:32,666 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-24-2025-QD-UBND-chuc-nang-nhiem-vu-Van-phong-Uy-ban-nhan-dan-Quang-Ngai-650624.aspx
+2025-07-14 10:34:32,671 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-471-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Tin-nguong-nganh-Dan-toc-Ha-Giang-650569.aspx
+2025-07-14 10:34:32,675 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-480-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-dien-luc-So-Cong-Thuong-Dak-Nong-650652.aspx
+2025-07-14 10:34:32,679 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-479-QD-UBND-2025-thu-tuc-hanh-chinh-hoat-dong-xay-dung-Ban-Quan-ly-cong-nghiep-Dak-Nong-650787.aspx
+2025-07-14 10:34:32,683 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-596-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Tre-em-So-Y-te-Vinh-Long-655240.aspx
+2025-07-14 10:34:32,687 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-588-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Giao-duc-dao-tao-So-Giao-duc-Vinh-Long-656693.aspx
+2025-07-14 10:34:32,691 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-369-QD-SYT-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Tre-em-So-Y-te-Quang-Nam-650753.aspx
+2025-07-14 10:34:32,695 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-1002-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Giao-duc-nghe-nghiep-So-Giao-duc-Thanh-Hoa-650566.aspx
+2025-07-14 10:34:32,695 - INFO - ➡️ page error before: 199
+2025-07-14 10:34:32,695 - INFO - ➡️ Đang truy cập: https://thuvienphapluat.vn/page/searchlegal.aspx?keyword=&area=0&match=True&type=0&status=1&signer=0&sort=1&lan=1&scan=0&org=0&fields=15&chlbg=09/07/1945&chlend=09/07/2035&page=199
+2025-07-14 10:34:33,374 - INFO - ⏳ Chờ 4.18s giả lập người dùng...
+2025-07-14 10:34:37,777 - INFO - 🤖 CAPTCHA OCR: 413873
+2025-07-14 10:34:40,895 - INFO - 🧭 Tiêu đề trang: Tra cứu Văn Bản Pháp Luật
+2025-07-14 10:34:40,912 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1006-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Di-san-van-hoa-So-Van-hoa-Thanh-Hoa-650568.aspx
+2025-07-14 10:34:40,916 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bat-dong-san/Quyet-dinh-1322-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-dat-dai-Uy-ban-quan-Ho-Chi-Minh-659013.aspx
+2025-07-14 10:34:40,920 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1318-QD-UBND-2025-cong-bo-danh-muc-thu-tuc-hanh-chinh-So-Du-lich-Ho-Chi-Minh-658908.aspx
+2025-07-14 10:34:40,923 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-35-2025-QD-UBND-Bai-bo-Quyet-dinh-11-2018-QD-UBND-Hau-Giang-651107.aspx
+2025-07-14 10:34:40,927 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-41-2025-QD-UBND-sua-doi-Quy-che-quan-ly-kinh-phi-khuyen-cong-Hai-Duong-652304.aspx
+2025-07-14 10:34:40,931 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Thuong-mai/Quyet-dinh-22-2025-QD-UBND-chuc-nang-nhiem-vu-Chi-cuc-Quan-ly-thi-truong-Hai-Phong-651545.aspx
+2025-07-14 10:34:40,935 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-906-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-tin-nguong-So-Noi-vu-Hue-654873.aspx
+2025-07-14 10:34:40,939 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-897-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-tre-em-So-Y-te-Hue-654874.aspx
+2025-07-14 10:34:40,943 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-893-QD-UBND-2025-Quy-trinh-thu-tuc-hanh-chinh-Kham-chua-benh-So-Y-te-Hue-654875.aspx
+2025-07-14 10:34:40,947 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Thuong-mai/Quyet-dinh-36-2025-QD-UBND-vi-tri-chuc-nang-nhiem-vu-Chi-cuc-Quan-ly-thi-truong-Lao-Cai-656107.aspx
+2025-07-14 10:34:40,950 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-316-QD-BNV-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-To-chuc-Bien-che-651084.aspx
+2025-07-14 10:34:40,955 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-315-QD-BNV-2025-cong-bo-thu-tuc-hanh-chinh-duoc-sua-doi-linh-vuc-viec-lam-650645.aspx
+2025-07-14 10:34:40,958 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-311-QD-BNV-2025-cong-bo-thu-tuc-hanh-chinh-noi-bo-Thi-dua-khen-thuong-650644.aspx
+2025-07-14 10:34:40,962 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-615-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-khi-tuong-thuy-van-So-Nong-nghiep-Ca-Mau-660885.aspx
+2025-07-14 10:34:40,966 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bat-dong-san/Quyet-dinh-613-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-dat-dai-So-Nong-nghiep-Ca-Mau-662287.aspx
+2025-07-14 10:34:40,970 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Quyet-dinh-24-2025-QD-UBND-Quy-che-quan-ly-su-dung-co-so-du-lieu-can-bo-cong-chuc-Ha-Giang-651108.aspx
+2025-07-14 10:34:40,974 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-614-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-tai-nguyen-nuoc-So-Nong-nghiep-Ca-Mau-662289.aspx
+2025-07-14 10:34:40,978 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-826-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Vien-tro-khong-hoan-lai-So-Tai-chinh-Lang-Son-663989.aspx
+2025-07-14 10:34:40,983 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-825-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-An-toan-ve-sinh-lao-dong-So-Noi-vu-Lang-Son-663988.aspx
+2025-07-14 10:34:40,986 - INFO - ✅ Đã lấy link: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-292-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-hoi-thao-quoc-te-Uy-ban-tinh-Gia-Lai-650209.aspx
+2025-07-14 10:34:40,987 - INFO - 🎉 Hoàn tất! Tổng cộng 320 link đã lưu vào link_downloads/file_link_download_bomayhanhchinh150-200-fileerror.txt

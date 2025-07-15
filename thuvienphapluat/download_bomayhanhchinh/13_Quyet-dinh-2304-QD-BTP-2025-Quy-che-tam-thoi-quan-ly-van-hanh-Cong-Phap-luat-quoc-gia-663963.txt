@@ -1,0 +1,577 @@
+MỤC LỤC
+                                VĂN BẢN
+In mục lục
+QUYẾT ĐỊNH QUY CHẾ TẠM THỜI QUẢN LÝ, VẬN HÀNH, KHAI THÁC CỔNG PHÁP LUẬT QUỐC GIA
+Điều 1. Ban hành kèm theo Quyết định này Quy chế tạm thời quản lý, vận hành, khai thác Cổng Pháp luật quốc gia.
+Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành.
+Điều 3. Cục trưởng Cục Phổ biến, giáo dục pháp luật và Trợ giúp pháp lý, Cục trưởng Cục Công nghệ thông tin, Cục trưởng Cục Kiểm tra văn bản và Quản lý xử lý vi phạm hành chính, Cục trưởng Cục Kế hoạch - Tài chính, Tổng Biên tập Báo Pháp luật Việt Nam, Cục trưởng Cục Bổ trợ tư pháp, Vụ trưởng Vụ Công tác xây dựng văn bản quy phạm pháp luật và Thủ trưởng các đơn vị thuộc Bộ Tư pháp và các đơn vị, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
+QUY CHẾ TẠM THỜI QUẢN LÝ, VẬN HÀNH, KHAI THÁC CỔNG PHÁP LUẬT QUỐC GIA
+Chương I QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Điều 2. Đối tượng áp dụng
+Điều 3. Tên miền, chức năng của Cổng Pháp luật quốc gia
+Điều 4. Nguyên tắc quản lý, vận hành, khai thác thông tin trên Cổng Pháp luật quốc gia
+Điều 5. Các hợp phần của Cổng Pháp luật quốc gia
+Chương II QUẢN LÝ VÀ VẬN HÀNH CỔNG PHÁP LUẬT QUỐC GIA
+Mục 1. QUẢN LÝ TÀI KHOẢN VÀ ĐỊNH DANH
+Điều 6. Tài khoản quản trị
+Điều 7. Quản lý tài khoản quản trị Cổng Pháp luật quốc gia
+Điều 8. Đăng nhập tài khoản cho tổ chức, cá nhân
+Điều 9. Tích hợp, kết nối với hệ thống định danh, xác thực điện tử của Bộ Công an
+Điều 10. Quản lý các vấn đề liên quan đến tài khoản
+Mục 2. TỔ CHỨC QUẢN LÝ VÀ VẬN HÀNH
+Điều 11. Đơn vị quản lý, vận hành Cổng Pháp luật quốc gia
+Điều 12. Cơ cấu tổ chức và nhiệm vụ của Ban Điều hành Cổng Pháp luật quốc gia
+Điều 13. Chế độ nhuận bút, thù lao
+Mục 3. BẢO ĐẢM KỸ THUẬT VÀ AN TOÀN THÔNG TIN
+Điều 14. Quy trình hỗ trợ, xử lý sự cố
+Điều 15. An toàn thông tin, an ninh mạng
+Chương III KHAI THÁC VÀ CUNG CẤP THÔNG TIN TRÊN CỔNG PHÁP LUẬT QUỐC GIA
+Điều 16. Thông tin cung cấp trên Cổng Pháp luật quốc gia
+Điều 17. Trách nhiệm tiếp nhận, xử lý, phê duyệt và phản hồi thông tin
+Điều 18. Từ chối đăng tải thông tin
+Điều 19. Thời hạn biên tập, phê duyệt thông tin và trả lời câu hỏi
+Điều 20. Yêu cầu đối với thông tin đăng trên Cổng Pháp luật Quốc gia
+Điều 21. Lưu trữ, rà soát, điều chỉnh, cải chính thông tin
+Điều 22. Quyền và trách nhiệm của tổ chức, cá nhân khi khai thác thông tin trên Cổng Pháp luật Quốc gia
+Điều 23. Quản lý, cập nhật và khai thác Cơ sở dữ liệu quốc gia về pháp luật
+Điều 24. Tiếp nhận, xử lý phản ánh, kiến nghị về văn bản quy phạm pháp luật
+Điều 25. Quản lý, kiểm soát chất lượng và phát triển AI pháp luật
+Chương IV TỔ CHỨC THỰC HIỆN
+Điều 26. Trách nhiệm của Cục Phổ biến, giáo dục pháp luật và Trợ giúp pháp lý
+Điều 27. Trách nhiệm của Cục Công nghệ thông tin
+Điều 28. Cục Kiểm tra văn bản và Quản lý xử lý vi phạm hành chính
+Điều 29. Cục Bổ trợ tư pháp
+Điều 30. Vụ Công tác xây dựng văn bản quy phạm pháp luật
+Điều 31. Trách nhiệm của Báo Pháp luật Việt Nam
+Điều 32. Trách nhiệm của Cục Kế hoạch - Tài chính
+Điều 33. Khen thưởng và xử lý vi phạm
+Điều 34. Điều khoản thi hành
+BỘ TƯ PHÁP
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 2304/QĐ-BTP
+Hà Nội, ngày 04
+  tháng 07 năm 2025
+QUYẾT ĐỊNH
+QUY
+CHẾ TẠM THỜI QUẢN LÝ, VẬN HÀNH, KHAI THÁC CỔNG PHÁP LUẬT QUỐC GIA
+BỘ TRƯỞNG BỘ TƯ PHÁP
+Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6
+năm 2006;
+Căn cứ Luật Phổ biến, giáo dục pháp luật ngày 20
+tháng 6 năm 2012;
+Căn cứ Luật An toàn thông tin mạng ngày 19 tháng
+11 năm 2015;
+Căn cứ Luật An ninh mạng ngày 12 tháng 6 năm
+2018;
+Căn cứ Nghị định số 47/2020/NĐ-CP ngày 09 tháng
+4 năm 2020 của Chính phủ về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan
+Nhà nước;
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng
+4 năm 2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ
+quan nhà nước;
+Căn cứ Nghị định số 52/2015/NĐ-CP ngày 28 tháng
+5 năm 2015 về Cơ sở dữ liệu quốc gia về pháp luật;
+Căn cứ Nghị định số 39/2025/NĐ-CP ngày 26 tháng
+02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ
+chức của Bộ Tư pháp;
+Căn cứ Thông tư số 22/2023/TT-BTTTT ngày 31
+tháng 12 năm 2023 của Bộ trưởng Bộ Thông tin và Truyền thông quy định cấu trúc,
+bố cục, yêu cầu kỹ thuật cho Cổng thông tin điện tử và trang thông tin điện tử
+của cơ quan nhà nước;
+Căn cứ Quyết định số 1617/QĐ-BTP ngày 31 tháng 5
+năm 2025 của Bộ trưởng Bộ Tư pháp ban hành Kế hoạch của Bộ Tư pháp triển khai
+xây dựng, khai trương và hoàn thiện Cổng Pháp luật quốc gia;
+Theo đề nghị của Cục trưởng Cục Phổ biến, giáo dục
+pháp luật và Trợ giúp pháp lý.
+QUYẾT ĐỊNH:
+Điều 1.
+Ban hành kèm theo
+Quyết định này Quy chế tạm thời quản lý, vận hành, khai thác Cổng Pháp luật quốc
+gia.
+Điều 2.
+Quyết định này có
+hiệu lực thi hành kể từ ngày ký ban hành.
+Điều 3.
+Cục trưởng Cục Phổ
+biến, giáo dục pháp luật và Trợ giúp pháp lý, Cục trưởng Cục Công nghệ thông
+tin, Cục trưởng Cục Kiểm tra văn bản và Quản lý xử lý vi phạm hành chính, Cục
+trưởng Cục Kế hoạch - Tài chính, Tổng Biên tập Báo Pháp luật Việt Nam, Cục trưởng
+Cục Bổ trợ tư pháp, Vụ trưởng Vụ Công tác xây dựng văn bản quy phạm pháp luật
+và Thủ trưởng các đơn vị thuộc Bộ Tư pháp và các đơn vị, cá nhân có liên quan
+chịu trách nhiệm thi hành Quyết định này./.
+Nơi nhận:
+- Như Điều 3;
+- Thủ tướng Chính phủ (để báo cáo);
+- Phó Thủ tướng Chính phủ Lê Thành Long (để báo cáo);
+- Bộ trưởng (để báo cáo);
+- Các Thứ trưởng;
+- Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;
+- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
+- Cơ quan Trung ương của các tổ chức đoàn thể;
+- Tổ chức pháp chế, đơn vị tham mưu công tác PBGDPL của các bộ, ngành, đoàn thể
+  trung ương;
+- Ủy ban nhân dân tỉnh, thành phố;
+- Sở Tư pháp tỉnh, thành phố;
+- Cổng Pháp luật quốc gia, Cổng TTĐT Bộ Tư pháp (để đăng tải);
+- Lưu: VT, Cục PBGDPL&TGPL.
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+Nguyễn Thanh Ngọc
+QUY CHẾ TẠM THỜI
+QUẢN
+LÝ, VẬN HÀNH, KHAI THÁC CỔNG PHÁP LUẬT QUỐC GIA
+(Ban hành kèm theo Quyết định số 2304/QĐ-BTP ngày 04 tháng 7 năm 2025 của Bộ
+trưởng Bộ Tư pháp)
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Quy chế tạm thời này quy định về tên miền, chức
+năng, nguyên tắc, trách nhiệm, các yêu cầu, phương thức quản lý, vận hành, khai
+thác và cung cấp thông tin trên Cổng Pháp luật quốc gia.
+Điều 2. Đối tượng áp dụng
+Quy chế tạm thời này áp dụng đối với các cơ quan, tổ
+chức, cá nhân có liên quan trong việc hoạt động quản lý, vận hành Cổng Pháp luật
+quốc gia.
+Điều 3. Tên miền, chức năng của
+Cổng Pháp luật quốc gia
+1. Cổng Pháp luật quốc gia có tên miền:
+https://phapluat.gov.vn.
+2. Chức năng của Cổng Pháp luật quốc gia.
+a) Cổng Pháp luật quốc gia cung cấp thông tin pháp luật;
+dự thảo văn bản quy phạm pháp luật; định hướng lập pháp nhiệm kỳ của Quốc hội,
+Chương trình lập pháp hằng năm, tình hình xây dựng, ban hành văn bản quy định
+chi tiết luật, nghị quyết, pháp lệnh của Quốc hội, Ủy ban thường vụ Quốc hội
+trên Cổng Pháp luật quốc gia.
+b) Hỗ trợ việc lấy ý kiến đóng góp của các chuyên
+gia, nhà khoa học, ý kiến của Nhân dân đối với công tác xây dựng, ban hành và
+thực hiện chính sách, pháp luật.
+c) Giải đáp các câu hỏi của người dân, doanh nghiệp
+hoặc hỗ trợ kết nối với các chuyên gia, luật sư để tư vấn về các nội dung pháp
+luật mà người dân, doanh nghiệp quan tâm.
+đ) Thực hiện việc giải quyết phản ánh, kiến nghị của
+người dân, doanh nghiệp về văn bản quy phạm pháp luật bảo đảm nhanh chóng, kịp
+thời, chính xác và phân định rõ trách nhiệm, nội dung, thời gian giải quyết của
+các cơ quan tổ chức, cá nhân có liên quan.
+Điều 4. Nguyên tắc quản lý, vận
+hành, khai thác thông tin trên Cổng Pháp luật quốc gia
+1. Bảo đảm cung cấp thông tin pháp luật đầy đủ,
+chính xác, kịp thời; lấy người dân, doanh nghiệp làm trung tâm, đáp ứng yêu cầu
+chuyển đổi số trong công tác pháp luật.
+2. Việc quản lý, vận hành, khai thác Cổng Pháp luật
+quốc gia tuân thủ các quy định pháp luật về an toàn, an ninh thông tin, bảo vệ
+bí mật nhà nước và các quy định liên quan.
+3. Thông tin do ứng dụng trí tuệ nhân tạo (AI pháp
+luật), thông tin do các doanh nghiệp được liên kết trên Cổng Pháp luật quốc gia
+cung cấp chỉ có tính chất tham khảo.
+4. Nghiêm cấm hành vi phá hoại cơ sở hạ tầng thông
+tin, cố ý làm sai lệch, hủy hoại thông tin, phát tán thông tin sai sự thật hoặc
+thực hiện các hành vi gây ảnh hưởng tiêu cực đến quá trình quản lý, vận hành,
+khai thác Cổng Pháp luật quốc gia.
+Điều 5. Các hợp phần của Cổng
+Pháp luật quốc gia
+1. Cơ sở dữ liệu quốc gia về pháp luật.
+2. Hệ thống thông tin tiếp nhận, xử lý phản ánh, kiến
+nghị về văn bản quy phạm pháp luật.
+3. Cổng Thông tin phổ biến, giáo dục pháp luật quốc
+gia; Trang Thông tin trợ giúp pháp lý, Trang Thông tin hỗ trợ pháp lý cho doanh
+nghiệp.
+4. Mục giới thiệu văn bản quy phạm pháp luật mới
+ban hành trên Cơ sở dữ liệu văn bản quy phạm pháp luật của các doanh nghiệp được
+liên kết trên Cổng.
+5. Ứng dụng trí tuệ nhân tạo và các ứng dụng khoa học
+công nghệ tiên tiến của các tổ chức, cá nhân có liên quan.
+6. Giao diện Cổng Pháp luật quốc gia.
+7. Hệ thống quản lý định danh, xác thực điện tử của
+Cổng Pháp luật quốc gia thông qua VNeID.
+8. Hệ thống quản trị của Cổng Pháp luật quốc gia.
+9. Các hợp phần khác theo chỉ đạo của Thủ tướng
+Chính phủ và Bộ trưởng Bộ Tư pháp.
+Chương II
+QUẢN LÝ VÀ VẬN HÀNH CỔNG
+PHÁP LUẬT QUỐC GIA
+Mục 1. QUẢN LÝ TÀI KHOẢN VÀ ĐỊNH
+DANH
+Điều 6. Tài khoản quản trị
+Tổ chức, cá nhân sử dụng tài khoản được cung cấp và
+xác thực qua VNeID để thực hiện đăng nhập hệ thống quản trị Cổng Pháp luật quốc
+gia.
+Điều 7. Quản lý tài khoản quản
+trị Cổng Pháp luật quốc gia
+1. Cục Phổ biến, giáo dục pháp luật và Trợ giúp
+pháp lý chịu trách nhiệm cấp mới, giới hạn, rà soát, kiểm tra quyền quản trị Cổng
+Pháp luật quốc gia.
+2. Đơn vị, cá nhân được cấp tài khoản quản trị có
+trách nhiệm bảo mật tài khoản và sử dụng đúng mục đích, phù hợp với quy định
+pháp luật.
+Điều 8. Đăng nhập tài khoản cho
+tổ chức, cá nhân
+1. Việc đăng nhập Hệ thống thông tin tiếp nhận, xử
+lý phản ánh, kiến nghị về văn bản quy phạm pháp luật và AI Pháp luật được thực hiện
+thông qua VNeID. Việc đăng nhập chỉ thực hiện một lần.
+2. Sau khi tổ chức, cá nhân đăng nhập ứng dụng và
+xác thực thành công qua VNeID, có thể truy cập các ứng dụng khác trên Cổng Pháp
+luật quốc gia mà không phải đăng nhập lại qua VNeID.
+Điều 9. Tích hợp, kết nối với hệ
+thống định danh, xác thực điện tử của Bộ Công an
+1. Cổng Pháp luật quốc gia được kết nối với hệ thống
+định danh, xác thực điện tử của Bộ Công an.
+2. Các cơ quan, đơn vị có các cơ sở dữ liệu, hệ thống
+thông tin được liên kết, tích hợp trên Cổng Pháp luật quốc gia có kết nối với hệ
+thống định danh, xác thực điện tử của Bộ Công an phối hợp với các cơ quan, đơn
+vị liên quan bảo đảm việc vận hành thông suốt, hiệu quả; kịp thời phối hợp với
+các cơ quan liên quan khắc phục sự cố (nếu có).
+Điều 10. Quản lý các vấn đề
+liên quan đến tài khoản
+Trường hợp các thông tin định danh của tài khoản
+không chính xác hoặc có khiếu nại liên quan đến tài khoản, tổ chức, cá nhân là
+chủ thể của tài khoản thông báo cho Cổng Pháp luật quốc gia; Cổng Pháp luật quốc
+gia thông báo tới các bên có liên quan để phối hợp xử lý và thông báo kết quả xử
+lý cho chủ thể của tài khoản.
+Mục 2. TỔ CHỨC QUẢN LÝ VÀ VẬN
+HÀNH
+Điều 11. Đơn vị quản lý, vận
+hành Cổng Pháp luật quốc gia
+1. Ban Điều hành Cổng Pháp luật quốc gia (sau đây gọi
+là Ban Điều hành) do Bộ trưởng Bộ Tư pháp thành lập, là đơn vị quản lý, vận
+hành Cổng Pháp luật quốc gia theo quy định pháp luật.
+2. Ban Điều hành chịu trách nhiệm duy trì các hoạt
+động, tiếp nhận, xử lý, xác minh, biên tập, cập nhật thông tin trên Cổng Pháp
+luật quốc gia.
+Điều 12. Cơ cấu tổ chức và nhiệm
+vụ của Ban Điều hành Cổng Pháp luật quốc gia
+1. Ban Điều hành gồm: Trưởng Ban Điều hành; Phó Trưởng
+Ban Điều hành; Thành viên Ban Điều hành.
+2. Ban Điều hành thực hiện các nhiệm vụ được quy định
+tại Quy chế tạm thời này và Quy chế hoạt động của Ban Điều hành. Ban Điều hành
+chịu trách nhiệm cập nhật và chất lượng nội dung thông tin trên Cổng Pháp luật
+quốc gia.
+Điều 13. Chế độ nhuận bút, thù
+lao
+Chế độ nhuận bút, thù lao cho tác giả, chủ sở hữu
+thông tin, và các công việc liên quan đến đăng tải thông tin trên Cổng Pháp luật
+quốc gia thực hiện theo quy định pháp luật hiện hành.
+Mục 3. BẢO ĐẢM KỸ THUẬT VÀ AN
+TOÀN THÔNG TIN
+Điều 14. Quy trình hỗ trợ, xử
+lý sự cố
+1. Các yêu cầu hỗ trợ, xử lý sự cố gửi về Ban Điều
+hành Cổng Pháp luật quốc gia và được xử lý trong tối đa 8 giờ làm việc kể từ
+khi nhận được yêu cầu, đề nghị hỗ trợ, xử lý sự cố. Đối với các đề nghị hỗ trợ,
+yêu cầu khắc phục sự cố phức tạp, thông tin về thời gian hoàn thành hỗ trợ, khắc
+phục sự cố phải được gửi bằng văn bản về Ban Điều hành Cổng Pháp luật quốc gia.
+2. Trường hợp bảo trì, nâng cấp hệ thống theo kế hoạch,
+Ban Điều hành Cổng Pháp luật quốc gia thông báo cho các bên liên quan trong thời
+gian 02 ngày làm việc.
+Điều 15. An toàn thông tin, an
+ninh mạng
+1. Đơn vị cung cấp dịch vụ an toàn thông tin, an
+ninh mạng chịu trách nhiệm về việc bảo đảm vận hành Cổng Pháp luật quốc gia bảo
+mật, an toàn, thông suốt; kịp thời trao đổi thông tin, phối hợp với Cục Công
+nghệ thông tin, Cục Phổ biến, giáo dục pháp luật và Trợ giúp pháp lý và các tổ
+chức, cá nhân có liên quan trong trường hợp Cổng Pháp luật quốc gia gặp sự cố xảy
+ra gây mất an toàn thông tin, an ninh mạng.
+2. Cục Công nghệ thông tin thường xuyên giám sát, bảo
+đảm an toàn thông tin, an ninh mạng các hệ thống thông tin, cơ sở dữ liệu kết nối
+với Cổng Pháp luật quốc gia; phối hợp với các cơ quan, đơn vị liên quan xử lý,
+khắc phục các vấn đề về an toàn thông tin, an ninh mạng các hệ thống thông tin,
+cơ sở thông tin nói trên.
+3. Đơn vị cung cấp dịch vụ chịu trách nhiệm triển
+khai các giải pháp an toàn thông tin, an ninh mạng đối với các dữ liệu lưu chuyển,
+chia sẻ và lưu trữ trong Cổng Pháp luật quốc gia.
+4. Đơn vị cung cấp dịch vụ có trách nhiệm áp dụng
+các biện pháp kỹ thuật, nghiệp vụ cần thiết để bảo đảm an toàn thông tin, an
+ninh mạng cho Cổng Pháp luật quốc gia, bao gồm:
+a) Bảo vệ hệ thống, dữ liệu khỏi các cuộc tấn công
+mạng, virus, mã độc.
+b) Phòng ngừa, phát hiện và ngăn chặn kịp thời các
+hành vi truy cập trái phép, sửa đổi, xóa, phát tán thông tin trái pháp luật.
+c) Bảo đảm tính toàn vẹn, khả dụng và bảo mật của dữ
+liệu.
+5. Thực hiện sao lưu, phục hồi dữ liệu định kỳ và
+theo quy định về an toàn thông tin, an ninh mạng.
+6. Phối hợp với các cơ quan chức năng về an ninh mạng
+để kịp thời xử lý các vấn đề phát sinh liên quan đến an toàn thông tin, an ninh
+mạng.
+7. Thực hiện các biện pháp cần thiết khác để bảo đảm
+an toàn thông tin, an ninh mạng.
+Chương III
+KHAI THÁC VÀ CUNG CẤP
+THÔNG TIN TRÊN CỔNG PHÁP LUẬT QUỐC GIA
+Điều 16. Thông tin cung cấp
+trên Cổng Pháp luật quốc gia
+1. Thông cung cấp trên Cổng Pháp luật quốc gia bảo
+đảm đầy đủ, chính xác, kịp thời; lấy người dân, doanh nghiệp làm trung tâm, đáp
+ứng yêu cầu chuyển đổi số trong công tác pháp luật.
+2. Thông tin cung cấp trên Cổng Pháp luật quốc gia
+bao gồm:
+a) Thông tin về văn bản quy phạm pháp luật;
+b) Thông tin về dự thảo văn bản quy phạm pháp luật;
+c) Thông tin về hoạt động của Ban Chỉ đạo Trung
+ương về hoàn thiện thể chế, pháp luật và tin tức nổi bật về pháp luật;
+d) Hệ thống thông tin của các cổng, trang thông tin
+điện tử được tích hợp, liên kết cơ sở dữ liệu trên Cổng Pháp luật quốc gia;
+đ) Câu hỏi, bài giảng, tài liệu điện tử, biểu mẫu
+pháp lý và các tài liệu phổ biến, giáo dục pháp luật và hỗ trợ pháp lý khác phục
+vụ người dân, cơ quan, tổ chức, doanh nghiệp;
+e) Các thông tin khác được cung cấp theo chỉ đạo của
+Bộ trưởng Bộ Tư pháp.
+3. Bộ trưởng Bộ Tư pháp chỉ đạo việc điều chỉnh
+chuyên mục và thông tin cung cấp trên Cổng Pháp luật quốc gia.
+Điều 17. Trách nhiệm tiếp nhận,
+xử lý, phê duyệt và phản hồi thông tin
+1. Ban Điều hành tiếp nhận, xử lý, phê duyệt thông
+tin, dữ liệu mới.
+2. Ban Điều hành rà soát, thu thập thông tin từ
+trang thành phần phù hợp qua hệ thống liên thông và đăng tải nguyên văn, tuân
+thủ quy định về xuất bản, báo chí.
+Điều 18. Từ chối đăng tải
+thông tin
+Ban Điều hành từ chối đăng tải các thông tin:
+1. Thông tin có nội dung không phù hợp với chủ
+trương, đường lối, chính sách của Đảng, pháp luật của Nhà nước.
+2. Thông tin có nội dung thuộc bí mật nhà nước; thông
+tin đã được cấp có thẩm quyền quyết định chưa phổ biến công khai hoặc chỉ phổ
+biến trong phạm vi hẹp.
+3. Thông tin không đúng sự thật.
+4. Thông tin không bảo đảm chất lượng.
+5. Các thông tin khác theo quy định của pháp luật
+không được phép đăng tải.
+Điều 19. Thời hạn biên tập,
+phê duyệt thông tin và trả lời câu hỏi
+1. Thông tin về dự thảo văn bản quy phạm pháp luật
+được cập nhật theo tiến trình xây dựng, ban hành văn bản quy phạm pháp luật.
+2. Thông tin về hoạt động của Ban Chỉ đạo Trung
+ương về hoàn thiện thể chế, pháp luật và tin tức nổi bật về pháp luật trong
+vòng không quá 01 ngày kể từ khi hoạt động diễn ra.
+3. Thông tin của các trang thành phần: được đăng tải
+theo quy định của pháp luật và Quy chế hoạt động của trang thành phần.
+4. Các loại thông tin khác được đăng tải phù hợp với
+điều kiện và hoàn cảnh thực tế và quy định của pháp luật.
+Điều 20. Yêu cầu đối với thông
+tin đăng trên Cổng Pháp luật Quốc gia
+1. Phù hợp với quan điểm, chủ trương, đường lối của
+Đảng, chính sách pháp luật của Nhà nước; phục vụ kịp thời nhu cầu tra cứu,
+nghiên cứu pháp luật; bám sát chỉ đạo của Chính phủ, Thủ tướng Chính phủ và yêu
+cầu quản lý nhà nước về pháp luật.
+2. Bảo đảm chính xác, đầy đủ, thống nhất, rõ ràng,
+kịp thời, được sắp xếp khoa học và dễ tiếp cận.
+3. Tuân thủ các quy định pháp luật về bảo vệ bí mật
+nhà nước, sở hữu trí tuệ và quản lý thông tin trên mạng.
+Điều 21. Lưu trữ, rà soát, điều
+chỉnh, cải chính thông tin
+1. Thông tin đăng tải trên Cổng Pháp luật quốc gia
+được lưu trữ theo quy định pháp luật về lưu trữ.
+2. Thành viên Ban Điều hành thường xuyên kiểm tra,
+rà soát các thông tin được đăng tải thuộc các lĩnh vực được phân công phụ trách
+theo định kỳ để bảo đảm tính cập nhật, chính xác và phù hợp.
+3. Việc điều chỉnh, cải chính thông tin đã được
+đăng tải trên Cổng Pháp luật quốc gia được thực hiện khi có chỉ đạo của cấp có
+thẩm quyền hoặc theo quyết định của Trưởng Ban Điều hành.
+4. Trong trường hợp thông tin đã đăng tải, nhưng có
+phản ánh về thông tin được đăng tải sai sự thật, không chính xác hoặc có sự
+tranh chấp về quyền tác giả, Ban Điều hành quyết định việc gỡ bỏ tạm thời thông
+tin đã đăng tải để xác minh và báo cáo Trưởng Ban Điều hành quyết định gỡ bỏ
+vĩnh viễn đối với thông tin vi phạm quy định của pháp luật.
+5. Trong trường hợp cần thiết, Trưởng Ban Điều hành
+đề nghị các đơn vị thuộc Bộ phối hợp rà soát thông tin trên Cổng Pháp luật quốc
+gia để bảo đảm tính chính xác và chất lượng của thông tin.
+Điều 22. Quyền và trách nhiệm
+của tổ chức, cá nhân khi khai thác thông tin trên Cổng Pháp luật Quốc gia
+1. Tổ chức, cá nhân có nhu cầu được khai thác thông
+tin miễn phí trên Cổng Pháp luật quốc gia, trừ chuyên mục AI pháp luật.
+2. Chỉ sử dụng Cổng Pháp luật quốc gia cho các mục
+đích hợp pháp và phải chịu trách nhiệm về mọi hoạt động được thực hiện bằng tài
+khoản của mình.
+3. Tổ chức, cá nhân được giao quyền truy cập để
+cung cấp, chia sẻ thông tin và quản lý, vận hành Cổng Pháp luật quốc gia được cấp
+tài khoản, mật khẩu và có trách nhiệm bảo mật thông tin tài khoản, mật khẩu, Quản
+lý tài khoản, chữ ký số (nếu có), giữ bí mật thông tin tài khoản, mật khẩu của
+mình, trường hợp mật khẩu bị mất hoặc bị đánh cắp hoặc phát hiện có người sử dụng
+trái phép tài khoản của mình, phải thông báo kịp thời cho Ban Điều hành.
+4. Việc sử dụng lại các thông tin, nội dung trên Cổng
+Pháp luật quốc gia để đăng tải trên các phương tiện truyền thông phải thực hiện
+theo quy định của pháp luật.
+5. Theo yêu cầu của tổ chức, cá nhân, Cổng Pháp luật
+quốc gia chia sẻ các thông tin, dữ liệu của tổ chức, cá nhân đã có trên Cổng tuân
+thủ quy định của pháp luật về cung cấp thông tin.
+Điều 23. Quản lý, cập nhật và
+khai thác Cơ sở dữ liệu quốc gia về pháp luật
+Việc thực hiện quản lý, cập nhật và khai thác Cơ sở
+dữ liệu quốc gia về pháp luật được thực hiện theo quy định pháp luật.
+Điều 24. Tiếp nhận, xử lý phản
+ánh, kiến nghị về văn bản quy phạm pháp luật
+Việc thực hiện tiếp nhận, xử lý phản ánh, kiến nghị
+về văn bản quy phạm pháp luật được thực hiện theo Quy chế quản lý, thực hiện tiếp
+nhận, xử lý phản ánh, kiến nghị về văn bản quy phạm pháp luật.
+Điều 25. Quản lý, kiểm soát chất
+lượng và phát triển AI pháp luật
+1. Trách nhiệm của Ban Điều hành
+a) Chủ trì, phối hợp với các đơn vị liên quan và
+đơn vị cung cấp dịch vụ AI pháp luật để vận hành, quản lý các tính năng AI pháp
+luật trên Cổng Pháp luật quốc gia.
+b) Giám sát, kiểm tra, đánh giá định kỳ và đột xuất
+tính hiệu quả, độ chính xác của các tính năng AI pháp luật. Thường xuyên cập nhật
+và nâng cấp AI pháp luật nhằm nâng cao chất lượng hoạt động.
+c) Bảo đảm việc cập nhật dữ liệu đào tạo AI pháp luật
+theo nguồn thông tin pháp luật chính thức và kịp thời.
+d) Tiếp nhận và xử lý các phản hồi, kiến nghị của
+người dùng về chất lượng và độ chính xác của AI pháp luật.
+2. Trách nhiệm của đơn vị cung cấp dịch vụ AI pháp
+luật
+Đơn vị cung cấp dịch vụ AI pháp luật phải thực hiện
+đầy đủ các nghĩa vụ theo thoả thuận đã ký kết với Bộ Tư pháp. Trường hợp vi phạm
+hoặc không thực hiện đúng cam kết, đơn vị phải chịu trách nhiệm bồi thường thiệt
+hại (nếu có) và bị xử lý theo quy định pháp luật hiện hành và các chế tài đã thỏa
+thuận.
+Chương IV
+TỔ CHỨC THỰC HIỆN
+Điều 26. Trách nhiệm của Cục
+Phổ biến, giáo dục pháp luật và Trợ giúp pháp lý
+1. Quản lý, vận hành Cổng Pháp luật quốc gia
+a) Chịu trách nhiệm trước Bộ trưởng Bộ Tư pháp về việc
+xây dựng, quản lý, vận hành, khai thác và phát triển Cổng Pháp luật quốc gia
+theo quy định của pháp luật.
+b) Tham mưu giúp Bộ trưởng Bộ Tư pháp trình cấp có
+thẩm quyền ban hành các văn bản quy phạm pháp luật, văn bản hướng dẫn, kế hoạch,
+đề án liên quan đến xây dựng quản lý, vận hành, khai thác và phát triển Cổng
+Pháp luật quốc gia.
+c) Theo dõi, kiểm tra, sơ kết, tổng kết, tổng hợp
+báo cáo Bộ trưởng Bộ Tư pháp về tình hình quản lý, vận hành và khai thác Cổng
+Pháp luật quốc gia.
+d) Huy động các nguồn lực xã hội hóa theo quy định
+của pháp luật để góp phần thúc đẩy hoạt động hiệu quả của Cổng Pháp luật quốc
+gia; tham mưu Lãnh đạo Bộ cơ chế huy động các tổ chức, chuyên gia cung cấp dịch
+vụ tư vấn pháp luật tham gia tiếp nhận, xử lý thông tin và hướng dẫn trả lời
+câu hỏi của người dân, tổ chức, doanh nghiệp khi có nhu cầu tham vấn chuyên gia
+trên Cổng Pháp luật quốc gia.
+2. Hoàn thiện Cổng Pháp luật quốc gia
+a) Làm đầu mối điều phối, chủ trì, phối hợp với các
+đơn vị liên quan để triển khai các nhiệm vụ được giao liên quan đến quá trình
+xây dựng, phát triển, vận hành Cổng Pháp luật quốc gia.
+b) Xây dựng, ban hành hoặc trình cấp có thẩm quyền
+ban hành các văn bản tạo cơ sở pháp lý cho việc hoàn thiện Cổng Pháp luật quốc
+gia.
+c) Thiết lập và vận hành kênh tiếp nhận, đánh giá của
+người dân và doanh nghiệp về Cổng Pháp luật quốc gia và các nội dung liên quan
+theo quy định.
+d) Nghiên cứu, đề xuất và triển khai các giải pháp
+công nghệ mới, đặc biệt là AI pháp luật và các công nghệ tiên tiến khác để nâng
+cao khả năng tra cứu, khai thác và cung cấp thông tin pháp luật trên Cổng.
+đ) Chủ trì, phối hợp với Cục Công nghệ thông tin
+nghiên cứu, đề xuất kế hoạch trang bị, nâng cấp cơ sở hạ tầng, kỹ thuật, bảo đảm
+nguồn nhân lực để nâng cao chất lượng, hiệu quả hoạt động của Cổng Pháp luật quốc
+gia.
+3. Truyền thông, hướng dẫn và hỗ trợ khai thác Cổng
+Pháp luật quốc gia
+a) Chủ trì, phối hợp với các cơ quan, tổ chức truyền
+thông sâu rộng về Cổng Pháp luật quốc gia để các cơ quan, tổ chức, cá nhân biết
+và khai thác hiệu quả.
+b) Tổ chức tập huấn nghiệp vụ cho các cơ quan, đơn
+vị, cán bộ, công chức, viên chức và hướng dẫn người dân, doanh nghiệp trong việc
+sử dụng, khai thác Cổng và các tính năng của Cổng.
+4. Thực hiện các nhiệm vụ khác được giao theo quy định.
+Điều 27. Trách nhiệm của Cục
+Công nghệ thông tin
+1. Thực hiện các nhiệm vụ được giao tại
+khoản 1 và 2 Điều 15 Quy chế tạm thời này
+.
+2. Quản lý các tên miền và vận hành kỹ thuật các hệ
+thống thông tin, hạ tầng mạng của Bộ Tư pháp liên quan đến Cổng.
+3. Giám sát, bảo đảm vận hành hạ tầng kỹ thuật của
+được vận hành liên tục, thông suốt, ổn định, an toàn, hiệu quả, đáp ứng các yêu
+cầu về chức năng, nhiệm vụ và mục tiêu đề ra và có khả năng mở rộng, tích hợp với
+các hệ thống thông tin khác.
+4. Thực hiện các nhiệm vụ bảo đảm an toàn thông
+tin, an ninh mạng theo quy định của pháp luật.
+5. Rà soát, tối ưu hóa phần mềm Hệ thống thông tin
+tiếp nhận, xử lý phản ánh, kiến nghị về VBQPPL.
+Điều 28. Cục Kiểm tra văn bản
+và Quản lý xử lý vi phạm hành chính
+1. Chủ trì, triển khai việc quản lý, vận hành Cơ sở
+dữ liệu quốc gia về pháp luật, Hệ thống thông tin tiếp nhận, xử lý phản ánh, kiến
+nghị về văn bản quy phạm pháp luật. Nghiên cứu, xây dựng Đề án nâng cao chất lượng
+dữ liệu tại Cơ sở dữ liệu quốc gia về pháp luật để bảo đảm dữ liệu được đầy đủ,
+chính xác.
+2. Phối hợp với Cục Công nghệ thông tin nâng cấp,
+hoàn thiện Cơ sở dữ liệu quốc gia về pháp luật, Hệ thống thông tin tiếp nhận, xử
+lý phản ánh, kiến nghị về văn bản quy phạm pháp luật.
+Điều 29. Cục Bổ trợ tư pháp
+Chủ trì, phối hợp với Cục Phổ biến, giáo dục pháp
+luật và Trợ giúp pháp lý xác định tiêu chí (nếu cần thiết) để đánh giá, lựa chọn
+các tổ chức hành nghề luật sư tham gia tư vấn pháp luật tại chuyên mục “Hỗ trợ
+pháp lý doanh nghiệp” trên Cổng Pháp luật quốc gia.
+Điều 30. Vụ Công tác xây dựng
+văn bản quy phạm pháp luật
+Thông tin về Định hướng lập pháp nhiệm kỳ của Quốc
+hội, Chương trình lập pháp hằng năm, tình hình xây dựng, ban hành văn bản quy định
+chi tiết luật, nghị quyết, pháp lệnh của Quốc hội, Ủy ban thường vụ Quốc hội
+trên Cổng Pháp luật quốc gia.
+Điều 31. Trách nhiệm của Báo
+Pháp luật Việt Nam
+1. Bố trí phóng viên, biên tập viên thường trực cho
+Cổng Pháp luật quốc gia để cập nhật mục "Tin tức nổi bật" trên Cổng
+Pháp luật quốc gia.
+2. Quản lý tài khoản truy cập CMS để chủ động đăng
+tin, bài mục "Tin tức nổi bật" theo đúng yêu cầu quy định tại
+Điều 21 của Quy chế tạm thời này
+.
+3. Phối hợp với Cục Phổ biến, giáo dục pháp luật và
+Trợ giúp pháp lý để thực hiện các hoạt động truyền thông, nâng cao nhận thức của
+người dân và doanh nghiệp về việc khai thác, sử dụng Cổng Pháp luật quốc gia.
+Điều 32. Trách nhiệm của Cục Kế
+hoạch - Tài chính
+1. Đề xuất, tham mưu cơ quan có thẩm quyền cân đối,
+bố trí kinh phí thực hiện việc đầu tư xây dựng, hoàn thiện, duy trì và phát triển
+Cổng Pháp luật quốc gia trên cơ sở thực tiễn điều hành ngân sách của Bộ Tư pháp
+theo quy định pháp luật.
+2. Chủ trì, phối hợp với Cục Công nghệ thông tin tổ
+chức thẩm định, trình Bộ trưởng phê duyệt chủ trương đầu tư, lập dự án đầu tư
+xây dựng “Cổng Pháp luật quốc gia”; hướng dẫn tổ chức thực hiện dự án theo quy
+định.
+Điều 33. Khen thưởng và xử lý
+vi phạm
+1. Tổ chức, cá nhân thực hiện tốt nhiệm vụ quản lý,
+vận hành, cung cấp, xử lý thông tin của Cổng Pháp luật quốc gia và các hệ thống
+thông tin, cơ sở dữ liệu thành phần được xem xét khen thưởng theo quy định.
+2. Tổ chức, cá nhân có hành vi vi phạm các quy định
+về việc quản lý, vận hành, khai thác Cổng Pháp luật quốc gia, các hệ thống
+thông tin và cơ sở dữ liệu thành phần, cản trở việc cung cấp thông tin theo quy
+định hoặc làm ảnh hưởng tới hoạt động bình thường của Cổng Pháp luật quốc gia
+thì tùy theo mức độ vi phạm sẽ xem xét, xử lý theo quy định pháp luật.
+Điều 34. Điều khoản thi hành
+1. Cục Phổ biến, giáo dục pháp luật và Trợ giúp
+pháp lý chủ trì tổ chức, theo dõi, hướng dẫn, kiểm tra, đôn đốc việc thực hiện
+Quy chế tạm thời này; kịp thời báo cáo Lãnh đạo Bộ Tư pháp những vấn đề vướng mắc
+phát sinh, trường hợp cần thiết, đề xuất Bộ trưởng Bộ Tư pháp sửa đổi, bổ sung
+Quy chế cho phù hợp; hằng năm báo cáo Lãnh đạo Bộ kết quả thực hiện.
+2. Trường hợp phát sinh sự cố kỹ thuật liên quan đến
+kết nối liên kết link, API, VNeID (nếu có) hoặc các lỗi kỹ thuật khác, đơn vị
+chủ trì trang/hệ thống hợp phần của Cổng Pháp luật quốc gia có trách nhiệm
+thông báo kịp thời đến Cục Phổ biến, giáo dục pháp luật và Trợ giúp pháp lý để
+phối hợp xử lý theo nguyên tắc quy định tại Điều 2 của Quy định này.
+3. Kinh phí bảo đảm hoạt động của Cổng Pháp luật quốc
+gia được bố trí từ nguồn ngân sách nhà nước và các nguồn kinh phí hợp pháp khác
+(nếu có) theo quy định của pháp luật./.
+Lưu trữ
+Ghi chú
+Ý kiến
+Facebook
+Email
+In
+Thư Viện
+Nhà Đất
+BÁN NHÀ MẶT PHỐ -NGUYỄN ĐỔNG CHI- KINH DOANH – 9 TẦNG THANG MÁY – 154m2 Giá 100 TỶ
+100 tỷ
+,
+DT 154
+,
+Quận Nam Từ Liêm, Hà Nội
+Bản án liên quan
+PHÁP LUẬT DOANH NGHIỆP
+Hỏi đáp pháp luật
+Quyết định 2304/QĐ-BTP năm 2025 về Quy chế tạm thời quản lý, vận hành, khai thác Cổng Pháp luật quốc gia do Bộ trưởng Bộ Tư pháp ban hành

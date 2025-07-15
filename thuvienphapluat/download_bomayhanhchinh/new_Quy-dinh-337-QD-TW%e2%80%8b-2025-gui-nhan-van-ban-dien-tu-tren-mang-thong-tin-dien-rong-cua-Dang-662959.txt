@@ -1,0 +1,269 @@
+MỤC LỤC
+                                VĂN BẢN
+In mục lục
+QUY ĐỊNH GỬI, NHẬN VĂN BẢN ĐIỆN TỬ TRÊN MẠNG THÔNG TIN DIỆN RỘNG CỦA ĐẢNG VÀ MẠNG INTERNET
+Chương I QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Điều 2. Đối tượng áp dụng
+Điều 3. Giải thích từ ngữ
+Điều 4. Giá trị pháp lý của văn bản điện tử
+Chương II QUY ĐỊNH VỀ GỬI, NHẬN VĂN BẢN ĐIỆN TỬ TRÊN MẠNG
+Điều 5. Nguyên tắc gửi, nhận văn bản điện tử trên mạng
+Điều 6. Yêu cầu gửi, nhận văn bản điện tử trên mạng
+Điều 7. Phương thức gửi, nhận văn bản điện tử trên mạng
+Điều 8. Các loại văn bản gửi đồng thời văn bản điện tử và văn bản giấy
+Điều 9. Gửi văn bản điện tử
+Điều 10. Nhận văn bản điện tử
+Điều 11. Yêu cầu thông tin của văn bản điện tử
+Chương III TỔ CHỨC THỰC HIỆN
+Điều 12. Trách nhiệm của Văn phòng Trung ương Đảng
+Điều 13. Trách nhiệm của các cơ quan đảng
+Điều 14. Điều khoản thi hành
+BAN
+  CHẤP HÀNH TRUNG ƯƠNG
+*
+ĐẢNG
+  CỘNG SẢN VIỆT NAM
+---------------
+Số 337-QĐ/TW
+Hà Nội, ngày 27
+  tháng 6 năm 2025
+QUY ĐỊNH
+GỬI,
+NHẬN VĂN BẢN ĐIỆN TỬ TRÊN MẠNG THÔNG TIN DIỆN RỘNG CỦA ĐẢNG VÀ MẠNG INTERNET
+- Căn cứ Điều lệ Đảng;
+- Căn cứ Quy chế làm việc của Ban Chấp hành Trung
+ương, Bộ Chính trị và Ban Bí thư khoá XIII;
+- Căn cứ Nghị quyết số 57-NQ/TW, ngày 22/12/2024 của
+Bộ Chính trị về phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi
+số quốc gia;
+- Căn cứ các Luật của Quốc hội nước Cộng hoà xã hội
+chủ nghĩa Việt Nam: Luật Giao dịch điện tử số 20/2023/QH15, ngày 22/6/2023; Luật
+Công nghệ thông tin số 67/2006/QH11, ngày 29/6/2006; Luật Cơ yếu số
+05/2011/QH13, ngày 26/11/2011; Luật An toàn thông tin mạng số 86/2015/QH13,
+ngày 19/11/2015; Luật An ninh mạng số 24/2018/QH14, ngày 12/6/2018; Luật Bảo vệ
+bí mật nhà nước số 29/2018/QH14, ngày 15/11/2018;
+- Căn cứ Quy định số 269-QĐ/TW, ngày 25/11/2014 của
+Ban Bí thư về thực hiện giao dịch điện tử trong hoạt động của các cơ quan đảng;
+- Căn cứ Quyết định số 204-QĐ/TW, ngày 29/11/2024 của
+Ban Bí thư về phê duyệt Đề án Chuyển đổi số trong các cơ quan đảng;
+- Căn cứ Quyết định số 28/2018/QĐ-TTg, ngày
+12/7/2018 của Thủ tướng Chính phủ về việc gửi, nhận văn bản điện tử giữa các cơ
+quan trong hệ thống hành chính nhà nước;
+- Theo đề nghị của Chánh Văn phòng Trung ương Đảng,
+Ban Bí thư quy định việc gửi, nhận văn bản điện tử
+trên mạng thông tin điện rộng của Đảng và mạng Internet như sau:
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Văn bản này quy định việc gửi, nhận văn bản điện tử
+của các cơ quan, tổ chức đảng trên mạng thông tin diện rộng của Đảng và mạng
+Internet.
+Điều 2. Đối tượng áp dụng
+Quy định này áp dụng đối với các cơ quan, tổ chức đảng
+từ Trung ương đến cơ sở (sau đây gọi chung là cơ quan đảng).
+Điều 3. Giải thích từ ngữ
+1. Văn bản điện tử là văn bản dưới dạng thông điệp
+dữ liệu được tạo lập hoặc được số hoá từ văn bản giấy và trình bày đúng thể thức,
+kỹ thuật, định dạng theo quy định.
+2. Bên gửi là cơ quan phát hành văn bản điện tử.
+3. Bên nhận là cơ quan tiếp nhận văn bản điện tử.
+4. Mạng diện rộng của Đảng là mạng máy tính thiết lập
+trên cơ sở hạ tầng kỹ thuật công nghệ thông tin và viễn thông quốc gia; sử dụng
+mạng truyền số liệu chuyên dùng, mạng di động dùng riêng có bảo mật để kết nối
+các mạng máy tính của cơ quan, tổ chức đảng từ Trung ương đến địa phương.
+5. Trục liên thông văn bản quốc gia là giải pháp kỹ
+thuật, công nghệ được triển khai từ Văn phòng Chính phủ tới các bộ, ngành, địa
+phương để kết nối, liên thông gửi, nhận văn bản điện tử.
+6. Mã định danh là một tập hợp các ký hiệu dùng để
+xác định (phân biệt) các đối tượng tham gia trao đổi văn bản điện tử thông qua
+mạng.
+Điều 4. Giá trị pháp lý của văn
+bản điện tử
+1. Văn bản điện tử có giá trị như văn bản giấy và
+có giá trị dùng làm chứng cứ khi đáp ứng các quy định của pháp luật về giao dịch
+điện tử.
+2. Văn bản điện tử không đáp ứng các quy định theo
+pháp luật về giao dịch điện tử được gửi, nhận trên mạng chỉ có giá trị tham khảo,
+không có giá trị pháp lý.
+Chương II
+QUY ĐỊNH VỀ GỬI, NHẬN
+VĂN BẢN ĐIỆN TỬ TRÊN MẠNG
+Điều 5. Nguyên tắc gửi, nhận
+văn bản điện tử trên mạng
+1. Tất cả các văn bản không chứa bí mật nhà nước
+thuộc thẩm quyền ban hành và giải quyết của các cơ quan đảng được gửi, nhận
+trên mạng diện rộng của Đảng, mạng Internet và Trục liên thông văn bản quốc
+gia.
+2. Văn bản chứa bí mật nhà nước độ "Mật",
+"Tối mật" chỉ được gửi, nhận trên mạng thông tin diện rộng của Đảng
+khi đã có các giải pháp bảo mật của ngành Cơ yếu, việc xử lý, khai thác phải
+tuân thủ Luật Bảo vệ bí mật nhà nước; văn bản chứa bí mật nhà nước độ "Tuyệt
+mật" phải do bộ phận cơ yếu thực hiện và được gửi, nhận qua hệ thống mạng
+liên lạc cơ yếu.
+3. Bên gửi không phát hành văn bản giấy đến bên nhận
+khi đã gửi văn bản điện tử đáp ứng các quy định của pháp luật về giao dịch điện
+tử (trừ các trường hợp quy định tại
+Điều 8 của Quy định này
+).
+Bên nhận phải thực hiện quy trình: Kiểm tra nguồn gốc, tính hợp thức của văn bản;
+lấy số và đăng ký văn bản đến trên hệ thống; sau đó chuyển văn bản đến đơn vị,
+cá nhân có thẩm quyền để xử lý.
+Điều 6. Yêu cầu gửi, nhận văn bản
+điện tử trên mạng
+1. Văn bản điện tử phải bảo đảm yêu cầu về thể loại,
+thẩm quyền ban hành, thể thức và kỹ thuật trình bày, ký số theo quy định của
+Ban Bí thư và hướng dẫn của Văn phòng Trung ương Đảng.
+2. Văn bản điện tử phải được bảo đảm tính xác thực
+về nguồn gốc, đủ cơ sở pháp lý, an toàn thông tin, dữ liệu trong quá trình gửi,
+nhận, xử lý và lưu trữ. Văn bản điện tử có đủ cơ sở pháp lý khi bảo đảm yêu cầu
+về thể loại, thẩm quyền ban hành, thể thức và kỹ thuật trình bày, tính toàn vẹn
+về nội dung văn bản và được ký số theo quy định của Ban Bí thư và hướng dẫn của
+Văn phòng Trung ương Đảng.
+3. Văn bản điện tử phải được gửi ngay trong ngày ký
+ban hành. Sau khi tiếp nhận, nếu văn bản điện tử đến bảo đảm giá trị pháp lý phải
+được xử lý kịp thời, không chờ văn bản giấy đến (nếu có).
+4. Văn bản điện tử gửi, nhận trên mạng phải được
+theo dõi, cập nhật tự động trạng thái gửi, nhận, xử lý trên hệ thống.
+5. Bảo đảm các yêu cầu về hạ tầng kỹ thuật, công
+nghệ, an toàn thông tin và giải pháp kết nối, liên thông.
+Điều 7. Phương thức gửi, nhận
+văn bản điện tử trên mạng
+1. Sử dụng phần mềm Hệ thống thông tin điều hành tác
+nghiệp được quy định dùng chung trong các cơ quan đảng để gửi, nhận văn bản điện
+tử giữa các cơ quan đảng trên mạng thông tin diện rộng của Đảng, mạng Internet.
+Đối với những cơ quan, tổ chức đảng chưa triển khai sử dụng phần mềm Hệ thống
+thông tin điều hành tác nghiệp dùng chung thì gửi, nhận thông qua Trục liên
+thông văn bản quốc gia.
+2. Thông qua Trục liên thông văn bản quốc gia để gửi,
+nhận văn bản điện tử giữa các cơ quan đảng với giữa các cơ quan đảng với các cơ
+quan nhà nước, Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội.
+3. Thông qua các phương thức gửi, nhận văn bản điện
+tử khác theo quy định của pháp luật, quy định của Đảng (nếu có).
+4. Trường hợp bên gửi hay bên nhận có sự cố về kỹ
+thuật hoặc chưa đáp ứng về mặt hạ tầng kỹ thuật, công nghệ, an toàn thông tin,
+các cơ quan khẩn trương khắc phục. Trong thời gian khắc phục, các cơ quan có thể
+gửi bằng văn bản giấy.
+Điều 8. Các loại văn bản gửi đồng
+thời văn bản điện tử và văn bản giấy
+1. Các văn bản liên quan cụ thể, điều chỉnh trực tiếp
+đến tổ chức, cá nhân thuộc lĩnh vực: Tổ chức, cán bộ, kiểm tra, giám sát, giải
+quyết khiếu nại, tố cáo, quốc phòng - an ninh, đối ngoại, nội chính, phòng, chống
+tham nhũng, lãng phí, tiêu cực, cải cách tư pháp.
+2. Các đề án, dự án, nội dung trình xin ý kiến Ban
+Chấp hành Trung ương Đảng, Bộ Chính trị, Ban Bí thư, Thường trực Ban Bí thư,
+ban thường vụ tỉnh ủy/thành ủy (trừ các văn bản theo sự chỉ đạo của cơ quan được
+xin ý kiến).
+3. Một số văn bản theo quy định của Luật chuyên
+ngành hoặc có quy định riêng.
+4. Đối với các văn bản gửi đồng thời văn bản điện tử
+và văn bản giấy, chỉ gửi văn bản giấy cho tổ chức, cá nhân xử lý chính, không gửi
+văn bản giấy cho các tổ chức, cá nhân nhận để biết, nhận để báo cáo.
+Điều 9. Gửi văn bản điện tử
+1. Văn bản điện tử sau khi cấp có thẩm quyền phê
+duyệt, ký ban hành, ký số theo quy định được gửi đến bên nhận thông qua mạng.
+2. Bên gửi có trách nhiệm kiểm tra, theo dõi, bảo đảm
+văn bản điện tử được gửi đến đúng bên nhận. Trường hợp thu hồi văn bản điện tử,
+bên gửi phải thông báo trên mạng cho bên nhận biết để xử lý văn bản điện tử được
+thu hồi.
+Điều 10. Nhận văn bản điện tử
+1. Khi tiếp nhận, bên nhận phải kiểm tra nguồn gốc,
+tính pháp lý, tính xác thực, sự toàn vẹn của văn bản điện tử và tiến hành quy
+trình tiếp nhận trên mạng. Trường hợp không bảo đảm các nguyên tắc, yêu cầu về
+gửi, nhận văn bản điện tử, không đúng địa chỉ nhận, bên nhận phải kịp thời phản
+hồi để bên gửi biết, xử lý theo quy định.
+2. Sau khi tiếp nhận, bên nhận thực hiện xử lý văn
+bản điện tử. Trường hợp nhận được thông báo thu hồi văn bản điện tử, bên nhận
+có trách nhiệm hủy bỏ văn bản điện tử được thu hồi, đồng thời thông báo để bên
+gửi biết.
+Điều 11. Yêu cầu thông tin của
+văn bản điện tử
+Phần mềm Hệ thống thông tin điều hành tác nghiệp phải
+thể hiện các thông tin sau của văn bản điện tử:
+1. Mã định danh cơ quan, tổ chức
+Mỗi cơ quan đảng ở Trung ương, đảng ủy trực thuộc
+Trung ương, các tỉnh ủy, thành ủy và các đơn vị trực thuộc, các đơn vị thuộc
+các đơn vị trực thuộc có một mã định danh khi tham gia gửi, nhận văn bản điện tử.
+Cấu trúc mã định danh cơ quan, tổ chức thực hiện
+theo quy định của Văn phòng Trung ương Đảng.
+2. Mã định danh văn bản.
+Cấu trúc Mã định danh văn bản gồm:
+- Mã định danh cơ quan, tổ chức.
+- Năm ban hành văn bản, số thứ tự văn bản được ban
+hành trong một nhiệm kỳ đối với mỗi thể loại.
+3. Số và ký hiệu văn bản.
+4. Ngày, tháng, năm ban hành văn bản.
+5. Thể loại văn bản.
+6. Mức độ khẩn.
+7. Mức độ mật.
+8. Trích yếu nội dung văn bản.
+9. Hồ sơ, tài liệu gửi kèm.
+10. Trạng thái xử lý (đã đến, đã tiếp nhận, đã chuyển
+xử lý, đang xử lý, đã hoàn thành, từ chối nhận (trả lại), thu hồi, xoá...).
+11. Chức vụ, họ tên người ký.
+12. Bên gửi.
+13. Bên nhận.
+14. Thời gian gửi, nhận.
+15. Thời hạn xử lý.
+16. Lịch sử gửi, nhận văn bản.
+17. Thông tin khác (nếu có).
+Chương III
+TỔ CHỨC THỰC HIỆN
+Điều 12. Trách nhiệm của Văn
+phòng Trung ương Đảng
+1. Chủ trì, phối hợp với các cơ quan đảng triển
+khai, tổ chức thực hiện Quy định.
+2. Thực hiện hướng dẫn, theo dõi, đôn đốc, kiểm tra
+việc thực hiện thống nhất Quy định này trong toàn Đảng; chịu trách nhiệm tổng hợp,
+báo cáo Ban Bí thư về tình hình, kết quả triển khai Quy định khi có yêu cầu; đề
+xuất sửa đổi, bổ sung nếu cần thiết.
+Điều 13. Trách nhiệm của các
+cơ quan đảng
+1. Căn cứ Quy định này và tình hình thực tiễn, các
+cơ quan đảng ban hành quy chế cụ thể, phù hợp để áp dụng thực hiện tại nội bộ
+cơ quan đảng.
+2. Giám sát, kiểm soát việc gửi, nhận văn bản điện
+tử để bảo đảm an toàn, an ninh thông tin; định kỳ kiểm tra việc thực hiện Quy định
+này tại các cơ quan, đơn vị trực thuộc.
+3. Bảo đảm duy trì, phát triển hệ thống hạ tầng kỹ
+thuật, thiết bị công nghệ thông tin đáp ứng việc triển khai gửi, nhận văn bản
+điện tử.
+Điều 14. Điều khoản thi hành
+1. Quy định này thay thế Quy định số 217-QĐ/TW, ngày
+02/01/2020 của Ban Bí thư về gửi, nhận văn bản điện tử trên mạng thông tin diện
+rộng của Đảng và trên mạng Internet.
+2. Quy định này có hiệu lực thi hành từ ngày ký.
+3. Người đứng đầu các cơ quan đảng và các cơ quan,
+tổ chức, đơn vị, cá nhân có liên quan chịu trách nhiệm thi hành Quy định này.
+4. Trong quá trình thực hiện Quy định này, nếu có
+khó khăn, vướng mắc, các cơ quan đảng kịp thời thông báo tới Văn phòng Trung
+ương Đảng (qua Cục Chuyển đổi số - Cơ yếu) để tổng hợp, báo cáo Thường trực Ban
+Bí thư xem xét, quyết định.
+Nơi nhận:
+- Các cơ quan đảng ở Trung ương,
+- Các tỉnh ủy, thành ủy,
+đảng ủy trực thuộc Trung ương,
+- Lưu Văn phòng Trung ương Đảng.
+T/M BAN BÍ THƯ
+Trần Cẩm Tú
+Lưu trữ
+Ghi chú
+Ý kiến
+Facebook
+Email
+In
+Thư Viện
+Nhà Đất
+BÁN NHANH NHÀ ĐÔNG THÀNH, ĐỨC HUỆ, LONG AN, DIỆN TÍCH 170M2, GIÁ 6.5 TỶ
+6.5 tỷ
+,
+DT 170
+,
+Huyện Đức Huệ, Long An
+Bài liên quan:
+Nguyên tắc gửi, nhận văn bản điện tử qua mạng của Đảng
+>> Xem thêm
+Bản án liên quan
+PHÁP LUẬT DOANH NGHIỆP
+Hỏi đáp pháp luật
+Quy định 337-QĐ/TW​ năm 2025 gửi, nhận văn bản điện tử trên mạng thông tin diện rộng của Đảng và mạng Internet do Ban Chấp hành Trung ương ban hành
