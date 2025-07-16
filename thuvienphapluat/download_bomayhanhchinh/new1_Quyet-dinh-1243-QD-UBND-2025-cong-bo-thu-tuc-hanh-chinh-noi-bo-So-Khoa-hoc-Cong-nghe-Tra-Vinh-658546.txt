@@ -1,0 +1,809 @@
+MỤC LỤC
+                                VĂN BẢN
+In mục lục
+QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ THỦ TỤC HÀNH CHÍNH NỘI BỘ TRONG HỆ THỐNG HÀNH CHÍNH NHÀ NƯỚC THUỘC PHẠM VI CHỨC NĂNG QUẢN LÝ CỦA SỞ KHOA HỌC VÀ CÔNG NGHỆ
+Điều 1. Công bố kèm theo Quyết định này 07 (Bảy) thủ tục hành chính nội bộ trong hệ thống hành chính nhà nước thuộc phạm vi, chức năng quản lý của Sở Khoa học và Công nghệ.
+Điều 2. Giám đốc Sở Khoa học và Công nghệ thực hiện rà soát theo tiêu chí trình Chủ tịch Ủy ban nhân dân tỉnh phê duyệt phương án đơn giản hóa, bảo đảm hoàn thành theo thời gian quy định.
+Điều 3. Quyết định này có hiệu lực kể từ ngày ký.
+Điều 4. Chánh Văn phòng Ủy ban nhân dân tỉnh, Giám đốc Sở Khoa học và Công nghệ, Thủ trưởng các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh và Chủ tịch Ủy ban nhân dân các huyện, thị xã, thành phố chịu trách nhiệm thi hành Quyết định này./.
+PHỤ LỤC DANH MỤC THỦ TỤC HÀNH CHÍNH NỘI BỘ TRONG HỆ THỐNG HÀNH CHÍNH NHÀ NƯỚC THUỘC PHẠM VI, CHỨC NĂNG QUẢN LÝ CỦA SỞ KHOA HỌC VÀ CÔNG NGHỆ
+PHẦN I. DANH MỤC THỦ TỤC HÀNH CHÍNH NỘI BỘ
+PHẦN II. NỘI DUNG CỤ THỂ CỦA THỦ TỤC HÀNH CHÍNH
+1. Tên thủ tục: Thực hiện giám định chất lượng và giá trị máy móc, thiết bị, dây chuyền công nghệ trong dự án đầu tư
+2. Tên thủ tục Hỗ trợ sử dụng dịch vụ truy nhập Internet băng rộng cố định mặt đất tại các cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông, trạm y tế xã và điểm cung cấp dịch vụ Internet băng rộng cho cộng đồng dân cư phục vụ đồng bào dân tộc thiểu số
+3. Tên thủ tục: Yêu cầu kết nối, chia sẻ dữ liệu theo hình thức mặc định
+4. Tên thủ tục: Yêu cầu kết nối, chia sẻ dữ liệu theo yêu cầu đặc thù
+5. Tên thủ tục: Giải quyết vướng mắc về kết nối, chia sẻ dữ liệu
+6. Tên thủ tục: Thẩm định thiết kế cơ sở (trường hợp thiết kế 2 bước), thiết kế chi tiết (trường hợp thiết kế 1 bước) dự án đầu tư ứng dụng CNTT nhóm B
+7. Tên thủ tục: Thẩm định thiết kế cơ sở (trường hợp thiết kế 2 bước), thiết kế chi tiết (trường hợp thiết kế 1 bước) dự án đầu tư ứng dụng CNTT nhóm C
+ỦY BAN NHÂN DÂN
+TỈNH TRÀ VINH
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 1243/QĐ-UBND
+Trà Vinh, ngày 23
+  tháng 5 năm 2025
+QUYẾT ĐỊNH
+VỀ VIỆC CÔNG BỐ THỦ TỤC HÀNH CHÍNH NỘI BỘ TRONG HỆ THỐNG
+HÀNH CHÍNH NHÀ NƯỚC THUỘC PHẠM VI CHỨC NĂNG QUẢN LÝ CỦA SỞ KHOA HỌC VÀ CÔNG
+NGHỆ
+CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH
+Căn cứ Luật Tổ chức chính
+quyền địa phương ngày 19 tháng 02 năm 2025;
+Căn cứ Nghị quyết số
+66/NQ-CP
+ngày 26 tháng 3 năm 2025 của Chính phủ về Chương trình cắt giảm, đơn
+giản hóa thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh năm
+2025 và 2026;
+Căn cứ Quyết định số
+839/QĐ-UBND
+ngày 16 tháng 4 năm 2025 của Ủy ban nhân dân tỉnh ban hành Kế hoạch
+thực hiện Nghị quyết số
+66/NQ-CP
+ngày 26 tháng 3 năm 2025 của Chính phủ về
+Chương trình cắt giảm, đơn giản hóa thủ tục hành chính liên quan đến hoạt động
+sản xuất, kinh doanh năm 2025 và 2026 trên địa bàn tỉnh Trà Vinh;
+Căn cứ Quyết định số
+754/QĐ-BKHCN
+ngày 29 tháng 4 năm 2025 của Bộ trưởng Bộ Khoa học và Công nghệ về
+việc công bố danh mục thủ tục hành chính nội bộ được chuẩn hóa thuộc phạm vi chức
+năng quản lý của Bộ Khoa học và Công nghệ;
+Theo đề nghị của Giám đốc Sở
+Khoa học và Công nghệ tại Tờ trình số 59/TTr-SKHCN ngày 20 tháng 5 năm 2025.
+QUYẾT ĐỊNH:
+Điều 1.
+Công bố kèm theo Quyết định này
+07
+(Bảy)
+thủ tục hành chính nội bộ
+trong hệ thống hành chính nhà nước thuộc phạm vi, chức năng quản lý của Sở Khoa
+học và Công nghệ.
+Điều 2.
+Giám đốc Sở Khoa học và Công nghệ thực hiện rà soát theo tiêu chí trình Chủ tịch
+Ủy ban nhân dân tỉnh phê duyệt phương án đơn giản hóa, bảo đảm hoàn thành theo
+thời gian quy định.
+Điều 3.
+Quyết
+định này có hiệu lực kể từ ngày ký.
+Điều 4.
+Chánh Văn phòng Ủy ban nhân dân tỉnh, Giám đốc Sở Khoa học và Công nghệ, Thủ
+trưởng các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh và Chủ tịch Ủy ban
+nhân dân các huyện, thị xã, thành phố chịu trách nhiệm thi hành Quyết định
+này./.
+KT. CHỦ TỊCH
+PHÓ CHỦ TỊCH
+Nguyễn Quỳnh Thiện
+PHỤ LỤC
+DANH MỤC THỦ TỤC HÀNH CHÍNH NỘI BỘ TRONG HỆ THỐNG HÀNH
+CHÍNH NHÀ NƯỚC THUỘC PHẠM VI, CHỨC NĂNG QUẢN LÝ CỦA SỞ KHOA HỌC VÀ CÔNG NGHỆ
+(Kèm theo Quyết định số 1243/QĐ-UBND ngày 23/5/2025 của Chủ tịch UBND tỉnh)
+PHẦN I.
+DANH MỤC THỦ TỤC HÀNH CHÍNH NỘI BỘ
+STT
+Tên thủ tục hành chính
+Lĩnh vực
+Cơ quan
+thực hiện
+I
+THỦ TỤC HÀNH CHÍNH CẤP TỈNH
+1
+Thực hiện giám định chất lượng
+  và giá trị máy móc, thiết bị, dây chuyền công nghệ trong dự án đầu tư
+Hoạt động Khoa học và Công nghệ
+Sở Khoa học và Công nghệ
+2
+Hỗ trợ sử dụng dịch vụ truy
+  nhập Internet băng rộng cố định mặt đất tại các cơ sở giáo dục mầm non, cơ sở
+  giáo dục phổ thông, trạm y tế xã và điểm cung cấp dịch vụ Internet băng rộng
+  cho cộng đồng dân cư phục vụ đồng bào dân tộc thiểu số.
+Viễn thông
+Sở Khoa học và Công nghệ
+3
+Yêu cầu kết nối, chia sẻ dữ
+  liệu theo hình thức mặc định
+Chuyển đổi số quốc gia
+Sở Khoa học và Công nghệ
+4
+Yêu cầu kết nối, chia sẻ dữ
+  liệu theo yêu cầu đặc thù
+Chuyển đổi số quốc gia
+Sở Khoa học và Công nghệ
+5
+Giải quyết vướng mắc về kết nối,
+  chia sẻ dữ liệu
+Chuyển đổi số quốc gia
+Sở Khoa học và Công nghệ
+6
+Thẩm định thiết kế cơ sở (trường
+  hợp thiết kế 2 bước), thiết kế chi tiết (trường hợp thiết kế 1 bước) dự án đầu
+  tư ứng dụng CNTT nhóm B
+Chuyển đổi số quốc gia
+Sở Khoa học và Công nghệ
+7
+Thẩm định thiết kế cơ sở (trường
+  hợp thiết kế 2 bước), thiết kế chi tiết (trường hợp thiết kế 1 bước) dự án đầu
+  tư ứng dụng CNTT nhóm C
+Chuyển đổi số quốc gia
+Sở Khoa học và Công nghệ
+PHẦN II.
+NỘI DUNG CỤ THỂ CỦA THỦ TỤC HÀNH CHÍNH
+1. Tên thủ
+tục:
+Thực hiện giám định chất lượng và giá trị máy móc, thiết bị, dây chuyền
+công nghệ trong dự án đầu tư
+a) Trình tự thực hiện:
+-
+Bước 1:
+Cơ quan yêu cầu
+giám định (là cơ quan quản lý nhà nước về đầu tư hoặc cơ quan quản lý nhà nước
+về Khoa học và Công nghệ) gửi văn bản yêu cầu tổ chức việc giám định theo Mẫu số
+01 quy định tại Phụ lục của Quyết định số
+33/2023/QĐ-TTg
+, kèm theo các tài liệu
+cung cấp thông tin về dấu hiệu vi phạm trong dự án đầu tư không thuộc thẩm quyền
+chấp thuận chủ trương đầu tư của Quốc hội, Thủ tướng Chính phủ đến cơ quan
+chuyên môn về Khoa học và Công nghệ thuộc Ủy ban nhân dân cấp tỉnh (Sở Khoa học
+và Công nghệ) nơi thực hiện dự án đầu tư.
+Trường hợp Sở Khoa học và Công
+nghệ đồng thời là cơ quan yêu cầu giám định thì bỏ qua bước yêu cầu tổ chức việc
+giám định.
+-
+Bước 2:
+Trong thời hạn
+05 ngày làm việc, kể từ khi nhận được văn bản yêu cầu tổ chức việc giám định, Sở
+Khoa học và Công nghệ xem xét các căn cứ để thực hiện giám định và sự cần thiết
+của việc tổ chức giám định.
+Trường hợp không đủ căn cứ để
+thực hiện giám định hoặc không cần thiết tổ chức việc giám định, Sở Khoa học và
+Công nghệ ban hành văn bản gửi cơ quan yêu cầu giám định, nêu rõ lý do không tổ
+chức việc giám định.
+Trường hợp có đủ căn cứ và cần
+thiết phải tổ chức việc giám định, Sở Khoa học và Công nghệ ban hành văn bản
+(theo Mẫu số 02 quy định tại Phụ lục của Quyết định số 33/2023/QĐ-TTg) gửi nhà
+đầu tư đề nghị báo cáo và cung cấp các hồ sơ, tài liệu liên quan đến chất lượng
+và giá trị máy móc, thiết bị, dây chuyền công nghệ của dự án.
+-
+Bước 3:
+Trong thời hạn
+15 ngày, kể từ khi nhận được văn bản đề nghị của Sở Khoa học và Công nghệ, nhà
+đầu tư cung cấp 01 bản báo cáo kèm theo bản sao có chứng thực (hoặc có xác nhận
+sao y bản chính của nhà đầu tư) các hồ sơ, tài liệu liên quan đến chất lượng và
+giá trị máy móc, thiết bị, dây chuyền công nghệ trong dự án đầu tư cho Sở Khoa
+học và Công nghệ.
+-
+Bước 4:
+Trong thời hạn
+30 ngày, kể từ khi nhận được báo cáo và các hồ sơ, tài liệu của nhà đầu tư, Sở
+Khoa học và Công nghệ quyết định thành lập Hội đồng tư vấn Khoa học và Công nghệ
+và tổ chức họp Hội đồng để xem xét, cho ý kiến về chất lượng và giá trị của máy
+móc, thiết bị, dây chuyền công nghệ trong dự án đầu tư.
+Trường hợp phiên họp Hội đồng
+chưa đủ căn cứ để cho ý kiến về chất lượng và giá trị của máy móc, thiết bị,
+dây chuyền công nghệ hoặc có nhiều ý kiến không thống nhất, Hội đồng xem xét,
+tư vấn thực hiện giám định thông qua tổ chức giám định được chỉ định và các nội
+dung cần giám định.
+-
+Bước 5:
+Trong thời hạn
+30 ngày, kể từ khi nhận được kiến nghị của Hội đồng về việc thực hiện giám định
+thông qua tổ chức giám định được chỉ định, Sở Khoa học và Công nghệ tổ chức lựa
+chọn, ban hành văn bản đề nghị giám định và cấp chứng thư giám định (theo Mẫu số
+03 quy định tại Phụ lục của Quyết định số 33/2023/QĐ- 34 TTg), tiến hành thỏa
+thuận, ký hợp đồng giám định với tổ chức giám định được chỉ định. Nội dung, thời
+gian và kinh phí thực hiện giám định quy định tại Hợp đồng giám định.
+Trường hợp phải đấu thầu lựa chọn
+tổ chức giám định, Sở Khoa học và Công nghệ tổ chức đấu thầu, thời gian và
+trình tự, thủ tục thực hiện theo quy định của pháp luật về đấu thầu.
+-
+Bước 6:
+Trong thời hạn
+15 ngày, kể từ khi nhận được chứng thư giám định do tổ chức giám định được chỉ
+định cấp, Sở Khoa học và Công nghệ tổ chức họp Hội đồng tư vấn Khoa học và Công
+nghệ lần thứ hai, cho ý kiến về chất lượng và giá trị của máy móc, thiết bị,
+dây chuyền công nghệ trong dự án đầu tư.
+-
+Bước 7:
+Trong thời hạn
+15 ngày, kể từ khi nhận được ý kiến của Hội đồng tư vấn Khoa học và Công nghệ về
+chất lượng và giá trị máy móc, thiết bị, dây chuyền công nghệ trong dự án đầu
+tư, Sở Khoa học và Công nghệ xem xét các nội dung kiến nghị của Hội đồng để kết
+luận về chất lượng và giá trị máy móc, thiết bị, dây chuyền công nghệ trong dự
+án đầu tư, gửi cơ quan yêu cầu giám định và các cơ quan, đơn vị có liên quan để
+thực hiện theo quy định của pháp luật.
+Trường hợp cần thiết, Sở Khoa học
+và Công nghệ lấy thêm ý kiến của chuyên gia độc lập để xem xét, kết luận.
+b) Cách thức thực hiện:
+Cơ quan yêu cầu giám định gửi hồ
+sơ trực tiếp hoặc qua đường bưu điện đến Sở Khoa học và Công nghệ; hoặc gửi hồ
+sơ trực tuyến (thực hiện sau khi có hướng dẫn của Văn phòng Chính phủ).
+c) Thành phần và số lượng hồ
+sơ:
+- Thành phần hồ sơ: Văn bản yêu
+cầu tổ chức việc giám định kèm theo các tài liệu cung cấp thông tin về dấu hiệu
+vi phạm trong dự án đầu tư.
+- Số lượng hồ sơ: 01 bộ.
+d) Thời hạn giải quyết:
+- Trường hợp không thông qua tổ
+chức giám định được chỉ định: 65 ngày;
+- Trường hợp phải thực hiện
+giám định thông qua tổ chức giám định được chỉ định: 110 ngày;
+- Trường hợp phải đấu thầu lựa
+chọn tổ chức giám định được chỉ định, thời gian có thể kéo dài thêm. Thời gian
+thực hiện đấu thầu theo quy định của pháp luật về đấu thầu.
+e) Cơ quan thực hiện thủ tục
+hành chính: Sở Khoa học và Công nghệ.
+g) Đối tượng thực hiện thủ tục
+hành chính: Cơ quan quản lý nhà nước về đầu tư hoặc cơ quan quản lý nhà nước về
+Khoa học và Công nghệ.
+h) Tên mẫu đơn, mẫu tờ kê khai:
+Văn bản yêu cầu tổ chức việc
+giám định (Mẫu số 01 Phụ lục của Quyết định số 33/2023/QĐ-TTg)
+i) Yêu cầu, điều kiện thực hiện
+TTHC: Cơ quan quản lý nhà nước về đầu tư, cơ quan quản lý nhà nước về Khoa học và
+Công nghệ có căn cứ xác định nhà đầu tư có dấu hiệu vi phạm về ứng dụng, chuyển
+giao công nghệ trong quá trình thực hiện dự án đầu tư theo quy định của pháp luật
+về chuyển giao công nghệ.
+k) Phí, lệ phí: Không.
+l) Kết quả của việc thực hiện
+thủ tục hành chính:
+Văn bản kết luận về chất lượng
+và giá trị máy móc, thiết bị dây chuyền công nghệ trong dự án đầu tư.
+m) Căn cứ pháp lý của thủ tục
+hành chính:
+- Luật Đầu tư năm 2020;
+- Nghị định số
+31/2021/NĐ-CP
+ngày 26/3/2021 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều
+của Luật Đầu tư;
+- Quyết định số 33/2023/QĐ-TTg
+ngày 19/12/2023 của Thủ tướng Chính phủ quy định hồ sơ, trình tự, thủ tục thực
+hiện giám định chất lượng và giá trị máy móc, thiết bị, dây chuyền công nghệ
+trong dự án đầu tư.
+Mẫu
+số 01
+(Quyết
+định số 33/2023/QĐ-TTg)
+TÊN CƠ QUAN YÊU
+  CẦU
+GIÁM ĐỊNH
+[1]
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:…….
+V/v yêu cầu tổ chức việc giám định chất lượng và giá trị máy móc, thiết bị, dây
+  chuyền công nghệ trong dự án đầu tư
+…….., ngày …
+  tháng … năm ……
+Kính
+gửi: Cơ quan có thẩm quyền
+[2]
+Căn cứ Quyết định số
+..../2023/QĐ-TTg ngày …tháng …năm 2023 của Thủ tướng Chính phủ quy định về hồ
+sơ, trình tự, thủ tục thực hiện giám định chất lượng và giá trị máy móc, thiết
+bị, dây chuyền công nghệ trong dự án đầu tư;
+Ngày…tháng…năm……, ……… (cơ quan
+yêu cầu giám định) có căn cứ xác định Nhà đầu tư ………. có dấu hiệu vi phạm về ứng
+dụng, chuyển giao công nghệ trong quá trình thực hiện dự án đầu tư theo quy định
+của pháp luật về chuyển giao công nghệ, cụ thể như sau:
+1. Thông tin về dự án (tên dự
+án; tên nhà đầu tư; địa điểm thực hiện dự án; lĩnh vực đầu tư; quy mô của dự
+án): ………………………………………….
+2. Cấp có thẩm quyền chấp thuận
+chủ trương đầu tư của dự án: ..…………
+3. Tài liệu cung cấp thông tin
+về dấu hiệu vi phạm:
+- Lừa dối, giả tạo trong việc lập
+Hồ sơ dự án đầu tư:………………………
+- Lừa dối, giả tạo trong việc lập
+Hợp đồng chuyển giao công nghệ: ………
+- Triển khai thực hiện dự án đầu
+tư không đúng với hồ sơ đã đăng ký: ……
+- Triển khai hợp đồng chuyển
+giao công nghệ không đúng với hồ sơ đăng ký hoặc cấp phép:
+………………………………………………………………
+………(cơ quan yêu cầu giám định)
+đề nghị ………(cơ quan có thẩm quyền) tổ chức việc giám định chất lượng và giá trị
+máy móc, thiết bị, dây chuyền công nghệ trong dự án nêu trên và gửi kết quả
+giám định đến ………(cơ quan yêu cầu giám định) sau khi hoàn thành việc giám định.
+Nơi nhận:
+- Như trên;
+- Lưu: …………
+THỦ TRƯỞNG
+CƠ QUAN YÊU CẦU GIÁM ĐỊNH
+(Ký tên, đóng dấu)
+___________________
+[1]
+Cơ quan yêu cầu
+giám định là cơ quan quản lý nhà nước về đầu tư hoặc cơ quan quản lý nhà nước về
+KH&CN.
+[2]
+Cơ quan có thẩm
+quyền là Bộ KH&CN đối với dự án có dấu hiệu vi phạm thuộc thẩm quyền chấp
+thuận chủ trương đầu tư của Quốc hội, Thủ tướng Chính phủ; hoặc là cơ quan
+chuyên môn về KH&CN thuộc Ủy ban nhân dân cấp tỉnh nơi thực hiện dự án đối
+với dự án có dấu hiệu vi phạm không thuộc thẩm quyền chấp thuận chủ trương đầu
+tư của Quốc hội, Thủ tướng Chính phủ.
+2. Tên thủ
+tục
+Hỗ trợ sử dụng dịch vụ truy nhập Internet băng rộng cố định mặt đất tại
+các cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông, trạm y tế xã và điểm cung
+cấp dịch vụ Internet băng rộng cho cộng đồng dân cư phục vụ đồng bào dân tộc
+thiểu số
+a) Trình tự thực hiện
+- Bước 1:
+Thủ trưởng các
+đơn vị của Cơ sở giáo dục mầm non, Cơ sở giáo dục phổ thông (bao gồm cả điểm
+trường, nếu có), Trạm y tế xã và Chủ tịch Ủy ban nhân dân cấp xã quản lý điểm
+cung cấp dịch vụ Internet băng rộng cho cộng đồng dân cư phục vụ phát triển
+kinh tế - xã hội và đảm bảo an ninh trật tự thuộc Chương trình mục tiêu quốc
+gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi giai
+đoạn 2021-2030; giai đoạn 1: Từ năm 2021 đến năm 2025 (sau đây gọi chung là điểm
+cung cấp dịch vụ Internet băng rộng cho cộng đồng dân cư) thực hiện thủ tục
+đăng ký thuê bao sử dụng dịch vụ viễn thông công ích theo Mẫu số 04b/ĐK-DVTC,
+Phụ lục I ban hành kèm theo Thông từ số
+14/2022/TT-BTTTT
+gửi doanh nghiệp cung
+cấp dịch vụ viễn thông công ích (do đơn vị lựa chọn).
+- Bước 2
+: Doanh nghiệp
+cung cấp dịch vụ viễn thông công ích tiếp nhận hồ sơ đăng ký của đơn vị, rà
+soát danh sách các đơn vị đã được nhận hỗ trợ từ Chương trình trên Website của
+Quỹ Dịch vụ viễn thông công ích Việt Nam:
+a) Trường hợp đơn vị chưa có trong
+danh sách các đơn vị đã được nhận hỗ trợ từ Chương trình, doanh nghiệp lập danh
+sách đơn vị đăng ký nhận hỗ trợ sử dụng dịch vụ truy nhập Internet băng rộng cố
+định mặt đất trong tháng theo Mẫu số 10a/DS-ĐKBRCĐ, Phụ lục I ban hành kèm theo
+Thông tư
+14/2022/TT-BTTTT
+, gửi Sở Khoa học và Công nghệ chậm nhất là ngày 25
+hàng tháng;
+b) Trường hợp đơn vị đã có
+trong danh sách các đơn vị đã được nhận hỗ trợ từ Chương trình, doanh nghiệp từ
+chối đăng ký nhận hỗ trợ từ Chương trình và thông báo cho đơn vị biết.
+- Bước 3:
+Chậm nhất sau
+10 ngày kể từ ngày nhận được danh sách theo báo cáo của doanh nghiệp, Sở Khoa học
+và Công nghệ thực hiện rà soát, xác nhận các đơn vị đủ điều kiện nhận hỗ trợ sử
+dụng dịch vụ truy nhập Internet băng rộng cố định và gửi lại doanh nghiệp viễn
+thông theo Mẫu số 10b/DSS-ĐKBRCĐ, Phụ lục I ban hành kèm theo Thông tư
+14/2022/TT-BTTTT
+.
+Các đơn vị được xác nhận phù hợp
+với quy định, được nhận hỗ trợ sử dụng dịch vụ viễn thông công ích từ tháng Sở
+Khoa học và Công nghệ xác nhận.
+Trường hợp phát hiện đơn vị
+đăng ký nhận hỗ trợ sử dụng dịch vụ truy nhập Internet băng rộng cố định tại 02
+doanh nghiệp trở lên, Sở Khoa học và Công nghệ thông báo cho các doanh nghiệp
+liên quan biết về các trường hợp này; gồm:
+a) Các trường hợp đơn vị đã nhận
+hỗ trợ từ Chương trình thông qua doanh nghiệp khác;
+b) Các trường hợp đăng ký mới lần
+đầu nhận hỗ trợ từ Chương trình tại 02 doanh nghiệp.
+b) Cách thức thực hiện: Không
+quy định.
+c) Thành phần và số lượng hồ
+sơ:
+* Thành phần hồ sơ:
+- Đăng ký sử dụng dịch vụ Viễn
+thông công ích (Mẫu số 04b/ĐK-DVTC);
+- Danh sách các cơ sở giáo dục
+mầm non, cơ sở giáo dục phổ thông, trạm y tế xã, điểm cung cấp dịch vụ internet
+băng rộng cho cộng đồng dân cư đăng ký nhận hỗ trợ sử dụng dịch vụ truy nhập
+internet băng rộng cố định mặt đất (Mẫu số 10a/DS-ĐKBRCĐ);
+- Danh sách các cơ sở giáo dục
+mầm non, cơ sở giáo dục phổ thông, trạm y tế xã, điểm cung cấp dịch vụ internet
+băng rộng cho cộng đồng dân cư đủ điều kiện nhận hỗ trợ sử dụng dịch vụ
+internet băng rộng cố định mặt đất (Mẫu số 10b/DSS-ĐKBRCĐ).
+* Số lượng hồ sơ: 01 bộ
+d) Thời hạn giải quyết: Chậm nhất
+sau 10 ngày kể từ ngày nhận được danh sách theo báo cáo của doanh nghiệp, Sở
+Khoa học và Công nghệ thực hiện rà soát, xác nhận.
+e) Cơ quan thực hiện thủ tục hành
+chính: Sở Khoa học và Công nghệ.
+g) Đối tượng thực hiện thủ tục
+hành chính: Ủy ban nhân dân cấp xã, Cơ sở GD mần non, cơ sở giáo dục phổ thông,
+trạm y tế xã và điểm cung cấp dịch vụ Internet băng rộng cho cộng đồng dân cư
+phục vụ đồng bào dân tộc thiểu số.
+h) Tên mẫu đơn, mẫu tờ kê khai:
+- Đăng ký sử dụng dịch vụ Viễn
+thông công ích (Mẫu số 04b/ĐK-DVTC);
+- Danh sách các cơ sở giáo dục
+mầm non, cơ sở giáo dục phổ thông, trạm y tế xã, điểm cung cấp dịch vụ internet
+băng rộng cho cộng đồng dân cư đăng ký nhận hỗ trợ sử dụng dịch vụ truy nhập
+internet băng rộng cố định mặt đất (Mẫu số 10a/DS-ĐKBRCĐ);
+- Danh sách các cơ sở giáo dục
+mầm non, cơ sở giáo dục phổ thông, trạm y tế xã, điểm cung cấp dịch vụ internet
+băng rộng cho cộng đồng dân cư đủ điều kiện nhận hỗ trợ sử dụng dịch vụ
+internet băng rộng cố định mặt đất (Mẫu số 10b/DSS-ĐKBRCĐ);
+Các Mẫu trên Ban hàn tại Phụ
+lục I Thông tư số
+14/2022/TT-BTTTT
+của Bộ trưởng Bộ Thông tin và Truyền thông.
+i) Phí, lệ phí: Không.
+k) Kết quả của việc thực hiện
+thủ tục hành chính: Xác nhận của Sở Khoa học và Công nghệ.
+l) Căn cứ pháp lý của thủ tục
+hành chính
+- Thông tư số
+14/2022/TT-BTTTT
+ngày 28 tháng 10 năm 2022 của Bộ Thông tin và Truyền thông quy định danh mục,
+chất lượng dịch vụ viễn thông công ích và hướng dẫn thực hiện Chương trình cung
+cấp dịch vụ viễn thông công ích đến năm 2025.
+Mẫu
+số 04b/ĐK-DVTC, Phụ lục I
+(Ban
+hành kèm theo Thông tư số 14/2022/TT-BTTTT)
+CỘNG
+HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+ĐĂNG
+KÝ SỬ DỤNG DỊCH VỤ VIỄN THÔNG CÔNG ÍCH
+(Thuộc Chương trình cung cấp dịch vụ viễn thông công ích đến năm 2025)
+(1)
+Kính
+gửi
+(2)
+: Doanh nghiệp
+[Tên doanh nghiệp cung cấp dịch vụ]
+1. Phần ghi thông tin của
+đơn vị
+Tên đơn vị
+(3)
+:……………………………………………………………...
+Địa chỉ
+(4)
+:……………………………………………………………….
+2. Phần đăng ký sử dụng dịch
+vụ
+Người đại diện đăng ký thuê bao
+sử dụng dịch vụ
+(5)
+:……..………………
+Chức vụ
+(6)
+:…………………………………………………………………
+Số CMND/CCCD/Mã số định danh
+(7)
+:……………………………………
+Hiện nay, chúng tôi có nhu cầu
+sử dụng
+dịch vụ truy nhập Internet băng rộng cố định mặt đất
+thuộc Danh
+mục dịch vụ viễn thông công ích của Chương trình cung cấp dịch vụ viễn thông
+công ích đến năm 2025. Chúng tôi cam kết hiện tại chưa được hỗ trợ sử dụng truy
+nhập Internet băng rộng cố định mặt đất ở bất kỳ doanh nghiệp viễn thông nào.
+Chúng tôi đề nghị Doanh nghiệp cung cấp dịch vụ viễn thông phổ cập nêu trên hỗ
+trợ cho chúng tôi sử dụng dịch vụ từ ngày ...tháng....năm .....
+(8)
+Chúng tôi xin cam đoan các thông
+tin nêu trên là đúng sự thật và xin chịu trách nhiệm trước pháp luật về các
+thông tin trên.
+Trân trọng cảm ơn./.
+………….,
+  ngày……tháng…năm…
+ĐẠI DIỆN TỔ CHỨC
+(9)
+(
+Ký và ghi rõ họ tên, đóng dấu)
+Ghi chú:
+(1)
+Phiếu này do
+các đơn vị (Cơ sở giáo dục mầm non, Cơ sở giáo dục phổ thông bao gồm cả điểm
+trường, Trạm y tế xã) có địa chỉ tại các khu vực xã có điều kiện kinh tế - xã hội
+đặc biệt khó khăn/Xã đảo/Huyện đảo/Khu vực khó khăn được phổ cập dịch vụ viễn
+thông và Ủy ban nhân dân cấp xã quản lý điểm cung cấp dịch vụ Internet băng rộng
+cho cộng đồng dân cư lập khi có nhu cầu đăng ký được hỗ trợ dịch vụ viễn thông
+công ích.
+(2)
+Ghi tên doanh
+nghiệp đăng ký cung cấp dịch vụ viễn thông công ích.
+(3)
+Ghi tên các
+đơn vị (Uỷ ban nhân nhân dân cấp xã, Cơ sở giáo dục mầm non, Cơ sở giáo dục phổ
+thông bao gồm cả điểm trường, Trạm y tế xã).
+(4)
+Ghi địa chỉ
+hiện tại của các đơn vị (ghi rõ thôn, xã, huyện, tỉnh/Thành phố); đối với điểm
+cung cấp dịch vụ Internet băng rộng cho cộng đồng dân cư ghi rõ địa chỉ các điểm
+cung cấp dịch vụ Internet băng rộng cho cộng đồng dân cư.
+(5)
+Ghi họ tên
+người đứng tên cho đơn vị đăng ký chủ thuê bao sử dụng dịch vụ.
+(6)
+Ghi chức vụ của
+chủ thuê bao đăng ký sử dụng dịch vụ.
+(7)
+Ghi số chứng
+minh thư hoặc số căn cước công dân hoặc mã số định danh của người đại diện đăng
+ký thuê bao truy nhập Internet băng rộng cố định mặt đất.
+(8)
+Ghi
+ngày/tháng/năm ký hợp đồng.
+(9)
+Đại diện đơn
+vị ký, ghi rõ họ tên, đóng dấu.
+3. Tên thủ
+tục:
+Yêu cầu kết nối, chia sẻ dữ liệu theo hình thức mặc định
+a) Trình tự thực hiện:
+- Bước 1:
+Cơ quan, đơn vị
+gửi yêu cầu kết nối, chia sẻ dữ liệu theo hình thức trực tuyến thông qua Hệ thống
+quản lý dịch vụ chia sẻ dữ liệu.
+- Bước 2:
+Trong thời hạn
+tối đa 05 ngày làm việc kể từ khi nhận được yêu cầu, cơ quan cung cấp dữ liệu
+có trách nhiệm tạo tài khoản kết nối và thông báo cho cơ quan, đơn vị yêu cầu.
+Trong trường hợp từ chối yêu cầu phải nêu rõ lý do từ chối.
+b) Cách thức thực hiện: Nộp qua
+Hệ thống Quản lý văn bản và điều hành (iO).
+c) Thành phần và số lượng hồ
+sơ:
+* Thành phần hồ sơ: Văn bản yêu
+cầu kết nối, khai thác dữ liệu
+* Số lượng hồ sơ: 01 bộ
+d) Thời hạn giải quyết: 05 ngày
+làm việc.
+e) Cơ quan thực hiện thủ tục
+hành chính: Sở Khoa học và Công nghệ.
+g) Đối tượng thực hiện thủ tục
+hành chính: Các cơ quan, đơn vị trên địa bàn tỉnh có nhu cầu kết nối, chia sẻ dữ
+liệu
+h) Tên mẫu đơn, mẫu tờ kê khai:
+Không quy định
+i) Phí, lệ phí: Không quy định.
+k) Kết quả của việc thực hiện
+thủ tục hành chính: Không quy định
+l) Căn cứ pháp lý của thủ tục
+hành chính:
+- Nghị định số
+47/2020/NĐ-CP
+ngày 09/4/2020 của Chính phủ về quản lý, kết nối và chia sẻ dữ liệu số của cơ
+quan nhà nước;
+-
+Quyết định số
+1880/QĐ-UBND ngày 08/12/2023 của UBND tỉnh Trà Vinh về việc ban hành Quy chế quản
+lý, vận hành, khai thác, sử dụng dữ liệu Kho dữ liệu dùng chung tỉnh Trà Vinh.
+4. Tên thủ
+tục:
+Yêu cầu kết nối, chia sẻ dữ liệu theo yêu cầu đặc thù
+a) Trình tự thực hiện:
+- Khi dữ liệu không thể khai
+thác được qua hình thức chia sẻ dữ liệu mặc định, ơ quan cung cấp dữ liệu và cơ
+quan khai thác dữ liệu phải thực hiện trao đổi và thống nhất các nội dung thực
+hiện kết nối, chia sẻ, khai thác dữ liệu. Nội dung thống nhất chia sẻ dữ liệu
+phải được ghi nhận bằng văn bản, văn bản điện tử hoặc hệ thống thông tin hỗ trợ
+(nếu có).
+- Cơ quan cung cấp dữ liệu và
+cơ quan khai thác dữ liệu có trách nhiệm phối hợp chuẩn bị kết nối, chia sẻ dữ
+liệu theo trình tự sau:
+Bước 1: Rà soát nhu cầu, quy định,
+điều kiện cần thiết và các hoạt động cần thực hiện để kết nối và chia sẻ dữ liệu.
+Bước 2: Phối hợp xây dựng dự thảo
+nội dung thống nhất chia sẻ dữ liệu.
+Bước 3: Xác nhận (ký) nội dung
+thống nhất chia sẻ dữ liệu.
+Bước 4: Triển khai thực hiện
+theo các nội dung thống nhất chia sẻ dữ liệu.
+b) Cách thức thực hiện: Nộp qua
+Hệ thống Quản lý văn bản và điều hành (iO).
+c) Thành phần và số lượng hồ
+sơ:
+* Thành phần hồ sơ:
+- Văn bản đề nghị kết nối và
+khai thác dịch vụ dữ liệu
+- Dự thảo nội dung thống nhất
+chia sẻ dữ liệu.
+* Số lượng hồ sơ: 01 bộ
+d) Thời hạn giải quyết: 01 ngày
+làm việc.
+e) Cơ quan thực hiện thủ tục
+hành chính: Sở Khoa học và Công nghệ.
+g) Đối tượng thực hiện thủ tục
+hành chính: Các cơ quan, đơn vị trên địa bàn tỉnh có nhu cầu kết nối, chia sẻ dữ
+liệu
+h) Tên mẫu đơn, mẫu tờ kê khai:
+Không quy định
+i) Phí, lệ phí: Không quy định.
+k) Kết quả của việc thực hiện thủ
+tục hành chính: Không quy định
+l) Căn cứ pháp lý của thủ tục
+hành chính:
+- Nghị định số
+47/2020/NĐ-CP
+ngày 09/4/2020 của Chính phủ về quản lý, kết nối và chia sẻ dữ liệu số của cơ
+quan nhà nước;
+-
+Quyết định số
+1880/QĐ-UBND ngày 08/12/2023 của UBND tỉnh Trà Vinh về việc ban hành Quy chế quản
+lý, vận hành, khai thác, sử dụng dữ liệu Kho dữ liệu dùng chung tỉnh Trà Vinh.
+5. Tên thủ
+tục:
+Giải quyết vướng mắc về kết nối, chia sẻ dữ liệu
+a) Trình tự thực hiện:
+Trừ trường hợp việc xử lý vướng
+mắc đã được quy định đặc thù trong các văn bản của cấp có thẩm quyền, trình tự
+xử lý vướng mắc về kết nối, chia sẻ dữ liệu thực hiện như sau:
+1. Cơ quan khai thác dữ liệu có
+vướng mắc trong kết nối, chia sẻ dữ liệu gửi yêu cầu cho cơ quan cung cấp dữ liệu
+để hướng dẫn, giải quyết các vướng mắc.
+Trong thời hạn 07 ngày làm việc
+kể từ khi tiếp nhận yêu cầu giải quyết, cơ quan cung cấp dữ liệu phải giải đáp,
+hướng dẫn xử lý các vướng mắc cho cơ quan khai thác dữ liệu.
+2. Trường hợp vướng mắc không
+giải quyết được, cơ quan gặp vướng mắc gửi thông tin cho đơn vị chuyên trách
+công nghệ thông tin của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, các tỉnh
+thành phố trực thuộc trung ương xem xét, hướng dẫn giải quyết.
+Trong thời hạn 07 ngày làm việc
+kể từ thời điểm tiếp nhận yêu cầu giải quyết, đơn vị chuyên trách về công nghệ
+thông tin phải hướng dẫn các cơ quan liên quan thực hiện phương án giải quyết
+vướng mắc nếu thuộc thẩm quyền giải quyết của mình hoặc phối hợp với các cơ
+quan liên quan tham mưu đề xuất phương án, báo cáo Bộ trưởng, Thủ trưởng cơ
+quan ngang bộ, cơ quan trực thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh,
+thành phố trực thuộc trung ương quyết định.
+3. Trường hợp vướng mắc về kết
+nối, chia sẻ dữ liệu giữa các bộ, ngành, địa phương hoặc vướng mắc không giải
+quyết được, căn cứ vào vướng mắc, Bộ trưởng, Thủ trưởng cơ quan ngang bộ, cơ
+quan trực thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc
+trung ương có văn bản đề nghị Bộ Thông tin và Truyền thông xử lý hoặc báo cáo
+Thủ tướng Chính phủ giải quyết.
+b) Cách thức thực hiện: Nộp qua
+Hệ thống Quản lý văn bản và điều hành (iO).
+c) Thành phần và số lượng hồ
+sơ:
+* Thành phần hồ sơ: Văn bản đề
+nghị giải quyết vướng mắc trong kết nối, khai thác dữ liệu
+* Số lượng hồ sơ: 01 bộ
+d) Thời hạn giải quyết: 07 ngày
+làm việc.
+e) Cơ quan thực hiện thủ tục
+hành chính: Sở Khoa học và Công nghệ.
+g) Đối tượng thực hiện thủ tục
+hành chính: Các cơ quan, đơn vị trên địa bàn tỉnh có nhu cầu
+h) Tên mẫu đơn, mẫu tờ kê khai:
+Không quy định
+i) Phí, lệ phí: Không quy định.
+k) Kết quả của việc thực hiện
+thủ tục hành chính: Không quy định
+l) Căn cứ pháp lý của thủ tục
+hành chính:
+- Nghị định số
+47/2020/NĐ-CP
+ngày 09/4/2020 của Chính phủ về quản lý, kết nối và chia sẻ dữ liệu số của cơ
+quan nhà nước;
+-
+Quyết định số 1880/QĐ-UBND
+ngày 08/12/2023 của UBND tỉnh Trà Vinh về việc ban hành Quy chế quản lý, vận
+hành, khai thác, sử dụng dữ liệu Kho dữ liệu dùng chung tỉnh Trà Vinh.
+6. Tên thủ
+tục:
+Thẩm định thiết kế cơ sở (trường hợp thiết kế 2 bước), thiết kế chi tiết
+(trường hợp thiết kế 1 bước) dự án đầu tư ứng dụng CNTT nhóm B
+a) Trình tự thực hiện:
+- Đơn vị chuyên môn về công nghệ
+thông tin trực thuộc Ủy ban nhân dân cấp tỉnh (Sở Khoa học và Công nghệ) thẩm định
+thiết kế cơ sở (trường hợp thiết kế 2 bước), thiết kế chi tiết (trường hợp thiết
+kế 1 bước) đối với dự án nhóm B do Chủ tịch Ủy ban nhân dân tỉnh quyết định đầu
+tư, trừ các dự án có thiết kế cơ sở, thiết kế chi tiết thuộc thẩm quyền thẩm định
+của Bộ Khoa học và Công nghệ.
+Trong trường hợp đơn vị thẩm định
+thiết kế cơ sở hoặc thiết kế chi tiết đồng thời là chủ đầu tư, đơn vị thẩm định
+thiết kế thành lập hội đồng thẩm định để thẩm định thiết kế hoặc người có thẩm
+quyền quyết định đầu tư giao cho đơn vị chuyên môn khác thẩm định thiết kế.
+- Đơn vị đầu mối thẩm định dự
+án gửi văn bản lấy ý kiến của đơn vị thẩm định thiết kế.
+- Chậm nhất 15 ngày, đơn vị thẩm
+định thiết kế có văn bản thẩm định gửi đơn vị đầu mối thẩm định dự án.
+b) Cách thức thực hiện: Nộp trực
+tiếp/ trực tuyến/dịch vụ bưu chính.
+c) Thành phần và số lượng hồ
+sơ:
+* Thành phần hồ sơ:
+- Báo cáo kết quả khảo sát có
+phê duyệt trực tiếp của chủ đầu tư.
+- Thiết kế cơ sở.
+- Các văn bản, tài liệu khác có
+liên quan.
+* Số lượng hồ sơ: 01 bộ
+d) Thời hạn giải quyết: 15 ngày
+kể từ ngày đơn vị thẩm định thiết kế nhận đủ hồ sơ hợp lệ.
+e) Cơ quan thực hiện thủ tục
+hành chính: Sở Khoa học và Công nghệ.
+g) Đối tượng thực hiện thủ tục
+hành chính: Các cơ quan, đơn vị trên địa bàn tỉnh có nhu cầu
+h) Tên mẫu đơn, mẫu tờ kê khai:
+Không quy định
+i) Phí, lệ phí: Không quy định.
+k) Kết quả của việc thực hiện
+thủ tục hành chính: Không quy định
+l) Căn cứ pháp lý của thủ tục
+hành chính:
+- Nghị định số
+73/2019/NĐ-CP
+ngày 05/9/2019 Quy định quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn
+vốn ngân sách nhà nước;
+- Nghị định số
+82/2024/NĐ-CP
+ngày 10/07/2024 Sửa đổi, bổ sung một số điều của Nghị định số
+73/2019/NĐ-CP
+ngày 05/9/2019 của Chính phủ quy định quản lý đầu tư ứng dụng công nghệ thông
+tin sử dụng nguồn vốn ngân sách nhà nước.
+7. Tên thủ
+tục:
+Thẩm định thiết kế cơ sở (trường hợp thiết kế 2 bước), thiết kế chi tiết
+(trường hợp thiết kế 1 bước) dự án đầu tư ứng dụng CNTT nhóm C
+a) Trình tự thực hiện:
+- Đơn vị chuyên môn về công nghệ
+thông tin trực thuộc Ủy ban nhân dân cấp tỉnh (Sở Khoa học và Công nghệ) thẩm định
+thiết kế cơ sở (trường hợp thiết kế 2 bước), thiết kế chi tiết (trường hợp thiết
+kế 1 bước) đối với dự án nhóm C do Chủ tịch Ủy ban nhân dân tỉnh quyết định đầu
+tư, trừ các dự án có thiết kế cơ sở, thiết kế chi tiết thuộc thẩm quyền thẩm định
+của Bộ Khoa học và Công nghệ.
+Trong trường hợp đơn vị thẩm định
+thiết kế cơ sở, thiết kế chi tiết đồng thời là chủ đầu tư, đơn vị thẩm định thiết
+kế thành lập hội đồng thẩm định để thẩm định thiết kế hoặc người có thẩm quyền
+quyết định đầu tư giao cho đơn vị chuyên môn khác thẩm định thiết kế.
+- Đơn vị đầu mối thẩm định dự
+án gửi văn bản lấy ý kiến của đơn vị thẩm định thiết kế.
+- Chậm nhất 10 ngày, đơn vị thẩm
+định thiết kế có văn bản thẩm định gửi đơn vị đầu mối thẩm định dự án.
+b) Cách thức thực hiện: Nộp trực
+tiếp.
+c) Thành phần và số lượng hồ
+sơ:
+* Thành phần hồ sơ:
+- Báo cáo kết quả khảo sát có
+phê duyệt trực tiếp của chủ đầu tư.
+- Thiết kế cơ sở (trường hợp thiết
+kế 2 bước) hoặc thiết kế chi tiết (trường hợp thiết kế 1 bước).
+- Các văn bản, tài liệu khác có
+liên quan.
+* Số lượng hồ sơ: 01 bộ
+d) Thời hạn giải quyết: 10 ngày
+kể từ ngày đơn vị thẩm định thiết kế nhận đủ hồ sơ hợp lệ.
+e) Cơ quan thực hiện thủ tục
+hành chính: Sở Khoa học và Công nghệ.
+g) Đối tượng thực hiện thủ tục
+hành chính: Các cơ quan, đơn vị trên địa bàn tỉnh có nhu cầu
+h) Tên mẫu đơn, mẫu tờ kê khai:
+Không quy định
+i) Phí, lệ phí: Không quy định.
+k) Kết quả của việc thực hiện
+thủ tục hành chính: Không quy định
+l) Căn cứ pháp lý của thủ tục
+hành chính:
+- Nghị định số
+73/2019/NĐ-CP
+ngày 05/9/2019 Quy định quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn
+vốn ngân sách nhà nước;
+- Nghị định số
+82/2024/NĐ-CP
+ngày 10/07/2024 Sửa đổi, bổ sung một số điều của Nghị định số
+73/2019/NĐ-CP
+ngày 05/9/2019 của Chính phủ quy định quản lý đầu tư ứng dụng công nghệ thông
+tin sử dụng nguồn vốn ngân sách nhà nước.
+Lưu trữ
+Ghi chú
+Ý kiến
+Facebook
+Email
+In
+Thư Viện
+Nhà Đất
+Chính chủ bán lỗ nhà phố Elite Life, 1 trệt 2 lầu, 3pn, giá chỉ 3,4 tỷ, bao phí, thương lượng
+3.4 tỷ
+,
+DT 80.25
+,
+Huyện Cần Giuộc, Long An
+Bản án liên quan
+PHÁP LUẬT DOANH NGHIỆP
+Hỏi đáp pháp luật
+Quyết định 1243/QĐ-UBND năm 2025 công bố thủ tục hành chính nội bộ trong hệ thống hành chính nhà nước thuộc phạm vi chức năng quản lý của Sở Khoa học và Công nghệ tỉnh Trà Vinh

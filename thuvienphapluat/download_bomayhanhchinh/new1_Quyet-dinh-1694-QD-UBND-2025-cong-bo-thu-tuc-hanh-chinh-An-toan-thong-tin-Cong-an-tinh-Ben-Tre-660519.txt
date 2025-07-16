@@ -1,0 +1,727 @@
+MỤC LỤC
+                                VĂN BẢN
+In mục lục
+QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ 03 THỦ TỤC HÀNH CHÍNH NỘI BỘ BỘ MỚI BAN HÀNH TRONG LĨNH VỰC AN TOÀN THÔNG TIN THUỘC PHẠM VI, CHỨC NĂNG QUẢN LÝ CỦA CÔNG AN TỈNH BẾN TRE
+Điều 1. Công bố kèm theo Quyết định này 03 thủ tục hành chính nội bộ mới ban hành trong lĩnh vực an toàn thông tin thuộc phạm vi, chức năng quản lý của Công an tỉnh Bến Tre (Phụ lục kèm theo).
+Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.
+Điều 3. Chánh Văn phòng Ủy ban nhân dân tỉnh, Giám đốc Công an tỉnh và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
+PHỤ LỤC I DANH MỤC THỦ TỤC HÀNH CHÍNH NỘI BỘ MỚI BAN HÀNH TRONG LĨNH VỰC AN TOÀN THÔNG TIN THUỘC PHẠM VI, CHỨC NĂNG QUẢN LÝ CỦA CÔNG AN TỈNH B
+PHỤ LỤC II NỘI DUNG CỦA THỦ TỤC HÀNH CHÍNH NỘI BỘ MỚI BAN HÀNH TRONG LĨNH VỰC AN TOÀN THÔNG TIN THUỘC PHẠM VI, CHỨC NĂNG QUẢN LÝ CỦA CÔNG AN TỈNH BẾN TRE
+LĨNH VỰC: AN TOÀN THÔNG TIN
+1. Thủ tục: Xác định lần đầu cấp độ đối với hệ thống thông tin cấp độ 1, 2; xác định lại cấp độ đối với hệ thống thông tin đã được phê duyệt cấp độ 1, 2
+2. Thủ tục: Xác định lần đầu cấp độ đối với hệ thống thông tin cấp độ 3; xác định lại cấp độ đối với hệ thống thông tin đã được phê duyệt cấp độ 3
+3. Thủ tục: Ứng cứu sự cố an toàn thông tin của các hệ thống thông tin/cơ sở dữ liệu (HTTT/CSDL) do tỉnh quản lý
+ỦY BAN NHÂN
+  DÂN
+TỈNH BẾN TRE
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+1694
+/QĐ-UBND
+Bến Tre, ngày
+26
+tháng
+5
+năm 202
+5
+QUYẾT ĐỊNH
+VỀ
+VIỆC CÔNG BỐ 03 THỦ TỤC HÀNH CHÍNH NỘI BỘ BỘ MỚI BAN HÀNH TRONG LĨNH VỰC AN
+TOÀN THÔNG TIN THUỘC PHẠM VI, CHỨC NĂNG QUẢN LÝ CỦA CÔNG AN TỈNH BẾN TRE
+CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH BẾN
+TRE
+Căn cứ Luật Tổ chức chính quyền địa
+phương ngày 19 tháng 02 năm 2025;
+Căn cứ Quyết định số 599/QĐ-UBND ngày 28
+tháng 02 năm 2025 của Ủy ban nhân dân tỉnh về việc chuyển một số chức năng, nhiệm
+vụ, tổ chức bộ máy từ một số cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh Bến
+Tre sang Công an tỉnh Bến Tre;
+Căn cứ Quyết định số 2540/QĐ-UBND ngày
+02 tháng 11 năm 2022 của Ủy ban nhân dân tỉnh ban hành Kế hoạch rà soát, đơn giản
+hóa thủ tục hành chính nội bộ trong hệ thống hành chính nhà nước giai đoạn 2022
+- 2025 trên địa bàn tỉnh Bến Tre;
+Căn cứ Kế hoạch số 2298/KH-UBND ngày 07
+tháng 4 năm 2025 của Ủy ban nhân dân tỉnh về việc thực hiện Nghị quyết số
+66/NQ-CP ngày
+26 tháng 3 năm 2025 của Chính phủ về chương trình cắt giảm, đơn giản hóa thủ tục
+hành chính liên quan đến hoạt động sản xuất, kinh doanh năm 2025 và 2026;
+Theo đề nghị của Giám đốc Công an tỉnh tại
+Tờ trình số 149/TTr-CAT ngày 21 tháng 5 năm 2025.
+QUYẾT ĐỊNH:
+Điều 1.
+Công
+bố kèm theo Quyết định này 03 thủ tục hành chính nội bộ mới ban hành trong lĩnh
+vực an toàn thông tin thuộc phạm vi, chức năng quản lý của Công an tỉnh Bến Tre
+(Phụ lục kèm theo).
+Điều 2.
+Quyết
+định này có hiệu lực thi hành kể từ ngày ký.
+Điều 3.
+Chánh
+Văn phòng Ủy ban nhân dân tỉnh, Giám đốc Công an tỉnh và các tổ chức, cá nhân
+có liên quan chịu trách nhiệm thi hành Quyết định này./.
+Nơi nhận:
+-
+Như Điều 3;
+-
+  Bộ Công an;
+-
+  Cục Kiểm soát TTHC-VPCP;
+-
+  Chủ tịch, các PCT UBND tỉnh;
+-
+  Các PCVP UBND tỉnh;
+-
+  Công an tỉnh;
+-
+  Phòng NC, TTPVHCC;
+-
+  Cổng TTĐT tỉnh;
+-
+  Lưu: VT, TNBV.
+CHỦ TỊCH
+Trần
+  Ngọc Tam
+PHỤ LỤC
+I
+DANH
+MỤC THỦ TỤC HÀNH CHÍNH NỘI BỘ MỚI BAN HÀNH TRONG LĨNH VỰC AN TOÀN THÔNG TIN THUỘC
+PHẠM VI, CHỨC NĂNG QUẢN LÝ CỦA CÔNG AN TỈNH B
+ẾN
+TRE
+(Kèm
+theo Quyết định số
+1694
+/QĐ-UBND ngày
+26
+tháng
+5
+năm 2025 của Ủy
+ban nhân dân tỉnh Bến Tre)
+Danh mục thủ tục hành chính nội bộ
+S
+ố
+TT
+Tên thủ tục
+  hành chính
+Lĩnh vực
+Cơ quan
+thực
+  hiện
+1
+Xác định lần đầu cấp độ đối với hệ thống
+  thông tin cấp độ 1,
+2;
+xác định lại cấp độ đối với hệ thống thông
+  tin đã được phê duyệt cấp độ 1, 2
+An toàn thông
+  tin
+Công an tỉnh
+2
+Xác định lần đầu cấp độ đối với hệ thống
+  thông tin cấp độ 3;
+xác định lại cấp độ đối với hệ thống thông tin đã
+  được phê duyệt cấp độ 3
+3
+Ứng cứu sự cố an toàn thông tin của
+  các hệ thống thông tin/cơ sở dữ liệu
+(HTTT/CSDL)
+do t
+ỉ
+nh quản lý
+PHỤ LỤC
+II
+NỘI
+DUNG CỦA THỦ TỤC HÀNH CHÍNH NỘI BỘ MỚI BAN HÀNH TRONG LĨNH VỰC AN TOÀN THÔNG
+TIN THUỘC PHẠM VI, CHỨC NĂNG QUẢN LÝ CỦA CÔNG AN TỈNH BẾN TRE
+(Kèm
+theo Quyết định số
+1694
+/QĐ-UBND ngày
+26
+tháng
+5
+năm 2025 của Ủy
+ban nhân dân tỉnh Bến Tre)
+LĨNH VỰC: AN TOÀN THÔNG
+TIN
+1. Thủ tục: Xác
+định lần đầu cấp độ đối với hệ thống thông tin cấp độ 1, 2; xác định lại cấp độ
+đối với hệ thống thông tin đã được phê duyệt cấp độ 1, 2
+1.1. Trình t
+ự
+thực hiện:
+- Bước 1:
+Đơn vị vận hành hệ thống
+thông tin gửi hồ sơ đề xuất cấp độ đến đơn vị chuyên trách về an toàn thông tin
+(Công an tỉnh) để thực hiện thẩm định theo quy định.
+- Bước
+2:
+Đơn vị chuyên trách
+về an toàn thông tin thực hiện thẩm định hồ sơ đề xuất cấp độ 1, 2 trong thời hạn
+tối đa là 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.
+- Bước 3:
++ Đối với hệ thống thông tin được đề xuất
+là cấp độ 1 hoặc cấp độ 2, sau khi thẩm định, đơn vị chuyên trách về an toàn
+thông tin phê duyệt cấp độ, gửi báo cáo chủ quản hệ thống thông tin.
++ Đối với hệ thống thông tin đã được phê
+duyệt cấp độ, trong trường hợp phải xác định lại cấp độ cho phù hợp với tình
+hình thực tế thì thực hiện theo trình tự, thủ tục xác định lần đầu.
+1.2. Cách thức thực hiện:
+- Nộp trực tiếp hoặc qua bưu chính đến
+đơn vị chuyên trách về an toàn thông tin (Công an tỉnh Bến Tre).
+- Nộp trực tuyến qua hệ thống quản lý
+văn bản và điều hành tỉnh Bến Tre.
+1.3. Thành phần hồ sơ:
+- Tài liệu mô tả, thuyết minh tổng quan
+về hệ thống thông tin.
+- Tài liệu thiết kế là một trong những
+tài liệu sau: Đối với dự án đầu tư xây dựng mới hoặc mở rộng, nâng cấp hệ thống
+thông tin: Thiết kế sơ bộ hoặc tài liệu có giá trị tương đương. Đối với hệ thống
+thông tin đang vận hành: Thiết kế thi công đã được cấp có thẩm quyền phê duyệt
+hoặc tài liệu có giá trị tương đương.
+- Tài liệu thuyết minh về việc đề xuất cấp
+độ căn cứ trên các tiêu chí theo quy định của pháp luật.
+- Tài liệu thuyết minh phương án bảo đảm
+an toàn thông tin theo cấp độ tương ứng.
+1.4.
+Số lượng hồ sơ:
+01 bộ.
+1.5.
+Thời gian giải quyết:
+- Thời gian thẩm định hồ sơ xác định cấp
+độ 1,
+2:
+Tối đa là 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.
+- Thời gian xử lý hồ sơ phê duyệt cấp độ:
+Tối đa là 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.
+1.6. Đối tượng thực hiện TTHC:
+Cơ quan, tổ chức.
+1.7. Cơ quan giải quyết TTHC:
+Công an tỉnh.
+1.8. Kết quả thực hiện TTHC:
+Ý kiến thẩm định
+hồ sơ đề xuất cấp độ; Quyết định phê duyệt cấp độ an toàn hệ thống thông tin.
+1.9. Phí, lệ phí:
+Không.
+1.10. Tên mẫu đơn, mẫu tờ khai:
+Mẫu số 01
+: Văn bản đề nghị thẩm
+định, phê duyệt hồ sơ đề xuất cấp độ (ban hành kèm theo Nghị định số
+85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ về đảm bảo an toàn hệ thống
+thông tin theo cấp độ).
+1.11. Yêu cầu, điều kiện thực hiện TTHC:
+Không
+quy định.
+1.12. Căn cứ pháp lý của TTHC:
+- Nghị định số 85/2016/NĐ-CP ngày 01
+tháng 7 năm 2016 của Chính phủ về đảm bảo an toàn hệ thống thông tin theo cấp độ.
+- Thông tư số
+12/2022/TT-BTTTT
+ngày 12 tháng 8
+năm 2022 của Bộ trưởng Bộ Thông tin và Truyền thông quy định chi tiết và hướng
+dẫn một số điều của Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của
+Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ.
+Mẫu số 01
+(
+TÊN TỔ CHỨC,
+  CÁ NHÂN
+)
+--------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+  ..............
+V/v
+  đề nghị thẩm định, phê duyệt hồ sơ đề xuất cấp độ
+………, ngày ...
+  tháng ... năm ..…...
+Kính gửi: Công
+an tỉnh
+Căn cứ Luật An toàn thông tin mạng ngày 19/11/2015;
+(Căn cứ các văn bản hướng dẫn thi hành
+Luật An toàn thông tin mạng và các văn bản liên quan);
+(Tên cơ quan, tổ chức) đề nghị thẩm định,
+phê duyệt hồ sơ đề xuất cấp độ với các nội dung sau:
+Phần 1. Thông tin chung
+1. Tên hệ thống thông tin:
+2. Đơn vị vận hành hệ thống thông tin:
+3. Địa chỉ:
+4. Cấp độ an toàn hệ thống thông tin đề
+xuất:
+Phần 2. Hồ sơ kèm theo
+1. Tài liệu mô tả, thuyết minh tổng quan
+về hệ thống thông tin.
+2. Tài liệu thiết kế thi công đã được cấp
+có thẩm quyền phê duyệt hoặc tài liệu có giá trị tương đương.
+3. Tài liệu thuyết minh về việc đề xuất
+cấp độ căn cứ trên các tiêu chí theo quy định của pháp luật.
+4. Tài liệu thuyết minh phương án bảo đảm
+an toàn thông tin theo cấp độ tương
+ứng.
+(Tên cơ quan, tổ chức) đề nghị (Đơn vị
+chuyên trách về an toàn thông tin) thẩm định và phê duyệt hồ sơ đề xuất cấp độ
+của hệ thống thông tin (Tên hệ thống thông tin)./.
+Nơi
+  nhận
+:
+-
+  Như trên;
+-
+  ................
+ĐẠI DIỆN CỦA
+  CƠ QUAN, TỔ CHỨC
+(Ký,
+  ghi rõ họ tên, chức danh
+và đóng dấu)
+2. Thủ tục: Xác
+định lần đầu cấp độ đối với hệ thống thông tin cấp độ 3; xác định lại cấp độ đối
+với hệ thống thông tin đã được phê duyệt cấp độ 3
+2.1. Trình t
+ự
+thực hiện:
+- Bước 1:
+Đơn vị vận hành hệ thống
+thông tin gửi hồ sơ đề xuất cấp độ đến Công an tỉnh để thực hiện thẩm định theo
+quy định.
+- Bước
+2:
+Công an tỉnh
+thực hiện thẩm định hồ sơ đề xuất cấp độ 3 trong thời hạn tối đa là 15 ngày kể
+từ ngày nhận đủ hồ sơ hợp lệ.
+- Bước 3:
++ Hệ thống thông tin được đề xuất là cấp
+độ 3, sau khi thẩm định, đơn vị vận hành hệ thống thông tin trình chủ quản hệ
+thống thông tin (Ủy ban nhân dân tỉnh) phê duyệt cấp độ.
++ Đối với hệ thống thông tin đã được phê
+duyệt cấp độ, trong trường hợp phải xác định lại cấp độ cho phù hợp với tình
+hình thực tế thì thực hiện theo trình tự, thủ tục xác định lần đầu.
+2.2. Cách thức thực hiện:
+- Nộp trực tiếp hoặc qua bưu chính đến
+Công an tỉnh.
+- Nộp trực tuyến qua Hệ thống quản lý
+văn bản và điều hành tỉnh Bến Tre.
+2.3. Thành phần hồ sơ:
+- Tài liệu mô tả, thuyết minh tổng quan
+về hệ thống thông tin.
+- Tài liệu thiết kế là một trong những
+tài liệu sau: Đối với dự án đầu tư xây dựng mới hoặc mở rộng, nâng cấp hệ thống
+thông tin: Thiết kế sơ bộ hoặc tài liệu có giá trị tương đương. Đối với hệ thống
+thông tin đang vận hành: Thiết kế thi công đã được cấp có thẩm quyền phê duyệt
+hoặc tài liệu có giá trị tương đương.
+- Tài liệu thuyết minh về việc đề xuất cấp
+độ căn cứ trên các tiêu chí theo quy định của pháp luật.
+- Tài liệu thuyết minh phương án bảo đảm
+an toàn thông tin theo cấp độ tương ứng.
+2.4. Số lượng hồ sơ:
+01 bộ.
+2.5. Thời hạn giải quyết:
+- Thời gian thẩm định hồ sơ xác định cấp
+độ 3: Tối đa là 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.
+- Thời gian xử lý hồ sơ phê duyệt cấp độ:
+Tối đa là 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.
+2.6. Đối tượng thực hiện TTHC:
+Cơ quan, tổ chức.
+2.7. Cơ quan giải quyết TTHC:
+- Cơ quan trực tiếp thực hiện TTHC: Công
+an tỉnh.
+- Cơ quan có thẩm quyền giải quyết TTHC:
+Ủy ban nhân dân tỉnh.
+2.8.
+Kết quả thực hiện TTHC:
+Ý
+kiến thẩm định hồ sơ đề xuất cấp độ; Quyết định phê duyệt cấp độ an toàn hệ thống
+thông tin.
+2.9. Phí, lệ phí:
+Không quy định.
+2.10. Tên mẫu đơn, mẫu tờ khai:
+Mẫu số 02
+: Văn bản đề nghị thẩm
+định hồ sơ đề xuất cấp độ (ban hành kèm theo Nghị định số 85/2016/NĐ-CP ngày 01
+tháng 7 năm 2016 của Chính phủ về đảm bảo an toàn hệ thống thông tin theo cấp độ).
+2.11. Yêu cầu, điều kiện thực hiện TTHC:
+Không
+quy định.
+2.12. Căn cứ pháp lý của TTHC:
+- Nghị định số 85/2016/NĐ-CP ngày 01
+tháng 7 năm 2016 của Chính phủ về đảm bảo an toàn hệ thống thông tin theo cấp độ.
+- Thông tư số
+12/2022/TT-BTTTT
+ngày 12 tháng 8
+năm 2022 của Bộ trưởng Bộ Thông tin và Truyền thông quy định chi tiết và hướng
+dẫn một số điều của Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của
+Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ.
+Mẫu số 02
+(
+TÊN TỔ CHỨC,
+  CÁ NHÂN
+)
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+  ..............
+V/v
+  đề nghị thẩm định hồ sơ
+đề xuất cấp độ
+………, ngày ...
+  tháng ... năm ..…...
+Kính gửi: Công
+an tỉnh
+Căn cứ Luật An toàn thông tin mạng ngày
+19/11/2015;
+(Căn cứ các văn bản hướng dẫn thi hành
+Luật An toàn thông tin mạng và các văn bản liên quan);
+(Tên cơ quan, tổ chức) đề nghị thẩm định,
+phê duyệt hồ sơ đề xuất cấp độ với các nội dung sau:
+Phần 1. Thông tin chung
+1. Tên hệ thống thông tin:
+2. Đơn vị vận hành hệ thống thông tin:
+3. Địa chỉ:
+4. Cấp độ an toàn hệ thống thông tin đề
+xuất:
+Phần 2. Hồ sơ kèm theo
+1. Tài liệu mô tả, thuyết minh tổng quan
+về hệ thống thông tin.
+2. Tài liệu thiết kế thi công đã được cấp
+có thẩm quyền phê duyệt hoặc tài liệu có giá trị tương đương.
+3. Tài liệu thuyết minh về việc đề xuất
+cấp độ căn cứ trên các tiêu chí theo quy định của pháp luật.
+4. Tài liệu thuyết minh phương án bảo đảm
+an toàn thông tin theo cấp độ tương
+ứng.
+(Tên cơ quan, tổ chức) đề nghị (Đơn vị
+chuyên trách về an toàn thông tin) thẩm định và phê duyệt hồ sơ đề xuất cấp độ
+của hệ thống thông tin (Tên hệ thống thông tin)./.
+Nơi
+  nh
+ận:
+-
+  Như trên;
+- ...............
+ĐẠI DIỆN CỦA
+  CƠ QUAN, T
+Ổ
+CHỨC
+(K
+ý
+, ghi rõ họ
+  tên, chức danh và đóng dấu)
+3. Thủ tục: Ứng
+cứu sự cố an toàn thông tin của các hệ thống thông tin/cơ sở dữ liệu
+(HTTT/CSDL) do tỉnh quản lý
+3.1. Trình t
+ự
+thực hiện:
+- Bước 1:
+Tiếp nhận, phân tích, ứng
+cứu ban đầu và thông báo sự cố.
+- Bước
+2:
+Triển khai ứng
+cứu, ngăn chặn và xử lý sự cố.
+- Bước
+3:
+Xử lý sự cố, gỡ
+bỏ và khôi phục.
+- Bước
+4:
+Tổng kết, đánh
+giá.
+3.2. Cách thức thực hiện:
+- Nộp trực tiếp hoặc qua b
+ư
+u chính đến Công an tỉnh.
+- Nộp trực tuyến qua Hệ thống quản lý
+văn bản và điều hành tỉnh Bến Tre.
+3.3. Thành phần hồ sơ:
+Tài liệu mô tả
+tổng quan sự cố an toàn thông tin của HTTT/CSDL nh
+ư
+dấu hiệu sự cố từ các
+nguồn bên trong và bên ngoài.
+3.4. Số lượng hồ sơ:
+01 bộ.
+3.5.
+Thời hạn giải quyết:
+Thời gian xử lý sự cố: Không quá 05 ngày làm việc kể từ khi tiếp nhận hồ sơ
+báo cáo sự cố an toàn thông tin.
+3.6. Đối tượng thực hiện TTHC:
+Cơ quan, tổ chức.
+3.7.
+Cơ quan giải quyết
+TTHC:
+Công an tỉnh.
+3.8.
+Kết quả thực hiện
+TTHC:
+Báo cáo kết thúc ứng phó sự cố an toàn thông tin của các HTTT/CSDL
+theo quy trình ứng cứu sự cố an toàn thông tin mạng theo sơ đồ tại
+Phụ lục II
+(ban hành kèm theo Thông
+tư số 20/2017/TT-BTTTT ngày 12 tháng 9 năm 2017 của Bộ trưởng Bộ Thông tin và
+Truyền thông quy định về điều phối, ứng cứu s
+ự
+cố an toàn thông tin mạng trên toàn quốc).
+3.9. Phí, lệ phí:
+Không quy định.
+3.10.
+Tên mẫu đơn, mẫu tờ
+khai:
+Mẫu số 03
+: Báo cáo ban đầu
+sự cố an toàn thông tin mạng (ban hành kèm theo Thông t
+ư
+số 20/2017/TT-BTTTT
+ngày 12 tháng 9 năm 2017 của Bộ trưởng Bộ Thông tin và Truyền thông quy định về
+điều phối, ứng cứu sự cố an toàn thông tin mạng trên toàn quốc).
+3.11.
+Yêu cầu, điều kiện
+thực hiện TTHC:
+Không quy định.
+3.12. Căn cứ pháp lý của TTHC:
+- Quyết định số 05/2017/QĐ-TTg ngày 16
+tháng 3 năm 2017 của Thủ tướng Chính phủ ban hành quy định về hệ thống phương
+án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia.
+- Thông t
+ư
+số 20/2017/TT-BTTTT ngày 12 tháng 9 năm
+2017 của Bộ trưởng Bộ Thông tin và Truyền thông quy định về điều phối, ứng cứu
+sự cố an toàn thông tin mạng trên toàn quốc.
+Mẫu số 03
+BÁO CÁO BAN ĐẦU
+SỰ CỐ MẠNG
+THÔNG TIN V
+Ề
+TỔ CHỨC/CÁ
+NHÂN BÁO CÁO SỰ CỐ
+■ Tên tổ chức/cá nhân báo cáo sự cố (*)
+........................................................................
+■ Địa chỉ: (*)
+.....................................................................................................................
+■ Điện thoại (*)
+.............................................................
+Email
+(*)
+....................................
+NGƯỜI LIÊN HỆ
+■ Họ và tên (*)
+........................................................................
+Chức vụ:
+....................................
+■ Điện thoại (*)
+........................................................................
+Email
+(*)
+....................................
+THÔNG TIN CHI TIẾT VỀ H
+Ệ
+TH
+ỐN
+G B
+Ị
+S
+Ự
+CỐ
+Tên đơn vị vận hành hệ thống thông tin
+  (*):
+Điền tên đơn vị vận
+  hành hoặc được thuê vận hành hệ thống thông tin
+Cơ quan chủ quản:
+Điền tên cơ quan chủ
+  quản
+Tên hệ thống bị sự c
+ố
+Điền tên hệ thống bị
+  sự cố và tên miền, địa chỉ
+i
+p liên quan
+Phân loại cấp độ của hệ thống thông
+  tin (nếu có)
+□ Cấp độ 1
+□ Cấp độ 2
+□ Cấp độ 3
+□ Cấp độ 4
+□ Cấp độ 5
+Tổ chức cung cấp dịch vụ an toàn thông
+  tin (nếu có):
+Điền tên nhà cung cấp
+  ở đây
+Tên nhà cung cấp dịch vụ kết nối bên
+  ngoài (nếu có)
+Điền tên nhà cung cấp
+  ở đây
+Điền tên nhà cung cấp ở đây
+Điền thông tin ở đây
+Mô tả sơ bộ về sự cố (*)
+Đề nghị cung cấp một
+  bản tóm tắt ngắn gọn về sự cố, bao gồm đánh giá sơ bộ cuộc tấn công đã xảy ra
+  chưa và bất kỳ các nguy cơ dẫn đến khả năng phá hoại hoặc gián đoạn dịch vụ.
+  Cũng vui lòng xác định mức độ nhạy cảm của thông tin liên quan hoặc những đối
+  tượng bị ảnh hưởng bởi sự cố:
+................................................................................................................................................
+......................................................................................................................................................
+......................................................................................................................................................
+......................................................................................................................................................
+......................................................................................................................................................
+......................................................................................................................................................
+......................................................................................................................................................
+......................................................................................................................................................
+Ngày phát hiện sự cố (*)
+(dd/mm/yy)
+…/…/……
+Thời gian phát hiện
+(*):
+....................................
+...........
+giờ.... phút
+HIỆN TRẠNG SỰ CỐ (*)
+□ Đã được xử lý
+□ Chưa được xử lý
+CÁCH THỨC PHÁT HIỆN *
+(Đánh dấu những
+cách thức được sử dụng để phát hiện sự cố)
+□ Qua hệ thống phát hiện xâm nhập
+□ Kiểm tra dữ
+liệu lưu lại
+(Log
+File)
+□ Nhận được thông báo từ:
+..........................................................................................................
+□ Khác, đó là
+.................................................................................................................................
+ĐÃ GỬI THÔNG BÁO SỰ C
+Ố
+CHO *
+□ Thành viên mạng lưới chịu trách nhiệm ứng
+cứu sự cố cho tổ chức, cá nhân
+□ ISP đang trực tiếp cung cấp dịch vụ
+□ Cơ quan điều phối
+THÔNG TIN B
+Ổ
+SUNG VỀ HỆ THỐNG
+XẢY RA SỰ C
+Ố
+■ Hệ điều hành
+........................................................................
+Version
+....................................
+■ Các dịch vụ có trên hệ thống
+(Đánh
+dấu những dịch vụ được sử dụng trên hệ thống)
+□
+Web server
+□
+Mail server
+□ Database server
+□
+Dịch vụ khác, đó là
+............................................................................................................
+■ Các biện pháp an toàn thông tin đã triển
+khai
+(Đánh dấu những biện pháp đã triển khai)
+□
+Antivirus
+□
+Firewall
+□ Hệ thống phát hiện xâm
+nhập
+□ Khác:
+■ Các địa chỉ
+IP
+của hệ thống
+(Liệt
+kê địa chỉ
+IP
+sử
+dụng trên Internet, không liệt kê địa chỉ
+IP
+nội bộ)
+................................................................................................................................................
+■ Các tên miền của hệ thống
+................................................................................................................................................
+■ Mục đích chính sử dụng hệ thống
+......................................................................................
+................................................................................................................................................
+■ Thông tin gửi kèm
+□ Nhật ký hệ thống
+□ Mẫu
+virus
+/ mã độc
+□ Khác:
+■ Các thông tin cung cấp trong thông báo
+sự cố này đều phải được giữ bí mật: □ Có
+□ Không
+KIẾN NGHỊ, Đ
+Ề
+XUẤT HỖ TRỢ
+Mô tả về đề xuất, kiến nghị
+Đề nghị cung cấp tóm
+  lược về các kiến nghị và đ
+ề
+xuất hỗ trợ ứng cứu
+  (n
+ế
+u có) ...
+....................
+......................................................................................................................................................
+......................................................................................................................................................
+......................................................................................................................................................
+......................................................................................................................................................
+......................................................................................................................................................
+THỜI GIAN THỰC HIỆN BÁO CÁO SỰ CỐ *:
+…/…/……
+(ngày/tháng/năm/giờ/phút)
+CÁ NHÂN/NGƯỜI
+  ĐẠI DIỆN THEO PHÁP LUẬT
+(K
+ý
+tên, đóng dấu)
+Chú thích:
+1. Phân (*) là những thông tin bắt buộc.
+Các phần còn lại có thế loại bỏ nếu không có thông tin.
+2. Sử dụng tiêu đề
+(subject)
+bắt đầu bằng
+“
+[
+TBSC]
+”
+khi gửi thông
+báo
+qua
+email
+3. Tham khảo thêm tại
+website
+của VNCERT
+(www.vncert.gov.
+vn)
+QUY TRÌNH
+Ứ
+NG CỨU SỰ CỐ THÔNG THƯỜNG
+Lưu trữ
+Ghi chú
+Ý kiến
+Facebook
+Email
+In
+Thư Viện
+Nhà Đất
+Bán lỗ căn góc 2PN Lumiere Boulevard, 80m², giá 4,9 tỷ, trả trước 35%, còn lại trả chậm 1 năm
+4.9 tỷ
+,
+DT 80
+,
+Thành phố Thủ Đức, Hồ Chí Minh
+Bản án liên quan
+PHÁP LUẬT DOANH NGHIỆP
+Hỏi đáp pháp luật
+Quyết định 1694/QĐ-UBND năm 2025 công bố 03 thủ tục hành chính nội bộ bộ mới trong lĩnh vực An toàn thông tin thuộc phạm vi, chức năng quản lý của Công an tỉnh Bến Tre

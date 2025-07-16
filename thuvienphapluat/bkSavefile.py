@@ -129,7 +129,7 @@ def download_content(url, index):
                 EC.presence_of_element_located((By.CSS_SELECTOR, "div#tab1.contentDoc, div.col-md-12.py-4"))
             )
         except Exception:
-            screenshot_path = f"{download_dir}/error_file_{index + 1 + random.uniform(1, 1000)}.png"
+            screenshot_path = f"{download_dir}/error_file_{index + 1 + random.uniform(1, 1000)}_new1.png"
             driver.save_screenshot(screenshot_path)
             logging.error(f"❌ Main content not found at {full_url} - saved image error {screenshot_path}")
             return False
@@ -148,7 +148,7 @@ def download_content(url, index):
 
         doc_id_with_ext = url.rstrip("/").split("/")[-1]
         doc_id, _ = os.path.splitext(doc_id_with_ext)
-        file_path = os.path.join(download_dir, f"new_{doc_id}.txt")
+        file_path = os.path.join(download_dir, f"new1_{doc_id}.txt")
         with open(file_path, "w", encoding="utf-8") as file:
             file.write(text)
 

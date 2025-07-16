@@ -1,0 +1,2022 @@
+MỤC LỤC
+                                VĂN BẢN
+In mục lục
+QUYẾT ĐỊNH VỀ VIỆC PHÊ DUYỆT QUY TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH TRONG LĨNH VỰC BẢO TRỢ XÃ HỘI VÀ LĨNH VỰC PHÒNG, CHỐNG TỆ NẠN XÃ HỘI THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ Y TẾ, ỦY BAN NHÂN DÂN CẤP HUYỆN, UỶ BAN NHÂN DÂN CẤP XÃ TỈNH CAO BẰNG
+Điều 1. Phê duyệt kèm theo Quyết định này 33 quy trình nội bộ giải quyết thủ tục hành chính trong lĩnh vực Bảo trợ xã hội và lĩnh vực Phòng, chống tệ nạn xã hội thuộc thẩm quyền giải quyết của Sở Y tế, Ủy ban nhân dân cấp huyện, Ủy ban nhân dân cấp xã tỉnh Cao Bằng (chi tiết tại Phụ lục kèm theo).
+Điều 2. Giao Sở Y tế chủ trì, phối hợp với đơn vị cung cấp dịch vụ công nghệ thông tin căn cứ quy trình nội bộ giải quyết thủ tục hành chính được phê duyệt tại Điều 1 Quyết định này, xác lập quy trình điện tử giải quyết thủ tục hành chính áp dụng trên Hệ thống thông tin giải quyết thủ tục hành chính của tỉnh đảm bảo theo quy định.
+Điều 3. Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành.
+Điều 4. Chánh Văn phòng Ủy ban nhân dân tỉnh, Giám đốc Sở Y tế, Thủ trưởng các sở, ban, ngành, Giám đốc Trung tâm Phục vụ hành chính công, Chủ tịch Ủy ban nhân dân các huyện, thành phố, Chủ tịch Ủy ban nhân dân các xã, phường, thị trấn và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
+PHỤ LỤC QUY TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH TRONG LĨNH VỰC BẢO TRỢ XÃ HỘI VÀ PHÒNG, CHỐNG TỆ NẠN XÃ HỘI THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ Y TẾ, ỦY BAN NHÂN DÂN CẤP HUYỆN, ỦY BAN NHÂN DÂN CẤP XÃ TỈNH CAO BẰNG
+I. QUY TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH CẤP TỈNH (14 TTHC)
+Quy trình số 01 1. Quy trình nội bộ giải quyết TTHC: Quyết định công nhận cơ sở sản xuất, kinh doanh sử dụng từ 30% tổng số lao động trở lên là người khuyết tật (Mã TTHC: 1.001806)
+Quy trình số 02 2. Quy trình nội bộ giải quyết TTHC: Giải thể cơ sở trợ giúp xã hội ngoài công lập thuộc thẩm quyền thành lập của Sở Y tế (Mã TTHC: 2.000062)
+Quy trình số 03 3. Quy trình nội bộ giải quyết TTHC: Đăng ký thành lập, đăng ký thay đổi nội dung hoặc cấp lại giấy chứng nhận đăng ký thành lập cơ sở trợ giúp xã hội ngoài công lập thuộc thẩm quyền của Sở Y tế. (Mã TTHC: 2.000135)
+Quy trình số 04 4. Quy trình nội bộ giải quyết TTHC: Cấp giấy phép hoạt động đối với cơ sở trợ giúp xã hội thuộc thẩm quyền thành lập của Sở Y tế. (Mã TTHC: 2.000056)
+Quy trình số 05 5. Quy trình nội bộ giải quyết TTHC: Cấp lại, điều chỉnh giấy phép hoạt động đối với cơ sở trợ giúp xã hội có giấy phép hoạt động do Sở Y tế cấp. (Mã TTHC: 2.000051)
+Quy trình số 06 6. Quy trình nội bộ giải quyết TTHC: Cấp (mới) giấy chứng nhận đăng ký hành nghề công tác xã hội. (Mã TTHC: 1.012991)
+Quy trình số 07 7. Quy trình nội bộ giải quyết TTHC: Cấp lại giấy chứng nhận đăng ký hành nghề công tác xã hội. (Mã TTHC: 1.012992)
+Quy trình số 08 8. Quy trình nội bộ giải quyết TTHC: Đăng ký hành nghề công tác xã hội tại Việt Nam đối với người nước ngoài, người Việt Nam định cư ở nước ngoài. (Mã TTHC: 1.012993)
+Quy trình số 09 9. Quy trình nội bộ giải quyết TTHC: Cấp giấy xác nhận quá trình thực hành công tác xã hội. (Mã TTHC: 1.012990)
+Quy trình số 10 10. Quy trình nội bộ liên thông giải quyết TTHC: Cấp giấy phép thành lập cơ sở hỗ trợ nạn nhân. (Mã TTHC: 2.000025)
+Quy trình số 11 11. Quy trình nội bộ giải quyết TTHC: Cấp lại giấy phép thành lập cơ sở hỗ trợ nạn nhân. (Mã TTHC: 2.000027)
+Quy trình số 12 12. Quy trình nội bộ giải quyết TTHC: Sửa đổi, bổ sung giấy phép thành lập cơ sở hỗ trợ nạn nhân. (Mã TTHC: 2.000032)
+Quy trình số 13 13. Quy trình nội bộ giải quyết TTHC: Gia hạn giấy phép thành lập cơ sở hỗ trợ nạn nhân. (Mã TTHC: 2.000036)
+Quy trình số 14 14. Quy trình nội bộ giải quyết TTHC: Đề nghị chấm dứt hoạt động của cơ sở hỗ trợ nạn nhân. (Mã TTHC: 1.000091)
+II. QUY TRÌNH NỘI BỘ LIÊN THÔNG GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH CẤP TỈNH, HUYỆN (03 TTHC)
+Quy trình số 15 15. Quy trình nội bộ liên thông giải quyết TTHC: Tiếp nhận đối tượng bảo trợ xã hội có hoàn cảnh đặc biệt khó khăn vào cơ sở trợ giúp xã hội cấp tỉnh, cấp huyện. (Mã TTHC: 2.000286)
+Quy trình số 16 16. Quy trình nội bộ liên thông giải quyết TTHC: Tiếp nhận đối tượng cần bảo vệ khẩn cấp vào cơ sở trợ giúp xã hội cấp tỉnh, cấp huyện. (Mã TTHC: 2.000282)
+Quy trình số 17a 17. Quy trình nội bộ giải quyết TTHC: Dừng trợ giúp xã hội tại cơ sở trợ giúp xã hội cấp tỉnh, cấp huyện. (Mã TTHC: 2.000477)
+III. QUY TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH CẤP HUYỆN (12 TTHC)
+Quy trình số 18 18. Quy trình nội bộ liên thông giải quyết TTHC: Thực hiện, điều chỉnh, thôi hưởng trợ cấp xã hội hàng tháng, hỗ trợ kinh phí chăm sóc, nuôi dưỡng hàng tháng. (Mã TTHC: 1.001776)
+Quy trình số 19 19. Quy trình nội bộ liên thông giải quyết TTHC: Chi trả trợ cấp xã hội hàng tháng, hỗ trợ kinh phí chăm sóc, nuôi dưỡng hàng tháng khi đối tượng thay đổi nơi cư trú trong cùng địa bàn quận, huyện, xã, thành phố thuộc tỉnh. (Mã TTHC: 1.001758)
+Quy trình số 20 20. Quy trình nội bộ liên thông giải quyết TTHC: Quyết định trợ cấp xã hội hàng tháng, hỗ trợ kinh phí chăm sóc, nuôi dưỡng hàng tháng khi đối tượng thay đổi nơi cư trú giữa các quận, huyện, thị xã, thành phố thuộc tỉnh, trong và ngoài tỉnh, thành phố trực thuộc trung ương. (Mã TTHC: 1.001753).
+Quy trình số 21 21. Quy trình nội bộ liên thông giải quyết TTHC: Hỗ trợ chi phí mai táng cho đối tượng bảo trợ xã hội. (Mã TTHC: 1.001731)
+Quy trình số 22 22. Quy trình nội bộ liên thông giải quyết TTHC: Trợ giúp xã hội khẩn cấp về hỗ trợ chi phí điều trị người bị thương nặng ngoài nơi cư trú mà không có người thân thích chăm sóc. (Mã TTHC: 2.000777)
+Quy trình số 23 23. Quy trình nội bộ liên thông giải quyết TTHC: Trợ giúp xã hội khẩn cấp về hỗ trợ chi phí mai táng (Mã TTHC: 2.000744)
+Quy trình số 24 24. Quy trình nội bộ liên thông giải quyết TTHC: Nhận chăm sóc, nuôi dưỡng đối tượng cần bảo vệ khẩn cấp (Mã TTHC: 1.001739)
+Quy trình số 25 25. Quy trình nội bộ giải quyết TTHC: Cấp lại, điều chỉnh giấy phép hoạt động đối với cơ sở trợ giúp xã hội có giấy phép hoạt động do Phòng Y tế cấp. (Mã TTHC: 1.000684)
+Quy trình số 26 26. Quy trình nội bộ giải quyết TTHC: Giải thể cơ sở trợ giúp xã hội ngoài công lập thuộc thẩm quyền thành lập của Phòng Y tế. (Mã TTHC: 2.000298)
+Quy trình số 27 27. Quy trình nội bộ giải quyết TTHC: Cấp giấy phép hoạt động đối với cơ sở trợ giúp xã hội thuộc thẩm quyền của Phòng Y tế. (Mã TTHC: (2.000294)
+Quy trình số 28 28. Quy trình nội bộ giải quyết TTHC: Đăng ký thành lập, đăng ký thay đổi nội dung hoặc cấp lại giấy chứng nhận đăng ký thành lập cơ sở trợ giúp xã hội ngoài công lập thuộc thẩm quyền của Phòng Y tế. (Mã TTHC: 1.000669)
+Quy trình số 29 29. Quy trình nội bộ liên thông giải quyết TTHC: Hỗ trợ học văn hóa, học nghề, trợ cấp khó khăn ban đầu cho nạn nhân. (Mã TTHC: 2.001661)
+IV. QUY TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH CẤP XÃ (04 TTHC)
+Quy trình số 30 30. Quy trình nội bộ giải quyết TTHC: Xác định, xác định lại mức độ khuyết tật và cấp Giấy xác nhận khuyết tật. (Mã TTHC: 1.001699)
+Quy trình số 31 31. Quy trình nội bộ giải quyết TTHC: Cấp đổi, cấp lại Giấy xác nhận khuyết tật. (Mã TTHC:1.001653)
+Quy trình số 32 32. Quy trình nội bộ giải quyết TTHC: Đăng ký hoạt động đối với cơ sở trợ giúp xã hội dưới 10 đối tượng có hoàn cảnh khó khăn. (Mã TTHC: 2.000355)
+Quy trình số 33 33. Quy trình nội bộ giải quyết TTHC: Trợ giúp xã hội khẩn cấp về hỗ trợ làm nhà ở, sửa chữa nhà ở. (Mã TTHC: 2.000751)
+ỦY BAN NHÂN DÂN
+TỈNH CAO BẰNG
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 748/QĐ-UBND
+Cao Bằng, ngày 05
+  tháng 6 năm 2025
+QUYẾT ĐỊNH
+VỀ VIỆC PHÊ DUYỆT QUY TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH
+CHÍNH TRONG LĨNH VỰC BẢO TRỢ XÃ HỘI VÀ LĨNH VỰC PHÒNG, CHỐNG TỆ NẠN XÃ HỘI THUỘC
+THẨM QUYỀN GIẢI QUYẾT CỦA SỞ Y TẾ, ỦY BAN NHÂN DÂN CẤP HUYỆN, UỶ BAN NHÂN DÂN CẤP
+XÃ TỈNH CAO BẰNG
+CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH CAO BẰNG
+Căn cứ Luật Tổ chức chính
+quyền địa phương ngày 19 tháng 02 năm 2025;
+Căn cứ Nghị định số
+61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa,
+một cửa liên thông trong giải quyết thủ tục hành chính; Nghị định số
+107/2021/NĐ-CP ngày 06 tháng 12 năm 2021 về sửa đổi, bổ sung một số điều của
+Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện
+cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính;
+Căn cứ Thông tư số 01/2018/TT-VPCP
+ngày 23 tháng 11 năm 2018 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ hướng dẫn
+thi hành một số quy định của Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm
+2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải
+quyết thủ tục hành chính;
+Căn cứ Quyết định số
+465/QĐ-UBND ngày 16 tháng 4 năm 2025 của Chủ tịch Ủy ban nhân dân tỉnh Cao Bằng
+về việc công bố danh mục thủ tục hành chính được sửa đổi, bổ sung và bị bãi bỏ
+trong lĩnh vực Bảo trợ xã hội và lĩnh vực Phòng, chống tệ nạn xã hội thuộc thẩm
+quyền giải quyết của Sở Y tế, Ủy ban nhân dân cấp huyện, Uỷ ban nhân dân cấp xã
+tỉnh Cao Bằng;
+Theo đề nghị của Giám đốc Sở
+Y tế tỉnh Cao Bằng tại Tờ trình số 2745/TTr-SYT ngày 29 tháng 5 năm 2025.
+QUYẾT ĐỊNH:
+Điều 1.
+Phê duyệt kèm theo Quyết định này 33 quy trình nội bộ
+giải quyết thủ tục hành chính trong lĩnh vực Bảo trợ xã hội và lĩnh vực Phòng,
+chống tệ nạn xã hội thuộc thẩm quyền giải quyết của Sở Y tế, Ủy ban nhân dân cấp
+huyện, Ủy ban nhân dân cấp xã tỉnh Cao Bằng
+(chi tiết tại Phụ lục kèm theo).
+Điều 2.
+Giao Sở Y tế chủ trì, phối hợp với đơn vị cung cấp dịch
+vụ công nghệ thông tin căn cứ quy trình nội bộ giải quyết thủ tục hành chính được
+phê duyệt tại Điều 1 Quyết định này, xác lập quy trình điện tử giải quyết thủ tục
+hành chính áp dụng trên Hệ thống thông tin giải quyết thủ tục hành chính của tỉnh
+đảm bảo theo quy định.
+Điều 3.
+Quyết định này có hiệu lực thi hành kể từ ngày ký ban
+hành.
+Điều 4.
+Chánh Văn phòng Ủy ban nhân dân tỉnh, Giám đốc Sở Y tế,
+Thủ trưởng các sở, ban, ngành, Giám đốc Trung tâm Phục vụ hành chính công, Chủ
+tịch Ủy ban nhân dân các huyện, thành phố, Chủ tịch Ủy ban nhân dân các xã, phường,
+thị trấn và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định
+này./.
+Nơi nhận:
+- Như Điều 4;
+- Chủ tịch, các PCT UBND tỉnh;
+- VP UBND tỉnh: LĐVP, KGVX, TTTT, TTPVHCC;
+- Viễn thông Cao Bằng;
+- Cổng thông tin điện tử tỉnh;
+- Lưu: VT, TTPVHCC(Đ).
+KT. CHỦ TỊCH
+PHÓ CHỦ TỊCH
+Trịnh Trường Huy
+PHỤ LỤC
+QUY TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH TRONG LĨNH
+VỰC BẢO TRỢ XÃ HỘI VÀ PHÒNG, CHỐNG TỆ NẠN XÃ HỘI THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA
+SỞ Y TẾ, ỦY BAN NHÂN DÂN CẤP HUYỆN, ỦY BAN NHÂN DÂN CẤP XÃ TỈNH CAO BẰNG
+(Kèm theo Quyết định số 748/QĐ-UBND, ngày 05 tháng 6 năm 2025 của Chủ tịch
+Ủy ban nhân dân tỉnh Cao Bằng)
+I. QUY
+TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH CẤP TỈNH (14 TTHC)
+Quy trình số 01
+1.
+Quy trình nội bộ giải quyết TTHC: Quyết định công nhận cơ sở sản xuất, kinh
+doanh sử dụng từ 30% tổng số lao động trở lên là người khuyết tật (Mã TTHC:
+1.001806)
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+Bước 1
+Kiểm tra, hướng dẫn, tiếp nhận
+  hồ sơ, quét (scan) và lưu trữ hồ sơ điện tử, chuyển bộ phận chuyên môn xử lý
+  hồ sơ theo quy định
+Bộ phận tiếp nhận và trả kết quả Sở Y tế tại Trung tâm Phục vụ hành
+  chính công
+0,5 ngày làm việc
+Bước 2
+Phân công thụ lý hồ sơ
+Lãnh đạo Phòng Bảo trợ xã hội (BTXH), Trẻ em và phòng, chống tệ nạn xã
+  hội, Sở Y tế
+01 ngày làm việc
+Bước 3
+Thụ lý giải quyết; Trình lãnh
+  đạo Phòng duyệt
+Chuyên viên Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+5,5 ngày làm việc
+Bước 4
+Lãnh đạo Phòng xem xét, duyệt;
+  trình Lãnh đạo Sở phê duyệt
+Lãnh đạo Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+01 ngày làm việc
+Bước 5
+Lãnh đạo Sở phê duyệt kết quả
+  giải quyết
+Lãnh đạo Sở Y tế
+01 ngày làm việc
+Bước 6
+Vào sổ văn bản, đóng dấu,
+  chuyển kết quả cho Bộ phận tiếp nhận và trả kết quả của Sở Y tế tại Trung tâm
+  Phục vụ hành chính công
+Bộ phận Văn thư Sở Y tế
+01 ngày làm việc
+Bước 7
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả Sở Y tế tại Trung tâm Phục vụ hành
+  chính công
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+10 ngày làm việc
+Quy trình số 02
+2.
+Quy trình nội bộ giải quyết TTHC: Giải thể cơ sở trợ giúp xã hội ngoài công lập
+thuộc thẩm quyền thành lập của Sở Y tế (Mã TTHC: 2.000062)
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+Bước 1
+Kiểm tra, hướng dẫn, tiếp nhận
+  hồ sơ, quét (scan) và lưu trữ hồ sơ điện tử, chuyển bộ phận chuyên môn xử lý
+  hồ sơ
+Bộ phận tiếp nhận và trả kết quả Sở Y tế tại Trung tâm Phục vụ hành
+  chính công
+0,5 ngày làm việc
+Bước 2
+Phân công thụ lý hồ sơ
+Lãnh đạo Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+0,5 ngày làm việc
+Bước 3
+Thụ lý giải quyết; Trình lãnh
+  đạo Phòng duyệt
+Chuyên viên Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+02 ngày làm việc
+Bước 4
+Lãnh đạo Phòng xem xét, duyệt;
+  trình Lãnh đạo Sở phê duyệt
+Lãnh đạo Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+0,5 ngày làm việc
+Bước 5
+Lãnh đạo Sở phê duyệt kết quả
+  giải quyết
+Lãnh đạo Sở Y tế
+01 ngày làm việc
+Bước 6
+Vào sổ văn bản, đóng dấu,
+  chuyển kết quả cho Bộ phận tiếp nhận và trả kết quả của Sở Y tế tại Trung tâm
+  Phục vụ hành chính công
+Bộ phận Văn thư Sở Y tế
+0,5 ngày làm việc
+Bước 7
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả Sở Y tế tại Trung tâm Phục vụ hành
+  chính công
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+05 ngày làm việc
+Quy trình số 03
+3.
+Quy trình nội bộ giải quyết TTHC: Đăng ký thành lập, đăng ký thay đổi nội dung
+hoặc cấp lại giấy chứng nhận đăng ký thành lập cơ sở trợ giúp xã hội ngoài công
+lập thuộc thẩm quyền của Sở Y tế. (Mã TTHC: 2.000135)
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+Bước 1
+Kiểm tra, hướng dẫn, tiếp nhận
+  hồ sơ, quét (scan) và lưu trữ hồ sơ điện tử, chuyển bộ phận chuyên môn xử lý
+  hồ sơ
+Bộ phận tiếp nhận và trả kết quả Sở Y tế tại Trung tâm Phục vụ hành
+  chính công
+0,5 ngày làm việc
+Bước 2
+Phân công thụ lý hồ sơ
+Lãnh đạo Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+0,5 ngày làm việc
+Bước 3
+Thụ lý giải quyết; Trình lãnh
+  đạo Phòng duyệt
+Chuyên viên Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+02 ngày làm việc
+Bước 4
+Lãnh đạo Phòng xem xét, duyệt;
+  trình Lãnh đạo Sở phê duyệt
+Lãnh đạo Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+0,5 ngày làm việc
+Bước 5
+Lãnh đạo Sở phê duyệt kết quả
+  giải quyết
+Lãnh đạo Sở Y tế
+01 ngày làm việc
+Bước 6
+Vào sổ văn bản, đóng dấu,
+  chuyển kết quả cho Bộ phận tiếp nhận và trả kết quả của Sở Y tế tại Trung tâm
+  Phục vụ hành chính công
+Bộ phận Văn thư Sở Y tế
+0,5 ngày làm việc
+Bước 7
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả Sở Y tế tại Trung tâm Phục vụ hành
+  chính công
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+05 ngày làm việc
+Quy trình số 04
+4.
+Quy trình nội bộ giải quyết TTHC: Cấp giấy phép hoạt động đối với cơ sở trợ
+giúp xã hội thuộc thẩm quyền thành lập của Sở Y tế. (Mã TTHC: 2.000056)
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+Bước 1
+Kiểm tra, hướng dẫn, tiếp nhận
+  hồ sơ, quét (scan) và lưu trữ hồ sơ điện tử, chuyển bộ phận chuyên môn xử lý
+  hồ sơ
+Bộ phận tiếp nhận và trả kết quả Sở Y tế tại Trung tâm Phục vụ hành
+  chính công
+0,5 ngày làm việc
+Bước 2
+Phân công thụ lý hồ sơ
+Lãnh đạo Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+0,5 ngày làm việc
+Bước 3
+Thụ lý giải quyết; Trình lãnh
+  đạo Phòng duyệt
+Chuyên viên Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+02 ngày làm việc
+Bước 4
+Lãnh đạo Phòng xem xét, duyệt;
+  trình Lãnh đạo Sở phê duyệt
+Lãnh đạo Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+0,5 ngày làm việc
+Bước 5
+Lãnh đạo Sở phê duyệt kết quả
+  giải quyết
+Lãnh đạo Sở Y tế
+01 ngày làm việc
+Bước 6
+Vào sổ văn bản, đóng dấu, chuyển
+  kết quả cho Bộ phận tiếp nhận và trả kết quả của Sở Y tế tại Trung tâm Phục vụ
+  hành chính công
+Bộ phận Văn thư Sở Y tế
+0,5 ngày làm việc
+Bước 7
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả Sở Y tế tại Trung tâm Phục vụ hành chính
+  công
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+05 ngày làm việc
+Quy trình số 05
+5.
+Quy trình nội bộ giải quyết TTHC: Cấp lại, điều chỉnh giấy phép hoạt động đối với
+cơ sở trợ giúp xã hội có giấy phép hoạt động do Sở Y tế cấp. (Mã TTHC:
+2.000051)
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+Bước 1
+Kiểm tra, hướng dẫn, tiếp nhận
+  hồ sơ, quét (scan) và lưu trữ hồ sơ điện tử, chuyển bộ phận chuyên môn xử lý
+  hồ sơ
+Bộ phận tiếp nhận và trả kết quả Sở Y tế tại Trung tâm Phục vụ hành
+  chính công
+0,5 ngày làm việc
+Bước 2
+Phân công thụ lý hồ sơ
+Lãnh đạo Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+0,5 ngày làm việc
+Bước 3
+Thụ lý giải quyết; Trình lãnh
+  đạo Phòng duyệt
+Chuyên viên Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+02 ngày làm việc
+Bước 4
+Lãnh đạo Phòng xem xét, duyệt;
+  trình Lãnh đạo Sở phê duyệt
+Lãnh đạo Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+0,5 ngày làm việc
+Bước 5
+Lãnh đạo Sở phê duyệt kết quả
+  giải quyết
+Lãnh đạo Sở Y tế
+01 ngày làm việc
+Bước 6
+Vào sổ văn bản, đóng dấu,
+  chuyển kết quả cho Bộ phận tiếp nhận và trả kết quả của Sở Y tế tại Trung tâm
+  Phục vụ hành chính công
+Bộ phận Văn thư Sở Y tế
+0,5 ngày làm việc
+Bước 7
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả Sở Y tế tại Trung tâm Phục vụ hành
+  chính công
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+05 ngày làm việc
+Quy trình số 06
+6.
+Quy trình nội bộ giải quyết TTHC: Cấp (mới) giấy chứng nhận đăng ký hành nghề
+công tác xã hội. (Mã TTHC: 1.012991)
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+Bước 1
+Kiểm tra, hướng dẫn, tiếp nhận
+  hồ sơ, quét (scan) và lưu trữ hồ sơ điện tử, chuyển bộ phận chuyên môn xử lý
+  hồ sơ
+Bộ phận tiếp nhận và trả kết quả Sở Y tế tại Trung tâm Phục vụ hành
+  chính công
+0,5 ngày làm việc
+Bước 2
+Phân công thụ lý hồ sơ
+Lãnh đạo Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+01 ngày làm việc
+Bước 3
+Thụ lý giải quyết; Trình lãnh
+  đạo Phòng duyệt
+Chuyên viên Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+03 ngày làm việc
+Bước 4
+Lãnh đạo Phòng xem xét, duyệt;
+  trình Lãnh đạo Sở phê duyệt
+Lãnh đạo Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+01 ngày làm việc
+Bước 5
+Lãnh đạo Sở phê duyệt kết quả
+  giải quyết
+Lãnh đạo Sở Y tế
+01 ngày làm việc
+Bước 6
+Vào sổ văn bản, đóng dấu,
+  chuyển kết quả cho Bộ phận tiếp nhận và trả kết quả của Sở Y tế tại Trung tâm
+  Phục vụ hành chính công
+Bộ phận Văn thư Sở Y tế
+0,5 ngày làm việc
+Bước 7
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả Sở Y tế tại Trung tâm Phục vụ hành
+  chính công
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+07 ngày làm việc
+Quy trình số 07
+7.
+Quy trình nội bộ giải quyết TTHC: Cấp lại giấy chứng nhận đăng ký hành nghề
+công tác xã hội. (Mã TTHC: 1.012992)
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+Bước 1
+Kiểm tra, hướng dẫn, tiếp nhận
+  hồ sơ, quét (scan) và lưu trữ hồ sơ điện tử, chuyển bộ phận chuyên môn xử lý
+  hồ sơ
+Bộ phận tiếp nhận và trả kết quả Sở Y tế tại Trung tâm Phục vụ hành
+  chính công
+0,5 ngày làm việc
+Bước 2
+Phân công thụ lý hồ sơ
+Lãnh đạo Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+0,5 ngày làm việc
+Bước 3
+Thụ lý giải quyết; Trình lãnh
+  đạo Phòng duyệt
+Chuyên viên Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+02 ngày làm việc
+Bước 4
+Lãnh đạo Phòng xem xét, duyệt;
+  trình Lãnh đạo Sở phê duyệt
+Lãnh đạo Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+0,5 ngày làm việc
+Bước 5
+Lãnh đạo Sở phê duyệt kết quả
+  giải quyết
+Lãnh đạo Sở Y tế
+01 ngày làm việc
+Bước 6
+Vào sổ văn bản, đóng dấu, chuyển
+  kết quả cho Bộ phận tiếp nhận và trả kết quả của Sở Y tế tại Trung tâm Phục vụ
+  hành chính công
+Bộ phận Văn thư Sở Y tế
+0,5 ngày làm việc
+Bước 7
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả Sở Y tế tại Trung tâm Phục vụ hành chính
+  công
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+05 ngày làm việc
+Quy trình số 08
+8. Quy
+trình nội bộ giải quyết TTHC: Đăng ký hành nghề công tác xã hội tại Việt Nam đối
+với người nước ngoài, người Việt Nam định cư ở nước ngoài. (Mã TTHC: 1.012993)
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+Bước 1
+Kiểm tra, hướng dẫn, tiếp nhận
+  hồ sơ, quét (scan) và lưu trữ hồ sơ điện tử, chuyển bộ phận chuyên môn xử lý
+  hồ sơ
+Bộ phận tiếp nhận và trả kết quả Sở Y tế tại Trung tâm Phục vụ hành
+  chính công
+0,5 ngày làm việc
+Bước 2
+Phân công thụ lý hồ sơ
+Lãnh đạo Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+01 ngày làm việc
+Bước 3
+Thụ lý giải quyết; Trình lãnh
+  đạo Phòng duyệt
+Chuyên viên Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+03 ngày làm việc
+Bước 4
+Lãnh đạo Phòng xem xét, duyệt;
+  trình Lãnh đạo Sở phê duyệt
+Lãnh đạo Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+01 ngày làm việc
+Bước 5
+Lãnh đạo Sở phê duyệt kết quả
+  giải quyết
+Lãnh đạo Sở Y tế
+01 ngày làm việc
+Bước 6
+Vào sổ văn bản, đóng dấu,
+  chuyển kết quả cho Bộ phận tiếp nhận và trả kết quả của Sở Y tế tại Trung tâm
+  Phục vụ hành chính công
+Bộ phận Văn thư Sở Y tế
+0,5 ngày làm việc
+Bước 7
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả Sở Y tế tại Trung tâm Phục vụ hành
+  chính công
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+07 ngày làm việc
+Quy trình số 09
+9. Quy
+trình nội bộ giải quyết TTHC: Cấp giấy xác nhận quá trình thực hành công tác xã
+hội. (Mã TTHC: 1.012990)
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+Bước 1
+Tiếp nhận hồ sơ, chuyển bộ phận
+  chuyên môn phụ trách xử lý
+Nhân viên phụ trách tiếp nhận hồ sơ tại đơn vị, cơ sở có cung cấp dịch
+  vụ công tác xã hội
+0,5 ngày làm việc
+Bước 2
+Nghiên cứu, tham mưu đề xuất
+  giải quyết thủ tục hành chính
+Chuyên viên phụ trách thẩm định hồ sơ
+1,5 ngày làm việc
+Bước 3
+- Tiếp nhận người thực hành
+- Trong trường hợp không tiếp
+  nhận người thực hành, người đứng đầu cơ sở, đơn vị phải trả lời bằng văn bản
+Người đứng đầu đơn vị, cơ sở cung cấp dịch vụ công tác xã hội
+01 ngày làm việc
+Bước 4
+Nhận xét bằng văn bản về quá trình
+  thực hành, năng lực, trình độ chuyên môn, kỹ năng thực hành, tiêu chuẩn đạo đức
+  nghề công tác xã hội
+Người hướng dẫn thực hành
+02 ngày làm việc
+Bước 5
+Cấp giấy xác nhận quá trình
+  thực hành công tác xã hội
+Người đứng đầu đơn vị, cơ sở cung cấp dịch vụ công tác xã hội
+05 ngày làm việc
+Tổng thời gian giải quyết TTHC
+10 ngày làm việc
+Quy trình số 10
+10.
+Quy trình nội bộ liên thông giải quyết TTHC: Cấp giấy phép thành lập cơ sở hỗ
+trợ nạn nhân. (Mã TTHC: 2.000025)
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+Bước 1
+Kiểm tra, hướng dẫn, tiếp nhận
+  hồ sơ, quét (scan) và lưu trữ hồ sơ điện tử, chuyển bộ phận chuyên môn xử lý
+  hồ sơ
+Bộ phận tiếp nhận và trả kết quả Sở Y tế tại Trung tâm Phục vụ hành
+  chính công
+0,5 ngày làm việc
+Bước 2
+Phân công thụ lý hồ sơ
+Lãnh đạo Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+0,5 ngày làm việc
+Bước 3
+Thụ lý giải quyết; Trình lãnh
+  đạo Phòng duyệt
+Chuyên viên Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+07 ngày làm việc
+Bước 4
+Xem xét kết quả, thẩm định hồ
+  sơ trước khi trình Lãnh đạo Sở phê duyệt
+Lãnh đạo Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế.
+01 ngày làm việc
+Bước 5
+Ký phê duyệt kết quả, trình
+  UBND tỉnh phê duyệt
+Lãnh đạo Sở Y tế
+01 ngày làm việc
+Bước 6
+Vào sổ văn bản, đóng dấu, ký
+  số, chuyển kết quả liên thông trình UBND tỉnh (bản điện tử, bản giấy)
+Bộ phận Văn thư Sở Y tế
+0,5 ngày làm việc
+Bước 7
+Xem xét, thẩm định xử lý hồ
+  sơ, trình lãnh đạo Văn phòng, lãnh đạo UBND tỉnh phê duyệt
+Chuyên viên Phòng Khoa giáo - Văn xã
+06 ngày làm việc
+Bước 8
+Vào sổ văn bản, lưu trữ hồ
+  sơ, chuyển kết quả cho Bộ phận tiếp nhận và trả kết quả của Sở tại Trung tâm
+  phục vụ hành chính công
+Văn thư Văn phòng UBND tỉnh
+0,5 ngày làm việc
+Bước 9
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả Sở Y tế tại Trung tâm Phục vụ hành
+   chính công
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+17 ngày làm việc
+Quy trình số 11
+11.
+Quy trình nội bộ giải quyết TTHC: Cấp lại giấy phép thành lập cơ sở hỗ trợ nạn
+nhân. (Mã TTHC: 2.000027)
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+Bước 1
+Kiểm tra, hướng dẫn, tiếp nhận
+  hồ sơ, quét (scan) và lưu trữ hồ sơ điện tử, chuyển bộ phận chuyên môn xử lý
+  hồ sơ
+Bộ phận tiếp nhận và trả kết quả Sở Y tế tại Trung tâm Phục vụ hành
+  chính công
+0,5 ngày làm việc
+Bước 2
+Phân công thụ lý hồ sơ
+Lãnh đạo Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+0,5 ngày làm việc
+Bước 3
+Thụ lý giải quyết; Trình lãnh
+  đạo Phòng duyệt
+Chuyên viên Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+04 ngày làm việc
+Bước 4
+Xem xét kết quả, thẩm định hồ
+  sơ trước khi trình Lãnh đạo Sở phê duyệt
+Lãnh đạo Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế.
+0,5 ngày làm việc
+Bước 5
+Ký phê duyệt kết quả, trình
+  UBND tỉnh phê duyệt
+Lãnh đạo Sở Y tế
+0,5 ngày làm việc
+Bước 6
+Vào sổ văn bản, đóng dấu, ký
+  số, chuyển kết quả liên thông trình UBND tỉnh (bản điện tử, bản giấy)
+Bộ phận Văn thư Sở Y tế
+0,5 ngày làm việc
+Bước 7
+Xem xét, thẩm định xử lý hồ
+  sơ, trình lãnh đạo Văn phòng, lãnh đạo UBND tỉnh phê duyệt
+Chuyên viên Phòng Khoa giáo - Văn xã
+04 ngày làm việc
+Bước 8
+Vào sổ văn bản, lưu trữ hồ
+  sơ, chuyển kết quả cho Bộ phận tiếp nhận và trả kết quả của Sở tại Trung tâm
+  Phục vụ hành chính công
+Văn thư Văn phòng UBND tỉnh
+0,5 ngày làm việc
+Bước 9
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả Sở Y tế tại Trung tâm Phục vụ hành
+  chính công
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+11 ngày làm việc
+Quy trình số 12
+12.
+Quy trình nội bộ giải quyết TTHC: Sửa đổi, bổ sung giấy phép thành lập cơ sở hỗ
+trợ nạn nhân. (Mã TTHC: 2.000032)
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+Bước 1
+Kiểm tra, hướng dẫn, tiếp nhận
+  hồ sơ, quét (scan) và lưu trữ hồ sơ điện tử, chuyển bộ phận chuyên môn xử lý
+  hồ sơ
+Bộ phận tiếp nhận và trả kết quả Sở Y tế tại Trung tâm Phục vụ hành
+  chính công
+0,5 ngày làm việc
+Bước 2
+Phân công thụ lý hồ sơ
+Lãnh đạo Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+0,5 ngày làm việc
+Bước 3
+Thụ lý giải quyết; Trình lãnh
+  đạo Phòng duyệt
+Chuyên viên Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+04 ngày làm việc
+Bước 4
+Xem xét kết quả, thẩm định hồ
+  sơ trước khi trình Lãnh đạo Sở phê duyệt
+Lãnh đạo Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+0,5 ngày làm việc
+Bước 5
+Ký phê duyệt kết quả, trình
+  UBND tỉnh phê duyệt
+Lãnh đạo Sở Y tế
+0,5 ngày làm việc
+Bước 6
+Vào sổ văn bản, đóng dấu, ký
+  số, chuyển kết quả liên thông trình UBND tỉnh (bản điện tử, bản giấy)
+Bộ phận Văn thư Sở Y tế
+0,5 ngày làm việc
+Bước 7
+Xem xét, thẩm định xử lý hồ
+  sơ, trình lãnh đạo Văn phòng, lãnh đạo UBND tỉnh phê duyệt
+Chuyên viên Phòng Khoa giáo - Văn xã
+04 ngày làm việc
+Bước 8
+Vào sổ văn bản, lưu trữ hồ
+  sơ, chuyển kết quả cho Bộ phận tiếp nhận và trả kết quả của Sở tại TTPVHCC
+Văn thư Văn phòng UBND tỉnh
+0,5 ngày làm việc
+Bước 9
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả Sở Y tế tại Trung tâm Phục vụ hành
+  chính công
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+11 ngày làm việc
+Quy trình số 13
+13.
+Quy trình nội bộ giải quyết TTHC: Gia hạn giấy phép thành lập cơ sở hỗ trợ nạn
+nhân. (Mã TTHC: 2.000036)
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+Bước 1
+Kiểm tra, hướng dẫn, tiếp nhận
+  hồ sơ, quét (scan) và lưu trữ hồ sơ điện tử, chuyển bộ phận chuyên môn xử lý
+  hồ sơ
+Bộ phận tiếp nhận và trả kết quả Sở Y tế tại Trung tâm Phục vụ hành
+  chính công
+0,5 ngày làm việc
+Bước 2
+Phân công thụ lý hồ sơ
+Lãnh đạo Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+0,5 ngày làm việc
+Bước 3
+Thụ lý giải quyết; Trình lãnh
+  đạo Phòng duyệt
+Chuyên viên Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+04 ngày làm việc
+Bước 4
+Xem xét kết quả, thẩm định hồ
+  sơ trước khi trình Lãnh đạo Sở phê duyệt
+Lãnh đạo Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế.
+0,5 ngày làm việc
+Bước 5
+Ký phê duyệt kết quả, trình
+  UBND tỉnh phê duyệt
+Lãnh đạo Sở Y tế
+0,5 ngày làm việc
+Bước 6
+Vào sổ văn bản, đóng dấu, ký
+  số, chuyển kết quả liên thông trình UBND tỉnh (bản điện tử, bản giấy)
+Bộ phận Văn thư Sở Y tế
+0,5 ngày làm việc
+Bước 7
+Xem xét, thẩm định xử lý hồ
+  sơ, trình lãnh đạo Văn phòng, lãnh đạo UBND tỉnh phê duyệt
+Chuyên viên Phòng Khoa giáo - Văn xã
+04 ngày làm việc
+Bước 8
+Vào sổ văn bản, lưu trữ hồ sơ,
+  chuyển kết quả cho Bộ phận tiếp nhận và trả kết quả của Sở tại TTPVHCC
+Văn thư Văn phòng UBND tỉnh
+0,5 ngày làm việc
+Bước 9
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả Sở Y tế tại Trung tâm Phục vụ hành
+  chính công
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+11 ngày làm việc
+Quy trình số 14
+14.
+Quy trình nội bộ giải quyết TTHC: Đề nghị chấm dứt hoạt động của cơ sở hỗ trợ nạn
+nhân. (Mã TTHC: 1.000091)
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+Bước 1
+Kiểm tra, hướng dẫn, tiếp nhận
+  hồ sơ, quét (scan) và lưu trữ hồ sơ điện tử, chuyển bộ phận chuyên môn xử lý
+  hồ sơ
+Bộ phận tiếp nhận và trả kết quả Sở Y tế tại Trung tâm Phục vụ hành
+  chính công
+01 ngày làm việc
+Bước 2
+Phân công thụ lý hồ sơ
+Lãnh đạo Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+01 ngày làm việc
+Bước 3
+Thụ lý giải quyết; Trình lãnh
+  đạo Phòng duyệt
+Chuyên viên Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+11 ngày làm việc
+Bước 4
+Xem xét kết quả, thẩm định hồ
+  sơ trước khi trình Lãnh đạo Sở phê duyệt
+Lãnh đạo Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+02 ngày làm việc
+Bước 5
+Ký phê duyệt kết quả, trình
+  UBND tỉnh phê duyệt
+Lãnh đạo Sở Y tế
+01 ngày làm việc
+Bước 6
+Vào sổ văn bản, đóng dấu, ký
+  số, chuyển kết quả liên thông trình UBND tỉnh (bản điện tử, bản giấy)
+Bộ phận Văn thư Sở Y tế
+01 ngày làm việc
+Bước 7
+Xem xét, thẩm định xử lý hồ
+  sơ, trình lãnh đạo Văn phòng, lãnh đạo UBND tỉnh phê duyệt
+Chuyên viên Phòng Khoa giáo - Văn xã
+07 ngày làm việc
+Bước 8
+Vào sổ văn bản, lưu trữ hồ
+  sơ, chuyển kết quả cho Bộ phận tiếp nhận và trả kết quả của Sở tại TTPVHCC
+Văn thư Văn phòng UBND tỉnh
+01 ngày làm việc
+Bước 9
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả Sở Y tế tại Trung tâm Phục vụ hành
+  chính công
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+25 ngày làm việc
+II. QUY
+TRÌNH NỘI BỘ LIÊN THÔNG GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH CẤP TỈNH, HUYỆN (03 TTHC)
+Quy trình số 15
+15.
+Quy trình nội bộ liên thông giải quyết TTHC: Tiếp nhận đối tượng bảo trợ xã hội
+có hoàn cảnh đặc biệt khó khăn vào cơ sở trợ giúp xã hội cấp tỉnh, cấp huyện.
+(Mã TTHC: 2.000286)
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+I
+Quy trình giải quyết tại cấp xã (15 ngày làm việc)
+Bước 1
+- Kiểm tra, hướng dẫn, tiếp
+  nhận hồ sơ, chuyển bộ phận chuyên môn xử lý (gửi phiếu hẹn trả kết quả cho cá
+  nhân, tổ chức); xem xét, lập hồ sơ trình lãnh đạo xã xem xét.
+- Xử lý hồ sơ, trình lãnh đạo
+  UBND cấp xã xét duyệt, niêm yết công khai kết quả xét duyệt trừ thông tin
+  liên quan đến HIV/AIDS của đối tượng
+Bộ phận tiếp nhận và trả kết quả của UBND cấp xã (Công chức Văn hoá -
+  Xã hội)
+13 ngày làm việc
+Bước 2
+Ký duyệt danh sách
+Lãnh đạo UBND cấp xã
+01 ngày làm việc
+Bước 3
+Vào sổ văn bản, đóng dấu,
+  chuyển hồ sơ (điện tử và bản giấy) đến UBND cấp huyện
+Văn thư UBND cấp xã
+01 ngày làm việc
+II
+Quy trình giải quyết tại cấp
+  huyện, thành phố
+(08 ngày làm việc)
+Bước 1
+Xem xét, phân công chuyên
+  viên thụ lý hồ sơ
+Lãnh đạo Văn phòng
+0,5 ngày làm việc
+Bước 2
+Tiếp nhận thẩm định, xử lý hồ
+  sơ, trình lãnh đạo phòng
+Công chức văn phòng
+05 ngày làm việc
+Bước 3
+Thẩm định xem xét trước khi
+  trình Lãnh đạo UBND cấp huyện
+Lãnh đạo Văn phòng
+01 ngày làm việc
+Bước 4
+Lãnh đạo UBND cấp huyện xem
+  xét, phê duyệt văn bản đề nghị Sở Y tế thẩm định
+Lãnh đạo UBND cấp huyện
+01 ngày làm việc
+Bước 5
+Vào sổ văn bản, chuyển hồ sơ
+  (điện tử và bản giấy) đến Sở Y tế
+Văn thư UBND cấp huyện
+0,5 ngày làm việc
+III
+Quy trình giải quyết tại cấp
+  tỉnh (07 ngày làm
+việc )
+Bước 1
+Phân công thụ lý hồ sơ
+Lãnh đạo Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+0,5 ngày làm việc
+Bước 2
+Phòng Bảo trợ xã hội tiếp nhận,
+  thẩm định hồ sơ trình lãnh đạo Sở xem xét
+Chuyên viên Phòng BTXH, Trẻ em và phòng, chống tệ nạn xã hội, Sở Y tế
+03 ngày làm việc
+Bước 3
+Xem xét, ký duyệt văn bản
+  chuyển hồ sơ đến Cơ sở trợ giúp xã hội tiếp nhận đối tượng vào cơ sở.
+Lãnh đạo Sở Y tế
+01 ngày làm việc
+Bước 4
+Vào sổ văn bản, chuyển hồ sơ
+  (bản điện tử và bản giấy) đến cơ sở trợ giúp xã hội cấp tỉnh
+Văn thư Sở Y tế
+0,5 ngày làm việc
+Bước 5
+Tiếp nhận, xử lý hồ sơ
+Viên chức Cơ sở trợ giúp xã hội
+0,5 ngày làm việc
+Bước 6
+Quyết định tiếp nhận đối tượng
+  vào cơ sở. Trường hợp đối tượng không được tiếp nhận vào Cơ sở trợ giúp xã hội
+  thì trả lời bằng văn bản và nêu rõ lý do
+Người đứng đầu Cơ sở trợ giúp xã hội
+01 ngày làm việc
+Bước 7
+Vào sổ văn bản, lưu trữ hồ
+  sơ, chuyển kết quả cho Bộ phận tiếp nhận và trả kết quả cấp xã
+Viên chức Cơ sở trợ giúp xã hội
+0,5 ngày làm việc
+Bước 8
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả của UBND xã
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+30 ngày làm việc
+Quy trình số 16
+16.
+Quy trình nội bộ liên thông giải quyết TTHC: Tiếp nhận đối tượng cần bảo vệ khẩn
+cấp vào cơ sở trợ giúp xã hội cấp tỉnh, cấp huyện. (Mã TTHC: 2.000282)
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+Bước 1
+Lập biên bản tiếp nhận có chữ
+  ký của cá nhân hoặc đại diện cơ quan, đơn vị phát hiện ra đối tượng (nếu có),
+  chính quyền (hoặc Công an) cấp xã, đại diện Cơ sở trợ giúp xã hội.
+Chính quyền (hoặc Công an) cấp xã, đại diện Cơ sở trợ giúp xã hội
+Cơ sở trợ giúp xã hội có
+  trách nhiệm tiếp nhận ngay các đối tượng cần sự bảo vệ khẩn cấp để chăm sóc,
+  nuôi dưỡng và hoàn thiện các thủ tục, hồ sơ trong 10 ngày làm việc, kể từ khi
+  tiếp nhận đối tượng, trường hợp kéo dài quá 10 ngày làm việc, phải do cơ quan
+  quản lý cấp trên xem xét quyết định
+Bước 2
+Đánh giá về mức độ tổn
+  thương, khả năng phục hồi và nhu cầu trợ giúp của đối tượng để có kế hoạch trợ
+  giúp đối tượng
+Cơ sở trợ giúp xã hội.
+Bước 3
+Bảo đảm an toàn và chữa trị
+  những tổn thương về thân thể hoặc tinh thần cho đối tượng kịp thời; đối với
+  trẻ em bị bỏ rơi, thông báo trên các phương tiện thông tin đại chúng trong thời
+  hạn 25 ngày làm việc.
+Cơ sở trợ giúp xã hội.
+Bước 4
+Quyết định trợ giúp đối tượng
+  tại cơ sở trợ giúp xã hội hoặc chuyến đối tượng về gia đình, cộng đồng.
+Cơ sở trợ giúp xã hội.
+Bước 5
+Hoàn thành các thủ tục, hồ sơ
+  theo quy định
+Cơ sở trợ giúp xã hội.
+Tổng thời gian giải quyết TTHC
+10 ngày làm việc
+Quy trình số 17a
+17.
+Quy trình nội bộ giải quyết TTHC: Dừng trợ giúp xã hội tại cơ sở trợ giúp xã hội
+cấp tỉnh, cấp huyện. (Mã TTHC: 2.000477)
+a) Đối với trường hợp đối
+tượng thuộc cơ sở trợ giúp cấp tỉnh
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+Bước 1
+- Hướng dẫn, tiếp nhận hồ sơ
+- Phân công viên chức xem
+  xét, giải quyết
+Lãnh đạo cơ sở trợ giúp xã hội
+0,5 ngày làm việc
+Bước 2
+Xử lý hồ sơ
+Viên chức cơ sở trợ giúp xã hội
+04 ngày làm việc
+Bước 3
+Ký duyệt kết quả giải quyết
+  TTHC
+Lãnh đạo cơ sở trợ giúp xã hội
+01 ngày làm việc
+Bước 4
+Vào sổ văn bản, lưu trữ hồ
+  sơ, chuyển kết quả cho Viên chức cơ sở trợ giúp xã hội
+Văn thư cơ sở trợ giúp xã hội
+0,5 ngày làm việc
+Bước 5
+Trả kết quả cho cá nhân, tổ
+  chức
+Viên chức cơ sở trợ giúp xã hội
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+06 ngày làm việc
+b) Đối với trường hợp đối
+tượng thuộc cơ sở trợ giúp cấp huyện
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+Bước 1
+- Hướng dẫn, tiếp nhận hồ sơ
+- phân công viên chức xem
+  xét, giải quyết
+Lãnh đạo cơ sở trợ giúp xã hội
+0,5 ngày làm việc
+Bước 2
+Xử lý hồ sơ
+Viên chức cơ sở trợ giúp xã hội
+03 ngày làm việc
+Bước 3
+Xem xét, duyệt kết quả trình
+  Lãnh đạo UBND huyện
+Lãnh đạo cơ sở trợ giúp xã hội
+01 ngày làm việc
+Bước 4
+Ký duyệt kết quả giải quyết
+  TTHC
+Lãnh đạo UBND cấp huyện
+01 ngày làm việc
+Bước 5
+Vào sổ văn bản, lưu trữ hồ
+  sơ, chuyển kết quả đến cơ sở trợ giúp xã hội cấp huyện
+Văn thư UBND cấp huyện
+0,5 ngày làm việc
+Bước 6
+Trả kết quả cho cá nhân, tổ
+  chức
+Viên chức cơ sở trợ giúp xã hội
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+06 ngày làm việc
+III. QUY
+TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH CẤP HUYỆN (12 TTHC)
+Quy trình số 18
+18.
+Quy trình nội bộ liên thông giải quyết TTHC: Thực hiện, điều chỉnh, thôi hưởng
+trợ cấp xã hội hàng tháng, hỗ trợ kinh phí chăm sóc, nuôi dưỡng hàng tháng. (Mã
+TTHC: 1.001776)
+a) Trường hợp 1: Không có
+khiếu nại thì thời gian giải quyết TTHC 20 ngày làm việc kể từ ngày nhận hồ sơ
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+I
+Quy trình giải quyết tại cấp
+  xã (10 ngày làm việc)
+Bước 1
+- Kiểm tra, hướng dẫn, tiếp
+  nhận hồ sơ, chuyển bộ phận chuyên môn xử lý (gửi phiếu hẹn trả kết quả cho cá
+  nhân, tổ chức); xem xét, lập hồ sơ trình lãnh đạo xã xem xét.
+- Xử lý hồ sơ, trình lãnh đạo
+  UBND cấp xã tổ chức xem xét, quyết định việc xét duyệt, thực hiện việc niêm yết
+  công khai kết quả xét duyệt trừ thông tin liên quan đến HIV/AIDS của đối tượng.
+Bộ phận tiếp nhận và trả kết quả của UBND cấp xã (Công chức Văn hoá -
+  Xã hội)
+8,5 ngày làm việc
+Bước 2
+Lãnh đạo UBND cấp xã xem xét,
+  phê duyệt văn bản đề nghị thực hiện chính sách
+Lãnh đạo UBND cấp xã
+01 ngày làm việc
+Bước 3
+Vào sổ văn bản, chuyển hồ sơ (điện
+  tử và bản giấy) đến UBND cấp huyện xử lý
+Văn thư UBND cấp xã
+0,5 ngày làm việc
+II
+Quy trình giải quyết tại cấp
+  huyện (10 ngày làm việc)
+Bước 1
+Xem xét, phân công chuyên
+  viên xử lý
+Lãnh đạo Văn phòng HĐND- UBND/ Phòng Y tế
+0,5 ngày làm việc
+Bước 2
+Thụ lý, giải quyết hồ sơ (kiểm
+  tra, thẩm định hồ sơ, dự thảo kết quả giải quyết TTHC)
+Công chức Văn phòng HĐND- UBND/ Phòng Y tế
+07 ngày làm việc
+Bước 3
+Xem xét, thẩm định kết quả giải
+  quyết trình Lãnh đạo UBND cấp huyện
+Lãnh đạo Văn phòng HĐND- UBND/ Phòng Y tế
+01 ngày làm việc
+Bước 4
+Xem xét, phê duyệt kết quả
+  TTHC
+Lãnh đạo UBND cấp huyện
+01 ngày làm việc
+Bước 5
+Vào sổ văn bản, đóng dấu, lưu
+  trữ hồ sơ, chuyển kết quả cho UBND cấp xã (điện tử và bản giấy)
+Văn thư UBND cấp huyện
+0,5 ngày làm việc
+Bước 6
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả cấp xã
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+20 ngày làm việc
+b) Trường hợp 2: Có khiếu
+nại thì thời gian giải quyết TTHC 30 ngày làm việc kể từ ngày nhận hồ sơ.
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+I
+Quy trình giải quyết tại cấp
+  xã (20 ngày làm việc)
+Bước 1
+- Kiểm tra, hướng dẫn, tiếp
+  nhận hồ sơ, chuyển bộ phận chuyên môn xử lý (gửi phiếu hẹn trả kết quả cho cá
+  nhân, tổ chức); xem xét, lập hồ sơ trình lãnh đạo xã xem xét.
+- Xử lý hồ sơ, trình lãnh đạo
+  UBND cấp xã tổ chức xem xét, quyết định việc xét duyệt, thực hiện việc niêm yết
+  công khai kết quả xét duyệt trừ thông tin liên quan đến HIV/AIDS của đối tượng
+Bộ phận tiếp nhận và trả kết quả của UBND cấp xã (Công chức Văn hoá -
+  Xã hội)
+09 ngày làm việc
+Bước 2
+Xem xét, kết luận, công khai
+  nội dung khiếu nại, phê duyệt văn bản đề nghị thực hiện chính sách
+Lãnh đạo UBND cấp xã
+11 ngày làm việc
+Bước 3
+Vào sổ văn bản, đóng dấu,
+  chuyển hồ sơ (điện tử và bản giấy) đến UBND cấp huyện xử lý
+Văn thư UBND cấp xã
+Không tính thời gian
+II
+Quy trình giải quyết tại cấp
+  huyện (10 ngày làm việc)
+Bước 1
+Xem xét, phân công chuyên
+  viên xử lý
+Lãnh đạo Văn phòng HĐND- UBND/ Phòng Y tế
+0,5 ngày làm việc
+Bước 2
+Thụ lý, giải quyết hồ sơ (kiểm
+  tra, thẩm định hồ sơ, dự thảo kết quả giải quyết TTHC)
+Công chức Văn phòng HĐND- UBND/ Phòng Y tế
+07 ngày làm việc
+Bước 3
+Xem xét, thẩm định kết quả giải
+  quyết trình Lãnh đạo UBND cấp huyện
+Lãnh đạo Văn phòng HĐND- UBND/ Phòng Y tế
+01 ngày làm việc
+Bước 4
+Xem xét, phê duyệt kết quả
+  TTHC
+Lãnh đạo UBND cấp huyện
+01 ngày làm việc
+Bước 5
+Vào sổ văn bản, đóng dấu, lưu
+  trữ hồ sơ, chuyển kết quả cho UBND cấp xã (điện tử và bản giấy)
+Văn thư UBND cấp huyện
+0,5 ngày làm việc
+Bước 6
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả cấp xã
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+30 ngày làm việc
+Quy trình số 19
+19.
+Quy trình nội bộ liên thông giải quyết TTHC: Chi trả trợ cấp xã hội hàng tháng,
+hỗ trợ kinh phí chăm sóc, nuôi dưỡng hàng tháng khi đối tượng thay đổi nơi cư
+trú trong cùng địa bàn quận, huyện, xã, thành phố thuộc tỉnh. (Mã TTHC:
+1.001758)
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+I
+Quy trình giải quyết tại cấp
+  xã (nơi cư trú mới) (2,5 ngày làm việc)
+Bước 1
+- Kiểm tra, hướng dẫn, tiếp
+  nhận hồ sơ.
+- Thụ lý, thẩm định, giải quyết
+  hồ sơ (dự thảo văn bản)
+Bộ phận tiếp nhận và trả kết quả của UBND cấp xã (Công chức Văn hoá -
+  Xã hội)
+1,5 ngày làm việc
+Bước 2
+Xem xét, phê duyệt văn bản
+Lãnh đạo UBND cấp xã
+0,5 ngày làm việc
+Bước 3
+Vào sổ văn bản, chuyển đến Văn
+  phòng UBND cấp huyện xử lý (điện tử và bản giấy)
+Văn thư UBND cấp xã
+0,5 ngày làm việc
+II
+Quy trình giải quyết tại cấp
+  huyện (2,5 ngày làm việc)
+Bước 1
+Xem xét, phân công chuyên
+  viên xử lý
+Lãnh đạo Văn phòng HĐND- UBND/ Phòng Y tế
+0,5 ngày làm việc
+Bước 2
+Thụ lý, thẩm định, giải quyết
+  hồ sơ
+Chuyên viên Văn phòng HĐND-UBND/ Phòng Y tế
+01 ngày làm việc
+Bước 3
+Xem xét, phê duyệt kết quả giải
+  quyết TTHC
+Lãnh đạo Văn phòng HĐND- UBND/ Phòng Y tế
+0,5 ngày làm việc
+Bước 3
+Vào sổ văn bản, lưu trữ hồ sơ,
+  chuyển kết quả cho Bộ phận tiếp nhận và trả kết quả UBND cấp xã (điện tử và bản
+  giấy)
+Chuyên viên Văn phòng HĐND-UBND/ Phòng Y tế
+0,5 ngày làm việc
+Bước 4
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả của UBND cấp xã (Công chức Văn hoá -
+  Xã hội)
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+05 ngày làm việc
+Quy trình số 20
+20.
+Quy trình nội bộ liên thông giải quyết TTHC: Quyết định trợ cấp xã hội hàng
+tháng, hỗ trợ kinh phí chăm sóc, nuôi dưỡng hàng tháng khi đối tượng thay đổi
+nơi cư trú giữa các quận, huyện, thị xã, thành phố thuộc tỉnh, trong và ngoài tỉnh,
+thành phố trực thuộc trung ương. (Mã TTHC: 1.001753).
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+I
+Quy trình giải quyết tại cấp
+  xã (nơi cư trú mới) (02 ngày làm việc)
+16 giờ làm việc
+Bước 1
+- Kiểm tra, hướng dẫn, tiếp
+  nhận hồ sơ.
+- Thụ lý, thẩm định, giải quyết
+  hồ sơ (dự thảo văn bản)
+Bộ phận tiếp nhận và trả kết quả cấp xã (Công chức Văn hóa - Xã hội)
+01 ngày làm việc
+Bước 2
+Xem xét, phê duyệt văn bản
+Lãnh đạo UBND cấp xã
+0,5 ngày làm việc
+Bước 3
+Vào sổ văn bản, chuyển đến
+  Văn phòng HĐND - UBND/ Phòng Y tế xử lý (điện tử và bản giấy)
+Văn thư UBND cấp xã
+0,5 ngày làm việc
+II
+Quy trình giải quyết tại cấp
+  huyện, thành phố (04 ngày làm việc)
+Bước 1
+Xem xét, phân công chuyên
+  viên xử lý
+Lãnh đạo Văn phòng HĐND - UBND/ Phòng Y tế
+0,5 ngày làm việc
+Bước 2
+Thụ lý, thẩm định, giải quyết
+  hồ sơ
+Công chức Văn phòng HĐND - UBND/ Phòng Y tế
+02 ngày làm việc
+Bước 3
+Xem xét, thẩm định kết quả giải
+  quyết TTHC trình UBND cấp huyện
+Lãnh đạo Văn phòng HĐND - UBND/ Phòng Y tế
+0,5 ngày làm việc
+Bước 4
+Xem xét, phê duyệt kết quả
+  TTHC
+Lãnh đạo UBND cấp huyện
+0,5 ngày làm việc
+Bước 5
+Vào sổ văn bản, đóng dấu, lưu
+  trữ hồ sơ, chuyển kết quả cho UBND cấp xã (điện tử và bản giấy)
+Văn thư UBND cấp huyện
+0,5 ngày làm việc
+Bước 6
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả cấp xã
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+06 ngày làm việc
+Quy trình số 21
+21.
+Quy trình nội bộ liên thông giải quyết TTHC: Hỗ trợ chi phí mai táng cho đối tượng
+bảo trợ xã hội. (Mã TTHC: 1.001731)
+Thứ tự công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+I
+Quy trình giải quyết tại cấp
+  xã (nơi cư trú mới) (1,5 ngày làm việc)
+Bước 1
+Kiểm tra, hướng dẫn, tiếp nhận
+  hồ sơ.  Thụ lý, thẩm định, giải quyết hồ sơ (dự thảo văn bản)
+Bộ phận tiếp nhận và trả kết quả cấp xã (Công chức Văn hóa - Xã hội)
+01 ngày làm việc
+Bước 2
+Xem xét, phê duyệt văn bản
+Lãnh đạo UBND cấp xã
+0,25 ngày làm việc
+Bước 3
+Vào sổ văn bản, chuyển đến
+  Văn phòng HĐND - UBND/ Phòng Y tế cấp huyện xử lý (điện tử và bản giấy)
+Văn thư UBND cấp xã
+0,25 ngày làm việc
+II
+Quy trình giải quyết tại cấp
+  huyện, thành phố (2,5 ngày làm việc)
+Bước 1
+Xem xét, phân công chuyên
+  viên xử lý
+Lãnh đạo Văn phòng HĐND - UBND/ Phòng Y tế
+0,5 ngày làm việc
+Bước 2
+Thụ lý, thẩm định, giải quyết
+  hồ sơ
+Công chức Văn phòng HĐND - UBND/ Phòng Y tế
+01 ngày làm việc
+Bước 3
+Xem xét, thẩm định kết quả giải
+  quyết TTHC trình UBND cấp huyện
+Lãnh đạo Văn phòng HĐND - UBND/ Phòng Y tế
+0,25 ngày làm việc
+Bước 4
+Xem xét, phê duyệt kết quả
+  TTHC
+Lãnh đạo UBND cấp huyện
+0,5 ngày làm việc
+Bước 5
+Vào sổ văn bản, đóng dấu, lưu
+  trữ hồ sơ, chuyển Bộ phận tiếp nhận và trả kết quả cấp xã (điện tử và bản giấy)
+Văn thư UBND cấp huyện
+0,25 ngày làm việc
+Bước 6
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả cấp xã
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+04 ngày làm việc
+Quy trình số 22
+22.
+Quy trình nội bộ liên thông giải quyết TTHC: Trợ giúp xã hội khẩn cấp về hỗ trợ
+chi phí điều trị người bị thương nặng ngoài nơi cư trú mà không có người thân
+thích chăm sóc. (Mã TTHC: 2.000777)
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+Bước 1
+Kiểm tra, tiếp nhận hồ sơ,
+  chuyển bộ phận chuyên môn xử lý.
+Bộ phận tiếp nhận và trả kết quả của UBND cấp huyện
+0,25 ngày làm việc
+Bước 2
+Xem xét, phân công chuyên
+  viên xử lý
+Lãnh đạo Văn phòng HĐND - UBND/ Phòng Y tế
+0,25 ngày làm việc
+Bước 3
+Thụ lý, giải quyết hồ sơ
+Chuyên viên Văn phòng HĐND - UBND/ Phòng Y tế
+0,5 ngày làm việc
+Bước 4
+Xem xét, thẩm định kết quả giải
+  quyết TTHC trình Lãnh đạo UBND cấp huyện
+Lãnh đạo Văn phòng HĐND - UBND/ Phòng Y tế
+0,25 ngày làm việc
+Bước 5
+Xem xét, phê duyệt kết quả
+  TTHC
+Lãnh đạo UBND cấp huyện
+0,5 ngày làm việc
+Bước 6
+Vào sổ văn bản, đóng dấu,
+  chuyển kết quả qua Bộ phận tiếp nhận và trả kết quả của UBND cấp huyện
+Văn thư UBND cấp huyện
+0,25 ngày làm việc
+Bước 6
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả của UBND cấp huyện
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+02 ngày làm việc
+Quy trình số 23
+23.
+Quy trình nội bộ liên thông giải quyết TTHC: Trợ giúp xã hội khẩn cấp về hỗ trợ
+chi phí mai táng (Mã TTHC: 2.000744)
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+I.
+Quy trình giải quyết tại cấp
+  xã
+12 giờ làm việc
+Bước 1
+- Kiểm tra, hướng dẫn, tiếp
+  nhận hồ sơ (hồ sơ đầy đủ và chính xác theo quy định) - Thụ lý, thẩm định, giải
+  quyết hồ sơ (dự thảo văn bản)
+Bộ phận tiếp nhận và trả kết quả của UBND cấp xã
+06 giờ làm việc
+Bước 2
+Xem xét, phê duyệt văn bản
+Lãnh đạo UBND cấp xã
+04 giờ làm việc
+Bước 3
+Vào sổ văn bản, chuyển hồ sơ
+  (điện tử và bản giấy) đến UBND cấp huyện xử lý
+Văn thư UBND cấp xã
+02 giờ làm việc
+II
+Quy trình giải quyết tại cấp
+  huyện (12 giờ làm việc)
+Bước 2
+Xem xét, phân công chuyên
+  viên xử lý
+Lãnh đạo Văn phòng HĐND - UBND/ Phòng Y tế
+02 giờ ngày làm việc
+Bước 3
+Thụ lý, giải quyết hồ sơ
+Công chức Văn phòng HĐND - UBND/ Phòng Y tế
+04 giờ ngày làm việc
+Bước 4
+Xem xét, thẩm định kết quả giải
+  quyết TTHC
+Lãnh đạo Văn phòng HĐND - UBND/ Phòng Y tế
+02 giờ ngày làm việc
+Bước 5
+Xem xét, phê duyệt kết quả
+  TTHC
+Lãnh đạo UBND cấp huyện
+02 giờ ngày làm việc
+Bước 6
+Vào sổ văn bản, đóng dấu, lưu
+  trữ hồ sơ, chuyển kết quả cho UBND cấp xã (điện tử và bản giấy)
+Bộ phận tiếp nhận và trả kết quả cấp huyện
+02 giờ ngày làm việc
+Bước 7
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả cấp xã
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+24 giờ (03 ngày làm việc)
+Quy trình số 24
+24.
+Quy trình nội bộ liên thông giải quyết TTHC: Nhận chăm sóc, nuôi dưỡng đối tượng
+cần bảo vệ khẩn cấp (Mã TTHC: 1.001739)
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+I.
+Quy trình giải quyết tại cấp
+  xã (16 giờ làm việc)
+Bước 1
+- Kiểm tra, hướng dẫn, tiếp
+  nhận hồ sơ (hồ sơ đầy đủ và chính xác theo quy định)
+- Thụ lý, thẩm định, giải quyết
+  hồ sơ (dự thảo văn bản)
+Bộ phận tiếp nhận và trả kết quả cấp xã (Công chức Văn hóa - Xã hội)
+10 giờ ngày làm việc
+Bước 2
+Xem xét, phê duyệt văn bản
+Lãnh đạo UBND cấp xã
+04 giờ làm việc
+Bước 3
+Vào sổ văn bản, chuyển hồ sơ
+  (điện tử và bản giấy) đến UBND cấp huyện (qua Văn phòng HĐND - UBND/ Phòng Y
+  tế) xử lý
+Văn thư UBND cấp xã
+02 giờ làm việc
+II.
+Quy trình giải quyết tại cấp
+  huyện, thành phố
+(16 giờ làm việc)
+Bước 1
+Xem xét, phân công chuyên
+  viên xử lý
+Lãnh đạo Văn phòng HĐND - UBND/ Phòng Y tế
+02 giờ làm việc
+Bước 2
+Thụ lý, giải quyết hồ sơ
+Công chức Văn phòng HĐND - UBND/ Phòng Y tế
+08 giờ làm việc
+Bước 3
+Xem xét, thẩm định kết quả giải
+  quyết TTHC trình Lãnh đạo UBND cấp huyện
+Lãnh đạo Văn phòng HĐND - UBND/ Phòng Y tế
+02 giờ làm việc
+Bước 4
+Xem xét, phê duyệt kết quả
+  TTHC
+Lãnh đạo UBND cấp huyện
+02 giờ làm việc
+Bước 5
+Vào sổ văn bản, đóng dấu, lưu
+  trữ hồ sơ, chuyển kết quả cho UBND cấp xã (điện tử và bản giấy)
+Văn thư UBND cấp huyện
+02 giờ làm việc
+Bước 6
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả cấp xã
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+32 giờ (04 ngày
+làm việc)
+Quy trình số 25
+25.
+Quy trình nội bộ giải quyết TTHC: Cấp lại, điều chỉnh giấy phép hoạt động đối với
+cơ sở trợ giúp xã hội có giấy phép hoạt động do Phòng Y tế cấp. (Mã TTHC:
+1.000684)
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+Bước 1
+Kiểm tra, tiếp nhận hồ sơ,
+  chuyển bộ phận chuyên môn xử lý.
+Bộ phận tiếp nhận và trả kết quả của UBND cấp huyện
+01 ngày làm việc
+Bước 2
+Xem xét, phân công chuyên
+  viên xử lý
+Lãnh đạo Văn phòng HĐND - UBND/ Phòng Y tế
+01 ngày làm việc
+Bước 3
+Thụ lý, giải quyết hồ sơ:
+- Trường hợp hồ sơ không đủ
+  điều kiện: Dự thảo văn bản trả lời không đủ điều kiện, trình lãnh đạo phòng
+  xem xét, ký duyệt
+- Trường hợp hồ sơ đủ điều kiện:
+  Dự thảo Giấy phép hoạt động được cấp lại hoặc điều chỉnh nội dung trình lãnh
+  đạo phòng xem xét, ký duyệt.
+Chuyên viên Văn phòng HĐND - UBND/ Phòng Y tế
+11 ngày làm việc
+Bước 4
+Xem xét kết quả, ký giấy phép
+  hoạt động hoặc văn bản trả lời
+Lãnh đạo Văn phòng HĐND - UBND/ Phòng Y tế
+01 ngày làm việc
+Bước 5
+Vào sổ văn bản, lưu trữ hồ
+  sơ, chuyển Bộ phận tiếp nhận và trả kết quả của UBND cấp huyện
+Văn thư Văn phòng HĐND - UBND/ Phòng Y tế
+01 ngày làm việc
+Bước 6
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả cấp huyện
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+15 ngày làm việc
+Quy trình số 26
+26.
+Quy trình nội bộ giải quyết TTHC: Giải thể cơ sở trợ giúp xã hội ngoài công lập
+thuộc thẩm quyền thành lập của Phòng Y tế. (Mã TTHC: 2.000298)
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+Bước 1
+Kiểm tra, tiếp nhận hồ sơ, chuyển
+  bộ phận chuyên môn xử lý.
+Bộ phận tiếp nhận và trả kết quả của UBND cấp huyện
+01 ngày làm việc
+Bước 2
+Xem xét, phân công chuyên
+  viên xử lý
+Lãnh đạo Văn phòng HĐND - UBND/ Phòng Y tế
+01 ngày làm việc
+Bước 3
+Thụ lý, giải quyết hồ sơ:
+- Trường hợp hồ sơ không đủ
+  điều kiện: Dự thảo văn bản trả lời không đủ điều kiện, trình lãnh đạo phòng
+  xem xét, ký duyệt;
+- Trường hợp hồ sơ đủ điều kiện:
+  Dự thảo Quyết định giải thể trình lãnh đạo phòng xem xét, ký duyệt.
+Công chức Văn phòng HĐND - UBND/ Phòng Y tế
+11 ngày làm việc
+Bước 4
+Xem xét kết quả, ký ban hành
+  Quyết định giải thể cơ sở hoặc văn bản trả lời
+Lãnh đạo Văn phòng HĐND - UBND/ Phòng Y tế
+01 ngày làm việc
+Bước 5
+Vào sổ văn bản, lưu trữ hồ
+  sơ, chuyển Bộ phận tiếp nhận và trả kết quả của UBND cấp huyện
+Văn thư Văn phòng HĐND - UBND/ Phòng Y tế
+01 ngày làm việc
+Bước 6
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả cấp huyện
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+15 ngày làm việc
+Quy trình số 27
+27.
+Quy trình nội bộ giải quyết TTHC: Cấp giấy phép hoạt động đối với cơ sở trợ
+giúp xã hội thuộc thẩm quyền của Phòng Y tế. (Mã TTHC: (2.000294)
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+Bước 1
+Kiểm tra, tiếp nhận hồ sơ,
+  chuyển bộ phận chuyên môn xử lý.
+Bộ phận tiếp nhận và trả kết quả của UBND cấp huyện
+01 ngày làm việc
+Bước 2
+Xem xét, phân công chuyên
+  viên xử lý
+Lãnh đạo Văn phòng HĐND - UBND/ Phòng Y tế
+01 ngày làm việc
+Bước 3
+Thụ lý, giải quyết hồ sơ
+- Trường hợp hồ sơ không đủ
+  điều kiện: Dự thảo văn bản trả lời không đủ điều kiện, trình lãnh đạo phòng
+  xem xét, ký duyệt.
+- Trường hợp hồ sơ đủ điều kiện:
+  Dự thảo văn bản xin ý kiến thẩm định của các bộ phận liên quan trình lãnh đạo
+  xem xét, ký duyệt.
+Công chức Văn phòng HĐND - UBND/ Phòng Y tế
+11 ngày làm việc
+Bước 4
+Xem xét kết quả, ký ban hành
+  Quyết định cấp giấy phép hoặc văn bản trả lời
+Lãnh đạo Văn phòng HĐND - UBND/ Phòng Y tế
+01 ngày làm việc
+Bước 6
+Vào sổ văn bản, lưu trữ hồ sơ,
+  chuyển Bộ phận tiếp nhận và trả kết quả của UBND cấp huyện
+Văn thư Văn phòng HĐND - UBND/ Phòng Y tế
+01 ngày làm việc
+Bước 7
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả cấp huyện
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+15 ngày làm việc
+Quy trình số 28
+28.
+Quy trình nội bộ giải quyết TTHC: Đăng ký thành lập, đăng ký thay đổi nội dung
+hoặc cấp lại giấy chứng nhận đăng ký thành lập cơ sở trợ giúp xã hội ngoài công
+lập thuộc thẩm quyền của Phòng Y tế. (Mã TTHC: 1.000669)
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+Bước 1
+Kiểm tra, tiếp nhận hồ sơ,
+  chuyển bộ phận chuyên môn xử lý.
+Bộ phận tiếp nhận và trả kết quả của UBND cấp huyện
+0,5 ngày làm việc
+Bước 2
+Xem xét, phân công chuyên
+  viên xử lý
+Lãnh đạo Văn phòng HĐND - UBND/ Phòng Y tế
+0,5 ngày làm việc
+Bước 3
+Thụ lý, giải quyết hồ sơ
+- Trường hợp hồ sơ không đủ
+  điều kiện: Dự thảo văn bản trả lời không đủ điều kiện, trình lãnh đạo phòng xem
+  xét, ký duyệt;
+- Trường hợp hồ sơ đủ điều kiện:
+  Dự thảo Giấy chứng nhận đăng ký thành lập cơ sở trình lãnh đạo phòng xem xét,
+  ký duyệt.
+Công chức Văn phòng HĐND - UBND/ Phòng Y tế
+2.5 ngày làm việc
+Bước 4
+Xem xét kết quả, thẩm định hồ
+  sơ, ký Giấy chứng nhận đăng ký thành lập cơ sở hoặc văn bản trả lời
+Lãnh đạo Văn phòng HĐND - UBND/ Phòng Y tế
+01 ngày làm việc
+Bước 5
+Vào sổ văn bản, lưu trữ hồ
+  sơ, chuyển Bộ phận tiếp nhận và trả kết quả của UBND cấp huyện
+Văn thư Văn phòng HĐND - UBND/ Phòng Y tế
+0,5 ngày làm việc
+Bước 6
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả cấp huyện
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+05 ngày làm việc
+Quy trình số 29
+29.
+Quy trình nội bộ liên thông giải quyết TTHC: Hỗ trợ học văn hóa, học nghề, trợ
+cấp khó khăn ban đầu cho nạn nhân. (Mã TTHC: 2.001661)
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+I
+Quy trình giải quyết tại cấp
+  xã (02 ngày làm việc)
+Bước 1
+Kiểm tra, hướng dẫn, tiếp nhận
+  hồ sơ, chuyển bộ phận chuyên môn xử lý (gửi phiếu hẹn trả kết quả cho cá
+  nhân, tổ chức); xem xét, lập hồ sơ trình lãnh đạo xã xem xét.
+Bộ phận tiếp nhận và trả kết quả của UBND cấp xã (Công chức Văn hoá -
+  Xã hội)
+1,25 ngày làm việc
+Bước 2
+Lãnh đạo UBND cấp xã xem xét,
+  phê duyệt
+Lãnh đạo UBND cấp xã
+0,5 ngày làm việc
+Bước 3
+Vào sổ văn bản, chuyển hồ sơ
+  (điện tử và bản giấy) đến UBND cấp huyện xử lý qua Văn phòng HĐND - UBND/
+  Phòng Y tế
+Văn thư xã
+0,25 ngày làm việc
+II
+Quy trình giải quyết tại cấp
+  huyện (06 ngày làm việc)
+Bước 1
+Xem xét, phân công chuyên
+  viên thụ lý hồ sơ
+Lãnh đạo Văn phòng HĐND - UBND/ Phòng Y tế
+0,5 ngày làm việc
+Bước 2
+Nhận hồ sơ, xem xét, thẩm
+  tra, tổng hợp: Làm văn bản đề nghị, danh sách theo biểu mẫu và bản tổng hợp hồ
+  sơ
+Công chức Văn phòng HĐND - UBND/ Phòng Y tế
+03 ngày làm việc
+Bước 3
+Thẩm định kết quả trước khi
+  trình Lãnh đạo UBND huyện phê duyệt
+Lãnh đạo Văn phòng HĐND - UBND/ Phòng Y tế
+01 ngày làm việc
+Bước 4
+Lãnh đạo UBND cấp huyện phê
+  duyệt quyết định
+Lãnh đạo UBND cấp huyện
+01 ngày làm việc
+Bước 5
+Đóng dấu, vào sổ văn bản chuyển
+  kết quả đến bộ phận tiếp nhận và trả kết quả cấp xã
+Văn thư UBND cấp huyện
+0,5 ngày làm việc
+Bước 6
+Trả kết quả cho cá nhân
+Bộ phận tiếp nhận và trả kết quả của UBND cấp xã
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+08 ngày làm việc
+IV. QUY
+TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH CẤP XÃ (04 TTHC)
+Quy trình số 30
+30.
+Quy trình nội bộ giải quyết TTHC: Xác định, xác định lại mức độ khuyết tật và cấp
+Giấy xác nhận khuyết tật. (Mã TTHC: 1.001699)
+a) Trường hợp 1: Không có
+khiếu nại, tố cáo - thời gian giải quyết TTHC 20 ngày làm việc kể từ ngày nhận
+hồ sơ
+Thứ tự công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+Bước 1
+Tiếp nhận hồ sơ, chuyển bộ phận
+  chuyên môn phụ trách xử lý
+Bộ phận tiếp nhận và trả kết quả của UBND cấp xã
+01 ngày làm việc
+Bước 2
+Nghiên cứu, tham mưu đề xuất
+  giải quyết thủ tục hành chính
+Thành viên Hội đồng xác định mức độ khuyết tật
+13 ngày làm việc
+Bước 3
+- Niêm yết, thông báo công
+  khai kết luận của Hội đồng tại trụ sở Ủy ban nhân dân cấp xã;
+- Cấp Giấy xác nhận khuyết tật
+Lãnh đạo UBND cấp xã
+05 ngày làm việc
+Bước 4
+Cập nhật, đóng dấu lưu trữ hồ
+  sơ, chuyển kết quả giải quyết TTHC đến Bộ phận tiếp nhận và trả kết quả của
+  UBND cấp xã
+Văn thư xã
+01 ngày làm việc
+Bước 5
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả của UBND cấp xã
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+20 ngày làm việc
+b) Trường hợp 2: Có khiếu
+nại, tố cáo - thời gian giải quyết TTHC 25 ngày làm việc kể từ ngày nhận hồ sơ
+Thứ tự công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+Bước 1
+Tiếp nhận hồ sơ, chuyển bộ phận
+  chuyên môn phụ trách xử lý
+Bộ phận tiếp nhận và trả kết quả của UBND cấp xã
+01 ngày làm việc
+Bước 2
+Nghiên cứu, tham mưu đề xuất
+  giải quyết thủ tục hành chính
+Thành viên Hội đồng xác định mức độ khuyết tật
+13 ngày làm việc
+Bước 3
+- Niêm yết, thông báo công
+  khai kết luận của Hội đồng tại trụ sở Ủy ban nhân dân cấp xã;
+- Cấp Giấy xác nhận khuyết tật.
+Lãnh đạo UBND cấp xã
+05 ngày làm việc
+Bước 4
+Xác minh, thẩm tra, kết luận
+  cụ thể và trả lời bằng văn bản đến người khiếu nại, tố cáo
+Hội đồng xác định mức độ khuyết tật
+05 ngày làm việc
+Bước 5
+Cập nhật, lưu trữ hồ sơ, chuyển
+  kết quả giải quyết TTHC đến Bộ phận tiếp nhận và trả kết quả của UBND cấp xã
+Công chức văn hóa xã hội
+01 ngày làm việc
+Bước 6
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả của UBND cấp xã
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+25 ngày làm việc
+Quy trình số 31
+31.
+Quy trình nội bộ giải quyết TTHC: Cấp đổi, cấp lại Giấy xác nhận khuyết tật.
+(Mã TTHC:1.001653)
+Thứ tự công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+Bước 1
+Tiếp nhận hồ sơ, chuyển bộ phận
+  chuyên môn phụ trách xử lý
+Bộ phận tiếp nhận và trả kết quả của UBND cấp xã
+0,5 ngày làm việc
+Bước 2
+Nghiên cứu, tham mưu đề xuất giải
+  quyết thủ tục hành chính
+Thành viên Hội đồng xác định mức độ khuyết tật
+2,5 ngày làm việc
+Bước 3
+Xem xét, ký duyệt kết quả giải
+  quyết TTHC
+Lãnh đạo UBND cấp xã
+0,5 ngày làm việc
+Bước 4
+Cập nhật, lưu trữ hồ sơ, chuyển
+  kết quả giải quyết TTHC đến Bộ phận tiếp nhận và trả kết quả của UBND cấp xã
+Công chức văn hóa xã hội
+0,5 ngày làm việc
+Bước 5
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả của UBND cấp xã
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+04 ngày làm việc
+Quy trình số 32
+32.
+Quy trình nội bộ giải quyết TTHC: Đăng ký hoạt động đối với cơ sở trợ giúp xã hội
+dưới 10 đối tượng có hoàn cảnh khó khăn. (Mã TTHC: 2.000355)
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+Bước 1
+Tiếp nhận hồ sơ, thụ lý hồ sơ
+Bộ phận tiếp nhận và trả kết quả của UBND cấp xã (Công chức Văn hóa -
+  Xã hội)
+06 ngày làm việc
+Bước 2
+Xem xét, ký duyệt kết quả giải
+  quyết TTHC
+Lãnh đạo UBND cấp xã
+01 ngày làm việc
+Bước 3
+Cập nhật, lưu trữ hồ sơ, chuyển
+  kết quả giải quyết TTHC đến Bộ phận tiếp nhận và trả kết quả của UBND cấp xã
+Văn thư UBND cấp xã
+01 ngày làm việc
+Bước 4
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả của UBND cấp xã
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+08 ngày làm việc
+Quy trình số 33
+33.
+Quy trình nội bộ giải quyết TTHC: Trợ giúp xã hội khẩn cấp về hỗ trợ làm nhà ở,
+sửa chữa nhà ở. (Mã TTHC: 2.000751)
+Thứ tự
+công việc
+Nội dung công việc
+Trách nhiệm thực hiện
+Thời gian thực hiện
+Bước 1
+- Tiếp nhận hồ sơ, thụ lý hồ
+  sơ, nghiên cứu, tham mưu đề xuất giải quyết thủ tục hành chính
+- Tham mưu thành lập Hội đồng
+  xét duyệt
+Bộ phận tiếp nhận và trả kết quả của UBND cấp xã (Công chức Văn hóa -
+  Xã hội)
+01 ngày làm việc
+Bước 2
+Xem xét, ký duyệt kết quả giải
+  quyết TTHC
+Lãnh đạo UBND cấp xã
+0,25 ngày làm việc
+Bước 3
+Cập nhật, lưu trữ hồ sơ, chuyển
+  kết quả giải quyết TTHC đến Bộ phận tiếp nhận và trả kết quả của UBND cấp xã
+Văn thư UBND cấp xã
+0,25 ngày làm việc
+Bước 4
+Trả kết quả cho cá nhân, tổ
+  chức
+Bộ phận tiếp nhận và trả kết quả của UBND cấp xã
+Không tính thời gian
+Tổng thời gian giải quyết TTHC
+1,5 ngày làm việc
+Lưu trữ
+Ghi chú
+Ý kiến
+Facebook
+Email
+In
+Thư Viện
+Nhà Đất
+BÁN NHÀ MẶT PHỐ -NGUYỄN ĐỔNG CHI- KINH DOANH – 9 TẦNG THANG MÁY – 154m2 Giá 100 TỶ
+100 tỷ
+,
+DT 154
+,
+Quận Nam Từ Liêm, Hà Nội
+Bản án liên quan
+PHÁP LUẬT DOANH NGHIỆP
+Hỏi đáp pháp luật
+Quyết định 748/QĐ-UBND năm 2025 phê duyệt quy trình nội bộ giải quyết thủ tục hành chính trong lĩnh vực Bảo trợ xã hội và lĩnh vực Phòng, chống tệ nạn xã hội thuộc thẩm quyền giải quyết của Sở Y tế, Ủy ban nhân dân cấp huyện, cấp xã tỉnh Cao Bằng

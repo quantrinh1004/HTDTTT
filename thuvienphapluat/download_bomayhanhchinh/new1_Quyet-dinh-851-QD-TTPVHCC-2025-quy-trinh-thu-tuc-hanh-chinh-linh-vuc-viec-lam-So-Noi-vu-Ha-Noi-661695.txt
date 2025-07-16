@@ -1,0 +1,1734 @@
+MỤC LỤC
+                                VĂN BẢN
+In mục lục
+QUYẾT ĐỊNH VỀ VIỆC PHÊ DUYỆT QUY TRÌNH NỘI BỘ GIẢI QUYẾT CÁC THỦ TỤC HÀNH CHÍNH LĨNH VỰC VIỆC LÀM THUỘC PHẠM VI CHỨC NĂNG QUẢN LÝ NHÀ NƯỚC CỦA SỞ NỘI VỤ THÀNH PHỐ HÀ NỘI ĐƯỢC PHÂN LUỒNG “LÀN XANH”
+Điều 1. Phê duyệt kèm theo Quyết định này 06 quy trình nội bộ giải quyết các thủ tục hành chính lĩnh vực việc làm thuộc phạm vi chức năng quản lý nhà nước của Sở Nội vụ thành phố Hà Nội được phân luồng “làn xanh” liên quan đến “Cấp phép nhanh cho chuyên gia, lao động kỹ thuật cao làm việc tại thành phố Hà Nội” khi chuyên gia thuộc các loại hình doanh nghiệp như sau:
+Điều 2. Sở Nội vụ chủ trì, phối hợp với các cơ quan, đơn vị liên quan căn cứ Quyết định này xây dựng quy trình điện tử để phục vụ việc tiếp nhận, giải quyết thủ tục hành chính trên Hệ thống thông tin giải quyết thủ tục hành chính của Thành phố theo quy định.
+Điều 3. Quyết định này có hiệu lực kể từ ngày ký.
+Điều 4. Sở Nội vụ, Trung tâm Phục vụ hành chính công Thành phố, các Sở, ban, ngành Thành phố và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
+PHỤ LỤC QUY TRÌNH NỘI BỘ GIẢI QUYẾT 06 THỦ TỤC HÀNH CHÍNH LĨNH VỰC VIỆC LÀM THUỘC PHẠM VI CHỨC NĂNG QUẢN LÝ NHÀ NƯỚC CỦA SỞ NỘI VỤ THÀNH PHỐ HÀ NỘI ĐƯỢC PHÂN LUỒNG “LÀN XANH”
+1. Quy trình: Báo cáo giải trình nhu cầu, thay đổi nhu cầu sử dụng người lao động nước ngoài (QT-01)
+2. Quy trình: Đề nghị tuyển người lao động Việt Nam vào các vị trí công việc dự kiến tuyển người lao động nước ngoài (QT-02)
+3. Quy trình: Cấp Giấy phép lao động cho người lao động nước ngoài làm việc tại Việt Nam (QT-03)
+4. Quy trình: Gia hạn Giấy phép lao động cho người lao động nước ngoài làm việc tại Việt Nam (QT-04)
+5. Quy trình: Cấp lại Giấy phép lao động cho người lao động nước ngoài làm việc tại Việt Nam (QT-05)
+6. Quy trình: Xác nhận người lao động nước ngoài không thuộc diện cấp giấy phép lao động (QT-06)
+UBND THÀNH PHỐ HÀ
+  NỘI
+TRUNG TÂM PHỤC VỤ
+HÀNH CHÍNH CÔNG
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 851/QĐ-TTPVHCC
+Hà
+  Nội, ngày 12 tháng 06 năm 2025
+QUYẾT ĐỊNH
+VỀ VIỆC PHÊ DUYỆT QUY TRÌNH NỘI BỘ GIẢI QUYẾT CÁC THỦ TỤC
+HÀNH CHÍNH LĨNH VỰC VIỆC LÀM THUỘC PHẠM VI CHỨC NĂNG QUẢN LÝ NHÀ NƯỚC CỦA SỞ NỘI
+VỤ THÀNH PHỐ HÀ NỘI ĐƯỢC PHÂN LUỒNG “LÀN XANH”
+GIÁM ĐỐC TRUNG TÂM PHỤC VỤ
+HÀNH CHÍNH CÔNG THÀNH PHỐ HÀ NỘI
+Căn cứ Luật Tổ chức chính
+quyền địa phương ngày 19/02/2025;
+Căn cứ Nghị định số
+63/2010/NĐ-CP ngày 08/6/2010 của Chính phủ về Kiểm soát thủ tục hành chính; Nghị
+định 48/2013/NĐ-CP ngày 14/5/2013 của Chính phủ về sửa đổi, bổ sung một số điều
+của các nghị định liên quan đến kiểm soát thủ tục hành chính; Nghị định số
+92/2017/NĐ-CP ngày 07/8/2017 của Chính phủ sửa đổi, bổ sung một số điều của các
+nghị định liên quan đến kiểm soát thủ tục hành chính;
+Căn cứ Nghị định số
+61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa
+liên thông trong giải quyết thủ tục hành chính; Nghị định số 107/2021/NĐ-CP
+ngày 06/12/2021 sửa đổi, bổ sung một số điều của Nghị định số 61/2018/NĐ-CP và
+các văn bản hướng dẫn thi hành;
+Căn cứ Chỉ thị của Thủ tướng
+Chính phủ số 06/CT-TTg ngày 10/3/2025 về các nhiệm vụ, giải pháp trọng tâm để
+chủ động thích ứng linh hoạt, kịp thời, phù hợp, hiệu quả với tình hình thế giới,
+khu vực nhằm đạt được các mục tiêu tăng trưởng, giữ vững ổn định kinh tế vĩ mô,
+kiềm chế lạm phát, bảo đảm các cân đối lớn của nền kinh tế trong năm 2025 và những
+năm tiếp theo và Chỉ thị số 10/CT-TTg ngày 25/3/2025 về thúc đẩy phát triển
+doanh nghiệp nhỏ và vừa;
+Căn cứ Công điện số
+22/CĐ-TTg ngày 09/3/2025 của Thủ tướng Chính phủ về một số nhiệm vụ, giải pháp
+trọng tâm về cắt giảm thủ tục hành chính, cải thiện môi trường kinh doanh, thúc
+đẩy phát triển kinh tế - xã hội;
+Căn cứ Thông tư số
+02/2017/TT-VPCP ngày 31/10/2017 của Văn phòng Chính phủ hướng dẫn về nghiệp vụ
+kiểm soát thủ tục hành chính; Thông tư số 01/2018/TT-VPCP ngày 23/11/2018 của
+Văn phòng Chính phủ hướng dẫn thi hành một số điều của Nghị định số
+61/2018/NĐ-CP ngày 23/4/2018 về thực hiện cơ chế một cửa, một cửa liên thông
+trong giải quyết thủ tục hành chính;
+Căn cứ Quyết định số
+63/2024/QĐ-UBND ngày 24/10/2024 của UBND Thành phố quy định chức năng, nhiệm vụ,
+quyền hạn và cơ cấu tổ chức của Trung tâm Phục vụ hành chính công Thành phố;
+Căn cứ Quyết định số
+1716/QĐ-UBND ngày 25/3/2025 của Chủ tịch UBND Thành phố về việc ủy quyền cho Giám
+đốc Trung tâm phục vụ hành chính công Thành phố thực hiện Phê duyệt quy trình nội
+bộ giải quyết thủ tục hành chính; Phê duyệt quy trình điện tử giải quyết thủ tục
+hành chính; Phê duyệt phương án tái cấu trúc quy trình giải quyết thủ tục hành
+chính; Phê duyệt quy trình điện tử thực hiện thủ tục hành chính nội bộ thuộc phạm
+vi quản lý của UBND Thành phố;
+Căn cứ Công văn số
+991/UBND-TH ngày 19/3/2025 của UBND Thành phố về việc chỉ đạo phân lường, rút
+ngắn thời gian xử lý đối với các nhóm hồ sơ thủ tục công việc nhằm đạt mục tiêu
+tăng trưởng GRDP trên 8% của thành phố;
+Căn cứ Quyết định số
+775/QĐ-TTPVHCC ngày 26/5/2025 của Trung tâm Phục vụ hành chính công thành phố
+Hà Nội về việc công bố Danh mục thủ tục hành chính lĩnh vực việc làm thuộc phạm
+vi chức năng quản lý nhà nước của Sở Nội vụ thành phố Hà Nội được phân luồng
+“làn xanh”;
+Theo đề nghị của Giám đốc Sở
+Nội vụ thành phố Hà Nội tại Công văn số 2962/SNV-VP ngày 30/5/2025.
+QUYẾT ĐỊNH:
+Điều 1.
+Phê duyệt kèm theo Quyết định này 06 quy trình nội bộ giải
+quyết các thủ tục hành chính lĩnh vực việc làm thuộc phạm vi chức năng quản lý
+nhà nước của Sở Nội vụ thành phố Hà Nội được phân luồng “làn xanh” liên quan đến
+“Cấp phép nhanh cho chuyên gia, lao động kỹ thuật cao làm việc tại thành phố Hà
+Nội” khi chuyên gia thuộc các loại hình doanh nghiệp như sau:
+- Chuyên gia của doanh nghiệp,
+các nhà Thầu thực hiện các dự án quan trọng của Thành phố như: (1) Cải tại
+không gian khu vực phía Đông hồ Hoàn Kiếm và cải tạo quảng trường Đông Kinh –
+Nghĩa Thục; (2) Cầu Tứ Liên và đường dẫn hai đầu cầu (từ nút giao với đường
+Nghi Tàm đến nút giao với đường Trường Sa); (3) Cầu Trần Hưng Đạo; (4) Cầu Ngọc
+Hồi và đường dẫn hai đầu cầu; (5) Cải tạo, nâng cấp, mở rộng các tuyến đường
+xung quanh Hồ Tây; (6) Cải tạo chỉnh trang, bổ cập nước sông Tô Lịch; (7) Khu
+công nghệ cao Hòa Lạc và các dự án thu hút đầu tư vào Khu công nghệ cao Hòa Lạc;
+(8) Khu công nghệ cao sinh học Hà Nội; (9) Đường vành đai 4 – Vùng Thủ đô trên
+địa bàn Thành phố; (10) Tuyến đường sắt đô thị số 5, Văn Cao – Hòa Lạc.
+- Chuyên gia của các doanh nghiệp
+có các dự án xây dựng, đầu tư, các doanh nghiệp có vốn đầu tư nước ngoài vào Việt
+Nam ngay khi cấp phép thành lập/ hoạt động được cơ quan có thẩm quyền đóng dấu
+“làn xanh”.
+(chi tiết tại Phụ lục
+kèm
+theo)
+Điều 2.
+Sở Nội vụ chủ trì, phối hợp với các cơ quan, đơn vị liên
+quan căn cứ Quyết định này xây dựng quy trình điện tử để phục vụ việc tiếp nhận,
+giải quyết thủ tục hành chính trên Hệ thống thông tin giải quyết thủ tục hành
+chính của Thành phố theo quy định.
+Điều 3.
+Quyết định này có hiệu lực kể từ ngày ký.
+Điều 4.
+Sở Nội vụ, Trung tâm Phục vụ hành chính công Thành phố,
+các Sở, ban, ngành Thành phố và các tổ chức, cá nhân có liên quan chịu trách
+nhiệm thi hành Quyết định này./.
+Nơi nhận:
+- Như Điều 4;
+- Cục KSTTHC - Văn phòng Chính phủ;
+(để báo cáo)
+- Bộ Nội vụ;
+(để báo cáo)
+- Chủ tịch, các PCT UBND Thành phố;
+(để báo cáo)
+- Cổng Thông tin điện tử Thành phố;
+- Trung tâm PVHCC: GĐ, PGĐ, các phòng HCQT, TCT, KSTTHC; các CN;
+- Lưu: VT, Sở NV, TTPVHCC.
+GIÁM ĐỐC
+Cù Ngọc Trang
+PHỤ LỤC
+QUY TRÌNH NỘI BỘ GIẢI QUYẾT 06 THỦ TỤC HÀNH CHÍNH LĨNH VỰC
+VIỆC LÀM THUỘC PHẠM VI CHỨC NĂNG QUẢN LÝ NHÀ NƯỚC CỦA SỞ NỘI VỤ THÀNH PHỐ HÀ NỘI
+ĐƯỢC PHÂN LUỒNG “LÀN XANH”
+(Kèm theo Quyết định số 851/QĐ-TTPVHCC ngày 12 tháng 06 năm 2025 của Trung
+tâm PVHCC thành phố Hà Nội)
+1. Quy
+trình: Báo cáo giải trình nhu cầu, thay đổi nhu cầu sử dụng người lao động nước
+ngoài (QT-01)
+1.
+Mục đích:
+Quy định chi tiết trình tự giải
+  quyết thủ tục báo cáo giải trình nhu cầu, thay đổi nhu cầu sử dụng người lao động
+  nước ngoài
+2.
+Phạm vi:
+Áp dụng đối với tổ chức, cá
+  nhân có nhu cầu thực hiện thủ tục báo cáo giải trình nhu cầu, thay đổi nhu
+  cầu sử dụng người lao động nước ngoài thuộc thẩm quyền chấp thuận của Sở Nội
+  vụ thành phố Hà Nội.
+Cán bộ, công chức thuộc
+  Phòng Việc làm và An toàn lao động, cán bộ, công chức, người lao động
+  Trung tâm PVHCC Thành phố (CN số 2 TT PVHCC Thành phố) chịu trách nhiệm thực
+  hiện và kiểm soát quy trình này.
+3.
+Đối tượng:
+-
+Chuyên gia của doanh
+  nghiệp, các nhà Thầu thực hiện các dự án quan trọng của Thành phố như: (1)
+  Cải tại không gian khu vực phía Đông hồ Hoàn Kiếm và cải tạo quảng trường
+  Đông Kinh – Nghĩa Thục; (2) Cầu Tứ Liên và đường dẫn hai đầu cầu (từ nút
+  giao với đường Nghi Tàm đến nút giao với đường Trường Sa); (3) Cầu Trần Hưng
+  Đạo; (4) Cầu Ngọc Hồi và đường dẫn hai đầu cầu; (5) Cải tạo, nâng cấp, mở rộng
+  các tuyến đường xung quanh Hồ Tây; (6) Cải tạo chỉnh trang, bổ cập nước sông
+  Tô Lịch; (7) Khu công nghệ cao Hòa Lạc và các dự án thu hút đầu tư vào Khu
+  công nghệ cao Hòa Lạc; (8) Khu công nghệ cao sinh học Hà Nội; (9) Đường
+  vành đai 4 – Vùng Thủ đô trên địa bàn Thành phố; (10) Tuyến đường sắt đô thị
+  số 5, Văn Cao – Hòa Lạc.
+- Chuyên gia của các doanh
+  nghiệp có các dự án xây dựng, đầu tư, các doanh nghiệp có vốn đầu tư nước
+  ngoài vào Việt Nam ngay khi cấp phép thành lập/ hoạt động đã có dấu làn
+  xanh của cơ quan có thẩm quyền đóng dấu.
+4.
+Nội dung quy trình:
+4.1.
+Cơ sở pháp lý
+- Bộ luật Lao động 2019;
+- Nghị định số 152/2020/NĐ-CP
+  ngày 30/12/2020 của Chính phủ quy định về người lao động nước ngoài làm việc
+  tại Việt Nam và tuyển dụng, quản lý người lao động Việt Nam làm việc cho
+  tổ chức, cá nhân nước ngoài tại Việt Nam
+- Nghị định số 70/2023/NĐ-CP
+  ngày 18/09/2023 của Chính phủ quy định sử đổi, bổ sung một số điều của Nghị định
+  số 152/2020/NĐ-CP ngày 30/12/2020 của Chính phủ quy định về người lao động nước
+  ngoài làm việc tại Việt Nam và tuyển dụng, quản lý người lao động Việt
+  Nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam.
+- Quyết định số 315/QĐ-BNV
+  ngày 04/04/2025 của Bộ Nội vụ về việc công bố thủ tục hành chính sửa đổi, bổ
+  sung lĩnh vực việc làm thuộc phạm vi chức năng quản lý của Bộ Nội vụ;
+- Công văn số 991/UBND-TH
+  ngày 19/3/2025 của UBND Thành phố về việc chỉ đạo phân luồng, rút ngắn thời
+  gian xử lý đối với các nhóm hồ sơ thủ tục công việc nhằm đạt mục tiêu tăng
+  trưởng GRDP trên 8% của Thành phố;
+- Quyết định số
+  775/QĐ-TTPVHCC ngày 26/5/2025 của Trung tâm PVHCC thành phố Hà Nội về việc
+  công bố Danh mục thủ tục hành chính lĩnh vực việc làm thuộc phạm vi chức
+  năng quản lý nhà nước của Sở Nội vụ thành phố Hà Nội được phân luồng “làn
+  xanh”.
+4.2.
+Thành phần hồ sơ
+Bản chính
+Bản sao
+(1)
+Báo cáo giải trình nhu cầu sử
+  dụng LĐNN theo
+mẫu số 01/PL1
+hoặc
+mẫu số 02/PLI
+ban hành kèm theo
+  Nghị định số 70/2023/NĐ-CP
+x
+(2)
+Các giấy tờ có liên quan
+x
+x
+4.3.
+Số lượng
+: 01 bộ
+4.4.
+Thời gian xử lý
+: 04
+  ngày làm việc kể từ khi nhận đủ hồ sơ hợp lệ
+4.5.
+Phí/lệ phí
+: Không
+4.6.
+Quy trình xử lý công việc
+Tên bước
+Chi tiết
+Trách nhiệm
+Thời gian
+Biểu mẫu
+Nộp HS
+- Công dân truy cập qua Cổng
+  thông tin điện tử dịch vụ công Thành phố (dvc.hanoi.gov.vn), khai báo nội
+  dung và làm theo hướng dẫn. Sau khi điền đầy đủ thông tin yêu cầu, công dân gửi
+  hồ sơ.
+Công dân
+- Trực tuyến: khi có nhu cầu;
+- Trực tiếp: giờ hành chính
+Tiếp nhận và bàn giao
+(Trung tâm chuyển HS về Sở)
+- Đối với hồ sơ công dân nộp
+  trực tiếp, công chức CN số 2 TTPVHCC Thành phố hướng dẫn và tiếp nhận hồ sơ,
+  ghi giấy tiếp nhận hồ sơ và hẹn trả kết quả trao cho công dân.
+- Chuyển giao hồ sơ về
+  phòng chuyên môn thực hiện xử lý qua phần mềm dịch vụ công hoặc chuyển hồ
+  sơ trực tiếp nếu nhận hồ sơ trực tiếp từ công dân.
+CN số 2 TT PVHCC
+1/2 ngày làm việc
+Mẫu phiếu hẹn
+Phòng Tiếp nhận và Thụ lý
+Phòng chuyên môn tiếp nhận hồ
+  sơ Kiểm tra hồ sơ:
+- Nội dung kiểm tra: Căn cứ
+  kiểm tra: Theo mục 4.2
+- Trường hợp hồ sơ chưa đầy đủ,
+  chưa đúng thành phần, nội dung, số lượng theo quy định thì soạn thảo nội dung
+  yêu cầu hoàn thiện hồ sơ và chuyển Lãnh đạo phòng phụ trách ký văn bản trả
+  hồ sơ với trường hợp nộp trực tiếp và chuyển trả hồ sơ trên hệ thống với
+  trường hợp nộp trực tuyến.
+- Trường hợp kiểm tra hồ sơ
+  đầy đủ đúng thành phần, số lượng, nội dung thì trình Lãnh đạo phòng chuyên
+  môn ký phiếu trình (hoặc chuyển trên hệ thống với trường hợp nộp trực tuyến)
+Chuyên viên phòng VL&ATLĐ (Sau đây gọi tắt là chuyên viên)
+01 ngày làm việc
+Lãnh đạo Phòng phê duyệt
+Lãnh đạo phòng chuyên môn
+  kiểm tra kết quả giải quyết hồ sơ của chuyên viên và trình Lãnh đạo Sở Nội vụ
+  (hoặc chuyển trên hệ thống với trường hợp online)
+Lãnh đạo Sở
+1/2 ngày làm việc
+Lãnh đạo Sở phê duyệt
+Lãnh đạo Sở xem xét hồ sơ và
+  có ý kiến đồng ý hay không đồng ý cấp phép tại phiếu trình (hoặc chuyển
+  trên hệ thống với trường hợp online)
+Lãnh đạo Sở
+1/2 ngày làm việc
+Trình ký Thông báo chấp thuận vị trí công việc sử dụng LĐNN
++ Trường hợp lãnh đạo Sở đồng
+  ý, công chức soạn văn bản Thông báo chấp thuận vị trí công việc sử dụng
+  LĐNN, trình lãnh đạo Sở ký. (trình bản giấy hoặc ký số)
++ Trường hợp lãnh đạo Sở
+  không đồng ý, công chức dự thảo văn bản trả lời không cấp phép, trình lãnh đạo
+  phòng ký. (trình bản giấy hoặc ký số)
+Chuyên viên phòng chuyên môn (sau đây gọi tắt là chuyên viên)
+1/2 ngày làm việc
+Thông báo chấp thuận vị trí công việc sử dụng LĐNN / văn bản trả lời
+  không cấp phép
+Ký Thông báo chấp thuận vị trí công việc sử dụng LĐNN / văn bản trả lời
+  không cấp phép
+Lãnh đạo Sở ký Thông báo chấp
+  thuận vị trí công việc sử dụng LĐNN (ký trực tiếp hoặc ký số)
+Lãnh đạo Sở
+1/2 ngày làm việc
+Chuyển kết quả
+Công chức phòng chuyên môn
+  chuyển trả kết quả cho CN số 2 TTPVHCC Thành phố
+Chuyên viên
+1/2 ngày làm việc
+Trả KQ
+Chuyển trả kết quả cho công
+  dân
+CN số 2 TT PVHCC
+Giờ hành chính
+2. Quy trình:
+Đề nghị tuyển người lao động Việt Nam vào các vị trí công việc dự kiến tuyển
+người lao động nước ngoài (QT-02)
+1.
+Mục đích:
+Quy định chi tiết trình tự giải
+  quyết thủ tục “Đề nghị tuyển người lao động Việt Nam vào các vị trí công
+  việc dự kiến tuyển người lao động nước ngoài”.
+2.
+Phạm vi:
+Áp dụng đối với Nhà thầu có
+  nhu cầu thực hiện thủ tục Đề nghị tuyển người lao động Việt Nam vào các vị
+  trí công việc dự kiến tuyển người lao động nước ngoài.
+Cán bộ, công chức thuộc
+  Phòng Việc làm và An toàn lao động (VL&ATLĐ), các phòng có liên quan
+  thuộc Sở Nội vụ và cán bộ, công chức, người lao động Trung tâm PVHCC Thành
+  phố chịu trách nhiệm thực hiện và kiểm soát quy trình này.
+3.
+Đối tượng:
+-
+Chuyên gia của doanh
+  nghiệp, các nhà Thầu thực hiện các dự án quan trọng của Thành phố như: (1)
+  Cải tại không gian khu vực phía Đông hồ Hoàn Kiếm và cải tạo quảng trường
+  Đông Kinh – Nghĩa Thục; (2) Cầu Tứ Liên và đường dẫn hai đầu cầu (từ nút
+  giao với đường Nghi Tàm đến nút giao với đường Trường Sa); (3) Cầu Trần Hưng
+  Đạo; (4) Cầu Ngọc Hồi và đường dẫn hai đầu cầu; (5) Cải tạo, nâng cấp, mở rộng
+  các tuyến đường xung quanh Hồ Tây; (6) Cải tạo chỉnh trang, bổ cập nước sông
+  Tô Lịch; (7) Khu công nghệ cao Hòa Lạc và các dự án thu hút đầu tư vào Khu
+  công nghệ cao Hòa Lạc; (8) Khu công nghệ cao sinh học Hà Nội; (9) Đường
+  vành đai 4 – Vùng Thủ đô trên địa bàn Thành phố; (10) Tuyến đường sắt đô thị
+  số 5, Văn Cao – Hòa Lạc.
+- Chuyên gia của các doanh
+  nghiệp có các dự án xây dựng, đầu tư, các doanh nghiệp có vốn đầu tư nước
+  ngoài vào Việt Nam ngay khi cấp phép thành lập/ hoạt động đã có dấu làn
+  xanh của cơ quan có thẩm quyền đóng dấu.
+4.
+Nội dung quy trình:
+4.1.
+Cơ sở pháp lý
+- Bộ luật Lao động năm 2019.
+- Nghị quyết số 190/2025/QH15
+  ngày 19/02/2025 của Quốc hội quy định về xử lý một số vấn đề liên quan đến sắp
+  xếp tổ chức bộ máy nhà nước.
+- Nghị định số 25/2025/NĐ-CP
+  ngày 21 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền
+  hạn và cơ cấu tổ chức của Bộ Nội vụ.
+- Nghị định số 45/2025/NĐ-CP
+  ngày 28/02/2025 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc
+  Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và Ủy ban nhân dân
+  huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực
+  thuộc trung ương.
+- Nghị định số 152/2020/NĐ-CP
+  ngày 30 tháng 12 năm 2020 của Chính phủ quy định về người lao động nước
+  ngoài làm việc tại Việt Nam và tuyển dụng, quản lý người lao động Việt
+  Nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam;
+- Nghị định số 70/2023/NĐ-CP
+  ngày 18 tháng 9 năm 2023 của Chính phủ sửa đổi, bổ sung một số điều của Nghị
+  định số 152/2020/NĐ-CP ngày 30 tháng 12 năm 2020 của Chính phủ quy định về
+  người lao động nước ngoài làm việc tại Việt Nam và tuyển dụng, quản lý người
+  lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam.
+- Quyết định số 315/QĐ-BNV
+  ngày 04/4/2025 của Bộ Nội vụ về việc công bố thủ tục hành chính được sửa đổi,
+  bổ sung lĩnh vực việc làm thuộc phạm vi chức năng quản lý của Bộ Nội vụ.
+- Công văn số 991/UBND-TH
+  ngày 19/3/2025 của UBND Thành phố về việc chỉ đạo phân luồng, rút ngắn thời
+  gian xử lý đối với các nhóm hồ sơ thủ tục công việc nhằm đạt mục tiêu tăng
+  trưởng GRDP trên 8% của Thành phố.
+- Quyết định số
+  775/QĐ-TTPVHCC ngày 26/5/2025 của Trung tâm PVHCC thành phố Hà Nội về việc
+  công bố Danh mục thủ tục hành chính lĩnh vực việc làm thuộc phạm vi chức
+  năng quản lý nhà nước của Sở Nội vụ thành phố Hà Nội được phân luồng “làn
+  xanh”.
+4.2.
+Thành phần hồ sơ
+Bản chính
+Bản sao
+Văn bản: Đề nghị tuyển người
+  lao động Việt Nam vào các vị trí công việc dự kiến tuyển người lao động nước
+  ngoài theo
+Mẫu số 04/PLI Phụ lục I
+ban hành kèm theo Nghị định số 152/2020/NĐ-CP hoặc điều chỉnh, bổ sung nhu cầu
+  sử dụng người lao động nước ngoài theo
+Mẫu số 05/PLI Phụ lục I
+ban hành
+  kèm theo Nghị định số 152/2020/NĐ-CP.
+x
+4.3.
+Số lượng
+: 01 bộ
+4.4.
+Thời gian xử lý
+:
+Kể từ ngày nhận đủ hồ sơ hợp
+  lệ theo quy định:
++ 24 ngày, kể từ ngày nhận
+  được đề nghị tuyển từ 500 người lao động Việt Nam trở lên;
++ 12 ngày, kể từ ngày nhận
+  được đề nghị tuyển từ 100 đến dưới 500 người lao động Việt Nam;
++ 06 ngày kể từ ngày nhận được
+  đề nghị tuyển dưới 100 người lao động Việt Nam.
+4.5.
+Phí/lệ phí
+: Không
+4.6.
+Quy trình xử lý công việc
+Tên bước
+Chi tiết
+Trách nhiệm
+Thời gian
+Biểu mẫu
+Nộp HS
+- Công dân truy cập qua Cổng
+  thông tin điện tử dịch vụ công Thành phố (dvc.hanoi.gov.vn), khai báo nội
+  dung và làm theo hướng dẫn. Sau khi điền đầy đủ thông tin yêu cầu, công dân gửi
+  hồ sơ.
+- Công dân nộp trực tiếp tại
+  CN số 2 TTPVHCC Thành phố.
+Côngdân
+- Trực tuyến: Khi có nhu cầu.
+- Trực tiếp: giờ hành chính.
+Tiếp nhận và bàn giao (Trung tâm chuyển HS về Sở)
+- Cán bộ, công chức CN số 2
+  -TTPVHCCTP tiếp nhận hồ sơ của tổ chức, cá nhân có trách nhiệm xem xét,
+  kiểm tra tính chính xác, đầy đủ của hồ sơ:
+1. Trường hợp hồ sơ chưa đầy
+  đủ, chưa chính xác theo quy định, cán bộ, công chức tiếp nhận hồ sơ phải hướng
+  dẫn đại diện tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ theo quy định và
+  nêu rõ lý do theo mẫu Phiếu hướng dẫn hoàn thiện hồ sơ (theo Mẫu)
+2. Trường hợp hồ sơ đầy đủ,
+  chính xác theo quy định, Cán bộ, công chức tiếp nhận hồ sơ và lập Giấy tiếp
+  nhận hồ sơ và hẹn ngày trả kết quả (theo Mẫu).
+CN 02 TTPVHCC chuyển giao hồ
+  sơ về phòng chuyên môn thực hiện xử lý qua phần mềm dịch vụ công hoặc
+  chuyển hồ sơ trực tiếp nếu nhận hồ sơ trực tiếp từ công dân.
+TTPVHCC
+1/2 ngày làm việc
+1. Phiếu hướng dẫn hoàn thiện hồ sơ.
+2. Giấy tiếp nhận hồ sơ và hẹn ngày trả kết quả.
+Phòng tiếp nhận và thụ lý
+Kiểm tra hồ sơ:
+- Tiếp nhận hồ sơ trực tiếp
+  hoặc trên hệ thống phần mềm quản lý hồ sơ hành chính một cửa.
+- Nội dung kiểm tra: Căn cứ
+  kiểm tra: Theo mục 3.1
+- Trường hợp hồ sơ chưa đầy đủ,
+  chưa đúng thành phần, số lượng theo quy định thì soạn thảo phiếu yêu cầu hoàn
+  thiện hồ sơ và chuyển bộ phận một cửa hoặc gửi trực tiếp trên hệ thống
+  email đăng ký của công dân hoặc tài khoản Sở Lao động cung cấp cho công dân
+- Đối với hồ sơ không đủ điều
+  kiện để tiếp tục giải quyết, phòng Chuyên môn lập văn bản thông báo hồ sơ
+  không đủ điều kiện giải quyết. Trình ký chuyển bộ phận một cửa hoặc gửi trực
+  tiếp trên hệ thống email đăng ký của công dân hoặc tài khoản Sở Lao động
+  cung cấp cho công dân
+- Trường hợp hồ sơ đầy đủ
+  đúng thành phần, số lượng theo quy định thì tổng hợp tiến hành bước tiếp theo
+Cán bộ được phân công
+1/2 ngày làm việc
+- Phiếu yêu cầu bổ sung, hoàn
+  thiện hồ sơ
+- Thông báo hồ sơ không đủ
+  điều kiện giải quyết/thông báo trả lại hồ sơ.
+Lãnh đạo Phòng phê duyệt
+Lập phiếu trình giải quyết hồ
+  sơ công việc trình Lãnh đạo Sở phê duyệt.
+(tích chuyển trên hệ thống
+  đồng thời in bản cứng trình Lãnh đạo Sở ký)
+Cán bộ phụ trách địa bàn
+01 ngày làm việc (lãnh đạo phòng xem xét trên hệ thống và ký phiếu
+  trình trong 1/2 ngày)
+Phiếu trình giải quyết TTHC
+Lãnh đạo Sở phê duyệt
+Lãnh đạo Sở xem xét ký phê
+  duyệt hoặc không phê duyệt.
+- Trường hợp không phê
+  duyệt, chuyển hồ sơ cho lãnh đạo phòng Việc làm và An toàn Lao động để
+  chuyển công chức đã thụ lý hồ sơ gửi ngay yêu cầu bổ sung hồ sơ
+Lãnh đạo Sở
+1/2 ngày làm việc
+Gửi văn bản chỉ đạo
+Công chức chuyên môn gửi văn
+  bản chỉ đạo cơ quan, tổ chức thực hiện nhiệm vụ giới thiệu, cung ứng người
+  lao động Việt Nam cho Nhà thầu.
+Chuyên viên phòng Việc làm và An toàn lao động (Sau đây gọi tắt là
+  Chuyên viên)
+1/2 ngày làm việc
+Văn bản chỉ đạo
+Giới thiệu, cung ứng
+- Thực hiện nhiệm vụ giới
+  thiệu, cung ứng người lao động Việt Nam cho Nhà thầu đối với đề nghị
+  tuyển dưới 100 người lao động Việt Nam.
+Trung tâm Dịch vụ Việc làm thuộc Sở Nội vụ TP Hà Nội; Sở Nội vụ các tỉnh/thành
+  phố trực thuộc Trung ương;
+01 ngày (dưới 100 LĐ)
+- Thực hiện nhiệm vụ giới
+  thiệu, cung ứng người lao động Việt Nam cho Nhà thầu đối với đề nghị
+  tuyển dưới 500 người lao động Việt Nam.
+07 ngày (dưới 500 LĐ)
+- Thực hiện nhiệm vụ giới
+  thiệu, cung ứng người lao động Việt Nam cho Nhà thầu đối với đề nghị
+  tuyển từ 500 người lao động Việt Nam trở lên. Trung tâm Dịch vụ việc làm gửi
+  thông báo tới Sở Nội vụ và nhà thầu về kết quả cung ứng người lao động Việt
+  Nam theo đề nghị của nhà thầu.
+19 ngày (trên 500 LĐ)
+Dự thảo văn bản thông báo
+Sau khi nhận được thông báo của
+  Trung tâm Dịch vụ Việc làm về việc cung ứng người lao động Việt Nam cho
+  nhà thầu không thành công, công chức phòng Việc làm và An toàn lao động dự
+  thảo văn bản thông báo về việc nhà thầu được tuyển người lao động nước ngoài
+  vào các vị trí công việc không tuyển được người lao động Việt Nam.
+Chuyên viên
+3/4 ngày làm việc
+Thông báo việc nhà thầu được tuyển NLĐNN
+Lãnh đạo phòng trình lãnh đạo Sở
+Lãnh đạo Phòng Việc làm và
+  An toàn lao động xem xét, phê duyệt trình lãnh đạo Sở.
+Lãnh đạo Phòng Việc làm và An toàn lao động
+1/2 ngày làm việc
+Hồ sơ trình Phiếu trình
+Lãnh đạo Sở phê duyệt
+Lãnh đạo Sở xem xét, ký phê
+  duyệt
+Lãnh đạo Sở
+1/2 ngày làm việc
+Chuyển kết quả
+Chuyển trả kết quả cho CN số
+  2 TTPVHCC
+Chuyên viên
+1/4 ngày làm việc
+Văn bản trả lời việc nhà thầu được tuyển người lao động nước ngoài
+  vào các vị trí công việc không tuyển được người lao động Việt Nam.
+Trả KQ
+Chuyển trả kết quả cho công
+  dân
+CN số 2 TT PVHCC
+Giờ hành chính
+3. Quy
+trình: Cấp Giấy phép lao động cho người lao động nước ngoài làm việc tại Việt
+Nam (QT-03)
+1.
+Mục đích:
+Quy định chi tiết trình tự giải
+  quyết thủ tục cấp Giấy phép lao động cho người lao động nước ngoài làm việc
+  tại Việt Nam.
+2.
+Phạm vi:
+Áp dụng đối với tổ chức, cá
+  nhân có nhu cầu thực hiện thủ tục cấp Giấy phép lao động cho người lao động
+  nước ngoài làm việc tại Việt Nam.
+Cán bộ, công chức thuộc
+  Phòng Việc làm và An toàn lao động (VL&ATLĐ), các phòng có liên quan
+  thuộc Sở Nội vụ và cán bộ, công chức, người lao động Trung tâm PVHCC Thành
+  phố chịu trách nhiệm thực hiện và kiểm soát quy trình này.
+3.
+Đối tượng:
+- Chuyên gia của doanh
+  nghiệp, các nhà Thầu thực hiện các dự án quan trọng của Thành phố như: (1)
+  Cải tại không gian khu vực phía Đông hồ Hoàn Kiếm và cải tạo quảng trường
+  Đông Kinh – Nghĩa Thục; (2) Cầu Tứ Liên và đường dẫn hai đầu cầu (từ nút
+  giao với đường Nghi Tàm đến nút giao với đường Trường Sa); (3) Cầu Trần Hưng
+  Đạo; (4) Cầu Ngọc Hồi và đường dẫn hai đầu cầu; (5) Cải tạo, nâng cấp, mở rộng
+  các tuyến đường xung quanh Hồ Tây; (6) Cải tạo chỉnh trang, bổ cập nước sông
+  Tô Lịch; (7) Khu công nghệ cao Hòa Lạc và các dự án thu hút đầu tư vào Khu
+  công nghệ cao Hòa Lạc; (8) Khu công nghệ cao sinh học Hà Nội; (9) Đường
+  vành đai 4 – Vùng Thủ đô trên địa bàn Thành phố; (10) Tuyến đường sắt đô thị
+  số 5, Văn Cao – Hòa Lạc.
+- Chuyên gia của các doanh
+  nghiệp có các dự án xây dựng, đầu tư, các doanh nghiệp có vốn đầu tư nước
+  ngoài vào Việt Nam ngay khi cấp phép thành lập/ hoạt động đã có dấu làn
+  xanh của cơ quan có thẩm quyền đóng dấu.
+4.
+Nội dung quy trình:
+4.1.
+Cơ sở pháp lý
+- Bộ luật Lao động năm 2019.
+- Nghị quyết số 190/2025/QH15
+  ngày 19/02/2025 của Quốc hội quy định về xử lý một số vấn đề liên quan đến sắp
+  xếp tổ chức bộ máy nhà nước.
+- Nghị định số 25/2025/NĐ-CP
+  ngày 21 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền
+  hạn và cơ cấu tổ chức của Bộ Nội vụ.
+- Nghị định số 45/2025/NĐ-CP
+  ngày 28/02/2025 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc
+  Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và Ủy ban nhân dân
+  huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc
+  trung ương.
+- Nghị định số 152/2020/NĐ-CP
+  ngày 30 tháng 12 năm 2020 của Chính phủ quy định về người lao động nước
+  ngoài làm việc tại Việt Nam và tuyển dụng, quản lý người lao động Việt
+  Nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam;
+- Nghị định số 70/2023/NĐ-CP
+  ngày 18 tháng 9 năm 2023 của Chính phủ sửa đổi, bổ sung một số điều của Nghị
+  định số 152/2020/NĐ-CP ngày 30 tháng 12 năm 2020 của Chính phủ quy định về
+  người lao động nước ngoài làm việc tại Việt Nam và tuyển dụng, quản lý người
+  lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam.
+- Quyết định số 315/QĐ-BNV
+  ngày 04/4/2025 của Bộ Nội vụ về việc công bố thủ tục hành chính được sửa đổi,
+  bổ sung lĩnh vực việc làm thuộc phạm vi chức năng quản lý của Bộ Nội vụ
+- Công văn số 991/UBND-TH
+  ngày 19/3/2025 của UBND thành phố Hà Nội về việc chỉ đạo phân luồng, rút ngắn
+  thời gian xử lý đối với các nhóm hồ sơ thủ tục công việc nhằm đạt mục tiêu
+  tăng trưởng GRDP trên 8% của Thành phố.
+- Quyết định số 775/QĐ-TTPVHCC
+  ngày 26/5/2025 của Trung tâm PVHCC thành phố Hà Nội về việc công bố Danh mục
+  thủ tục hành chính lĩnh vực việc làm thuộc phạm vi chức năng quản lý nhà nước
+  của Sở Nội vụ thành phố Hà Nội được phân luồng “làn xanh”.
+4.2.
+Thành phần hồ sơ
+Bản chính
+Bản sao
+4.2.1
+Văn bản đề nghị cấp giấy
+  phép lao động theo
+mẫu số 11/PLI Phụ
+  lục I
+ban hành kèm theo Nghị định số 152/2020/NĐ-CP
+x
+4.2.2
+Giấy chứng nhận sức khỏe hoặc
+  giấy khám sức khỏe do cơ quan, tổ chức y tế có thẩm quyền của nước ngoài hoặc
+  của Việt Nam cấp có giá trị trong thời hạn 12 tháng, kể từ ngày ký kết luận
+  sức khỏe đến ngày nộp hồ sơ hoặc giấy chứng nhận có đủ sức khoẻ theo quy
+  định của Bộ trưởng Bộ Y tế.
+x
+x
+4.2.3
+Phiếu lý lịch tư pháp hoặc
+  văn bản xác nhận người lao động nước ngoài không phải là người đang trong thời
+  gian chấp hành hình phạt hoặc chưa được xóa án tích hoặc đang trong thời gian
+  bị truy cứu trách nhiệm hình sự của nước ngoài hoặc của Việt Nam cấp.
+Phiếu lý lịch tư pháp hoặc
+  văn bản xác nhận người lao động nước ngoài không phải là người đang trong thời
+  gian chấp hành hình phạt hoặc chưa được xóa án tích hoặc đang trong thời gian
+  bị truy cứu trách nhiệm hình sự được cấp không quá 06 tháng, kể từ ngày cấp
+  đến ngày nộp hồ sơ
+x
+x
+4.2.4
+Văn bản, giấy tờ chứng minh
+  là nhà quản lý, giám đốc điều hành, chuyên gia hoặc lao động kỹ thuật và một
+  số nghề, công việc được quy định như sau:
+x
+x
+a
+- Giấy tờ chứng minh là nhà
+  quản lý, giám đốc điều hành bao gồm 3 loại giấy tờ sau:
++ Điều lệ công ty hoặc quy
+  chế hoạt động của cơ quan, tổ chức, doanh nghiệp;
++ Giấy chứng nhận đăng ký
+  doanh nghiệp hoặc giấy chứng nhận thành lập hoặc quyết định thành lập hoặc
+  giấy tờ khác có giá trị pháp lý tương đương;
++ Nghị quyết hoặc Quyết định
+  bổ nhiệm của cơ quan, tổ chức, doanh nghiệp.
+b
+- Giấy tờ chứng minh là
+  chuyên gia, lao động kỹ thuật bao gồm 2 loại giấy tờsau:
++ Văn bằng hoặc chứng chỉ hoặc
+  giấy chứng nhận (trừ trường hợp lao động kỹ thuật quy định tại điểm b khoản
+  6 Điều 3 của Nghị định số 152/2020/NĐ-CP);
++ Văn bản xác nhận của cơ
+  quan, tổ chức, doanh nghiệp tại nước ngoài về số năm kinh nghiệm của chuyên
+  gia, lao động kỹ thuật hoặc giấy phép lao động đã được cấp hoặc xác nhận
+  không thuộc diện cấp giấy phép lao động đã được cấp.
+c
+Văn bản chứng minh kinh
+  nghiệm của cầu thủ bóng đá nước ngoài hoặc giấy chứng nhận chuyển nhượng
+  quốc tế (ITC) cấp cho cầu thủ bóng đá nước ngoài hoặc văn bản của Liên đoàn
+  Bóng đá Việt Nam xác nhận đăng ký tạm thời hoặc chính thức cho cầu thủ của
+  câu lạc bộ thuộc Liên đoàn bóng đá Việt Nam;
+d
+Giấy phép lái tàu bay do cơ
+  quan có thẩm quyền của Việt Nam cấp hoặc do cơ quan có thẩm quyền của nước
+  ngoài cấp và được cơ quan có thẩm quyền của Việt Nam công nhận đối với phi
+  công nước ngoài hoặc chứng chỉ chuyên môn được phép làm việc trên tàu bay
+  do Bộ Giao thông vận tải cấp cho tiếp viên hàng không;
+đ
+Giấy chứng nhận trình độ
+  chuyên môn trong lĩnh vực bảo dưỡng tàu bay do cơ quan có thẩm quyền của
+  Việt Nam cấp hoặc do cơ quan có thẩm quyền của nước ngoài cấp và được cơ
+  quan có thẩm quyền của Việt Nam công nhận đối với người lao động nước ngoài
+  làm công việc bảo dưỡng tàu bay.
+e
+Giấy chứng nhận khả năng
+  chuyên môn hoặc giấy công nhận giấy chứng nhận khả năng chuyên môn do cơ
+  quan có thẩm quyền của Việt Nam cấp cho thuyền viên nước ngoài;
+g
+Giấy công nhận thành tích cao
+  trong lĩnh vực thể thao và được Bộ Văn hoá, Thể thao và Du lịch xác nhận đối
+  với huấn luyện viên thể thao hoặc tối thiểu một trong các bằng cấp như: Bằng
+  B huấn luyện viên bóng đá của Liên đoàn Bóng đá Châu Á (AFC) hoặc bằng huấn
+  luyện viên thủ môn cấp độ 1 của AFC hoặc bằng huấn luyện viên thể lực cấp
+  độ 1 của AFC hoặc bằng huấn luyện viên bóng đá trong nhà (Futsal) cấp độ 1
+  của AFC hoặc bất kỳ bằng cấp huấn luyện viên tương đương của nước ngoài được
+  AFC công nhận;
+h
+Văn bằng do cơ quan có thẩm
+  quyền cấp đáp ứng quy định về trình độ, trình độ chuẩn theo Luật Giáo dục,
+  Luật Giáo dục đại học, Luật Giáo dục nghề nghiệp và Quy chế tổ chức hoạt động
+  của trung tâm ngoại ngữ, tin học do Bộ trưởng Bộ Giáo dục và Đào tạo ban
+  hành.
+4.2.5
+02 ảnh mầu (kích thước 4cm x
+  6cm, phông nền trắng, mặt nhìn thẳng, đầu để trần, không đeo kính màu), ảnh
+  chụp không quá 06 tháng tính đến ngày nộp hồ sơ.
+x
+x
+4.2.6
+Văn bản chấp thuận nhu cầu sử
+  dụng người lao động nước ngoài trừ những trường hợp không phải xác định nhu cầu
+  sử dụng người lao động nước ngoài.
+x
+x
+4.2.7
+Bản sao có chứng thực hộ chiếu
+  hoặc bản sao hộ chiếu có xác nhận của người sử dụng lao động còn giá trị theo
+  quy định của pháp luật.
+x
+4.2.8
+Các giấy tờ liên quan đến người
+  lao động nước ngoài trừ trường hợp người lao động nước ngoài làm việc theo
+  hình thức hợp đồng lao động:
+- Đối với người lao động nước
+  ngoài di chuyển nội bộ doanh nghiệp phải có văn bản của doanh nghiệp nước
+  ngoài cử sang làm việc tại hiện diện thương mại của doanh nghiệp nước
+  ngoài đó trên lãnh thổ Việt Nam và văn bản chứng minh người lao động nước
+  ngoài đã được doanh nghiệp nước ngoài đó tuyển dụng trước khi làm việc tại
+  Việt Nam ít nhất 12 tháng liên tục;
+- Đối với người lao động nước
+  ngoài vào Việt Nam để thực hiện các loại hợp đồng hoặc thỏa thuận về kinh
+  tế, thương mại, tài chính, ngân hàng, bảo hiểm, khoa học kỹ thuật, văn hóa,
+  thể thao, giáo dục, giáo dục nghề nghiệp và y tế phải có hợp đồng hoặc thỏa
+  thuận ký kết giữa đối tác phía Việt Nam và phía nước ngoài, trong đó phải
+  có thỏa thuận về việc người lao động nước ngoài làm việc tại Việt Nam;
+- Đối với người lao động nước
+  ngoài là nhà cung cấp dịch vụ theo hợp đồng phải có hợp đồng cung cấp dịch vụ
+  ký kết giữa đối tác phía Việt Nam và phía nước ngoài và văn bản chứng minh
+  người lao động nước ngoài đã làm việc cho doanh nghiệp nước ngoài không có
+  hiện diện thương mại tại Việt Nam được ít nhất 02 năm;
+- Đối với người lao động nước
+  ngoài vào Việt Nam để chào bán dịch vụ phải có văn bản của nhà cung cấp dịch
+  vụ cử người lao động nước ngoài vào Việt Nam để đàm phán cung cấp dịch vụ;
+- Đối với người lao động nước
+  ngoài làm việc cho tổ chức phi chính phủ nước ngoài, tổ chức quốc tế tại
+  Việt Nam được phép hoạt động theo quy định của pháp luật Việt Nam phải có
+  văn bản của cơ quan, tổ chức cử người lao động nước ngoài đến làm việc cho
+  tổ chức phi chính phủ nước ngoài, tổ chức quốc tế tại Việt Nam trừ trường
+  hợp người lao động nước ngoài làm việc theo hình thức hợp đồng lao động và
+  giấy phép hoạt động của tổ chức phi chính phủ nước ngoài, tổ chức quốc tế tại
+  Việt Nam theo quy định của pháp luật;
+- Đối với người lao động nước
+  ngoài là nhà quản lý, giám đốc điều hành, chuyên gia, lao động kỹ thuật thì
+  phải có văn bản của cơ quan, tổ chức, doanh nghiệp nước ngoài cử người lao
+  động nước ngoài sang làm việc tại Việt Nam và phù hợp với vị trí công việc
+  dự kiến làm việc hoặc giấy tờ chứng minh là nhà quản lý.
+x
+x
+4.2.9
+Hồ sơ đề nghị cấp giấy phép
+  lao động đối với một số trường hợp đặc biệt:
+- Đối với người lao động nước
+  ngoài đã được cấp giấy phép lao động, đang còn hiệu lực mà có nhu cầu làm
+  việc cho người sử dụng lao động khác ở cùng vị trí công việc và cùng chức
+  danh công việc ghi trong giấy phép lao động thì hồ sơ đề nghị cấp giấy
+  phép lao động mới gồm: giấy xác nhận của người sử dụng lao động trước đó về
+  việc người lao động hiện đang làm việc, các giấy tờ quy định tại khoản
+  4.2.1, 4.2.5, 4.2.6, 4.2.7, 4.2.8 nêu trên và bản sao có chứng thực giấy
+  phép lao động đã được cấp.
+- Đối với người lao động nước
+  ngoài đã được cấp giấy phép lao động và đang còn hiệu lực mà thay đổi vị
+  trí công việc hoặc chức danh công việc hoặc hình thức làm việc ghi trong
+  giấy phép lao động theo quy định của pháp luật nhưng không thay đổi người sử
+  dụng lao động thì hồ sơ đề nghị cấp giấy phép lao động mới gồm các giấy tờ
+  quy định tại khoản 4.2.1, 4.2.4, 4.2.5, 4.2.6, 4.2.7 và 4.2.8 nêu trên và giấy
+  phép lao động hoặc bản sao có chứng thực giấy phép lao động đã được cấp.
+- Đối với người lao động nước
+  ngoài là chuyên gia, lao động kỹ thuật đã được cấp giấy phép lao động và đã
+  được gia hạn một lần mà có nhu cầu tiếp tục làm việc với cùng vị trí công
+  việc và chức danh công việc ghi trong giấy phép lao động thì hồsơ đề nghị
+  cấp giấy phép lao động mới gồm các giấy tờ quy định tại khoản 4.2.1, 4.2.2,
+  4.2.5, 4.2.6, 4.2.7, 4.2.8 nêu trên và bản sao giấy phép lao động đã được cấp.
+x
+x
+4.3.
+Số lượng
+: 01 bộ
+4.4.
+Thời gian xử lý
+: 02
+  ngày làm việc kể từ khi nhận đủ hồ sơ hợp lệ
+4.5.
+Phí/lệ phí
+: 400.000 đồng/1
+  giấy phép.
+(Trường hợp nộp hồ sơ dịch vụ
+  công trực tuyến: không thu phí/lệ phí trên, áp dụng đến hết ngày đến
+  31/12/2025)
+4.6.
+Quy trình xử lý công việc
+Tên bước
+Chi tiết
+Trách nhiệm
+Thời gian
+Biểu mẫu
+Nộp HS tại Trung tâm
+Tổ chức, cá nhân có nhu cầu
+  chuẩn bị và nộp đầy đủ hồ sơ theo quy định tại mục 4.2 theo một trong các
+  hình thức sau:
+1. Nộp trực tiếp tại Chi
+  nhánh số 02 Trung tâm PVHCC, địa chỉ: số 85 phố Dịch Vọng Hậu, phường Dịch Vọng
+  Hậu, quận Cầu Giấy, thành phố Hà Nội.
+2. Gửi qua dịch vụ chuyển
+  phát đến CN 02 TTPVHCCTP.
+3. Nộp hồ sơ trực tuyến qua
+  Hệ thống thông tin giải quyết thủ tục hành chính của Thành phố(https://dichvucong.hanoi.gov.vn/)
+Công dân
+- Trực tuyến: khi có nhu cầu;
+- Trực tiếp: giờ hành chính.
+Tiếp nhận và bàn giao (Trung tâm chuyển HS về Sở)
+Cán bộ, công chức CN số 2 -
+  TTPVHCCTP tiếp nhận hồ sơ của tổ chức, cá nhân có trách nhiệm xem xét,
+  kiểm tra tính chính xác, đầy đủ của hồ sơ:
+1. Trường hợp hồ sơ chưa đầy
+  đủ, chưa chính xác theo quy định, cán bộ, công chức tiếp nhận hồ sơ phải hướng
+  dẫn đại diện tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ theo quy định và
+  nêu rõ lý do theo mẫu Phiếu hướng dẫn hoàn thiện hồ sơ (theo Mẫu)
+2. Trường hợp hồ sơ đầy đủ,
+  chính xác theo quy định, Cán bộ, công chức tiếp nhận hồ sơ và lập Giấy tiếp
+  nhận hồ sơ và hẹn ngày trả kết quả (theo Mẫu). Việc tiếp nhận HS và phản hồi
+  tới tổ chức, cá nhân theo các hình thức tương ứng quy định tại Bước 1.
+CN 02 TTPVHCC chuyển giao hồ
+  sơ về phòng chuyên môn thực hiện xử lý qua phần mềm dịch vụ công hoặc
+  chuyển hồ sơ trực tiếp nếu nhận hồ sơ trực tiếp từ công dân.
+Chi nhánh TTPVHCC
+- Bàn giao về phòng chuyên môn: 1/4 ngày làm việc
+1. Phiếu hướng dẫn hoàn thiện hồ sơ.
+2. Giấy tiếp nhận hồ sơ và hẹn ngày trả kết quả.
+Tiếp nhận và thụ lý
+Phòng chuyên môn tiếp nhận hồ
+  sơ
+Kiểm tra hồ sơ:
+- Nội dung kiểm tra: Căn cứ
+  kiểm tra: Theo mục 4.2
+- Trường hợp hồ sơ chưa đầy đủ,
+  chưa đúng thành phần, nội dung, số lượng theo quy định thì soạn thảo nội dung
+  yêu cầu hoàn thiện hồ sơ và chuyển Lãnh đạo phòng phụ trách ký văn bản trả
+  hồ sơ với trường hợp nộp trực tiếp và chuyển trả hồ sơ trên hệ thống với
+  trường hợp nộp trực tuyến.
+- Trường hợp kiểm tra hồ sơ
+  đầy đủ đúng thành phần, số lượng, nội dung thì trình Lãnh đạo phòng chuyên
+  môn ký phiếu trình (hoặc chuyển trên hệ thống với trường hợp nộp trực tuyến)
+Chuyên viên phòng VL&ATLĐ tiếp nhận và xử lý hồ sơ (Sau đây gọi tắt
+  là chuyên viên)
+1/2 ngày làm việc
+Thông báo về việc hồ sơ không đủ điều kiện giải quyết.
+Lãnh đạo Phòng phê duyệt
+Lãnh đạo phòng chuyên môn xem
+  xét, phê duyệt phiếu trình, trình lãnh đạo Sở (hoặc chuyển trên hệ thống với
+  trường hợp nộp trực tuyến)
+Lãnh đạo Sở Nội vụ
+1/4 ngày làm việc
+Lãnh đạo Sở phê duyệt
+Xem xét hồ sơ và có ý kiến đồng
+  ý hay không đồng ý cấp phép tại phiếu trình (hoặc chuyển trên hệ thống với
+  trường hợp nộp trực tuyến)
+Lãnh đạo Sở Nội vụ
+1/4 ngày làm việc
+Trình ký Giấy phép lao động/ văn bản trả lời không cấp phép
++ Trường hợp lãnh đạo Sở đồng
+  ý, công chức in giấy phép, trình Lãnh đạo Phòng, sau đó trình Lãnh đạo Sở
+  ký. (trình bản giấy hoặc ký số)
++ Trường hợp Lãnh đạo Sở
+  không đồng ý, công chức dự thảo văn bản trả lời hồ sơ không đủ điều kiện cấp
+  phép, trình Lãnh đạo phòng ký. (trình bản giấy hoặc ký số)
+Chuyên viên
+1/4 ngày làm việc
+Dự thảo Giấy phép lao động
+[1]
+/
+  Thông báo về việc hồ sơ không đủ điều kiện giải quyết
+Ký Giấy phép lao động/ văn bản trả lời không cấp phép
+Lãnh đạo Sở ký Giấy phép/
+  Văn bản trả lời hồ sơ không đủ điều kiện cấp phép (ký trực tiếp hoặc ký số)
+Lãnh đạo Sở Nội vụ
+1/4 ngày làm việc
+Giấy phép lao động/ Thông báo về việc hồ sơ không đủ điều kiện giải
+  quyết
+Chuyển kết quả
+Công chức phòng chuyên môn chuyển
+  trả kết quả cho CN số 2 TTPVHCC
+Chuyên viên
+1/4 ngày làm việc
+Trung tâm trả KQ cho công dân
+CN số 2 TTPVHCC chuyển trả kết
+  quả cho công dân
+CN số 2 TTPVHCC thực hiện
+Giờ hành chính
+Giấy phép lao động theo/ Thông báo về việc hồ sơ không đủ điều kiện
+  giải quyết.
+4. Quy
+trình: Gia hạn Giấy phép lao động cho người lao động nước ngoài làm việc tại Việt
+Nam (QT-04)
+1.
+Mục đích:
+Quy định chi tiết trình tự giải
+  quyết thủ tục gia hạn Giấy phép lao động cho người lao động nước ngoài làm
+  việc tại Việt Nam.
+2.
+Phạm vi:
+Áp dụng đối với tổ chức, cá
+  nhân có nhu cầu thực hiện thủ tục cấp phép tuyển người lao động Việt Nam vào
+  các vị trí công việc dự kiến tuyển người lao động nước ngoài thuộc thẩm quyền
+  cấp phép của Sở Nội vụ.
+Cán bộ, công chức thuộc
+  Phòng chuyên môn các quận, huyện, thị xã và và Các Chi nhánh Trung tâm
+  PVHCC (TTPVHCC) chịu trách nhiệm thực hiện và kiểm soát quy trình này.
+3.
+Đối tượng:
+-
+Chuyên gia của doanh
+  nghiệp, các nhà Thầu thực hiện các dự án quan trọng của Thành phố như: (1)
+  Cải tại không gian khu vực phía Đông hồ Hoàn Kiếm và cải tạo quảng trường
+  Đông Kinh – Nghĩa Thục; (2) Cầu Tứ Liên và đường dẫn hai đầu cầu (từ nút
+  giao với đường Nghi Tàm đến nút giao với đường Trường Sa); (3) Cầu Trần Hưng
+  Đạo; (4) Cầu Ngọc Hồi và đường dẫn hai đầu cầu; (5) Cải tạo, nâng cấp, mở rộng
+  các tuyến đường xung quanh Hồ Tây; (6) Cải tạo chỉnh trang, bổ cập nước sông
+  Tô Lịch; (7) Khu công nghệ cao Hòa Lạc và các dự án thu hút đầu tư vào Khu
+  công nghệ cao Hòa Lạc; (8) Khu công nghệ cao sinh học Hà Nội; (9) Đường
+  vành đai 4 – Vùng Thủ đô trên địa bàn Thành phố; (10) Tuyến đường sắt đô thị
+  số 5, Văn Cao – Hòa Lạc.
+- Chuyên gia của các doanh
+  nghiệp có các dự án xây dựng, đầu tư, các doanh nghiệp có vốn đầu tư nước
+  ngoài vào Việt Nam ngay khi cấp phép thành lập/ hoạt động đã có dấu làn
+  xanh của cơ quan có thẩm quyền đóng dấu.
+4.
+Nội dung quy trình:
+4.1.
+Cơ sở pháp lý
+- Bộ luật Lao động năm 2019;
+- Nghị quyết số 190/2025/QH15
+  ngày 19/02/2025 của Quốc hội quy định về xử lý một số vấn đề liên quan đến sắp
+  xếp tổ chức bộ máy nhà nước.
+- Nghị định số 25/2025/NĐ-CP ngày
+  21 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn
+  và cơ cấu tổ chức của Bộ Nội vụ.
+- Nghị định số 45/2025/NĐ-CP
+  ngày 28/02/2025 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc Ủy
+  ban nhân dân tỉnh, thành phố trực thuộc Trung ương và Ủy ban nhân dân huyện,
+  quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc
+  trung ương.
+- Nghị định số 152/2020/NĐ-CP
+  ngày 30 tháng 12 năm 2020 của Chính phủ quy định về người lao động nước
+  ngoài làm việc tại Việt Nam và tuyển dụng, quản lý người lao động Việt
+  Nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam.
+- Nghị định số 70/2023/NĐ-CP
+  ngày 18 tháng 9 năm 2023 của Chính phủ sửa đổi, bổ sung một số điều của Nghị
+  định số 152/2020/NĐ-CP ngày 30 tháng 12 năm 2020 của Chính phủ quy định về
+  người lao động nước ngoài làm việc tại Việt Nam và tuyển dụng, quản lý người
+  lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam.
+- Quyết định số 315/QĐ-BNV
+  ngày 04/4/2025 của Bộ Nội vụ về việc công bố thủ tục hành chính được sửa đổi,
+  bổ sung lĩnh vực việc làm thuộc phạm vi chức năng quản lý của Bộ Nội vụ.
+- Quyết định số 1086/QĐ-SNV
+  ngày 05/3/2025 của Sở Nội vụ về việc ủy quyền cho UBND các quận, huyện, thị
+  xã giải quyết thủ tục liên quan đến lĩnh vực việc làm và an toàn lao động
+  thuộc thẩm quyền của Sở Nội vụ.
+- Công văn số 991/UBND-TH
+  ngày 19/3/2025 của UBND Thành phố về việc chỉ đạo phân luồng, rút ngắn thời
+  gian xử lý đối với các nhóm hồ sơ thủ tục công việc nhằm đạt mục tiêu tăng
+  trưởng GRDP trên 8% của Thành phố.
+- Quyết định số
+  775/QĐ-TTPVHCC ngày 26/5/2025 của Trung tâm PVHCC thành phố Hà Nội về việc
+  công bố Danh mục thủ tục hành chính lĩnh vực việc làm thuộc phạm vi chức
+  năng quản lý nhà nước của Sở Nội vụ thành phố Hà Nội được phân luồng “làn
+  xanh”.
+4.2.
+Thành phần hồ sơ
+Bản chính
+Bản sao
+4.2.1
+Văn bản đề nghị gia hạn giấy
+  phép lao động theo
+mẫu số
+  11/PLI Phụ lục I
+ban hành kèm theo Nghị định số 152/2020/NĐ-CP
+x
+4.2.2
+02 ảnh màu (kích thước 4 cm x
+  6 cm, phông nền trắng, mặt nhìn thẳng, đầu để trần, không đeo kính màu), ảnh
+  chụp không quá 06 tháng tính đến ngày nộp hồ sơ.
+x
+x
+4.2.3
+Giấy phép lao động còn thời
+  hạn đã được cấp
+x
+x
+4.2.4
+Văn bản chấp thuận nhu cầu sử
+  dụng người lao động nước ngoài trừ những trường hợp không phải xác định nhu
+  cầu sử dụng người lao động nước ngoài.
+x
+x
+4.2.5
+Bản sao có chứng thực hộ chiếu
+  hoặc bản sao hộ chiếu có xác nhận của người sử dụng lao động còn giá trị theo
+  quy định của pháp luật.
+x
+4.2.6
+Giấy chứng nhận sức khỏe hoặc
+  giấy khám sức khỏe do cơ quan, tổ chức y tế có thẩm quyền của nước ngoài hoặc
+  của Việt Nam cấp có giá trị trong thời hạn 12 tháng, kể từ ngày ký kết luận
+  sức khỏe đến ngày nộp hồ sơ hoặc giấy chứng nhận có đủ sức khỏe theo quy
+  định của Bộ trưởng Bộ Y tế.
+x
+x
+4.2.7
+Một trong các giấy tờ chứng
+  minh người lao động nước ngoài tiếp tục làm việc cho người sử dụng lao động
+  theo nội dung giấy phép lao động đã được cấp như sau:
+- Đối với người lao động nước
+  ngoài di chuyển trong nội bộ doanh nghiệp phải có văn bản của doanh
+  nghiệp nước ngoài cử sang làm việc tại hiện diện thương mại của doanh
+  nghiệp nước ngoài đó trên lãnh thổ Việt Nam và văn bản chứng minh người
+  lao động nước ngoài đã được doanh nghiệp nước ngoài đó tuyển dụng trước
+  khi làm việc tại Việt Nam ít nhất 12 tháng liên tục.
+- Đối với người lao động nước
+  ngoài thực hiện các loại hợp đồng hoặc thỏa thuận về kinh tế, thương mại, tài
+  chính, ngân hàng, bảo hiểm, khoa học kỹ thuật, văn hóa, thể thao, giáo dục,
+  giáo dục nghề nghiệp và y tế phải có hợp đồng hoặc thỏa thuận ký kết giữa
+  đối tác phía Việt Nam và phía nước ngoài, trong đó phải có thỏa thuận về
+  việc người lao động nước ngoài làm việc tại Việt Nam.
+- Đối với người lao động nước
+  ngoài là nhà cung cấp dịch vụ theo hợp đồng phải có hợp đồng cung cấp dịch vụ
+  ký kết giữa đối tác phía Việt Nam và phía nước ngoài và văn bản chứng minh
+  người lao động nước ngoài đã làm việc cho doanh nghiệp nước ngoài không có
+  hiện diện thương mại tại Việt Nam được ít nhất 02 năm.
+- Đối với người lao động nước
+  ngoài chào bán dịch vụ phải có văn bản của nhà cung cấp dịch vụ cử người
+  lao động nước ngoài vào Việt Nam để đàm phán cung cấp dịch vụ.
+- Đối với người lao động nước
+  ngoài làm việc cho tổ chức phi chính phủ nước ngoài, tổ chức quốc tế tại
+  Việt Nam được phép hoạt động theo quy định của pháp luật Việt Nam phải
+  có văn bản của cơ quan, tổ chức cử người lao động nước ngoài đến làm việc
+  cho tổ chức phi chính phủ nước ngoài, tổ chức quốc tế tại Việt Nam trừ trường
+  hợp làm việc theo hợp đồng lao động và giấy phép hoạt động của tổ chức phi
+  chính phủ nước ngoài, tổ chức quốc tế tại Việt Nam theo quy định của pháp
+  luật.
+- Đối với người lao động nước
+  ngoài là nhà quản lý, giám đốc điều hành, chuyên gia, lao động kỹ thuật thì
+  phải có văn bản của doanh nghiệp, cơ quan, tổ chức nước ngoài cử người lao
+  động nước ngoài sang làm việc tại Việt Nam và phù hợp với vị trí dự kiến
+  làm việc.
+x
+x
+Giấy tờ quy định tại các khoản
+  4.2.3, 4.2.4, 4.2.6 và 4.2.7 Điều này là 01 bản gốc hoặc bản sao có chứng
+  thực, nếu của nước ngoài thì phải hợp pháp hóa lãnh sự và phải dịch ra tiếng
+  Việt và công chứng hoặc chứng thực trừ trường hợp được miễn hợp pháp hóa
+  lãnh sự theo điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam và
+  nước ngoài liên quan đều là thành viên hoặc theo nguyên tắc có đi có lại hoặc
+  theo quy định của pháp luật.
+4.3.
+Số lượng
+: 01 bộ
+4.4.
+Thời gian xử lý
+: 02
+  ngày làm việc kể từ khi nhận đủ hồ sơ hợp lệ
+4.5.
+Phí/lệ phí
+: 300.000 đồng/1
+  giấy phép.
+(Trường hợp nộp hồ sơ dịch vụ
+  công trực tuyến: không thu phí/ lệ phí trên áp dụng đến hết ngày đến hết
+  ngày đến 31/12/2025)
+4.6.
+Quy trình xử lý công việc
+Tên bước
+Chi tiết
+Trách nhiệm
+Thời gian
+Biểu mẫu
+Nộp HS tại Trung tâm
+Tổ chức, cá nhân có nhu cầu
+  chuẩn bị và nộp đầy đủ hồ sơ theo quy định tại mục 4.2 theo một trong các
+  hình thức sau:
+1. Nộp trực tiếp tại Các Chi
+  nhánh Trung tâm PVHCC.
+2. Gửi qua dịch vụ chuyển
+  phát đến Các Chi nhánh Trung tâm PVHCC.
+3. Nộp hồ sơ trực tuyến qua
+  Hệ thống thông tin giải quyết thủ tục hành chính của Thành phố
+  (https://dichvucong.hanoi.gov.vn/)
+Công dân
+Trực tuyến: khi có nhu cầu; Trực tiếp: giờ hành chính
+Mẫu phiếu hẹn
+Tiếp nhận và bàn giao (Trung tâm chuyển HS về UBND)
+Cán bộ, công chức Các Chi
+  nhánh Trung tâm PVHCC tiếp nhận hồ sơ của tổ chức, cá nhân có trách nhiệm
+  xem xét, kiểm tra tính chính xác, đầy đủ của hồ sơ:
+1. Trường hợp hồ sơ chưa đầy
+  đủ, chưa chính xác theo quy định, cán bộ, công chức tiếp nhận hồ sơ phải hướng
+  dẫn đại diện tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ theo quy định và
+  nêu rõ lý do theo mẫu Phiếu hướng dẫn hoàn thiện hồ sơ (theo Mẫu)
+2. Trường hợp hồ sơ đầy đủ,
+  chính xác theo quy định, Cán bộ, công chức tiếp nhận hồ sơ và lập Giấy tiếp
+  nhận hồ sơ và hẹn ngày trả kết quả (theo Mẫu).
+Việc tiếp nhận hồ sơ và phản
+  hồi tới tổ chức, cá nhân theo các hình thức tương ứng quy định tại Bước
+  1
+Các Chi nhánh Trung tâm PVHCC
+  chuyển giao hồ sơ về Phòng chuyên môn các quận, huyện, thị xã thực hiện xử
+  lý qua phần mềm dịch vụ công hoặc chuyển hồ sơ trực tiếp nếu nhận hồ sơ trực
+  tiếp từ công dân.
+Chi nhánh Trung tâm PVHCC
+1/4 ngày làm việc
+1. Phiếu hướng dẫn hoàn thiện hồ sơ.
+2. Giấy tiếp nhận hồ sơ và hẹn ngày trả kết quả.
+Phòng Tiếp nhận và Thụ lý
+Phòng chuyên môn tiếp nhận hồ
+  sơ Kiểm tra hồ sơ:
+- Nội dung kiểm tra: Căn cứ
+  kiểm tra: Theo mục 4.2
+- Trường hợp hồ sơ chưa đầy đủ,
+  chưa đúng thành phần, nội dung, số lượng theo quy định thì soạn thảo nội dung
+  yêu cầu hoàn thiện hồ sơ và chuyển Lãnh đạo phòng phụ trách ký văn bản trả
+  hồ sơ với trường hợp nộp trực tiếp và chuyển trả hồ sơ trên hệ thống với
+  trường hợp nộp trực tuyến.
+- Trường hợp kiểm tra hồ sơ
+  đầy đủ đúng thành phần, số lượng, nội dung thì trình Lãnh đạo phòng chuyên
+  môn ký phiếu trình (hoặc chuyển trên hệ thống với trường hợp nộp trực tuyến)
+Chuyên viên Phòng chuyên môn UBND cấp huyện (sau đây gọi tắt là
+  Chuyên viên)
+1/2 ngày làm việc
+Thông báo về việc hồ sơ không đủ điều kiện giải quyết (Mẫu số 05 ban
+  hành kèm theo Công văn số 376/TTPVHCC- TCT ngày 27/3/2025 của TTPVHCCTP).
+Lãnh đạo Phòng phê duyệt
+Xem xét, phê duyệt phiếu
+  trình trình Lãnh đạo UBND các quận, huyện, thị xã. (hoặc chuyển trên hệ thống
+  với trường hợp online)
+Lãnh đạo UBND cấp huyện (sau đây gọi tắt là UBND)
+1/4 ngày làm việc
+Lãnh đạo UBND phê duyệt
+Xem xét hồ sơ và có ý kiến đồng
+  ý hay không đồng ý cấp phép tại phiếu trình (hoặc chuyển trên hệ thống với
+  trường hợp online)
+Lãnh đạo UBND
+1/4 ngày làm việc
+Trình ký Giấy phép lao động/ văn bản trả lời không cấp phép
++ Trường hợp Lãnh đạo UBND
+  các quận, huyện, thị xã đồng ý, công chức in giấy phép, trình Lãnh đạo
+  Phòng, sau đó Lãnh đạo UBND các quận, huyện, thị xã ký. (trình bản giấy hoặc
+  ký số)
++ Trường hợp Lãnh đạo UBND
+  các quận, huyện, thị xã không đồng ý, công chức dự thảo văn bản trả lời hồ
+  sơ không đủ điều kiện cấp phép, trình Lãnh đạo phòng ký. (trình bản giấy hoặc
+  ký số)
+Chuyên viên
+1/4 ngày làm việc
+Dự thảo Giấy phép lao động
+[2]
+/
+  Thông báo về việc hồ sơ không đủ điều kiện giải quyết.
+Ký Giấy phép lao động/ văn bản trả lời không cấp phép
+Lãnh đạo UBND các quận,
+  huyện, thị xã Giấy phép/ Văn bản trả lời hồ sơ không đủ điều kiện cấp phép
+  (ký trực tiếp hoặc ký số)
+Lãnh đạo UBND
+1/4 ngày làm việc
+Giấy phép lao động/ Thông báo về việc hồ sơ không đủ điều kiện giải
+  quyết.
+Chuyển kết quả
+Công chức phòng chuyên môn
+  chuyển trả kết quả cho Chi nhánh Trung tâm PVHCC
+Chuyên viên
+1/4 ngày làm việc
+Trả KQ cho công dân
+Các Chi nhánh Trung tâm PVHCC
+  chuyển trả kết quả cho công dân
+Chi nhánh Trung tâm PVHCC
+Giờ hành chính
+Giấy phép lao động theo
+5. Quy
+trình: Cấp lại Giấy phép lao động cho người lao động nước ngoài làm việc tại Việt
+Nam (QT-05)
+1.
+Mục đích:
+Quy định chi tiết trình tự giải
+  quyết thủ tục cấp lại Giấy phép lao động cho người lao động nước ngoài làm
+  việc tại Việt Nam.
+2.
+Phạm vi:
+Áp dụng đối với tổ chức, cá
+  nhân có nhu cầu thực hiện thủ tục cấp lại Giấy phép lao động cho người lao động
+  nước ngoài làm việc tại Việt Nam.
+Cán bộ, công chức thuộc
+  Phòng Nội vụ UBND quận, huyện, thị xã và Các Chi nhánh Trung tâm PVHCC chịu
+  trách nhiệm thực hiện và kiểm soát quy trình này.
+3.
+Đối tượng:
+- Chuyên gia của doanh
+  nghiệp, các nhà Thầu thực hiện các dự án quan trọng của Thành phố như: (1)
+  Cải tại không gian khu vực phía Đông hồ Hoàn Kiếm và cải tạo quảng trường
+  Đông Kinh – Nghĩa Thục; (2) Cầu Tứ Liên và đường dẫn hai đầu cầu (từ nút
+  giao với đường Nghi Tàm đến nút giao với đường Trường Sa); (3) Cầu Trần Hưng
+  Đạo; (4) Cầu Ngọc Hồi và đường dẫn hai đầu cầu; (5) Cải tạo, nâng cấp, mở rộng
+  các tuyến đường xung quanh Hồ Tây; (6) Cải tạo chỉnh trang, bổ cập nước sông
+  Tô Lịch; (7) Khu công nghệ cao Hòa Lạc và các dự án thu hút đầu tư vào Khu
+  công nghệ cao Hòa Lạc; (8) Khu công nghệ cao sinh học Hà Nội; (9) Đường
+  vành đai 4 – Vùng Thủ đô trên địa bàn Thành phố; (10) Tuyến đường sắt đô thị
+  số 5, Văn Cao – Hòa Lạc.
+- Chuyên gia của các doanh
+  nghiệp có các dự án xây dựng, đầu tư, các doanh nghiệp có vốn đầu tư nước
+  ngoài vào Việt Nam ngay khi cấp phép thành lập/ hoạt động đã có dấu làn
+  xanh của cơ quan có thẩm quyền đóng dấu.
+4.
+Nội dung quy trình:
+4.1.
+Cơ sở pháp lý
+- Bộ luật Lao động năm 2019;
+- Nghị quyết số 190/2025/QH15
+  ngày 19/02/2025 của Quốc hội quy định về xử lý một số vấn đề liên quan đến sắp
+  xếp tổ chức bộ máy nhà nước.
+- Nghị định số 25/2025/NĐ-CP
+  ngày 21 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền
+  hạn và cơ cấu tổ chức của Bộ Nội vụ.
+- Nghị định số 45/2025/NĐ-CP
+  ngày 28/02/2025 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc
+  Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và Ủy ban nhân dân
+  huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực
+  thuộc trung ương.
+- Nghị định số 152/2020/NĐ-CP
+  ngày 30 tháng 12 năm 2020 của Chính phủ quy định về người lao động nước
+  ngoài làm việc tại Việt Nam và tuyển dụng, quản lý người lao động Việt
+  Nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam.
+- Nghị định số 70/2023/NĐ-CP
+  ngày 18 tháng 9 năm 2023 của Chính phủ sửa đổi, bổ sung một số điều của Nghị
+  định số 152/2020/NĐ-CP ngày 30 tháng 12 năm 2020 của Chính phủ quy định về
+  người lao động nước ngoài làm việc tại Việt Nam và tuyển dụng, quản lý người
+  lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam.
+- Quyết định số 315/QĐ-BNV
+  ngày 04/4/2025 của Bộ Nội vụ về việc công bố thủ tục hành chính được sửa đổi,
+  bổ sung lĩnh vực việc làm thuộc phạm vi chức năng quản lý của Bộ Nội vụ
+- Quyết định số 1086/QĐ-SNV
+  ngày 05/03/2025 của Sở Nội vụ về việc ủy quyền cho Ủy ban nhân dân các quận,
+  huyện, thị xã giải quyết thủ tục liên quan đến lĩnh vực việc làm và an toàn
+  lao động thuộc thẩm quyền của Sở Nội vụ.
+- Công văn số 991/UBND-TH
+  ngày 19/3/2025 của UBND TP về việc chỉ đạo phân luồng, rút ngắn thời gian xử
+  lý đối với các nhóm hồ sơ thủ tục công việc nhằm đạt mục tiêu tăng trưởng
+  GRDP trên 8% của Thành phố.
+- Quyết định số
+  775/QĐ-TTPVHCC ngày 26/5/2025 của Trung tâm PVHCC thành phố Hà Nội về việc
+  công bố Danh mục thủ tục hành chính lĩnh vực việc làm thuộc phạm vi chức
+  năng quản lý nhà nước của Sở Nội vụ thành phố Hà Nội được phân luồng “làn
+  xanh”.
+4.2.
+Thành phần hồ sơ
+Bản chính
+Bản sao
+4.2.1
+Văn bản đề nghị cấp lại giấy
+  phép lao động theo
+mẫu số
+  11/PLI Phụ lục I
+ban hành kèm theo Nghị định số 152/2020/NĐ-CP, sửa đổi bởi
+  Nghị định số 70/2023/NĐ-CP
+x
+4.2.2
+02 ảnh màu (kích thước 4cm x
+  6cm, phông nền trắng, mặt nhìn thẳng, đầu để trần, không đeo kính màu), ảnh
+  chụp không quá 06 tháng tính đến ngày nộp hồ sơ.
+x
+4.2.3
+Giấy phép lao động còn thời
+  hạn đã được cấp:
++ Trường hợp giấy phép lao động
+  còn thời hạn bị mất thì phải có xác nhận của cơ quan công an cấp xã nơi
+  người nước ngoài cư trú hoặc cơ quan có thẩm quyền của nước ngoài theo quy định
+  của pháp luật.
++ Trường hợp thay đổi nội
+  dung ghi trên giấy phép lao động thì phải có các giấy tờ chứng minh.
+x
+x
+4.2.4
+Văn bản chấp thuận nhu cầu sử
+  dụng người lao động nước ngoài trừ những trường hợp không phải xác định nhu
+  cầu sử dụng người lao động nước ngoài.
+x
+x
+4.3.
+Số lượng
+: 01 bộ
+4.4.
+Thời gian xử lý
+: 1
+  ngày làm việc (08 giờ) kể từ khi nhận đủ hồ sơ hợp lệ
+4.5.
+Phí/lệ phí
+: 300.000 đồng/1
+  giấy phép.
+(Trường hợp nộp hồ sơ dịch vụ
+  công trực tuyến: không thu phí/ lệ phí trên áp dụng đến hết ngày
+  31/12/2025).
+4.6.
+Quy trình xử lý công việc
+Tên bước
+Chi tiết
+Trách nhiệm
+Thời gian
+Biểu mẫu
+Công dân nộp HS tại Trung tâm PVHCC
+Tổ chức, cá nhân có nhu cầu
+  chuẩn bị và nộp đầy đủ hồ sơ theo quy định tại mục 4.2 theo một trong các
+  hình thức sau:
+1. Nộp trực tiếp tại các Chi
+  nhánh Trung tâm PVHCC.
+2. Gửi qua dịch vụ chuyển
+  phát đến Các Chi nhánh Trung tâm PVHCC.
+3. Nộp hồ sơ trực tuyến qua
+  Hệ thống thông tin giải quyết thủ tục hành chính của Thành phố
+  (https://dichvucong.hanoi.gov.vn/)
+Công dân
+Trực tuyến: khi có nhu cầu;
+Trực tiếp: giờ hành chính
+Tiếp nhận và bàn giao (Trung tâm chuyển HS về UBND)
+Cán bộ, công chức các Chi
+  nhánh Trung
+tâm PVHCC tiếp nhận hồ sơ của
+  tổ chức, cá nhân có trách nhiệm xem xét, kiểm tra tính chính xác, đầy đủ
+  của hồ sơ:
+1. Trường hợp hồ sơ chưa đầy
+  đủ, chưa chính xác theo quy định, cán bộ, công chức tiếp nhận hồ sơ phải hướng
+  dẫn đại diện tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ theo quy định và
+  nêu rõ lý do theo mẫu Phiếu hướng dẫn hoàn thiện hồ sơ (theo Mẫu)
+2. Trường hợp hồ sơ đầy đủ,
+  chính xác theo quy định, Cán bộ, công chức tiếp nhận hồ sơ và lập Giấy tiếp
+  nhận hồ sơ và hẹn ngày trả kết quả (theo Mẫu).
+Việc tiếp nhận HS và phản hồi
+  tới tổ chức, cá nhân theo các hình thức tương ứng quy định tại Bước 1.
+TTPVHCC chuyển giao hồ sơ về
+  phòng chuyên môn thực hiện xử lý qua phần mềm dịch vụ công hoặc chuyển hồ sơ
+  trực tiếp nếu nhận hồ sơ trực tiếp từ công dân.
+CN TTPVHCC
+Bàn giao về phòng chuyên môn: 1 giờ làm việc
+1. Phiếu hướng dẫn hoàn thiện hồ sơ.
+2. Giấy tiếp nhận hồ sơ và hẹn ngày trả kết quả.
+Phòng chuyên môn tiếp nhận và thụ lý
+Kiểm tra hồ sơ:
+- Nội dung kiểm tra: Căn cứ
+  kiểm tra: Theo mục 4.2
+- Trường hợp hồ sơ chưa đầy đủ,
+  chưa đúng thành phần, nội dung, số lượng theo quy định thì trình Lãnh đạo
+  phòng phụ trách phiếu trình về nội dung yêu cầu hoàn thiện hồ sơ.
+- Trường hợp kiểm tra hồ sơ đầy
+  đủ đúng thành phần, số lượng, nội dung thì trình Lãnh đạo phòng chuyên môn ký
+  phiếu trình (hoặc chuyển trên hệ thống với trường hợp nộp trực tuyến).
+Chuyên viên phòng Nội vụ (Sau đây gọi tắt là chuyên viên)
+2 giờ làm việc
+Lãnh đạo Phòng phê duyệt
+Lãnh đạo phòng chuyên môn xem
+  xét, phê duyệt phiếu trình, trình lãnh đạo UBND (hoặc chuyển trên hệ thống
+  với trường hợp nộp trực tuyến)
+Lãnh đạo phòng Nội vụ
+1 giờ làm việc
+Lãnh đạo Sở
+Lãnh đạo UBND xem xét hồ sơ
+  và có ý kiến đồng ý hay không đồng ý cấp phép
+Lãnh đạo UBND
+1 giờ làm việc
+phê duyệt
+tại phiếu trình (hoặc chuyển
+  trên hệ thống với trường hợp nộp trực tuyến)
+Trình ký Giấy phép lao động/ văn bản trả lời không cấp phép
++ Trường hợp lãnh đạo UBND đồng
+  ý, công chức in giấy phép, trình Lãnh đạo Phòng, sau đó trình Lãnh đạo
+  UBND ký. (trình bản giấy hoặc ký số)
++ Trường hợp Lãnh đạo UBND
+  không đồng ý, công chức dự thảo văn bản trả lời hồ sơ không đủ điều kiện cấp
+  phép, trình Lãnh đạo phòng ký. (trình bản giấy hoặc ký số)
+Chuyên viên
+1 giờ làm việc
+Dự thảo Giấy phép lao động
+[3]
+/
+Thông báo về việc hồ sơ không đủ điều kiện giải quyết.
+Ký Giấy phép lao động/ văn bản trả lời không cấp phép
+Lãnh đạo UBND ký Giấy phép/
+  Văn bản trả lời hồ sơ không đủ điều kiện cấp phép (ký trực tiếp hoặc ký số)
+Lãnh đạo UBND
+1 giờ làm việc
+Giấy phép lao động/ Thông báo về việc hồ sơ không đủ điều kiện giải
+  quyết.
+Chuyển kết quả
+Công chức phòng chuyên môn
+  chuyển trả kết quả cho các Chi nhánh Trung tâm PVHCC
+Chuyên viên
+1 giờ làm việc
+Trung tâm trả KQ cho công dân
+CN TTPVHCC chuyển trả kết quả
+  cho công dân
+CN TTPVHCC
+Giờ hành chính
+Giấy phép lao động/ Thông báo về việc hồ sơ không đủ điều kiện giải
+  quyết.
+6. Quy
+trình: Xác nhận người lao động nước ngoài không thuộc diện cấp giấy phép lao động
+(QT-06)
+1.
+Mục đích:
+Quy định về trình tự và cách
+  thức thực hiện thủ tục hành chính của thủ tục Xác nhận người lao động nước
+  ngoài không thuộc diện cấp giấy phép lao động.
+2.
+Phạm vi:
+Áp dụng đối với tổ chức, cá
+  nhân có nhu cầu thực hiện thủ tục Xác nhận người lao động không thuộc diện
+  cấp giấy phép lao động thuộc thẩm quyền cấp phép của Sở Nội vụ.
+Cán bộ, công chức thuộc
+  Phòng Việc làm và An toàn lao động (VL&ATLĐ), cá0063 phòng có liên
+  quan thuộc Sở Nội vụ, UBND quận, huyện, thị xã và cán bộ, công chức, người
+  lao động Trung tâm PVHCC chịu trách nhiệm thực hiện và kiểm soát quy
+  trình này.
+2.1. Ủy ban nhân dân các
+  quận, huyện, thị xã thuộc thành phố Hà Nội giải quyết thủ tục Xác nhận không
+  thuộc diện cấp giấy phép lao động trong các trường hợp sau:
++ Người lao động nước ngoài kết
+  hôn với người Việt Nam và sinh sống trên lãnh thổ Việt Nam;
++ Tình nguyện viên là người
+  lao động nước ngoài làm việc tại Việt Nam theo hình thức tự nguyện và
+  không hưởng lương để thực hiện điều ước quốc tế mà nước Cộng hòa xã hội chủ
+  nghĩa Việt Nam là thành viên và có xác nhận của cơ quan đại diện ngoại giao
+  nước ngoài hoặc tổ chức quốc tế tại Việt Nam;
++ Học sinh, sinh viên đang học
+  tập tại các trường, cơ sở đào tạo ở nước ngoài có thỏa thuận thực tập trong
+  các cơ quan, tổ chức, doanh nghiệp tại Việt Nam; học viên thực tập, tập sự
+  trên tàu biển Việt Nam;
++ Được Bộ Giáo dục và Đào tạo
+  xác nhận người lao động nước ngoài vào Việt Nam để thực hiện các công
+  việc sau: Giảng dạy, nghiên cứu; Làm nhà quản lý, giám đốc điều hành,
+  hiệu trưởng, phó hiệu trưởng cơ sở giáo dục do cơ quan đại diện ngoại giao
+  nước ngoài hoặc tổ chức liên chính phủ đề nghị thành lập tại Việt Nam.
+2.2. Sở Nội vụ giải quyết
+  thủ tục Xác nhận không thuộc diện cấp giấy phép lao động trong các trường hợp
+  còn lại.
+3.
+Đối tượng:
+- Chuyên gia của doanh nghiệp,
+  các nhà Thầu thực hiện các dự án quan trọng của Thành phố như: (1) Cải tại
+  không gian khu vực phía Đông hồ Hoàn Kiếm và cải tạo quảng trường Đông Kinh –
+  Nghĩa Thục; (2) Cầu Tứ Liên và đường dẫn hai đầu cầu (từ nút giao với đường
+  Nghi Tàm đến nút giao với đường Trường Sa); (3) Cầu Trần Hưng Đạo; (4) Cầu Ngọc
+  Hồi và đường dẫn hai đầu cầu; (5) Cải tạo, nâng cấp, mở rộng các tuyến đường
+  xung quanh Hồ Tây; (6) Cải tạo chỉnh trang, bổ cập nước sông Tô Lịch; (7) Khu
+  công nghệ cao Hòa Lạc và các dự án thu hút đầu tư vào Khu công nghệ cao
+  Hòa Lạc; (8) Khu công nghệ cao sinh học Hà Nội; (9) Đường vành đai 4 – Vùng
+  Thủ đô trên địa bàn Thành phố; (10) Tuyến đường sắt đô thị số 5, Văn Cao –
+  Hòa Lạc.
+- Chuyên gia của các doanh
+  nghiệp có các dự án xây dựng, đầu tư, các doanh nghiệp có vốn đầu tư nước
+  ngoài vào Việt Nam ngay khi cấp phép thành lập/ hoạt động đã có dấu làn xanh
+  của cơ quan có thẩm quyền đóng.
+4.
+Nội dung quy trình:
+4.1.
+Cơ sở pháp lý
+- Bộ luật Lao động năm 2019;
+- Nghị định số 152/2020/NĐ-CP
+  ngày 30 tháng 12 năm 2020 của Chính phủ quy định về người lao động nước
+  ngoài làm việc tại Việt Nam và tuyển dụng, quản lý người lao động Việt
+  Nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam;
+- Nghị định số 70/2023/NĐ-CP
+  ngày 18 tháng 9 năm 2023 của Chính phủ sửa đổi, bổ sung một số điều của Nghị
+  định số 152/2020/NĐ-CP ngày 30 tháng 12 năm 2020 của Chính phủ quy định về
+  người lao động nước ngoài làm việc tại Việt Nam và tuyển dụng, quản lý người
+  lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam.
+- Quyết định số 315/QĐ-BNV
+  ngày 04/04/2025 của Bộ Nội vụ về việc công bố thủ tục hành chính sửa đổi, bổ
+  sung lĩnh vực việc làm thuộc phạm vi chức năng quản lý của Bộ Nội vụ.
+- Quyết định số 1086/QĐ-SNV
+  ngày 05/3/2025 của Sở Nội vụ về việc ủy quyền cho UBND các quận, huyện, thị
+  xã giải quyết thủ tục liên quan đến lĩnh vực việc làm và an toàn lao động
+  thuộc thẩm quyền của Sở Nội vụ.
+- Công văn số 991/UBND-TH
+  ngày 19/3/2025 của UBND TP về việc chỉ đạo phân luồng, rút ngắn thời gian xử
+  lý đối với các nhóm hồ sơ thủ tục công việc nhằm đạt mục tiêu tăng trưởng
+  GRDP trên 8% của Thành phố.
+- Quyết định số
+  775/QĐ-TTPVHCC ngày 26/5/2025 của Trung tâm PVHCC thành phố Hà Nội về việc
+  công bố Danh mục thủ tục hành chính lĩnh vực việc làm thuộc phạm vi chức
+  năng quản lý nhà nước của Sở Nội vụ thành phố Hà Nội được phân luồng “làn
+  xanh”.
+4.2.
+Thành phần hồ sơ
+Bản chính
+Bản sao
+(1)
+Văn bản đề nghị xác nhận người
+  lao động nước ngoài không thuộc diện cấp giấy phép lao động theo
+Mẫu số 09/PLI Phụ lục I
+ban hành
+  kèm theo Nghị định số 152/2020/NĐ-CP
+x
+(2)
+Giấy chứng nhận sức khỏe hoặc
+  giấy khám sức khỏe do cơ quan, tổ chức y tế có thẩm quyền cấp của nước ngoài
+  hoặc của Việt Nam cấp có giá trị trong thời hạn 12 tháng, kể từ ngày ký kết
+  luận sức khỏe đến ngày nộp hồ sơ hoặc giấy chứng nhận có đủ sức khỏe theo
+  quy định của Bộ trưởng Bộ Y tế.
+x
+x
+(3)
+Văn bản chấp thuận nhu cầu sử
+  dụng người lao động nước ngoài trừ trường hợp không phải xác định nhu cầu sử
+  dụng người lao động nước ngoài.
+x
+x
+(4)
+Bản sao có chứng thực hộ chiếu
+  hoặc bản sao hộ chiếu có xác nhận của người sử dụng lao động
+x
+(5)
+Các giấy tờ để chứng minh
+  người lao động nước ngoài không thuộc diện cấp giấy phép lao động.
+x
+x
+b
+Các giấy tờ quy định tại
+  điểm (2), (3) và (5) là 01 bản gốc hoặc bản sao có chứng thực, nếu của nước
+  ngoài thì phải hợp pháp hóa lãnh sự, dịch ra tiếng Việt và công chứng hoặc
+  chứng thực trừ trường hợp được miễn hợp pháp hóa lãnh sự theo điều ước quốc
+  tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam và nước ngoài liên quan đều là
+  thành viên hoặc theo nguyên tắc có đi có lại hoặc theo quy định của pháp luật.
+4.3.
+Số lượng
+: 01 bộ
+4.4.
+Thời gian xử lý
+: 02
+  ngày làm việc kể từ khi nhận đủ hồ sơ hợp lệ
+4.5.
+Phí/lệ phí
+: Không
+4.6.
+Quy trình xử lý công việc
+Tên bước
+Chi tiết
+Trách nhiệm
+Thời gian
+Biểu mẫu
+4.6.1
+Các Trường hợp thuộc phạm
+  vu giải quyết của Sở Nội vụ
+Nộp HS
+- Công dân truy cập qua Cổng
+  thông tin điện tử dịch vụ công Thành phố (dvc.hanoi.gov.vn), khai báo nội
+  dung và làm theo hướng dẫn. Sau khi điền đầy đủ thông tin yêu cầu, công dân gửi
+  hồ sơ.
+Công dân
+- Trực tuyến: khi có nhu cầu;
+- Trực tiếp: giờ hành chính
+Tiếp nhận và bàn giao (Trung tâm chuyển HS về Sở)
+- Hướng dẫn và tiếp nhận hồ
+  sơ, ghi giấy tiếp nhận hồ sơ và hẹn trả kết quả trao cho công dân
+- Chuyển giao hồ sơ về
+  phòng chuyên môn thực hiện xử lý qua phần mềm dịch vụ công hoặc chuyển hồ
+  sơ trực tiếp nếu nhận hồ sơ trực tiếp từ công dân.
+TTPVHCC
+1/4 ngày làm việc
+Mẫu phiếu hẹn
+Tiếp nhận và Thụ lý
+Kiểm tra hồ sơ:
+- Nội dung kiểm tra: Căn cứ
+  kiểm tra: Theo mục 4.2
+- Trường hợp hồ sơ chưa đầy đủ,
+  chưa đúng thành phần, nội dung, số lượng theo quy định thì soạn thảo nội dung
+  yêu cầu hoàn thiện hồ sơ và chuyển Lãnh đạo phòng phụ trách ký văn bản trả
+  hồ sơ với trường hợp nộp trực tiếp và chuyển trả hồ sơ trên hệ thống với
+  trường hợp nộp trực tuyến.
+- Trường hợp kiểm tra hồ sơ
+  đầy đủ đúng thành phần, số lượng, nội dung thì trình Lãnh đạo phòng chuyên
+  môn ký phiếu trình (hoặc chuyển trên hệ thống với trường hợp nộp trực tuyến)
+Chuyên viên phòng VL&ATLĐ (Sau đây gọi tắt là chuyên viên)
+1/2 ngày làm việc
+Lãnh đạo Phòng phê duyệt
+Lãnh đạo phòng chuyên môn xem
+  xét, phê duyệt phiếu trình trình lãnh đạo Sở Nội vụ (hoặc chuyển trên hệ
+  thống với trường hợp online)
+Lãnh đạo Phòng
+1/4 ngày làm việc
+Lãnh đạo Sở phê duyệt
+Lãnh đạo Sở xem xét hồ sơ và
+  có ý kiến đồng ý hay không đồng ý cấp phép tại phiếu trình (hoặc chuyển
+  trên hệ thống với trường hợp online)
+Lãnh đạo Sở
+1/4 ngày làm việc
+Trình ký Giấy xác nhận không thuộc diện cấp GPLĐ
++ Trường hợp lãnh đạo Sở đồng
+  ý, công chức in Giấy xác nhận, trình lãnh đạo Sở ký (trình bản giấy hoặc ký
+  số)
++ Trường hợp lãnh đạo Sở
+  không đồng ý, công chức dự thảo văn bản trả lời không cấp phép, trình lãnh đạo
+  phòng ký (trình bản giấy hoặc ký số)
+Chuyên viên
+1/4 ngày làm việc
+Giấy xác nhận không thuộc diện cấp GPLĐ / văn bản trả lời không cấp
+  phép
+Ký Giấy xác nhận không thuộc diện cấp GPLĐ / văn bản trả lời không cấp
+  phép
+Lãnh đạo Sở ký Giấy phép (ký
+  trực tiếp hoặc ký số)
+Lãnh đạo Sở
+1/4 ngày làm việc
+Chuyển kết quả
+Công chức phòng chuyên môn
+  chuyển trả kết quả cho CN số 2 TTPVHCC Thành phố
+Chuyên viên
+1/4 ngày làm việc
+Trung tâm trả KQ
+CN số 2 TTPVHCC Thành phố
+  chuyển trả kết quả cho công dân
+CN số 2 TTPVHCC Thành phố
+Giờ hành chính
+4.6.2
+Các trường hợp thuộc phạm
+  vi giải quyết của UBND cấp huyện
+Nộp HS tại Trung tâm
+- Công dân truy cập qua Cổng
+  thông tin điện tử dịch vụ công Thành phố (dvc.hanoi.gov.vn), khai báo nội
+  dung và làm theo hướng dẫn. Sau khi điền đầy đủ thông tin yêu cầu, công dân gửi
+  hồ sơ
+Công dân
+- Trực tuyến: khi có nhu cầu;
+- Trực tiếp: giờ hành chính
+Mẫu phiếu hẹn
+Tiếp nhận và bàn giao (Trung tâm chuyển HS về UBND)
+- Hướng dẫn và tiếp nhận hồ
+  sơ, ghi giấy tiếp nhận hồ sơ và hẹn trả kết quả trao cho công dân
+- Chuyển giao hồ sơ về
+  phòng chuyên môn các quận, huyện, thị xã thực hiện xử lý qua phần mềm dịch
+  vụ công hoặc chuyển hồ sơ trực tiếp nếu nhận hồ sơ trực tiếp từ công dân.
+Các Chi nhánh Trung tâm PVHCC
+1/4 ngày làm việc
+Phòng Tiếp nhận và Thụ lý
+Kiểm tra hồ sơ:
+- Nội dung kiểm tra: Căn cứ
+  kiểm tra: Theo mục 4.2
+- Trường hợp hồ sơ chưa đầy đủ,
+  chưa đúng thành phần, nội dung, số lượng theo quy định thì soạn thảo nội dung
+  yêu cầu hoàn thiện hồ sơ và chuyển Lãnh đạo phòng phụ trách ký văn bản trả
+  hồ sơ với trường hợp nộp trực tiếp và chuyển trả hồ sơ trên hệ thống với
+  trường hợp nộp trực tuyến.
+- Trường hợp kiểm tra hồ sơ
+  đầy đủ đúng thành phần, số lượng, nội dung thì trình Lãnh đạo phòng chuyên
+  môn ký phiếu trình (hoặc chuyển trên hệ thống với trường hợp nộp trực tuyến)
+Chuyên viên phòng chuyên môn cấp huyện (Sau đây gọi tắt là chuyên
+  viên)
+1/2 ngày làm việc
+Lãnh đạo Phòng phê duyệt
+Lãnh đạo Phòng chuyên môn
+  các quận, huyện, thị xã trình Lãnh đạo UBND các quận, huyện, thị xã xem xét,
+  phê duyệt phiếu trình (hoặc chuyển trên hệ thống với trường hợp online)
+Lãnh đạo UBND cấp huyện
+1/4 ngày làm việc
+Lãnh đạo UBND phê duyệt
+Lãnh đạo UBND các quận,
+  huyện, thị xã xem xét hồ sơ và có ý kiến đồng ý hay không đồng ý cấp phép tại
+  phiếu trình (hoặc chuyển trên hệ thống với trường hợp online)
+Lãnh đạo UBND cấp huyện
+1/4 ngày làm việc
+Trình ký Giấy xác nhận không thuộc diện cấp GPLĐ
++ Trường hợp lãnh đạo UBND
+  các quận, huyện, thị xã đồng ý, công chức in Giấy xác nhận, trình Lãnh đạo
+  Phòng, sau đó Lãnh đạo UBND các quận, huyện, thị xã ký (trình bản giấy hoặc
+  ký số)
++ Trường hợp Lãnh đạo UBND
+  các quận, huyện, thị xã không đồng ý, công chức dự thảo văn bản trả lời
+  không cấp phép, trình Lãnh đạo phòng ký (trình bản giấy hoặc ký số.
+Chuyên viên
+1/4 ngày làm việc
+Giấy xác nhận không thuộc diện cấp GPLĐ / văn bản trả lời không cấp
+  phép
+Ký Giấy xác nhận không thuộc diện cấp GPLĐ / văn bản trả lời không cấp
+  phép
+ký Giấy phép (ký trực tiếp hoặc
+  ký số)
+Lãnh đạo UBND cấp huyện
+1/4 ngày làm việc
+Chuyển kết quả
+Chuyển trả kết quả cho Các
+  Chi nhánh Trung tâm PVHCC
+Chuyên viên
+1/4 ngày làm việc
+Trả KQ cho công dân
+Chuyển trả kết quả cho công
+  dân
+Các Chi nhánh Trung tâm PVHCC
+Giờ hành chính
+[1]
+Mẫu
+số 12/PLI Phụ lục I ban hành kèm theo Nghị định số 152/2020/NĐ-CP ngày
+30/12/2020 của Chính phủ
+[2]
+Mẫu
+số 12/PLI Phụ lục I ban hành kèm theo Nghị định số 152/2020/NĐ-CP ngày
+30/12/2020 của Chính phủ.
+[3]
+theo
+Mẫu số 12/PLI Phụ lục I ban hành kèm theo Nghị định số 152/2020/NĐ-CP ngày
+30/12/2020 của Chính phủ
+Lưu trữ
+Ghi chú
+Ý kiến
+Facebook
+Email
+In
+Thư Viện
+Nhà Đất
+Chính chủ bán lỗ nhà phố Elite Life, 1 trệt 2 lầu, 3pn, giá chỉ 3,4 tỷ, bao phí, thương lượng
+3.4 tỷ
+,
+DT 80.25
+,
+Huyện Cần Giuộc, Long An
+Bản án liên quan
+PHÁP LUẬT DOANH NGHIỆP
+Hỏi đáp pháp luật
+Quyết định 851/QĐ-TTPVHCC năm 2025 phê duyệt Quy trình nội bộ giải quyết các thủ tục hành chính lĩnh vực Việc làm thuộc phạm vi chức năng quản lý Nhà nước của Sở Nội vụ Thành phố Hà Nội được phân luồng “làn xanh” do Trung tâm Phục vụ hành chính công Thành phố Hà Nội ban hành
