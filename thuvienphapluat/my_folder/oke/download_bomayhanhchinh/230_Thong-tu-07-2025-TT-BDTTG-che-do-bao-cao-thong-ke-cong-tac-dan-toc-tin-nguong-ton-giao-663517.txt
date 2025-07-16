@@ -1,0 +1,1526 @@
+MỤC LỤC
+                                VĂN BẢN
+In mục lục
+THÔNG TƯ QUY ĐỊNH CHẾ ĐỘ BÁO CÁO THỐNG KÊ CÔNG TÁC DÂN TỘC, TÍN NGƯỠNG, TÔN GIÁO
+Điều 1. Phạm vi điều chỉnh
+Điều 2. Đối tượng áp dụng
+Điều 3. Nội dung chế độ báo cáo thống kê công tác dân tộc, tín ngưỡng, tôn giáo
+Điều 4. Trách nhiệm thi hành
+Điều 5. Hiệu lực thi hành
+PHỤ LỤC 1 DANH MỤC BÁO CÁO THỐNG KÊ CÔNG TÁC DÂN TỘC, TÍN NGƯỠNG, TÔN GIÁO
+PHỤ LỤC 2 HỆ THỐNG BIỂU MẪU BÁO CÁO THỐNG KÊ, GIẢI THÍCH VÀ HƯỚNG DẪN CÁCH GHI BIỂU MẪU BÁO CÁO THỐNG KÊ
+Biểu số: 01.N/BC-BDTTG Tổng hợp số trường, lớp, giáo viên, học sinh giáo   dục phổ thông
+Biểu số: 02.N/BC-BDTTG Học sinh dân tộc thiểu số đi học đúng độ tuổi
+Biểu số: 03.N/BC-BDTTG Số học sinh người dân tộc thiểu số bỏ học, lưu ban
+Biểu số: 04.N/BC-BDTT Số lượng, tỷ lệ các thôn bản vùng dân tộc thiểu số   đã có đường giao thông được đầu tư nâng cấp, cải tạo, xây dựng mới
+Biểu số: 05.N/BC-BDTTG Hộ nghèo và cận nghèo người dân tộc thiểu số
+Biểu số: 06.K/BC-BDTTG Số lượng đại biểu hội đồng nhân dân các cấp là người   dân tộc thiểu số
+Biểu số: 07.N/BC-BDTTG Số lượng công chức trong các cơ quan công tác dân   tộc và tôn giáo các cấp
+Biểu số: 08.N/BC-BDTTG Số lượng viên chức trong các đơn vị sự nghiệp thuộc   Bộ Dân tộc và Tôn giáo
+Biểu số: 09.N/BC-BDTTG Số công chức, viên chức trong cơ quan công tác   dân tộc và tôn giáo các cấp được đào tạo, bồi dưỡng về công tác dân tộc, lý   luận chính trị, quản lý nhà nước và đào tạo khác
+Biểu số: 10.N/BC-BDTTG Số tôn giáo, số tổ chức tôn giáo, Số tổ chức tôn   giáo trực thuộc, Số tổ chức được cấp chứng nhận đăng ký hoạt động tôn giáo
+Biểu số: 11.N/BC-BDTTG Số chức sắc, chức việc, tín đồ tôn giáo
+Biểu số: 12.N/BC-BDTTG Số cơ sở tôn giáo
+PHỤ LỤC 3 MẪU BÁO CÁO KẾT QUẢ THỰC HIỆN CHẾ ĐỘ BÁO CÁO THỐNG KÊ CÔNG TÁC DÂN TỘC, TÍN NGƯỠNG, TÔN GIÁO
+BỘ
+  DÂN TỘC VÀ TÔN GIÁO
+-------
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số:
+  07/2025/TT-BDTTG
+Hà Nội, ngày 25
+  tháng 6 năm 2025
+THÔNG TƯ
+QUY
+ĐỊNH CHẾ ĐỘ BÁO CÁO THỐNG KÊ CÔNG TÁC DÂN TỘC, TÍN NGƯỠNG, TÔN GIÁO
+Căn cứ Luật Thống kê số 89/2015/QH13 ngày 23
+tháng 11 năm 2015; Luật sửa đổi, bổ sung một số điều về Phụ lục Danh mục chỉ
+tiêu thống kê quốc gia của Luật Thống kê;
+Căn cứ Nghị định số 94/2016/NĐ-CP ngày 01 tháng
+7 năm 2016 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của
+Luật Thống kê;
+Căn cứ Nghị định số 94/2022/NĐ-CP ngày 07 tháng
+11 năm 2022 của Chính phủ quy định nội dung chỉ tiêu thống kê thuộc hệ thống chỉ
+tiêu thống kê quốc gia và quy trình biên soạn chỉ tiêu tổng sản phẩm trong nước,
+chỉ tiêu tổng sản phẩm trên địa bàn tỉnh, thành phố trực thuộc trung ương;
+Căn cứ Nghị định số 62/2024/NĐ-CP ngày 7 tháng 6
+năm 2024 của Chính phủ sửa đổi, bổ sung một số điều, Phụ lục của Nghị định số
+94/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định chi tiết về hướng
+dẫn thi hành một số điều của Luật Thống kê và Nghị định số 94/2022/NĐ-CP ngày
+07 tháng 11 năm 2022 của Chính phủ quy định nội dung chỉ tiêu thống kê thuộc hệ
+thống chỉ tiêu thống kê quốc gia và quy trình biên soạn chỉ tiêu tổng sản phẩm
+trong nước, chỉ tiêu tổng sản phẩm trên địa bàn tỉnh, thành phố trực thuộc
+trung ương;
+Căn cứ Nghị định số 41/2025/NĐ-CP ngày 26 tháng
+02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ
+chức của Bộ Dân tộc và Tôn giáo và Nghị định số 114/2025/NĐ-CP ngày 03 tháng 6
+năm 2025 của Chính phủ Sửa đổi
+khoản 12 Điều 3 Nghị định số
+41/2025/NĐ-CP
+ngày 26 tháng 02 năm 2025 của Chính phủ quy định chức năng,
+nhiệm vụ, quyền hạn và cơ cấu Tổ chức của Bộ Dân tộc và Tôn giáo;
+Theo đề nghị của Vụ trưởng Vụ Kế hoạch - Tài
+chính;
+Bộ trưởng Bộ Dân tộc và Tôn giáo ban hành Thông
+tư quy định chế độ báo cáo thống kê công tác dân tộc, tín ngưỡng, tôn giáo.
+Điều 1. Phạm vi điều chỉnh
+Thông tư này quy định về chế độ báo cáo thống kê
+công tác dân tộc, tín ngưỡng, tôn giáo để thu thập thông tin thống kê thuộc hệ
+thống chỉ tiêu thống kê công tác dân tộc, tín ngưỡng, tôn giáo.
+Điều 2. Đối tượng áp dụng
+1. Các Vụ, đơn vị thuộc Bộ Dân tộc và Tôn giáo;
+2. Sở Dân tộc và Tôn giáo hoặc Sở Nội vụ trong trường
+hợp địa phương không thành lập Sở Dân tộc và Tôn giáo (sau đây gọi là cơ quan
+công tác dân tộc và tôn giáo cấp tỉnh);
+3. Cơ quan, tổ chức, cá nhân có liên quan.
+Điều 3. Nội dung chế độ báo cáo
+thống kê công tác dân tộc, tín ngưỡng, tôn giáo
+1. Chế độ báo cáo thống kê công tác dân tộc, tín
+ngưỡng, tôn giáo quy định danh mục báo cáo thống kê, biểu mẫu báo cáo thống kê
+và giải thích và hướng dẫn cách ghi biểu báo cáo thống kê nhằm thu thập, tổng hợp
+thông tin thống kê thuộc Hệ thống chỉ tiêu thống kê công tác dân tộc, tín ngưỡng,
+tôn giáo. Chế độ báo cáo thống kê gồm: Danh mục báo cáo thống kê (
+Phụ lục 1
+), Hệ thống biểu mẫu báo cáo thống kê, giải
+thích và hướng dẫn cách ghi biểu báo cáo thống kê (Phụ lục 2).
+2. Đơn vị báo cáo
+Đơn vị báo cáo là cơ quan công tác dân tộc và tôn
+giáo cấp tỉnh, vụ, đơn vị thuộc Bộ Dân tộc và Tôn giáo. Đơn vị báo cáo được ghi
+cụ thể tại góc trên bên phải của từng biểu mẫu thống kê. Cơ quan, đơn vị chịu
+trách nhiệm báo cáo ghi tên cơ quan, đơn vị vào vào vị trí này theo quy định.
+Đơn vị báo cáo trực tiếp về Bộ Dân tộc và Tôn giáo được quy định tại cột 4
+Phụ lục I
+Danh mục biểu mẫu báo cáo thống kê công
+tác dân tộc, tín ngưỡng, tôn giáo kèm theo Thông tư này.
+3. Đơn vị nhận báo cáo
+Đơn vị nhận báo cáo là Bộ Dân tộc và Tôn giáo (Vụ Kế
+hoạch - Tài chính) được ghi cụ thể tại góc trên bên phải của từng biểu mẫu, dưới
+dòng đơn vị báo cáo.
+4. Ký hiệu biểu
+Ký hiệu biểu gồm hai phần: phần số và phần chữ; phần
+số gom 02 chữ số phản ánh thứ tự báo cáo; phần chữ được ghi chữ in viết tắt, cụ
+thể: Nhóm chữ đầu phản ánh kỳ báo cáo (năm - N; nhiệm kỳ - K), nhóm 2 được viết
+như sau /BC-BDTTG thể hiện biểu báo cáo thống kê của Bộ Dân tộc và Tôn giáo.
+5. Kỳ báo cáo
+Kỳ báo cáo thống kê là khoảng thời gian nhất định
+quy định đối tượng báo cáo thống kê phải thể hiện kết quả hoạt động bằng số liệu
+theo các tiêu chí thống kê trong biểu mẫu báo cáo thống kê. Kỳ báo cáo được ghi
+cụ thể dưới tên biểu của từng biểu mẫu thống kê. Kỳ báo cáo thống kê được tính
+theo ngày dương lịch, bao gồm:
+a) Báo cáo thống kê định kỳ
+Báo cáo thống kê năm: Kỳ báo cáo thống kê năm được
+tính từ ngày 01 tháng 01 năm báo cáo đến ngày 31 tháng 12 năm báo cáo.
+Báo cáo thống kê theo nhiệm kỳ: Kỳ báo cáo thống kê
+nhiệm kỳ được tính bắt đầu từ ngày đầu tiên của nhiệm kỳ báo cáo thống kê cho đến
+ngày cuối cùng của nhiệm kỳ báo cáo thống kê đó.
+Báo cáo thống kê theo năm học thực hiện theo 02 kỳ
+báo cáo gồm: Kỳ báo cáo đầu năm học: Thời điểm báo cáo là ngày 30 tháng 9; Kỳ
+báo cáo cuối năm học: Thời điểm báo cáo là ngày 31 tháng 5.
+b) Báo cáo thống kê khác
+Báo cáo thống kê khác được thực hiện để giúp Bộ trưởng
+Bộ Dân tộc và Tôn giáo thu thập các thông tin ngoài các thông tin thống kê được
+thu thập, tổng hợp theo chế độ báo cáo thống kê định kỳ. Nội dung báo cáo thống
+kê khác được thực hiện theo văn bản yêu cầu của Bộ Dân tộc và Tôn giáo.
+6. Thời hạn báo cáo
+Ngày nhận báo cáo được ghi cụ thể tại góc trên bên
+trái của từng biểu mẫu thống kê.
+7. Hình thức gửi báo cáo
+Các báo cáo thống kê được thực hiện bằng 2 hình thức:
+bằng văn bản và qua phần mềm chế độ báo cáo thống kê điện tử. Báo cáo bằng văn
+bản có thể bằng văn bản giấy hoặc văn bản điện tử. Văn bản giấy phải có chữ ký,
+đóng dấu của Thủ trưởng cơ quan, đơn vị báo cáo; văn bản điện tử phải được xác
+thực bằng chữ ký số của thủ trưởng cơ quan, đơn vị báo cáo để thuận lợi cho việc
+kiểm tra, đối chiếu, xử lý số liệu.
+Cơ quan, đơn vị thực hiện chế độ báo cáo thống kê
+công tác dân tộc, tín ngưỡng, tôn giáo báo cáo kết quả thực hiện chế độ báo cáo
+thống kê theo mẫu báo cáo kết quả thực hiện chế độ báo cáo thống kê (
+Phụ lục 3
+).
+Điều 4. Trách nhiệm thi hành
+1. Các Vụ, đơn vị thuộc Bộ Dân tộc và Tôn giáo theo
+chức năng, nhiệm vụ có trách nhiệm thực hiện chế độ báo cáo thống kê theo quy định
+tại Thông tư này.
+2. Cơ quan công tác dân tộc và tôn giáo cấp tỉnh có
+trách nhiệm:
+a) Chấp hành đầy đủ, chính xác về nội dung; thời điểm,
+thời kỳ của từng biểu mẫu thuộc chế độ báo cáo và gửi báo cáo đúng thời gian
+quy định.
+b) Tham mưu cho Ủy ban nhân dân cấp tỉnh phân công,
+hướng dẫn các Sở, ngành, Ủy ban nhân dân cấp xã thu thập thông tin thống kê gửi
+cơ quan công tác dân tộc và tôn giáo cấp tỉnh tổng hợp, báo cáo Bộ Dân tộc và
+Tôn giáo theo biểu mẫu quy định tại Thông tư này, đồng thời báo cáo Ủy ban nhân
+dân cấp tỉnh.
+3. Vụ Kế hoạch - Tài chính chủ trì, phối hợp với
+các Vụ, đơn vị liên quan triển khai thực hiện chế độ báo cáo thống kê công tác
+dân tộc, tín ngưỡng, tôn giáo; tổng hợp số liệu thống kê trình Bộ trưởng Bộ Dân
+tộc và Tôn giáo ban hành.
+Điều 5. Hiệu lực thi hành
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01
+tháng 7 năm 2025
+2. Kể từ ngày Thông tư này có hiệu lực, Thông tư số
+02/2018/TT-UBDT ngày 05 tháng 11 năm 2018 của Bộ trưởng, Chủ nhiệm Ủy ban Dân tộc
+quy định chế độ báo cáo thống kê công tác dân tộc hết hiệu lực quy định danh mục
+báo cáo, biểu mẫu báo cáo và hướng dẫn, giải thích biểu mẫu báo cáo nhằm thu thập,
+tổng hợp thông tin thống kê thuộc Hệ thống chỉ tiêu thống kê .
+3. Trong quá trình thực hiện, nếu các văn bản quy
+phạm pháp luật được dẫn chiếu để áp dụng tại Thông tư này được sửa đổi, bổ
+sung, thay thế thì áp dụng theo các văn bản sửa đổi, bổ sung, thay thế đó.
+4. Trong quá trình thực hiện, nếu có vướng mắc đề
+nghị các cơ quan, đơn vị gửi ý kiến về Bộ Dân tộc và Tôn giáo để kịp thời có hướng
+dẫn, nghiên cứu sửa đổi, bổ sung./.
+Nơi nhận:
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+- Văn phòng Trung ương và các Ban của Đảng;
+- Văn phòng Quốc hội;
+- Văn phòng Chủ tịch nước;
+- Văn phòng Chính phủ;
+- Hội đồng Dân tộc của Quốc hội;
+- Ủy ban trung ương MTTQ Việt Nam;
+- Các bộ, cơ quan ngang bộ;
+- UBND các tỉnh, thành phố trực thuộc TW;
+- Cơ quan công tác dân tộc và tôn giáo cấp tỉnh;
+- Bộ Dân tộc và Tôn giáo: Bộ trưởng; các Thứ trưởng; các vụ, đơn vị thuộc và
+  trực thuộc Bộ;
+- Cục Kiểm tra văn bản và Quản lý xử lý vi phạm hành chính (Bộ Tư pháp);
+- Cục Thống kê (Bộ Tài chính);
+- Công báo; Cổng TTĐT Chính phủ;
+- Cơ sở dữ liệu quốc gia về pháp luật;
+- Cổng TTĐT Bộ Dân tộc và Tôn giáo;
+- Lưu: VT, KHTC (5).
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+Nông Thị Hà
+PHỤ LỤC 1
+DANH MỤC BÁO CÁO THỐNG KÊ CÔNG TÁC DÂN TỘC, TÍN NGƯỠNG,
+TÔN GIÁO
+(Ban hành kèm theo Thông tư số 07/2025/TT-BDTTG ngày 25 tháng 6 năm 2025 của
+Bộ trưởng Bộ Dân tộc và Tôn giáo)
+TT
+Ký hiệu biểu
+Tên biểu
+Đơn vị báo cáo
+Kỳ báo cáo
+Ngày nhận báo
+  cáo
+1
+2
+3
+4
+5
+6
+1.
+01.N/BC-BDTTG
+Tổng hợp số lượng trường, lớp, giáo viên, học
+  sinh giáo dục phổ thông
+Cơ quan công tác dân tộc và tôn giáo cấp tỉnh
+Năm
+Ngày 15/11 năm báo
+  cáo (Đầu năm học)
+2.
+02.N/BC-BDTTG
+Học sinh dân tộc thiểu số đi học đúng độ tuổi
+Cơ quan công tác dân tộc và tôn giáo cấp tỉnh
+Năm
+Ngày 15/11 năm báo
+  cáo (Đầu năm học)
+3.
+03.N/BC-BDTTG
+Số học sinh người dân tộc thiểu số bỏ học, lưu
+  ban
+Cơ quan công tác dân tộc và tôn giáo cấp tỉnh
+Năm
+Ngày 15/11 năm báo
+  cáo (Cuối năm học)
+4.
+04.N/BC-BDTTG
+Số lượng, tỷ lệ các thôn bản vùng dân tộc thiểu số
+  đã có đường giao thông được đầu tư nâng cấp, cải tạo, xây dựng mới
+Cơ quan công tác dân tộc và tôn giáo cấp tỉnh
+Năm
+Ngày 15/3 năm sau
+5.
+05.N/BC-BDTTG
+Hộ nghèo và cận nghèo người dân tộc thiểu số
+Cơ quan công tác dân tộc và tôn giáo cấp tỉnh
+Năm
+Ngày 15/3 năm sau
+6.
+06.K/BC-BDTTG
+Số lượng đại biểu hội đồng nhân dân các cấp là
+  người dân tộc thiểu số
+Cơ quan công tác dân tộc và tôn giáo cấp tỉnh
+Nhiệm kỳ
+Ngày 30/7 năm đầu
+  nhiệm kỳ
+7.
+07.N/BC-BDTTG
+Số lượng công chức trong cơ quan công tác dân tộc
+  và tôn giáo các cấp
+Cơ quan công tác dân tộc và tôn giáo cấp tỉnh, Vụ
+  Tổ chức Cán bộ
+Năm
+Ngày 15/3 năm sau
+8.
+08.N/BC-BDTTG
+Số lượng viên chức trong các đơn vị sự nghiệp thuộc
+  Bộ Dân tộc và Tôn giáo
+Các đơn vị sự nghiệp thuộc, trực thuộc Bộ Dân tộc
+  và Tôn giáo
+Năm
+Ngày 15/3 năm sau
+9.
+09.N/BC-BDTTG
+Số công chức, viên chức trong cơ quan công tác
+  dân tộc và tôn giáo các cấp được đào tạo, bồi dưỡng về công tác dân tộc, lý
+  luận chính trị, quản lý nhà nước và đào tạo khác
+Cơ quan công tác dân tộc và tôn giáo cấp tỉnh, Vụ
+  Tổ chức cán bộ
+Năm
+Ngày 15/3 năm sau
+10.
+10.N/BC-BDTTG
+Số tôn giáo, số tổ chức tôn giáo, số tổ chức tôn
+  giáo trực thuộc, số tổ chức được cấp chứng nhận đăng ký hoạt động tôn giáo
+Cơ quan công tác dân tộc và tôn giáo cấp tỉnh
+Năm
+Ngày 15/3 năm sau
+11.
+11.N/BC-BDTTG
+Số chức sắc, chức việc, tín đồ tôn giáo
+Cơ quan công tác dân tộc và tôn giáo cấp tỉnh
+Năm
+Ngày 15/3 năm sau
+12.
+12.N/BC-BDTTG
+Số cơ sở tôn giáo
+Cơ quan công tác dân tộc và tôn giáo cấp tỉnh
+Năm
+Ngày 15/3 năm sau
+PHỤ LỤC 2
+HỆ THỐNG BIỂU MẪU BÁO CÁO THỐNG KÊ, GIẢI THÍCH VÀ HƯỚNG
+DẪN CÁCH GHI BIỂU MẪU BÁO CÁO THỐNG KÊ
+(Ban hành kèm theo Thông tư số 07/2025/TT-BDTTG ngày 25 tháng 6 năm 2025 của
+Bộ trưởng Bộ Dân tộc và Tôn giáo)
+Biểu số: 01.N/BC-BDTTG
+Ban hành theo Thông tư số 07/2025/TT-BDTTG ngày
+  25/6/2025 của Bộ trưởng Bộ Dân tộc và Tôn giáo
+Ngày nhận báo cáo: 15/11 năm báo cáo
+Tổng hợp số trường, lớp, giáo viên, học sinh giáo
+  dục phổ thông
+(Số liệu đến 30/9
+  năm báo cáo)
+Đơn vị báo cáo: Cơ quan công tác dân tộc và tôn
+  giáo cấp tỉnh
+Đơn vị nhận báo cáo: Bộ Dân tộc và Tôn giáo (Vụ Kế
+  hoạch - Tài chính)
+Cấp học
+Loại hình
+Số trường (trường)
+Số trường đạt
+  chuẩn (trường)
+Số lớp (lớp)
+Số học sinh
+Số giáo viên
+Tổng số (người)
+Dân tộc thiểu số
+Tổng số (người)
+Dân tộc thiểu số
+  (người)
+Tổng số (người)
+Trong đó nữ
+  (người)
+A
+B
+1
+2
+3
+4
+5
+6
+7
+8
+Tiểu học (TH)
+(1)
+Công lập
+Tư thục
+Cộng
+Trung học cơ sở (THCS)
+(2)
+Công lập
+Tư thục
+Cộng
+Phổ thông cơ sở (liên cấp TH và THCS)
+Công lập
+Tư thục
+Cộng
+Trung học phổ thông (THPT)
+(3)
+Công lập
+Tư thục
+Cộng
+Trung học (Liên cấp THCS và THPT)
+Công lập
+Tư thục
+Cộng
+Trường Phổ thông (Liên cấp TH, THCS sở và THPT)
+Công lập
+Tư thục
+Cộng
+Phổ thông DTNT xã
+(4)
+Phổ thông DTNT tỉnh
+(4)
+Phổ thông DT bán
+  trú
+(4)
+Tiểu học
+THCS
+Người lập biểu
+(Ký, ghi rõ họ tên)
+..., ngày ... tháng ... năm ...
+Thủ trưởng đơn vị
+(Ký, đóng dấu, ghi rõ họ tên)
+Lưu ý: Không ghi số liệu vào ô đánh dấu (x), với số
+liệu giảm ghi dấu (-) trước số liệu
+(1) Tính cả số lớp, số học sinh, giáo viên tiểu học
+của các trường liên cấp (1+2) và (1+2+3) và trường phổ thông DTBT
+(2) Tính cả số lớp, số học sinh, giáo viên THCS của
+các trường liên cấp (1+2), (2+3) và (1+2+3) và trường PTDTNT, PTDTBT
+(3) Tính cả số lớp, số học sinh, giáo viên THPT của
+các trường liên cấp (2+3), (1+2+3) và phổ thông DTNT
+(4) Chỉ tính số lớp, học sinh, giáo viên tại các
+trường Phổ thông DTNT và phổ thông DTBT
+Biểu số 01.N/BC-BDTTG: Tổng hợp số trường, lớp,
+giáo viên, học sinh giáo dục phổ thông
+1. Khái niệm, phương pháp tính
+Trường phổ thông: Là cơ sở giáo dục phổ thông, bảo
+đảm đủ các điều kiện như: cán bộ quản lý, giáo viên dạy các môn học, nhân viên
+hành chính, bảo vệ, y tế,...; có cơ sở vật chất, trang thiết bị phục vụ giảng dạy
+và học tập; có đủ những điều kiện về tài chính theo quy định của Bộ Tài chính.
+Trường phổ thông nằm trong hệ thống giáo dục quốc dân được thành lập theo quy
+hoạch, kế hoạch của Nhà nước; thực hiện chương trình giáo dục, kế hoạch dạy học
+do Bộ Giáo dục và Đào tạo quy định nhằm phát triển sự nghiệp giáo dục. Trường
+phổ thông bao gồm các loại trường:
+- Trường tiểu học: Có từ lớp 1 đến lớp 5.
+- Trường trung học cơ sở: Có từ lớp 6 đến lớp 9.
+- Trường trung học phổ thông: Có từ lớp 10 đến lớp
+12.
+Trường phổ thông có nhiều cấp:
+- Trường phổ thông cơ sở: Trường ghép giữa tiểu học
+và trung học cơ sở, có từ lớp 1 đến lớp 9.
+- Trường trung học: Trường ghép giữa trung học cơ sở
+và trung học phổ thông, có từ lớp 6 đến lớp 12.
+- Trường phổ thông: Trường ghép giữa tiểu học và
+trung học, có từ lớp 1 đến lớp 12.
+Loại hình trường phổ thông gồm:
+Công lập: Do Nhà nước thành lập, đầu tư xây dựng cơ
+sở vật chất, bảo đảm kinh phí cho các nhiệm vụ chi thường xuyên.
+Tư thục: Do các tổ chức xã hội, tổ chức xã hội nghề
+nghiệp, tổ chức kinh tế hoặc cá nhân thành lập, đầu tư cơ sở vật chất và đảm bảo
+kinh phí hoạt động bằng vốn ngoài ngân sách nhà nước.
+Giáo viên phổ thông: Là người làm nhiệm vụ giảng dạy
+trong trường phổ thông.
+Học sinh phổ thông: Là người đang học tập tại các
+trường phổ thông.
+- Học sinh tiểu học: Gồm các học sinh từ lớp 1 đến
+lớp 5.
+- Học sinh trung học cơ sở: Gồm các học sinh từ lớp
+6 đến lớp 9.
+- Học sinh trung học phổ thông: Gồm các học sinh từ
+lớp 10 đến lớp 12.
+Phạm vi thu thập số liệu
+Tất cả các loại hình trường phổ thông trừ các loại
+sau:
+- Các trường tiểu học chuyên biệt: Là trường tiểu học
+đặc biệt dành cho trẻ em bị tàn tật nặng như: mù, câm, điếc, chậm phát triển
+trí tuệ,...
+- Các lớp tiểu học gia đình, lớp tiểu học linh hoạt,
+lớp tiểu học tình thương, lớp học dành cho trẻ em lang thang đường phố,...
+- Các trường trung học năng khiếu nghệ thuật, năng
+khiếu thể dục thể thao, trường trung học dành cho trẻ em tàn tật.
+2. Cách ghi biểu
+- Cột 1 ghi số lượng trường tương ứng với các dòng
+của cột A và B.
+- Cột 2 ghi số lượng trường đạt chuẩn tương ứng với
+các dòng của cột A và B.
+- Cột 3 ghi số lớp học tương ứng với các dòng của cột
+A và B.
+- Cột 4 ghi tổng số học sinh tương ứng với các dòng
+của cột A và B.
+- Cột 5 ghi tổng số học sinh dân tộc thiểu số tương
+ứng với các dòng của cột A và B.
+- Cột 6 ghi số học sinh nữ dân tộc thiểu số tương ứng
+với các dòng của cột A và B.
+- Cột 7 ghi tổng số giáo viên tương ứng với các
+dòng của cột A và B.
+- Cột 8 ghi số giáo viên dân tộc thiểu số tương ứng
+với các dòng của cột A và B.
+3. Nguồn số liệu
+Sở Giáo dục và Đào tạo, chế độ báo cáo thống kê của
+Bộ Giáo dục và Đào tạo.
+Biểu số: 02.N/BC-BDTTG
+Ban hành theo Thông tư số 07/2025/TT-BDTTG ngày
+  25/6/2025 của Bộ trưởng Bộ Dân tộc và Tôn giáo
+Ngày nhận báo cáo: 15/11 năm báo cáo
+Học sinh dân tộc thiểu số đi học đúng độ tuổi
+(Số liệu đến 30/9
+  năm báo cáo)
+Đơn vị báo cáo: Cơ quan công tác dân tộc và tôn
+  giáo cấp tỉnh
+Đơn vị nhận báo cáo: Bộ Dân tộc và Tôn giáo (Vụ Kế
+  hoạch - Tài chính)
+Tiểu học
+Trung học cơ sở
+Trung học phổ
+  thông
+Tổng số (người
+)
+Dân tộc thiểu số
+Tổng số (người)
+Dân tộc thiểu số
+Tổng số (người)
+Dân tộc thiểu số
+Tổng số (người)
+Học sinh DTTS
+  đi học đúng độ tuổi (người)
+Tổng số (người)
+Học sinh DTTS
+  đi học đúng độ tuổi (người)
+Tổng số (người)
+Học sinh DTTS
+  đi học đúng độ tuổi (người)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Tổng số
+Chia theo xã/phường/đặc khu
+(ghi theo danh mục đơn vị hành chính)
+Người lập biểu
+(Ký, họ tên
+)
+Ngày... tháng... năm...
+Thủ trưởng đơn vị
+(Ký, đóng dấu, họ tên
+)
+Biểu số 02.N/BC-BDTTG: Học sinh dân tộc thiểu số
+đi học đúng độ tuổi
+1. Khái niệm, phương pháp tính
+Học sinh: Khái niệm, phương pháp tính như biểu
+01.N/BC-DT
+- Học sinh tiểu học đi học đúng độ tuổi: 6 tuổi học
+lớp 1, 7 tuổi học lớp 2, 8 tuổi học lớp 3, 9 tuổi học lớp 4, 10 tuổi học lớp 5;
+- Học sinh trung học cơ sở đi học đúng độ tuổi: 11
+tuổi học lớp 6, 12 tuổi học lớp 7, 13 tuổi học lớp 8, 14 tuổi học lớp 9;
+- Học sinh trung học phổ thông đi học đúng độ tuổi:
+15 tuổi học lớp 10, 16 tuổi học lớp 11, 17 tuổi học lớp 12.
+2. Cách ghi biểu
+- Cột 1: Ghi tổng số học học tiểu học cả tỉnh, chia
+theo xã, phường, đặc khu tương ứng theo các dòng tương ứng của cột A.
+- Cột 2: Ghi tổng số học sinh dân tộc thiểu số cấp
+tiểu học cả tỉnh, chia theo xã, phường, đặc khu tương ứng theo các dòng tương ứng
+của cột A.
+- Cột 3: Ghi số học sinh dân tộc thiểu số đi học
+đúng độ tuổi cấp tiểu học cả tỉnh, chia theo xã, phường, đặc khu tương ứng theo
+các dòng tương ứng của cột A.
+- Cột 4: Ghi tổng số học sinh trung học cơ sở cả tỉnh,
+chia theo xã, phường, đặc khu tương ứng theo các dòng tương ứng của cột A.
+- Cột 5: Ghi tổng số học sinh dân tộc thiểu số cấp
+trung học cơ sở cả tỉnh, chia theo xã, phường, đặc khu tương ứng theo các dòng
+tương ứng của cột A.
+- Cột 6: Ghi số học sinh dân tộc thiểu số đi học
+đúng độ tuổi cấp trung học cơ sở cả tỉnh, chia theo xã, phường, đặc khu tương ứng
+theo các dòng tương ứng của cột A.
+- Cột 7: Ghi tổng số học sinh trung học phổ thông của
+tỉnh, chia theo xã, phường, đặc khu tương ứng theo các dòng tương ứng của cột
+A.
+- Cột 8: Ghi tổng số học sinh dân tộc thiểu số cấp
+trung học phổ thông của cả tỉnh, chia theo xã, phường, đặc khu tương ứng theo
+các dòng tương ứng của cột A.
+- Cột 9: Ghi số học sinh dân tộc thiểu số đi học
+đúng độ tuổi cấp trung học phổ thông của cả tỉnh, chia theo xã, phường, đặc khu
+tương ứng theo các dòng tương ứng của cột A.
+3. Nguồn số liệu
+Sở Giáo dục và Đào tạo theo chế độ báo cáo thống kê
+của Bộ Giáo dục và Đào tạo.
+Biểu số: 03.N/BC-BDTTG
+Ban hành theo Thông tư số 07/2025/TT-BDTTG ngày
+  25/6/2025 của Bộ trưởng Bộ Dân tộc và Tôn giáo Ngày nhận báo cáo: 15/11 năm
+  báo cáo
+Số học sinh người dân tộc thiểu số bỏ học, lưu ban
+(Số liệu tính đến
+  31/5 năm báo cáo)
+Đơn vị báo cáo: Cơ quan công tác dân tộc và tôn
+  giáo cấp tỉnh Đơn vị nhận báo cáo: Bộ Dân tộc và Tôn giáo (Vụ Kế hoạch - Tài
+  chính)
+TT
+Chỉ tiêu
+Tổng số học
+  sinh dân tộc thiểu số đầu năm học (người)
+Số học sinh dân
+  tộc thiểu số bỏ học, lưu ban
+Tỷ lệ học sinh
+  DTTS bỏ học, lưu ban (%)
+Tổng số
+(người)
+Nữ
+(người)
+A
+B
+1
+2
+3
+4
+Tổng số
+1
+Học sinh Tiểu học
+1.1
+Học sinh bỏ học
+x
+1.2
+Học sinh lưu ban
+x
+-
+Lớp 1
+-
+Lớp 2
+-
+Lớp 3
+-
+Lớp 4
+-
+Lớp 5
+2
+Học sinh THCS
+2.1
+Học sinh bỏ học
+x
+2.2
+Học sinh lưu ban
+x
+-
+Lớp 6
+-
+Lớp 7
+-
+Lớp 8
+-
+Lớp 9
+3
+Học sinh THPT
+3.1
+Học sinh bỏ học
+x
+3.2
+Học sinh lưu ban
+x
+-
+Lớp 10
+-
+Lớp 11
+-
+Lớp 12
+Người lập biểu
+(Ký, ghi rõ họ tên)
+..., ngày ... tháng ... năm ...
+Thủ trưởng đơn vị
+(Ký, đóng dấu, ghi rõ họ tên)
+Biểu số 03.N/BC-BDTTG: Số học sinh người dân tộc
+thiểu số bỏ học, lưu ban
+1. Khái niệm, phương pháp tính
+a) Tỷ lệ học sinh người dân tộc thiểu số bỏ học
+Tỷ lệ học sinh người dân tộc thiểu số bỏ học
+năm học t là số phần trăm học sinh người dân tộc thiểu số bỏ học năm học t
+trong tổng số học sinh người dân tộc thiểu số nhập học đầu năm học.
+Tỷ lệ học sinh bỏ học được tính theo cấp.
+Tỷ lệ học sinh người
+  dân tộc thiểu số lưu ban cấp m trong năm học t (%)
+=
+Số học sinh người
+  dân tộc thiểu số bỏ học cấp m năm học t
+× 100
+Tổng số học sinh
+  người dân tộc thiểu số nhập học cấp m đầu năm học t
+m = I, II, III
+Tỷ lệ học sinh lưu ban được tính theo lớp và theo cấp.
+Tỷ lệ học sinh người
+  dân tộc thiểu số lưu ban = cấp m trong năm học t (%)
+=
+Số học sinh người
+  dân tộc thiểu số lưu ban cấp m năm học t
+x 100
+Tổng số học sinh
+  người dân tộc thiểu số nhập học cấp m đầu năm học t
+m = I, II, III
+2. Cách ghi biểu
+- Cột 1: Ghi tổng số học sinh dân tộc thiểu số đầu
+năm học theo cấp học và lớp học tương ứng với từng dòng của cột B, không ghi số
+liệu và dòng có đánh dấu “x”.
+- Cột 2: Ghi tổng số học sinh dân tộc thiểu số bỏ học,
+lưu ban tương ứng với từng dòng của cột B.
+- Cột 3: Ghi số học sinh nữ dân tộc thiểu số bỏ học,
+lưu ban tương ứng với từng dòng của cột B.
+- Cột 4: Ghi tỷ lệ học sinh dân tộc thiểu số bỏ học,
+hoặc lưu ban tương ứng với từng dòng của cột B.
+3. Nguồn số liệu
+Sở Giáo dục và Đào tạo theo chế độ báo cáo thống kê
+của Bộ Giáo dục và Đào tạo
+Biểu số: 04.N/BC-BDTT
+Ban hành theo Thông tư số 07/2025/TT-BDTTG ngày
+  25/6/2025 của Bộ trưởng Bộ Dân tộc và Tôn giáo
+Ngày nhận báo cáo: 15/3 năm sau
+Số lượng, tỷ lệ các thôn bản vùng dân tộc thiểu số
+  đã có đường giao thông được đầu tư nâng cấp, cải tạo, xây dựng mới
+(Năm)
+Đơn vị báo cáo: Cơ quan công tác dân tộc và tôn
+  giáo cấp tỉnh
+Đơn vị nhận báo cáo: Bộ Dân tộc và Tôn giáo (Vụ Kế
+  hoạch - Tài chính)
+Số thôn bản vùng
+  dân tộc thiểu số
+(Thôn/bản)
+Số thôn bản vùng
+  dân tộc thiểu số đã có đường giao thông được đầu tư nâng cấp, cải tạo, xây dựng
+mới
+(Thôn/bản)
+Tỷ lệ thôn bản
+  vùng dân tộc thiểu số đã có đường giao thông được đầu tư nâng cấp, cải tạo,
+  xây dựng mới
+(%)
+A
+1
+2
+3
+Tổng số
+Chia theo xã/phường/đặc khu
+Người lập biểu
+(Ký, ghi rõ họ tên)
+..., ngày ... tháng ... năm ...
+Thủ trưởng đơn vị
+(Ký, đóng dấu, ghi rõ họ tên)
+Biểu số 04.N/BC-BDTTG: Số lượng, tỷ lệ các thôn
+bản vùng dân tộc thiểu số đã có đường giao thông được đầu tư nâng cấp, cải tạo,
+xây dựng mới
+1. Khái niệm, phương pháp tính
+Tỷ lệ thôn bản (cấp thôn gồm:thôn/buôn/bản/xóm/làng/phum/sóc)
+vùng dân tộc thiểu số có đường giao thông được nâng cấp, cải tạo, xây dựng mới
+được xác định tại thời điểm báo cáo theo công thức.
+Tỷ lệ thôn bản vùng dân tộc thiểu số có đường
+  giao thông được nâng cấp, cải tạo, xây dựng mới (%)
+=
+Số thôn bản có đường
+  giao thông được nâng cấp, cải tạo, xây dựng mới tại thời điểm báo cáo
+x 100
+Tổng số thôn bản
+  cùng thời điểm báo cáo
+2. Cách ghi biểu
+- Cột A: Ghi theo danh mục hành chính của địa
+phương: xã/phường thuộc tỉnh.
+- Cột 1: Ghi số thôn bản vùng dân tộc thiểu số.
+- Cột 2: Ghi số thôn bản vùng dân tộc thiểu số đã
+có đường giao thông được đầu tư nâng cấp, cải tạo, xây dựng mới.
+- Cột 3: Ghi tỷ lệ thôn bản vùng dân tộc thiểu số
+đã có đường giao thông được đầu tư nâng cấp, cải tạo, xây dựng mới.
+3. Nguồn số liệu
+Cơ quan công tác dân tộc và tôn giáo cấp tỉnh tổng
+hợp từ báo cáo của các xã vùng dân tộc thiểu số.
+Biểu số: 05.N/BC-BDTTG
+Ban hành theo Thông tư số 07/2025/TT-BDTTG ngày
+  25/6/2025 của Bộ trưởng Bộ Dân tộc và Tôn giáo
+Ngày nhận báo cáo: 15/3 năm sau
+Hộ nghèo và cận nghèo người dân tộc thiểu số
+(Năm, số liệu từ
+  01/1 đến 31/12)
+Đơn vị nhận báo cáo: Bộ Dân tộc và Tôn giáo (Vụ Kế
+  hoạch - Tài chính)
+Đơn vị báo cáo: Cơ quan công tác dân tộc và tôn
+  giáo cấp tỉnh
+Đơn vị tính: hộ
+Tổng số hộ
+Trong đó số hộ
+  DTTS
+Số hộ nghèo
+  DTTS
+Số hộ cận nghèo
+  DTTS
+Số hộ thoát
+  nghèo DTTS
+Số hộ nghèo
+  DTTS phát sinh mới
+Số hộ DTTS tái
+  nghèo
+Tỷ lệ hộ nghèo
+  DTTS (%)
+Tỷ lệ hộ cận
+  nghèo DTTS (%)
+A
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1. Tổng số
+2. Chia theo xã/phường/đặc khu
+Người lập biểu
+(Ký, ghi rõ họ tên)
+..., ngày ... tháng ... năm ...
+Thủ trưởng đơn vị
+(Ký, đóng dấu, ghi rõ họ tên)
+Biểu số 05.N/BC-BDTTG: Hộ nghèo và cận nghèo người
+dân tộc thiểu số
+1. Khái niệm, phương pháp tính
+- Hộ nghèo, hộ cận nghèo là hộ gia đình qua điều
+tra, rà soát hằng năm ở cơ sở đáp ứng các tiêu chí về xác định hộ nghèo, hộ cận
+nghèo được quy định tại
+điểm a và b khoản 2 Điều 3 Nghị định số
+07/2021/NĐ-CP
+ngày 27/01/2021 của Chính phủ quy định chuẩn nghèo đa chiều
+giai đoạn 2021 - 2025 và được Chủ tịch Ủy ban nhân dân cấp xã quyết định công
+nhận thuộc danh sách hộ nghèo, hộ cận nghèo trên địa bàn.
+- Hộ thoát nghèo là hộ nghèo thuộc danh sách địa
+phương quản lý nhưng qua điều tra, rà soát hằng năm ở cơ sở được xác định không
+thuộc nhóm đối tượng hộ nghèo theo tiêu chí về xác định hộ nghèo và được Chủ tịch
+Ủy ban nhân dân cấp xã quyết định công nhận là hộ thoát nghèo.
+Hộ thoát nghèo bao gồm:
+a) Hộ thoát nghèo và trở thành hộ cận nghèo;
+b) Hộ thoát nghèo vượt qua mức chuẩn hộ cận nghèo
+là hộ có thu nhập bình quân đầu người/tháng từ mức sống trung bình trở lên
+(tiêu chí xác định mức sống trung bình theo quy định tại
+điểm c
+khoản 2 Điều 3 Nghị định số 07/2021/NĐ-CP
+ngày 27/01/2021 của Chính phủ quy
+định chuẩn nghèo đa chiều giai đoạn 2021 - 2025).
+- Hộ nghèo phát sinh là hộ không thuộc danh sách hộ
+nghèo địa phương đang quản lý nhưng phát sinh khó khăn đột xuất trong năm, qua
+điều tra, rà soát hằng năm ở cơ sở đáp ứng các tiêu chí về xác định hộ nghèo, hộ
+cận nghèo và được Chủ tịch Ủy ban nhân dân cấp xã quyết định công nhận là hộ
+nghèo trên địa bàn.
+- Hộ tái nghèo là hộ trước đây thuộc danh sách hộ
+nghèo địa phương quản lý, đã được công nhận thoát nghèo, nhưng do phát sinh khó
+khăn đột xuất trong năm, qua điều tra, rà soát hằng năm ở cơ sở đáp ứng các
+tiêu chí về xác định hộ nghèo và được Chủ tịch Ủy ban nhân dân cấp xã quyết định
+công nhận là hộ nghèo trên địa bàn.
+a) Tỷ lệ hộ nghèo người dân tộc thiểu số là số phần
+trăm về số hộ gia đình người dân tộc thiểu số có mức thu nhập (hoặc chi tiêu)
+bình quân đầu người thấp hơn chuẩn nghèo trong tổng số hộ gia đình người dân tộc
+thiểu số được nghiên cứu.
+Công thức như sau:
+Tỷ lệ hộ nghèo người
+  dân tộc thiểu số (%)
+=
+Số hộ gia đình người
+  dân tộc thiểu số có thu nhập (chi tiêu) bình quân đầu người thấp hơn chuẩn
+  nghèo
+x 100
+Tổng số hộ gia
+  đình người dân tộc thiểu số được nghiên cứu
+b) Tỷ lệ hộ gia đình người dân tộc thiểu số cận
+nghèo
+Tỷ lệ hộ gia đình người dân tộc thiểu số cận nghèo
+là số phần trăm về số hộ gia đình người dân tộc thiểu số có mức thu nhập (hoặc
+chi tiêu) bình quân đầu người nằm trong chuẩn cận nghèo quốc gia trong tổng số
+hộ gia đình người dân tộc thiểu số được nghiên cứu.
+Công thức như sau:
+Tỷ lệ hộ gia đình
+  người dân tộc thiểu = số cận nghèo (%)
+=
+Số hộ gia đình người
+  dân tộc thiểu số có thu nhập (hoặc chi tiêu) bình quân đầu người nằm trong
+  chuẩn cận nghèo quốc gia
+x 100
+Tổng số hộ gia
+  đình người dân tộc thiểu số được nghiên cứu
+2. Cách ghi biểu
+- Cột A: Ghi danh sách các xã, phường theo danh mục
+đơn vị hành chính Việt Nam.
+- Cột 1: Ghi tổng số hộ trên địa bàn.
+- Cột 2: Ghi tổng số hộ người dân tộc thiểu số trên
+địa bàn tương ứng.
+- Cột 3: Ghi số hộ nghèo người dân tộc thiểu số.
+- Cột 4: Ghi số hộ cận nghèo người dân tộc thiểu số.
+- Cột 5: Ghi số hộ dtts thoát nghèo.
+- Cột 6: Ghi số hộ dtts nghèo phát sinh mới.
+- Cột 7: Ghi số hộ dtts tái nghèo.
+- Cột 8: Ghi tỷ lệ hộ nghèo dân tộc thiểu số.
+- Cột 9: Ghi tỷ lệ hộ cận nghèo dân tộc thiểu số.
+3. Nguồn số liệu
+Sở Nông nghiệp và Môi trường tỉnh, thành phố trực
+thuộc Trung ương theo kết quả rà soát hộ nghèo hàng năm và theo chế độ báo cáo
+thống kê của ngành nông nghiệp và môi trường.
+Cơ quan công tác dân tộc và tôn giáo cấp tỉnh tổng
+hợp từ báo cáo của các xã vùng dân tộc thiểu số.
+Biểu số: 06.K/BC-BDTTG
+Ban hành theo Thông tư số 07/2025/TT-BDTTG ngày
+  25/6/2025 của Bộ trưởng Bộ Dân tộc và Tôn giáo
+Ngày nhận báo cáo: Ngày 30/7 năm đầu nhiệm kỳ
+Số lượng đại biểu hội đồng nhân dân các cấp là người
+  dân tộc thiểu số
+(Nhiệm kỳ)
+Đơn vị báo cáo: Cơ quan công tác dân tộc và tôn
+  giáo cấp tỉnh
+Đơn vị nhận báo cáo: Bộ Dân tộc và Tôn giáo (Vụ Kế
+  hoạch - Tài chính)
+Đơn vị tính: Người
+Mã số
+Tổng số đại biểu
+  HĐND
+Cấp tỉnh
+Cấp xã
+Tổng số
+Trong đó: Nữ
+Tổng số
+Trong đó: Nữ
+A
+B
+1
+2
+3
+4
+5
+Tổng số
+01
+Chia theo dân tộc
+- Kinh
+10
+- Dân tộc thiểu số
+11
+Người lập biểu
+(Ký, ghi rõ họ tên)
+..., ngày ... tháng ... năm ...
+Thủ trưởng đơn vị
+(Ký, đóng dấu, ghi rõ họ tên)
+Biểu số 06.K/BC-BDTTG. Số đại biểu hội đồng nhân
+dân các cấp là người dân tộc thiểu số
+1. Khái niệm, phương pháp tính
+Hội đồng nhân dân là cơ quan quyền lực nhà nước ở địa
+phương, đại diện cho ý chí, nguyện vọng và quyền làm chủ của nhân dân, do nhân
+dân địa phương bầu ra, chịu trách nhiệm trước nhân dân địa phương và cơ quan
+nhà nước cấp trên. Đại biểu Hội đồng nhân dân là người đại diện cho ý chí, nguyện
+vọng của Nhân dân địa phương; liên hệ chặt chẽ với cử tri, chịu sự giám sát của
+cử tri, thực hiện chế độ tiếp xúc, báo cáo với cử tri về hoạt động của mình và
+của Hội đồng nhân dân, trả lời những yêu cầu, kiến nghị của cử tri; xem xét,
+đôn đốc việc giải quyết khiếu nại, tố cáo.
+Số đại biểu Hội đồng nhân dân là số lượng đại biểu
+được bầu ra tại cuộc bầu cử Hội đồng nhân dân các cấp (tỉnh, xã) trong 01 nhiệm
+kỳ.
+2. Cách ghi biểu
+Cột 1: Ghi tổng số đại biểu Hội đồng nhân dân của cả
+tỉnh tương ứng với các dòng của cột A.
+Cột 2: Ghi tổng số đại biểu Hội đồng nhân dân của cấp
+tỉnh tương ứng với các dòng của cột A.
+Cột 3: Ghi số đại biểu nữ Hội đồng nhân dân của cấp
+tỉnh tương ứng với các dòng của cột A.
+Cột 4: Ghi tổng số đại biểu Hội đồng nhân dân của cấp
+xã tương ứng với các dòng của cột A.
+Cột 5: Ghi số đại biểu nữ Hội đồng nhân dân của cấp
+xã tương ứng với các dòng của cột A.
+3. Nguồn số liệu
+Sở Nội vụ cung cấp theo chế độ báo cáo thống kê của
+Bộ Nội vụ.
+Biểu số: 07.N/BC-BDTTG
+Ban hành theo Thông tư số 07/2025/TT-BDTTG ngày
+  25/6/2025 của Bộ trưởng Bộ Dân tộc và Tôn giáo
+Ngày nhận báo cáo: 15/3 năm sau
+Số lượng công chức trong các cơ quan công tác dân
+  tộc và tôn giáo các cấp
+(Năm)
+Đơn vị báo cáo: Cơ quan công tác dân tộc và tôn
+  giáo cấp tỉnh, Vụ Tổ chức cán bộ
+Đơn vị nhận báo cáo: Bộ Dân tộc và Tôn giáo (Vụ Kế
+  hoạch - Tài chính)
+Đơn vị tính: Người
+Tổng số
+Cấp trung ương
+Cấp tỉnh
+Cấp xã
+Tổng số
+Trong đó
+Tổng số
+Trong đó
+Tổng số
+Trong đó
+Nữ
+DTTS
+Nữ DTTS
+Nữ
+DTTS
+Nữ DTTS
+Nữ
+DTTS
+Nữ DTTS
+A
+1= 2+6+10
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+Tổng số
+1. Trong đó: Đảng viên
+2. Chia theo tôn giáo
+- Không tôn giáo
+- Có theo tôn giáo
+3. Chia theo nhóm tuổi
+- Từ 30 trở xuống
+-Từ 31 đến 40
+- Từ 41 đến 50
+- Từ 51 đến 55
+- Từ 56 đến 60
+- Trên 60 tuổi
+4. Chia theo ngạch công chức
+- Nhân viên
+- Cán sự và TĐ
+- Chuyên viên và TĐ
+- Chuyên viên chính và TĐ
+- Chuyên viên cao cấp và TĐ
+5. Chia theo trình độ đào tạo
+- Sơ cấp
+- Trung cấp
+- Cao đẳng
+- Đại học
+- Trên đại học
+Người lập biểu
+(Ký, họ tên)
+..., ngày ... tháng ... năm ...
+Thủ trưởng đơn vị
+(Ký, họ tên, đóng dấu)
+Biểu số 07.N/BC-BDTTG: Số lượng công chức trong
+cơ quan công tác dân tộc và tôn giáo các cấp
+1. Khái niệm, phương pháp tính
+Công chức là công dân Việt Nam, được tuyển dụng
+theo vị trí việc làm trong cơ quan của Đảng Cộng sản Việt Nam, Nhà nước, Mặt trận
+Tổ quốc Việt Nam, tổ chức chính trị - xã hội ở trung ương, cấp tỉnh, cấp cơ sở,
+trong biên chế và hưởng lương từ ngân sách nhà nước. (
+Khoản 2 Điều
+1 Luật Cán bộ, Công chức 2025
+).
+Số lượng công chức cấp xã trở lên là tổng số người
+thỏa mãn khái niệm nêu trên tính đến thời điểm 31/12.
+2. Cách ghi biểu
+Cột 1: Ghi tổng số lượng công chức từ cấp xã trở
+lên tương ứng với các dòng của cột A.
+Cột 2: Ghi tổng số lượng công chức cấp trung ương
+tương ứng với các dòng của cột A.
+Cột 3: Ghi số lượng nữ công chức cấp trung ương
+tương ứng với các dòng của cột A.
+Cột 4: Ghi số lượng công chức người dân tộc thiểu số
+cấp trung ương tương ứng với các dòng của cột A.
+Cột 5: Ghi số lượng nữ công chức người dân tộc thiểu
+số cấp trung ương tương ứng với các dùng của cột A.
+Cột 6: Ghi tổng số lượng công chức cấp tỉnh tương ứng
+với các dòng của cột A.
+Cột 7: Ghi số lượng nữ công chức cấp tỉnh tương ứng
+với các dòng của cột A.
+Cột 8: Ghi số lượng công chức người dân tộc thiểu số
+cấp tỉnh tương ứng với các dòng của cột A.
+Cột 9: Ghi số lượng nữ công chức người dân tộc thiểu
+số cấp tỉnh tương ứng với các dùng của cột A.
+Cột 10: Ghi tổng số lượng công chức cấp xã tương ứng
+với các dòng của cột A.
+Cột 11: Ghi số lượng nữ công chức cấp xã tương ứng
+với các dòng của cột A.
+Cột 12: Ghi số lượng công chức người dân tộc thiểu
+số cấp xã tương ứng với các dòng của cột A.
+Cột 13: Ghi số lượng nữ công chức người dân tộc thiểu
+số xã tương ứng với các dùng của cột A.
+3. Nguồn số liệu
+a) Vụ Tổ chức cán bộ, Bộ Dân tộc và Tôn giáo báo
+cáo cấp Trung ương (Bộ Dân tộc và Tôn giáo).
+b) Cơ quan công tác dân tộc và tôn giáo cấp tỉnh
+báo cáo số liệu của cơ quan công tác dân tộc và tôn giáo cấp tỉnh, cấp xã.
+Biểu số: 08.N/BC-BDTTG
+Ban hành theo Thông tư số 07/2025/TT-BDTTG ngày 25/6/2025
+  của Bộ trưởng Bộ Dân tộc và Tôn giáo
+Ngày nhận báo cáo: 15/3 năm sau
+Số lượng viên chức trong các đơn vị sự nghiệp thuộc
+  Bộ Dân tộc và Tôn giáo
+(Năm)
+Đơn vị báo cáo: Đơn vị sự nghiệp thuộc, trực thuộc
+  Bộ Dân tộc và Tôn giáo
+Đơn vị nhận báo cáo: Bộ Dân tộc và Tôn giáo (Vụ Kế
+  hoạch - Tài chính)
+Đơn vị tính: Người
+Tổng số
+Trong đó
+Nữ
+Dân tộc thiểu số
+Nữ dân tộc thiểu số
+A
+1
+2
+3
+4
+Tổng số
+1. Trong đó: Đảng viên
+2. Chia theo tôn giáo
+- Không tôn giáo
+- Có theo tôn giáo
+3. Chia theo nhóm tuổi
+- Từ 30 trở xuống
+-Từ 31 đến 40
+-Từ 41 đến 50
+- Từ 51 đến 55
+- Từ 56 đến 60
+- Trên 60 tuổi
+4. Chia theo chức danh nghề nghiệp viên chức
+- Hang I
+- Hạng II
+- Hạng III
+- Hạng IV
+5. Chia theo trình độ đào tạo
+- Sơ cấp
+- Trung cấp
+- Cao đẳng
+- Đại học
+- Trên đại học
+Người lập biểu
+(Ký, họ tên)
+..., ngày ... tháng ... năm ...
+Thủ trưởng đơn vị
+(Ký, họ tên, đóng dấu)
+Biểu số 08.N/BC-BDTTG: Số lượng viên chức trong
+các đơn vị sự nghiệp thuộc Bộ Dân tộc và Tôn giáo
+1. Khái niệm, phương pháp tính
+Viên chức là công dân Việt Nam được tuyển dụng theo
+vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập theo chế độ hợp đồng
+làm việc, hưởng lương từ quỹ lương của đơn vị sự nghiệp công lập theo quy định
+của pháp luật. (
+Điều 2 Luật viên chức năm 2010
+; Luật sửa đổi,
+bổ sung một số điều của Luật Cán bộ, công chức và Luật Viên chức ngày 25 tháng
+11 năm 2019).
+Số lượng viên chức là tổng số viên chức đang làm việc,
+hưởng lương từ quỹ lương của đơn vị sự nghiệp công lập theo quy định của pháp
+luật tính đến thời điểm 31/12.
+2. Cách ghi biểu
+Cột 1: Ghi tổng số lượng viên chức tương ứng với
+các dòng của cột A.
+Cột 2: Ghi số nữ viên chức tương ứng với các dòng của
+cột A.
+Cột 3: Ghi số viên chức là người dân tộc thiểu số
+tương ứng với các dòng của cột A.
+Cột 4: Ghi số viên chức nữ là người dân tộc thiểu số
+tương ứng với các dòng của cột A.
+3. Nguồn số liệu
+Do đơn vị sự nghiệp thuộc, trực thuộc Bộ Dân tộc và
+Tôn giáo thực hiện.
+Biểu số: 09.N/BC-BDTTG
+Ban hành theo Thông tư số 07/2025/TT-BDTTG ngày
+  25/6/2025 của Bộ trưởng Bộ Dân tộc và Tôn giáo
+Ngày nhận báo cáo: 15/3 năm sau
+Số công chức, viên chức trong cơ quan công tác
+  dân tộc và tôn giáo các cấp được đào tạo, bồi dưỡng về công tác dân tộc, lý
+  luận chính trị, quản lý nhà nước và đào tạo khác
+(Năm)
+Đơn vị báo cáo: Cơ quan công tác dân tộc và tôn
+  giáo cấp tỉnh, Vụ Tổ chức cán bộ
+Đơn vị nhận báo cáo: Bộ Dân tộc và Tôn giáo (Vụ Kế
+  hoạch - Tài chính)
+Đơn vị tính: Người
+Tổng số
+Trong đó
+Nữ
+Dân tộc thiểu số
+Nữ dân tộc thiểu số
+A
+1
+2
+3
+4
+1. Tổng số
+2. Chia theo độ tuổi
+- Từ 30 trở xuống
+- Từ 31 đến 40
+-Từ 41 đến 50
+-Từ 51 đến 55
+- Từ 56 đến 60
+- Trên 60 tuổi
+3. Chia theo các khóa đào tạo
+- Lý luận chính trị
+- Quản lý nhà nước
+- Công tác dân tộc
+- Đào tạo khác
+Người lập biểu
+(Ký, ghi rõ họ tên)
+..., ngày ... tháng ... năm ...
+Thủ trưởng đơn vị
+(Ký, đóng dấu, ghi rõ họ tên)
+Biểu số 09.N/BC-BDTTG: Số công chức, viên chức trong
+cơ quan công tác dân tộc và tôn giáo các cấp được đào tạo, bồi dưỡng về công
+tác dân tộc, lý luận chính trị, quản lý nhà nước và đào tạo khác
+1. Khái niệm, phương pháp tính
+Số công chức thuộc khu vực quản lý nhà nước về công
+tác dân tộc được đào tạo, bồi dưỡng về lý luận chính trị, quản lý nhà nước và
+đào tạo khác là những công chức được cử tham dự các khóa hoặc được cấp chứng chỉ
+trong các chương trình đào tạo, bồi dưỡng về lý luận chính trị, quản lý nhà nước
+và các đào tạo khác trong năm báo cáo.
+2. Cách ghi biểu
+- Cột A: Ghi tổng số, chia theo độ tuổi, trình độ
+và danh sách các dân tộc theo danh mục các dân tộc Việt Nam.
+- Cột 1: Ghi số người được đào tạo.
+- Cột 2: Ghi số lượng nữ được đào tạo.
+- Cột 3: Ghi số lượng công chức dân tộc thiểu số được
+đào tạo.
+- Cột 4: Ghi số lượng nữ công chức dân tộc thiểu số
+được đào tạo.
+3. Nguồn số liệu
+a) Ở Trung ương: Bộ Dân tộc và Tôn giáo do Vụ Tổ chức
+cán bộ thực hiện.
+b) Ở địa phương: Cơ quan công tác dân tộc và tôn
+giáo cấp tỉnh thực hiện báo cáo, số liệu tổng hợp từ cơ quan công tác dân tộc
+và tôn giáo cấp tỉnh, xã.
+Biểu số: 10.N/BC-BDTTG
+Ban hành theo Thông tư số 07/2025/TT-BDTTG ngày
+  25/6/2025 của Bộ trưởng Bộ Dân tộc và Tôn giáo
+Ngày nhận báo cáo: 15/3 năm sau
+Số tôn giáo, số tổ chức tôn giáo, Số tổ chức tôn
+  giáo trực thuộc, Số tổ chức được cấp chứng nhận đăng ký hoạt động tôn giáo
+(Năm)
+Đơn vị báo cáo: Cơ quan công tác dân tộc và tôn
+  giáo cấp tỉnh
+Đơn vị nhận báo cáo: Bộ Dân tộc và Tôn giáo (Vụ Kế
+  hoạch - Tài chính)
+Mã số
+Đơn vị tính
+Số lượng
+A
+B
+C
+1
+I. Số tôn giáo
+01
+Tôn giáo
+II. Số tổ chức tôn giáo
+02
+Tổ chức
+III. Số tổ chức được cấp chứng nhận đăng ký hoạt
+  động tôn giáo
+03
+Tổ chức
+IV. Số tổ chức tôn giáo trực thuộc
+04
+Tổ chức
+Người lập biểu
+(Ký, họ tên)
+..., ngày ... tháng ... năm ...
+Thủ trưởng đơn vị
+(Ký, họ tên, đóng dấu)
+Biểu số: 10.N/BC-BDTTG: Số tôn giáo, số tổ chức
+tôn giáo, số tổ chức tôn giáo trực thuộc, số tổ chức được cấp chứng nhận đăng
+ký hoạt động tôn giáo
+1. Khái niệm, phương pháp tính
+- Tôn giáo là niềm tin của con người tồn tại với hệ
+thống quan niệm và hoạt động bao gồm đối tượng tôn thờ, giáo lý, giáo luật, lễ
+nghi và tổ chức.
+- Tổ chức tôn giáo là tập hợp tín đồ, chức sắc, chức
+việc, nhà tu hành của một tôn giáo được tổ chức theo một cơ cấu nhất định được
+Nhà nước công nhận nhằm thực hiện các hoạt động tôn giáo.
+- Tổ chức được cấp chứng nhận đăng ký hoạt động tôn
+giáo là tổ chức được cơ quan nhà nước có thẩm quyền cấp chứng nhận đăng ký hoạt
+động tôn giáo theo quy định của Luật tín ngưỡng, tôn giáo.
+- Tổ chức tôn giáo trực thuộc là tổ chức thuộc tổ
+chức tôn giáo, được thành lập theo hiến chương, điều lệ, quy định của tổ chức
+tôn giáo.
+- Phương pháp tính: Số lượng tôn giáo, tổ chức tôn
+giáo, tổ chức được cấp chứng nhận đăng ký hoạt động tôn giáo, tổ chức tôn giáo
+trực thuộc hiện có đến thời điểm thống kê.
+2. Cách ghi biểu
+Cột 1: Ghi số tôn giáo; số tổ chức tôn giáo, số tổ
+chức được cấp đăng ký hoạt động tôn giáo, số tổ chức tôn giáo trực thuộc tương ứng
+với các dòng của cột A hiện có đến thời điểm 31 tháng 12 năm báo cáo.
+3. Nguồn số liệu
+Số liệu thống kê do cơ quan công tác dân tộc và tôn
+giáo cấp tỉnh chịu trách nhiệm thu thập, tổng hợp.
+Biểu số: 11.N/BC-BDTTG
+Ban hành theo Thông tư số 07/2025/TT-BDTTG ngày
+  25/6/2025 của Bộ trưởng Bộ Dân tộc và Tôn giáo
+Ngày nhận báo cáo: 15/3 năm sau
+Số chức sắc, chức việc, tín đồ tôn giáo
+(Năm)
+Đơn vị báo cáo: Cơ quan công tác dân tộc và tôn
+  giáo cấp tỉnh
+Đơn vị nhận báo cáo: Bộ Dân tộc và Tôn giáo (Vụ Kế
+  hoạch - Tài chính)
+Mã số
+Số chức sắc
+  (Người)
+Số chức việc
+  (Người)
+Số tín đồ (Người)
+A
+B
+1
+2
+3
+Tổng số
+01
+Chia theo tôn giáo
+Công giáo
+02
+Phật giáo
+03
+Tin lành
+04
+Cao Đài
+05
+Phật giáo Hòa Hảo
+06
+Hồi giáo
+07
+Tôn giáo Baha'i
+08
+Tịnh độ Cư sỹ Phật hội Việt Nam
+09
+Phật giáo Tứ Ân Hiếu nghĩa
+10
+Bửu Sơn Kỳ hương
+11
+Minh Sư đạo
+12
+Minh Lý đạo - Tam Tông Miếu
+13
+Bà-la-môn giáo
+14
+Mặc Môn
+15
+Phật giáo Hiếu nghĩa Tà lơn
+16
+Cơ đốc Phục Lâm
+17
+Các tôn giáo khác (các tổ chức được công nhận tổ
+  chức tôn giáo, được cấp chứng nhận đăng ký hoạt động tôn giáo sau năm 2023)
+18
+Người lập biểu
+(Ký, ghi rõ họ tên)
+..., ngày ... tháng ... năm ...
+Thủ trưởng đơn vị
+(Ký, đóng dấu, ghi rõ họ tên)
+Biểu số: 11.N/BC-BDTTG: Số chức sắc, chức việc,
+tín đồ tôn giáo
+1. Khái niệm, phương pháp tính
+- Chức sắc là tín đồ được tổ chức tôn giáo phong phẩm
+hoặc suy cử để giữ phẩm vị trong tổ chức.
+- Chức việc là người được tổ chức tôn giáo, tổ chức
+tôn giáo trực thuộc, tổ chức được cấp chứng nhận đăng ký hoạt động tôn giáo bổ
+nhiệm, bầu cử hoặc suy cử để giữ chức vụ trong tổ chức.
+- Tín đồ là người tin, theo một tôn giáo và được tổ
+chức tôn giáo đó thừa nhận.
+- Phương pháp tính: Số lượng chức sắc, chức việc,
+tín đồ hiện có đến thời điểm thống kê.
+2. Cách ghi biểu
+Cột 1: Ghi tổng số chức sắc và chia theo từng tôn
+giáo tương ứng với các dòng của cột A có đến thời điểm 31 tháng 12 năm báo cáo.
+Cột 2: Ghi tổng số chức việc và chia theo từng tôn
+giáo tương ứng với các dòng của cột A có đến thời điểm 31 tháng 12 năm báo cáo.
+Cột 3: Ghi tổng số tín đồ và chia theo từng tôn
+giáo tương ứng với các dòng của cột A có đến thời điểm 31 tháng 12 năm báo cáo.
+3. Nguồn số liệu
+Số liệu thống kê do cơ quan công tác dân tộc và tôn
+giáo cấp tỉnh chịu trách nhiệm thu thập, tổng hợp.
+Biểu số: 12.N/BC-BDTTG
+Ban hành theo Thông tư số 07/2025/TT-BDTTG ngày 25/6/2025
+  của Bộ trưởng Bộ Dân tộc và Tôn giáo
+Ngày nhận báo cáo: 15/3 năm sau
+Số cơ sở tôn giáo
+(Năm)
+Đơn vị báo cáo: Cơ quan công tác dân tộc và tôn
+  giáo cấp tỉnh
+Đơn vị nhận báo cáo: Bộ Dân tộc và Tôn giáo (Vụ Kế
+  hoạch - Tài chính)
+Mã số
+Số cơ sở thờ tự
+  (Cơ sở)
+Số cơ sở đào tạo
+  (Cơ sở)
+Số cơ sở bảo trợ
+  xã hội (Cơ sở)
+A
+B
+1
+2
+3
+Tổng số
+01
+Chia theo tôn giáo
+Công giáo
+02
+Phật giáo
+03
+Tin lành
+04
+Cao Đài
+05
+Phật giáo Hòa Hảo
+06
+Hồi giáo
+07
+Tôn giáo Baha'i
+08
+Tịnh độ Cư sỹ Phật hội Việt Nam
+09
+Phật giáo Tứ Ân Hiếu nghĩa
+10
+Bửu Sơn Kỳ hương
+11
+Minh Sư đạo
+12
+Minh Lý đạo - Tam Tông Miếu
+13
+Bà-la-môn giáo
+14
+Mặc Môn
+15
+Phật giáo Hiếu nghĩa Tà lơn
+16
+Cơ đốc Phục Lâm
+17
+Các tôn giáo khác (các tổ chức được công nhận tổ
+  chức tôn giáo, được cấp chứng nhận đăng ký hoạt động tôn giáo sau năm 2023)
+18
+Người lập biểu
+(Ký, ghi rõ họ tên)
+..., ngày ... tháng ... năm ...
+Thủ trưởng đơn vị
+(Ký, đóng dấu, ghi rõ họ tên)
+Biểu số: 12.N/BC-BDTTG: Số cơ sở tôn giáo
+1. Khái niệm, phương pháp tính
+- Cơ sở tôn giáo gồm chùa, nhà thờ, nhà nguyện, thánh
+thất, thánh đường, trụ sở của tổ chức tôn giáo, cơ sở hợp pháp khác của tổ chức
+tôn giáo.
+- Phương pháp tính: Số lượng cơ sở tôn giáo hiện có
+đến thời điểm thống kê.
+2. Cách ghi biểu
+Cột 1: Ghi tổng số cơ sở thờ tự và chia theo từng
+tôn giáo tương ứng với các dòng của cột A có đến thời điểm 31 tháng 12 năm báo
+cáo.
+Cột 2: Ghi tổng số cơ sở đào tạo và chia theo từng
+tôn giáo tương ứng với các dòng của cột A có đến thời điểm 31 tháng 12 năm báo
+cáo.
+Cột 3: Ghi tổng số cơ sở bảo trợ xã hội và chia
+theo từng tôn giáo tương ứng với các dòng của cột A có đến thời điểm 31 tháng
+12 năm báo cáo.
+3. Nguồn số liệu
+Số liệu thống kê do cơ quan công tác dân tộc và tôn
+giáo cấp tỉnh chịu trách nhiệm thu thập, tổng hợp.
+PHỤ LỤC 3
+MẪU BÁO CÁO KẾT QUẢ THỰC HIỆN CHẾ ĐỘ BÁO CÁO THỐNG KÊ
+CÔNG TÁC DÂN TỘC, TÍN NGƯỠNG, TÔN GIÁO
+(Ban hành kèm theo Thông tư số 07/2025/TT-BDTTG ngày 25 tháng 6 năm 2025 của
+Bộ trưởng Bộ Dân tộc và Tôn giáo)
+TÊN CƠ QUAN/
+  ĐƠN VỊ
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: .... /BC-tên
+  ĐV
+V/v thực hiện Chế độ báo cáo thống kê công
+  tác dân tộc, tín ngưỡng, tôn giáo năm...
+……, ngày …tháng
+  …năm 20….
+Kính gửi: Bộ Dân tộc
+và Tôn giáo
+Thực hiện Thông tư số 07/2025/TT-BDTTG ngày 25 tháng
+6 năm 2025 của Bộ trưởng Bộ Dân tộc và Tôn giáo quy định chế độ báo cáo thống
+kê công tác dân tộc, tín ngưỡng, tôn giáo; năm ... cơ quan/đơn vị đã hoàn thành
+các báo cáo thống kê công tác dân tộc, tín ngưỡng, tôn giáo sau:
+STT
+Ký hiệu biểu
+Tên biểu
+Biểu hoàn thành
+1
+2
+3
+4
+1.
+01.N/BC-BDTTG
+Tổng hợp số lượng trường, lớp, giáo viên, học
+  sinh giáo dục phổ thông
+2.
+02.N/BC-BDTTG
+Học sinh dân tộc thiểu số đi học đúng độ tuổi
+3.
+03.N/BC-BDTTG
+Số học sinh người dân tộc thiểu số bỏ học, lưu
+  ban
+4.
+04.N/BC-BDTTG
+Số lượng, tỷ lệ các thôn bản vùng dân tộc thiểu số
+  đã có đường giao thông được đầu tư nâng cấp, cải tạo, xây dựng mới
+5.
+05.N/BC-BDTTG
+Hộ nghèo và cận nghèo người dân tộc thiểu số
+6.
+06.K/BC-BDTTG
+Số lượng đại biểu hội đồng nhân dân các cấp là
+  người dân tộc thiểu số
+7.
+07.N/BC-BDTTG
+Số lượng công chức trong cơ quan công tác dân tộc
+  và tôn giáo các cấp
+8.
+08.N/BC-BDTTG
+Số lượng viên chức trong các đơn vị sự nghiệp thuộc
+  Bộ Dân tộc và Tôn giáo
+9.
+09.N/BC-BDTTG
+Số công chức, viên chức trong cơ quan công tác
+  dân tộc và tôn giáo các cấp được đào tạo, bồi dưỡng về công tác dân tộc, lý
+  luận chính trị, quản lý nhà nước và đào tạo khác
+10.
+10.N/BC-BDTTG
+Số tôn giáo, số tổ chức tôn giáo, số tổ chức tôn
+  giáo trực thuộc, số tổ chức được cấp chứng nhận đăng ký hoạt động tôn giáo
+11.
+11.N/BC-BDTTG
+Số chức sắc, chức việc, tín đồ tôn giáo
+12.
+12.N/BC-BDTTG
+Số cơ sở tôn giáo
+(Đánh dấu (x) vào
+Cột 4 biểu báo cáo thống kê đã hoàn thành)
+THỦ TRƯỞNG CƠ
+QUAN/ĐƠN VỊ
+(Ký, đóng dấu, ghi rõ họ tên)
+Lưu trữ
+Ghi chú
+Ý kiến
+Facebook
+Email
+In
+Thư Viện
+Nhà Đất
+Bán lỗ căn góc 2PN Lumiere Boulevard, 80m², giá 4,9 tỷ, trả trước 35%, còn lại trả chậm 1 năm
+4.9 tỷ
+,
+DT 80
+,
+Thành phố Thủ Đức, Hồ Chí Minh
+Bài liên quan:
+Nội dung chế độ báo cáo thống kê công tác dân tộc, tín ngưỡng, tôn giáo
+>> Xem thêm
+Bản án liên quan
+PHÁP LUẬT DOANH NGHIỆP
+Hỏi đáp pháp luật
+Thông tư 07/2025/TT-BDTTG quy định chế độ báo cáo thống kê công tác dân tộc, tín ngưỡng, tôn giáo do Bộ trưởng Bộ Dân tộc và Tôn giáo ban hành

@@ -1,0 +1,318 @@
+MỤC LỤC
+                                VĂN BẢN
+In mục lục
+QUYẾT ĐỊNH VỀ VIỆC PHÊ DUYỆT QUY TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH TRONG LĨNH VỰC QUẢN LÝ LAO ĐỘNG NGOÀI NƯỚC THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ NỘI VỤ TỈNH CAO BẰNG
+Điều 1. Phê duyệt kèm theo Quyết định này 04 quy trình nội bộ giải quyết thủ tục hành chính trong lĩnh vực quản lý lao động ngoài nước thuộc thẩm quyền giải quyết của Sở Nội vụ tỉnh Cao Bằng (chi tiết tại Phụ lục kèm theo).
+Điều 2. Giao Sở Nội vụ chủ trì, phối hợp với đơn vị cung cấp dịch vụ công nghệ thông tin căn cứ quy trình nội bộ giải quyết thủ tục hành chính được phê duyệt tại Điều 1 Quyết định này, xác lập quy trình điện tử giải quyết thủ tục hành chính áp dụng trên Hệ thống thông tin giải quyết thủ tục hành chính của tỉnh đảm bảo theo quy định.
+Điều 3. Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành.
+Điều 4. Chánh Văn phòng Ủy ban nhân dân tỉnh, Giám đốc Sở Nội vụ, Thủ trưởng các sở, ban ngành, Giám đốc Trung tâm Phục vụ hành chính công, Chủ tịch Ủy ban nhân dân các huyện, thành phố, Chủ tịch Ủy ban nhân dân các xã, phường, thị trấn và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
+PHỤ LỤC QUY TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH TRONG LĨNH VỰC QUẢN LÝ LAO ĐỘNG NGOÀI NƯỚC THUỘCTHẨM QUYỀN GIẢI QUYẾT CỦA SỞ NỘI VỤ TỈNH CAO BẰNG
+Quy trình số: 01 Đăng ký hợp đồng lao động trực tiếp giao kết (Mã TTHC: 2.002028)
+Quy trình số: 02 Đăng ký hợp đồng nhận lao động thực tập dưới 90 ngày (Mã TTHC: 1.005132)
+Quy trình số: 03 Hỗ trợ cho người lao động thuộc đối tượng là người dân tộc thiểu số, người thuộc hộ nghèo, cận nghèo, thân nhân người có công với cách mạng đi làm việc ở nước ngoài theo hợp đồng (Mã TTHC: 2.002105)
+Quy trình số: 04 Nhận lại tiền ký quỹ của doanh nghiệp đưa người lao động đi đào tạo, nâng cao trình độ, kỹ năng nghề ở nước ngoài (hợp đồng dưới 90 ngày) (Mã TTHC: 1.000502)
+ỦY BAN NHÂN DÂN
+TỈNH CAO BẰNG
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 686/QĐ-UBND
+Cao Bằng, ngày 23
+  tháng 5 năm 2025
+QUYẾT ĐỊNH
+VỀ VIỆC PHÊ DUYỆT QUY TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH
+CHÍNH TRONG LĨNH VỰC QUẢN LÝ LAO ĐỘNG NGOÀI NƯỚC THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA
+SỞ NỘI VỤ TỈNH CAO BẰNG
+CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH CAO BẰNG
+Căn cứ Luật Tổ chức chính
+quyền địa phương ngày 19 tháng 02 năm 2025;
+Căn cứ Nghị định số
+61/2018/NĐ-CP
+ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa,
+một cửa liên thông trong giải quyết thủ tục hành chính; Nghị định số
+107/2021/NĐ-CP
+ngày 06 tháng 12 năm 2021 về sửa đổi, bổ sung một số điều của
+Nghị định số
+61/2018/NĐ-CP
+ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện
+cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính;
+Căn cứ Thông tư số
+01/2018/TT-VPCP
+ngày 23 tháng 11 năm 2018 của Bộ trưởng, Chủ nhiệm Văn phòng
+Chính phủ hướng dẫn thi hành một số quy định của Nghị định số
+61/2018/NĐ-CP
+ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa
+liên thông trong giải quyết thủ tục hành chính;
+Căn cứ Quyết định số
+538/QĐ-UBND
+ngày 26 tháng 4 năm 2025 của Chủ tịch Ủy ban nhân dân tỉnh Cao Bằng
+về việc công bố danh mục thủ tục hành chính được sửa đổi, bổ sung trong lĩnh vực
+quản lý lao động ngoài nước thuộc thẩm quyền giải quyết của Sở Nội vụ tỉnh Cao
+Bằng;
+Theo đề nghị của Giám đốc Sở
+Nội vụ tại Tờ trình số 1078/TTr-SNV ngày 21 tháng 5 năm 2025.
+QUYẾT ĐỊNH:
+Điều 1.
+Phê duyệt kèm theo Quyết định này 04 quy trình nội bộ
+giải quyết thủ tục hành chính trong lĩnh vực quản lý lao động ngoài nước thuộc
+thẩm quyền giải quyết của Sở Nội vụ tỉnh Cao Bằng
+(chi tiết tại Phụ lục kèm
+theo).
+Điều 2.
+Giao Sở Nội vụ chủ trì, phối hợp với đơn vị cung cấp
+dịch vụ công nghệ thông tin căn cứ quy trình nội bộ giải quyết thủ tục hành
+chính được phê duyệt tại Điều 1 Quyết định này, xác lập quy trình điện tử giải
+quyết thủ tục hành chính áp dụng trên Hệ thống thông tin giải quyết thủ tục
+hành chính của tỉnh đảm bảo theo quy định.
+Điều 3.
+Quyết định này có hiệu lực thi hành kể từ ngày ký ban
+hành.
+Điều 4.
+Chánh Văn phòng Ủy ban nhân dân tỉnh, Giám đốc Sở Nội
+vụ, Thủ trưởng các sở, ban ngành, Giám đốc Trung tâm Phục vụ hành chính công,
+Chủ tịch Ủy ban nhân dân các huyện, thành phố, Chủ tịch Ủy ban nhân dân các xã,
+phường, thị trấn và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành
+Quyết định này./.
+KT. CHỦ TỊCH
+PHÓ CHỦ TỊCH
+Trịnh Trường Huy
+PHỤ LỤC
+QUY TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH TRONG LĨNH
+VỰC QUẢN LÝ LAO ĐỘNG NGOÀI NƯỚC THUỘCTHẨM QUYỀN GIẢI QUYẾT CỦA SỞ NỘI VỤ TỈNH
+CAO BẰNG
+(Kèm theo Quyết định số 686/QĐ-UBND ngày 23 tháng 5 năm 2025 của Chủ tịch
+UBND tỉnh Cao Bằng)
+Quy trình số: 01
+1. Quy trình nội bộ giải quyết
+TTHC:
+Đăng ký hợp đồng lao động trực tiếp giao kết
+(
+Mã TTHC: 2.002028
+)
+Thứ tự công việc
+Nội dung công việc
+Đơn vị thực hiện
+Thời gian thực hiện
+Bước 1
+Tiếp nhận hồ sơ:
+- Kiểm tra, hướng dẫn, tiếp
+  nhận, kiểm tra thành phần hồ sơ, quét (scan) và lưu trữ hồ sơ điện tử;
+- Viết phiếu tiếp nhận và hẹn
+  trả kết quả;
+- Chuyển hồ sơ về Sở Nội vụ để
+  xem xét, giải quyết.
+Bộ phận tiếp nhận và trả kết quả của Sở Nội vụ tại Trung tâm Phục vụ
+  hành chính công (TTPVHCC) tỉnh
+0,25 ngày làm việc
+Bước 2
+Xem xét, thẩm tra, xử lý hồ
+  sơ, phân công chuyên viên thụ lý hồ sơ
+Lãnh đạo Phòng Lao động, việc làm và chính sách
+0,25 ngày làm việc
+Bước 3
+Kiểm tra, xử lý hồ sơ
+Công chức Phòng Lao động, việc làm và chính sách
+02 ngày làm việc
+Bước 4
+Hoàn thiện hồ sơ trước khi
+  trình Lãnh đạo Sở ký phê duyệt
+Lãnh đạo Phòng Lao động, việc làm và chính sách
+01 ngày làm việc
+Bước 5
+Xem xét, ký phê duyệt kết quả
+  thủ tục hành chính
+Lãnh đạo Sở
+01 ngày làm việc
+Bước 6
+Vào số văn bản, lưu hồ sơ, chuyển
+  kết quả đến Bộ phận tiếp nhận và trả kết quả của Sở Nội vụ tại TTPVHCC tỉnh
+Văn thư Sở
+0,5 ngày làm việc
+Bước 7
+Xác nhận trên hệ thống thông
+  tin một cửa điện tử và trả kết quả cho cá nhân, tổ chức
+Bộ phận tiếp nhận và trả kết quả của Sở Nội vụ tại TTPVHCC tỉnh
+Không tính thời gian
+Tổng thời gian giải quyết
+05 ngày làm việc
+Quy trình số: 02
+2. Quy trình nội bộ giải quyết
+TTHC:
+Đăng ký hợp đồng nhận lao động thực tập dưới
+90 ngày (
+Mã TTHC: 1.005132
+)
+Thứ tự công việc
+Nội dung công việc
+Đơn vị thực hiện
+Thời gian thực hiện
+Bước 1
+Tiếp nhận hồ sơ:
+- Tiếp nhận, kiểm tra thành
+  phần hồ sơ, quét (scan) và lưu trữ hồ sơ điện tử;
+- Viết phiếu tiếp nhận và hẹn
+  trả kết quả;
+- Chuyển hồ sơ về Sở Nội vụ để
+  xem xét, giải quyết.
+Bộ phận tiếp nhận và trả kết quả của Sở Nội vụ tại TTPVHCC tỉnh
+0,25 ngày làm việc
+Bước 2
+Phân công chuyên viên thụ lý
+  hồ sơ
+Lãnh đạo Phòng Lao động, việc làm và chính sách
+0,25 ngày làm việc
+Bước 3
+Kiểm tra, xử lý hồ sơ
+Công chức Phòng Lao động, việc làm và chính sách
+02 ngày làm việc
+Bước 4
+Hoàn thiện hồ sơ trước khi
+  trình Lãnh đạo Sở ký phê duyệt
+Lãnh đạo Phòng Lao động, việc làm và chính sách
+01 ngày làm việc
+Bước 5
+Xem xét, ký phê duyệt kết quả
+  thủ tục hành chính
+Lãnh đạo Sở
+01 ngày làm việc
+Bước 6
+Vào số văn bản, lưu hồ sơ,
+  chuyển kết quả đến Bộ phận tiếp nhận và trả kết quả của Sở Nội vụ tại TTPVHCC
+  tỉnh
+Văn thư Sở
+0,5 ngày làm việc
+Bước 7
+Xác nhận trên hệ thống thông
+  tin một cửa điện tử và trả kết quả cho cá nhân, tổ chức
+Bộ phận tiếp nhận và trả kết quả của Sở Nội vụ tại TTPVHCC tỉnh
+Không tính thời gian
+Tổng thời gian giải quyết
+05 ngày làm việc
+Quy trình số: 03
+3. Quy trình nội bộ giải quyết
+TTHC:
+Hỗ trợ cho người lao động thuộc đối tượng là
+người dân tộc thiểu số, người thuộc hộ nghèo, cận nghèo, thân nhân người có
+công với cách mạng đi làm việc ở nước ngoài theo hợp đồng (
+Mã TTHC: 2.002105
+)
+Thứ tự công việc
+Nội dung công việc
+Đơn vị thực hiện
+Thời gian thực hiện
+Bước 1
+Tiếp nhận hồ sơ:
+- Kiểm tra, hướng dẫn, tiếp
+  nhận (hồ sơ đầy đủ và chính xác theo quy định) quét (scan) và lưu trữ hồ sơ
+  điện tử, chuyển Phòng chuyên môn xử lý;
+- Viết phiếu tiếp nhận và hẹn
+  trả kết quả;
+- Chuyển hồ sơ về Sở Nội vụ để
+  xem xét, giải quyết.
+Bộ phận tiếp nhận và trả kết quả của Sở Nội vụ tại TTPVHCC tỉnh
+0,5 ngày làm việc
+Bước 2
+Xem xét, thẩm tra, xử lý hồ
+  sơ, phân công chuyên viên thụ lý hồ sơ
+Lãnh đạo Phòng Lao động, việc làm và chính sách
+0,5 ngày làm việc
+Bước 3
+Kiểm tra, xử lý hồ sơ
+Công chức, lãnh đạo Phòng Lao động, việc làm và chính sách
+05 ngày làm việc
+Bước 4
+Xem xét, thẩm định, trình phê
+  duyệt kết quả giải quyết TTHC
+Lãnh đạo Phòng Lao động, việc làm và chính sách
+02 ngày làm việc
+Bước 5
+Xem xét, ký phê duyệt kết quả
+  thủ tục hành chính
+Lãnh đạo Sở
+1,5 ngày làm việc
+Bước 6
+Vào số văn bản, lưu hồ sơ,
+  chuyển kết quả đến Bộ phận tiếp nhận và trả kết quả của Sở Nội vụ tại TTPVHCC
+  tỉnh
+Văn thư Sở
+0,5 ngày làm việc
+Bước 7
+Xác nhận trên hệ thống thông tin
+  một cửa điện tử và trả kết quả cho cá nhân, tổ chức
+Bộ phận tiếp nhận và trả kết quả của Sở Nội vụ tại TTPVHCC tỉnh
+Không tính thời gian
+Tổng thời gian giải quyết
+10 ngày làm việc
+Quy trình số: 04
+4. Quy trình nội bộ giải quyết
+TTHC:
+Nhận lại tiền ký quỹ của doanh nghiệp đưa người
+lao động đi đào tạo, nâng cao trình độ, kỹ năng nghề ở nước ngoài (hợp đồng dưới
+90 ngày) (
+Mã TTHC: 1.000502
+)
+Thứ tự công việc
+Nội dung công việc
+Đơn vị thực hiện
+Thời gian thực hiện
+Bước 1
+Tiếp nhận hồ sơ:
+- Tiếp nhận, kiểm tra thành
+  phần hồ sơ, quét (scan) và lưu trữ hồ sơ điện tử;
+- Viết phiếu tiếp nhận và hẹn
+  trả kết quả;
+- Chuyển hồ sơ về Sở Nội vụ để
+  xem xét, giải quyết.
+Bộ phận tiếp nhận và trả kết quả của Sở Nội vụ tại TTPVHCC tỉnh
+0,25 ngày làm việc
+Bước 2
+Phân công chuyên viên thụ lý
+  hồ sơ
+Lãnh đạo Phòng Lao động, việc làm và chính sách
+0,25 ngày làm việc
+Bước 3
+Kiểm tra, xử lý hồ sơ
+Công chức Phòng Lao động, việc làm và chính sách
+02 ngày làm việc
+Bước 4
+Hoàn thiện hồ sơ trước khi
+  trình Lãnh đạo Sở ký phê duyệt
+Lãnh đạo Phòng Lao động, việc làm và chính sách
+01 ngày làm việc
+Bước 5
+Xem xét, ký phê duyệt kết quả
+  thủ tục hành chính
+Lãnh đạo Sở
+01 ngày làm việc
+Bước 6
+Vào số văn bản, lưu hồ sơ, chuyển
+  kết quả đến Bộ phận tiếp nhận và trả kết quả của Sở Nội vụ tại TTPVHCC tỉnh
+Văn thư Sở
+0,5 ngày làm việc
+Bước 7
+Xác nhận trên hệ thống thông
+  tin một cửa điện tử và trả kết quả cho cá nhân, tổ chức
+Bộ phận tiếp nhận và trả kết quả của Sở Nội vụ tại TTPVHCC tỉnh
+Không tính thời gian
+Tổng thời gian giải quyết
+05 ngày làm việc
+Lưu trữ
+Ghi chú
+Ý kiến
+Facebook
+Email
+In
+Thư Viện
+Nhà Đất
+ĐÌNH THÔN 100M2 – 9 TẦNG THANG MÁY – 21 CĂN FULL ĐỒ – DOANH THU 150TR/THÁNG – CHỈ 38.9 TỶ
+38.9 tỷ
+,
+DT 100
+,
+Quận Nam Từ Liêm, Hà Nội
+Bản án liên quan
+PHÁP LUẬT DOANH NGHIỆP
+Hỏi đáp pháp luật
+Quyết định 686/QĐ-UBND năm 2025 phê duyệt Quy trình nội bộ giải quyết thủ tục hành chính trong lĩnh vực Quản lý lao động ngoài nước thuộc thẩm quyền giải quyết của Sở Nội vụ tỉnh Cao Bằng

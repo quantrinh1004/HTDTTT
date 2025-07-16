@@ -1,0 +1,507 @@
+MỤC LỤC
+                                VĂN BẢN
+In mục lục
+ỦY BAN NHÂN DÂN
+TỈNH THANH HÓA
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 1977/QĐ-UBND
+Thanh Hóa, ngày
+  18 tháng 6 năm 2025
+QUYẾT ĐỊNH
+BAN
+HÀNH DANH MỤC DỊCH VỤ CÔNG TRỰC TUYẾN TOÀN TRÌNH/MỘT PHẦN THUỘC PHẠM VI QUẢN LÝ
+CỦA SỞ KHOA HỌC VÀ CÔNG NGHỆ
+CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH THANH HÓA
+Căn cứ Luật Tổ chức chính
+quyền địa phương ngày 19/02/2025;
+Căn cứ Nghị định số
+63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành
+chính; Nghị định số 92/2017/NĐ-CP ngày 07 tháng 8 năm 2017 của Chính phủ về sửa
+đổi, bổ sung một số điều của các Nghị định liên quan đến kiểm soát thủ tục hành
+chính;
+Căn cứ Nghị định số
+61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa
+liên thông trong giải quyết thủ tục hành chính; Nghị định số 107/2021/NĐ-CP
+ngày 06/12/2021 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 61/2018/NĐ-CP
+ngày 23/4/2018 của Chính phủ;
+Căn cứ Nghị định số
+45/2020/NĐ-CP ngày 08/4/2020 của Chính phủ Quy định về thực hiện thủ tục hành
+chính trên môi trường điện tử;
+Căn cứ Nghị định số
+42/2022/NĐ-CP ngày 24/6/2022 của Chính phủ Quy định về việc cung cấp thông tin
+và dịch vụ công trực tuyến của cơ quan Nhà nước trên môi trường mạng;
+Căn cứ Thông tư số
+01/2018/TT-VPCP ngày 23/11/2018 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ
+hướng dẫn thi hành một số quy định của Nghị định số 61/2018/NĐ-CP ngày
+23/4/2018 của Chính phủ;
+Căn cứ Quyết định số 997/QĐ-BKHCN
+ngày 28/5/2025 của Bộ Khoa học và Công nghệ về việc công bố Danh mục Thủ tục hành
+chính đủ điều kiện để thực hiện cung cấp dịch vụ công trực tuyến toàn trình,
+dịch vụ công trực tuyến một phần, dịch vụ cung cấp thông tin thuộc phạm vi quản
+lý của Bộ Khoa học và Công nghệ;
+Theo đề nghị của Giám đốc Sở
+Khoa học và Công nghệ tại Tờ trình số 1395/TTr-SKHCN ngày 16/6/2025.
+QUYẾT ĐỊNH:
+Điều 1.
+Công bố kèm theo
+Quyết định này Danh mục dịch vụ công trực tuyến toàn trình/một phần thuộc phạm
+vi quản lý của Sở Khoa học và Công nghệ
+(có Phụ lục kèm theo)
+.
+Điều 2. Quyết định này có hiệu
+lực thi hành kể từ ngày ký.
+Chánh Văn phòng UBND tỉnh, Giám
+đốc Sở Khoa học và Công nghệ; Giám đốc Trung tâm Phục vụ hành chính công tỉnh
+và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết
+định này./.
+Nơi nhận:
+- Như Điều 2;
+- Văn phòng Chính phủ (Cục KSTTHC);
+- Bộ Khoa học và Công nghệ;
+- Chủ tịch, các PCT UBND tỉnh;
+- Lưu: VT, HCKSTTHC.
+KT. CHỦ TỊCH
+PHÓ CHỦ TỊCH
+Nguyễn Văn Thi
+PHỤ LỤC
+DANH
+MỤC THỦ TỤC HÀNH CHÍNH ĐỦ ĐIỀU KIỆN THỰC HIỆN CUNG CẤP DỊCH VỤ CÔNG TRỰC TUYẾN
+TOÀN TRÌNH VÀ MỘT PHẦN THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ KHOA HỌC VÀ CÔNG NGHỆ
+TỈNH THANH HÓA
+(Kèm theo Quyết định số: 1977/QĐ-UBND ngày 18/6/2025 của Chủ tịch UBND tỉnh
+Thanh Hóa)
+STT
+Mã TTHC
+Tên thủ tục hành chính
+Cấp thực hiện
+Ghi chú
+I
+Danh mục TTHC trực tuyến
+  toàn trình
+Lĩnh vực hoạt động khoa
+  học và công nghệ
+1
+2.002248.000.00.00.H56
+Thủ tục cấp Giấy chứng nhận
+  đăng ký chuyển giao công nghệ (trừ trường hợp thuộc thẩm quyền của Bộ Khoa
+  học và Công nghệ)
+Cấp tỉnh
+2
+2.002249.000.00.00.H56
+Thủ tục cấp Giấy chứng nhận
+  đăng ký gia hạn, sửa đổi, bổ sung nội dung chuyển giao công nghệ (trừ trường
+  hợp thuộc thẩm quyền của Bộ Khoa học và Công nghệ)
+Cấp tỉnh
+3
+2.002544.000.00.00.H56
+Thủ tục cấp Giấy chứng nhận
+  chuyển giao công nghệ khuyến khích chuyển giao
+Cấp tỉnh
+4
+2.002546.000.00.00.H56
+Thủ tục sửa đổi, bổ sung Giấy
+  chứng nhận chuyển giao công nghệ khuyến khích chuyển giao
+Cấp tỉnh
+Chuyển từ một phần lên toàn trình
+5
+2.002548.000.00.00.H56
+Thủ tục cấp lại Giấy chứng
+  nhận chuyển giao công nghệ khuyến khích chuyển giao
+Cấp tỉnh
+6
+2.001179.000.00.00.H56
+Thủ tục xác nhận hàng hóa sử
+  dụng trực tiếp cho phát triển hoạt động ươm tạo công nghệ, ươm tạo doanh
+  nghiệp khoa học và công nghệ
+Cấp tỉnh
+7
+2.002278.000.00.00.H56
+Thủ tục cấp Giấy chứng nhận
+  doanh nghiệp khoa học và công nghệ
+Cấp tỉnh
+8
+2.001525.000.00.00.H56
+Thủ tục cấp thay đổi nội
+  dung, cấp lại Giấy chứng nhận doanh nghiệp khoa học và công nghệ
+Cấp tỉnh
+9
+1.011812.000.00.00.H56
+Thủ tục công nhận kết quả
+  nghiên cứu khoa học và phát triển công nghệ do tổ chức, cá nhân tự đầu tư
+  nghiên cứu
+Cấp tỉnh
+10
+1.011818.H56
+Đăng ký kết quả thực hiện
+  nhiệm vụ khoa học và công nghệ cấp tỉnh, cấp cơ sở sử dụng ngân sách nhà nước
+  và nhiệm vụ khoa học và công nghệ do quỹ của Nhà nước trong lĩnh vực khoa học
+  và công nghệ tài trợ thuộc phạm vi quản lý của tỉnh, thành phố trực thuộc
+  trung ương
+Cấp tỉnh
+11
+1.011820.H56
+Đăng ký kết quả thực hiện
+  nhiệm vụ khoa học và công nghệ không sử dụng ngân sách nhà nước
+Cấp tỉnh
+12
+1.011814.000.00.00.H56
+Thủ tục hỗ trợ kinh phí, mua
+  kết quả nghiên cứu khoa học và phát triển công nghệ do tổ chức, cá nhân tự
+  đầu tư nghiên cứu
+Cấp tỉnh
+13
+1.011815.000.00.00.H56
+Thủ tục mua sáng chế, sáng
+  kiến
+Cấp tỉnh
+14
+1.011816.000.00.00.H56
+Thủ tục hỗ trợ kinh phí hoặc
+  mua công nghệ được tổ chức, cá nhân trong nước tạo ra từ kết quả nghiên cứu
+  khoa học và phát triển công nghệ để sản xuất sản phẩm quốc gia, trọng điểm,
+  chủ lực
+Cấp tỉnh
+15
+1.001786.000.00.00.H56
+Cấp Giấy chứng nhận đăng ký
+  hoạt động lần đầu cho tổ chức khoa học và công nghệ
+Cấp tỉnh
+16
+1.001716.000.00.00.H56
+Cấp Giấy chứng nhận hoạt động
+  lần đầu cho văn phòng đại diện, chi nhánh của tổ chức khoa học và công nghệ
+Cấp tỉnh
+Lĩnh vực sở hữu trí tuệ
+17
+1.011939.H56
+Thủ tục thu hồi Giấy chứng
+  nhận tổ chức giám định sở hữu công nghiệp
+Cấp tỉnh
+Chuyển từ một phần lên toàn trình
+Lĩnh vực tiêu chuẩn, đo
+  lường, chất lượng
+18
+2.002253.H56
+Thủ tục cấp Giấy xác nhận
+  đăng ký hoạt động xét tặng giải thưởng chất lượng sản phẩm, hàng hóa của tổ
+  chức, cá nhân
+Cấp tỉnh
+19
+2.001277.000.00.00.H56
+Thủ tục đăng ký công bố hợp
+  quy đối với các sản phẩm, hàng hóa sản xuất trong nước, dịch vụ, quá trình,
+  môi trường được quản lý bởi các quy chuẩn kỹ thuật quốc gia do Bộ Khoa học và
+  Công nghệ ban hành
+Cấp tỉnh
+20
+2.001207.000.00.00.H56
+Thủ tục đăng ký công bố hợp
+  chuẩn dựa trên kết quả tự đánh giá của tổ chức, cá nhân sản xuất, kinh doanh
+Cấp tỉnh
+21
+2.001209.000.00.00.H56
+Thủ tục đăng ký công bố hợp
+  chuẩn dựa trên kết quả chứng nhận hợp chuẩn của tổ chức chứng nhận
+Cấp tỉnh
+22
+2.001259.000.00.00.H56
+Thủ tục kiểm tra nhà nước về
+  chất lượng hàng hóa nhóm 2 nhập khẩu
+Cấp tỉnh
+Chuyển từ một phần lên toàn trình
+23
+1.001392.000.00.00.H56
+Thủ tục miễn giảm kiểm tra
+  chất lượng hàng hóa nhóm 2 nhập khẩu
+Cấp tỉnh
+Chuyển từ một phần lên toàn trình
+24
+2.001501.000.00.00.H56
+Thủ tục cấp lại Quyết định
+  chỉ định tổ chức đánh giá sự phù hợp
+Cấp tỉnh
+25
+2.000212.000.00.00.H56
+Thủ tục Công bố đủ điều kiện
+  sử dụng dấu định lượng
+Cấp tỉnh
+26
+1.000449.000.00.00.H56
+Thủ tục điều chỉnh nội dung
+  bản công bố sử dụng dấu định lượng
+Cấp tỉnh
+Lĩnh vực an toàn bức xạ và
+  hạt nhân
+27
+2.002385.000.00.00.H56
+Thủ tục khai báo thiết bị
+  X-quang chẩn đoán trong y tế
+Cấp tỉnh
+28
+2.002379.000.00.00.H56
+Thủ tục cấp chứng chỉ nhân
+  viên bức xạ (đối với người phụ trách an toàn cơ sở X-quang chẩn đoán trong y
+  tế)
+Cấp tỉnh
+Lĩnh vực bưu chính
+29
+1.003659.000.00.00.H56
+Cấp giấy phép bưu chính
+Cấp tỉnh
+30
+1.003687.000.00.00.H56
+Sửa đổi, bổ sung giấy phép
+  bưu chính
+Cấp tỉnh
+31
+1.003633.000.00.00.H56
+Cấp lại giấy phép bưu chính
+  khi hết hạn
+Cấp tỉnh
+32
+1.004379.000.00.00.H56
+Cấp lại giấy phép bưu chính
+  khi bị mất hoặc hư hỏng không sử dụng được
+Cấp tỉnh
+33
+1.004470.000.00.00.H56
+Cấp văn bản xác nhận thông
+  báo hoạt động bưu chính
+Cấp tỉnh
+34
+1.005442.000.00.00.H56
+Cấp lại văn bản xác nhận
+  thông báo hoạt động bưu chính khi bị mất hoặc hư hỏng không sử dụng được
+Cấp tỉnh
+35
+1.010902.000.00.00.H56
+Sửa đổi, bổ sung văn bản xác
+  nhận thông báo hoạt động bưu chính
+Cấp tỉnh
+II
+Danh mục TTHC dịch vụ công
+  trực tuyến một phần
+Lĩnh vực hoạt động khoa
+  học và công nghệ
+1
+3.000259.H56
+Thủ tục đặt và tặng giải
+  thưởng về khoa học và công nghệ của tổ chức, cá nhân cư trú hoặc hoạt động
+  hợp pháp tại Việt nam
+Cấp tỉnh
+2
+1.008377.000.00.00.H56
+Thủ tục xét tiếp nhận vào
+  viên chức và bổ nhiệm vào chức danh nghiên cứu khoa học, chức danh công nghệ
+  đối với cá nhân có thành tích vượt trội trong hoạt động khoa học và công nghệ
+Cấp tỉnh
+Lên một phần
+3
+1.011819.H56
+Đăng ký thông tin kết quả
+  nghiên cứu khoa học và phát triển công nghệ được mua bằng ngân sách nhà nước
+  thuộc phạm vi quản lý của tỉnh, thành phố trực thuộc trung ương
+Cấp tỉnh
+Chuyển từ toàn trình xuống một phần
+4
+2.001143.000.00.00.H56
+Thủ tục hỗ trợ phát triển tổ
+  chức trung gian của thị trường khoa học và công nghệ
+Cấp tỉnh
+Chuyển từ toàn trình xuống một phần
+5
+2.002502.000.00.00.H56
+Thủ tục yêu cầu hỗ trợ từ Quỹ
+  phát triển khoa học và công nghệ tỉnh, thành phố trực thuộc Trung ương
+Cấp tỉnh
+Chuyển từ toàn trình xuống một phần
+6
+2.001137.000.00.00.H56
+Thủ tục hỗ trợ doanh nghiệp
+  có dự án thuộc ngành, nghề ưu đãi đầu tư, địa bàn ưu đãi đầu tư nhận chuyển
+  giao công nghệ từ tổ chức khoa học và công nghệ
+Cấp tỉnh
+Chuyển từ toàn trình xuống một phần
+7
+1.002690.000.00.00.H56
+Thủ tục hỗ trợ doanh nghiệp,
+  tổ chức, cá nhân thực hiện giải mã công nghệ
+Cấp tỉnh
+Chuyển từ toàn trình xuống một phần
+8
+2.001643.000.00.00.H56
+Thủ tục hỗ trợ tổ chức khoa
+  học và công nghệ có hoạt động liên kết với tổ chức ứng dụng, chuyển giao công
+  nghệ địa phương, để hoàn thiện kết quả nghiên cứu khoa học và phát triển công
+  nghệ
+Cấp tỉnh
+Chuyển từ toàn trình xuống một phần
+9
+2.002709.H56
+Thủ tục xác định nhiệm vụ
+  khoa học và công nghệ cấp tỉnh sử dụng ngân sách nhà nước
+Cấp tỉnh
+10
+2.002710.H56
+Thủ tục đăng ký tham gia
+  tuyển chọn nhiệm vụ khoa học và công nghệ cấp tỉnh sử dụng ngân sách nhà nước
+Cấp tỉnh
+11
+2.002722.H56
+Thủ tục xác định nhiệm vụ
+  khoa học và công nghệ cấp cơ sở sử dụng ngân sách nhà nước
+Cấp tỉnh
+12
+2.002723.H56
+Thủ tục đăng ký tham gia
+  tuyển chọn nhiệm vụ khoa học và công nghệ cấp cơ sở sử dụng ngân sách nhà nước
+Cấp tỉnh
+Chuyển từ dịch vụ cung cấp thông tin trực tuyến lên một phần
+13
+2.002724.H56
+Thủ tục đánh giá, nghiệm thu
+  nhiệm vụ khoa học và công nghệ cấp cơ sở sử dụng ngân sách nhà nước
+Cấp tỉnh
+14
+2.002711.H56
+Thủ tục đánh giá, nghiệm thu
+  nhiệm vụ cấp tỉnh sử dụng ngân sách nhà nước
+Cấp tỉnh
+15
+2.000079.000.00.00.H56
+Thẩm định kết quả thực hiện
+  nhiệm vụ khoa học và công nghệ không sử dụng ngân sách nhà nước mà có tiềm ẩn
+  yếu tố ảnh hưởng đến lợi ích quốc gia, quốc phòng, an ninh, môi trường, tính mạng,
+  sức khoẻ con người
+Cấp tỉnh
+16
+2.002144.H56
+Đánh giá đồng thời thẩm định
+  kết quả thực hiện nhiệm vụ khoa học và công nghệ không sử dụng ngân sách nhà
+  nước mà có tiềm ẩn yếu tố ảnh hưởng đến lợi ích quốc gia, quốc phòng, an
+  ninh, môi trường, tính mạng, sức khoẻ con người
+Cấp tỉnh
+17
+1.012353.H56
+Thủ tục xác định dự án đầu tư
+  có hoặc không sử dụng công nghệ lạc hậu, tiềm ẩn nguy cơ gây ô nhiễm môi
+  trường, thâm dụng tài nguyên
+Cấp tỉnh
+18
+1.006427.H56
+Đánh giá kết quả thực hiện
+  nhiệm vụ khoa học và công nghệ không sử dụng ngân sách nhà nước
+Cấp tỉnh
+19
+1.001747.000.00.00.H56
+Thay đổi, bổ sung nội dung
+  Giấy chứng nhận đăng ký hoạt động của tổ chức khoa học và công nghệ
+Cấp tỉnh
+20
+1.001677.000.00.00.H56
+Thay đổi, bổ sung nội dung
+  Giấy chứng nhận hoạt động cho văn phòng đại diện, chi nhánh của tổ chức khoa
+  học và công nghệ
+Cấp tỉnh
+21
+1.001770.000.00.00.H56
+Cấp lại Giấy chứng nhận đăng
+  ký hoạt động của tổ chức khoa học và công nghệ
+Cấp tỉnh
+22
+1.001693.000.00.00.H56
+Cấp lại Giấy chứng nhận hoạt
+  động cho văn phòng đại diện, chi nhánh của tổ chức khoa học và công nghệ
+Cấp tỉnh
+23
+1.008377.000.00.00.H56
+Thủ tục tiếp nhận vào viên
+  chức và bổ nhiệm vào chức danh nghiên cứu khoa học, chức danh công nghệ đối
+  với cá nhân có thành tích vượt trội trong hoạt động khoa học và công nghệ
+Cấp tỉnh
+24
+1.008379.000.00.00.H56
+Thủ tục xét đặc cách bổ nhiệm
+  vào chức danh khoa học, chức danh công nghệ cao hơn không qua thi thăng hạng,
+  không phụ thuộc năm công tác
+Cấp tỉnh
+Lên một phần
+Lĩnh vực an toàn bức xạ và
+  hạt nhân
+25
+2.002380.000.00.00.H56
+Thủ tục cấp giấy phép tiến
+  hành công việc bức xạ - sử dụng thiết bị X-quang chẩn đoán trong y tế
+Cấp tỉnh
+26
+2.002381.000.00.00.H56
+Thủ tục gia hạn giấy phép
+  tiến hành công việc bức xạ - sử dụng thiết bị X-quang chẩn đoán trong y tế
+Cấp tỉnh
+27
+2.002382.000.00.00.H56
+Thủ tục sửa đổi giấy phép
+  tiến hành công việc bức xạ - sử dụng thiết bị X-quang chẩn đoán trong y tế
+Cấp tỉnh
+28
+2.002383.000.00.00.H56
+Thủ tục bổ sung giấy phép
+  tiến hành công việc bức xạ - sử dụng thiết bị X-quang chẩn đoán trong y tế
+Cấp tỉnh
+29
+2.002384.000.00.00.H56
+Thủ tục cấp lại giấy phép
+  tiến hành công việc bức xạ - sử dụng thiết bị X-quang chẩn đoán trong y tế
+Cấp tỉnh
+Lĩnh vực tiêu chuẩn, đo
+  lường, chất lượng
+30
+2.001208.000.00.00.H56
+Thủ tục chỉ định tổ chức đánh
+  giá sự phù hợp hoạt động thử nghiệm, giám định, kiểm định, chứng nhận
+Cấp tỉnh
+31
+2.001100.000.00.00.H56
+Thủ tục thay đổi, bổ sung
+  phạm vi, lĩnh vực đánh giá sự phù hợp được chỉ định
+Cấp tỉnh
+32
+2.001269.000.00.00.H56
+Thủ tục đăng ký tham dự sơ
+  tuyển xét tặng Giải thưởng chất lượng Quốc gia
+Cấp tỉnh
+Lĩnh vực sở hữu trí tuệ
+33
+1.011938.H56
+Thủ tục cấp lại Giấy chứng
+  nhận tổ chức giám định sở hữu công nghiệp
+Cấp tỉnh
+Chuyển từ toàn trình xuống một phần
+34
+1.011937.H56
+Thủ tục cấp Giấy chứng nhận
+  tổ chức giám định sở hữu công nghiệp
+Cấp tỉnh
+Chuyển từ toàn trình xuống một phần
+Lưu trữ
+Ghi chú
+Ý kiến
+Facebook
+Email
+In
+Thư Viện
+Nhà Đất
+BÁN ĐẤT MT LIÊU BÌNH HƯƠNG, DT 198M² (9X22), NGAY CHỢ VIỆT KIỀU, FULL THỔ CƯ, GIÁ 1.2 TỶ, SHR
+1.2 tỷ
+,
+DT 198
+,
+Huyện Củ Chi, Hồ Chí Minh
+Bản án liên quan
+PHÁP LUẬT DOANH NGHIỆP
+Hỏi đáp pháp luật
+Quyết định 1977/QĐ-UBND năm 2025 về Danh mục dịch vụ công trực tuyến toàn trình/một phần thuộc phạm vi quản lý của Sở Khoa học và Công nghệ tỉnh Thanh Hóa

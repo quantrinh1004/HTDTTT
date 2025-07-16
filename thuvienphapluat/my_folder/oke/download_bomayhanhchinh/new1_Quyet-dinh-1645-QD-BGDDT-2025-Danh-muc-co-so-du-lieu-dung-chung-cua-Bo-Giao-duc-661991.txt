@@ -1,0 +1,380 @@
+MỤC LỤC
+                                VĂN BẢN
+In mục lục
+QUYẾT ĐỊNH BAN HÀNH DANH MỤC CƠ SỞ DỮ LIỆU DÙNG CHUNG, DANH MỤC DỮ LIỆU MỞ CỦA BỘ GIÁO DỤC VÀ ĐÀO TẠO
+Điều 1. Ban hành kèm theo Quyết định này Danh mục cơ sở dữ liệu dùng chung (Phụ lục I) và Danh mục dữ liệu mở (Phụ lục II) của Bộ Giáo dục và Đào tạo.
+Điều 2. Tổ chức thực hiện
+Điều 3. Quyết định này có hiệu lực kể từ ngày ký.
+Điều 4. Chánh Văn phòng, Vụ trưởng Vụ Kế hoạch - Tài chính, Cục trưởng Cục Khoa học, Công nghệ và Thông tin và Thủ trưởng các đơn vị thuộc Bộ chịu trách nhiệm thi hành Quyết định này./.
+PHỤ LỤC I DANH MỤC CƠ SỞ DỮ LIỆU DÙNG CHUNG CỦA BỘ GIÁO DỤC VÀ ĐÀO TẠO
+PHỤ LỤC II DANH MỤC DỮ LIỆU MỞ CỦA BỘ GIÁO DỤC VÀ ĐÀO TẠO
+BỘ GIÁO DỤC VÀ
+  ĐÀO TẠO
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 1645/QĐ-BGDĐT
+Hà Nội, ngày 20
+  tháng 6 năm 2025
+QUYẾT ĐỊNH
+BAN
+HÀNH DANH MỤC CƠ SỞ DỮ LIỆU DÙNG CHUNG, DANH MỤC DỮ LIỆU MỞ CỦA BỘ GIÁO DỤC VÀ
+ĐÀO TẠO
+BỘ TRƯỞNG BỘ GIÁO DỤC VÀ ĐÀO TẠO
+Căn cứ
+Luật Công
+nghệ thông tin số 67/2006/QH11
+ngày 29/6/2006;
+Căn cứ
+Luật Dữ liệu
+số 60/2024/QH15
+ngày 30/11/2024;
+Căn cứ Nghị định số
+37/2025/NĐ-CP
+ngày 26/02/2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu
+tổ chức của Bộ Giáo dục và Đào tạo;
+Căn cứ Nghị định số
+47/2020/NĐ-CP
+ngày 29/4/2020 của Chính phủ về việc quản lý, kết nối và chia sẻ dữ liệu số của
+cơ quan nhà nước;
+Căn cứ Nghị định số
+64/2007/NĐ-CP
+ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin trong cơ quan nhà
+nước;
+Căn cứ Nghị quyết số
+17/NQ-CP
+ngày 07/3/2019 của Chính phủ về một số
+nhiệm vụ, giải pháp trọng tâm phát triển chính phủ điện tử giai đoạn 2019-2020,
+định hướng đến 2025;
+Theo đề nghị của Cục trưởng Cục Khoa học, Công
+nghệ và Thông tin.
+QUYẾT ĐỊNH:
+Điều 1.
+Ban hành kèm theo Quyết
+định này Danh mục cơ sở dữ liệu dùng chung
+(Phụ lục I)
+và Danh mục dữ liệu
+mở
+(Phụ lục II)
+của Bộ Giáo dục và Đào tạo.
+Điều 2.
+Tổ chức thực hiện
+1. Cục Khoa học, Công nghệ và Thông tin chủ trì về
+kỹ thuật, hướng dẫn các đơn vị có cơ sở dữ liệu trong Danh mục thực hiện cập nhật,
+quản lý, vận hành, khai thác, sử dụng hiệu quả cơ sở dữ liệu do đơn vị mình quản
+lý theo đúng các quy định hiện hành.
+2. Các đơn vị thuộc Bộ có cơ sở dữ liệu thuộc Danh mục
+có trách nhiệm chủ trì việc cập nhật, quản lý, khai thác, sử dụng và cung cấp dữ
+liệu theo quy định.
+Điều 3.
+Quyết định này có
+hiệu lực kể từ ngày ký.
+Điều 4.
+Chánh Văn phòng, Vụ
+trưởng Vụ Kế hoạch - Tài chính, Cục trưởng Cục Khoa học, Công nghệ và Thông tin
+và Thủ trưởng các đơn vị thuộc Bộ chịu trách nhiệm thi hành Quyết định này./.
+Nơi nhận:
+- Như điều 4;
+- Bộ trưởng (để b/c);
+- Các Thứ trưởng (để chỉ đạo);
+- Bộ Khoa học và Công nghệ;
+- Các Ban tham mưu của Đảng ủy Bộ;
+- Cổng TTĐT Bộ GDĐT;
+- Các đơn vị thuộc Bộ;
+- Lưu: VT, KHCNTT.
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+Nguyễn Văn Phúc
+PHỤ LỤC I
+DANH MỤC CƠ SỞ DỮ LIỆU DÙNG CHUNG CỦA BỘ GIÁO DỤC VÀ
+ĐÀO TẠO
+(Kèm theo Quyết định số 1645/QĐ-BGDĐT ngày 20/06/2025 của Bộ Giáo dục và Đào
+tạo)
+TT
+Tên CSDL
+Mô tả CSDL
+Cơ chế thu thập
+Đơn vị chủ trì
+Thời gian cập
+  nhật dữ liệu
+Ghi chú
+1
+CSDL về Giáo dục Mầm non
+Quản lý, lưu trữ thông tin mạng lưới cơ sở giáo dục,
+  thông tin đội ngũ, thông tin người học, thông tin cơ sở vật chất và trang thiết
+  bị trong cơ sở giáo dục, thông tin tài chính và các thông tin khác theo quy định
+  của Bộ và các cơ quan quản lý có thẩm quyền phục vụ công tác quản lý nhà nước
+  về giáo dục mầm non.
+- Số hóa, chuẩn hóa dữ liệu đã có;
+- Các cá nhân, đơn vị có trách nhiệm cập nhật dữ
+  liệu trên CSDL;
+- Các cá nhân, đơn vị cập nhật dữ liệu khi có sự
+  thay đổi.
+Cục Khoa học, Công
+  nghệ và Thông tin
+Thường xuyên
+Cục KHCNTT chủ trì
+  vận hành hạ tầng kỹ thuật
+2
+CSDL về Giáo dục Phổ thông
+Quản lý, lưu trữ thông tin mạng lưới cơ sở giáo dục,
+  thông tin đội ngũ, thông tin người học, thông tin cơ sở vật chất và trang thiết
+  bị trong cơ sở giáo dục, thông tin tài chính và các thông tin khác theo quy định
+  của Bộ và các cơ quan quản lý có thẩm quyền phục vụ công tác quản lý nhà nước
+  về giáo dục phổ thông.
+- Số hóa, chuẩn hóa dữ liệu đã có;
+- Các cá nhân, đơn vị có trách nhiệm cập nhật dữ
+  liệu trên CSDL;
+- Các cá nhân, đơn vị cập nhật dữ liệu khi có sự
+  thay đổi.
+Cục Khoa học, Công
+  nghệ và Thông tin
+Thường xuyên
+Cục KHCNTT chủ trì
+  vận hành hạ tầng kỹ thuật
+3
+CSDL về Giáo dục Giáo dục Thường xuyên
+Quản lý, lưu trữ thông tin mạng lưới cơ sở giáo dục,
+  thông tin đội ngũ, thông tin người học, thông tin cơ sở vật chất và trang thiết
+  bị trong cơ sở giáo dục, thông tin tài chính và các thông tin khác theo quy định
+  của Bộ và các cơ quan quản lý có thẩm quyền phục vụ công tác quản lý nhà nước
+  về giáo dục thường xuyên.
+- Số hóa, chuẩn hóa dữ liệu đã có;
+- Các cá nhân, đơn vị có trách nhiệm cập nhật dữ
+  liệu trên CSDL;
+- Các cá nhân, đơn vị cập nhật dữ liệu khi có sự
+  thay đổi.
+Cục Khoa học, Công
+  nghệ và Thông tin
+Thường xuyên
+Cục KHCNTT chủ trì
+  vận hành hạ tầng kỹ thuật
+4
+CSDL về Giáo dục Đại học
+Quản lý, lưu trữ thông tin mạng lưới cơ sở giáo dục,
+  thông tin danh mục ngành đào tạo, thông tin chương trình đào tạo, thông tin đội
+  ngũ, thông tin người học, thông tin khoa học công nghệ, thông tin cơ sở vật
+  chất và trang thiết bị trong cơ sở giáo dục, thông tin tài chính, thông tin hợp
+  tác quốc tế, hợp tác với doanh nghiệp, các thông tin liên quan đến đảm bảo chất
+  lượng giáo dục đại học, các thông tin khác theo quy định của Bộ và các cơ
+  quan quản lý có thẩm quyền phục vụ công tác quản lý về giáo dục đại học.
+- Số hóa, chuẩn hóa dữ liệu đã có;
+- Các cá nhân, đơn vị có trách nhiệm cập nhật dữ
+  liệu trên CSDL;
+- Các cá nhân, đơn vị cập nhật dữ liệu khi có sự
+  thay đổi.
+Cục Khoa học, Công
+  nghệ và Thông tin
+Thường xuyên
+Cục KHCNTT chủ trì
+  vận hành hạ tầng kỹ thuật
+5
+CSDL về kiểm định chất lượng giáo dục đại học
+Quản lý, lưu trữ thông tin về tổ chức kiểm định,
+  chương trình/cơ sở được kiểm định, kết quả kiểm định, kiểm định viên...
+- Tổ chức kiểm định cập nhật kết quả;
+- Cơ sở giáo dục gửi báo cáo tự đánh giá, kế hoạch
+  cải tiến;
+- Cục Quản lý chất lượng tổng hợp, xác minh thông
+  tin.
+Cục Quản lý chất
+  lượng
+Khi có thay đổi hoặc
+  hàng quý
+Cục KHCNTT chủ trì
+  vận hành hạ tầng kỹ thuật
+6
+CSDL về Giáo dục nghề nghiệp
+Quản lý, lưu trữ thông tin mạng lưới cơ sở giáo dục
+  nghề nghiệp; thông tin danh mục ngành đào tạo; thông tin chương trình đào tạo;
+  thông tin nhà giáo, cán bộ quản lý trong cơ sở giáo dục, nghề nghiệp; thông
+  tin người học; thông tin khoa học công nghệ; thông tin cơ sở vật chất và
+  trang thiết bị trong cơ sở giáo dục nghề nghiệp; thông tin tài chính; thông
+  tin hợp tác quốc tế, hợp tác với doanh nghiệp; các thông tin khác theo quy định
+  của Bộ và các cơ quan quản lý có thẩm quyền phục vụ công tác quản lý về giáo
+  dục nghề nghiệp.
+- Số hóa, chuẩn hóa dữ liệu đã có;
+- Các cá nhân, đơn vị có trách nhiệm cập nhật dữ
+  liệu trên CSDL;
+- Các cá nhân, đơn vị cập nhật dữ liệu khi có sự
+  thay đổi.
+Cục Khoa học, Công
+  nghệ và Thông tin
+Thường xuyên
+Cục KHCNTT chủ trì
+  vận hành hạ tầng kỹ thuật
+7
+CSDL về cán bộ, công chức, viên chức và người lao
+  động
+- Quản lý, lưu trữ thông tin của mỗi cán bộ, công
+  chức, viên chức và người lao động (thuộc cơ quan Bộ) trong quá trình công tác
+  từ khi bắt đầu vào cơ quan cho đến nghỉ hưu;
+- Hỗ trợ các đơn vị có thẩm quyền quản lý cán bộ
+  công chức, viên chức quản lý hồ sơ nhân sự hiệu quả, giảm chi phí, thời gian,
+  công sức, thuận tiện trong việc tra cứu tìm kiếm hồ sơ cán bộ công chức, viên
+  chức và người lao động.
+- Số hóa, chuẩn hóa dữ liệu đã có;
+- Các cá nhân, đơn vị có trách nhiệm cập nhật dữ
+  liệu trên CSDL;
+- Các cá nhân, đơn vị cập nhật dữ liệu khi có sự
+  thay đổi.
+Vụ Tổ chức Cán bộ
+Thường xuyên
+Cục KHCNTT chủ trì
+  vận hành hạ tầng kỹ thuật
+8
+CSDL học bạ số
+CSDL phục vụ công tác lưu trữ, quản lý nhà nước về
+  Giáo dục Phổ thông liên quan tới học bạ
+- Học bạ số được tạo lập từ các cơ sở giáo dục và
+  được thu thập về CSDL tập trung;
+- Cơ sở giáo dục thực hiện ký số để đảm bảo tính
+  pháp lý của dữ liệu.
+Cục Khoa học, Công
+  nghệ và Thông tin
+Thường xuyên
+Dự kiến hoàn thành
+  2026
+9
+CSDL văn bằng số, chứng chỉ số
+CSDL phục vụ công tác lưu trữ, quản lý nhà nước về
+  văn bằng và chứng chỉ
+- Văn bằng số, chứng chỉ số được tạo lập từ các
+  đơn vị có chức năng cấp văn bằng số, chứng chỉ và được thu thập về CSDL tập
+  trung;
+- Cơ sở giáo dục thực hiện ký số để đảm bảo tính
+  pháp lý của dữ liệu.
+Cục Khoa học, Công
+  nghệ và Thông tin
+Thường xuyên
+Dự kiến hoàn thành
+  2026
+PHỤ LỤC II
+DANH MỤC DỮ LIỆU MỞ CỦA BỘ GIÁO DỤC VÀ ĐÀO TẠO
+(Kèm theo Quyết định số 1645/QĐ-BGDĐT ngày 20/06/2025 của Bộ Giáo dục và Đào
+tạo)
+TT
+Tên dữ liệu
+Mô tả
+Cơ chế thu thập
+  dữ liệu
+Đơn vị chủ trì
+  cung cấp
+Thời gian cập
+  nhật dữ liệu
+Ghi chú
+1
+Thông tin mạng lưới cơ sở giáo dục
+Cung cấp thông tin công khai về các cơ sở giáo dục
+  mầm non, giáo dục phổ thông, giáo dục thường xuyên, giáo dục đại học trong cả
+  nước (Tên cơ sở giáo dục, Địa chỉ, Số điện thoại, Website, Loại hình cơ sở
+  giáo dục…)
+- Chuẩn hóa dữ liệu đã có;
+- Tiếp tục rà soát, cập nhật dữ liệu trong quá
+  trình vận hành CSDL;
+- Các cơ sở giáo dục cập nhật dữ liệu khi có sự
+  thay đổi.
+Cục Khoa học, Công
+  nghệ và Thông tin
+Thường xuyên
+Cục KHCNTT chủ trì
+  vận hành hạ tầng kỹ thuật
+2
+Thông tin luận văn, luận án
+Cung cấp thông tin công khai về luận án trình độ
+  tiến sĩ, bao gồm thông tin về tác giả, lĩnh vực, cơ sở đào tạo, thời gian đào
+  tạo, tóm tắt nội dung, nội dung của luận án trình độ tiến sĩ.
+- Số hóa, chuẩn hóa dữ liệu đã có;
+- Tiếp tục cập nhật dữ liệu trong quá trình vận
+  hành CSDL.
+Cục Khoa học, Công
+  nghệ và Thông tin
+Thường xuyên
+Cục KHCNTT chủ trì
+  vận hành hạ tầng kỹ thuật
+3
+Thông tin học liệu số
+Cung cấp học liệu số trực tuyến cho trẻ em, học
+  sinh, giáo viên, cán bộ quản lý giáo dục và các đối tượng khác có nhu cầu
+  khai thác, sử dụng phục vụ nhu cầu học tập suốt đời; phục vụ nhu cầu ứng dụng
+  công nghệ số trong đổi mới nội dung, phương pháp dạy, học, kiểm tra đánh giá.
+- Số hóa, chuẩn hóa dữ liệu đã có;
+- Tiếp tục cập nhật dữ liệu trong quá trình vận
+  hành CSDL.
+Cục Khoa học, Công
+  nghệ và Thông tin
+Thường xuyên
+Cục KHCNTT chủ trì
+  vận hành hạ tầng kỹ thuật
+4
+Thông tin về kiểm định chất lượng Giáo dục đại học,
+  Giáo dục nghề nghiệp
+Cung cấp các thông tin công khai về kết quả kiểm
+  định chất lượng giáo dục, kết quả kiểm định chương trình đào tạo, thông tin bảo
+  đảm chất lượng của các cơ sở giáo dục đại học, cơ sở giáo dục nghề nghiệp,
+  thông tin của tổ chức kiểm định, thông tin kiểm định viên…
+- Số hóa, chuẩn hóa dữ liệu đã có;
+- Các đơn vị cập nhật dữ liệu trong quá trình vận
+  hành CSDL.
+Cục Quản lý chất
+  lượng
+Thường xuyên
+Cục KHCNTT chủ trì
+  vận hành hạ tầng kỹ thuật
+5
+Thông tin Chuẩn cơ sở giáo dục đại học
+Cung cấp các thông tin công khai về đánh giá, xếp
+  hạng của các cơ sở giáo dục đại học: Tổ chức và quản trị, Giảng viên, Cơ sở vật
+  chất, Tài chính, Tuyển sinh và đào tạo, Nghiên cứu và đổi mới sáng tạo…
+- Số hóa, chuẩn hóa dữ liệu đã có;
+- Các đơn vị cập nhật dữ liệu trong quá trình vận
+  hành CSDL.
+Vụ Giáo dục Đại học
+Thường xuyên
+Cục KHCNTT chủ trì
+  vận hành hạ tầng kỹ thuật
+6
+Thông tin Thống kê lĩnh vực Giáo dục và Đào tạo
+Cung cấp thông tin thống kê công khai về giáo dục
+  mầm non, giáo dục phổ thông, giáo dục nghề nghiệp và giáo dục thường xuyên,
+  giáo dục đại học và các thông tin thống kê khác trong lĩnh vực Giáo dục và
+  Đào tạo.
+- Số hóa, chuẩn hóa dữ liệu đã có;
+- Các đơn vị cập nhật dữ liệu trong quá trình vận
+  hành CSDL.
+Cục Khoa học, Công
+  nghệ và Thông tin
+Định kỳ
+7
+Thông tin các tổ chức kinh doanh dịch vụ tư vấn
+  du học
+Cung cấp thông tin công khai về các tổ chức kinh
+  doanh dịch vụ tư vấn du học
+- Chuẩn hóa dữ liệu đã có;
+- Tiếp tục rà soát, cập nhật dữ liệu trong quá
+  trình vận hành CSDL;
+- Cập nhật dữ liệu khi có sự thay đổi.
+Cục Hợp tác quốc tế
+Thường xuyên
+Cục KHCNTT chủ trì
+  vận hành hạ tầng kỹ thuật
+Lưu trữ
+Ghi chú
+Ý kiến
+Facebook
+Email
+In
+Thư Viện
+Nhà Đất
+BÁN NHÀ MẶT PHỐ -NGUYỄN ĐỔNG CHI- KINH DOANH – 9 TẦNG THANG MÁY – 154m2 Giá 100 TỶ
+100 tỷ
+,
+DT 154
+,
+Quận Nam Từ Liêm, Hà Nội
+Bản án liên quan
+PHÁP LUẬT DOANH NGHIỆP
+Hỏi đáp pháp luật
+Quyết định 1645/QĐ-BGDĐT năm 2025 về Danh mục cơ sở dữ liệu dùng chung, Danh mục dữ liệu mở của Bộ Giáo dục và Đào tạo

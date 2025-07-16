@@ -1,0 +1,663 @@
+MỤC LỤC
+                                VĂN BẢN
+In mục lục
+QUYẾT ĐỊNH BAN HÀNH MÃ ĐỊNH DANH ĐIỆN TỬ CÁC CƠ QUAN, ĐƠN VỊ THUỘC VÀ TRỰC THUỘC BỘ KHOA HỌC VÀ CÔNG NGHỆ PHỤC VỤ KẾT NỐI, CHIA SẺ DỮ LIỆU VỚI CÁC BỘ, NGÀNH, ĐỊA PHƯƠNG
+Điều 1. Ban hành kèm theo Quyết định này Danh mục mã định danh điện tử của các cơ quan, đơn vị thuộc, trực thuộc Bộ Khoa học và Công nghệ phục vụ kết nối, chia sẻ dữ liệu giữa các hệ thống thông tin, các cơ sở dữ liệu trong và ngoài Bộ Khoa học và Công nghệ
+Điều 2. Tổ chức thực hiện
+Điều 3. Điều khoản thi hành
+DANH MỤC MÃ ĐỊNH DANH ĐIỆN TỬ CÁC CƠ QUAN, ĐƠN VỊ THUỘC VÀ TRỰC THUỘC BỘ KHOA HỌC VÀ CÔNG NGHỆ
+BỘ KHOA HỌC VÀ
+CÔNG NGHỆ
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 1600/QĐ-BKHCN
+Hà Nội, ngày 03
+  tháng 7 năm 2025
+QUYẾT ĐỊNH
+BAN HÀNH MÃ ĐỊNH DANH
+ĐIỆN TỬ CÁC CƠ QUAN, ĐƠN VỊ THUỘC VÀ TRỰC THUỘC BỘ KHOA HỌC VÀ CÔNG NGHỆ PHỤC VỤ
+KẾT NỐI, CHIA SẺ DỮ LIỆU VỚI CÁC BỘ, NGÀNH, ĐỊA PHƯƠNG
+BỘ TRƯỞNG BỘ KHOA HỌC VÀ CÔNG NGHỆ
+Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6
+năm 2006;
+Căn cứ Luật Giao dịch điện tử ngày 22 tháng 6
+năm 2023;
+Căn cứ Nghị định số 55/2025/NĐ-CP ngày 02 tháng
+03 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ
+chức của Bộ Khoa học và Công nghệ;
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng
+4 năm 2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ
+quan nhà nước;
+Căn cứ Nghị định số 47/2020/NĐ-CP ngày 09 tháng
+4 năm 2020 của Chính phủ về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan
+nhà nước;
+Căn cứ Quyết định số 20/2020/QĐ-TTg ngày 22
+tháng 7 năm 2020 của Thủ tướng Chính phủ về mã định danh điện tử của các cơ
+quan, tổ chức phục vụ kết nối, chia sẻ dữ liệu với các bộ, ngành, địa phương;
+Căn cứ Quyết định số 09/2025/QĐ-TTg ngày 14
+tháng 4 năm 2025 của Thủ tướng Chính phủ về việc sửa đổi, bổ sung Quyết định số
+20/2020/QĐ-TTg ngày 22 tháng 7 năm 2020 của Thủ tướng Chính phủ về mã định danh
+điện tử của các cơ quan, tổ chức phục vụ kết nối, chia sẻ dữ liệu với các bộ,
+ngành, địa phương;
+Theo đề nghị của Giám đốc Trung tâm Công nghệ
+thông tin.
+QUYẾT ĐỊNH:
+Điều 1.
+Ban hành kèm theo Quyết định này
+Danh mục mã định danh điện tử của các cơ quan, đơn vị thuộc, trực thuộc Bộ Khoa
+học và Công nghệ phục vụ kết nối, chia sẻ dữ liệu giữa các hệ thống thông tin, các
+cơ sở dữ liệu trong và ngoài Bộ Khoa học và Công nghệ
+(Chi tiết phụ lục kèm
+theo).
+Điều 2.
+Tổ chức thực hiện
+1. Các cơ quan, đơn vị thuộc và trực thuộc Bộ Khoa
+học và Công nghệ:
+- Trong vòng 30 ngày kể từ khi thành lập mới, chia
+tách, sáp nhập, đổi tên, các đơn vị có trách nhiệm thông báo về Trung tâm Công
+nghệ thông tin, Bộ Khoa học và Công nghệ để tổng hợp, đề xuất Bộ trưởng xem xét
+cấp mã định danh điện tử theo quy định;
+- Tổ chức thực hiện nâng cấp, chỉnh sửa các hệ thống
+thông tin, cơ sở dữ liệu của đơn vị mình quản lý để bảo đảm tuân thủ các quy định
+về mã định danh điện tử phục vụ kết nối, chia sẻ dữ liệu giữa các cơ quan, đơn
+vị.
+2. Trung tâm Công nghệ thông tin:
+- Quản lý thống nhất, sửa đổi bổ sung, mã định danh
+điện tử của các cơ quan, đơn vị thuộc và trực thuộc Bộ phù hợp với thực tế; thường
+xuyên rà soát, đề xuất, trình Bộ trưởng ban hành Quyết định sửa đổi, bổ sung mã
+định danh điện tử của các đơn vị thuộc và trực thuộc Bộ Khoa học và Công nghệ;
+- Cập nhật kịp thời mã định danh điện tử và các
+thông tin liên quan của các cơ quan, đơn vị thuộc và trực thuộc Bộ Khoa học và
+Công nghệ vào hệ thống thông tin quản lý Danh mục điện tử dùng chung của các cơ
+quan nhà nước.
+Điều 3.
+Điều khoản thi hành
+1. Quyết định này có hiệu lực kể từ ngày ký, thay
+thế các Quyết định số 879/QĐ-BTTTT ngày 24/5/2023 của Bộ trưởng Bộ Thông tin và
+Truyền thông ban hành mã định danh điện tử các cơ quan, đơn vị thuộc và trực
+thuộc Bộ Thông tin và Truyền thông phục vụ kết nối, chia sẻ dữ liệu với các bộ,
+ngành, địa phương và Quyết định số 1546/QĐ-BKHCN ngày 19/8/2022 của Bộ trưởng Bộ
+Khoa học và Công nghệ ban hành mã định danh điện tử các cơ quan, đơn vị thuộc Bộ
+Khoa học và Công nghệ phục vụ kết nối, chia sẻ dữ liệu với các bộ, ngành, địa
+phương.
+2. Chánh Văn phòng, Giám đốc Trung tâm Công nghệ
+thông tin, Thủ trưởng các cơ quan, đơn vị thuộc và trực thuộc Bộ chịu trách nhiệm
+thi hành Quyết định này./.
+Nơi nhận:
+- Như Điều 3;
+- Bộ trưởng (để b/c);
+- Các Thứ trưởng;
+- Văn phòng Chính phủ;
+- UBND các tỉnh, TP trực thuộc Trung ương;
+- Các đơn vị thuộc, trực thuộc Bộ;
+- Cục Chuyển đổi số quốc gia;
+- Cổng TTĐT của Bộ Khoa học và Công nghệ;
+- Lưu: VT, TTCNTT.
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+Bùi Hoàng Phương
+DANH MỤC MÃ ĐỊNH
+DANH ĐIỆN TỬ
+CÁC CƠ QUAN, ĐƠN VỊ THUỘC VÀ TRỰC THUỘC BỘ KHOA HỌC VÀ CÔNG NGHỆ
+(Kèm theo Quyết định
+số 1600/QĐ-BKHCN ngày 03 tháng 7 năm 2025 của Bộ trưởng Bộ Khoa học và Công nghệ)
+A. MÃ ĐỊNH DANH ĐIỆN TỬ CẤP 1
+Mã định danh điện
+  tử
+Tên cơ quan,
+  đơn vị
+Địa chỉ
+Email
+Điện thoại
+Website
+G06
+Bộ Khoa học và Công nghệ
+Số 18 Nguyễn Du, Hà Nội
+tonghop@mst.gov.vn
+02439435602
+https://mst.gov.vn
+B. MÃ ĐỊNH DANH ĐIỆN TỬ CẤP 2, 3, 4
+STT
+Đơn vị cấp 2
+Đơn vị cấp 3
+Đơn vị cấp 4
+Mã định danh điện
+  tử
+I
+KHỐI ĐƠN VỊ THAM MƯU
+1
+Văn phòng Bộ
+G06.11
+1.1
+Đại diện Văn phòng Bộ tại miền Nam
+G06.11.1
+1.2
+Đại diện Văn phòng Bộ tại miền Trung
+G06.11.2
+2
+Vụ Kế hoạch - Tài chính
+G06.5
+3
+Vụ Pháp chế
+G06.6
+4
+Vụ Tổ chức cán bộ
+G06.7
+5
+Vụ Hợp tác quốc tế
+G06.8
+6
+Vụ Bưu chính
+G06.67
+7
+Vụ Đánh giá và Thẩm định công nghệ
+G06.3
+8
+Vụ Khoa học kỹ thuật và công nghệ
+G06.69
+9
+Vụ Khoa học xã hội, Nhân văn và Tự nhiên
+G06.1
+10
+Vụ Kinh tế và Xã hội số
+G06.68
+Các mã từ G06.71 đến G06.79 để dự phòng
+II
+KHỐI ĐƠN VỊ CHỨC NĂNG
+11
+Cục An toàn bức xạ và hạt nhân
+G06.18
+11.1
+Trung tâm Hỗ trợ kỹ thuật
+G06.18.1
+11.2
+Trung tâm Thông tin và Đào tạo
+G06.18.2
+11.3
+Văn phòng Cục
+G06.18.4
+12
+Cục Bưu điện Trung ương
+G06.80
+12.1
+Bưu điện CP16 - Hà Nội
+G06.80.1
+12.2
+Bưu điện T78 - Miền Nam
+G06.80.2
+12.3
+Bưu điện T26 - Miền Trung - Tây Nguyên
+G06.80.3
+13
+Cục Công nghiệp Công nghệ thông tin
+G06.81
+14
+Cục Chuyển đổi số quốc gia
+G06.82
+14.1
+Trung tâm Công nghệ - Chính phủ số
+G06.82.1
+15
+Cục Đổi mới sáng tạo
+G06.83
+16
+Cục Khởi nghiệp và Doanh nghiệp công nghệ
+G06.17
+16.1
+Trung tâm Ươm tạo công nghệ
+G06.17.1
+16.2
+Trung tâm Phát triển doanh nghiệp khoa học và
+  công nghệ
+G06.17.2
+16.3
+Trung tâm Hỗ trợ Khởi nghiệp sáng tạo quốc gia
+G06.17.3
+17
+Cục Sở hữu trí tuệ
+G06.19
+17.1
+Trung tâm Công nghệ thông tin
+G06.19.1
+17.2
+Văn phòng Cục
+G06.19.4
+17.3
+Văn phòng đại diện Cục Sở hữu trí tuệ tại thành phố
+  Đà Nẵng
+G06.19.5
+17.4
+Văn phòng đại diện Cục Sở hữu trí tuệ tại thành
+  phố Hồ Chí Minh
+G06.19.6
+17.5
+Trung tâm Thẩm định sáng chế
+G06.19.7
+17.6
+Trung tâm Thẩm định nhãn hiệu
+G06.19.9
+17.7
+Trung tâm Thẩm định sau cấp văn bằng bảo hộ
+G06.19.11
+17.8
+Trung tâm Nghiên cứu, Đào tạo và Hỗ trợ, Tư vấn
+G06.19.12
+17.9
+Trung tâm Thẩm định Nhãn hiệu quốc tế, Chỉ dẫn địa
+  lý và Kiểu dáng công nghiệp
+G06.19.14
+17.10
+Trung tâm Phát triển tài sản trí tuệ
+G06.19.15
+18
+Cục Tần số vô tuyến điện
+G06.84
+18.1
+Trung tâm Tần số vô tuyến điện khu vực I
+G06.84.1
+18.2
+Trung tâm Tần số vô tuyến điện khu vực II
+G06.84.2
+18.3
+Trung tâm Tần số vô tuyến điện khu vực III
+G06.84.3
+18.4
+Trung tâm Tần số vô tuyến điện khu vực IV
+G06.84.4
+18.5
+Trung tâm Tần số vô tuyến điện khu vực V
+G06.84.5
+18.6
+Trung tâm Tần số vô tuyến điện khu vực VI
+G06.84.6
+18.7
+Trung tâm Tần số vô tuyến điện khu vực VII
+G06.84.7
+18.8
+Trung tâm Tần số vô tuyến điện khu vực VIII
+G06.84.8
+18.9
+Trung tâm Kỹ thuật
+G06.84.9
+19
+Cục Thông tin, Thống kê
+G06.16
+19.1
+Trung tâm Dữ liệu quốc gia về khoa học và công
+  nghệ
+G06.16.1
+19.2
+Thư viện khoa học và công nghệ quốc gia
+G06.16.2
+19.3
+Viện Thông tin và Thống kê khoa học và công nghệ
+G06.16.3
+19.4
+Văn phòng Đăng ký hoạt động khoa học và công nghệ
+G06.16.4
+19.5
+Viện Đánh giá khoa học
+G06.16.5
+19.5.1
+Trung tâm Dữ liệu đánh giá khoa học và công nghệ
+G06.16.5.1
+19.5.2
+Trung tâm Tư vấn đánh giá khoa học và định giá
+  công nghệ
+G06.16.5.2
+20
+Cục Viễn thông
+G06.85
+20.2
+Trung tâm Hỗ trợ phát triển mạng và Dịch vụ
+G06.85.1
+20.2
+Trung tâm Đo lường chất lượng viễn thông
+G06.85.2
+21
+Ủy ban Tiêu chuẩn Đo lường Chất lượng Quốc gia
+G06.20
+21.1
+Văn phòng
+G06.20.1
+21.2
+Ban Tiêu chuẩn
+G06.20.2
+21.3
+Ban Đo lường
+G06.20.3
+21.4
+Ban Quản lý chất lượng và Đánh giá sự phù hợp
+G06.20.4
+21.5
+Ban Tổ chức cán bộ
+G06.20.5
+21.6
+Ban Kế hoạch - Tài chính
+G06.20.6
+21.7
+Ban Hợp tác quốc tế
+G06.20.7
+21.8
+Ban Pháp chế - Thanh tra
+G06.20.8
+21.9
+Trung tâm Chứng nhận phù hợp
+G06.20.10
+21.10
+Viện Tiêu chuẩn Chất lượng Việt Nam
+G06.20.13
+21.11
+Viện Đo lường Việt Nam
+G06.20.14
+21.12
+Viện Năng suất Việt Nam
+G06.20.15
+21.13
+Văn phòng Thông báo và Hỏi đáp quốc gia về tiêu
+  chuẩn Đo lường chất lượng
+G06.20.23
+21.14
+Viện Thông tin và Truyền thông Tiêu chuẩn Đo lường
+  và Chất lượng
+G06.20.25
+21.15
+Trung tâm Đào tạo nghiệp vụ Tiêu chuẩn Đo lường
+  Chất lượng
+G06.20.12
+21.16
+Trung tâm Kỹ thuật Tiêu chuẩn Đo lường Chất lượng
+  1
+G06.20.18
+21.17
+Trung tâm Kỹ thuật Tiêu chuẩn Đo lường Chất lượng
+  2
+G06.20.19
+21.18
+Trung tâm Kỹ thuật Tiêu chuẩn Đo lường Chất lượng
+  3
+G06.20.20
+21.19
+Trung tâm Kỹ thuật Tiêu chuẩn Đo lường Chất lượng
+  4
+G06.20.28
+21.20
+Trung tâm Mã số, mã vạch quốc gia
+G06.20.26
+21.21
+Văn phòng Công nhận chất lượng quốc gia
+G06.20.29
+Các mã từ G06.86 đến G06.89 để dự phòng
+III
+KHỐI ĐƠN VỊ SỰ NGHIỆP
+22
+Học viện Chiến lược Khoa học và Công nghệ
+G06.92
+22.1
+Văn phòng
+G06.92.1
+22.2
+Viện Chiến lược
+G06.92.2
+22.3
+Trung tâm Đào tạo, Bồi dưỡng cán bộ khoa học và công
+  nghệ
+G06.92.3
+22.4
+Trung tâm Tư vấn chiến lược, chính sách khoa học
+  và công nghệ
+G06.92.4
+22.5
+Tạp chí Khoa học và Công nghệ Việt Nam
+G06.92.5
+23
+Báo VnExpress
+G06.45
+24
+Trung tâm Công nghệ thông tin
+G06.50
+25
+Quỹ dịch vụ Viễn thông công ích Việt Nam
+G06.94
+26
+Quỹ Đổi mới công nghệ quốc gia
+G06.49
+27
+Quỹ Phát triển khoa học và công nghệ Quốc gia
+G06.48
+27.1
+Văn phòng các Chương trình khoa học và công nghệ
+  quốc gia
+G06.48.1
+27.2
+Văn phòng các Chương trình trọng điểm cấp nhà nước
+G06.48.2
+28
+Trung tâm Chứng thực điện tử quốc gia
+G06.96
+28.1
+Chi nhánh tại TP Hồ Chí Minh
+G06.96.1
+28.2
+Chi nhánh tại TP Đà Nẵng
+G06.96.2
+29
+Trung tâm Internet Việt Nam
+G06.97
+29.1
+Chi nhánh tại TP Hồ Chí Minh
+G06.97.1
+29.2
+Chi nhánh tại TP Đà Nẵng
+G06.97.2
+30
+Trung tâm Truyền thông khoa học và công nghệ
+G06.51
+31
+Văn phòng Hội đồng chính sách khoa học và công
+  nghệ quốc gia
+G06.53
+32
+Viện Công nghệ số và Chuyển đổi số Quốc gia
+G06.99
+32.1
+Trung tâm Ứng dụng Công nghệ số và Chuyển đổi số
+  (CDTA)
+G06.99.1
+33
+Viện Sở hữu trí tuệ quốc gia
+G06.38
+33.1
+Văn phòng đại diện tại TP. HCM
+G06.38.1
+34
+Viện Khoa học và Công nghệ Việt Nam - Hàn Quốc
+G06.33
+35
+Viện Năng lượng nguyên tử Việt Nam
+G06.35
+35.1
+Viện Khoa học và Kỹ thuật hạt nhân
+G06.35.1
+35.2
+Viện Công nghệ xạ hiếm
+G06.35.2
+35.3
+Viện Nghiên cứu Hạt nhân
+G06.35.3
+35.4
+Trung tâm Hạt nhân Thành phố Hồ Chí Minh
+G06.35.4
+35.5
+Trung tâm Nghiên cứu và Triển khai công nghệ bức
+  xạ
+G06.35.5
+35.6
+Trung tâm ứng dụng Kỹ thuật hạt nhân trong công
+  nghiệp
+G06.35.6
+35.7
+Trung tâm Đánh giá không phá hủy
+G06.35.7
+35.8
+Trung tâm Chiếu xạ Hà Nội
+G06.35.8
+35.9
+Trung tâm Đào tạo hạt nhân
+G06.35.9
+35.10
+Văn phòng
+G06.35.10
+36
+Viện Ứng dụng công nghệ
+G06.36
+36.1
+Chi nhánh Viện Ứng dụng công nghệ ứng dụng công
+  nghệ tại thành phố HCM
+G06.36.2
+36.2
+Trung tâm công nghệ lazer
+G06.36.3
+36.3
+Trung tâm công nghệ vi điện tử và Tin học
+G06.36.4
+36.4
+Trung tâm Quang điện tử
+G06.36.5
+36.5
+Trung tâm Sinh học thực nghiệm
+G06.36.6
+36.6
+Trung tâm công nghệ vật liệu
+G06.36.7
+36.7
+Trung tâm Ươm tạo Công nghệ và Doanh nghiệp
+  KH&CN
+G06.36.9
+36.8
+Văn phòng
+G06.36.10
+36.9
+Ban Kế hoạch - Tài chính
+G06.36.11
+36.10
+Ban phát triển thị trường Ứng dụng công nghệ
+G06.36.12
+36.11
+Viện Phát triển Khoa học và Công nghệ Vùng
+G06.36.13
+37
+Nhà xuất bản Khoa học và Kỹ thuật
+G06.47
+37.1
+Trung tâm Phát hành sách và văn hóa phẩm
+G06.47.1
+37.2
+Chi nhánh Nhà xuất bản tại thành phố Hồ Chí Minh
+G06.47.2
+38
+Nhà xuất bản Thông tin và Truyền thông
+G06.93
+38.1
+Chi nhánh NXB tại TP Hồ Chí Minh
+G06.93.1
+38.2
+Chi nhánh NXB tại miền Trung - Tây Nguyên
+G06.93.2
+39
+Trường cao đẳng Thông tin và Truyền thông
+G06.98
+39.1
+Phòng Công nghệ số
+G06.98.1
+39.2
+Phòng Tổ chức-Hành chính
+G06.98.2
+39.3
+Phòng Kế hoạch-Tài chính
+G06.98.3
+39.4
+Phòng Quản lý đào tạo
+G06.98.4
+39.5
+Khoa khoa học đại cương
+G06.98.5
+39.6
+Khoa Công nghệ thông tin
+G06.98.6
+39.7
+Khoa Công nghệ in
+G06.98.7
+40
+Học viện Công nghệ bưu chính, viễn thông
+G06.91
+40.1
+Cơ sở đào tạo tại Hà Nội
+G06.91.1
+40.2
+Cơ sở đào tạo tại TP Hồ Chí Minh
+G06.91.2
+40.3
+Viện Khoa học kỹ thuật bưu điện
+G06.91.3
+40.4
+Viện kinh tế bưu điện
+G06.91.4
+40.5
+Viện công nghệ thông tin và truyền thông (CDIT)
+G06.91.5
+40.6
+Trung tâm đào tạo bưu chính viễn thông
+G06.91.6
+41
+Ban Quản lý dự án đầu tư xây dựng chuyên ngành
+  khoa học và công nghệ
+G06.103
+42
+Văn phòng Ủy ban vũ trụ Việt Nam
+G06.104
+Mã định danh điện tử phục vụ gửi nhận văn bản
+  cho Văn phòng Đảng - Đoàn thể, các doanh nghiệp trực thuộc Bộ
+43
+Công ty TNHH MTV phát triển và ứng dụng công
+  nghệ NEAD
+G06.105
+44
+Tổng Công ty Bưu điện Việt Nam
+G06.90
+45
+Tổng Công ty truyền thông đa phương tiện VTC
+G06.95
+55
+Đảng bộ Bộ KHCN
+G06.64
+56
+Đoàn Thanh niên
+G06.65
+57
+Văn Phòng Đảng - Đoàn thể
+G06.66
+58
+Văn phòng Đảng ủy Bộ KHCN
+G06.70
+Lưu trữ
+Ghi chú
+Ý kiến
+Facebook
+Email
+In
+Thư Viện
+Nhà Đất
+Bán nhà mới hoàn thiện 70m², sổ riêng, ngay chợ Tân Uyên – giá chỉ 1.9 tỷ
+1.9 tỷ
+,
+DT 70
+,
+Thành phố Tân Uyên, Bình Dương
+Bản án liên quan
+PHÁP LUẬT DOANH NGHIỆP
+Hỏi đáp pháp luật
+Quyết định 1600/QĐ-BKHCN năm 2025 về Mã định danh điện tử các cơ quan, đơn vị thuộc và trực thuộc Bộ Khoa học và Công nghệ phục vụ kết nối, chia sẻ dữ liệu với các bộ, ngành, địa phương
