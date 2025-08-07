@@ -1,0 +1,372 @@
+MỤC LỤC
+                                VĂN BẢN
+In mục lục
+QUYẾT ĐỊNH VỀ VIỆC BAN HÀNH KẾ HOẠCH TRIỂN KHAI HIỆU QUẢ ĐỀ ÁN “ỨNG DỤNG CÔNG NGHỆ SỐ TRONG VIỆC TIẾP NHẬN, XỬ LÝ PHẢN ÁNH, KIẾN NGHỊ VỀ VĂN BẢN QUY PHẠM PHÁP LUẬT”
+Điều 1. Ban hành kèm theo Quyết định này Kế hoạch triển khai hiệu quả Đề án "Ứng dụng công nghệ số trong việc tiếp nhận, xử lý phản ánh, kiến nghị về văn bản quy phạm pháp luật”.
+Điều 2. Quyết định này có hiệu lực kể từ ngày ký.
+Điều 3. Cục trưởng Cục Công nghệ thông tin và chuyển đổi số, Thủ trưởng các đơn vị thuộc Bộ và các cá nhân có liên quan chịu trách nhiệm thực hiện Quyết định này./.
+KẾ HOẠCH TRIỂN KHAI HIỆU QUẢ ĐỀ ÁN “ỨNG DỤNG CÔNG NGHỆ SỐ TRONG VIỆC TIẾP NHẬN, XỬ LÝ PHẢN ÁNH, KIẾN NGHỊ VỀ VĂN BẢN QUY PHẠM PHÁP LUẬT”
+I. MỤC TIÊU, YÊU CẦU
+II. NỘI DUNG, NHIỆM VỤ TRIỂN KHAI
+III. TỔ CHỨC THỰC HIỆN
+PHỤ LỤC DANH MỤC CÁC NHIỆM VỤ TRIỂN KHAI THỰC HIỆN QUYẾT ĐỊNH SỐ 244/QĐ-TTG
+BỘ TÀI CHÍNH
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 1627/QĐ-BTC
+Hà Nội, ngày 05
+  tháng 05 năm 2025
+QUYẾT ĐỊNH
+VỀ
+VIỆC BAN HÀNH KẾ HOẠCH TRIỂN KHAI HIỆU QUẢ ĐỀ ÁN “ỨNG DỤNG CÔNG NGHỆ SỐ TRONG
+VIỆC TIẾP NHẬN, XỬ LÝ PHẢN ÁNH, KIẾN NGHỊ VỀ VĂN BẢN QUY PHẠM PHÁP LUẬT”
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+Căn cứ Nghị định số
+42/2022/NĐ-CP
+ngày 24/6/2022 của Chính phủ quy định việc cung cấp thông tin và dịch vụ công
+trực tuyến của cơ quan Nhà nước trên môi trường mạng;
+Căn cứ Nghị định số
+29/2025/NĐ-CP
+ngày 24/02/2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu
+tổ chức của Bộ Tài chính;
+Căn cứ Quyết định số
+1484/QĐ-BTC
+ngày 27/7/2022 của Bộ trưởng Bộ Tài
+chính về việc ban hành Kế hoạch chuyển đổi số đến năm 2025, định hướng đến năm
+2030;
+Căn cứ Quyết định số
+244/QĐ-TTg
+ngày 02/5/2025 về việc Phê duyệt Đề
+án “Ứng dụng công nghệ số trong việc tiếp nhận, xử lý phản ánh, kiến nghị về
+văn bản quy phạm pháp luật”;
+Theo đề nghị của Cục trưởng Cục Công nghệ thông
+tin và chuyển đổi số.
+QUYẾT ĐỊNH:
+Điều 1.
+Ban hành kèm theo
+Quyết định này Kế hoạch triển khai hiệu quả Đề án "Ứng dụng công nghệ số
+trong việc tiếp nhận, xử lý phản ánh, kiến nghị về văn bản quy phạm pháp luật”.
+Điều 2.
+Quyết định này có
+hiệu lực kể từ ngày ký.
+Điều 3.
+Cục trưởng Cục Công
+nghệ thông tin và chuyển đổi số, Thủ trưởng các đơn vị thuộc Bộ và các cá nhân
+có liên quan chịu trách nhiệm thực hiện Quyết định này./.
+Nơi nhận:
+- Như Điều 3;
+- Bộ trưởng Nguyễn Văn Thắng (để b/c);
+- Các đồng chí Thứ trưởng (để b/c);
+- Lưu: VT, CNTT (05 b).
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+Bùi Văn Khắng
+KẾ HOẠCH
+TRIỂN
+KHAI HIỆU QUẢ ĐỀ ÁN “ỨNG DỤNG CÔNG NGHỆ SỐ TRONG VIỆC TIẾP NHẬN, XỬ LÝ PHẢN
+ÁNH, KIẾN NGHỊ VỀ VĂN BẢN QUY PHẠM PHÁP LUẬT”
+(Kèm theo Quyết định số 1627/QĐ-BTC ngày 05 tháng 5 năm 2025 của Bộ Tài
+chính)
+I. MỤC TIÊU, YÊU CẦU
+1. Mục tiêu
+- Ứng dụng công nghệ số trong việc tiếp nhận, xử lý
+thông tin, phản ánh về quy định pháp luật có mâu thuẫn, chồng chéo, không còn
+phù hợp trong hệ thống pháp luật trên cơ sở xây dựng, vận hành hiệu quả Hệ thống
+thông tin tiếp nhận, xử lý phản ánh, kiến nghị về văn bản quy phạm pháp luật, từ
+đó góp phần đẩy nhanh tiến độ tiếp nhận, xử lý phản ánh, kiến nghị và nâng cao
+chất lượng xây dựng, hoàn thiện hệ thống pháp luật thống nhất, đồng bộ, công
+khai, minh bạch, dễ tiếp cận.
+- Ứng dụng công nghệ số nhằm thúc đẩy, tạo điều kiện
+thuận lợi để các cá nhân, tổ chức, cơ quan phản ánh, kiến nghị kịp thời, nhanh
+chóng và giám sát quá trình tiếp nhận, xử lý các quy định pháp luật có mâu thuẫn,
+chồng chéo, không còn phù hợp.
+- Nâng cao chất lượng phục vụ người dân, doanh nghiệp
+và năng lực phản ứng chính sách của cơ quan, người có thẩm quyền; tăng cường hiệu
+quả hoạt động rà soát, kiểm tra văn bản quy phạm pháp luật và tổ chức thi hành
+pháp luật trong giai đoạn hiện nay.
+- Tạo sự chuyển biến mạnh mẽ tư duy của đội ngũ cán
+bộ, công chức, viên chức đối với việc ứng dụng công nghệ thông tin trong việc
+tiếp nhận, xử lý thông tin, phản ánh về quy định pháp luật có mâu thuẫn, chồng
+chéo, không còn phù hợp trong hệ thống pháp luật.
+2. Yêu cầu
+- Bám sát và cụ thể hóa chủ trương của Đảng tại Văn
+kiện Đại hội đại biểu toàn quốc lần thứ XIII, Nghị quyết số
+27-NQ/TW
+ngày 09/11/2022 của Bộ Chính trị về tiếp
+tục xây dựng, hoàn thiện Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam trong
+giai đoạn mới.
+- Tuân thủ đầy đủ các quy định pháp luật hiện hành
+về rà soát hệ thống văn bản quy phạm pháp luật, đặc biệt về tổ chức, cách thức,
+thẩm quyền, trách nhiệm rà soát và xử lý văn bản sau rà soát đã được quy định tại
+Luật số
+64/2025/QH15
+của Quốc hội về ban hành
+văn bản quy phạm pháp luật và Nghị định
+78/2025/NĐ-CP
+ngày 01/4/2025 của Chính phủ quy định chi tiết một số điều và biện pháp để tổ
+chức, hướng dẫn thi hành
+Luật Ban hành văn bản
+quy phạm pháp luật
+.
+- Hình thành kênh “giao tiếp” thường xuyên, liên tục
+giữa Nhà nước với các cá nhân, tổ chức, cơ quan trong xã hội; tăng cường sự
+tham gia của người dân, doanh nghiệp, đồng thời lấy người dân, doanh nghiệp làm
+trung tâm và Nhà nước “lắng nghe” người dân, doanh nghiệp để kịp thời phản ứng
+chính sách, nâng cao chất lượng xây dựng, hoàn thiện hệ thống pháp luật.
+- Tạo sự thay đổi từ nhận thức đến hành động trong
+quá trình tiếp nhận, xử lý thông tin, phản ánh về quy định pháp luật có mâu thuẫn,
+chồng chéo; không còn phù hợp trong hệ thống pháp luật từ trung ương đến địa
+phương thông qua việc ứng dụng công nghệ, giúp hoạt động hiệu quả, giảm thiểu
+chi phí, công sức thực hiện, đồng thời hỗ trợ việc theo dõi, đôn đốc, đánh giá
+và quản lý dựa trên kết quả.
+II. NỘI DUNG, NHIỆM VỤ TRIỂN
+KHAI
+Danh mục các nhiệm vụ triển khai thực hiện Quyết định
+số
+244/QĐ-TTg
+ngày 05/02/2025:
+(Chi tiết
+tại Phụ lục kèm theo).
+III. TỔ CHỨC THỰC HIỆN
+1. Các đơn vị thuộc Bộ
+- Chủ động triển khai thực hiện các nội dung quy định
+tại Quyết định số
+244/QĐ-TTg
+ngày 05/02/2025;
+xây dựng và cụ thể hóa thành kế hoạch triển khai thực hiện các nhiệm vụ được
+phân công tại Kế hoạch này.
+- Đánh giá khách quan, đầy đủ thực trạng tiếp nhận,
+xử lý thông tin do cá nhân, tổ chức, cơ quan phản ánh, kiến nghị về quy định
+pháp luật có mâu thuẫn, chồng chéo, không còn phù hợp.
+- Tiếp nhận và trả lời các phản ánh, kiến nghị được
+phân xử lý thông qua Hệ thống.
+- Chủ trì khai thác, sử dụng ứng dụng do Bộ Tư pháp
+cung cấp.
+- Nâng cao chất lượng, hiệu quả tiếp nhận, xử lý
+thông tin về quy định có mâu thuẫn, chồng chéo, không còn phù hợp trong hệ thống
+pháp luật thông qua việc tự động hóa tối đa các khâu: Tiếp nhận, phân loại,
+chuyển phản ánh, kiến nghị tới cơ quan có thẩm quyền xử lý; công khai, chia sẻ
+kết quả trả lời; theo dõi, đánh giá hiệu quả xử lý; thống kê, tổng hợp và báo
+cáo.
+2. Vụ Pháp chế
+- Đầu mối tiếp nhận và xử lý thông tin, phản ánh về
+quy định pháp luật có mâu thuẫn, chồng chéo, không còn phù hợp trên Hệ thống
+thông tin.
+- Phối hợp với các đơn vị liên quan trong triển
+khai sử dụng, ứng dụng công nghệ trong triển khai công tác chuyên môn.
+- Chủ trì phối hợp, cung cấp các thông tin tích hợp
+với Hệ thống thông tin tiếp nhận, xử lý phản ánh, kiến nghị về văn bản quy phạm
+pháp luật; theo dõi, đôn đốc, hướng dẫn các cơ quan, tổ chức liên quan vận hành
+hiệu quả Hệ thống thông tin tiếp nhận, xử lý phản ánh, kiến nghị về văn bản quy
+phạm pháp luật, kịp thời phát hiện, xử lý các quy định pháp luật có mâu thuẫn,
+chồng chéo, không còn phù hợp.
+3. Vụ Tài chính - Kinh tế ngành
+Tổng hợp dự toán kinh phí thực hiện từ các bộ,
+ngành, địa phương, trình cấp có thẩm quyền phê duyệt theo quy định.
+4. Cục Công nghệ thông tin và Chuyển đổi số
+- Xây dựng kế hoạch phối hợp với đơn vị chuyên môn
+của Bộ Tư pháp để triển khai sử dụng ứng dụng theo kế hoạch và tiến độ thực hiện
+Đề án.
+- Đầu mối chủ trì các yếu tố kỹ thuật và để đảm bảo
+tính tập trung trong thực hiện theo dõi và đánh giá kết quả, hiệu quả của Đề án
+trong quá trình thực hiện; tổng hợp các khó khăn vướng mắc (nếu có) để báo cáo
+Bộ Tài chính trao đổi, phối hợp với Bộ Tư pháp xử lý khắc phục.
+- Bảo đảm các điều kiện về hạ tầng kỹ thuật để triển
+khai có hiệu quả các nhiệm vụ trên Hệ thống thông tin tiếp nhận, xử lý phản
+ánh, kiến nghị về văn bản quy phạm pháp luật thuộc phạm vi quản lý nhà nước của
+Bộ; đồng thời tích hợp với Cổng thông tin điện tử của Bộ Tài chính, Hệ thống
+thông tin với Ứng dụng định danh quốc gia (VNeID), Cổng Dịch vụ công quốc gia.
+- Tổ chức tổng kết việc triển khai, thực hiện Đề án
+theo thời gian quy định tại Quyết định số
+244/QĐ-TTg
+.
+- Tổng hợp thông tin từ các đơn vị, báo cáo Lãnh đạo
+Bộ về tình hình triển khai thực hiện Đề án theo quy định tại Quyết định số
+1043/QĐ-BTC
+ngày 19/3/2025 của Bộ Tài chính về
+thực hiện Kết luận của Thường trực Chính phủ tại văn bản số 78a/TB-VPCP ngày
+04/3/2025 của Văn phòng Chính phủ, Nghị quyết số
+46/NQ-CP
+của Chính phủ về Phiên họp Chính phủ thường kỳ tháng 02 năm 2025 và Chỉ thị số
+05/CT-TTg
+của Thủ tướng Chính phủ về các nhiệm vụ,
+giải pháp trọng tâm, đột phá thúc đẩy tăng trưởng kinh tế và đẩy mạnh giải ngân
+vốn đầu tư công, bảo đảm mục tiêu tăng trưởng cả nước năm 2025 đạt 8% trở lên.
+- Truyền thông về việc thực hiện hiệu quả Đề án
+"Ứng dụng công nghệ số trong việc tiếp nhận, xử lý phản ánh, kiến nghị về
+văn bản quy phạm pháp luật”./.
+PHỤ LỤC
+DANH MỤC CÁC NHIỆM VỤ TRIỂN KHAI THỰC HIỆN QUYẾT ĐỊNH SỐ
+244/QĐ-TTG
+(Kèm theo Quyết định số    /QĐ-BTC ngày
+   tháng    năm 2025 của Bộ Tài chính)
+STT
+Nhiệm vụ
+Thời gian thực
+  hiện
+Đơn vị chủ trì
+Đơn vị phối hợp
+1
+Xây dựng kế hoạch và tổ chức triển khai, thực hiện
+  Đề án bảo đảm hiệu quả, đúng yêu cầu và tiến độ
+Tháng 4/2025
+Cục CNTT
+Các đơn vị liên
+  quan thuộc Bộ
+2
+Phổ biến, quán triệt, thông tin, tuyên truyền nội
+  dung Quyết định số
+244/QĐ-TTg
+ngày 05/02/2025
+Thường xuyên, hàng
+  năm
+Cục CNTT
+Các đơn vị liên
+  quan thuộc Bộ
+3
+Tuyên truyền để các cá nhân, tổ chức, cơ quan, đặc
+  biệt là người dân, doanh nghiệp biết và chủ động khai thác, sử dụng tiện ích
+  của Hệ thống thông tin trong quá trình phản ánh, kiến nghị vướng mắc trong hệ
+  thống pháp luật; truyền thông về giá trị và cách thức khai thác, sử dụng Hệ
+  thống thông tin
+Thường xuyên, hàng
+  năm
+Cục CNTT
+Các đơn vị liên
+  quan thuộc Bộ
+4
+Xây dựng kế hoạch phối hợp với đơn vị chuyên môn
+  của Bộ Tư pháp để triển khai sử dụng ứng dụng theo kế hoạch và tiến độ thực
+  hiện Đề án
+Thường xuyên, hàng
+  năm
+Cục CNTT
+Các đơn vị liên
+  quan thuộc Bộ
+5
+Tích hợp "Ứng dụng công nghệ số trong việc tiếp
+  nhận, xử lý phản ánh, kiến nghị về văn bản quy phạm pháp luật” với Cổng thông
+  tin điện tử của Bộ Tài chính, Hệ thống thông tin với Ứng dụng định danh quốc
+  gia (VNeID), Cổng Dịch vụ công quốc gia
+Thường xuyên, hàng
+  năm
+Cục CNTT
+Các đơn vị liên
+  quan thuộc Bộ
+6
+Tổng hợp dự toán kinh phí của các Bộ, ngành thuộc
+  phạm vi quản lý, gửi Vụ Ngân sách nhà nước, Vụ Tổng hợp kinh tế quốc dân
+  trình cấp có thẩm quyền phê dự toán theo quy định
+Định kỳ
+Vụ Tài chính -
+  Kinh tế ngành
+Các đơn vị liên
+  quan thuộc Bộ
+7
+Hướng dẫn, phối hợp với các bộ, cơ quan ngang bộ,
+  Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương, các cơ quan, tổ chức
+  liên quan lập dự toán chi tiết kinh phí hằng năm bảo đảm thực hiện Đề án hiệu
+  quả, đúng pháp luật
+Định kỳ
+Vụ Ngân sách nhà
+  nước
+Các đơn vị liên
+  quan thuộc Bộ
+8
+Đánh giá khách quan, đầy đủ thực trạng tiếp nhận,
+  xử lý thông tin do cá nhân, tổ chức, cơ quan phản ánh, kiến nghị về quy định
+  pháp luật có mâu thuẫn, chồng chéo, không còn phù hợp
+Thường xuyên, hàng
+  năm
+Các đơn vị được giao
+  chủ trì xây dựng văn bản QPPL
+Các đơn vị liên
+  quan thuộc Bộ
+9
+Tiếp nhận, phân loại, chuyển phản ánh, kiến nghị
+  tới cơ quan có thẩm quyền xử lý; công khai, chia sẻ kết quả trả lời; theo
+  dõi, đánh giá hiệu quả xử lý; thống kê, tổng hợp và báo cáo
+Thường xuyên
+Các đơn vị được
+  giao chủ trì xây dựng văn bản QPPL
+Các đơn vị liên
+  quan thuộc Bộ
+10
+Phối hợp xử lý khi phát sinh phản ánh, kiến nghị
+  về văn bản quy phạm pháp luật do đơn vị tham mưu xây dựng
+Thường xuyên
+Các đơn vị được
+  giao chủ trì xây dựng văn bản QPPL
+Các đơn vị liên
+  quan thuộc Bộ
+11
+Xây dựng, trình Bộ ban hành văn bản hành chính để
+  chỉ đạo các đơn vị liên quan phối hợp triển khai Hệ thống thông tin tiếp nhận,
+  xử lý phản ánh, kiến nghị về văn bản quy phạm pháp luật
+Định kỳ
+Cục CNTT
+Các đơn vị liên
+  quan thuộc Bộ
+12
+Thực hiện việc tiếp nhận và xử lý thông tin, phản
+  ánh về quy định pháp luật có mâu thuẫn, chồng chéo, không còn phù hợp trên Hệ
+  thống thông tin
+Thường xuyên
+Vụ Pháp chế
+Các đơn vị liên
+  quan thuộc Bộ
+13
+Tham gia đào tạo, bồi dưỡng nghiệp vụ làm công
+  tác xây dựng và khai thác, sử dụng ứng dụng công nghệ số trong việc tiếp nhận,
+  xử lý phản ánh, kiến nghị về văn bản quy phạm pháp luật
+Định kỳ, hằng năm
+Cục CNTT
+Các đơn vị liên
+  quan thuộc Bộ
+14
+Khai thác, sử dụng ứng dụng do Bộ Tư pháp cung cấp
+Thường xuyên
+Các đơn vị được
+  giao chủ trì xây dựng văn bản QPPL
+Các đơn vị liên
+  quan thuộc Bộ
+15
+Tổng hợp khó khăn, vướng mắc (nếu có) để báo cáo
+  Bộ Tài chính trao đổi, phối hợp với Bộ Tư pháp xử lý khắc phục
+Định kỳ
+Cục CNTT
+Các đơn vị liên
+  quan thuộc Bộ
+16
+Tổng hợp thông tin từ các đơn vị, báo cáo Lãnh đạo
+  Bộ về tình hình triển khai thực hiện Đề án theo quy định tại Quyết định số
+1043/QĐ-BTC
+ngày 19/3/2025 của Bộ Tài chính
+Định kỳ hằng tháng
+Cục CNTT
+Các đơn vị liên
+  quan gửi kết quả thực hiện các nhiệm vụ vào ngày 20 hằng tháng
+Lưu trữ
+Ghi chú
+Ý kiến
+Facebook
+Email
+In
+Thư Viện
+Nhà Đất
+ĐẦU TƯ NGAY CĂN HỘ PENINSULA TRỰC DIỆN SÔNG HÀN VỚI MỨC GIÁ TỐT NHẤT THỊ TRƯỜNG ĐÀ NẴNG - CHỈ 38 CĂN CUỐI CÙNG
+-
+,
+DT 77.6
+m
+2
+,
+Quận Sơn Trà, Đà Nẵng
+Pháp Luật Thuế
+Bản án liên quan
+PHÁP LUẬT DOANH NGHIỆP
+Hỏi đáp pháp luật
+Quyết định 1627/QĐ-BTC năm 2025 về Kế hoạch triển khai hiệu quả Đề án "Ứng dụng công nghệ số trong việc tiếp nhận, xử lý phản ánh, kiến nghị về văn bản quy phạm pháp luật” do Bộ trưởng Bộ Tài chính ban hành

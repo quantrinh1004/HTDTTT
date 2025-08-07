@@ -1,0 +1,454 @@
+MỤC LỤC
+                                VĂN BẢN
+In mục lục
+QUYẾT ĐỊNH BAN HÀNH QUY CHẾ QUẢN LÝ, VẬN HÀNH, KHAI THÁC VÀ SỬ DỤNG HỆ THỐNG PHÒNG HỌP KHÔNG GIẤY TỈNH BÌNH ĐỊNH
+Điều 1. Ban hành kèm theo Quyết định này Quy chế quản lý, vận hành, khai thác và sử dụng Hệ thống phòng họp không giấy tỉnh Bình Định.
+Điều 2. Quyết định này có hiệu lực kể từ ngày ký ban hành.
+Điều 3. Chánh Văn phòng Ủy ban nhân dân tỉnh, Thủ trưởng các sở, ban, ngành và các cơ quan, đơn vị, địa phương liên quan chịu trách nhiệm thi hành Quyết định này./.
+QUY CHẾ QUẢN LÝ, VẬN HÀNH, KHAI THÁC VÀ SỬ DỤNG HỆ THỐNG PHÒNG HỌP KHÔNG GIẤY TỈNH BÌNH ĐỊNH
+Chương I NHỮNG QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Điều 2. Đối tượng áp dụng
+Điều 3. Giải thích từ ngữ
+Điều 4. Tên miền và tài khoản sử dụng Hệ thống
+Điều 5. Nguyên tắc quản lý, vận hành, khai thác sử dụng Hệ thống phòng họp không giấy
+Chương II QUY TRÌNH ĐĂNG KÝ VÀ SỬ DỤNG HỆ THỐNG PHÒNG HỌP KHÔNG GIẤY
+Điều 6. Đăng ký tổ chức họp không giấy
+Điều 7. Xử lý nội dung đăng ký họp không giấy
+Điều 8. Công tác chuẩn bị trước cuộc họp không giấy
+Điều 9. Các nội dung liên quan đến vận hành, khai thác dữ liệu của Hệ thống trong họp không giấy
+Điều 10. Kết thúc cuộc họp
+Chương III TỔ CHỨC THỰC HIỆN
+Điều 11. Trách nhiệm của Văn phòng UBND tỉnh
+Điều 12. Trách nhiệm của các cơ quan, đơn vị
+PHỤ LỤC SỔ THEO DÕI, THỐNG KÊ SỐ LƯỢNG CUỘC HỌP TRÊN HỆ THỐNG PHÒNG HỌP KHÔNG GIẤY
+ỦY BAN NHÂN DÂN
+TỈNH BÌNH ĐỊNH
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 1534/QĐ-UBND
+Bình Định, ngày
+  06 tháng 5 năm 2025
+QUYẾT ĐỊNH
+BAN HÀNH QUY CHẾ QUẢN LÝ, VẬN HÀNH, KHAI THÁC VÀ SỬ DỤNG HỆ THỐNG
+PHÒNG HỌP KHÔNG GIẤY TỈNH BÌNH ĐỊNH
+ỦY BAN NHÂN DÂN TỈNH BÌNH ĐỊNH
+Căn cứ Luật An ninh mạng
+ngày 12 tháng 6 năm 2018;
+Căn cứ Luật Bảo vệ bí mật
+nhà nước ngày 15 tháng 11 năm 2018;
+Căn cứ Luật Giao dịch điện tử
+ngày 22 tháng 6 năm 2023;
+Căn cứ Luật Tổ chức chính
+quyền địa phương ngày 19 tháng 02 năm 2025;
+Căn cứ Nghị quyết số
+71/NQ-CP ngày 01 tháng 4 năm 2025 của Chính phủ sửa đổi, bổ sung, cập nhật
+Chương trình hành động của Chính phủ thực hiện Nghị quyết số 57-NQ/TW ngày 22
+tháng 12 năm 2024 của Bộ Chính trị về đột phá phát triển khoa học, công nghệ, đổi
+mới sáng tạo và chuyển đổi số quốc gia;
+Căn cứ Quyết định số
+749/QĐ-TTg ngày 03 tháng 6 năm 2020 của Thủ tướng Chính phủ phê duyệt Chương
+trình chuyển đổi số quốc gia đến năm 2025, định hướng đến năm 2030;
+Căn cứ Quyết định số
+77/QĐ-UBND ngày 09 tháng 01 năm 2025 của Ủy ban nhân dân tỉnh về việc phê duyệt
+Kiến trúc Chính quyền điện tử tỉnh Bình Định phiên bản 3.0, hướng tới Chính quyền
+số;
+Căn cứ Kế hoạch số 59/KH-UBND
+ngày 25 tháng 4 năm 2022 của Ủy ban nhân dân tỉnh về triển khai thực hiện Nghị
+quyết số 05-NQ/TU ngày 20 tháng 9 năm 2021 của Ban Thường vụ Tỉnh ủy (khóa XX)
+về chuyển đổi số tỉnh Bình Định đến năm 2025, định hướng đến năm 2030;
+Căn cứ Kế hoạch số
+37/KH-UBND ngày 26 tháng 02 năm 2025 của Ủy ban nhân dân tỉnh về thực hiện
+Chương trình hành động theo Nghị quyết số
+03/NQ-CP ngày 09 tháng 01 năm
+2025 của Chính phủ và Chương trình hành
+động số 32 -CTr/TU ngày 17 tháng
+02 năm 2025 của Tỉnh ủy thực hiện Nghị quyết số 57-NQ/TW ngày 22 tháng 12 năm
+2024 của Bộ Chính trị về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo
+và chuyển đổi số quốc gia;
+Theo đề nghị của Chánh Văn
+Phòng Ủy ban nhân dân tỉnh tại Tờ trình số 378/TTr-VPUBND ngày 29 tháng 4 năm
+2025.
+QUYẾT ĐỊNH:
+Điều 1.
+Ban hành kèm theo Quyết định này Quy chế quản lý, vận hành,  khai thác và
+sử dụng Hệ thống phòng họp không giấy tỉnh Bình Định.
+Điều 2.
+Quyết định này có hiệu lực kể từ ngày ký ban hành.
+Điều 3.
+Chánh Văn phòng Ủy ban nhân dân tỉnh, Thủ trưởng các sở, ban, ngành và các cơ
+quan, đơn vị, địa phương liên quan chịu trách nhiệm thi hành Quyết định này./.
+Nơi nhận:
+-
+Như Điều 3;
+- CT, các PCT UBND tỉnh;
+- Văn phòng Tỉnh ủy;
+- UBND các huyện, thị xã, thành phố;
+- LĐVP UBND tỉnh, CV;
+- Trung tâm PVHCC tỉnh;
+- Các Phòng: CCKS, HCQT;
+- Lưu: VT, K8.
+TM. ỦY BAN NHÂN
+  DÂN
+KT. CHỦ TỊCH
+PHÓ CHỦ TỊCH
+Lâm Hải Giang
+QUY CHẾ
+QUẢN LÝ, VẬN HÀNH, KHAI THÁC VÀ SỬ DỤNG HỆ THỐNG PHÒNG HỌP
+KHÔNG GIẤY TỈNH BÌNH ĐỊNH
+(Kèm theo Quyết định số: 1534/
+QĐ-UBND
+ngày 06 tháng 5 năm 2025 của Ủy
+ban nhân dân tỉnh)
+Chương I
+NHỮNG QUY ĐỊNH CHUNG
+Điều 1.
+Phạm vi điều chỉnh
+Quy chế này quy định về việc quản
+lý, vận hành, khai thác, sử dụng hệ thống phòng họp không giấy tỉnh Bình Định
+(gọi chung là Hệ thống).
+Điều 2. Đối
+tượng áp dụng
+1. Các cơ quan chuyên môn thuộc
+Ủy ban nhân dân tỉnh và các đơn vị, địa phương trên địa bàn tỉnh (sau đây gọi
+chung là các cơ quan, đơn vị)
+2. Cán bộ, công chức, viên chức,
+người lao động (sau đây gọi tắt là công chức, viên chức) của các cơ quan, đơn vị
+tham gia vận hành, khai thác và sử dụng Hệ thống.
+3. Các tổ chức, doanh nghiệp,
+cá nhân sử dụng Hệ thống để tham gia các cuộc họp do các cơ quan, đơn vị, địa
+phương tổ chức.
+Điều 3.
+Giải thích từ ngữ
+1. Hệ thống phòng họp không giấy
+tỉnh Bình Định là Hệ thống thông tin có chức năng tổ chức thông tin, quản lý và
+cung cấp tài liệu điện tử cho các cuộc họp, cụ thể gồm các chức năng cơ bản
+sau:
+a) Lập lịch họp, tổ chức cập nhật
+và quản lý thông tin cuộc họp, bao gồm các thông tin như: tên, nội dung, thời
+gian, địa điểm và thành phần tham dự.
+b) Tổ chức cập nhật tài liệu điện
+tử cho các cuộc họp, đồng thời có khả năng chia sẻ tài liệu (các tài liệu điện
+tử phục vụ cuộc họp là các tập tin dạng như: *.pdf, *.docx, *.xlsx, *.jpg…).
+c) Thực hiện điểm danh điện tử
+các đại biểu tham gia cuộc họp, đăng ký phát biểu, biểu quyết, điều hành cuộc họp
+của chủ tọa và ghi âm cuộc họp.
+d) Cập nhật thông báo kết luận,
+biên bản cuộc họp và các tài liệu kèm theo.
+đ) Thực hiện quản lý, thống kê,
+báo cáo số lượng cuộc họp, số tài liệu điện tử và số trang tài liệu điện tử của
+cuộc họp, số lượng đại biểu dự họp và không dự họp… theo định kỳ và đột xuất
+khi có yêu cầu.
+e) Tổ chức khai báo, quản lý,
+phân quyền và giám sát người dùng.
+g) Thông báo sớm thông tin cuộc
+họp để đại biểu có thời gian tham khảo tài liệu trước khi dự họp.
+2. Thông tin cuộc họp là thông
+tin liên quan để tổ chức cuộc họp như: tên cuộc họp, giấy mời, thời gian, địa
+điểm, nội dung, tài liệu, thành phần tham dự họp.
+3. Quản trị hệ thống cấp cao
+(sau đây gọi tắt là Quản trị hệ thống) là người có thẩm quyền cao nhất trong việc
+quản lý hiệu năng, thiết lập các tham số hệ thống, khắc phục sự cố, cập nhật phần
+mềm, bảo đảm an toàn thông tin, tạo, sửa, xóa và phân quyền tài khoản người
+dùng trên phạm vi toàn Hệ thống.
+4. Quản trị hệ thống tại các cơ
+quan, đơn vị (sau đây gọi tắt là Quản trị đơn vị) là người có trách nhiệm hỗ trợ
+công tác vận hành, khai thác, thiết lập các tham số hệ thống, tạo, sửa, xóa,
+phân quyền tài khoản người dùng và quản lý các thiết bị phần cứng phục vụ truy
+cập, sử dụng Hệ thống tại cơ quan, đơn vị do mình phụ trách.
+5. Đầu mối chuẩn bị cuộc họp là
+công chức, viên chức được giao nhiệm vụ đăng ký lịch họp, soạn thảo giấy mời họp,
+chuẩn bị cuộc họp.
+6. Thành phần tham dự cuộc họp
+là những cơ quan, đơn vị, địa phương và cá nhân quy định tại Điều 1 Quy chế
+này.
+Điều 4. Tên
+miền và tài khoản sử dụng Hệ thống
+1. Hệ thống phòng họp không giấy
+tỉnh Bình Định được cung cấp tại địa chỉ truy cập:
+https://ecabinet.binhdinh.gov.vn
+.
+2. Tài khoản truy cập cho Quản
+trị đơn vị được cấp lần đầu khi triển khai Hệ thống tại cơ quan, đơn vị. Mỗi cơ
+quan, đơn vị phân công công chức, viên chức quản lý và sử dụng tài khoản này để
+hỗ trợ công tác quản lý Hệ thống tại cơ quan, đơn vị.
+3. Tài khoản cho công chức,
+viên chức sử dụng Hệ thống của từng cơ quan, đơn vị được Quản trị đơn vị quản
+lý và cấp mới tại chính cơ quan, đơn vị đó, tài khoản có giá trị sử dụng trên
+toàn Hệ thống:
+a) Đối với trường hợp tuyển dụng,
+luân chuyển, điều động, bổ nhiệm công chức, viên chức khi có quyết định của cơ
+quan, đơn vị quản lý: Quản trị đơn vị thực hiện tạo lập hoặc thay đổi thông tin
+tài khoản truy cập Hệ thống cho các công chức, viên chức.
+b) Đối với trường hợp công chức,
+viên chức nghỉ hưu, nghỉ việc hoặc không còn làm việc cho các cơ quan, đơn vị
+khi có quyết định của cấp có thẩm quyền: Quản trị đơn vị có trách nhiệm thực hiện
+hủy bỏ tài khoản truy cập Hệ thống của công chức, viên chức đó.
+4. Công chức, viên chức sử dụng
+tài khoản cá nhân được cung cấp đăng nhập vào Hệ thống để khai thác, sử dụng
+các tính năng của Hệ thống.
+5. Công chức, viên chức được
+giao quản lý tài khoản của cá nhân, tài khoản có chức năng quản trị Hệ thống
+không được chia sẻ cho người khác, mật khẩu phải định kỳ thay đổi tối thiểu 03
+tháng một lần hoặc khi có chỉ đạo, yêu cầu từ cơ quan, đơn vị có thẩm quyền.
+Điều 5.
+Nguyên tắc quản lý, vận hành, khai thác sử dụng Hệ thống phòng họp không giấy
+1. Việc quản lý, vận hành, khai
+thác sử dụng Hệ thống phải tuân thủ theo các quy định của pháp luật về: công
+nghệ thông tin, tiếp cận thông tin, an toàn thông tin, giao dịch điện tử, bảo vệ
+bí mật Nhà nước và các quy định khác có liên quan của pháp luật, đảm bảo cho việc
+tổ chức cuộc họp được thông suốt, tiết kiệm, an toàn, hiệu quả.
+2. Tài liệu, văn bản cập nhật
+lên Hệ thống để phục vụ khai thác phải đảm bảo:
+a) Tuân theo Luật Bảo vệ bí mật
+nhà nước và các quy định khác có liên quan của pháp luật bảo đảm nguyên tắc an
+toàn, an ninh thông tin.
+b) Sử dụng tài liệu điện tử
+trên Hệ thống, không cung cấp văn bản giấy, trừ một số trường hợp đặc thù yêu cầu
+phải sử dụng văn bản giấy do chủ trì cuộc họp xem xét, quyết định.
+3. Việc khai thác, sử dụng
+thông tin của các cơ quan, đơn vị, công chức, viên chức trên Hệ thống được thực
+hiện theo đúng quy định của pháp luật về bảo vệ thông tin, dữ liệu cá nhân.
+4. Hệ thống phòng họp không giấy
+được sử dụng tại các cơ quan, đơn vị để hỗ trợ công tác tổ chức họp, cung cấp
+thông tin, tài liệu điện tử nhằm tiết kiệm chi phí, thời gian, nâng cao hiệu quả
+quản lý, chỉ đạo, điều hành.
+5. Việc điều hành cuộc họp (Bắt
+đầu và kết thúc cuộc họp; điểm danh thành phần tham dự; bổ sung tài liệu; tạo nội
+dung biểu quyết các vấn đề cần xin ý kiến; điều hành thảo luận và kết luận cuộc
+họp); đăng ký phát biểu; tham gia phát biểu; đóng góp ý kiến trực tiếp nội dung
+cuộc họp; tổng hợp ý kiến đại biểu tham dự được thực hiện trên Hệ thống.
+Chương II
+QUY TRÌNH ĐĂNG KÝ VÀ SỬ
+DỤNG HỆ THỐNG PHÒNG HỌP KHÔNG GIẤY
+Điều 6.
+Đăng ký tổ chức họp không giấy
+1. Đầu mối chuẩn bị cuộc họp phải
+gửi thông tin cho bộ phận được Lãnh đạo các cơ quan, đơn vị phân công nhiệm vụ
+Quản trị đơn vị trước 02 ngày tổ chức cuộc họp. Trường hợp họp đột xuất, khẩn cấp
+(như bão, lũ lụt, thiên tai, hoả hoạn…): Đầu mối chuẩn bị cuộc họp thông báo bằng
+điện thoại cho các đơn vị liên quan ít nhất trước 03 giờ để kịp thời chuẩn bị
+điều kiện kỹ thuật phục vụ cuộc họp.
+2. Thông tin gửi cho Quản trị
+đơn vị để khởi tạo cuộc họp không giấy bao gồm: Nội dung họp, chủ trì cuộc họp,
+thư ký, người phê duyệt, thời gian, phòng họp, thành phần tham dự và tài liệu
+kèm theo.
+3. Tài liệu cuộc họp phải được
+chủ trì cuộc họp phê duyệt trước khi đăng tải trên Hệ thống thay cho tài liệu
+giấy. Riêng đối với cuộc họp của Ủy ban nhân dân tỉnh, tài liệu cuộc họp phải
+được Lãnh đạo Văn phòng Ủy ban nhân dân tỉnh tham dự họp phê duyệt trước khi
+đăng tải.
+Điều 7. Xử
+lý nội dung đăng ký họp không giấy
+Chậm nhất sau 01 giờ tính từ
+lúc đầu mối chuẩn bị cuộc họp gửi đầy đủ thông tin tổ chức họp, Quản trị đơn vị
+có trách nhiệm khởi tạo cuộc họp, đăng tải tài liệu của cuộc họp trên Hệ thống
+(trừ các tài liệu mật hoặc tài liệu chứa thông tin mật). Đối với cuộc họp đột
+xuất (thời gian thông báo họp dưới 03 giờ), nếu không kịp đăng tải tài liệu
+trên Hệ thống, Quản trị đơn vị có trách nhiệm phối hợp với đầu mối chuẩn bị cuộc
+họp in tài liệu họp và gửi trực tiếp cho đại biểu tham dự tại cuộc họp.
+Điều 8.
+Công tác chuẩn bị trước cuộc họp không giấy
+1. Chậm nhất 01 ngày trước thời
+gian diễn ra cuộc họp (đối với cuộc họp đã có trong lịch công tác tuần) và sau
+khi nhận thông báo họp (đối với cuộc họp đột xuất), người thuộc thành phần tham
+dự họp có trách nhiệm xác nhận tham dự họp trên Hệ thống (xác nhận tham dự, ủy
+quyền dự thay hoặc từ chối tham dự cuộc họp).
+2. Các thành viên tham dự họp tự
+chuẩn bị thiết bị và tài khoản được cấp tại cơ quan, đơn vị để tham gia cuộc họp.
+Trong trường hợp thành viên tham dự họp không có thiết bị hoặc chưa được cấp
+tài khoản tham dự họp, cần phải thông tin cho đơn vị chủ trì họp trước 01 ngày
+để đơn vị chủ trì họp kịp thời chuẩn bị các điều kiện cần thiết cho các thành
+viên tham dự họp.
+3. Quản trị đơn vị có trách nhiệm
+kiểm tra, rà soát, đánh giá công tác chuẩn bị họp, hỗ trợ thiết bị họp, hỗ trợ
+truy cập cuộc họp khi nhận được đề nghị hỗ trợ từ các thành viên tham dự họp.
+Điều 9. Các
+nội dung liên quan đến vận hành, khai thác dữ liệu của Hệ thống trong họp không
+giấy
+1. Tất cả các cuộc họp đều ghi
+âm, trừ trường hợp cuộc họp có nội dung “Mật” do chủ trì cuộc họp quyết định. Đầu
+mối chuẩn bị cuộc họp thực hiện ghi âm diễn biến cuộc họp trên Hệ thống. Hệ thống
+có chức năng chuyển đổi giọng nói thành văn bản hỗ trợ cho việc biên tập biên bản
+cuộc họp. File ghi âm, file chuyển đổi văn bản được lưu trữ trên hệ thống máy
+chủ của đơn vị chủ quản hệ thống và chỉ được cung cấp khi có yêu cầu của Ủy ban
+nhân dân tỉnh hoặc chủ trì cuộc họp.
+2. Đầu mối chuẩn bị cuộc họp có
+trách nhiệm theo dõi nội dung phiên họp, tiếp nhận các yêu cầu liên quan đến việc
+khai thác, sử dụng Hệ thống. Khi xảy ra sự cố liên quan đến cuộc họp tiến hành
+thông báo và phối hợp với Quản trị đơn vị để xử lý sự cố.
+3. Quản trị đơn vị có trách nhiệm
+phối hợp với đầu mối chuẩn bị cuộc họp hỗ trợ các yêu cầu liên quan đến việc
+khai thác, sử dụng Hệ thống, kiểm tra xử lý các sự cố liên quan đến cuộc họp đảm
+bảo chất lượng phục vụ họp.
+Điều 10. Kết
+thúc cuộc họp
+1. Đầu mối chuẩn bị họp có
+trách nhiệm chuyển thể các ý kiến phát biểu, thảo luận, góp ý của đại biểu và kết
+luận của chủ trì cuộc họp, … thành văn bản và lưu theo nội dung cuộc họp. Tổng
+hợp các thông tin liên quan đến tài liệu họp, thông tin về số lượng đại biểu dự
+họp và không dự họp để lưu trữ, báo cáo theo quy định.
+2. Quản trị đơn vị có trách nhiệm
+cập nhật nhật ký họp theo mẫu tại
+Phụ lục
+kèm theo
+và gửi về Văn phòng Ủy ban nhân dân tỉnh khi có yêu cầu.
+Chương
+III
+TỔ CHỨC THỰC HIỆN
+Điều 11.
+Trách nhiệm của Văn phòng UBND tỉnh
+1. Theo dõi, đôn đốc, kiểm tra,
+đánh giá việc thực hiện Quy chế này, báo cáo Ủy ban nhân dân tỉnh theo định kỳ
+hằng năm hoặc đột xuất theo yêu cầu của cơ quan có thẩm quyền
+2. Quản trị Hệ thống phòng họp
+không giấy đảm bảo hoạt động thông suốt, an toàn, ổn định. Chủ trì, phối hợp với
+các cơ quan, đơn vị có liên quan nghiên cứu, đề xuất giải pháp và kinh phí duy
+trì hoạt động, nâng cấp, phát triển Hệ thống, bổ sung hạ tầng kỹ thuật để đảm bảo
+Hệ thống hoạt động an toàn, ổn định, hiệu quả.
+3. Phối hợp các cơ quan, đơn vị
+tổ chức triển khai sử dụng Hệ thống phục vụ cho các cuộc họp của cơ quan hành
+chính nhà nước trên địa bàn tỉnh, đảm bảo hiệu quả và tiết kiệm.
+4. Đầu mối tiếp nhận các góp ý,
+đề xuất, có kế hoạch khắc phục, cải tiến, nâng cấp để Hệ thống ngày càng hoàn
+thiện và sử dụng hiệu quả hơn.
+5. Chịu trách nhiệm giúp Ủy ban
+nhân dân tỉnh quản lý, vận hành hoạt động của Hệ thống phòng họp không giấy tỉnh
+Bình Định theo Quy chế này và các quy định khác có liên quan của pháp luật.
+Điều 12.
+Trách nhiệm của các cơ quan, đơn vị
+1. Thủ trưởng các cơ quan, đơn
+vị trên địa bàn tỉnh và các đơn vị có liên quan có trách nhiệm tổ chức triển
+khai thực hiện Quy chế này trong phạm vi quản lý của mình.
+2. Lãnh đạo các cơ quan, đơn vị
+sử dụng Hệ thống có trách nhiệm:
+a) Gương mẫu thực hiện sử dụng
+tài liệu phục vụ cuộc họp thông qua Hệ thống.
+b) Bảo mật tài khoản, thường
+xuyên theo dõi thông tin cuộc họp trên Hệ thống và thông báo nội dung cuộc họp
+qua Hệ thống quản lý văn bản và thư điện tử công vụ.
+c) Chịu trách nhiệm với cơ quan
+quản lý cấp trên về tình hình quản lý và sử dụng Hệ thống tại đơn vị mình.
+d) Phân công công chức, viên chức
+Quản trị hệ thống của đơn vị cập nhật đầy đủ thông tin lãnh đạo, đơn vị vào Hệ
+thống kịp thời khi có thay đổi.
+đ) Thường xuyên theo dõi, kiểm
+tra các cơ quan, đơn vị, tổ chức, cá nhân thuộc thẩm quyền quản lý trong công
+tác triển khai thực hiện các nội dung quy định tại Quy chế này; nếu phát hiện
+có trường hợp thực hiện thiếu nghiêm túc hoặc vi phạm Quy chế thì phải xử lý
+nghiêm theo quy định.
+e) Phối hợp chặt chẽ với Văn
+phòng Ủy ban nhân dân tỉnh trong quá trình vận hành hoạt động của Hệ thống để đảm
+bảo việc tổ chức phòng họp không giấy của cơ quan, đơn vị được diễn ra thông suốt,
+an toàn, hiệu quả.
+3. Công chức, viên chức được
+phân công quản lý, khai thác, sử dụng Hệ thống có trách nhiệm:
+a) Giúp lãnh đạo đơn vị triển
+khai, thực hiện các nội dung được quy định tại Chương II của Quy chế này.
+b) Chịu trách nhiệm bảo vệ tài
+khoản đăng nhập, bảo đảm an toàn, an ninh thông tin, tránh trường hợp bị lộ lọt,
+đánh cắp, chiếm quyền truy cập vào Hệ thống; chịu trách nhiệm về tính chính xác
+thông tin mà tổ chức, cá nhân cung cấp trên Hệ thống.
+c) Sử dụng Hệ thống hiệu quả,
+không sử dụng vào mục đích không thuộc phạm vi, chức năng, nhiệm vụ được phân công.
+d) Không tự ý tháo gỡ, thay đổi
+cấu hình, chức năng phần cứng phục vụ truy cập Hệ thống phòng họp không giấy;
+không cài đặt phần mềm trái phép hoặc thực hiện các hành vi có thể gây rủi ro bảo
+mật cho Hệ thống.
+đ) Trong quá trình vận hành,
+trường hợp gặp khó khăn trong việc sử dụng hoặc phát hiện sự cố thiết bị cần
+báo ngay cho Quản trị đơn vị để có phương án hỗ trợ kịp thời.
+Trong quá trình thực hiện, nếu
+có khó khăn, vướng mắc; các cơ quan, đơn vị, tổ chức, cá nhân phản ánh kịp thời
+về Văn phòng Ủy ban nhân dân tỉnh để tổng hợp, báo cáo Ủy ban nhân dân tỉnh xem
+xét, chỉ đạo thực hiện./.
+PHỤ LỤC
+SỔ THEO DÕI, THỐNG KÊ SỐ LƯỢNG CUỘC HỌP TRÊN HỆ THỐNG
+PHÒNG HỌP KHÔNG GIẤY
+STT
+N
+ộ
+i
+d
+u
+n
+g
+c
+u
+ộ
+c h
+ọ
+p
+C
+hủ t
+r
+ì
+Thời
+g
+i
+a
+n
+T
+ổ
+n
+g
+s
+ố
+đ
+ạ
+i
+biểu
+  th
+a
+m
+d
+ự
+Ghi
+chú
+v
+ề
+  sự
+c
+ố
+(nếu có
+)
+K
+i
+ến
+n
+g
+hị
+đ
+ề
+x
+u
+ấ
+t
+(nếu
+c
+ó
+)
+Lưu trữ
+Ghi chú
+Ý kiến
+Facebook
+Email
+In
+Thư Viện
+Nhà Đất
+Bán đất căn góc Palmy Biztown, Thanh Trì, 80m², giá 150tr/m², biên lợi nhuận 3–5 tỷ chỉ sau 1 năm
+12 tỷ
+,
+DT 80
+m
+2
+,
+Huyện Thanh Trì, Hà Nội
+Pháp Luật Thuế
+Bản án liên quan
+PHÁP LUẬT DOANH NGHIỆP
+Hỏi đáp pháp luật
+Quyết định 1534/QĐ-UBND năm 2025 về Quy chế quản lý, vận hành, khai thác và sử dụng Hệ thống phòng họp không giấy tỉnh Bình Định

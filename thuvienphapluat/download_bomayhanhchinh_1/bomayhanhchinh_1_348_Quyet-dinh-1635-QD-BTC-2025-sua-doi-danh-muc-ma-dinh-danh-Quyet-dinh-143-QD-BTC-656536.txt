@@ -1,0 +1,179 @@
+MỤC LỤC
+                                VĂN BẢN
+In mục lục
+QUYẾT ĐỊNH SỬA ĐỔI DANH MỤC MÃ ĐỊNH DANH CÁC ĐƠN VỊ THUỘC BỘ TÀI CHÍNH PHỤC VỤ KẾT NỐI, CHIA SẺ DỮ LIỆU VỚI CÁC BỘ, NGÀNH, ĐỊA PHƯƠNG BAN HÀNH KÈM QUYẾT ĐỊNH SỐ 143/QĐ-BTC NGÀY 10/02/2022 (LẦN 7)
+Điều 1. Sửa đổi, bổ sung danh mục mã định danh các đơn vị thuộc Bộ Tài chính phục vụ kết nối, chia sẻ dữ liệu với các bộ, ngành, địa phương ban hành kèm Quyết định số 143/QĐ-BTC ngày 10/02/2022 (lần 7) (phụ lục đính kèm).
+Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.
+Điều 3. Cục trưởng Cục Công nghệ thông tin và Chuyển đổi số, Chánh Văn phòng Bộ Tài chính, Thủ trưởng các đơn vị thuộc Bộ chịu trách nhiệm thi hành Quyết định này./.
+PHỤ LỤC CẬP NHẬT DANH MỤC MÃ ĐỊNH DANH CÁC ĐƠN VỊ CẤP 4
+BỘ TÀI CHÍNH
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 1635/QĐ-BTC
+Hà Nội, ngày 06
+  tháng 5 năm 2025
+QUYẾT ĐỊNH
+SỬA
+ĐỔI DANH MỤC MÃ ĐỊNH DANH CÁC ĐƠN VỊ THUỘC BỘ TÀI CHÍNH PHỤC VỤ KẾT NỐI, CHIA SẺ
+DỮ LIỆU VỚI CÁC BỘ, NGÀNH, ĐỊA PHƯƠNG BAN HÀNH KÈM QUYẾT ĐỊNH SỐ 143/QĐ-BTC
+NGÀY 10/02/2022 (LẦN 7)
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+Căn cứ
+Luật Công
+nghệ thông tin
+ngày 29/6/2006;
+Căn cứ
+Luật Giao dịch
+điện tử
+ngày 22/06/2023;
+Căn cứ Nghị định số
+64/2007/NĐ-CP
+ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của
+cơ quan Nhà nước;
+Căn cứ Nghị định số
+47/2020/NĐ-CP
+ngày 09/4/2020 của Chính phủ về quản lý, kết nối và chia sẻ dữ liệu số của cơ
+quan Nhà nước;
+Căn cứ Nghị định
+29/2025/NĐ-CP
+ngày 24/02/2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu
+tổ chức của Bộ Tài chính;
+Căn cứ Quyết định số
+20/2020/QĐ-TTg
+ngày 22/7/2020 của Thủ tướng
+Chính phủ về mã định danh điện tử của các cơ quan, tổ chức phục vụ kết nối,
+chia sẻ dữ liệu với các Bộ, ngành, địa phương;
+Căn cứ Quyết định số
+09/2025/QĐ-TTg
+ngày 14/4/2025 của Thủ tướng
+Chính phủ về sửa đổi, bổ sung Quyết định số
+20/2020/QĐ-TTg
+ngày 22/7/2020 của Thủ tướng Chính phủ về mã định danh điện tử của các cơ quan,
+tổ chức phục vụ kết nối, chia sẻ dữ liệu với các Bộ, ngành, địa phương;
+Căn cứ Quyết định số
+143/QĐ-BTC
+ngày 10/02/2022 của Bộ trưởng Bộ Tài
+chính Ban hành danh mục mã định danh các đơn vị thuộc Bộ Tài chính phục vụ kết
+nối, chia sẻ dữ liệu với các bộ, ngành, địa phương;
+Căn cứ Quyết định số
+1900/QĐ-BTC
+ngày 15/9/2022 của Bộ trưởng Bộ Tài
+chính về Sửa đổi, bổ sung danh mục mã định danh các đơn vị thuộc Bộ Tài chính
+phục vụ kết nối, chia sẻ dữ liệu với các bộ, ngành, địa phương ban hành kèm
+theo Quyết định số
+143/QĐ-BTC
+ngày
+10/02/2022;
+Căn cứ Quyết định số 329/QĐ-BTC ngày 27/02/2022
+của Bộ trưởng Bộ Tài chính về Sửa đổi, bổ sung danh mục mã định danh các đơn vị
+thuộc Bộ Tài chính phục vụ kết nối, chia sẻ dữ liệu với các bộ, ngành, địa
+phương ban hành kèm theo Quyết định số
+143/QĐ-BTC
+ngày 10/02/2022 (lần 2);
+Căn cứ Quyết định số
+2834/QĐ-BTC
+ngày 27/11/2024 của Bộ trưởng Bộ Tài
+chính về Sửa đổi, bổ sung danh mục mã định danh các đơn vị thuộc Bộ Tài chính
+phục vụ kết nối, chia sẻ dữ liệu với các bộ, ngành, địa phương ban hành kèm
+theo Quyết định số
+143/QĐ-BTC
+ngày
+10/02/2022 (lần 3);
+Căn cứ Quyết định số 937/QĐ-BTC ngày 04/3/2025 của
+Bộ trưởng Bộ Tài chính về Sửa đổi, bổ sung danh mục mã định danh các đơn vị thuộc
+Bộ Tài chính phục vụ kết nối, chia sẻ dữ liệu với các bộ, ngành, địa phương ban
+hành kèm theo Quyết định số
+143/QĐ-BTC
+ngày
+10/02/2022 (lần 4);
+Căn cứ Quyết định số
+1067/QĐ-BTC
+ngày 24/3/2025 của Bộ trưởng Bộ Tài
+chính về Sửa đổi, bổ sung danh mục mã định danh các đơn vị thuộc Bộ Tài chính
+phục vụ kết nối, chia sẻ dữ liệu với các bộ, ngành, địa phương ban hành kèm
+theo Quyết định số
+143/QĐ-BTC
+ngày
+10/02/2022 (lần 5);
+Căn cứ Quyết định số
+1413/QĐ-BTC
+ngày 18/4/2025 của Bộ trưởng Bộ Tài
+chính về Sửa đổi, bổ sung danh mục mã định danh các đơn vị thuộc Bộ Tài chính
+phục vụ kết nối, chia sẻ dữ liệu với các bộ, ngành, địa phương ban hành kèm
+theo Quyết định số
+143/QĐ-BTC
+ngày
+10/02/2022 (lần 6);
+Theo đề nghị của Cục Công nghệ thông tin và chuyển
+đổi số.
+QUYẾT ĐỊNH:
+Điều 1.
+Sửa đổi, bổ sung
+danh mục mã định danh các đơn vị thuộc Bộ Tài chính phục vụ kết nối, chia sẻ dữ
+liệu với các bộ, ngành, địa phương ban hành kèm Quyết định số 143/QĐ-BTC ngày
+10/02/2022 (lần 7) (phụ lục đính kèm).
+Điều 2.
+Quyết định này có
+hiệu lực thi hành kể từ ngày ký.
+Điều 3.
+Cục trưởng Cục Công
+nghệ thông tin và Chuyển đổi số, Chánh Văn phòng Bộ Tài chính, Thủ trưởng các
+đơn vị thuộc Bộ chịu trách nhiệm thi hành Quyết định này./.
+Nơi nhận:
+- Như Điều 3;
+- Cổng TTĐT BTC;
+- Lưu: VT, CNTT.
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+Bùi Văn Khắng
+PHỤ LỤC
+CẬP NHẬT DANH MỤC MÃ ĐỊNH DANH CÁC ĐƠN VỊ CẤP 4
+(Kèm theo Quyết định số 1635/QĐ-BTC ngày 06/5/2025 của Bộ Tài chính)
+STT
+Mã định danh
+Tên đơn vị
+Trạng thái
+1
+G12.34.31.011
+Đội kiểm soát Hải
+  quan
+Cấp mới
+2
+G12.34.31.012
+Đội phúc tập và kiểm
+  tra sau thông quan
+Cấp mới
+3
+G12.34.80.009
+Đội kiểm soát Hải
+  quan
+Cấp mới
+4
+G12.34.80.010
+Đội phúc tập và kiểm
+  tra sau thông quan
+Cấp mới
+Lưu trữ
+Ghi chú
+Ý kiến
+Facebook
+Email
+In
+Thư Viện
+Nhà Đất
+Bán chung cư Nguyễn Văn Nghi, Gò Vấp, gần chợ, 10 phòng cho thuê, thu 60 triệu/tháng, giá chỉ 7.6 tỷ
+7.6 tỷ
+,
+DT 40
+m
+2
+,
+Quận Gò Vấp, Hồ Chí Minh
+Pháp Luật Thuế
+Bản án liên quan
+PHÁP LUẬT DOANH NGHIỆP
+Hỏi đáp pháp luật
+Quyết định 1635/QĐ-BTC năm 2025 sửa đổi danh mục mã định danh các đơn vị thuộc Bộ Tài chính phục vụ kết nối, chia sẻ dữ liệu với các bộ, ngành, địa phương kèm Quyết định 143/QĐ-BTC (lần 7)

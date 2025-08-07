@@ -1,0 +1,486 @@
+MỤC LỤC
+                                VĂN BẢN
+In mục lục
+QUYẾT ĐỊNH BAN HÀNH KẾ HOẠCH NĂM 2025 CỦA BỘ NÔNG NGHIỆP VÀ MÔI TRƯỜNG TRIỂN KHAI QUYẾT ĐỊNH SỐ 06/QĐ-TTG NGÀY 06 THÁNG 01 NĂM 2022 CỦA THỦ TƯỚNG CHÍNH PHỦ PHÊ DUYỆT ĐỀ ÁN PHÁT TRIỂN ỨNG DỤNG DỮ LIỆU VỀ DÂN CƯ, ĐỊNH DANH VÀ XÁC THỰC ĐIỆN TỬ PHỤC VỤ CHUYỂN ĐỔI SỐ QUỐC GIA GIAI ĐOẠN 2022 - 2025, TẦM NHÌN ĐẾN NĂM 2030
+Điều 1. Ban hành kèm theo Quyết định này Kế hoạch năm 2025 của Bộ Nông nghiệp và Môi trường triển khai Quyết định số 06/QĐ-TTg ngày 06 tháng 01 năm 2022 của Thủ tướng Chính phủ phê duyệt Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025 tầm nhìn đến năm 2030.
+Điều 2. Kinh phí thực hiện Kế hoạch được trích từ nguồn kinh phí ngân sách nhà nước cấp cho Bộ Nông nghiệp và Môi trường và các nguồn kinh phí hợp pháp khác theo quy định của pháp luật hiện hành.
+Điều 3. Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành.
+Điều 4. Chánh Văn phòng Bộ, Cục trưởng Cục Chuyển đổi số, Thủ trưởng các đơn vị thuộc Bộ chịu trách nhiệm thi hành Quyết định này./.
+KẾ HOẠCH NĂM 2025 THỰC HIỆN QUYẾT ĐỊNH SỐ 06/QĐ-TTG NGÀY 06 THÁNG 01 NĂM 2022 CỦA THỦ TƯỚNG CHÍNH PHỦ PHÊ DUYỆT ĐỀ ÁN PHÁT TRIỂN ỨNG DỤNG DỮ LIỆU VỀ DÂN CƯ, ĐỊNH DANH VÀ XÁC THỰC ĐIỆN TỬ PHỤC VỤ CHUYỂN ĐỔI SỐ QUỐC GIA GIAI ĐOẠN 2022 - 2025, TẦM NHÌN ĐẾN NĂM 2030
+I. MỤC ĐÍCH, YÊU CẦU, PHẠM VI
+II. NỘI DUNG
+III. TỔ CHỨC THỰC HIỆN
+PHỤ LỤC KẾ HOẠCH NĂM 2025 CỦA BỘ NÔNG NGHIỆP VÀ MÔI TRƯỜNG TRIỂN KHAI QUYẾT ĐỊNH SỐ 06/QĐ-TTG NGÀY 06 THÁNG 01 NĂM 2022 CỦA THỦ TƯỚNG CHÍNH PHỦ
+BỘ NÔNG NGHIỆP
+  VÀ
+MÔI TRƯỜNG
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 1311/QĐ-BNNMT
+Hà Nội, ngày 07
+  tháng 5 năm 2025
+QUYẾT ĐỊNH
+BAN
+HÀNH KẾ HOẠCH NĂM 2025 CỦA BỘ NÔNG NGHIỆP VÀ MÔI TRƯỜNG TRIỂN KHAI QUYẾT ĐỊNH SỐ
+06/QĐ-TTG
+NGÀY 06 THÁNG 01 NĂM 2022 CỦA THỦ TƯỚNG CHÍNH PHỦ PHÊ DUYỆT ĐỀ ÁN
+PHÁT TRIỂN ỨNG DỤNG DỮ LIỆU VỀ DÂN CƯ, ĐỊNH DANH VÀ XÁC THỰC ĐIỆN TỬ PHỤC VỤ
+CHUYỂN ĐỔI SỐ QUỐC GIA GIAI ĐOẠN 2022 - 2025, TẦM NHÌN ĐẾN NĂM 2030
+BỘ TRƯỞNG BỘ NÔNG NGHIỆP VÀ MÔI TRƯỜNG
+Căn cứ Nghị định số
+35/2025/NĐ-CP
+ngày 25 tháng 2 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn
+và cơ cấu tổ chức của Bộ Nông nghiệp và Môi trường;
+Căn cứ Quyết định số
+06/QĐ-TTg
+ngày 06 tháng 01 năm 2022 của Thủ tướng
+Chính phủ phê duyệt Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và
+xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022 - 2025 tầm nhìn
+đến năm 2030;
+Căn cứ Chỉ thị số
+07/CT-TTg
+ngày 14 tháng 3 năm 2025 của Thủ tướng Chính phủ về việc đẩy mạnh triển khai Đề
+án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ
+chuyển đổi số quốc gia giai đoạn 2022 - 2025, tầm nhìn đến năm 2030 tại các bộ,
+ngành, địa phương năm 2025 và những năm tiếp theo;
+Theo đề nghị của Cục trưởng Cục Chuyển đổi số.
+QUYẾT ĐỊNH:
+Điều 1.
+Ban hành kèm theo
+Quyết định này Kế hoạch năm 2025 của Bộ Nông nghiệp và Môi trường triển khai
+Quyết định số
+06/QĐ-TTg
+ngày 06 tháng 01 năm 2022 của Thủ tướng Chính phủ phê
+duyệt Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử
+phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025 tầm nhìn đến năm 2030.
+Điều 2.
+Kinh phí thực hiện
+Kế hoạch được trích từ nguồn kinh phí ngân sách nhà nước cấp cho Bộ Nông nghiệp
+và Môi trường và các nguồn kinh phí hợp pháp khác theo quy định của pháp luật
+hiện hành.
+Điều 3.
+Quyết định này có
+hiệu lực thi hành kể từ ngày ký ban hành.
+Điều 4.
+Chánh Văn phòng Bộ,
+Cục trưởng Cục Chuyển đổi số, Thủ trưởng các đơn vị thuộc Bộ chịu trách nhiệm
+thi hành Quyết định này./.
+Nơi nhận:
+- Như Điều 4;
+- Thủ tướng Chính phủ (để b/c);
+- PTTg Chính phủ Nguyễn Hòa Bình (để b/c);
+- Tổ Công tác triển khai Đề án 06/CP;
+- Văn phòng Chính phủ;
+- Các Bộ: Công an; KH và CN;
+- UBND các tỉnh, TP trực thuộc TW (để p/h);
+- Bộ trưởng (để b/c);
+- Các Thứ trưởng;
+- Sở NN&MT các tỉnh, TP thuộc TW (để t/h);
+- Cổng thông tin điện tử Bộ NN&MT;
+- Lưu: VT, CĐS.
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+Trần Quý Kiên
+KẾ HOẠCH NĂM 2025
+THỰC
+HIỆN QUYẾT ĐỊNH SỐ
+06/QĐ-TTG
+NGÀY 06 THÁNG 01 NĂM 2022 CỦA THỦ TƯỚNG CHÍNH PHỦ
+PHÊ DUYỆT ĐỀ ÁN PHÁT TRIỂN ỨNG DỤNG DỮ LIỆU VỀ DÂN CƯ, ĐỊNH DANH VÀ XÁC THỰC ĐIỆN
+TỬ PHỤC VỤ CHUYỂN ĐỔI SỐ QUỐC GIA GIAI ĐOẠN 2022 - 2025, TẦM NHÌN ĐẾN NĂM 2030
+(Ban hành kèm theo Quyết định số 1311/QĐ-BNNMT ngày 07 tháng 05 năm 2025 của
+Bộ trưởng Bộ Nông nghiệp và Môi trường)
+Thực hiện các nhiệm vụ được giao tại Quyết định số
+06/QĐ-TTg
+ngày 06 tháng 01 năm 2022 của Thủ tướng
+Chính phủ phê duyệt Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và
+xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022 - 2025, tầm nhìn
+đến năm 2030 (sau đây viết tắt là Đề án 06/CP) và Chỉ thị số
+07/CT-TTg
+ngày 14 tháng 3 năm 2025 của Thủ tướng
+Chính phủ về việc đẩy mạnh triển khai Đề án phát triển ứng dụng dữ liệu về dân
+cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022
+- 2025, tầm nhìn đến năm 2030 tại các bộ, ngành, địa phương năm 2025 và những
+năm tiếp theo (sau đây viết tắt là Chỉ thị
+07/CT-TTg
+),
+Bộ Nông nghiệp và Môi trường xây dựng kế hoạch thực hiện năm 2025, cụ thể như
+sau:
+I. MỤC ĐÍCH, YÊU CẦU, PHẠM VI
+1. Mục đích
+Thực hiện đầy đủ các nhiệm vụ và giải pháp để đạt
+được các mục tiêu được giao trong Quyết định số
+06/QĐ-TTg
+ngày 06 tháng 01 năm 2022 của Thủ tướng Chính phủ phê duyệt Đề án phát triển ứng
+dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc
+gia giai đoạn 2022 - 2025, tầm nhìn đến năm 2030; Chỉ thị số
+07/CT-TTg
+ngày 14 tháng 3 năm 2025 của Thủ tướng
+Chính phủ về việc đẩy mạnh triển khai Đề án 06/CP tại các bộ, ngành, địa phương
+năm 2025 và những năm tiếp theo và các nhiệm vụ, yêu cầu của Tổ công tác triển
+khai Đề án 06/CP của Chính phủ (sau đây viết tắt là Tổ công tác).
+2. Yêu cầu
+Kế hoạch được xây dựng bám sát Quyết định số
+06/QĐ-TTg
+ngày 06/01/2022, Chỉ thị số
+07/CT-TTg
+và Kế hoạch hoạt động, nhiệm vụ giao
+Tổ công tác.
+Kế hoạch bảo đảm theo hướng “rõ người, rõ việc, rõ
+thời gian, rõ kết quả, rõ trách nhiệm”, gắn trách nhiệm của người đứng đầu từng
+đơn vị, phân công các đơn vị xây dựng kế hoạch thực hiện, tổ chức triển khai,
+kiểm tra, giám sát, đánh giá việc thực hiện, đảm bảo tính hiệu quả, khả thi
+cao.
+3. Phạm vi
+Kế hoạch này triển khai áp dụng tại các đơn vị thuộc
+Bộ; địa phương và bộ, ngành có liên quan.
+II. NỘI DUNG
+Căn cứ mục tiêu, nhiệm vụ và giải pháp được xác định
+tại Đề án 06/CP và Chỉ thị số
+07/CT-TTg
+, Bộ
+Nông nghiệp và Môi trường chủ trì, phối hợp với các Bộ, ngành, địa phương thực
+hiện các nhiệm vụ được giao bảo đảm tiến độ, chất lượng theo yêu cầu. Các nội
+dung nhiệm vụ cụ thể, thời hạn thực hiện nhiệm vụ, đơn vị chủ trì thực hiện nhiệm
+vụ, các đơn vị phối hợp thực hiện nhiệm vụ và căn cứ xác định nhiệm vụ được xác
+định tại Phụ lục kèm theo Kế hoạch này.
+III. TỔ CHỨC THỰC HIỆN
+1. Thủ trưởng các đơn vị trực thuộc Bộ, Giám đốc Sở
+Nông nghiệp và Môi trường các tỉnh, thành phố trực thuộc Trung ương có trách
+nhiệm tổ chức quán triệt Kế hoạch tới toàn thể công chức, viên chức, người lao
+động đơn vị mình.
+Căn cứ chức năng, nhiệm vụ được giao, thủ trưởng
+các đơn vị có trách nhiệm phối hợp chặt chẽ với Cục Chuyển đổi số trong việc
+triển khai các nhiệm vụ của Kế hoạch và đưa các nhiệm vụ này vào Kế hoạch công
+tác năm 2025 của đơn vị; Lập dự toán ngân sách, triển khai các nhiệm vụ trong
+năm 2025 theo quy định.
+2. Vụ Pháp chế có trách nhiệm làm đầu mối trong việc
+tổ chức thực hiện các nhiệm vụ hoàn thiện thể chế, chính sách tại Kế hoạch này.
+3. Cục Quản lý đất đai chủ trì, phối hợp với các đơn
+vị liên quan, các địa phương tổ chức, hướng dẫn, tháo gỡ các khó khăn vướng mắc,
+đôn đốc các địa phương xây dựng, hoàn thiện, quản lý, vận hành cơ sở dữ liệu đất
+đai ở địa phương; sử dụng dữ liệu đất đai đã được số hóa, làm sạch với Cơ sở dữ
+liệu quốc gia về dân cư vào thực hiện cắt giảm thủ tục hành chính.
+4. Cục Thủy sản và Kiểm ngư chủ trì, phối hợp với Cục
+Chuyển đổi số và các đơn vị liên quan tổ chức thực hiện các nhiệm vụ về định
+danh tàu thuyền trên nền tảng CSDL quốc gia về dân cư, định danh và xác thực điện
+tử theo Công văn số 2418/VPCP- KSTT ngày 24/3/2025 của Văn phòng Chính phủ và
+Báo cáo số 374/BC-BCA-C06 ngày 17 tháng 2 năm 2025 của Bộ Công an.
+5. Cục Chuyển đổi số là đơn vị đầu mối phối hợp với
+các đơn vị trực thuộc Bộ, các bộ, ngành, địa phương liên quan tổ chức thực hiện,
+theo dõi, đôn đốc thực hiện Kế hoạch; tổng hợp, trình Bộ xem xét dự toán ngân
+sách thực hiện các nhiệm vụ; chủ trì, phối hợp với các đơn vị liên quan tích hợp
+cơ sở dữ liệu đất đai địa phương lên cơ sở dữ liệu quốc gia về đất đai, kết nối
+với sở dữ liệu quốc gia về dân cư, đồng bộ về Trung tâm dữ liệu quốc gia và bảo
+đảm an toàn thông tin theo quy định; định kỳ, đột xuất tổng hợp tình hình, kết
+quả thực hiện, báo cáo Tổ Công tác triển khai Đề án 06, Bộ Công an, Văn phòng Chính
+phủ, Bộ Khoa học và Công nghệ theo yêu cầu.
+6. Vụ Kế hoạch - Tài chính có trách nhiệm tổng hợp,
+báo cáo kinh phí thực hiện đối với các nhiệm vụ được giao tại Kế hoạch này.
+Trên cơ sở đó, bố trí nguồn kinh phí ngân sách nhà nước trong dự toán chi thường
+xuyên hàng năm và nguồn khác theo quy định của pháp luật./.
+PHỤ LỤC
+KẾ HOẠCH NĂM 2025 CỦA BỘ NÔNG NGHIỆP VÀ MÔI TRƯỜNG TRIỂN
+KHAI QUYẾT ĐỊNH SỐ
+06/QĐ-TTG
+NGÀY 06 THÁNG 01 NĂM 2022 CỦA THỦ TƯỚNG CHÍNH PHỦ
+(Kèm theo Quyết định số 1311/QĐ-BNNMT ngày 07 tháng 05 năm 2025 của Bộ trưởng
+Bộ Nông nghiệp và Môi trường)
+TT
+Nội dung thực
+  hiện
+Đơn vị chủ trì
+Đơn vị phối hợp
+Thời gian hoàn
+  thành
+Sản phẩm
+I
+XÂY DỰNG, HOÀN THIỆN CHÍNH SÁCH
+1.
+Xây dựng Kế hoạch năm 2025 của Bộ Nông nghiệp và
+  Môi trường triển khai thực hiện Đề án 06/CP.
+Cục Chuyển đổi số
+  (Cục CĐS).
+Các đơn vị liên
+  quan thuộc Bộ.
+Tháng 4/2025
+Quyết định của Bộ
+  trưởng.
+2.
+Xây dựng Kế hoạch ứng dụng dữ liệu đất đai đã số
+  hóa để cắt giảm thành phần hồ sơ gửi Bộ Công an.
+Cục Quản lý đất
+  đai (Cục QLĐĐ).
+Cục CĐS.
+Quý II/2025
+Kế hoạch.
+3.
+Công bố danh mục TTHC thuộc phạm vi quản lý của Bộ
+  Nông nghiệp và Môi trường đủ điều kiện thực hiện DVCTT toàn trình.
+Cục CĐS; Văn phòng
+  Bộ.
+Các đơn vị liên
+  quan thuộc Bộ.
+Tháng 5/2025
+Quyết định của Bộ trưởng.
+4.
+Điều chỉnh quy trình nghiệp vụ, cho phép sử dụng
+  các giấy tờ điện tử tích hợp trên tài khoản định danh điện tử tương đương với
+  giấy tờ giấy khi thực hiện các thủ tục hành chính, không yêu cầu công dân phải
+  xuất trình giấy tờ, phải sao y, công chứng.
+Văn phòng Bộ.
+Vụ Pháp chế;
+Các đơn vị có TTHC
+  thuộc Bộ.
+Quý II/2025
+II
+PHỤC VỤ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH, CUNG CẤP
+  DỊCH VỤ CÔNG, QUẢN TRỊ NỘI BỘ, THỰC THI CHỨC NĂNG QUẢN LÝ NHÀ NƯỚC
+1.
+Khẩn trương tích hợp, cung cấp trên Cổng dịch vụ
+  công quốc gia đối với các dịch vụ công trực tuyến thiết yếu quy định tại Quyết
+  định số
+422/QĐ-TTg
+ngày 04/4/2022 và Quyết
+  định số
+206/QĐ-TTg
+ngày 28/02/2024 của Thủ
+  tướng Chính phủ.
+1.1
+Nhóm thủ tục “Thẩm định báo cáo đánh giá tác động
+  môi trường; thủ tục cấp, sửa đổi, bổ sung giấy phép nhận chìm ở biển và thủ tục
+  giao khu vực biển, sửa đổi, bổ sung Quyết định giao khu vực biển”.
+-
+Tái cấu trúc quy trình nghiệp vụ, liên thông,
+  trình cấp có thẩm quyền phê duyệt, ban hành.
+Cục Biển và Hải
+  đảo Việt Nam; Cục Môi trường.
+Văn phòng Bộ.
+Tháng 4-5/2025
+Quyết định phê
+  duyệt, ban hành.
+-
+Triển khai tích hợp, liên thông, cung cấp dịch
+  vụ công trực tuyến.
+Cục CĐS.
+Cục Biển và Hải
+  đảo Việt Nam; Cục Môi trường.
+Tháng 6/2025
+Dịch vụ công được
+  triển khai, tích hợp.
+1.2
+Nhóm thủ tục “Đăng ký, kê khai kế hoạch tái chế
+  sản phẩm, bao bì/Kê khai đóng góp tài chính vào Quỹ Bảo vệ môi trường Việt
+  Nam và nộp trực tuyến tiền đóng góp tài chính hỗ trợ tái chế, xử lý chất thải”.
+-
+Tái cấu trúc quy trình nghiệp vụ, liên thông,
+  trình cấp có thẩm quyền phê duyệt, ban hành.
+Cục Môi trường;
+  Quỹ Bảo vệ môi trường Việt Nam.
+Văn phòng Bộ.
+Tháng 4-5/2025
+Quyết định phê
+  duyệt, ban hành.
+-
+Triển khai tích hợp, liên thông, cung cấp dịch
+  vụ công trực tuyến.
+Cục CĐS.
+Cục Môi trường,
+  Quỹ Bảo vệ môi trường Việt Nam.
+Tháng 6/2025
+Dịch vụ công được
+  triển khai, tích hợp.
+2.
+Hoàn thiện Hệ thống thông tin giải quyết TTHC của
+  Bộ Nông nghiệp và Môi trường, bảo đảm an ninh, an toàn thông tin và kết nối với
+  Cơ sở dữ liệu quốc gia về dân cư, Cổng dịch vụ công quốc gia, các cơ sở dữ liệu
+  quốc gia, cơ sở dữ liệu chuyên ngành.
+Cục CĐS
+Văn phòng Bộ
+Tháng 5/2025
+Hệ thống thông tin
+  giải quyết TTHC được vận hành.
+3.
+Nghiên cứu giải pháp triển khai thực hiện giải quyết
+  TTHC phi địa giới hành chính, người dân chỉ cần đến bộ phận tiếp dân gần nhất
+  để nộp hồ sơ giao dịch các thủ tục hành chính.
+Các đơn vị có TTHC
+  thuộc Bộ.
+Cục CĐS; Văn phòng
+  Bộ; Vụ Pháp chế.
+Tháng 5/2025
+4.
+Hoàn thành số hóa quy trình nghiệp vụ nội bộ, hồ
+  sơ tài liệu, kết quả giải quyết TTHC trong các lĩnh vực liên quan đến người
+  dân, doanh nghiệp, hoạt động công vụ, đồng thời tái sử dụng 100% dữ liệu đã số
+  hóa để cắt giảm tối đa thủ tục hành chính và chi phí tuân thủ cho người dân,
+  doanh nghiệp.
+Văn phòng Bộ;
+Các đơn vị giải
+  quyết TTHC thuộc Bộ.
+Cục CĐS
+Quý III/ 2025
+III
+XÂY DỰNG HỆ THỐNG THÔNG TIN QUỐC GIA VỀ ĐẤT
+  ĐAI, KẾT NỐI VỚI CSDL QUỐC GIA VỀ DÂN CƯ
+1.
+Đôn đốc các địa phương khẩn trương tập trung nguồn
+  lực, đẩy nhanh tiến độ xây dựng, hoàn thiện cơ sở dữ liệu đất đai ở địa
+  phương; rà soát các đơn vị hành chính cấp huyện, cấp xã đã có dữ liệu đất đai
+  để đưa ngay vào quản lý, vận hành, khai thác, đồng bộ tích hợp vào Cơ sở dữ
+  liệu quốc gia về đất đai.
+Cục QLĐĐ
+Cục CĐS
+Tháng 6/2025
+2.
+Triển khai đưa dữ liệu đã được số hóa, làm sạch với
+  Cơ sở dữ liệu quốc gia về dân cư vào thực hiện cắt giảm thủ tục hành chính,
+  không bắt người dân phải kê khai các giấy tờ liên quan, trọng tâm là lĩnh vực
+  đất đai.
+Cục QLĐĐ
+Cục CĐS
+Tháng 6/2025
+3.
+Tích hợp, xây dựng cơ sở dữ liệu quốc gia về đất
+  đai (dữ liệu của 495/696 đơn vị cấp huyện).
+Cục QLĐĐ; Cục CĐS
+Sở Nông nghiệp và
+  Môi trường các tỉnh, thành phố trực thuộc trung ương.
+Tháng 6/2025
+4.
+Kết nối cơ sở dữ liệu quốc gia về đất đai với cơ
+  sở dữ liệu quốc gia về dân cư.
+Cục CĐS
+Cục QLĐĐ
+Tháng 6/2025
+5.
+Đồng bộ cơ sở dữ liệu quốc gia về đất đai về
+  Trung tâm dữ liệu quốc gia (theo yêu cầu).
+Cục CĐS
+Cục QLĐĐ
+Tháng 8/2025
+IV
+HOÀN THIỆN HỆ SINH THÁI PHỤC VỤ KẾT NỐI, KHAI
+  THÁC, BỔ SUNG LÀM GIÀU DỮ LIỆU DÂN CƯ
+1.
+Triển khai các nhiệm vụ thực hiện Nghị quyết số
+175/NQ- CP
+ngày 30/10/2023 phê duyệt Đề án
+  Trung tâm dữ liệu quốc gia.
+Cục CĐS
+Các đơn vị liên
+  quan thuộc Bộ.
+Năm 2025 và các
+  năm tiếp theo
+Theo Kế hoạch triển
+  khai Nghị quyết số
+175/NQ-CP
+của Bộ.
+2.
+Phối hợp với Bộ Công an thực hiện nhiệm vụ về Định
+  danh địa điểm.
+Cục QLĐĐ
+Cục CĐS; Cục Đo đạc,
+  Bản đồ và Thông tin địa lý Việt Nam.
+Tháng 12/2025
+3.
+Định danh tàu thuyền trên nền tảng CSDL quốc gia
+  về dân cư, định danh và xác thực điện tử.
+3.1
+Rà soát, đánh giá, đề xuất nâng cấp hoặc đầu
+  tư xây dựng CSDL nghề cá quốc gia mới nhằm đáp ứng các điều kiện để phục vụ
+  triển khai và kết nối với CSDL quốc gia về dân cư.
+Cục TSKN
+Cục CĐS
+2026
+3.2
+Chia sẻ dữ liệu thông tin về tàu, chủ tàu và
+  thông tin về hải trình tàu cá từ 15m trở lên cho Bộ Quốc phòng phục vụ công
+  tác quản lý, giám sát, cảnh báo tàu cá vi phạm vùng biển nước ngoài và tìm kiếm
+  cứu hộ, cứu nạn.
+Cục TSKN
+Cục CĐS
+Tháng 6/2025
+3.3
+Hoàn thiện hệ thống giám sát tàu cá, tiếp tục
+  triển khai “Kế hoạch thuê dịch vụ công nghệ thông tin hạ tầng giám sát tàu cá
+  (giai đoạn 2025-2030)” để đảm bảo việc quản lý tàu cá theo đúng quy định của
+  pháp luật.
+Cục TSKN
+Cục CĐS
+Quý III/2025
+3.4
+Kết nối khai thác thông tin trong CSDL quốc
+  gia về dân cư, hệ thống định danh điện tử để thực hiện các thủ tục liên quan
+  đến khai thác thủy sản, tàu cá và liên thông thủ tục khai báo cư trú cho thuyền
+  viên trên tàu cá.
+Cục TSKN
+Cục CĐS
+Tháng 12/2025
+3.5
+Đề xuất với Bộ Tài chính tổng hợp, trình cấp
+  có thẩm quyền bố trí chi thường xuyên ngân sách theo quy định.
+Cục TSKN
+Cục CĐS
+Quý II/2025
+3.6
+Tích hợp sử dụng tài khoản VNeID đăng nhập và
+  thực hiện các thủ tục về đăng ký tàu cá, khai thác thủy sản.
+Cục TSKN
+Cục CĐS
+Quý III/2025
+4.
+Phối hợp với Bộ Công an thực hiện nhiệm vụ về Xây
+  dựng sàn thương mại điện tử gắn với sản phẩm nông nghiệp và đặc sản vùng miền.
+Cục Chất lượng, Chế
+  biến và Phát triển thị trường
+Cục CĐS
+Tháng 12/2025
+5.
+Phối hợp với Bộ Công an thực hiện nhiệm vụ về Xây
+  dựng sàn giao dịch bất động sản.
+Cục QLĐĐ
+Cục CĐS
+Tháng 12/2025
+6.
+Nâng cấp, hoàn thiện hạ tầng số đáp ứng yêu cầu tại
+  văn bản số
+1552/BTTTT-THH
+và
+708/BTTTT-CATTT
+; hoàn thành kết nối giữa Hệ thống
+  thông tin giải quyết TTHC cấp Bộ với Cơ sở dữ liệu quốc gia về dân cư phục vụ
+  giải quyết TTHC, DVC theo Nghị định số
+107/2021/NĐ-CP
+của Chính phủ.
+Cục CĐS
+Các đơn vị liên
+  quan thuộc Bộ.
+Năm 2025
+Lưu trữ
+Ghi chú
+Ý kiến
+Facebook
+Email
+In
+Thư Viện
+Nhà Đất
+Bán chung cư An Gia Riverside, Quận 7, 69m2, 2pn 2wc, giá 3,8 tỷ view sông, rẻ nhất thị trường
+3.8 tỷ
+,
+DT 69
+m
+2
+,
+Quận 7, Hồ Chí Minh
+Bài liên quan:
+Bộ NN&MT: Điều chỉnh quy trình nghiệp vụ không yêu cầu xuất trình giấy tờ và sao y, công chứng
+>> Xem thêm
+Pháp Luật Thuế
+Bản án liên quan
+PHÁP LUẬT DOANH NGHIỆP
+Hỏi đáp pháp luật
+Quyết định 1311/QĐ-BNNMT về Kế hoạch năm 2025 của Bộ Nông nghiệp và Môi trường triển khai Quyết định 06/QĐ-TTg phê duyệt Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025, tầm nhìn đến năm 2030

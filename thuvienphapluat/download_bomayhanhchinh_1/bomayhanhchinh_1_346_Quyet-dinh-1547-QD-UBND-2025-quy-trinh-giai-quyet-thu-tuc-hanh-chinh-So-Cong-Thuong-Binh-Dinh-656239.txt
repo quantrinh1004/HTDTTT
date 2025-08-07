@@ -1,0 +1,907 @@
+MỤC LỤC
+                                VĂN BẢN
+In mục lục
+QUYẾT ĐỊNH PHÊ DUYỆT QUY TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH LIÊN THÔNG, KHÔNG LIÊN THÔNG CẤP TỈNH, CẤP HUYỆN ĐỐI VỚI CÁC LĨNH VỰC THUỘC PHẠM VI CHỨC NĂNG QUẢN LÝ CỦA SỞ CÔNG THƯƠNG
+Điều 1. Phê duyệt kèm theo Quyết định này quy trình nội bộ giải quyết thủ tục hành chính liên thông, không liên thông cấp tỉnh, cấp huyện đối với các lĩnh vực thuộc phạm vi chức năng quản lý của Sở Công Thương đã được Chủ tịch Ủy ban nhân dân tỉnh phê duyệt phương án đơn giản hóa (rút ngắn thời gian giải quyết) tại Quyết định số 1422/QĐ-UBND ngày 24 tháng 4 năm 2025.
+Điều 2. Quyết định này sửa đổi, bổ sung các Quyết định số 2260/QĐ-UBND ngày 03/7/2019; Quyết định số 4302/QĐ-UBND ngày 19/11/2019; Quyết định số 4094/QĐ-UBND ngày 05/10/2020; Quyết định số 3620/QĐ-UBND ngày 01/9/2021; Quyết định số 5061/QĐ-UBND ngày 20/12/2021; Quyết định số 5062/QĐ-UBND ngày 20/12/2021; Quyết định số 593/QĐ-UBND ngày 24/02/2022; Quyết định số 2606/QĐ-UBND ngày 16/8/2022; Quyết định số 649/QĐ-UBND ngày 06/3/2023; Quyết định số 2649/QĐ-UBND ngày 19/7/2023; Quyết định số 2887/QĐ-UBND ngày 03/8/2023; Quyết định số 1252/QĐ-UBND ngày 10/4/2024; Quyết định số 2359/QĐ-UBND ngày 01/7/2024; Quyết định số 2843/QĐ-UBND ngày 08/8/2024; Quyết định số 3042/QĐ-UBND ngày 27/8/2024; Quyết định số 94/QĐ-UBND ngày 11/01/2025; Quyết định số 1160/QĐ-UBND ngày 04/4/2025 của Chủ tịch Ủy ban nhân dân tỉnh.
+Điều 3. Giao Văn phòng Ủy ban nhân dân tỉnh chủ trì, phối hợp với Sở Công Thương và các cơ quan liên quan căn cứ Quyết định này thiết lập quy trình điện tử giải quyết thủ tục hành chính trên Hệ thống thông tin giải quyết thủ tục hành chính của tỉnh theo quy định.
+Điều 4. Chánh Văn phòng Ủy ban nhân dân tỉnh, Giám đốc Sở Công Thương, Giám đốc Trung tâm Phục vụ hành chính công tỉnh; Chủ tịch Ủy ban nhân dân các huyện, thị xã, thành phố và các cơ quan, đơn vị, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này kể từ ngày ký ban hành./.
+QUY TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH LIÊN THÔNG, KHÔNG LIÊN THÔNG CẤP TỈNH, CẤP HUYỆN ĐỐI VỚI CÁC LĨNH VỰC THUỘC PHẠM VI CHỨC NĂNG QUẢN LÝ CỦA SỞ CÔNG THƯƠNG
+A. QUY TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH LIÊN THÔNG, KHÔNG LIÊN THÔNG CẤP TỈNH (21 TTHC)
+I. QUY TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH LIÊN THÔNG ĐƯỢC TIẾP NHẬN HỒ SƠ VÀ TRẢ KẾT QUẢ TẠI TRUNG TÂM PHỤC VỤ HÀNH CHÍNH CÔNG TỈNH (02 TTHC)
+II. QUY TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH KHÔNG LIÊN THÔNG ĐƯỢC TIẾP NHẬN HỒ SƠ VÀ TRẢ KẾT QUẢ TẠI TRUNG TÂM PHỤC VỤ HÀNH CHÍNH CÔNG TỈNH (19 TTHC)
+I. LĨNH VỰC XÚC TIẾN THƯƠNG MẠI (03 TTHC)
+II. LĨNH VỰC QUẢN LÝ BÁN HÀNG ĐA CẤP (02 TTHC)
+III. LĨNH VỰC BẢO VỆ QUYỀN LỢI NGƯỜI TIÊU DÙNG (01 TTHC)
+IV. LĨNH VỰC LƯU THÔNG HÀNG HOÁ TRONG NƯỚC ( 08 TTHC)
+V. LĨNH VỰC AN TOÀN THỰC PHẨM (02 TTHC)
+VI. LĨNH VỰC KINH DOANH KHÍ (01 TTHC)
+VII. LĨNH VỰC HOÁ CHẤT (01 TTHC)
+VIII. LĨNH VỰC VẬT LIỆU NỔ CÔNG NGHIỆP, TIÊN CHẤT THUỐC NỔ (01 TTHC)
+B. QUY TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH LIÊN THÔNG, KHÔNG LIÊN THÔNG ĐƯỢC TIẾP NHẬN VÀ TRẢ KẾT QUẢ TẠI BỘ PHẬN MỘT CỬA CẤP HUYỆN (07 TTHC)
+I. QUY TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH LIÊN THÔNG ĐƯỢC TIẾP NHẬN HỒ SƠ VÀ TRẢ KẾT QUẢ TẠI BỘ PHẬN MỘT CỬA CẤP HUYỆN (01 TTHC)
+II. QUY TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH KHÔNG LIÊN THÔNG ĐƯỢC TIẾP NHẬN HỒ SƠ VÀ TRẢ KẾT QUẢ TẠI BỘ PHẬN MỘT CỬA CẤP HUYỆN (06 TTHC)
+ỦY BAN NHÂN DÂN
+TỈNH BÌNH ĐỊNH
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 1547/QĐ-UBND
+Bình Định, ngày
+  06 tháng 5 năm 2025
+QUYẾT ĐỊNH
+PHÊ DUYỆT QUY TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH
+LIÊN THÔNG, KHÔNG LIÊN THÔNG CẤP TỈNH, CẤP HUYỆN ĐỐI VỚI CÁC LĨNH VỰC THUỘC PHẠM
+VI CHỨC NĂNG QUẢN LÝ CỦA SỞ CÔNG THƯƠNG
+CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH
+Căn cứ Luật Tổ chức
+chính quyền địa phương ngày 19 tháng 02 năm 2025;
+Căn cứ Nghị định số
+61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa,
+một cửa liên thông trong giải quyết thủ tục hành chính; Nghị định số
+107/2021/NĐ-CP ngày 06 tháng 12 năm 2021 của Chính phủ sửa đổi, bổ sung một số
+điều của Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về
+thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành
+chính;
+Căn cứ Thông tư số
+01/2018/TT-VPCP ngày 23 tháng 11 năm 2018 của Bộ trưởng, Chủ nhiệm Văn phòng
+Chính phủ hướng dẫn thi hành một số quy định của Nghị định số 61/2018/NĐ-CP
+ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa
+liên thông trong giải quyết thủ tục hành chính;
+Căn cứ Quyết định số
+08/2022/QĐ-UBND ngày 21 tháng 3 năm 2022 của Ủy ban nhân dân tỉnh ban hành Quy
+chế làm việc của Ủy ban nhân dân tỉnh Bình Định nhiệm kỳ 2021 - 2026;
+Căn cứ Quyết định số
+72/2020/QĐ-UBND ngày 20 tháng 11 năm 2020 của Ủy ban nhân dân tỉnh ban hành Quy
+chế thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành
+chính trên địa bàn tỉnh;
+Căn cứ Quyết định số
+03/2021/QĐ-UBND ngày 09 tháng 02 năm 2021 của Ủy ban nhân dân tỉnh ban hành Quy
+chế hoạt động kiểm soát thủ tục hành chính trên địa bàn tỉnh;
+Căn cứ Quyết định số
+57/2023/QĐ-UBND ngày 22 tháng 9 năm 2023 của Ủy ban nhân dân tỉnh ban hành Quyết
+định sửa đổi, bổ sung một số điều của các quyết định liên quan đến công tác kiểm
+soát thủ tục hành chính, giải quyết thủ tục hành chính và cung cấp dịch vụ công
+trực tuyến trên địa bàn tỉnh;
+Theo đề nghị của Giám
+đốc Sở Công Thương tại Tờ trình số 75/TTr-SCT ngày 29 tháng 4 năm 2025.
+QUYẾT ĐỊNH:
+Điều
+1.
+Phê duyệt kèm theo Quyết định này quy
+trình nội bộ giải quyết thủ tục hành chính liên thông, không liên thông cấp tỉnh,
+cấp huyện đối với các lĩnh vực thuộc phạm vi chức năng quản lý của Sở Công
+Thương đã được Chủ tịch Ủy ban nhân dân tỉnh phê duyệt phương án đơn giản hóa
+(rút ngắn thời gian giải quyết) tại Quyết định số 1422/QĐ-UBND ngày 24 tháng 4
+năm 2025.
+Điều
+2.
+Quyết định
+này sửa đổi, bổ sung các Quyết định số 2260/QĐ-UBND ngày 03/7/2019; Quyết định
+số 4302/QĐ-UBND ngày 19/11/2019; Quyết định số 4094/QĐ-UBND ngày 05/10/2020;
+Quyết định số 3620/QĐ-UBND ngày 01/9/2021; Quyết định số 5061/QĐ-UBND ngày
+20/12/2021; Quyết định số 5062/QĐ-UBND ngày 20/12/2021; Quyết định số
+593/QĐ-UBND ngày 24/02/2022; Quyết định số 2606/QĐ-UBND ngày 16/8/2022; Quyết định
+số 649/QĐ-UBND ngày 06/3/2023; Quyết định số 2649/QĐ-UBND ngày 19/7/2023; Quyết
+định số 2887/QĐ-UBND ngày 03/8/2023; Quyết định số 1252/QĐ-UBND ngày 10/4/2024;
+Quyết định số 2359/QĐ-UBND ngày 01/7/2024; Quyết định số 2843/QĐ-UBND ngày
+08/8/2024; Quyết định số 3042/QĐ-UBND ngày 27/8/2024; Quyết định số 94/QĐ-UBND
+ngày 11/01/2025; Quyết định số 1160/QĐ-UBND ngày 04/4/2025 của Chủ tịch Ủy ban
+nhân dân tỉnh.
+Điều
+3.
+Giao Văn phòng Ủy ban nhân dân tỉnh chủ
+trì, phối hợp với Sở Công Thương và các cơ quan liên quan căn cứ Quyết định này
+thiết lập quy trình điện tử giải quyết thủ tục hành chính trên Hệ thống thông
+tin giải quyết thủ tục hành chính của tỉnh theo quy định.
+Điều
+4.
+Chánh Văn phòng Ủy ban nhân dân tỉnh,
+Giám đốc Sở Công Thương, Giám đốc Trung tâm Phục vụ hành chính công tỉnh; Chủ tịch
+Ủy ban nhân dân các huyện, thị xã, thành phố và các cơ quan, đơn vị, tổ chức,
+cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này kể từ ngày ký ban
+hành./.
+Nơi nhận:
+- Như Điều 4;
+- Văn phòng Chính phủ (Cục Kiểm soát TTHC);
+- Bộ Công Thương;
+- CT, các PCT UBND tỉnh;
+- LĐVP UBND tỉnh;
+- Bưu điện tỉnh;
+- VNPT Bình Định;
+- Lưu: VT, K6, CCKS
+(K)
+.
+KT. CHỦ TỊCH
+PHÓ CHỦ TỊCH
+Lâm Hải Giang
+QUY TRÌNH NỘI BỘ
+GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH LIÊN THÔNG, KHÔNG LIÊN
+THÔNG CẤP TỈNH, CẤP HUYỆN ĐỐI VỚI CÁC LĨNH VỰC THUỘC PHẠM VI CHỨC NĂNG QUẢN LÝ
+CỦA SỞ CÔNG THƯƠNG
+(Ban hành kèm theo Quyết định số: 1547/QĐ-UBND ngày 06/5/2025 của Chủ tịch
+UBND tỉnh)
+A. QUY
+TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH LIÊN THÔNG, KHÔNG LIÊN THÔNG CẤP TỈNH
+(21 TTHC)
+I. QUY
+TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH LIÊN THÔNG ĐƯỢC TIẾP NHẬN HỒ SƠ VÀ
+TRẢ KẾT QUẢ TẠI TRUNG TÂM PHỤC VỤ HÀNH CHÍNH CÔNG TỈNH (02 TTHC)
+STT
+STT QTNB giải quyết TTHC
+được thay thế của Chủ tịch UBND tỉnh
+Tên thủ tục hành chính
+Thời gian
+giải quyết TTHC theo quy định
+Thời gian thực hiện TTHC của từng cơ quan
+Quy trình các bước giải quyết
+TTHC
+TTHC được công bố trí Quyết định của Chủ tịch UBND tỉnh
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+I. LĨNH VỰC AN TOÀN ĐẬP, HỒ
+  CHỨA THUỶ ĐIỆN (01 TTHC)
+1
+STT 4 Quyết định số  1160/QĐ-UBND ngày 04/4/2025
+Thẩm định, phê duyệt quy
+  trình vận hành hồ chứa thủy điện thuộc thẩm quyền phê duyệt của Ủy ban nhân
+  dân cấp tỉnh (2.001322.000.00.00.H08)
+Trong thời hạn 15 ngày kể từ
+  ngày nhận đủ hồ sơ hợp lệ, cơ quan tiếp nhận tổ chức thẩm định và trình cấp
+  có thẩm quyền xem xét phê duyệt. Trường hợp không đủ điều kiện phê duyệt, cơ
+  quan tiếp nhận thông báo bằng văn bản cho tổ chức đề nghị phê duyệt để bổ
+  sung, hoàn thiện hồ sơ.
+0,25 ngày
+Bước 1.
+Trung tâm Phục
+  vụ hành chính công tỉnh tiếp nhận hồ sơ, chuyển đến Phòng Quản lý Năng lượng
+  thuộc Sở Công Thương.
+Quyết định số 868/QĐ-UBND ngày 14/3/2025;  Quyết định số
+  1422/QĐ-UBND ngày 24/4/2025
+12,5 ngày
+Bước 2.
+Sở Công Thương
+  thẩm định hồ sơ, giải quyết cụ thể:
+2.1. Lãnh đạo Phòng Quản lý
+  Năng lượng phân công thụ lý: 0,25 ngày;
+2.2. Chuyên viên Phòng Quản
+  lý Năng lượng giải quyết: 11,50 ngày;
+2.3. Lãnh đạo Phòng Quản lý
+  Năng lượng thông qua kết quả: 0,25 ngày;
+2.4. Lãnh đạo Sở ký duyệt:
+  0,25 ngày;
+2.5. Văn thư Sở vào sổ văn bản,
+  chuyển kết quả đến Văn phòng UBND tỉnh: 0,25 ngày
+02 ngày
+Bước 3.
+Văn phòng UBND
+  tỉnh giải quyết, trình Lãnh đạo UBND tỉnh ký duyệt văn bản.
+0,25 ngày
+Bước 4.
+Văn thư Văn
+  phòng UBND tỉnh vào sổ văn bản, chuyển kết quả đến Trung tâm Phục vụ hành
+  chính công tỉnh.
+II. LĨNH VỰC CÔNG NGHIỆP ĐỊA
+  PHƯƠNG (01 TTHC)
+2
+Quyết định  số 5061/QĐ-UBND ngày 20/12/2021
+Cấp Giấy chứng nhận sản phẩm
+  công nghiệp nông thôn tiêu biểu cấp tỉnh (2.000331.000.00.00H08)
+17,5 ngày làm việc kể từ ngày
+  nhận đủ hồ sơ hợp lệ
+0,25 ngày làm việc
+Bước 1.
+Trung tâm Phục
+  vụ hành chính công tỉnh: tiếp nhận hồ sơ, chuyển đến Sở Công Thương.
+Quyết định số  4996/QĐ-UBND ngày 15/12/2021;  Quyết định số
+  1422/QĐ-UBND ngày 24/4/2025
+15,5 ngày làm việc
+Bước 2.
+Sở Công Thương
+  thẩm định hồ sơ, giải quyết cụ thể:
+2.1. Lãnh đạo Phòng Quản lý
+  Công nghiệp phân công thụ lý: 0,5 ngày làm việc.
+2.2. Chuyên viên Phòng Quản
+  lý Công nghiệp giải quyết: 13,5 ngày làm việc
+2.3. Lãnh đạo Phòng Quản lý
+  Công nghiệp thông qua kết quả: 0,5 ngày làm việc
+2.4. Lãnh đạo Sở ký duyệt:
+  0,5 ngày làm việc
+2.5. Văn thư vào sổ, gửi văn
+  bản và các tài liệu đính kèm trình UBND tỉnh xem xét, phê duyệt: 0,5 ngày làm
+  việc
+1,5 ngày làm việc
+Bước 3.
+Văn phòng UBND
+  tỉnh giải quyết, trình Chủ tịch UBND tỉnh ký duyệt văn bản
+0,25 ngày làm việc
+Bước 4.
+Văn thư Văn
+  phòng UBND tỉnh vào sổ, chuyển kết quả đến Trung tâm Phục vụ hành chính công
+  tỉnh
+TỔNG SỐ: 02 TTHC
+II. QUY
+TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH KHÔNG LIÊN THÔNG ĐƯỢC TIẾP NHẬN HỒ
+SƠ VÀ TRẢ KẾT QUẢ TẠI TRUNG TÂM PHỤC VỤ HÀNH CHÍNH CÔNG TỈNH (19 TTHC)
+STT
+STT QTNB giải quyết TTHC được thay
+thế của Chủ tịch UBND tỉnh
+(1)
+Tên thủ tục hành chính
+(2)
+Thời gian giải quyết
+(3) Trình tự các bước thực hiện
+(4)
+TTHC được công bố trí Quyết định của Chủ tịch UBND tỉnh
+(3A)
+Trung tâm Phục vụ hành chính công tỉnh
+(Bước 1: Tiếp nhận hồ sơ)
+(3B)
+Bộ phận chuyên môn
+(Bước 2: Giải quyết hồ sơ)
+(3C)
+Lãnh đạo Sở
+(Bước 3: Ký duyệt)
+(3D)
+Bộ phận chuyên môn
+(Bước 4: Vào sổ, trả kết quả cho Trung tâm Phục vụ hành chính công tỉnh)
+I.
+  LĨNH VỰC XÚC TIẾN THƯƠNG MẠI (03 TTHC)
+1
+Mục A.I, STT 5, Quyết định số  2260/QĐ-UBND ngày 03/7/2019
+Đăng ký tổ chức hội chợ, triển
+  lãm thương mại tại Việt Nam (2.000131.000.00.00.H08)
+3,5 ngày làm việc
+0,25 ngày làm việc
+Phòng Quản lý Thương mại thuộc
+  Sở Công Thương: 2,75 ngày làm việc, cụ thể:
+1. Lãnh đạo Phòng Quản lý
+  Thương mại phân công thụ lý: 0,25 ngày làm việc
+2. Chuyên viên Quản lý Thương
+  mại giải quyết: 2,25 ngày làm việc
+3. Lãnh đạo Phòng Quản lý
+  Thương mại thông qua kết quả: 0,25 ngày làm việc
+0,25 ngày làm việc
+0,25 ngày làm việc
+Quyết định số  2943/QĐ-UBND ngày 29/8/2018;  Quyết định số
+  1422/QĐ-UBND ngày 24/4/2025
+2
+Mục A.I, STT 6, Quyết định số  2260/QĐ-UBND ngày 03/7/2019
+Đăng ký sửa đổi, bổ sung nội
+  dung tổ chức hội chợ, triển lãm thương mại tại Việt Nam
+  (2.000001.000.00.00.H08)
+3,5 ngày làm việc
+0,25 ngày làm việc
+Phòng Quản lý Thương mại thuộc
+  Sở Công Thương: 2,75 ngày làm việc, cụ thể:
+1. Lãnh đạo Phòng Quản lý
+  Thương mại phân công thụ lý: 0,25 ngày làm việc
+2. Chuyên viên Quản lý Thương
+  mại giải quyết: 2,25 ngày làm việc
+3. Lãnh đạo Phòng Quản lý
+  Thương mại thông qua kết quả: 0,25 ngày làm việc
+0,25 ngày làm việc
+0,25 ngày làm việc
+Quyết định số  2943/QĐ-UBND ngày 29/8/2018; Quyết định số
+  1422/QĐ-UBND ngày 24/4/2025
+3
+Mục A.I, STT 2, Quyết định số  2260/QĐ-UBND ngày 03/7/2019
+Đăng ký sửa đổi, bổ sung nội
+  dung chương trình khuyến mại đối với chương trình khuyến mại mang tính may rủi
+  thực hiện trên địa bàn 1 tỉnh, thành phố trực thuộc Trung ương
+  (2.000002.000.00.00.H08)
+2,5 ngày làm việc
+0,25 ngày làm việc
+Phòng Quản lý Thương mại thuộc
+  Sở Công Thương: 1,75 ngày làm việc, cụ thể:
+1. Lãnh đạo Phòng Quản lý
+  Thương mại phân công thụ lý: 0,25 ngày làm việc
+2. Chuyên viên Quản lý Thương
+  mại giải quyết: 1,25 ngày làm việc
+3. Lãnh đạo Phòng Quản lý
+  Thương mại thông qua kết quả: 0,25 ngày làm việc
+0,25 ngày làm việc
+0,25 ngày làm việc
+Quyết định số  2943/QĐ-UBND ngày 29/8/2018; Quyết định số
+  1422/QĐ-UBND ngày 24/4/2025
+II.
+  LĨNH VỰC QUẢN LÝ BÁN HÀNG ĐA CẤP (02 TTHC)
+4
+Mục A.VIII, STT 50, Quyết định số 2260/QĐ-UBND ngày 03/7/2019
+Đăng ký sửa đổi, bổ sung nội
+  dung hoạt động bán hàng đa cấp tại địa phương (2.000631.000.00.00.H08)
+3,5 ngày làm việc
+0,25 ngày làm việc
+Phòng Quản lý Thương mại thuộc
+  Sở Công Thương: 2,75 ngày làm việc, cụ thể:
+1. Lãnh đạo Phòng Quản lý
+  Thương mại phân công thụ lý: 0,25 ngày làm việc
+2. Chuyên viên Quản lý Thương
+  mại giải quyết: 2,25 ngày làm việc
+3. Lãnh đạo Phòng Quản lý
+  Thương mại thông qua kết quả: 0,25 ngày làm việc
+0,25 ngày làm việc
+0,25 ngày làm việc
+Quyết định số  1517/QĐ-UBND ngày 09/5/2018; Quyết định số
+  1422/QĐ-UBND ngày 24/4/2025
+5
+STT 2, Quyết định số  2649/QĐ-UBND ngày 19/7/2023
+Thông báo tổ chức hội nghị, hội
+  thảo, đào tạo về bán hàng đa cấp (2.000609.000.00.00.H08)
+3,5 ngày làm việc
+0,25 ngày làm việc
+Phòng Quản lý Thương mại thuộc
+  Sở Công Thương: 2,75 ngày làm việc, cụ thể:
+1. Lãnh đạo Phòng Quản lý
+  Thương mại phân công thụ lý: 0,25 ngày làm việc
+2. Chuyên viên Quản lý Thương
+  mại giải quyết: 2,25 ngày làm việc
+3. Lãnh đạo Phòng Quản lý
+  Thương mại thông qua kết quả: 0,25 ngày làm việc
+0,25 ngày làm việc
+0,25 ngày làm việc
+Quyết định số  2301/QĐ-UBND ngày 26/6/2023; Quyết định số
+  1422/QĐ-UBND ngày 24/4/2025
+III.
+  LĨNH VỰC BẢO VỆ QUYỀN LỢI NGƯỜI TIÊU DÙNG (01 TTHC)
+6
+STT 1, Quyết định số 3042/QĐ-UBND ngày 27/8/2024
+Đăng ký hợp đồng theo mẫu, điều
+  kiện giao dịch chung thuộc thẩm quyền của Sở Công Thương
+  (2.000191.000.00.00.H08)
+15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và có thể được gia hạn thêm
+  tối đa không quá 30 ngày trong trường hợp phức tạp
+0,25 ngày
+Phòng Quản lý Thương mại thuộc
+  Sở Công Thương: 14,25 ngày, cụ thể:
+1. Lãnh đạo Phòng Quản lý
+  Thương mại phân công thụ lý: 0,25 ngày
+2. Chuyên viên Quản lý Thương
+  mại giải quyết: 13,75 ngày
+3. Lãnh đạo Phòng Quản lý
+  Thương mại thông qua kết quả: 0,25 ngày
+0,25 ngày
+0,25 ngày
+Quyết định số 2785/QĐ-UBND ngày 02/8/2024; Quyết định số 1422/QĐ-UBND
+  ngày 24/4/2025
+IV. LĨNH
+  VỰC LƯU THÔNG HÀNG HOÁ TRONG NƯỚC ( 08 TTHC)
+7
+STT 10, Quyết định số 4302/QĐ-UBND ngày 19/11/2019
+Cấp sửa đổi, bổ sung Giấy xác
+  nhận đủ điều kiện làm đại lý bán lẻ xăng dầu (2.000669.000.00.00.H08)
+6 ngày làm việc
+0,25 ngày làm việc
+Phòng Quản lý Thương mại thuộc
+  Sở Công Thương: 5 ngày làm việc, cụ thể:
+1. Lãnh đạo Phòng Quản lý
+  Thương mại phân công thụ lý: 0,25 ngày làm việc
+2. Chuyên viên Quản lý Thương
+  mại giải quyết: 4,5 ngày làm việc
+3. Lãnh đạo Phòng Quản lý
+  Thương mại thông qua kết quả: 0,25 ngày làm việc
+0,5 ngày làm việc
+0,25 ngày làm việc
+Quyết định số 4281/QĐ-UBND ngày 19/11/2019; Quyết định số
+  1422/QĐ-UBND ngày 24/4/2025
+8
+STT 11, Quyết định số 4302/QĐ-UBND ngày 19/11/2019
+Cấp sửa đổi, bổ sung Giấy chứng
+  nhận cửa hàng đủ điều kiện bán lẻ xăng dầu (2.000645.000.00.00.H08)
+6 ngày làm việc
+0,25 ngày làm việc
+Phòng Quản lý Thương mại thuộc
+  Sở Công Thương: 5 ngày làm việc, cụ thể:
+1. Lãnh đạo Phòng Quản lý
+  Thương mại phân công thụ lý: 0,25 ngày làm việc
+2. Chuyên viên Quản lý Thương
+  mại giải quyết: 4,5 ngày làm việc
+3. Lãnh đạo Phòng Quản lý
+  Thương mại thông qua kết quả: 0,25 ngày làm việc
+0,5 ngày làm việc
+0,25 ngày làm việc
+Quyết định số 4281/QĐ-UBND ngày 19/11/2019; Quyết định số
+  1422/QĐ-UBND ngày 24/4/2025
+9
+Mục A.IX, STT 64, Quyết định số 2260/QĐ-UBND ngày 03/7/2019
+Cấp sửa đổi, bổ sung Giấy
+  phép bán buôn sản phẩm thuốc lá (2.000176.000.00.00.H08)
+7,5 ngày làm việc
+0,25 ngày làm việc
+Phòng Quản lý Thương mại thuộc
+  Sở Công Thương: 6,75 ngày làm việc, cụ thể:
+1. Lãnh đạo Phòng Quản lý
+  Thương mại phân công thụ lý: 0,25 ngày làm việc
+2. Chuyên viên Quản lý Thương
+  mại giải quyết: 6,25 ngày làm việc
+3. Lãnh đạo Phòng Quản lý
+  Thương mại thông qua kết quả: 0,25 ngày làm việc
+0,25 ngày làm việc
+0,25 ngày làm việc
+Quyết định số 1519/QĐ-UBND ngày 09/5/2018; Quyết định số 1422/QĐ-UBND
+  ngày 24/4/2025
+10
+Mục A.IX, STT 63,  Quyết định  số 2260/QĐ-UBND ngày
+  03/7/2019
+Cấp Giấy phép bán buôn
+   sản phẩm thuốc lá  (2.000190.000.00.H08)
+7,5 ngày làm việc
+0,25 ngày làm việc
+Phòng Quản lý Thương mại thuộc
+  Sở Công Thương: 6,75 ngày làm việc, cụ thể:
+1. Lãnh đạo Phòng Quản lý
+  Thương mại phân công thụ lý: 0,25 ngày làm việc
+2. Chuyên viên Quản lý Thương
+  mại giải quyết: 6,25 ngày làm việc
+3. Lãnh đạo Phòng Quản lý
+  Thương mại thông qua kết quả: 0,25 ngày làm việc
+0,25 ngày làm việc
+0,25 ngày làm việc
+Quyết định số 1519/QĐ-UBND ngày 09/5/2018;  Quyết định số
+  1422/QĐ-UBND ngày 24/4/2025
+11
+Quyết định  số 3620/QĐ-UBND ngày 01/9/2021
+Cấp sửa đổi, bổ sung Giấy
+  phép bán buôn rượu trên địa bàn tỉnh, thành phố trực thuộc trung ương
+  (2.001619.000.00.00.H08)
+2,5 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ
+0,25 ngày làm việc
+Phòng Quản lý Thương mại thuộc
+  Sở Công Thương: 1,75 ngày làm việc, cụ thể:
+1. Lãnh đạo Phòng Quản lý
+  Thương mại phân công thụ lý: 0,25 ngày làm việc
+2. Chuyên viên Quản lý Thương
+  mại giải quyết: 1,25 ngày làm việc
+3. Lãnh đạo Phòng Quản lý
+  Thương mại thông qua kết quả: 0,25 ngày làm việc
+0,25 ngày làm việc
+0,25 ngày làm việc
+Quyết định  số 3591/QĐ-UBND ngày 30/8/2021; Quyết định số
+  1422/QĐ-UBND ngày 24/4/2025
+12
+STT 3, Quyết định số 593/QĐ-UBND ngày 24/02/2022
+Cấp Giấy xác nhận đủ điều kiện
+  làm đại lý bán lẻ xăng dầu
+(2.000673)
+Mười (10) ngày làm việc kể từ khi  nhận đủ  hồ sơ hợp lệ
+0,25 ngày làm việc
+Phòng Quản lý Thương mại thuộc
+  Sở Công Thương: 8,5 ngày làm việc, cụ thể:
+1. Lãnh đạo Phòng Quản lý
+  Thương mại phân công thụ lý: 0,5 ngày làm việc
+2. Chuyên viên Quản lý Thương
+  mại giải quyết: 7 ngày làm việc
+3. Lãnh đạo Phòng Quản lý
+  Thương mại thông qua kết quả: 1 ngày làm việc
+1 ngày làm việc
+0,25 ngày làm việc
+Quyết định số 569/QĐ-UBND ngày 23/02/2022; Quyết định số 1422/QĐ-UBND
+  ngày 24/4/2025
+13
+Quyết định  số 2887/QĐ-UBND ngày 03/8/2023
+Cấp Giấy phép bán buôn rượu
+  trên địa bàn tỉnh, thành phố trực thuộc trung ương (2.001624.000.00.00.H08)
+6 ngày làm việc kể từ ngày nhận đủ  hồ sơ hợp lệ
+0,25 ngày làm việc
+Phòng Quản lý Thương mại thuộc
+  Sở Công Thương: 5 ngày làm việc, cụ thể:
+1. Lãnh đạo Phòng Quản lý
+  Thương mại phân công thụ lý: 0,25 ngày làm việc
+2. Chuyên viên Quản lý Thương
+  mại giải quyết: 4,25 ngày làm việc
+3. Lãnh đạo Phòng Quản lý Thương
+  mại thông qua kết quả: 0,5 ngày làm việc
+0,5 ngày làm việc
+0,25 ngày làm việc
+Quyết định số 2852/QĐ-UBND ngày 02/8/2023;  Quyết định số
+  1422/QĐ-UBND ngày 24/4/2025
+14
+STT 1, Quyết định số 5062/QĐ-UBND ngày 20/12/2021
+Cấp Giấy chứng nhận cửa hàng
+  đủ điều kiện bán lẻ xăng dầu (2.000648.000.00.00.H08)
+8,5 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ
+0,25 ngày làm việc
+Phòng Quản lý Thương mại thuộc
+  Sở Công Thương: 7,5 ngày làm việc, cụ thể:
+1. Lãnh đạo Phòng Quản lý
+  Thương mại phân công thụ lý: 0,5 ngày làm việc
+2. Chuyên viên Quản lý Thương
+  mại giải quyết: 6,5 ngày làm việc
+3. Lãnh đạo Phòng Quản lý
+  Thương mại thông qua kết quả: 0,5 ngày làm việc
+0,5 ngày làm việc
+0,25 ngày làm việc
+Quyết định số 4996/QĐ-UBND ngày 15/12/2021; Quyết định số 1422/QĐ-UBND
+  ngày 24/4/2025
+V. LĨNH
+  VỰC AN TOÀN THỰC PHẨM (02 TTHC)
+15
+STT 2, Quyết định số 1252/QĐ-UBND ngày 10/4/2024
+Cấp lại Giấy chứng nhận đủ điều
+  kiện an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh thực phẩm do Sở Công
+  Thương/ Sở An toàn thực phẩm/Ban Quản lý an toàn thực phẩm thực hiện
+  (2.000535.000.00.00.H08)
+10 ngày làm việc (không tính thời gian bổ sung, hoàn thiện hồ sơ) đối
+  với Trường hợp đề nghị cấp lại Giấy chứng nhận do cơ sở thay đổi địa điểm sản
+  xuất, kinh doanh thay đổi, bổ sung quy trình sản xuất, mặt hàng kinh doanh hoặc
+  khi Giấy chứng nhận hết hiệu lực
+0,25 ngày làm việc
+Phòng Kỹ thuật an toàn - Môi
+  trường thuộc Sở Công Thương: 9,25 ngày làm việc, cụ thể:
+1. Lãnh đạo Phòng Kỹ thuật an
+  toàn - Môi trường phân công thụ lý: 0,25 ngày làm việc
+2. Chuyên viên Phòng Kỹ thuật
+  an toàn - Môi trường giải quyết: 8,75 ngày làm việc
+3 Lãnh đạo Phòng Kỹ thuật an
+  toàn - Môi trường thông qua kết quả: 0,25 ngày làm việc
+0,25 ngày làm việc
+0,25 ngày làm việc
+Quyết định số 1240/QĐ-UBND ngày 08/4/2024; Quyết định số 1422/QĐ-UBND
+  ngày 24/4/2025
+16
+STT 1, Quyết định số 1252/QĐ-UBND ngày 10/4/2024
+Cấp Giấy chứng nhận đủ điều
+  kiện an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh thực phẩm do Sở
+  Công Thương/ Sở An toàn thực phẩm/Ban Quản lý an toàn thực phẩm thực hiện
+  (2.000591.000.00.00.H08)
+10 ngày làm việc (không tính thời gian bổ sung, hoàn thiện hồ sơ)
+0,25 ngày làm việc
+Phòng Kỹ thuật an toàn - Môi
+  trường thuộc Sở Công Thương: 9,25 ngày làm việc, cụ thể:
+1. Lãnh đạo Phòng Kỹ thuật an
+  toàn - Môi trường phân công thụ lý: 0,25 ngày làm việc
+2. Chuyên viên Phòng Kỹ thuật
+  an toàn - Môi trường giải quyết: 8,75 ngày làm việc
+3 Lãnh đạo Phòng Kỹ thuật an
+  toàn - Môi trường thông qua kết quả: 0,25 ngày làm việc
+0,25 ngày làm việc
+0,25 ngày làm việc
+Quyết định số 1240/QĐ-UBND ngày 08/4/2024;  Quyết định số
+  1422/QĐ-UBND ngày 24/4/2025
+VI. LĨNH
+  VỰC KINH DOANH KHÍ (01 TTHC)
+17
+Mục B.III, STT 3, Quyết định số 4094/QĐ-UBND ngày 05/10/2020
+Cấp Giấy chứng nhận đủ điều
+  kiện trạm nạp LPG vào chai (2.000073.000.00.00.H08)
+5 ngày làm việc
+0,25 ngày làm việc
+Phòng Kỹ thuật an toàn - Môi
+  trường thuộc Sở Công Thương: 4,25 ngày làm việc
+1. Lãnh đạo Phòng Kỹ thuật an
+  toàn - Môi trường phân công thụ lý: 0,25 ngày làm việc
+2. Chuyên viên Phòng Kỹ thuật
+  an toàn - Môi trường giải quyết: 3,75 ngày làm việc
+3 Lãnh đạo Phòng Kỹ thuật an
+  toàn - Môi trường thông qua kết quả: 0,25 ngày làm việc
+0,25 ngày làm việc
+0,25 ngày làm việc
+Quyết định số 3736/QĐ-UBND ngày 09/9/2020; Quyết định số 1422/QĐ-UBND
+  ngày 24/4/2025
+VII.
+  LĨNH VỰC HOÁ CHẤT (01 TTHC)
+18
+STT 7, Quyết định số 649/QĐ-UBND ngày 06/3/2023
+Cấp giấy chứng nhận đủ điều
+  kiện kinh doanh hóa chất sản xuất, kinh doanh có điều kiện trong lĩnh vực công
+  nghiệp (1.002758.000.00.00.H08)
+9 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ đối với trường hợp cơ
+  sở sản xuất kinh doanh hóa chất của tổ chức, cá nhân đặt tại Bình Định.
+0,25 ngày làm việc
+Phòng Kỹ thuật an toàn - Môi
+  trường thuộc Sở Công Thương: 8,25 ngày làm việc
+1. Lãnh đạo Phòng Kỹ thuật an
+  toàn - Môi trường phân công thụ lý: 0,25 ngày làm việc
+2. Chuyên viên Phòng Kỹ thuật
+  an toàn - Môi trường giải quyết: 7,75 ngày làm việc
+3. Lãnh đạo Phòng Kỹ thuật an
+  toàn - Môi trường thông qua kết quả: 0,25 ngày làm việc
+0,25 ngày làm việc
+0,25 ngày làm việc
+Quyết định số 609/QĐ-UBND ngày 02/3/2023; Quyết định số 1422/QĐ-UBND
+  ngày 24/4/2025
+12 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ đối với trường hợp tổ
+  chức cá nhân có cơ sở sản xuất kinh doanh hóa chất tại địa phương khác.
+0,25 ngày làm việc
+Phòng Kỹ thuật an toàn - Môi
+  trường thuộc Sở Công Thương: 11,25 ngày làm việc
+1. Lãnh đạo Phòng Kỹ thuật an
+  toàn - Môi trường phân công thụ lý: 0,25 ngày làm việc
+2. Chuyên viên Phòng Kỹ thuật
+  an toàn - Môi trường giải quyết: 10,75 ngày làm việc
+3 Lãnh đạo Phòng Kỹ thuật an
+  toàn - Môi trường thông qua kết quả: 0,25 ngày làm việc
+VIII.
+  LĨNH VỰC VẬT LIỆU NỔ CÔNG NGHIỆP, TIÊN CHẤT THUỐC NỔ (01 TTHC)
+19
+STT 2, Quyết định số 94/QĐ-UBND ngày 11/01/2025
+Cấp Giấy chứng nhận huấn luyện
+  kỹ thuật an toàn vật liệu nổ công nghiệp thuộc thẩm quyền giải quyết của Sở
+  Công Thương (2.000229.000.00.00.H08)
+Trường hợp hồ sơ đầy đủ, hợp lệ: 7,5 ngày làm việc.
+0,25 ngày làm việc
+Phòng Kỹ thuật an toàn - Môi
+  trường thuộc Sở Công Thương: 6,75 ngày làm việc
+1. Lãnh đạo Phòng Kỹ thuật an
+  toàn - Môi trường phân công thụ lý: 0,25 ngày làm việc
+2. Chuyên viên Phòng Kỹ thuật
+  an toàn - Môi trường giải quyết: 6,25 ngày làm việc
+3 Lãnh đạo Phòng Kỹ thuật an
+  toàn - Môi trường thông qua kết quả: 0,25 ngày làm việc
+0,25 ngày làm việc
+0,25 ngày làm việc
+Quyết định số 62/QĐ-UBND ngày 08/01/202; Quyết định số 1422/QĐ-UBND
+  ngày 24/4/2025
+TỔNG SỐ: 19 TTHC
+B. QUY
+TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH LIÊN THÔNG, KHÔNG LIÊN THÔNG ĐƯỢC TIẾP
+NHẬN VÀ TRẢ KẾT QUẢ TẠI BỘ PHẬN MỘT CỬA CẤP HUYỆN (07 TTHC)
+I. QUY
+TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH LIÊN THÔNG ĐƯỢC TIẾP NHẬN HỒ SƠ VÀ
+TRẢ KẾT QUẢ TẠI BỘ PHẬN MỘT CỬA CẤP HUYỆN (01 TTHC)
+STT
+STT QTNB giải quyết TTHC được thay thế của Chủ tịch UBND tỉnh
+Tên thủ tục
+hành chính
+Thời gian giải quyết TTHC theo quy định
+Thời gian thực hiện TTHC của từng cơ quan
+Quy trình các bước giải quyết TTHC
+TTHC được công bố trí Quyết định của Chủ tịch UBND tỉnh
+LĨNH VỰC CỤM CÔNG NGHIỆP
+  (01 TTHC)
+1
+Quyết định số 2359/QĐ-UBND ngày 01/7/2024
+Thành lập/mở rộng cụm công
+  nghiệp (1.012427.H08)
+33,75 ngày
+0,25 ngày
+Bước 1.
+Bộ phận Một cửa
+  cấp huyện tiếp nhận hồ sơ, chuyển đến Phòng Kinh tế/ Phòng Kinh tế và Hạ tầng
+Quyết định số 1338/QĐ-UBND ngày 17/4/2024;  Quyết định số
+  1422/QĐ-UBND ngày 24/4/2025
+19,75 ngày
+Bước 2.
+Phòng Kinh tế/Phòng
+  Kinh tế và Hạ tầng tiếp nhận, cụ thể:
+2.1. Lãnh đạo Phòng Kinh tế/Phòng
+  Kinh tế và Hạ tầng  phân công thụ lý: 0,25 ngày.
+2.2. Chuyên viên Phòng Kinh tế/Phòng
+  Kinh tế và Hạ tầng tiếp nhận, kiểm tra hồ sơ: 1,25 ngày
+- Trường hợp hồ sơ chưa đạt
+  yêu cầu, chuyên viên Phòng Kinh tế/Phòng Kinh tế và Hạ tầng soạn thảo văn bản
+  trả lại hồ sơ, nêu rõ lý do.
+- Trường hợp hồ sơ đạt yêu cầu,
+  chuyên viên dự thảo văn bản thông báo rộng rãi việc tiếp nhận hồ sơ đề nghị
+  thành lập/mở rộng cụm công nghiệp trình Lãnh đạo phòng.
+2.3. Lãnh đạo phòng kiểm tra
+  nội dung tham mưu, trình Lãnh đạo UBND cấp huyện: 0,25 ngày
+2.4. Lãnh đạo UBND cấp huyện
+  xem xét, ký duyệt văn bản thông báo rộng rãi việc tiếp nhận hồ sơ đề nghị
+  thành lập/mở rộng cụm công nghiệp: 0,25 ngày
+2.5. Thông báo rộng rãi việc
+  tiếp nhận hồ sơ đề nghị thành lập/mở rộng cụm công nghiệp: 15 ngày
+2.6. Sau thời gian kết thúc
+  nhận hồ sơ thành lập/mở rộng cụm công nghiệp, Chuyên viên Phòng Kinh tế/Phòng
+  Kinh tế và Hạ tầng giải quyết, trình lãnh đạo Phòng: 2 ngày.
+2.7. Lãnh đạo Phòng Kinh tế/Phòng
+  Kinh tế và Hạ tầng  thông qua kết quả: 0,25 ngày.
+2.8. Lãnh đạo UBND cấp huyện
+  thông qua kết quả: 0,25  ngày.
+2.9. Văn thư vào sổ, chuyển kết
+  quả đến Sở Công Thương: 0,25 ngày.
+12 ngày
+Bước 3.
+Sở Công Thương
+  thẩm định, giải quyết hồ sơ, cụ thể:
+3.1. Lãnh đạo Phòng Quản lý
+  công nghiệp phân công thụ lý: 0,25 ngày.
+3.2. Chuyên viên Phòng Quản
+  lý công nghiệp giải quyết: 11 ngày.
+- Tổng hợp Hồ sơ gửi Hội đồng
+  Đánh giá lựa chọn chủ đầu tư xây dựng và kinh doanh hạ tầng kỹ thuật cụm công
+  nghiệp
+(Hội đồng gồm Chủ tịch Hội đồng là lãnh đạo UBND cấp tỉnh, Phó Chủ
+  tịch Hội đồng là lãnh đạo các Sở Công Thương, Sở Kế hoạch và Đầu tư, các
+  thành viên khác là đại diện một số sở, cơ quan liên quan)
+trên địa bàn tỉnh
+  Bình Định để đánh giá, chấm điểm: 1 ngày.
+- Hội đồng Đánh giá lựa chọn
+  chủ đầu tư xây dựng và kinh doanh hạ tầng kỹ thuật cụm công nghiệp đánh giá,
+  chấm điểm lựa chọn chủ đầu tư: 5 ngày.
+- Trên cơ sở kết quả chấm điểm
+  của Hội đồng, tham mưu trình UBND tỉnh phê duyệt kết quả lựa chọn nhà đầu tư
+  và UBND tỉnh ban hành quyết định phê duyệt kết quả lựa chọn nhà đầu tư: 3
+  ngày.
+- Hoàn chỉnh báo cáo hoàn
+  thành thẩm định, tổng hợp báo cáo UBND cấp tỉnh việc thành lập, mở rộng cụm
+  công nghiệp: 2 ngày.
+3.3. Lãnh đạo Phòng Quản lý
+  công nghiệp thông qua kết quả: 0,25 ngày.
+3.4. Lãnh đạo Sở ký duyệt:
+  0,25 ngày.
+3.5. Văn thư vào sổ, chuyển kết
+  quả đến Văn phòng UBND tỉnh: 0,25 ngày
+1,5 ngày
+Bước 4.
+Văn phòng UBND
+  tỉnh giải quyết, trình Chủ tịch UBND tỉnh ký duyệt Quyết định thành lập/mở rộng
+  cụm công nghiệp.
+0,25 ngày
+Bước 5.
+Văn thư
+Văn
+  phòng UBND tỉnh vào sổ, chuyển kết quả đến Bộ phận Một cửa cấp huyện và theo
+  nơi nhận.
+II. QUY
+TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH KHÔNG LIÊN THÔNG ĐƯỢC TIẾP NHẬN HỒ
+SƠ VÀ TRẢ KẾT QUẢ TẠI BỘ PHẬN MỘT CỬA CẤP HUYỆN (06 TTHC)
+STT
+STT QTNB giải quyết TTHC được thay thế tại Quyết định của Chủ tịch
+  UBND tỉnh
+(1)
+Tên thủ tục hành chính
+(2)
+Thời gian giải quyết
+(3) Trình tự các bước thực hiện
+(4)
+TTHC được công bố trí Quyết định của Chủ tịch UBND tỉnh
+(3A)
+Bộ phận Một cửa huyện/thị xã/thành phố
+(Bước 1: Tiếp nhận hồ sơ)
+(3B)
+Bộ phận
+chuyên môn
+(Bước 2: Giải quyết hồ sơ)
+(3C)
+Lãnh đạo UBND huyện/thị xã/thành phố
+(Bước 3: ký duyệt)
+(3D)
+Bộ phận chuyên môn
+(Bước 4: Vào sổ, trả kết quả cho Bộ phận Một cửa huyện/thị xã/thành phố)
+I. LĨNH VỰC KINH DOANH KHÍ
+  (02 TTHC)
+1
+Mục B.I, STT 3, Quyết định số 2260/QĐ-UBND ngày 03/7/2019
+Cấp điều chỉnh Giấy chứng nhận
+  đủ điều kiện cửa hàng bán lẻ LPG chai (2.001261.000.00.00.H08)
+3,5 ngày làm việc
+0,25 ngày làm việc
+Phòng Kinh tế, Hạ tầng và Đô
+  thị thẩm định hồ sơ, giải quyết: 2,5 ngày làm việc, cụ thể:
+1. Lãnh đạo Phòng Kinh tế, Hạ
+  tầng và Đô thị phân công thụ lý: 0,25 ngày làm việc;
+2. Chuyên viên Phòng
+   Kinh tế, Hạ tầng và Đô thị tham mưu giải quyết hồ sơ thủ tục hành chính
+  và trình Lãnh đạo Phòng xem xét, thông qua: 2 ngày làm việc
+3. Lãnh đạo Phòng Kinh tế, Hạ
+  tầng và Đô thị thông qua kết quả giải quyết hồ sơ thủ tục hành chính, trình
+  Lãnh đạo UBND cấp huyện xem xét, phê duyệt kết quả: 0,25 ngày làm việc
+Lãnh đạo UBND cấp huyện xem xét, ký duyệt hồ sơ và chuyển đến Văn thư:
+  0,5 ngày làm việc
+0,25 ngày làm việc
+Quyết định số 645/QĐ-UBND ngày 01/3/2019;  Quyết định số
+  1422/QĐ-UBND ngày 24/4/2025
+2
+Mục II, STT 1, Quyết định số 2843/QĐ-UBND ngày 08/8/2024
+Cấp Giấy chứng nhận đủ điều
+  kiện cửa hàng bán lẻ LPG chai (2.001283.000.00.00.H08)
+6,5 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ
+0,25 ngày làm việc
+Phòng Kinh tế, Hạ tầng và Đô
+  thị thẩm định hồ sơ, giải quyết: 5,5 ngày làm việc, cụ thể:
+1. Lãnh đạo Phòng Kinh tế, Hạ
+  tầng và Đô thị phân công thụ lý: 0,25 ngày làm việc;
+2. Chuyên viên Phòng Kinh tế,
+  Hạ tầng và Đô thị tham mưu giải quyết hồ sơ thủ tục hành chính và trình Lãnh
+  đạo Phòng xem xét, thông qua: 5 ngày làm việc
+3. Lãnh đạo Phòng Kinh tế, Hạ
+  tầng và Đô thị thông qua kết quả giải quyết hồ sơ thủ tục hành chính, trình
+  Lãnh đạo UBND cấp huyện xem xét, phê duyệt kết quả: 0,25 ngày làm việc
+Lãnh đạo UBND cấp huyện xem xét, ký duyệt hồ sơ và chuyển đến Văn thư:
+  0,5 ngày làm  việc
+0,25 ngày làm việc
+Quyết định số  2785/QĐ-UBND ngày 02/8/2024;  Quyết định số
+  1422/QĐ-UBND ngày 24/4/2025
+II. LĨNH VỰC LƯU THÔNG
+  HÀNG HÓA TRONG NƯỚC (04 TTHC)
+3
+Mục B.II, STT 15, Quyết định số 2260/QĐ-UBND ngày 03/7/2019
+Cấp lại Giấy phép bán lẻ sản
+  phẩm thuốc lá (2.000150.000.00.00.H08)
+7,5 ngày làm việc
+0,25 ngày làm việc
+Phòng Kinh tế, Hạ tầng và Đô
+  thị thẩm định hồ sơ, giải quyết: 6,5 ngày làm việc, cụ thể:
+1. Lãnh đạo Phòng Kinh tế, Hạ
+  tầng và Đô thị phân công thụ lý: 0,5 ngày làm việc;
+2. Chuyên viên Phòng
+   Kinh tế, Hạ tầng và Đô thị tham mưu giải quyết hồ sơ thủ tục hành chính
+  và trình Lãnh đạo Phòng xem xét, phê duyệt: 6 ngày làm việc
+Lãnh đạo Phòng Kinh tế, Hạ tầng và Đô thị xem xét, phê duyệt kết quả giải
+  quyết hồ sơ thủ tục hành chính: 0,5 ngày làm  việc
+0,25 ngày làm việc
+Quyết định số 1519/QĐ-UBND ngày 09/5/2018;  Quyết định số
+  1422/QĐ-UBND ngày 24/4/2025
+4
+Mục B.II, STT 4, Quyết định số 2260/QĐ-UBND ngày 03/7/2019
+Cấp Giấy phép sản xuất rượu
+  thủ công nhằm mục đích kinh doanh (2.000633.000.00.00.H08)
+5 ngày làm  việc
+0,25 ngày làm việc
+Phòng Kinh tế, Hạ tầng và Đô
+  thị thẩm định hồ sơ, giải quyết: 4 ngày làm việc, cụ thể:
+1. Lãnh đạo Phòng Kinh tế, Hạ
+  tầng và Đô thị phân công thụ lý: 0,5 ngày làm việc;
+2. Chuyên viên Phòng Kinh tế,
+  Hạ tầng và Đô thị tham mưu giải quyết hồ sơ thủ tục hành chính và trình Lãnh
+  đạo Phòng xem xét, phê duyệt: 3,5 ngày làm việc
+Lãnh đạo Phòng Kinh tế, Hạ tầng và Đô thị xem xét, phê  duyệt kết
+  quả giải quyết hồ sơ thủ tục hành chính: 0,5 ngày làm việc
+0,25 ngày làm việc
+Quyết định số 1519/QĐ-UBND ngày 09/5/2018;  Quyết định số
+  1422/QĐ-UBND ngày 24/4/2025
+5
+Mục B.II, STT 7, Quyết định số 2260/QĐ-UBND ngày 03/7/2019
+Cấp Giấy phép bán lẻ rượu
+  (2.000620.000.00.00.H08)
+5 ngày làm  việc
+0,25 ngày làm việc
+Phòng Kinh tế, Hạ tầng và Đô
+  thị thẩm định hồ sơ, giải quyết: 4 ngày làm việc, cụ thể:
+1. Lãnh đạo Phòng Kinh tế, Hạ
+  tầng và Đô thị phân công thụ lý: 0,5 ngày làm việc;
+2. Chuyên viên Phòng Kinh tế,
+  Hạ tầng và Đô thị tham mưu giải quyết hồ sơ thủ tục hành chính và trình Lãnh
+  đạo Phòng xem xét, phê duyệt: 3,5 ngày làm việc
+Lãnh đạo Phòng Kinh tế, Hạ tầng và Đô thị xem xét, phê  duyệt kết
+  quả giải quyết hồ sơ thủ tục hành chính: 0,5 ngày làm việc
+0,25 ngày làm việc
+Quyết định số 1519/QĐ-UBND ngày 09/5/2018;  Quyết định số
+  1422/QĐ-UBND ngày 24/4/2025
+6
+Mục I, STT 1, Quyết định số 2606/QĐ-UBND ngày 16/8/2022
+Cấp Giấy phép bán lẻ sản phẩm
+  thuốc lá (2.000181.000.00.00.H08)
+Sáu (06) ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ
+0,25 ngày làm việc
+Phòng Kinh tế, Hạ tầng và Đô
+  thị thẩm định hồ sơ, giải quyết: 5 ngày làm việc, cụ thể:
+1. Lãnh đạo Phòng Kinh tế, Hạ
+  tầng và Đô thị phân công thụ lý: 0,5 ngày làm việc;
+2. Chuyên viên Phòng 
+  Kinh tế, Hạ tầng và Đô thị tham mưu giải quyết hồ sơ thủ tục hành chính và
+  trình Lãnh đạo Phòng xem xét, phê duyệt: 4,5 ngày làm việc
+Lãnh đạo Phòng Kinh tế, Hạ tầng và Đô thị xem xét, phê  duyệt kết
+  quả giải quyết hồ sơ thủ tục hành chính: 0,5 ngày làm việc
+0,25 ngày làm việc
+Quyết định số 2533/QĐ-UBND ngày 11/8/2022;  Quyết định số
+  1422/QĐ-UBND ngày 24/4/2025
+TỔNG SỐ: 06 TTHC
+Lưu trữ
+Ghi chú
+Ý kiến
+Facebook
+Email
+In
+Thư Viện
+Nhà Đất
+Bán nhà Nguyễn Tư Giản, Gò Vấp, hẻm ô tô, 4 tầng, thiện chí bán, giảm 500triệu,  giá nhỉnh 9 tỷ
+9.6 tỷ
+,
+DT 84
+m
+2
+,
+Quận Gò Vấp, Hồ Chí Minh
+Pháp Luật Thuế
+Bản án liên quan
+PHÁP LUẬT DOANH NGHIỆP
+Hỏi đáp pháp luật
+Quyết định 1547/QĐ-UBND năm 2025 phê duyệt Quy trình nội bộ giải quyết thủ tục hành chính liên thông, không liên thông cấp tỉnh, cấp huyện đối với các lĩnh vực thuộc phạm vi chức năng quản lý của Sở Công Thương tỉnh Bình Định
