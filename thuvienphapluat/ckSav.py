@@ -12,7 +12,7 @@ from retrying import retry
 from bs4 import BeautifulSoup
 
 # Cấu hình thư mục lưu
-field = "bomayhanhchinh_2"
+field = "bomayhanhchinh_1"
 download_dir = f"download_{field}"
 os.makedirs(download_dir, exist_ok=True)
 
@@ -50,8 +50,8 @@ def create_driver():
 
 # Cookie session
 cookies = [
-    {'name': 'cf_clearance', 'value': 'G.VKSbi3H_KhB0qg5kZQQTkmowfKVQnP61T14BLON2c-1753866802-1.2.1.1-xRLpLxPcFi2GHUScyF6TzsN5A7rVmGrytZYynVJpqg_mCFBw81evrzsIc5T3RPfV2SHsPIfXg459t0nMY57ZWXpM.YH5JbPRt0bFw30L_epDkmXlCp9aVWBifhxinMsE8Ddm9cbPJ8b.Lu35Uju6Fu_rZKJi4XkWMRBkrr_rHw_5LGveHkWs2ftRDknoDrie9hsIJ.dgHFQrLYVcPLX4PTN26xSi69DMqjGpQhsrgUMyqXXiu9lCG9UAODhNjm42', 'domain': 'thuvienphapluat.vn'},
-    {'name': 'ASP.NET_SessionId', 'value': 'sjhnoynjvklgap1xbcnq2is3', 'domain': 'thuvienphapluat.vn'},
+    {'name': 'cf_clearance', 'value': '1pfb3RRJB6VTg3M4qSp6IFuQ3DBImzIocpLMdE13QK4-1753928599-1.2.1.1-XNWJ_o97tqZucifBF.aeGsWsiXAleg3Twv4ChdrpJZ0gd41zM8rzEG4beJlUapIPeK1Yab830N81OKlKjPj7Ux39B1pIRfHL8wRCx9FZVBSM5MWsSuxR_4J0bCxKOUwQZCmtGOHqaKB0ph47O9DySg_kJ4ZJXCaFI305LFcHrMFr2qLegsyp2NohzUMxEmAg4Vx_yb93usHzMhQF8sywf70Msh1e4TLXjEATKAk3z1U', 'domain': 'thuvienphapluat.vn'},
+    {'name': 'ASP.NET_SessionId', 'value': 'uza4evblj1qj1ismazmfjf4h', 'domain': 'thuvienphapluat.vn'},
     {'name': 'thuvienphapluatnew', 'value': '6A5483D68FC937A9135B357CAA8F8FA85746EBE366A91C07FCD36DE091839971C67CD3AFA8EBB293BEA0838DE4D9FB7E9C784F1A70A557EC9F0789DFD2F6C90E3FB248938A36D1ADF932D7C8CCF16EBD5988883C81FB5E3B4A12AB71328D06A33FFD388DEA3D2402A3E6D32BDE1E1B472ADA0762D087C0A1A818BC0ABAE99F3BF4EAAD7608CE246966D0A3C0248E8132CDE95D9AA2BBB09C6E219F1F9156D0A10F8A112F555081CFDBBE5A8C28869416AACBA1AEE08127B88323CC1F3DA02BB18EC6DC28E542AD260DD93AEF', 'domain': 'thuvienphapluat.vn'},
     {'name': 'dl_user', 'value': '0=c5aGJtZE1ZVzVRYUhWdmJtYzU0', 'domain': 'thuvienphapluat.vn'},
     {'name': 'lg_user', 'value': '0=c5aGJtZE1ZVzVRYUhWdmJtY3NURTRzVkhKMVpRPTU0', 'domain': 'thuvienphapluat.vn'},
@@ -87,7 +87,7 @@ def download_content(url, index):
                 EC.presence_of_element_located((By.CSS_SELECTOR, "div#tab1.contentDoc, div.col-md-12.py-4"))
             )
         except Exception:
-            screenshot_path = f"{download_dir}/error_file_{index + 125}.png"
+            screenshot_path = f"{download_dir}/error_file_{field}_{index + 1}.png"
             driver.save_screenshot(screenshot_path)
             logging.error(f"❌ Không tìm thấy nội dung chính tại {url} - đã lưu ảnh lỗi {screenshot_path}")
             return False
@@ -102,7 +102,7 @@ def download_content(url, index):
         text = soup.get_text(separator="\n", strip=True)
 
         doc_id = url.rstrip("/").split("/")[-1].split(".")[0]
-        file_path = os.path.join(download_dir, f"{index + 1 + 124}_{doc_id}.txt")
+        file_path = os.path.join(download_dir, f"{field}_{index + 1}_{doc_id}.txt")
         with open(file_path, "w", encoding="utf-8") as file:
             file.write(text)
 
