@@ -15,8 +15,8 @@ from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import TimeoutException
 
 # ==================== Cấu hình ====================
-field = "bomayhanhchinh150-200" #tai toi 199 r
-start_page = 150
+field = "bomayhanhchinh200-250" #tai toi 199 r
+start_page = 200
 total_pages = 51
 output_file = f"file_link_download_{field}.txt"
 download_dir = "link_downloads"
@@ -52,17 +52,46 @@ chrome_options.add_argument("--disable-blink-features=AutomationControlled")
 
 # ==================== Cookie ====================
 cookies = [
-    {'name': 'cf_clearance', 'value': 'YSl_wE2XeCyG7Wi5ZKHANEFZihvV.OL0EDjnWbFkyV0-1752030951-1.2.1.1-HDW0ABCa8.4J4CU2Yxh3DCfUJdwpkpRFIIzbw4WNCxF8c206AnVEJsRHPjsTTy0.8BLJpC.vjeSY0aPXkB3VHfVC8V4hK0ASe_11tzFVJw6cYmp1YSW2lzV_oecB9jvyBWOgSC7zC11UPNtGIfT3F5l_kZMm3rhExBEfdCgXQuZdhvd1B_VlDOG98gQwyewbuSPG71IYa7FhC35yDmC64wXcPG5zYqgyzpMWmmhhLq0', 'domain': 'thuvienphapluat.vn'},
-    {'name': 'ASP.NET_SessionId', 'value': 'x1nureejgpaxyy3av4qzzzau', 'domain': 'thuvienphapluat.vn'},
+    {'name': 'cf_clearance', 'value': 'G.VKSbi3H_KhB0qg5kZQQTkmowfKVQnP61T14BLON2c-1753866802-1.2.1.1-xRLpLxPcFi2GHUScyF6TzsN5A7rVmGrytZYynVJpqg_mCFBw81evrzsIc5T3RPfV2SHsPIfXg459t0nMY57ZWXpM.YH5JbPRt0bFw30L_epDkmXlCp9aVWBifhxinMsE8Ddm9cbPJ8b.Lu35Uju6Fu_rZKJi4XkWMRBkrr_rHw_5LGveHkWs2ftRDknoDrie9hsIJ.dgHFQrLYVcPLX4PTN26xSi69DMqjGpQhsrgUMyqXXiu9lCG9UAODhNjm42', 'domain': 'thuvienphapluat.vn'},
+    {'name': 'ASP.NET_SessionId', 'value': 'sjhnoynjvklgap1xbcnq2is3', 'domain': 'thuvienphapluat.vn'},
     {'name': 'thuvienphapluatnew', 'value': '6A5483D68FC937A9135B357CAA8F8FA85746EBE366A91C07FCD36DE091839971C67CD3AFA8EBB293BEA0838DE4D9FB7E9C784F1A70A557EC9F0789DFD2F6C90E3FB248938A36D1ADF932D7C8CCF16EBD5988883C81FB5E3B4A12AB71328D06A33FFD388DEA3D2402A3E6D32BDE1E1B472ADA0762D087C0A1A818BC0ABAE99F3BF4EAAD7608CE246966D0A3C0248E8132CDE95D9AA2BBB09C6E219F1F9156D0A10F8A112F555081CFDBBE5A8C28869416AACBA1AEE08127B88323CC1F3DA02BB18EC6DC28E542AD260DD93AEF', 'domain': 'thuvienphapluat.vn'},
     {'name': 'dl_user', 'value': '0=c5aGJtZE1ZVzVRYUhWdmJtYzU0', 'domain': 'thuvienphapluat.vn'},
     {'name': 'lg_user', 'value': '0=c5aGJtZE1ZVzVRYUhWdmJtY3NURTRzVkhKMVpRPTU0', 'domain': 'thuvienphapluat.vn'},
 ]
 
 # ==================== Hàm xử lý CAPTCHA ====================
+# def handle_captcha_auto(driver):
+#     try:
+#         captcha_img = WebDriverWait(driver, 12).until(
+#             EC.presence_of_element_located((By.XPATH, '//img[contains(@src, "/RegistImage.aspx")]'))
+#         )
+#         captcha_src = captcha_img.get_attribute("src")
+#         if not captcha_src.startswith("http"):
+#             captcha_src = f"https://thuvienphapluat.vn{captcha_src}"
+
+#         session_cookies = {c['name']: c['value'] for c in driver.get_cookies()}
+#         headers = {'User-Agent': driver.execute_script("return navigator.userAgent;")}
+#         img_data = requests.get(captcha_src, cookies=session_cookies, headers=headers).content
+
+#         img = Image.open(BytesIO(img_data)).convert("L")
+#         img = img.resize((img.size[0]*2, img.size[1]*2))
+#         img = img.point(lambda x: 0 if x < 140 else 255, '1')  # làm nét
+
+#         captcha_text = pytesseract.image_to_string(img, config='--psm 7 digits').strip()
+#         logging.info(f"🤖 CAPTCHA OCR: {captcha_text}")
+
+#         driver.find_element(By.ID, "ctl00_Content_txtSecCode").clear()
+#         driver.find_element(By.ID, "ctl00_Content_txtSecCode").send_keys(captcha_text)
+#         driver.find_element(By.ID, "ctl00_Content_CheckButton").click()
+#         time.sleep(3)
+#     except TimeoutException:
+#         logging.info("✅ Không có CAPTCHA.")
+#     except Exception as e:
+#         logging.warning(f"⚠️ Lỗi xử lý CAPTCHA: {e}")
+
 def handle_captcha_auto(driver):
     try:
-        captcha_img = WebDriverWait(driver, 12).until(
+        captcha_img = WebDriverWait(driver, 30).until(
             EC.presence_of_element_located((By.XPATH, '//img[contains(@src, "/RegistImage.aspx")]'))
         )
         captcha_src = captcha_img.get_attribute("src")
@@ -75,19 +104,28 @@ def handle_captcha_auto(driver):
 
         img = Image.open(BytesIO(img_data)).convert("L")
         img = img.resize((img.size[0]*2, img.size[1]*2))
-        img = img.point(lambda x: 0 if x < 140 else 255, '1')  # làm nét
+        img = img.point(lambda x: 0 if x < 140 else 255, '1')  # threshold
 
-        captcha_text = pytesseract.image_to_string(img, config='--psm 7 digits').strip()
+        captcha_text = pytesseract.image_to_string(img, config='--psm 7 -c tessedit_char_whitelist=0123456789').strip()
+        captcha_text = captcha_text.replace(" ", "").replace("\n", "")
         logging.info(f"🤖 CAPTCHA OCR: {captcha_text}")
 
-        driver.find_element(By.ID, "ctl00_Content_txtSecCode").clear()
-        driver.find_element(By.ID, "ctl00_Content_txtSecCode").send_keys(captcha_text)
-        driver.find_element(By.ID, "ctl00_Content_CheckButton").click()
-        time.sleep(3)
+        if len(captcha_text) == 6 and captcha_text.isdigit():
+            driver.find_element(By.ID, "ctl00_Content_txtSecCode").clear()
+            driver.find_element(By.ID, "ctl00_Content_txtSecCode").send_keys(captcha_text)
+            driver.find_element(By.ID, "ctl00_Content_CheckButton").click()
+
+            WebDriverWait(driver, 10).until_not(
+                EC.presence_of_element_located((By.ID, "ctl00_Content_txtSecCode"))
+            )
+        else:
+            logging.warning("⚠️ CAPTCHA không hợp lệ, bỏ qua...")
+
     except TimeoutException:
         logging.info("✅ Không có CAPTCHA.")
     except Exception as e:
         logging.warning(f"⚠️ Lỗi xử lý CAPTCHA: {e}")
+
 
 # ==================== Start Crawling ====================
 try:

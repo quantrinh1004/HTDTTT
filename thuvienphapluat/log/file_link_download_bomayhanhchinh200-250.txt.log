@@ -1,0 +1,7 @@
+2025-07-30 09:26:26,514 - INFO - ➡️ Đang truy cập: https://thuvienphapluat.vn/page/searchlegal.aspx?keyword=&area=0&match=True&type=0&status=1&signer=0&sort=1&lan=1&scan=0&org=0&fields=15&chlbg=09/07/1945&chlend=09/07/2035&page=200
+2025-07-30 09:26:26,768 - INFO - ⏳ Chờ 7.93s giả lập người dùng...
+2025-07-30 09:27:08,631 - INFO - ✅ Không có CAPTCHA.
+2025-07-30 09:27:08,634 - INFO - 🧭 Tiêu đề trang: Just a moment...
+2025-07-30 09:27:12,214 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/0bd2cd77f90397b305edbbd0d431316e
+2025-07-30 09:27:12,215 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7c358ef4b680>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/0bd2cd77f90397b305edbbd0d431316e
+2025-07-30 09:27:12,216 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7c358ef7c410>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/0bd2cd77f90397b305edbbd0d431316e

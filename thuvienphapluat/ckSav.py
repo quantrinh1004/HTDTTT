@@ -11,10 +11,12 @@ from selenium.webdriver.chrome.options import Options
 from retrying import retry
 from bs4 import BeautifulSoup
 
+# Cấu hình thư mục lưu
 field = "bomayhanhchinh_2"
-download_dir = "download_" + field
+download_dir = f"download_{field}"
 os.makedirs(download_dir, exist_ok=True)
 
+# Log file
 log_file_dir = "download_file_log"
 os.makedirs(log_file_dir, exist_ok=True)
 log_file = os.path.join(log_file_dir, f"Save_{field}.log")
@@ -27,31 +29,26 @@ logging.basicConfig(
     ]
 )
 
-
 def create_driver():
     chrome_options = Options()
-    chrome_options.add_argument("--headless=new")  # ❗ Có thể bỏ nếu muốn thấy trình duyệt
+    chrome_options.add_argument("--headless")  # ← bạn có thể bỏ dòng này nếu muốn thấy trình duyệt chạy
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
-    chrome_options.add_argument("--blink-settings=imagesEnabled=false")
     chrome_options.add_argument("--window-size=1920,1080")
-    chrome_options.add_argument("start-maximized")
-    chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36")
-    chrome_options.add_experimental_option("prefs", {"profile.managed_default_content_settings.images": 2})
+    chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+    chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36")
     chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
     chrome_options.add_experimental_option('useAutomationExtension', False)
-    chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+    chrome_options.add_experimental_option("prefs", {"profile.managed_default_content_settings.images": 2})
+
     driver = webdriver.Chrome(options=chrome_options)
     driver.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {
-        "source": """
-            Object.defineProperty(navigator, 'webdriver', {get: () => undefined});
-        """
+        "source": "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})"
     })
     return driver
 
-
-# ==================== Cookie ====================
+# Cookie session
 cookies = [
     {'name': 'cf_clearance', 'value': 'G.VKSbi3H_KhB0qg5kZQQTkmowfKVQnP61T14BLON2c-1753866802-1.2.1.1-xRLpLxPcFi2GHUScyF6TzsN5A7rVmGrytZYynVJpqg_mCFBw81evrzsIc5T3RPfV2SHsPIfXg459t0nMY57ZWXpM.YH5JbPRt0bFw30L_epDkmXlCp9aVWBifhxinMsE8Ddm9cbPJ8b.Lu35Uju6Fu_rZKJi4XkWMRBkrr_rHw_5LGveHkWs2ftRDknoDrie9hsIJ.dgHFQrLYVcPLX4PTN26xSi69DMqjGpQhsrgUMyqXXiu9lCG9UAODhNjm42', 'domain': 'thuvienphapluat.vn'},
     {'name': 'ASP.NET_SessionId', 'value': 'sjhnoynjvklgap1xbcnq2is3', 'domain': 'thuvienphapluat.vn'},
@@ -60,7 +57,6 @@ cookies = [
     {'name': 'lg_user', 'value': '0=c5aGJtZE1ZVzVRYUhWdmJtY3NURTRzVkhKMVpRPTU0', 'domain': 'thuvienphapluat.vn'},
 ]
 
-#index + 1
 @retry(stop_max_attempt_number=3, wait_fixed=2000)
 def download_content(url, index):
     driver = None
@@ -68,27 +64,20 @@ def download_content(url, index):
         driver = create_driver()
         base_url = "https://thuvienphapluat.vn"
         driver.get(base_url)
-        delay1 = random.uniform(2, 4)
-        logging.info(f"⏳ Waiting {delay1:.2f}s for user emulation...")
-        time.sleep(delay1)
+        time.sleep(random.uniform(2, 4))
+
         for cookie in cookies:
             try:
                 driver.add_cookie(cookie)
             except Exception as e:
                 logging.warning(f"Could not add cookie: {e}")
-        
-        driver.refresh()
 
-        full_url = f"{url}" if url.startswith("http") else f"{base_url}{url}"
-        driver.get(full_url)
-
-        delay = random.uniform(3, 6)
-        logging.info(f"⏳ Waiting {delay:.2f}s for user emulation...")
-        time.sleep(delay)
+        driver.get(url)
+        time.sleep(random.uniform(3, 6))
 
         try:
-            driver.execute_script("window.scrollTo(0, document.body.scrollHeight/4);")
-            time.sleep(random.uniform(0.5, 1.5))
+            driver.execute_script("window.scrollTo(0, document.body.scrollHeight/3);")
+            time.sleep(1)
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight/2);")
         except Exception:
             pass
@@ -98,59 +87,49 @@ def download_content(url, index):
                 EC.presence_of_element_located((By.CSS_SELECTOR, "div#tab1.contentDoc, div.col-md-12.py-4"))
             )
         except Exception:
-            screenshot_path = f"{download_dir}/error_file_{index + 1 + random.uniform(1, 1000)}_new1.png"
+            screenshot_path = f"{download_dir}/error_file_{index + 125}.png"
             driver.save_screenshot(screenshot_path)
-            logging.error(f"❌ Main content not found at {full_url} - saved image error {screenshot_path}")
+            logging.error(f"❌ Không tìm thấy nội dung chính tại {url} - đã lưu ảnh lỗi {screenshot_path}")
             return False
 
         try:
-            try:
-                content_div = driver.find_element(By.CSS_SELECTOR, "div#tab1.contentDoc")
-            except:
-                content_div = driver.find_element(By.CSS_SELECTOR, "div.col-md-12.py-4")
-            html_content = content_div.get_attribute("outerHTML")
-        except Exception:
-            html_content = driver.page_source
+            content_div = driver.find_element(By.CSS_SELECTOR, "div#tab1.contentDoc")
+        except:
+            content_div = driver.find_element(By.CSS_SELECTOR, "div.col-md-12.py-4")
 
+        html_content = content_div.get_attribute("outerHTML")
         soup = BeautifulSoup(html_content, "html.parser")
         text = soup.get_text(separator="\n", strip=True)
 
-        doc_id_with_ext = url.rstrip("/").split("/")[-1]
-        doc_id, _ = os.path.splitext(doc_id_with_ext)
-        file_path = os.path.join(download_dir, f"{index + 1}_{doc_id}.txt")
+        doc_id = url.rstrip("/").split("/")[-1].split(".")[0]
+        file_path = os.path.join(download_dir, f"{index + 1 + 124}_{doc_id}.txt")
         with open(file_path, "w", encoding="utf-8") as file:
             file.write(text)
 
-        logging.info(f"Saved txt: {file_path}")
+        logging.info(f"✅ Đã lưu: {file_path}")
         return True
 
     except Exception as e:
-        logging.error(f"Error saving document TXT {index}: {e}")
-        if driver is not None:
-            driver.save_screenshot(f"{download_dir}/error_file_{index}.png")
+        logging.error(f"❌ Lỗi tải TXT {index}: {e}")
+        if driver:
+            driver.save_screenshot(f"{download_dir}/error_file_{index}_exception.png")
         return False
     finally:
-        if driver is not None:
+        if driver:
             driver.quit()
-
+            time.sleep(1)
 
 def main():
     with open('./link_downloads/bomayhanhchinh.txt', 'r', encoding='utf-8') as file:
-        download_urls = [
-            line.strip()
-            for line in file
-            if line.strip().startswith("https://thuvienphapluat.vn/")
-        ]
+        download_urls = [line.strip() for line in file if line.strip().startswith("https://")]
 
-    logging.info(f"Total {len(download_urls)} links found in {field}.txt")
+    logging.info(f"📄 Tổng cộng {len(download_urls)} liên kết sẽ được xử lý")
 
     max_workers = 1
-    start_index = 0
     batch_size = 1
-
-    for batch_start in range(start_index, len(download_urls), batch_size):
+    for batch_start in range(0, len(download_urls), batch_size):
         batch_urls = download_urls[batch_start:batch_start + batch_size]
-        logging.info(f"Processing batch {batch_start} to {batch_start + len(batch_urls)}")
+        logging.info(f"📦 Xử lý batch {batch_start} đến {batch_start + len(batch_urls)}")
 
         with ThreadPoolExecutor(max_workers=max_workers) as executor:
             future_to_url = {
@@ -160,18 +139,18 @@ def main():
             for future in as_completed(future_to_url):
                 url = future_to_url[future]
                 try:
-                    res = future.result()
+                    future.result()
                 except Exception as e:
-                    logging.error(f"Failed to process {url}: {e}")
+                    logging.error(f"Lỗi không xác định khi tải {url}: {e}")
 
         delay = random.uniform(3, 5)
-        logging.info(f"⏳ {delay:.2f}s between batches...")
+        logging.info(f"⏳ Tạm dừng {delay:.2f} giây giữa các batch...")
         time.sleep(delay)
 
-    logging.info("All TXT content saved.")
+    logging.info("🎉 Hoàn tất tải tất cả văn bản.")
 
 if __name__ == "__main__":
     try:
         main()
     except Exception as e:
-        logging.critical(f"Fatal error: {e}")
+        logging.critical(f"🔥 Lỗi nghiêm trọng: {e}")

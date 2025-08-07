@@ -1,0 +1,1828 @@
+2025-07-30 09:12:49,267 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-30 09:12:49,267 - INFO - Processing batch 0 to 1
+2025-07-30 09:12:51,386 - INFO - ⏳ Waiting 2.69s for user emulation...
+2025-07-30 09:12:54,420 - INFO - ⏳ Waiting 4.60s for user emulation...
+2025-07-30 09:13:08,497 - ERROR - ❌ Main content not found at https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-32-NQ-HDND-2025-to-chuc-lai-Thanh-tra-Cao-Bang-664481.aspx - saved image error download_bomayhanhchinh_2/error_file_375.9184962356319_new1.png
+2025-07-30 09:13:08,560 - INFO - ⏳ 3.22s between batches...
+2025-07-30 09:13:11,777 - INFO - Processing batch 1 to 2
+2025-07-30 09:13:13,586 - INFO - ⏳ Waiting 2.09s for user emulation...
+2025-07-30 09:13:16,877 - INFO - ⏳ Waiting 3.07s for user emulation...
+2025-07-30 09:13:29,089 - ERROR - ❌ Main content not found at https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-1158-QD-UBND-2025-Quy-trinh-thu-tuc-hanh-chinh-quan-ly-lao-dong-ngoai-nuoc-So-Noi-vu-Dien-Bien-661621.aspx - saved image error download_bomayhanhchinh_2/error_file_791.3285306675672_new1.png
+2025-07-30 09:13:29,154 - INFO - ⏳ 4.64s between batches...
+2025-07-30 09:13:33,797 - INFO - Processing batch 2 to 3
+2025-07-30 09:13:35,745 - INFO - ⏳ Waiting 2.32s for user emulation...
+2025-07-30 09:13:38,408 - INFO - ⏳ Waiting 4.50s for user emulation...
+2025-07-30 09:13:52,410 - ERROR - ❌ Main content not found at https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Cong-dien-83-CD-TTg-2025-day-manh-phan-cap-phan-quyen-phan-dinh-tham-quyen-cac-nganh-linh-vuc-660172.aspx - saved image error download_bomayhanhchinh_2/error_file_908.3226149175681_new1.png
+2025-07-30 09:13:52,474 - INFO - ⏳ 4.02s between batches...
+2025-07-30 09:13:56,497 - INFO - Processing batch 3 to 4
+2025-07-30 09:13:58,296 - INFO - ⏳ Waiting 2.07s for user emulation...
+2025-07-30 09:14:00,729 - INFO - ⏳ Waiting 4.75s for user emulation...
+2025-07-30 09:14:09,152 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77e8ad652d20>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/96246f4ab3e8fbf06d64afba7f75f3be/element
+2025-07-30 09:14:09,153 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77e8ad653470>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/96246f4ab3e8fbf06d64afba7f75f3be/element
+2025-07-30 09:14:09,154 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77e8adb0e030>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/96246f4ab3e8fbf06d64afba7f75f3be/element
+2025-07-30 09:14:09,155 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77e8ad650080>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/96246f4ab3e8fbf06d64afba7f75f3be/screenshot
+2025-07-30 09:14:09,156 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77e8ad650fb0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/96246f4ab3e8fbf06d64afba7f75f3be/screenshot
+2025-07-30 09:14:09,156 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77e8ad652180>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/96246f4ab3e8fbf06d64afba7f75f3be/screenshot
+2025-07-30 09:14:09,157 - ERROR - Error saving document TXT 3: HTTPConnectionPool(host='localhost', port=38117): Max retries exceeded with url: /session/96246f4ab3e8fbf06d64afba7f75f3be/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77e8ad653680>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-07-30 09:14:09,158 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77e8ad653860>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/96246f4ab3e8fbf06d64afba7f75f3be/screenshot
+2025-07-30 09:14:09,158 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77e8ad6539e0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/96246f4ab3e8fbf06d64afba7f75f3be/screenshot
+2025-07-30 09:14:09,159 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77e8ad653b60>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/96246f4ab3e8fbf06d64afba7f75f3be/screenshot
+2025-07-30 09:14:09,160 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77e8ad653ef0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/96246f4ab3e8fbf06d64afba7f75f3be
+2025-07-30 09:14:09,160 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77e8ad6780e0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/96246f4ab3e8fbf06d64afba7f75f3be
+2025-07-30 09:14:09,161 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77e8ad678290>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/96246f4ab3e8fbf06d64afba7f75f3be
+2025-07-30 09:27:49,857 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-30 09:27:49,857 - INFO - Processing batch 0 to 1
+2025-07-30 09:27:51,537 - INFO - ⏳ Waiting 3.07s for user emulation...
+2025-07-30 09:27:54,975 - INFO - ⏳ Waiting 3.05s for user emulation...
+2025-07-30 09:28:07,053 - ERROR - ❌ Main content not found at https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-32-NQ-HDND-2025-to-chuc-lai-Thanh-tra-Cao-Bang-664481.aspx - saved image error download_bomayhanhchinh_2/error_file_353.87215638000004_new1.png
+2025-07-30 09:28:07,116 - INFO - ⏳ 4.07s between batches...
+2025-07-30 09:28:11,182 - INFO - Processing batch 1 to 2
+2025-07-30 09:28:13,270 - INFO - ⏳ Waiting 2.38s for user emulation...
+2025-07-30 09:28:16,050 - INFO - ⏳ Waiting 5.49s for user emulation...
+2025-07-30 09:28:31,280 - ERROR - ❌ Main content not found at https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-1158-QD-UBND-2025-Quy-trinh-thu-tuc-hanh-chinh-quan-ly-lao-dong-ngoai-nuoc-So-Noi-vu-Dien-Bien-661621.aspx - saved image error download_bomayhanhchinh_2/error_file_535.3233606296814_new1.png
+2025-07-30 09:28:31,343 - INFO - ⏳ 4.16s between batches...
+2025-07-30 09:28:35,504 - INFO - Processing batch 2 to 3
+2025-07-30 09:28:37,441 - INFO - ⏳ Waiting 3.66s for user emulation...
+2025-07-30 09:28:41,434 - INFO - ⏳ Waiting 4.66s for user emulation...
+2025-07-30 09:35:06,951 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-30 09:35:06,951 - INFO - Processing batch 0 to 1
+2025-07-30 09:35:07,244 - ERROR - Error saving document TXT 0: cannot access local variable 'full_url' where it is not associated with a value
+2025-07-30 09:35:07,417 - INFO - ⏳ 3.05s between batches...
+2025-07-30 09:35:11,783 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-30 09:35:11,783 - INFO - Processing batch 0 to 1
+2025-07-30 09:35:12,056 - ERROR - Error saving document TXT 0: cannot access local variable 'full_url' where it is not associated with a value
+2025-07-30 09:35:12,251 - INFO - ⏳ 3.89s between batches...
+2025-07-30 09:35:23,289 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-30 09:35:23,289 - INFO - Processing batch 0 to 1
+2025-07-30 09:35:23,565 - ERROR - Error saving document TXT 0: cannot access local variable 'full_url' where it is not associated with a value
+2025-07-30 09:35:23,747 - INFO - ⏳ 3.68s between batches...
+2025-07-30 09:35:27,430 - INFO - Processing batch 1 to 2
+2025-07-30 09:35:27,703 - ERROR - Error saving document TXT 1: cannot access local variable 'full_url' where it is not associated with a value
+2025-07-30 09:35:27,883 - INFO - ⏳ 4.66s between batches...
+2025-07-30 09:37:16,971 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-30 09:37:16,971 - INFO - Processing batch 0 to 1
+2025-07-30 09:37:18,628 - INFO - ⏳ Waiting 2.23s for user emulation...
+2025-07-30 09:37:31,484 - INFO - ✅ Không phát hiện CAPTCHA Turnstile.
+2025-07-30 09:37:31,484 - INFO - ⏳ Waiting 5.38s for user emulation...
+2025-07-30 09:37:46,603 - ERROR - ❌ Main content not found at https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-32-NQ-HDND-2025-to-chuc-lai-Thanh-tra-Cao-Bang-664481.aspx - saved image error download_bomayhanhchinh_2/error_file_619.8576741608236_new1.png
+2025-07-30 09:37:46,668 - INFO - ⏳ 4.16s between batches...
+2025-07-30 09:37:50,828 - INFO - Processing batch 1 to 2
+2025-07-30 09:37:52,782 - INFO - ⏳ Waiting 3.61s for user emulation...
+2025-07-30 09:38:06,726 - INFO - ✅ Không phát hiện CAPTCHA Turnstile.
+2025-07-30 09:38:06,726 - INFO - ⏳ Waiting 4.15s for user emulation...
+2025-07-30 09:38:20,635 - ERROR - ❌ Main content not found at https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-1158-QD-UBND-2025-Quy-trinh-thu-tuc-hanh-chinh-quan-ly-lao-dong-ngoai-nuoc-So-Noi-vu-Dien-Bien-661621.aspx - saved image error download_bomayhanhchinh_2/error_file_876.6194121239021_new1.png
+2025-07-30 09:38:20,699 - INFO - ⏳ 3.21s between batches...
+2025-07-30 09:38:23,908 - INFO - Processing batch 2 to 3
+2025-07-30 09:38:25,574 - INFO - ⏳ Waiting 2.73s for user emulation...
+2025-07-30 09:38:38,982 - INFO - ✅ Không phát hiện CAPTCHA Turnstile.
+2025-07-30 09:38:38,983 - INFO - ⏳ Waiting 3.47s for user emulation...
+2025-07-30 09:38:51,902 - ERROR - ❌ Main content not found at https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Cong-dien-83-CD-TTg-2025-day-manh-phan-cap-phan-quyen-phan-dinh-tham-quyen-cac-nganh-linh-vuc-660172.aspx - saved image error download_bomayhanhchinh_2/error_file_725.1901674349895_new1.png
+2025-07-30 09:38:51,965 - INFO - ⏳ 3.23s between batches...
+2025-07-30 09:38:55,195 - INFO - Processing batch 3 to 4
+2025-07-30 09:38:57,130 - INFO - ⏳ Waiting 3.85s for user emulation...
+2025-07-30 09:39:11,607 - INFO - ✅ Không phát hiện CAPTCHA Turnstile.
+2025-07-30 09:39:11,607 - INFO - ⏳ Waiting 3.77s for user emulation...
+2025-07-30 09:39:25,065 - ERROR - ❌ Main content not found at https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-493-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-linh-vuc-Thuy-loi-Kon-Tum-660061.aspx - saved image error download_bomayhanhchinh_2/error_file_163.35052138001166_new1.png
+2025-07-30 09:39:25,129 - INFO - ⏳ 4.32s between batches...
+2025-07-30 09:39:29,444 - INFO - Processing batch 4 to 5
+2025-07-30 09:39:31,058 - INFO - ⏳ Waiting 3.00s for user emulation...
+2025-07-30 09:39:34,063 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae504165a0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d8ca416fcdf5dea3b95261735243b68c/cookie
+2025-07-30 09:39:34,064 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae50416b10>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d8ca416fcdf5dea3b95261735243b68c/cookie
+2025-07-30 09:39:34,064 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae50416cf0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d8ca416fcdf5dea3b95261735243b68c/cookie
+2025-07-30 09:39:34,065 - WARNING - Could not add cookie: HTTPConnectionPool(host='localhost', port=58929): Max retries exceeded with url: /session/d8ca416fcdf5dea3b95261735243b68c/cookie (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae50416000>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-07-30 09:39:34,065 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae50415a00>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d8ca416fcdf5dea3b95261735243b68c/cookie
+2025-07-30 09:39:34,066 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae50415d60>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d8ca416fcdf5dea3b95261735243b68c/cookie
+2025-07-30 09:39:34,066 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae504155b0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d8ca416fcdf5dea3b95261735243b68c/cookie
+2025-07-30 09:39:34,067 - WARNING - Could not add cookie: HTTPConnectionPool(host='localhost', port=58929): Max retries exceeded with url: /session/d8ca416fcdf5dea3b95261735243b68c/cookie (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae50415730>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-07-30 09:39:34,067 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae50416ea0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d8ca416fcdf5dea3b95261735243b68c/cookie
+2025-07-30 09:39:34,067 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae50417080>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d8ca416fcdf5dea3b95261735243b68c/cookie
+2025-07-30 09:39:34,068 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae50417260>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d8ca416fcdf5dea3b95261735243b68c/cookie
+2025-07-30 09:39:34,068 - WARNING - Could not add cookie: HTTPConnectionPool(host='localhost', port=58929): Max retries exceeded with url: /session/d8ca416fcdf5dea3b95261735243b68c/cookie (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae50417440>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-07-30 09:39:34,069 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae50417710>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d8ca416fcdf5dea3b95261735243b68c/cookie
+2025-07-30 09:39:34,069 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae50417920>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d8ca416fcdf5dea3b95261735243b68c/cookie
+2025-07-30 09:39:34,070 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae50417b60>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d8ca416fcdf5dea3b95261735243b68c/cookie
+2025-07-30 09:39:34,070 - WARNING - Could not add cookie: HTTPConnectionPool(host='localhost', port=58929): Max retries exceeded with url: /session/d8ca416fcdf5dea3b95261735243b68c/cookie (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae50417da0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-07-30 09:39:34,071 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae50416e40>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d8ca416fcdf5dea3b95261735243b68c/cookie
+2025-07-30 09:39:34,072 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae504173e0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d8ca416fcdf5dea3b95261735243b68c/cookie
+2025-07-30 09:39:34,072 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae50417260>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d8ca416fcdf5dea3b95261735243b68c/cookie
+2025-07-30 09:39:34,072 - WARNING - Could not add cookie: HTTPConnectionPool(host='localhost', port=58929): Max retries exceeded with url: /session/d8ca416fcdf5dea3b95261735243b68c/cookie (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae50417050>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-07-30 09:39:34,073 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae50415b20>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d8ca416fcdf5dea3b95261735243b68c/refresh
+2025-07-30 09:39:34,073 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae504154c0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d8ca416fcdf5dea3b95261735243b68c/refresh
+2025-07-30 09:39:34,074 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae50415a30>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d8ca416fcdf5dea3b95261735243b68c/refresh
+2025-07-30 09:39:34,074 - ERROR - ❌ Error saving document TXT 4: HTTPConnectionPool(host='localhost', port=58929): Max retries exceeded with url: /session/d8ca416fcdf5dea3b95261735243b68c/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae50415a00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-07-30 09:39:34,075 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae50415460>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d8ca416fcdf5dea3b95261735243b68c/screenshot
+2025-07-30 09:39:34,075 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae50416120>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d8ca416fcdf5dea3b95261735243b68c/screenshot
+2025-07-30 09:39:34,076 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae50416b70>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d8ca416fcdf5dea3b95261735243b68c/screenshot
+2025-07-30 09:39:34,077 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae50417fb0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d8ca416fcdf5dea3b95261735243b68c
+2025-07-30 09:39:34,077 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae50448200>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d8ca416fcdf5dea3b95261735243b68c
+2025-07-30 09:39:34,078 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79ae504483b0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d8ca416fcdf5dea3b95261735243b68c
+2025-07-30 09:40:10,861 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-30 09:40:10,861 - INFO - Processing batch 0 to 1
+2025-07-30 09:40:11,015 - ERROR - ❌ Error saving document TXT 0: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x5af207cb72ca <unknown>
+#1 0x5af20775e550 <unknown>
+#2 0x5af2077989cb <unknown>
+#3 0x5af207793d17 <unknown>
+#4 0x5af2077e419e <unknown>
+#5 0x5af2077e3766 <unknown>
+#6 0x5af2077d5993 <unknown>
+#7 0x5af2077a1d6b <unknown>
+#8 0x5af2077a3141 <unknown>
+#9 0x5af207c7c2ab <unknown>
+#10 0x5af207c800b9 <unknown>
+#11 0x5af207c63139 <unknown>
+#12 0x5af207c80c68 <unknown>
+#13 0x5af207c4760f <unknown>
+#14 0x5af207ca51f8 <unknown>
+#15 0x5af207ca53d6 <unknown>
+#16 0x5af207cb65e6 <unknown>
+#17 0x781225512609 start_thread
+
+2025-07-30 09:40:11,016 - INFO - ⏳ 4.45s between batches...
+2025-07-30 09:41:22,001 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-30 09:41:22,001 - INFO - Processing batch 0 to 1
+2025-07-30 09:41:22,473 - INFO - ⏳ Waiting 3.34s for user emulation...
+2025-07-30 09:41:36,107 - INFO - ✅ Không phát hiện CAPTCHA Turnstile.
+2025-07-30 09:41:36,108 - INFO - ⏳ Waiting 5.52s for user emulation...
+2025-07-30 09:41:51,095 - ERROR - ❌ Main content not found at https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-32-NQ-HDND-2025-to-chuc-lai-Thanh-tra-Cao-Bang-664481.aspx - saved image error download_bomayhanhchinh_2/error_file_143.22077896177893_new1.png
+2025-07-30 09:41:51,159 - INFO - ⏳ 3.98s between batches...
+2025-07-30 09:42:10,532 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-30 09:42:10,532 - INFO - Processing batch 0 to 1
+2025-07-30 09:42:11,234 - INFO - ⏳ Waiting 2.22s for user emulation...
+2025-07-30 09:42:24,389 - INFO - ✅ Không phát hiện CAPTCHA Turnstile.
+2025-07-30 09:42:24,390 - INFO - ⏳ Waiting 3.26s for user emulation...
+2025-07-30 09:42:36,476 - ERROR - ❌ Main content not found at https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-32-NQ-HDND-2025-to-chuc-lai-Thanh-tra-Cao-Bang-664481.aspx - saved image error download_bomayhanhchinh_2/error_file_924.3749919548388_new1.png
+2025-07-30 09:42:36,563 - INFO - ⏳ 4.07s between batches...
+2025-07-30 09:51:13,455 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-30 09:51:13,455 - INFO - Processing batch 0 to 1
+2025-07-30 09:51:13,702 - ERROR - ❌ Error saving document TXT 0: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x560a7d8332ca <unknown>
+#1 0x560a7d2da550 <unknown>
+#2 0x560a7d3149cb <unknown>
+#3 0x560a7d30fd17 <unknown>
+#4 0x560a7d36019e <unknown>
+#5 0x560a7d35f766 <unknown>
+#6 0x560a7d351993 <unknown>
+#7 0x560a7d31dd6b <unknown>
+#8 0x560a7d31f141 <unknown>
+#9 0x560a7d7f82ab <unknown>
+#10 0x560a7d7fc0b9 <unknown>
+#11 0x560a7d7df139 <unknown>
+#12 0x560a7d7fcc68 <unknown>
+#13 0x560a7d7c360f <unknown>
+#14 0x560a7d8211f8 <unknown>
+#15 0x560a7d8213d6 <unknown>
+#16 0x560a7d8325e6 <unknown>
+#17 0x7ee722fa2609 start_thread
+
+2025-07-30 09:51:13,703 - INFO - ⏳ 3.01s between batches...
+2025-07-30 09:51:16,708 - INFO - Processing batch 1 to 2
+2025-07-30 09:51:16,859 - ERROR - ❌ Error saving document TXT 1: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x622a29e2e2ca <unknown>
+#1 0x622a298d5550 <unknown>
+#2 0x622a2990f9cb <unknown>
+#3 0x622a2990ad17 <unknown>
+#4 0x622a2995b19e <unknown>
+#5 0x622a2995a766 <unknown>
+#6 0x622a2994c993 <unknown>
+#7 0x622a29918d6b <unknown>
+#8 0x622a2991a141 <unknown>
+#9 0x622a29df32ab <unknown>
+#10 0x622a29df70b9 <unknown>
+#11 0x622a29dda139 <unknown>
+#12 0x622a29df7c68 <unknown>
+#13 0x622a29dbe60f <unknown>
+#14 0x622a29e1c1f8 <unknown>
+#15 0x622a29e1c3d6 <unknown>
+#16 0x622a29e2d5e6 <unknown>
+#17 0x7b08f9619609 start_thread
+
+2025-07-30 09:51:16,859 - INFO - ⏳ 3.99s between batches...
+2025-07-30 09:53:32,622 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-30 09:53:32,623 - INFO - Processing batch 0 to 1
+2025-07-30 09:53:32,778 - ERROR - ❌ Error saving document TXT 0: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x5665c1c312ca <unknown>
+#1 0x5665c16d8550 <unknown>
+#2 0x5665c17129cb <unknown>
+#3 0x5665c170dd17 <unknown>
+#4 0x5665c175e19e <unknown>
+#5 0x5665c175d766 <unknown>
+#6 0x5665c174f993 <unknown>
+#7 0x5665c171bd6b <unknown>
+#8 0x5665c171d141 <unknown>
+#9 0x5665c1bf62ab <unknown>
+#10 0x5665c1bfa0b9 <unknown>
+#11 0x5665c1bdd139 <unknown>
+#12 0x5665c1bfac68 <unknown>
+#13 0x5665c1bc160f <unknown>
+#14 0x5665c1c1f1f8 <unknown>
+#15 0x5665c1c1f3d6 <unknown>
+#16 0x5665c1c305e6 <unknown>
+#17 0x7e0beb07c609 start_thread
+
+2025-07-30 09:53:32,778 - INFO - ⏳ 3.42s between batches...
+2025-07-30 09:53:35,286 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-30 09:53:35,286 - INFO - Processing batch 0 to 1
+2025-07-30 09:53:35,441 - ERROR - ❌ Error saving document TXT 0: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x5fcdbffd82ca <unknown>
+#1 0x5fcdbfa7f550 <unknown>
+#2 0x5fcdbfab99cb <unknown>
+#3 0x5fcdbfab4d17 <unknown>
+#4 0x5fcdbfb0519e <unknown>
+#5 0x5fcdbfb04766 <unknown>
+#6 0x5fcdbfaf6993 <unknown>
+#7 0x5fcdbfac2d6b <unknown>
+#8 0x5fcdbfac4141 <unknown>
+#9 0x5fcdbff9d2ab <unknown>
+#10 0x5fcdbffa10b9 <unknown>
+#11 0x5fcdbff84139 <unknown>
+#12 0x5fcdbffa1c68 <unknown>
+#13 0x5fcdbff6860f <unknown>
+#14 0x5fcdbffc61f8 <unknown>
+#15 0x5fcdbffc63d6 <unknown>
+#16 0x5fcdbffd75e6 <unknown>
+#17 0x7ff6e0e57609 start_thread
+
+2025-07-30 09:53:35,441 - INFO - ⏳ 3.55s between batches...
+2025-07-30 09:54:23,734 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-30 09:54:23,734 - INFO - Processing batch 0 to 1
+2025-07-30 09:54:23,889 - ERROR - ❌ Error saving document TXT 0: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x5c2e4b2122ca <unknown>
+#1 0x5c2e4acb9550 <unknown>
+#2 0x5c2e4acf39cb <unknown>
+#3 0x5c2e4aceed17 <unknown>
+#4 0x5c2e4ad3f19e <unknown>
+#5 0x5c2e4ad3e766 <unknown>
+#6 0x5c2e4ad30993 <unknown>
+#7 0x5c2e4acfcd6b <unknown>
+#8 0x5c2e4acfe141 <unknown>
+#9 0x5c2e4b1d72ab <unknown>
+#10 0x5c2e4b1db0b9 <unknown>
+#11 0x5c2e4b1be139 <unknown>
+#12 0x5c2e4b1dbc68 <unknown>
+#13 0x5c2e4b1a260f <unknown>
+#14 0x5c2e4b2001f8 <unknown>
+#15 0x5c2e4b2003d6 <unknown>
+#16 0x5c2e4b2115e6 <unknown>
+#17 0x772e2674b609 start_thread
+
+2025-07-30 09:54:23,889 - INFO - ⏳ 3.02s between batches...
+2025-07-30 09:54:38,654 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-30 09:54:38,654 - INFO - Processing batch 0 to 1
+2025-07-30 09:54:38,809 - ERROR - ❌ Error saving document TXT 0: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x647d2ce2e2ca <unknown>
+#1 0x647d2c8d5550 <unknown>
+#2 0x647d2c90f9cb <unknown>
+#3 0x647d2c90ad17 <unknown>
+#4 0x647d2c95b19e <unknown>
+#5 0x647d2c95a766 <unknown>
+#6 0x647d2c94c993 <unknown>
+#7 0x647d2c918d6b <unknown>
+#8 0x647d2c91a141 <unknown>
+#9 0x647d2cdf32ab <unknown>
+#10 0x647d2cdf70b9 <unknown>
+#11 0x647d2cdda139 <unknown>
+#12 0x647d2cdf7c68 <unknown>
+#13 0x647d2cdbe60f <unknown>
+#14 0x647d2ce1c1f8 <unknown>
+#15 0x647d2ce1c3d6 <unknown>
+#16 0x647d2ce2d5e6 <unknown>
+#17 0x74ae248e9609 start_thread
+
+2025-07-30 09:54:38,810 - INFO - ⏳ 3.45s between batches...
+2025-07-30 09:54:42,262 - INFO - Processing batch 1 to 2
+2025-07-30 09:54:42,412 - ERROR - ❌ Error saving document TXT 1: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x6363f05282ca <unknown>
+#1 0x6363effcf550 <unknown>
+#2 0x6363f00099cb <unknown>
+#3 0x6363f0004d17 <unknown>
+#4 0x6363f005519e <unknown>
+#5 0x6363f0054766 <unknown>
+#6 0x6363f0046993 <unknown>
+#7 0x6363f0012d6b <unknown>
+#8 0x6363f0014141 <unknown>
+#9 0x6363f04ed2ab <unknown>
+#10 0x6363f04f10b9 <unknown>
+#11 0x6363f04d4139 <unknown>
+#12 0x6363f04f1c68 <unknown>
+#13 0x6363f04b860f <unknown>
+#14 0x6363f05161f8 <unknown>
+#15 0x6363f05163d6 <unknown>
+#16 0x6363f05275e6 <unknown>
+#17 0x7354b0a47609 start_thread
+
+2025-07-30 09:54:42,413 - INFO - ⏳ 3.39s between batches...
+2025-07-30 09:55:26,164 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-30 09:55:26,164 - INFO - Processing batch 0 to 1
+2025-07-30 09:55:26,322 - ERROR - ❌ Error saving document TXT 0: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x58cfce9c02ca <unknown>
+#1 0x58cfce467550 <unknown>
+#2 0x58cfce4a19cb <unknown>
+#3 0x58cfce49cd17 <unknown>
+#4 0x58cfce4ed19e <unknown>
+#5 0x58cfce4ec766 <unknown>
+#6 0x58cfce4de993 <unknown>
+#7 0x58cfce4aad6b <unknown>
+#8 0x58cfce4ac141 <unknown>
+#9 0x58cfce9852ab <unknown>
+#10 0x58cfce9890b9 <unknown>
+#11 0x58cfce96c139 <unknown>
+#12 0x58cfce989c68 <unknown>
+#13 0x58cfce95060f <unknown>
+#14 0x58cfce9ae1f8 <unknown>
+#15 0x58cfce9ae3d6 <unknown>
+#16 0x58cfce9bf5e6 <unknown>
+#17 0x75483ba61609 start_thread
+
+2025-07-30 09:55:26,323 - INFO - ⏳ 3.41s between batches...
+2025-07-30 09:55:50,939 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-30 09:55:50,939 - INFO - Processing batch 0 to 1
+2025-07-30 09:55:53,088 - INFO - ⏳ Waiting 2.36s for user emulation...
+2025-07-30 09:56:51,741 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-30 09:56:51,741 - INFO - Processing batch 0 to 1
+2025-07-30 09:56:53,908 - INFO - ⏳ Waiting 3.22s for user emulation...
+2025-07-30 09:59:10,626 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-30 09:59:10,626 - INFO - Processing batch 0 to 1
+2025-07-30 09:59:10,786 - ERROR - ❌ Error saving document TXT 0: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x5658ff5992ca <unknown>
+#1 0x5658ff040550 <unknown>
+#2 0x5658ff07a9cb <unknown>
+#3 0x5658ff075d17 <unknown>
+#4 0x5658ff0c619e <unknown>
+#5 0x5658ff0c5766 <unknown>
+#6 0x5658ff0b7993 <unknown>
+#7 0x5658ff083d6b <unknown>
+#8 0x5658ff085141 <unknown>
+#9 0x5658ff55e2ab <unknown>
+#10 0x5658ff5620b9 <unknown>
+#11 0x5658ff545139 <unknown>
+#12 0x5658ff562c68 <unknown>
+#13 0x5658ff52960f <unknown>
+#14 0x5658ff5871f8 <unknown>
+#15 0x5658ff5873d6 <unknown>
+#16 0x5658ff5985e6 <unknown>
+#17 0x7195f2416609 start_thread
+
+2025-07-30 09:59:10,786 - INFO - ⏳ 3.80s between batches...
+2025-07-30 09:59:13,810 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-30 09:59:13,810 - INFO - Processing batch 0 to 1
+2025-07-30 09:59:13,966 - ERROR - ❌ Error saving document TXT 0: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x5cf8352762ca <unknown>
+#1 0x5cf834d1d550 <unknown>
+#2 0x5cf834d579cb <unknown>
+#3 0x5cf834d52d17 <unknown>
+#4 0x5cf834da319e <unknown>
+#5 0x5cf834da2766 <unknown>
+#6 0x5cf834d94993 <unknown>
+#7 0x5cf834d60d6b <unknown>
+#8 0x5cf834d62141 <unknown>
+#9 0x5cf83523b2ab <unknown>
+#10 0x5cf83523f0b9 <unknown>
+#11 0x5cf835222139 <unknown>
+#12 0x5cf83523fc68 <unknown>
+#13 0x5cf83520660f <unknown>
+#14 0x5cf8352641f8 <unknown>
+#15 0x5cf8352643d6 <unknown>
+#16 0x5cf8352755e6 <unknown>
+#17 0x7c5c6c605609 start_thread
+
+2025-07-30 09:59:13,966 - INFO - ⏳ 3.83s between batches...
+2025-07-30 09:59:17,799 - INFO - Processing batch 1 to 2
+2025-07-30 09:59:17,952 - ERROR - ❌ Error saving document TXT 1: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x653fb71542ca <unknown>
+#1 0x653fb6bfb550 <unknown>
+#2 0x653fb6c359cb <unknown>
+#3 0x653fb6c30d17 <unknown>
+#4 0x653fb6c8119e <unknown>
+#5 0x653fb6c80766 <unknown>
+#6 0x653fb6c72993 <unknown>
+#7 0x653fb6c3ed6b <unknown>
+#8 0x653fb6c40141 <unknown>
+#9 0x653fb71192ab <unknown>
+#10 0x653fb711d0b9 <unknown>
+#11 0x653fb7100139 <unknown>
+#12 0x653fb711dc68 <unknown>
+#13 0x653fb70e460f <unknown>
+#14 0x653fb71421f8 <unknown>
+#15 0x653fb71423d6 <unknown>
+#16 0x653fb71535e6 <unknown>
+#17 0x73ee2e306609 start_thread
+
+2025-07-30 09:59:17,952 - INFO - ⏳ 4.00s between batches...
+2025-07-30 09:59:21,956 - INFO - Processing batch 2 to 3
+2025-07-30 09:59:22,107 - ERROR - ❌ Error saving document TXT 2: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x58b86119f2ca <unknown>
+#1 0x58b860c46550 <unknown>
+#2 0x58b860c809cb <unknown>
+#3 0x58b860c7bd17 <unknown>
+#4 0x58b860ccc19e <unknown>
+#5 0x58b860ccb766 <unknown>
+#6 0x58b860cbd993 <unknown>
+#7 0x58b860c89d6b <unknown>
+#8 0x58b860c8b141 <unknown>
+#9 0x58b8611642ab <unknown>
+#10 0x58b8611680b9 <unknown>
+#11 0x58b86114b139 <unknown>
+#12 0x58b861168c68 <unknown>
+#13 0x58b86112f60f <unknown>
+#14 0x58b86118d1f8 <unknown>
+#15 0x58b86118d3d6 <unknown>
+#16 0x58b86119e5e6 <unknown>
+#17 0x71646a1ea609 start_thread
+
+2025-07-30 09:59:22,107 - INFO - ⏳ 3.73s between batches...
+2025-07-30 09:59:25,834 - INFO - Processing batch 3 to 4
+2025-07-30 09:59:25,986 - ERROR - ❌ Error saving document TXT 3: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x5a6d0e29a2ca <unknown>
+#1 0x5a6d0dd41550 <unknown>
+#2 0x5a6d0dd7b9cb <unknown>
+#3 0x5a6d0dd76d17 <unknown>
+#4 0x5a6d0ddc719e <unknown>
+#5 0x5a6d0ddc6766 <unknown>
+#6 0x5a6d0ddb8993 <unknown>
+#7 0x5a6d0dd84d6b <unknown>
+#8 0x5a6d0dd86141 <unknown>
+#9 0x5a6d0e25f2ab <unknown>
+#10 0x5a6d0e2630b9 <unknown>
+#11 0x5a6d0e246139 <unknown>
+#12 0x5a6d0e263c68 <unknown>
+#13 0x5a6d0e22a60f <unknown>
+#14 0x5a6d0e2881f8 <unknown>
+#15 0x5a6d0e2883d6 <unknown>
+#16 0x5a6d0e2995e6 <unknown>
+#17 0x760078dd8609 start_thread
+
+2025-07-30 09:59:25,987 - INFO - ⏳ 4.11s between batches...
+2025-07-30 09:59:30,097 - INFO - Processing batch 4 to 5
+2025-07-30 09:59:30,248 - ERROR - ❌ Error saving document TXT 4: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x604cbce492ca <unknown>
+#1 0x604cbc8f0550 <unknown>
+#2 0x604cbc92a9cb <unknown>
+#3 0x604cbc925d17 <unknown>
+#4 0x604cbc97619e <unknown>
+#5 0x604cbc975766 <unknown>
+#6 0x604cbc967993 <unknown>
+#7 0x604cbc933d6b <unknown>
+#8 0x604cbc935141 <unknown>
+#9 0x604cbce0e2ab <unknown>
+#10 0x604cbce120b9 <unknown>
+#11 0x604cbcdf5139 <unknown>
+#12 0x604cbce12c68 <unknown>
+#13 0x604cbcdd960f <unknown>
+#14 0x604cbce371f8 <unknown>
+#15 0x604cbce373d6 <unknown>
+#16 0x604cbce485e6 <unknown>
+#17 0x7fbdab9b9609 start_thread
+
+2025-07-30 09:59:30,248 - INFO - ⏳ 3.35s between batches...
+2025-07-30 09:59:33,601 - INFO - Processing batch 5 to 6
+2025-07-30 09:59:33,752 - ERROR - ❌ Error saving document TXT 5: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x5c264186a2ca <unknown>
+#1 0x5c2641311550 <unknown>
+#2 0x5c264134b9cb <unknown>
+#3 0x5c2641346d17 <unknown>
+#4 0x5c264139719e <unknown>
+#5 0x5c2641396766 <unknown>
+#6 0x5c2641388993 <unknown>
+#7 0x5c2641354d6b <unknown>
+#8 0x5c2641356141 <unknown>
+#9 0x5c264182f2ab <unknown>
+#10 0x5c26418330b9 <unknown>
+#11 0x5c2641816139 <unknown>
+#12 0x5c2641833c68 <unknown>
+#13 0x5c26417fa60f <unknown>
+#14 0x5c26418581f8 <unknown>
+#15 0x5c26418583d6 <unknown>
+#16 0x5c26418695e6 <unknown>
+#17 0x7790c39fe609 start_thread
+
+2025-07-30 09:59:33,753 - INFO - ⏳ 4.72s between batches...
+2025-07-30 09:59:38,472 - INFO - Processing batch 6 to 7
+2025-07-30 09:59:38,622 - ERROR - ❌ Error saving document TXT 6: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x642adc5cd2ca <unknown>
+#1 0x642adc074550 <unknown>
+#2 0x642adc0ae9cb <unknown>
+#3 0x642adc0a9d17 <unknown>
+#4 0x642adc0fa19e <unknown>
+#5 0x642adc0f9766 <unknown>
+#6 0x642adc0eb993 <unknown>
+#7 0x642adc0b7d6b <unknown>
+#8 0x642adc0b9141 <unknown>
+#9 0x642adc5922ab <unknown>
+#10 0x642adc5960b9 <unknown>
+#11 0x642adc579139 <unknown>
+#12 0x642adc596c68 <unknown>
+#13 0x642adc55d60f <unknown>
+#14 0x642adc5bb1f8 <unknown>
+#15 0x642adc5bb3d6 <unknown>
+#16 0x642adc5cc5e6 <unknown>
+#17 0x7895f81a7609 start_thread
+
+2025-07-30 09:59:38,623 - INFO - ⏳ 4.19s between batches...
+2025-07-30 09:59:42,817 - INFO - Processing batch 7 to 8
+2025-07-30 09:59:42,972 - ERROR - ❌ Error saving document TXT 7: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x5be37d5b22ca <unknown>
+#1 0x5be37d059550 <unknown>
+#2 0x5be37d0939cb <unknown>
+#3 0x5be37d08ed17 <unknown>
+#4 0x5be37d0df19e <unknown>
+#5 0x5be37d0de766 <unknown>
+#6 0x5be37d0d0993 <unknown>
+#7 0x5be37d09cd6b <unknown>
+#8 0x5be37d09e141 <unknown>
+#9 0x5be37d5772ab <unknown>
+#10 0x5be37d57b0b9 <unknown>
+#11 0x5be37d55e139 <unknown>
+#12 0x5be37d57bc68 <unknown>
+#13 0x5be37d54260f <unknown>
+#14 0x5be37d5a01f8 <unknown>
+#15 0x5be37d5a03d6 <unknown>
+#16 0x5be37d5b15e6 <unknown>
+#17 0x7fc2c28d5609 start_thread
+
+2025-07-30 09:59:42,972 - INFO - ⏳ 3.11s between batches...
+2025-07-30 09:59:46,079 - INFO - Processing batch 8 to 9
+2025-07-30 09:59:46,229 - ERROR - ❌ Error saving document TXT 8: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x6007287fb2ca <unknown>
+#1 0x6007282a2550 <unknown>
+#2 0x6007282dc9cb <unknown>
+#3 0x6007282d7d17 <unknown>
+#4 0x60072832819e <unknown>
+#5 0x600728327766 <unknown>
+#6 0x600728319993 <unknown>
+#7 0x6007282e5d6b <unknown>
+#8 0x6007282e7141 <unknown>
+#9 0x6007287c02ab <unknown>
+#10 0x6007287c40b9 <unknown>
+#11 0x6007287a7139 <unknown>
+#12 0x6007287c4c68 <unknown>
+#13 0x60072878b60f <unknown>
+#14 0x6007287e91f8 <unknown>
+#15 0x6007287e93d6 <unknown>
+#16 0x6007287fa5e6 <unknown>
+#17 0x7a8954d91609 start_thread
+
+2025-07-30 09:59:46,230 - INFO - ⏳ 4.32s between batches...
+2025-07-30 10:00:04,186 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-30 10:00:04,186 - INFO - Processing batch 0 to 1
+2025-07-30 10:00:04,347 - ERROR - ❌ Error saving document TXT 0: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x628fd3ccc2ca <unknown>
+#1 0x628fd3773550 <unknown>
+#2 0x628fd37ad9cb <unknown>
+#3 0x628fd37a8d17 <unknown>
+#4 0x628fd37f919e <unknown>
+#5 0x628fd37f8766 <unknown>
+#6 0x628fd37ea993 <unknown>
+#7 0x628fd37b6d6b <unknown>
+#8 0x628fd37b8141 <unknown>
+#9 0x628fd3c912ab <unknown>
+#10 0x628fd3c950b9 <unknown>
+#11 0x628fd3c78139 <unknown>
+#12 0x628fd3c95c68 <unknown>
+#13 0x628fd3c5c60f <unknown>
+#14 0x628fd3cba1f8 <unknown>
+#15 0x628fd3cba3d6 <unknown>
+#16 0x628fd3ccb5e6 <unknown>
+#17 0x7a199dcba609 start_thread
+
+2025-07-30 10:00:04,347 - INFO - ⏳ 3.47s between batches...
+2025-07-30 10:00:07,822 - INFO - Processing batch 1 to 2
+2025-07-30 10:00:07,977 - ERROR - ❌ Error saving document TXT 1: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x63b89f0c62ca <unknown>
+#1 0x63b89eb6d550 <unknown>
+#2 0x63b89eba79cb <unknown>
+#3 0x63b89eba2d17 <unknown>
+#4 0x63b89ebf319e <unknown>
+#5 0x63b89ebf2766 <unknown>
+#6 0x63b89ebe4993 <unknown>
+#7 0x63b89ebb0d6b <unknown>
+#8 0x63b89ebb2141 <unknown>
+#9 0x63b89f08b2ab <unknown>
+#10 0x63b89f08f0b9 <unknown>
+#11 0x63b89f072139 <unknown>
+#12 0x63b89f08fc68 <unknown>
+#13 0x63b89f05660f <unknown>
+#14 0x63b89f0b41f8 <unknown>
+#15 0x63b89f0b43d6 <unknown>
+#16 0x63b89f0c55e6 <unknown>
+#17 0x7b052831e609 start_thread
+
+2025-07-30 10:00:07,978 - INFO - ⏳ 4.02s between batches...
+2025-07-30 10:00:54,961 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-30 10:00:54,961 - INFO - Processing batch 0 to 1
+2025-07-30 10:00:57,077 - INFO - ⏳ Waiting 2.89s for user emulation...
+2025-07-30 10:01:00,304 - INFO - ⏳ Waiting 4.19s for user emulation...
+2025-07-30 10:01:13,480 - ERROR - ❌ Main content not found at https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-32-NQ-HDND-2025-to-chuc-lai-Thanh-tra-Cao-Bang-664481.aspx - saved image error download_bomayhanhchinh_2/error_file_218.48466383250008_new1.png
+2025-07-30 10:01:13,545 - INFO - ⏳ 4.07s between batches...
+2025-07-30 10:01:17,612 - INFO - Processing batch 1 to 2
+2025-07-30 10:01:19,791 - INFO - ⏳ Waiting 2.40s for user emulation...
+2025-07-30 10:01:22,548 - INFO - ⏳ Waiting 5.64s for user emulation...
+2025-07-30 10:01:37,629 - ERROR - ❌ Main content not found at https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-1158-QD-UBND-2025-Quy-trinh-thu-tuc-hanh-chinh-quan-ly-lao-dong-ngoai-nuoc-So-Noi-vu-Dien-Bien-661621.aspx - saved image error download_bomayhanhchinh_2/error_file_242.58368878376297_new1.png
+2025-07-30 10:01:37,693 - INFO - ⏳ 4.86s between batches...
+2025-07-31 02:25:38,366 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-31 02:25:38,635 - INFO - Processing batch 0 to 1
+2025-07-31 02:26:53,583 - INFO - ⏳ Waiting 2.05s for user emulation...
+2025-07-31 02:26:55,984 - INFO - ⏳ Waiting 3.33s for user emulation...
+2025-07-31 02:27:08,523 - ERROR - ❌ Main content not found at https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-32-NQ-HDND-2025-to-chuc-lai-Thanh-tra-Cao-Bang-664481.aspx - saved image error download_bomayhanhchinh_2/error_file_302.957690148514_new1.png
+2025-07-31 02:27:08,587 - INFO - ⏳ 4.75s between batches...
+2025-07-31 02:27:13,340 - INFO - Processing batch 1 to 2
+2025-07-31 02:27:15,503 - INFO - ⏳ Waiting 3.18s for user emulation...
+2025-07-31 02:27:19,040 - INFO - ⏳ Waiting 4.04s for user emulation...
+2025-07-31 02:27:32,595 - ERROR - ❌ Main content not found at https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-1158-QD-UBND-2025-Quy-trinh-thu-tuc-hanh-chinh-quan-ly-lao-dong-ngoai-nuoc-So-Noi-vu-Dien-Bien-661621.aspx - saved image error download_bomayhanhchinh_2/error_file_191.64215729965957_new1.png
+2025-07-31 02:27:32,658 - INFO - ⏳ 4.70s between batches...
+2025-07-31 02:27:37,363 - INFO - Processing batch 2 to 3
+2025-07-31 02:27:38,471 - ERROR - Error saving document TXT 2: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-07-31 02:27:38,475 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x765317148dd0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c07054d597645d052a22420bedb17517/screenshot
+2025-07-31 02:27:38,482 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x765317149670>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c07054d597645d052a22420bedb17517/screenshot
+2025-07-31 02:27:38,484 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7653171497f0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c07054d597645d052a22420bedb17517/screenshot
+2025-07-31 02:27:38,492 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x765317148a70>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c07054d597645d052a22420bedb17517
+2025-07-31 02:27:38,496 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7653171498b0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c07054d597645d052a22420bedb17517
+2025-07-31 02:27:38,500 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x765317149a90>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c07054d597645d052a22420bedb17517
+2025-07-31 02:28:15,669 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-31 02:28:15,669 - INFO - Processing batch 0 to 1
+2025-07-31 02:28:15,830 - ERROR - Error saving document TXT 0: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x65148236b2ca <unknown>
+#1 0x651481e12550 <unknown>
+#2 0x651481e4c9cb <unknown>
+#3 0x651481e47d17 <unknown>
+#4 0x651481e9819e <unknown>
+#5 0x651481e97766 <unknown>
+#6 0x651481e89993 <unknown>
+#7 0x651481e55d6b <unknown>
+#8 0x651481e57141 <unknown>
+#9 0x6514823302ab <unknown>
+#10 0x6514823340b9 <unknown>
+#11 0x651482317139 <unknown>
+#12 0x651482334c68 <unknown>
+#13 0x6514822fb60f <unknown>
+#14 0x6514823591f8 <unknown>
+#15 0x6514823593d6 <unknown>
+#16 0x65148236a5e6 <unknown>
+#17 0x76070c982609 start_thread
+
+2025-07-31 02:28:15,831 - INFO - ⏳ 4.43s between batches...
+2025-07-31 02:28:20,261 - INFO - Processing batch 1 to 2
+2025-07-31 02:28:20,423 - ERROR - Error saving document TXT 1: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x62ac9a12c2ca <unknown>
+#1 0x62ac99bd3550 <unknown>
+#2 0x62ac99c0d9cb <unknown>
+#3 0x62ac99c08d17 <unknown>
+#4 0x62ac99c5919e <unknown>
+#5 0x62ac99c58766 <unknown>
+#6 0x62ac99c4a993 <unknown>
+#7 0x62ac99c16d6b <unknown>
+#8 0x62ac99c18141 <unknown>
+#9 0x62ac9a0f12ab <unknown>
+#10 0x62ac9a0f50b9 <unknown>
+#11 0x62ac9a0d8139 <unknown>
+#12 0x62ac9a0f5c68 <unknown>
+#13 0x62ac9a0bc60f <unknown>
+#14 0x62ac9a11a1f8 <unknown>
+#15 0x62ac9a11a3d6 <unknown>
+#16 0x62ac9a12b5e6 <unknown>
+#17 0x7d9d2d2dd609 start_thread
+
+2025-07-31 02:28:20,423 - INFO - ⏳ 3.20s between batches...
+2025-07-31 02:28:23,622 - INFO - Processing batch 2 to 3
+2025-07-31 02:28:23,773 - ERROR - Error saving document TXT 2: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x5c4caac772ca <unknown>
+#1 0x5c4caa71e550 <unknown>
+#2 0x5c4caa7589cb <unknown>
+#3 0x5c4caa753d17 <unknown>
+#4 0x5c4caa7a419e <unknown>
+#5 0x5c4caa7a3766 <unknown>
+#6 0x5c4caa795993 <unknown>
+#7 0x5c4caa761d6b <unknown>
+#8 0x5c4caa763141 <unknown>
+#9 0x5c4caac3c2ab <unknown>
+#10 0x5c4caac400b9 <unknown>
+#11 0x5c4caac23139 <unknown>
+#12 0x5c4caac40c68 <unknown>
+#13 0x5c4caac0760f <unknown>
+#14 0x5c4caac651f8 <unknown>
+#15 0x5c4caac653d6 <unknown>
+#16 0x5c4caac765e6 <unknown>
+#17 0x7d3aaa051609 start_thread
+
+2025-07-31 02:28:23,774 - INFO - ⏳ 4.24s between batches...
+2025-07-31 02:28:28,016 - INFO - Processing batch 3 to 4
+2025-07-31 02:28:28,167 - ERROR - Error saving document TXT 3: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x601b13d4a2ca <unknown>
+#1 0x601b137f1550 <unknown>
+#2 0x601b1382b9cb <unknown>
+#3 0x601b13826d17 <unknown>
+#4 0x601b1387719e <unknown>
+#5 0x601b13876766 <unknown>
+#6 0x601b13868993 <unknown>
+#7 0x601b13834d6b <unknown>
+#8 0x601b13836141 <unknown>
+#9 0x601b13d0f2ab <unknown>
+#10 0x601b13d130b9 <unknown>
+#11 0x601b13cf6139 <unknown>
+#12 0x601b13d13c68 <unknown>
+#13 0x601b13cda60f <unknown>
+#14 0x601b13d381f8 <unknown>
+#15 0x601b13d383d6 <unknown>
+#16 0x601b13d495e6 <unknown>
+#17 0x75e86763b609 start_thread
+
+2025-07-31 02:28:28,167 - INFO - ⏳ 4.78s between batches...
+2025-07-31 02:30:22,762 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-31 02:30:22,762 - INFO - Processing batch 0 to 1
+2025-07-31 02:30:22,919 - ERROR - Error saving document TXT 0: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x5b4644b5c2ca <unknown>
+#1 0x5b4644603550 <unknown>
+#2 0x5b464463d9cb <unknown>
+#3 0x5b4644638d17 <unknown>
+#4 0x5b464468919e <unknown>
+#5 0x5b4644688766 <unknown>
+#6 0x5b464467a993 <unknown>
+#7 0x5b4644646d6b <unknown>
+#8 0x5b4644648141 <unknown>
+#9 0x5b4644b212ab <unknown>
+#10 0x5b4644b250b9 <unknown>
+#11 0x5b4644b08139 <unknown>
+#12 0x5b4644b25c68 <unknown>
+#13 0x5b4644aec60f <unknown>
+#14 0x5b4644b4a1f8 <unknown>
+#15 0x5b4644b4a3d6 <unknown>
+#16 0x5b4644b5b5e6 <unknown>
+#17 0x742970c75609 start_thread
+
+2025-07-31 02:30:22,919 - INFO - ⏳ 3.91s between batches...
+2025-07-31 02:30:26,824 - INFO - Processing batch 1 to 2
+2025-07-31 02:30:26,976 - ERROR - Error saving document TXT 1: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x5e1251e0b2ca <unknown>
+#1 0x5e12518b2550 <unknown>
+#2 0x5e12518ec9cb <unknown>
+#3 0x5e12518e7d17 <unknown>
+#4 0x5e125193819e <unknown>
+#5 0x5e1251937766 <unknown>
+#6 0x5e1251929993 <unknown>
+#7 0x5e12518f5d6b <unknown>
+#8 0x5e12518f7141 <unknown>
+#9 0x5e1251dd02ab <unknown>
+#10 0x5e1251dd40b9 <unknown>
+#11 0x5e1251db7139 <unknown>
+#12 0x5e1251dd4c68 <unknown>
+#13 0x5e1251d9b60f <unknown>
+#14 0x5e1251df91f8 <unknown>
+#15 0x5e1251df93d6 <unknown>
+#16 0x5e1251e0a5e6 <unknown>
+#17 0x73215cd38609 start_thread
+
+2025-07-31 02:30:26,977 - INFO - ⏳ 4.25s between batches...
+2025-07-31 02:32:23,559 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-31 02:32:23,559 - INFO - Processing batch 0 to 1
+2025-07-31 02:32:23,720 - ERROR - Error saving document TXT 0: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x56fc5a2822ca <unknown>
+#1 0x56fc59d29550 <unknown>
+#2 0x56fc59d639cb <unknown>
+#3 0x56fc59d5ed17 <unknown>
+#4 0x56fc59daf19e <unknown>
+#5 0x56fc59dae766 <unknown>
+#6 0x56fc59da0993 <unknown>
+#7 0x56fc59d6cd6b <unknown>
+#8 0x56fc59d6e141 <unknown>
+#9 0x56fc5a2472ab <unknown>
+#10 0x56fc5a24b0b9 <unknown>
+#11 0x56fc5a22e139 <unknown>
+#12 0x56fc5a24bc68 <unknown>
+#13 0x56fc5a21260f <unknown>
+#14 0x56fc5a2701f8 <unknown>
+#15 0x56fc5a2703d6 <unknown>
+#16 0x56fc5a2815e6 <unknown>
+#17 0x7ee90547f609 start_thread
+
+2025-07-31 02:32:23,720 - INFO - ⏳ 3.40s between batches...
+2025-07-31 02:32:27,119 - INFO - Processing batch 1 to 2
+2025-07-31 02:32:27,270 - ERROR - Error saving document TXT 1: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x60256af492ca <unknown>
+#1 0x60256a9f0550 <unknown>
+#2 0x60256aa2a9cb <unknown>
+#3 0x60256aa25d17 <unknown>
+#4 0x60256aa7619e <unknown>
+#5 0x60256aa75766 <unknown>
+#6 0x60256aa67993 <unknown>
+#7 0x60256aa33d6b <unknown>
+#8 0x60256aa35141 <unknown>
+#9 0x60256af0e2ab <unknown>
+#10 0x60256af120b9 <unknown>
+#11 0x60256aef5139 <unknown>
+#12 0x60256af12c68 <unknown>
+#13 0x60256aed960f <unknown>
+#14 0x60256af371f8 <unknown>
+#15 0x60256af373d6 <unknown>
+#16 0x60256af485e6 <unknown>
+#17 0x79125c297609 start_thread
+
+2025-07-31 02:32:27,271 - INFO - ⏳ 3.78s between batches...
+2025-07-31 02:32:31,049 - INFO - Processing batch 2 to 3
+2025-07-31 02:32:31,200 - ERROR - Error saving document TXT 2: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x59c3eea632ca <unknown>
+#1 0x59c3ee50a550 <unknown>
+#2 0x59c3ee5449cb <unknown>
+#3 0x59c3ee53fd17 <unknown>
+#4 0x59c3ee59019e <unknown>
+#5 0x59c3ee58f766 <unknown>
+#6 0x59c3ee581993 <unknown>
+#7 0x59c3ee54dd6b <unknown>
+#8 0x59c3ee54f141 <unknown>
+#9 0x59c3eea282ab <unknown>
+#10 0x59c3eea2c0b9 <unknown>
+#11 0x59c3eea0f139 <unknown>
+#12 0x59c3eea2cc68 <unknown>
+#13 0x59c3ee9f360f <unknown>
+#14 0x59c3eea511f8 <unknown>
+#15 0x59c3eea513d6 <unknown>
+#16 0x59c3eea625e6 <unknown>
+#17 0x7a522858b609 start_thread
+
+2025-07-31 02:32:31,201 - INFO - ⏳ 3.50s between batches...
+2025-07-31 02:32:34,699 - INFO - Processing batch 3 to 4
+2025-07-31 02:32:34,850 - ERROR - Error saving document TXT 3: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x58911154e2ca <unknown>
+#1 0x589110ff5550 <unknown>
+#2 0x58911102f9cb <unknown>
+#3 0x58911102ad17 <unknown>
+#4 0x58911107b19e <unknown>
+#5 0x58911107a766 <unknown>
+#6 0x58911106c993 <unknown>
+#7 0x589111038d6b <unknown>
+#8 0x58911103a141 <unknown>
+#9 0x5891115132ab <unknown>
+#10 0x5891115170b9 <unknown>
+#11 0x5891114fa139 <unknown>
+#12 0x589111517c68 <unknown>
+#13 0x5891114de60f <unknown>
+#14 0x58911153c1f8 <unknown>
+#15 0x58911153c3d6 <unknown>
+#16 0x58911154d5e6 <unknown>
+#17 0x771436ad2609 start_thread
+
+2025-07-31 02:32:34,850 - INFO - ⏳ 4.39s between batches...
+2025-07-31 02:32:39,242 - INFO - Processing batch 4 to 5
+2025-07-31 02:32:39,393 - ERROR - Error saving document TXT 4: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x5afbd693e2ca <unknown>
+#1 0x5afbd63e5550 <unknown>
+#2 0x5afbd641f9cb <unknown>
+#3 0x5afbd641ad17 <unknown>
+#4 0x5afbd646b19e <unknown>
+#5 0x5afbd646a766 <unknown>
+#6 0x5afbd645c993 <unknown>
+#7 0x5afbd6428d6b <unknown>
+#8 0x5afbd642a141 <unknown>
+#9 0x5afbd69032ab <unknown>
+#10 0x5afbd69070b9 <unknown>
+#11 0x5afbd68ea139 <unknown>
+#12 0x5afbd6907c68 <unknown>
+#13 0x5afbd68ce60f <unknown>
+#14 0x5afbd692c1f8 <unknown>
+#15 0x5afbd692c3d6 <unknown>
+#16 0x5afbd693d5e6 <unknown>
+#17 0x7aab54556609 start_thread
+
+2025-07-31 02:32:39,393 - INFO - ⏳ 4.55s between batches...
+2025-07-31 02:32:43,945 - INFO - Processing batch 5 to 6
+2025-07-31 02:32:44,096 - ERROR - Error saving document TXT 5: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x5a72784e62ca <unknown>
+#1 0x5a7277f8d550 <unknown>
+#2 0x5a7277fc79cb <unknown>
+#3 0x5a7277fc2d17 <unknown>
+#4 0x5a727801319e <unknown>
+#5 0x5a7278012766 <unknown>
+#6 0x5a7278004993 <unknown>
+#7 0x5a7277fd0d6b <unknown>
+#8 0x5a7277fd2141 <unknown>
+#9 0x5a72784ab2ab <unknown>
+#10 0x5a72784af0b9 <unknown>
+#11 0x5a7278492139 <unknown>
+#12 0x5a72784afc68 <unknown>
+#13 0x5a727847660f <unknown>
+#14 0x5a72784d41f8 <unknown>
+#15 0x5a72784d43d6 <unknown>
+#16 0x5a72784e55e6 <unknown>
+#17 0x736ef4281609 start_thread
+
+2025-07-31 02:32:44,096 - INFO - ⏳ 4.49s between batches...
+2025-07-31 02:32:48,589 - INFO - Processing batch 6 to 7
+2025-07-31 02:32:48,741 - ERROR - Error saving document TXT 6: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x56fb0451c2ca <unknown>
+#1 0x56fb03fc3550 <unknown>
+#2 0x56fb03ffd9cb <unknown>
+#3 0x56fb03ff8d17 <unknown>
+#4 0x56fb0404919e <unknown>
+#5 0x56fb04048766 <unknown>
+#6 0x56fb0403a993 <unknown>
+#7 0x56fb04006d6b <unknown>
+#8 0x56fb04008141 <unknown>
+#9 0x56fb044e12ab <unknown>
+#10 0x56fb044e50b9 <unknown>
+#11 0x56fb044c8139 <unknown>
+#12 0x56fb044e5c68 <unknown>
+#13 0x56fb044ac60f <unknown>
+#14 0x56fb0450a1f8 <unknown>
+#15 0x56fb0450a3d6 <unknown>
+#16 0x56fb0451b5e6 <unknown>
+#17 0x7de3e287e609 start_thread
+
+2025-07-31 02:32:48,741 - INFO - ⏳ 3.07s between batches...
+2025-07-31 02:32:51,813 - INFO - Processing batch 7 to 8
+2025-07-31 02:32:51,963 - ERROR - Error saving document TXT 7: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x5aa201dfe2ca <unknown>
+#1 0x5aa2018a5550 <unknown>
+#2 0x5aa2018df9cb <unknown>
+#3 0x5aa2018dad17 <unknown>
+#4 0x5aa20192b19e <unknown>
+#5 0x5aa20192a766 <unknown>
+#6 0x5aa20191c993 <unknown>
+#7 0x5aa2018e8d6b <unknown>
+#8 0x5aa2018ea141 <unknown>
+#9 0x5aa201dc32ab <unknown>
+#10 0x5aa201dc70b9 <unknown>
+#11 0x5aa201daa139 <unknown>
+#12 0x5aa201dc7c68 <unknown>
+#13 0x5aa201d8e60f <unknown>
+#14 0x5aa201dec1f8 <unknown>
+#15 0x5aa201dec3d6 <unknown>
+#16 0x5aa201dfd5e6 <unknown>
+#17 0x794bb6330609 start_thread
+
+2025-07-31 02:32:51,964 - INFO - ⏳ 3.52s between batches...
+2025-07-31 02:32:55,483 - INFO - Processing batch 8 to 9
+2025-07-31 02:32:55,634 - ERROR - Error saving document TXT 8: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x63d1e92db2ca <unknown>
+#1 0x63d1e8d82550 <unknown>
+#2 0x63d1e8dbc9cb <unknown>
+#3 0x63d1e8db7d17 <unknown>
+#4 0x63d1e8e0819e <unknown>
+#5 0x63d1e8e07766 <unknown>
+#6 0x63d1e8df9993 <unknown>
+#7 0x63d1e8dc5d6b <unknown>
+#8 0x63d1e8dc7141 <unknown>
+#9 0x63d1e92a02ab <unknown>
+#10 0x63d1e92a40b9 <unknown>
+#11 0x63d1e9287139 <unknown>
+#12 0x63d1e92a4c68 <unknown>
+#13 0x63d1e926b60f <unknown>
+#14 0x63d1e92c91f8 <unknown>
+#15 0x63d1e92c93d6 <unknown>
+#16 0x63d1e92da5e6 <unknown>
+#17 0x74f6c105a609 start_thread
+
+2025-07-31 02:32:55,634 - INFO - ⏳ 3.53s between batches...
+2025-07-31 02:32:59,160 - INFO - Processing batch 9 to 10
+2025-07-31 02:32:59,310 - ERROR - Error saving document TXT 9: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x55d106bc32ca <unknown>
+#1 0x55d10666a550 <unknown>
+#2 0x55d1066a49cb <unknown>
+#3 0x55d10669fd17 <unknown>
+#4 0x55d1066f019e <unknown>
+#5 0x55d1066ef766 <unknown>
+#6 0x55d1066e1993 <unknown>
+#7 0x55d1066add6b <unknown>
+#8 0x55d1066af141 <unknown>
+#9 0x55d106b882ab <unknown>
+#10 0x55d106b8c0b9 <unknown>
+#11 0x55d106b6f139 <unknown>
+#12 0x55d106b8cc68 <unknown>
+#13 0x55d106b5360f <unknown>
+#14 0x55d106bb11f8 <unknown>
+#15 0x55d106bb13d6 <unknown>
+#16 0x55d106bc25e6 <unknown>
+#17 0x702b74ee1609 start_thread
+
+2025-07-31 02:32:59,311 - INFO - ⏳ 3.53s between batches...
+2025-07-31 02:33:02,841 - INFO - Processing batch 10 to 11
+2025-07-31 02:33:02,992 - ERROR - Error saving document TXT 10: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x597eeec652ca <unknown>
+#1 0x597eee70c550 <unknown>
+#2 0x597eee7469cb <unknown>
+#3 0x597eee741d17 <unknown>
+#4 0x597eee79219e <unknown>
+#5 0x597eee791766 <unknown>
+#6 0x597eee783993 <unknown>
+#7 0x597eee74fd6b <unknown>
+#8 0x597eee751141 <unknown>
+#9 0x597eeec2a2ab <unknown>
+#10 0x597eeec2e0b9 <unknown>
+#11 0x597eeec11139 <unknown>
+#12 0x597eeec2ec68 <unknown>
+#13 0x597eeebf560f <unknown>
+#14 0x597eeec531f8 <unknown>
+#15 0x597eeec533d6 <unknown>
+#16 0x597eeec645e6 <unknown>
+#17 0x771570eb3609 start_thread
+
+2025-07-31 02:33:02,992 - INFO - ⏳ 3.09s between batches...
+2025-07-31 02:33:06,082 - INFO - Processing batch 11 to 12
+2025-07-31 02:33:06,235 - ERROR - Error saving document TXT 11: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x6479c08ba2ca <unknown>
+#1 0x6479c0361550 <unknown>
+#2 0x6479c039b9cb <unknown>
+#3 0x6479c0396d17 <unknown>
+#4 0x6479c03e719e <unknown>
+#5 0x6479c03e6766 <unknown>
+#6 0x6479c03d8993 <unknown>
+#7 0x6479c03a4d6b <unknown>
+#8 0x6479c03a6141 <unknown>
+#9 0x6479c087f2ab <unknown>
+#10 0x6479c08830b9 <unknown>
+#11 0x6479c0866139 <unknown>
+#12 0x6479c0883c68 <unknown>
+#13 0x6479c084a60f <unknown>
+#14 0x6479c08a81f8 <unknown>
+#15 0x6479c08a83d6 <unknown>
+#16 0x6479c08b95e6 <unknown>
+#17 0x7e41549f9609 start_thread
+
+2025-07-31 02:33:06,235 - INFO - ⏳ 4.53s between batches...
+2025-07-31 02:33:10,764 - INFO - Processing batch 12 to 13
+2025-07-31 02:33:10,915 - ERROR - Error saving document TXT 12: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x63d2f813d2ca <unknown>
+#1 0x63d2f7be4550 <unknown>
+#2 0x63d2f7c1e9cb <unknown>
+#3 0x63d2f7c19d17 <unknown>
+#4 0x63d2f7c6a19e <unknown>
+#5 0x63d2f7c69766 <unknown>
+#6 0x63d2f7c5b993 <unknown>
+#7 0x63d2f7c27d6b <unknown>
+#8 0x63d2f7c29141 <unknown>
+#9 0x63d2f81022ab <unknown>
+#10 0x63d2f81060b9 <unknown>
+#11 0x63d2f80e9139 <unknown>
+#12 0x63d2f8106c68 <unknown>
+#13 0x63d2f80cd60f <unknown>
+#14 0x63d2f812b1f8 <unknown>
+#15 0x63d2f812b3d6 <unknown>
+#16 0x63d2f813c5e6 <unknown>
+#17 0x70019d992609 start_thread
+
+2025-07-31 02:33:10,916 - INFO - ⏳ 4.66s between batches...
+2025-07-31 02:33:15,576 - INFO - Processing batch 13 to 14
+2025-07-31 02:33:15,729 - ERROR - Error saving document TXT 13: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x5ffecd6e92ca <unknown>
+#1 0x5ffecd190550 <unknown>
+#2 0x5ffecd1ca9cb <unknown>
+#3 0x5ffecd1c5d17 <unknown>
+#4 0x5ffecd21619e <unknown>
+#5 0x5ffecd215766 <unknown>
+#6 0x5ffecd207993 <unknown>
+#7 0x5ffecd1d3d6b <unknown>
+#8 0x5ffecd1d5141 <unknown>
+#9 0x5ffecd6ae2ab <unknown>
+#10 0x5ffecd6b20b9 <unknown>
+#11 0x5ffecd695139 <unknown>
+#12 0x5ffecd6b2c68 <unknown>
+#13 0x5ffecd67960f <unknown>
+#14 0x5ffecd6d71f8 <unknown>
+#15 0x5ffecd6d73d6 <unknown>
+#16 0x5ffecd6e85e6 <unknown>
+#17 0x77acada39609 start_thread
+
+2025-07-31 02:33:15,729 - INFO - ⏳ 3.36s between batches...
+2025-07-31 02:33:19,088 - INFO - Processing batch 14 to 15
+2025-07-31 02:33:19,238 - ERROR - Error saving document TXT 14: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x5c6f413e92ca <unknown>
+#1 0x5c6f40e90550 <unknown>
+#2 0x5c6f40eca9cb <unknown>
+#3 0x5c6f40ec5d17 <unknown>
+#4 0x5c6f40f1619e <unknown>
+#5 0x5c6f40f15766 <unknown>
+#6 0x5c6f40f07993 <unknown>
+#7 0x5c6f40ed3d6b <unknown>
+#8 0x5c6f40ed5141 <unknown>
+#9 0x5c6f413ae2ab <unknown>
+#10 0x5c6f413b20b9 <unknown>
+#11 0x5c6f41395139 <unknown>
+#12 0x5c6f413b2c68 <unknown>
+#13 0x5c6f4137960f <unknown>
+#14 0x5c6f413d71f8 <unknown>
+#15 0x5c6f413d73d6 <unknown>
+#16 0x5c6f413e85e6 <unknown>
+#17 0x70233e810609 start_thread
+
+2025-07-31 02:33:19,239 - INFO - ⏳ 3.04s between batches...
+2025-07-31 02:33:22,276 - INFO - Processing batch 15 to 16
+2025-07-31 02:33:22,428 - ERROR - Error saving document TXT 15: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x6042f54712ca <unknown>
+#1 0x6042f4f18550 <unknown>
+#2 0x6042f4f529cb <unknown>
+#3 0x6042f4f4dd17 <unknown>
+#4 0x6042f4f9e19e <unknown>
+#5 0x6042f4f9d766 <unknown>
+#6 0x6042f4f8f993 <unknown>
+#7 0x6042f4f5bd6b <unknown>
+#8 0x6042f4f5d141 <unknown>
+#9 0x6042f54362ab <unknown>
+#10 0x6042f543a0b9 <unknown>
+#11 0x6042f541d139 <unknown>
+#12 0x6042f543ac68 <unknown>
+#13 0x6042f540160f <unknown>
+#14 0x6042f545f1f8 <unknown>
+#15 0x6042f545f3d6 <unknown>
+#16 0x6042f54705e6 <unknown>
+#17 0x7e9f8ddb6609 start_thread
+
+2025-07-31 02:33:22,429 - INFO - ⏳ 3.99s between batches...
+2025-07-31 02:33:26,422 - INFO - Processing batch 16 to 17
+2025-07-31 02:33:26,573 - ERROR - Error saving document TXT 16: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x59ca459082ca <unknown>
+#1 0x59ca453af550 <unknown>
+#2 0x59ca453e99cb <unknown>
+#3 0x59ca453e4d17 <unknown>
+#4 0x59ca4543519e <unknown>
+#5 0x59ca45434766 <unknown>
+#6 0x59ca45426993 <unknown>
+#7 0x59ca453f2d6b <unknown>
+#8 0x59ca453f4141 <unknown>
+#9 0x59ca458cd2ab <unknown>
+#10 0x59ca458d10b9 <unknown>
+#11 0x59ca458b4139 <unknown>
+#12 0x59ca458d1c68 <unknown>
+#13 0x59ca4589860f <unknown>
+#14 0x59ca458f61f8 <unknown>
+#15 0x59ca458f63d6 <unknown>
+#16 0x59ca459075e6 <unknown>
+#17 0x710dd9f6f609 start_thread
+
+2025-07-31 02:33:26,573 - INFO - ⏳ 4.13s between batches...
+2025-07-31 02:33:30,707 - INFO - Processing batch 17 to 18
+2025-07-31 02:33:30,857 - ERROR - Error saving document TXT 17: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x63de52a082ca <unknown>
+#1 0x63de524af550 <unknown>
+#2 0x63de524e99cb <unknown>
+#3 0x63de524e4d17 <unknown>
+#4 0x63de5253519e <unknown>
+#5 0x63de52534766 <unknown>
+#6 0x63de52526993 <unknown>
+#7 0x63de524f2d6b <unknown>
+#8 0x63de524f4141 <unknown>
+#9 0x63de529cd2ab <unknown>
+#10 0x63de529d10b9 <unknown>
+#11 0x63de529b4139 <unknown>
+#12 0x63de529d1c68 <unknown>
+#13 0x63de5299860f <unknown>
+#14 0x63de529f61f8 <unknown>
+#15 0x63de529f63d6 <unknown>
+#16 0x63de52a075e6 <unknown>
+#17 0x71c0ad293609 start_thread
+
+2025-07-31 02:33:30,857 - INFO - ⏳ 3.72s between batches...
+2025-07-31 02:33:34,575 - INFO - Processing batch 18 to 19
+2025-07-31 02:33:34,727 - ERROR - Error saving document TXT 18: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x59a45e5452ca <unknown>
+#1 0x59a45dfec550 <unknown>
+#2 0x59a45e0269cb <unknown>
+#3 0x59a45e021d17 <unknown>
+#4 0x59a45e07219e <unknown>
+#5 0x59a45e071766 <unknown>
+#6 0x59a45e063993 <unknown>
+#7 0x59a45e02fd6b <unknown>
+#8 0x59a45e031141 <unknown>
+#9 0x59a45e50a2ab <unknown>
+#10 0x59a45e50e0b9 <unknown>
+#11 0x59a45e4f1139 <unknown>
+#12 0x59a45e50ec68 <unknown>
+#13 0x59a45e4d560f <unknown>
+#14 0x59a45e5331f8 <unknown>
+#15 0x59a45e5333d6 <unknown>
+#16 0x59a45e5445e6 <unknown>
+#17 0x79bf0067f609 start_thread
+
+2025-07-31 02:33:34,727 - INFO - ⏳ 3.76s between batches...
+2025-07-31 02:33:38,489 - INFO - Processing batch 19 to 20
+2025-07-31 02:33:38,644 - ERROR - Error saving document TXT 19: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x5c0835bbf2ca <unknown>
+#1 0x5c0835666550 <unknown>
+#2 0x5c08356a09cb <unknown>
+#3 0x5c083569bd17 <unknown>
+#4 0x5c08356ec19e <unknown>
+#5 0x5c08356eb766 <unknown>
+#6 0x5c08356dd993 <unknown>
+#7 0x5c08356a9d6b <unknown>
+#8 0x5c08356ab141 <unknown>
+#9 0x5c0835b842ab <unknown>
+#10 0x5c0835b880b9 <unknown>
+#11 0x5c0835b6b139 <unknown>
+#12 0x5c0835b88c68 <unknown>
+#13 0x5c0835b4f60f <unknown>
+#14 0x5c0835bad1f8 <unknown>
+#15 0x5c0835bad3d6 <unknown>
+#16 0x5c0835bbe5e6 <unknown>
+#17 0x7ea060aa3609 start_thread
+
+2025-07-31 02:33:38,644 - INFO - ⏳ 4.63s between batches...
+2025-07-31 02:33:43,275 - INFO - Processing batch 20 to 21
+2025-07-31 02:33:43,428 - ERROR - Error saving document TXT 20: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x5fd1b6e232ca <unknown>
+#1 0x5fd1b68ca550 <unknown>
+#2 0x5fd1b69049cb <unknown>
+#3 0x5fd1b68ffd17 <unknown>
+#4 0x5fd1b695019e <unknown>
+#5 0x5fd1b694f766 <unknown>
+#6 0x5fd1b6941993 <unknown>
+#7 0x5fd1b690dd6b <unknown>
+#8 0x5fd1b690f141 <unknown>
+#9 0x5fd1b6de82ab <unknown>
+#10 0x5fd1b6dec0b9 <unknown>
+#11 0x5fd1b6dcf139 <unknown>
+#12 0x5fd1b6decc68 <unknown>
+#13 0x5fd1b6db360f <unknown>
+#14 0x5fd1b6e111f8 <unknown>
+#15 0x5fd1b6e113d6 <unknown>
+#16 0x5fd1b6e225e6 <unknown>
+#17 0x7bddbff56609 start_thread
+
+2025-07-31 02:33:43,429 - INFO - ⏳ 4.45s between batches...
+2025-07-31 02:33:47,882 - INFO - Processing batch 21 to 22
+2025-07-31 02:33:48,033 - ERROR - Error saving document TXT 21: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x588fece1c2ca <unknown>
+#1 0x588fec8c3550 <unknown>
+#2 0x588fec8fd9cb <unknown>
+#3 0x588fec8f8d17 <unknown>
+#4 0x588fec94919e <unknown>
+#5 0x588fec948766 <unknown>
+#6 0x588fec93a993 <unknown>
+#7 0x588fec906d6b <unknown>
+#8 0x588fec908141 <unknown>
+#9 0x588fecde12ab <unknown>
+#10 0x588fecde50b9 <unknown>
+#11 0x588fecdc8139 <unknown>
+#12 0x588fecde5c68 <unknown>
+#13 0x588fecdac60f <unknown>
+#14 0x588fece0a1f8 <unknown>
+#15 0x588fece0a3d6 <unknown>
+#16 0x588fece1b5e6 <unknown>
+#17 0x6ffe067df609 start_thread
+
+2025-07-31 02:33:48,033 - INFO - ⏳ 3.12s between batches...
+2025-07-31 02:33:51,150 - INFO - Processing batch 22 to 23
+2025-07-31 02:33:51,300 - ERROR - Error saving document TXT 22: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x59235c45e2ca <unknown>
+#1 0x59235bf05550 <unknown>
+#2 0x59235bf3f9cb <unknown>
+#3 0x59235bf3ad17 <unknown>
+#4 0x59235bf8b19e <unknown>
+#5 0x59235bf8a766 <unknown>
+#6 0x59235bf7c993 <unknown>
+#7 0x59235bf48d6b <unknown>
+#8 0x59235bf4a141 <unknown>
+#9 0x59235c4232ab <unknown>
+#10 0x59235c4270b9 <unknown>
+#11 0x59235c40a139 <unknown>
+#12 0x59235c427c68 <unknown>
+#13 0x59235c3ee60f <unknown>
+#14 0x59235c44c1f8 <unknown>
+#15 0x59235c44c3d6 <unknown>
+#16 0x59235c45d5e6 <unknown>
+#17 0x713d92d1c609 start_thread
+
+2025-07-31 02:33:51,301 - INFO - ⏳ 4.19s between batches...
+2025-07-31 02:38:12,107 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-31 02:38:12,107 - INFO - Processing batch 0 to 1
+2025-07-31 02:38:12,108 - ERROR - Error saving document TXT 0: name 'uc' is not defined
+2025-07-31 02:38:12,108 - INFO - ⏳ 4.74s between batches...
+2025-07-31 02:38:16,851 - INFO - Processing batch 1 to 2
+2025-07-31 02:38:16,852 - ERROR - Error saving document TXT 1: name 'uc' is not defined
+2025-07-31 02:38:16,852 - INFO - ⏳ 4.87s between batches...
+2025-07-31 02:40:07,782 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-31 02:40:07,782 - INFO - Processing batch 0 to 1
+2025-07-31 02:40:08,176 - INFO - patching driver executable /home/codespace/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-07-31 02:40:08,195 - ERROR - Error saving document TXT 0: Binary Location Must be a String
+2025-07-31 02:40:08,196 - INFO - ⏳ 4.43s between batches...
+2025-07-31 02:40:12,625 - INFO - Processing batch 1 to 2
+2025-07-31 02:40:13,007 - INFO - patching driver executable /home/codespace/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-07-31 02:40:13,021 - ERROR - Error saving document TXT 1: Binary Location Must be a String
+2025-07-31 02:40:13,022 - INFO - ⏳ 3.20s between batches...
+2025-07-31 02:40:16,227 - INFO - Processing batch 2 to 3
+2025-07-31 02:40:16,611 - INFO - patching driver executable /home/codespace/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-07-31 02:40:16,622 - ERROR - Error saving document TXT 2: Binary Location Must be a String
+2025-07-31 02:40:16,623 - INFO - ⏳ 4.52s between batches...
+2025-07-31 02:43:46,177 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-31 02:43:46,177 - INFO - Processing batch 0 to 1
+2025-07-31 02:43:46,561 - INFO - patching driver executable /home/codespace/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-07-31 02:43:46,582 - ERROR - Error saving document TXT 0: Binary Location Must be a String
+2025-07-31 02:43:46,582 - INFO - ⏳ 4.70s between batches...
+2025-07-31 02:44:02,554 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-31 02:44:02,554 - INFO - Processing batch 0 to 1
+2025-07-31 02:44:02,555 - ERROR - Error saving document TXT 0: name 'Chrome' is not defined
+2025-07-31 02:44:02,555 - INFO - ⏳ 4.04s between batches...
+2025-07-31 02:44:17,549 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-31 02:44:17,549 - INFO - Processing batch 0 to 1
+2025-07-31 02:44:17,916 - INFO - patching driver executable /home/codespace/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-07-31 02:44:17,936 - ERROR - Error saving document TXT 0: Binary Location Must be a String
+2025-07-31 02:44:17,937 - INFO - ⏳ 4.02s between batches...
+2025-07-31 02:44:21,962 - INFO - Processing batch 1 to 2
+2025-07-31 02:44:22,328 - INFO - patching driver executable /home/codespace/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-07-31 02:44:22,343 - ERROR - Error saving document TXT 1: Binary Location Must be a String
+2025-07-31 02:44:22,344 - INFO - ⏳ 4.52s between batches...
+2025-07-31 02:44:26,864 - INFO - Processing batch 2 to 3
+2025-07-31 02:44:27,231 - INFO - patching driver executable /home/codespace/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-07-31 02:44:27,244 - ERROR - Error saving document TXT 2: Binary Location Must be a String
+2025-07-31 02:45:34,200 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-31 02:45:34,200 - INFO - Processing batch 0 to 1
+2025-07-31 02:45:34,201 - ERROR - Error saving document TXT 0: create_driver() takes 0 positional arguments but 1 was given
+2025-07-31 02:45:34,202 - INFO - ⏳ 3.08s between batches...
+2025-07-31 02:45:37,277 - INFO - Processing batch 1 to 2
+2025-07-31 02:45:37,278 - ERROR - Error saving document TXT 1: create_driver() takes 0 positional arguments but 1 was given
+2025-07-31 02:45:37,278 - INFO - ⏳ 3.07s between batches...
+2025-07-31 02:45:59,740 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-31 02:45:59,740 - INFO - Processing batch 0 to 1
+2025-07-31 02:46:00,115 - INFO - patching driver executable /home/codespace/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-07-31 02:46:00,136 - ERROR - Error saving document TXT 0: Binary Location Must be a String
+2025-07-31 02:46:00,137 - INFO - ⏳ 3.46s between batches...
+2025-07-31 02:46:03,596 - INFO - Processing batch 1 to 2
+2025-07-31 02:46:03,950 - INFO - patching driver executable /home/codespace/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-07-31 02:46:03,966 - ERROR - Error saving document TXT 1: Binary Location Must be a String
+2025-07-31 02:46:03,966 - INFO - ⏳ 3.08s between batches...
+2025-07-31 02:47:44,123 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-31 02:47:44,124 - INFO - Processing batch 0 to 1
+2025-07-31 02:47:44,478 - INFO - patching driver executable /home/codespace/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-07-31 02:47:44,498 - ERROR - Error saving document TXT 0: Binary Location Must be a String
+2025-07-31 02:47:44,499 - INFO - ⏳ 4.71s between batches...
+2025-07-31 02:47:49,210 - INFO - Processing batch 1 to 2
+2025-07-31 02:47:49,570 - INFO - patching driver executable /home/codespace/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-07-31 02:47:49,585 - ERROR - Error saving document TXT 1: Binary Location Must be a String
+2025-07-31 02:47:49,585 - INFO - ⏳ 4.64s between batches...
+2025-07-31 02:47:54,226 - INFO - Processing batch 2 to 3
+2025-07-31 02:47:54,607 - INFO - patching driver executable /home/codespace/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-07-31 02:47:54,620 - ERROR - Error saving document TXT 2: Binary Location Must be a String
+2025-07-31 02:47:54,620 - INFO - ⏳ 4.72s between batches...
+2025-07-31 02:47:59,343 - INFO - Processing batch 3 to 4
+2025-07-31 02:47:59,708 - INFO - patching driver executable /home/codespace/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-07-31 02:47:59,721 - ERROR - Error saving document TXT 3: Binary Location Must be a String
+2025-07-31 02:48:04,494 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-31 02:48:04,494 - INFO - Processing batch 0 to 1
+2025-07-31 02:48:04,855 - INFO - patching driver executable /home/codespace/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-07-31 02:48:04,876 - ERROR - Error saving document TXT 0: Binary Location Must be a String
+2025-07-31 02:48:04,876 - INFO - ⏳ 4.01s between batches...
+2025-07-31 02:51:08,020 - INFO - Total 2725 links found in bomayhanhchinh_2.txt
+2025-07-31 02:51:08,021 - INFO - ▶️ Downloading 1/2725: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-32-NQ-HDND-2025-to-chuc-lai-Thanh-tra-Cao-Bang-664481.aspx
+2025-07-31 02:51:08,377 - INFO - patching driver executable /home/codespace/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-07-31 02:51:08,397 - ERROR - ❌ Error saving TXT 0: Binary Location Must be a String
+2025-07-31 02:51:11,001 - INFO - ▶️ Downloading 2/2725: https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-1158-QD-UBND-2025-Quy-trinh-thu-tuc-hanh-chinh-quan-ly-lao-dong-ngoai-nuoc-So-Noi-vu-Dien-Bien-661621.aspx
+2025-07-31 02:51:11,362 - INFO - patching driver executable /home/codespace/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-07-31 02:51:11,381 - ERROR - ❌ Error saving TXT 1: Binary Location Must be a String
+2025-07-31 02:51:14,699 - INFO - ▶️ Downloading 3/2725: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Cong-dien-83-CD-TTg-2025-day-manh-phan-cap-phan-quyen-phan-dinh-tham-quyen-cac-nganh-linh-vuc-660172.aspx
+2025-07-31 02:51:15,060 - INFO - patching driver executable /home/codespace/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-07-31 02:51:15,077 - ERROR - ❌ Error saving TXT 2: Binary Location Must be a String
+2025-07-31 02:56:25,923 - INFO - 📄 Tổng cộng 2725 liên kết sẽ được xử lý
+2025-07-31 02:56:25,923 - INFO - 📦 Xử lý batch 0 đến 1
+2025-07-31 02:56:38,957 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/1_Nghi-quyet-32-NQ-HDND-2025-to-chuc-lai-Thanh-tra-Cao-Bang-664481.txt
+2025-07-31 02:56:40,021 - INFO - ⏳ Tạm dừng 3.34 giây giữa các batch...
+2025-07-31 02:56:43,366 - INFO - 📦 Xử lý batch 1 đến 2
+2025-07-31 02:56:58,974 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/2_Quyet-dinh-1158-QD-UBND-2025-Quy-trinh-thu-tuc-hanh-chinh-quan-ly-lao-dong-ngoai-nuoc-So-Noi-vu-Dien-Bien-661621.txt
+2025-07-31 02:57:00,039 - INFO - ⏳ Tạm dừng 3.99 giây giữa các batch...
+2025-07-31 02:57:04,024 - INFO - 📦 Xử lý batch 2 đến 3
+2025-07-31 02:57:14,790 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/3_Cong-dien-83-CD-TTg-2025-day-manh-phan-cap-phan-quyen-phan-dinh-tham-quyen-cac-nganh-linh-vuc-660172.txt
+2025-07-31 02:57:15,854 - INFO - ⏳ Tạm dừng 4.85 giây giữa các batch...
+2025-07-31 02:57:20,708 - INFO - 📦 Xử lý batch 3 đến 4
+2025-07-31 02:57:33,671 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/4_Quyet-dinh-493-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-linh-vuc-Thuy-loi-Kon-Tum-660061.txt
+2025-07-31 02:57:34,736 - INFO - ⏳ Tạm dừng 4.45 giây giữa các batch...
+2025-07-31 02:57:39,185 - INFO - 📦 Xử lý batch 4 đến 5
+2025-07-31 02:57:50,071 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/5_Nghi-quyet-162-NQ-CP-2025-Phien-hop-Chinh-phu-thuong-ky-thang-5-660716.txt
+2025-07-31 02:57:51,136 - INFO - ⏳ Tạm dừng 3.85 giây giữa các batch...
+2025-07-31 02:57:54,983 - INFO - 📦 Xử lý batch 5 đến 6
+2025-07-31 02:58:08,980 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/6_Huong-dan-65-HD-TWDTN-TCKT-2025-sap-xep-to-chuc-can-bo-Doan-Thanh-nien-Ho-Chi-Minh-cap-tinh-660032.txt
+2025-07-31 02:58:10,045 - INFO - ⏳ Tạm dừng 3.15 giây giữa các batch...
+2025-07-31 02:58:13,192 - INFO - 📦 Xử lý batch 6 đến 7
+2025-07-31 02:58:23,470 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/7_Huong-dan-18-HD-UBKTTW-2025-co-cau-uy-ban-kiem-tra-cap-co-so-Dang-bo-co-quan-Dang-Trung-uong-660195.txt
+2025-07-31 02:58:24,534 - INFO - ⏳ Tạm dừng 4.66 giây giữa các batch...
+2025-07-31 02:58:29,193 - INFO - 📦 Xử lý batch 7 đến 8
+2025-07-31 02:58:40,883 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/8_Quyet-dinh-2262-QD-NHNN-2025-cong-bo-thu-tuc-hanh-chinh-hoat-dong-ngoai-hoi-Bo-phan-Mot-cua-660429.txt
+2025-07-31 02:58:41,947 - INFO - ⏳ Tạm dừng 4.43 giây giữa các batch...
+2025-07-31 02:58:46,376 - INFO - 📦 Xử lý batch 8 đến 9
+2025-07-31 02:58:58,304 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/9_Quyet-dinh-1778-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Khoang-san-So-Cong-Thuong-Thanh-Hoa-659877.txt
+2025-07-31 02:58:59,369 - INFO - ⏳ Tạm dừng 3.38 giây giữa các batch...
+2025-07-31 02:59:02,752 - INFO - 📦 Xử lý batch 9 đến 10
+2025-07-31 02:59:14,686 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/10_Quyet-dinh-986-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-noi-bo-So-Tai-chinh-Bac-Ninh-660307.txt
+2025-07-31 02:59:15,751 - INFO - ⏳ Tạm dừng 4.08 giây giữa các batch...
+2025-07-31 02:59:19,830 - INFO - 📦 Xử lý batch 10 đến 11
+2025-07-31 02:59:32,504 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/11_Quyet-dinh-745-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-nong-nghiep-So-Nong-nghiep-Ninh-Thuan-661354.txt
+2025-07-31 02:59:33,570 - INFO - ⏳ Tạm dừng 3.95 giây giữa các batch...
+2025-07-31 02:59:37,515 - INFO - 📦 Xử lý batch 11 đến 12
+2025-07-31 02:59:51,155 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/12_Quyet-dinh-1901-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-thong-tin-doi-ngoai-So-Van-hoa-Ben-Tre-661338.txt
+2025-07-31 02:59:52,222 - INFO - ⏳ Tạm dừng 4.04 giây giữa các batch...
+2025-07-31 02:59:56,260 - INFO - 📦 Xử lý batch 12 đến 13
+2025-07-31 03:00:08,080 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/13_Quyet-dinh-1900-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-huong-uoc-Uy-ban-xa-Ben-Tre-661337.txt
+2025-07-31 03:00:09,147 - INFO - ⏳ Tạm dừng 4.31 giây giữa các batch...
+2025-07-31 03:00:13,455 - INFO - 📦 Xử lý batch 13 đến 14
+2025-07-31 03:00:31,364 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/14_Quyet-dinh-1899-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-linh-vuc-chan-nuoi-So-Tai-chinh-Ben-Tre-661336.txt
+2025-07-31 03:00:32,428 - INFO - ⏳ Tạm dừng 3.10 giây giữa các batch...
+2025-07-31 03:00:35,531 - INFO - 📦 Xử lý batch 14 đến 15
+2025-07-31 03:00:48,208 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/15_Quyet-dinh-1542-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Van-phong-Uy-ban-tinh-Khanh-Hoa-660958.txt
+2025-07-31 03:00:49,273 - INFO - ⏳ Tạm dừng 3.10 giây giữa các batch...
+2025-07-31 03:00:52,375 - INFO - 📦 Xử lý batch 15 đến 16
+2025-07-31 03:01:04,456 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/16_Quyet-dinh-56-2025-QD-UBND-dinh-muc-kinh-te-ky-thuatdich-vu-cong-ho-tro-doi-moi-cong-nghe-Vung-Tau-660060.txt
+2025-07-31 03:01:05,520 - INFO - ⏳ Tạm dừng 4.51 giây giữa các batch...
+2025-07-31 03:01:10,035 - INFO - 📦 Xử lý batch 16 đến 17
+2025-07-31 03:01:23,824 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/17_Quyet-dinh-854-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-ung-pho-su-co-tran-dau-Uy-ban-huyen-Quang-Ngai-660385.txt
+2025-07-31 03:01:24,889 - INFO - ⏳ Tạm dừng 4.55 giây giữa các batch...
+2025-07-31 03:01:29,434 - INFO - 📦 Xử lý batch 17 đến 18
+2025-07-31 03:01:41,073 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/18_Quyet-dinh-1403-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-cong-thuong-Uy-ban-thanh-pho-Can-Tho-659856.txt
+2025-07-31 03:01:42,141 - INFO - ⏳ Tạm dừng 3.68 giây giữa các batch...
+2025-07-31 03:01:45,821 - INFO - 📦 Xử lý batch 18 đến 19
+2025-07-31 03:01:58,717 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/19_Quyet-dinh-751-QD-UBND-HC-2025-cong-bo-thu-tuc-hanh-chinh-giao-duc-nghe-nghiep-So-Giao-duc-Dong-Thap-660891.txt
+2025-07-31 03:01:59,781 - INFO - ⏳ Tạm dừng 4.05 giây giữa các batch...
+2025-07-31 03:02:03,835 - INFO - 📦 Xử lý batch 19 đến 20
+2025-07-31 03:02:16,355 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/20_Quyet-dinh-750-QD-UBND-HC-2025-cong-bo-thu-tuc-hanh-chinh-Bao-tro-xa-hoi-So-Y-te-Dong-Thap-660890.txt
+2025-07-31 03:02:17,420 - INFO - ⏳ Tạm dừng 4.08 giây giữa các batch...
+2025-07-31 03:02:21,504 - INFO - 📦 Xử lý batch 20 đến 21
+2025-07-31 03:02:33,723 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/21_Quyet-dinh-36-2025-QD-UBND-bai-bo-Quyet-dinh-he-so-dieu-chinh-gia-dat-Thai-Binh-660662.txt
+2025-07-31 03:02:34,788 - INFO - ⏳ Tạm dừng 3.28 giây giữa các batch...
+2025-07-31 03:02:38,073 - INFO - 📦 Xử lý batch 21 đến 22
+2025-07-31 03:02:51,754 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/22_Quyet-dinh-39-2025-QD-UBND-nhiem-vu-quyen-han-So-Van-hoa-Du-lich-Da-Nang-660311.txt
+2025-07-31 03:02:52,818 - INFO - ⏳ Tạm dừng 4.01 giây giữa các batch...
+2025-07-31 03:02:56,828 - INFO - 📦 Xử lý batch 22 đến 23
+2025-07-31 03:03:06,194 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/23_Quyet-dinh-1927-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Quan-ly-xuat-nhap-canh-So-Ngoai-vu-Binh-Dinh-660663.txt
+2025-07-31 03:03:07,258 - INFO - ⏳ Tạm dừng 3.25 giây giữa các batch...
+2025-07-31 03:03:10,509 - INFO - 📦 Xử lý batch 23 đến 24
+2025-07-31 03:03:23,544 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/24_Quyet-dinh-1610-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-quan-ly-de-dieu-Uy-ban-xa-Vung-Tau-660628.txt
+2025-07-31 03:03:24,608 - INFO - ⏳ Tạm dừng 3.94 giây giữa các batch...
+2025-07-31 03:03:28,549 - INFO - 📦 Xử lý batch 24 đến 25
+2025-07-31 03:03:38,932 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/25_Quyet-dinh-1744-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-khoang-san-So-Cong-Thuong-Thai-Nguyen-660626.txt
+2025-07-31 03:03:39,996 - INFO - ⏳ Tạm dừng 3.98 giây giữa các batch...
+2025-07-31 03:03:43,981 - INFO - 📦 Xử lý batch 25 đến 26
+2025-07-31 03:03:55,096 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/26_Quyet-dinh-31-2025-QD-UBND-bai-bo-cac-quyet-dinh-cua-Uy-ban-nhan-dan-Ha-Tinh-660070.txt
+2025-07-31 03:03:56,160 - INFO - ⏳ Tạm dừng 3.09 giây giữa các batch...
+2025-07-31 03:03:59,250 - INFO - 📦 Xử lý batch 26 đến 27
+2025-07-31 03:04:09,659 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/27_Quyet-dinh-33-2025-QD-UBND-chuc-nang-nhiem-vu-Trung-tam-Phat-trien-quy-dat-Hai-Phong-660358.txt
+2025-07-31 03:04:10,724 - INFO - ⏳ Tạm dừng 3.92 giây giữa các batch...
+2025-07-31 03:04:14,646 - INFO - 📦 Xử lý batch 27 đến 28
+2025-07-31 03:04:25,690 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/28_Quyet-dinh-1631-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Nong-nghiep-Moi-truong-Uy-ban-tinh-Nghe-An-660233.txt
+2025-07-31 03:04:26,755 - INFO - ⏳ Tạm dừng 4.82 giây giữa các batch...
+2025-07-31 03:04:31,576 - INFO - 📦 Xử lý batch 28 đến 29
+2025-07-31 03:04:42,949 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/29_Quyet-dinh-1338-QD-UBND-2025-thu-tuc-hanh-chinh-linh-vuc-khoang-san-So-Cong-Thuong-Son-La-660139.txt
+2025-07-31 03:04:44,013 - INFO - ⏳ Tạm dừng 4.14 giây giữa các batch...
+2025-07-31 03:04:48,156 - INFO - 📦 Xử lý batch 29 đến 30
+2025-07-31 03:04:58,438 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/30_Quyet-dinh-1619-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Ban-Quan-ly-Khu-Dong-Nam-Nghe-An-660629.txt
+2025-07-31 03:04:59,503 - INFO - ⏳ Tạm dừng 4.60 giây giữa các batch...
+2025-07-31 03:05:04,108 - INFO - 📦 Xử lý batch 30 đến 31
+2025-07-31 03:05:15,676 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/31_Quyet-dinh-1629-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-Cong-tac-Dan-toc-Uy-ban-huyen-Nghe-An-660546.txt
+2025-07-31 03:05:16,741 - INFO - ⏳ Tạm dừng 3.01 giây giữa các batch...
+2025-07-31 03:05:19,750 - INFO - 📦 Xử lý batch 31 đến 32
+2025-07-31 03:05:32,005 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/32_Quyet-dinh-1141-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-linh-vuc-chan-nuoi-So-Nong-nghiep-Dien-Bien-661620.txt
+2025-07-31 03:05:33,070 - INFO - ⏳ Tạm dừng 3.53 giây giữa các batch...
+2025-07-31 03:05:36,599 - INFO - 📦 Xử lý batch 32 đến 33
+2025-07-31 03:05:47,426 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/33_Quyet-dinh-158-QD-STP-2025-quy-trinh-thu-tuc-hanh-chinh-linh-vuc-cong-chung-So-Tu-phap-Khanh-Hoa-662154.txt
+2025-07-31 03:05:48,493 - INFO - ⏳ Tạm dừng 4.82 giây giữa các batch...
+2025-07-31 03:05:53,315 - INFO - 📦 Xử lý batch 33 đến 34
+2025-07-31 03:06:04,187 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/34_Quyet-dinh-240-QD-VP-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-kiem-lam-So-Nong-nghiep-Tuyen-Quang-660861.txt
+2025-07-31 03:06:05,251 - INFO - ⏳ Tạm dừng 4.43 giây giữa các batch...
+2025-07-31 03:06:09,680 - INFO - 📦 Xử lý batch 34 đến 35
+2025-07-31 03:06:21,611 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/35_Thong-tu-08-2025-TT-BNV-thoi-han-luu-tru-ho-so-tai-lieu-thuoc-linh-vuc-Noi-vu-662187.txt
+2025-07-31 03:06:22,675 - INFO - ⏳ Tạm dừng 3.62 giây giữa các batch...
+2025-07-31 03:06:26,298 - INFO - 📦 Xử lý batch 35 đến 36
+2025-07-31 03:06:36,380 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/36_Quyet-dinh-2334-QD-UBND-2025-dinh-chinh-van-ban-Ho-Chi-Minh-661861.txt
+2025-07-31 03:06:37,445 - INFO - ⏳ Tạm dừng 4.57 giây giữa các batch...
+2025-07-31 03:06:42,016 - INFO - 📦 Xử lý batch 36 đến 37
+2025-07-31 03:06:53,107 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/37_Nghi-quyet-08-2025-NQ-HDND-sua-doi-muc-phan-bo-kinh-phi-xay-dung-van-ban-quy-pham-Bac-Kan-660229.txt
+2025-07-31 03:06:54,171 - INFO - ⏳ Tạm dừng 3.32 giây giữa các batch...
+2025-07-31 03:06:57,493 - INFO - 📦 Xử lý batch 37 đến 38
+2025-07-31 03:07:07,405 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/38_Quyet-dinh-1928-QD-UBND-2025-don-gian-hoa-thu-tuc-hanh-chinh-Ho-tich-So-Tu-phap-Binh-Dinh-661645.txt
+2025-07-31 03:07:08,473 - INFO - ⏳ Tạm dừng 4.65 giây giữa các batch...
+2025-07-31 03:07:13,125 - INFO - 📦 Xử lý batch 38 đến 39
+2025-07-31 03:07:25,418 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/39_Quyet-dinh-1140-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-linh-vuc-Lam-nghiep-So-Nong-nghiep-Dien-Bien-661474.txt
+2025-07-31 03:07:26,482 - INFO - ⏳ Tạm dừng 3.58 giây giữa các batch...
+2025-07-31 03:07:30,067 - INFO - 📦 Xử lý batch 39 đến 40
+2025-07-31 03:07:42,169 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/40_Quyet-dinh-1653-Q%c3%90-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-khoang-san-So-Cong-Thuong-Hue-661519.txt
+2025-07-31 03:07:43,234 - INFO - ⏳ Tạm dừng 3.56 giây giữa các batch...
+2025-07-31 03:07:46,790 - INFO - 📦 Xử lý batch 40 đến 41
+2025-07-31 03:07:56,691 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/41_Quyet-dinh-29-2025-QD-UBND-bai-bo-02-Quyet-dinh-linh-vuc-Tai-chinh-Binh-Phuoc-662766.txt
+2025-07-31 03:07:57,755 - INFO - ⏳ Tạm dừng 4.27 giây giữa các batch...
+2025-07-31 03:08:02,022 - INFO - 📦 Xử lý batch 41 đến 42
+2025-07-31 03:08:12,343 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/42_Quyet-dinh-846-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-khoang-san-So-Cong-Thuong-Quang-Ngai-659815.txt
+2025-07-31 03:08:13,407 - INFO - ⏳ Tạm dừng 4.68 giây giữa các batch...
+2025-07-31 03:08:18,092 - INFO - 📦 Xử lý batch 42 đến 43
+2025-07-31 03:08:31,344 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/43_Quyet-dinh-845-QD-UBND-2025-Quy-trinh-thu-tuc-hanh-chinh-bien-phap-bao-dam-So-Nong-nghiep-Quang-Ngai-659810.txt
+2025-07-31 03:08:32,409 - INFO - ⏳ Tạm dừng 3.68 giây giữa các batch...
+2025-07-31 03:08:36,090 - INFO - 📦 Xử lý batch 43 đến 44
+2025-07-31 03:08:46,968 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/44_Quyet-dinh-1047-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-giao-duc-nghe-nghiep-cap-tinh-Thai-Binh-659874.txt
+2025-07-31 03:08:48,032 - INFO - ⏳ Tạm dừng 4.11 giây giữa các batch...
+2025-07-31 03:08:52,143 - INFO - 📦 Xử lý batch 44 đến 45
+2025-07-31 03:09:01,562 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/45_Quyet-dinh-1146-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Khoang-san-So-Cong-Thuong-Bac-Kan-659873.txt
+2025-07-31 03:09:02,629 - INFO - ⏳ Tạm dừng 4.94 giây giữa các batch...
+2025-07-31 03:09:07,565 - INFO - 📦 Xử lý batch 45 đến 46
+2025-07-31 03:09:19,989 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/46_Quyet-dinh-1138-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-khoang-san-So-Cong-Thuong-Dien-Bien-659834.txt
+2025-07-31 03:09:21,056 - INFO - ⏳ Tạm dừng 4.25 giây giữa các batch...
+2025-07-31 03:09:25,304 - INFO - 📦 Xử lý batch 46 đến 47
+2025-07-31 03:09:38,918 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/47_Quyet-dinh-1608-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-khoa-hoc-cong-nghe-So-Khoa-hoc-Nam-Dinh-659798.txt
+2025-07-31 03:09:39,982 - INFO - ⏳ Tạm dừng 4.49 giây giữa các batch...
+2025-07-31 03:09:44,475 - INFO - 📦 Xử lý batch 47 đến 48
+2025-07-31 03:09:56,883 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/48_Quyet-dinh-763-QD-BXD-2025-Quy-che-hoat-dong-Bo-phan-thuong-truc-chi-dao-xu-ly-thong-tin-bao-chi-659994.txt
+2025-07-31 03:09:57,948 - INFO - ⏳ Tạm dừng 3.92 giây giữa các batch...
+2025-07-31 03:10:01,864 - INFO - 📦 Xử lý batch 48 đến 49
+2025-07-31 03:10:14,440 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/49_Quyet-dinh-1851-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Trong-trot-Uy-ban-xa-Quang-Binh-659933.txt
+2025-07-31 03:10:15,507 - INFO - ⏳ Tạm dừng 3.85 giây giữa các batch...
+2025-07-31 03:10:19,353 - INFO - 📦 Xử lý batch 49 đến 50
+2025-07-31 03:10:29,584 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/50_Quyet-dinh-1771-QD-UBND-2025-dieu-chinh-dich-vu-cong-truc-tuyen-toan-trinh-So-Xay-dung-Thanh-Hoa-659881.txt
+2025-07-31 03:10:30,656 - INFO - ⏳ Tạm dừng 4.08 giây giữa các batch...
+2025-07-31 03:10:34,735 - INFO - 📦 Xử lý batch 50 đến 51
+2025-07-31 03:10:47,424 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/51_Quyet-dinh-1292-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-khoang-san-nganh-Cong-Thuong-Tay-Ninh-659993.txt
+2025-07-31 03:10:48,488 - INFO - ⏳ Tạm dừng 3.37 giây giữa các batch...
+2025-07-31 03:10:51,860 - INFO - 📦 Xử lý batch 51 đến 52
+2025-07-31 03:11:03,077 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/52_Quyet-dinh-1772-QD-UBND-2025-don-gian-hoa-thu-tuc-hanh-chinh-Bao-tro-xa-hoi-So-Y-te-Thanh-Hoa-659876.txt
+2025-07-31 03:11:04,142 - INFO - ⏳ Tạm dừng 4.18 giây giữa các batch...
+2025-07-31 03:11:08,319 - INFO - 📦 Xử lý batch 52 đến 53
+2025-07-31 03:11:19,643 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/53_Quyet-dinh-810-QD-TTPVHCC-2025-cong-bo-thu-tuc-hanh-chinh-Trong-trot-So-Nong-nghiep-Ha-Noi-660335.txt
+2025-07-31 03:11:20,710 - INFO - ⏳ Tạm dừng 4.83 giây giữa các batch...
+2025-07-31 03:11:25,543 - INFO - 📦 Xử lý batch 53 đến 54
+2025-07-31 03:11:36,457 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/54_Quyet-dinh-487-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-quan-ly-de-dieu-Kon-Tum-659936.txt
+2025-07-31 03:11:37,522 - INFO - ⏳ Tạm dừng 3.63 giây giữa các batch...
+2025-07-31 03:11:41,153 - INFO - 📦 Xử lý batch 54 đến 55
+2025-07-31 03:11:54,393 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/55_Quyet-dinh-811-QD-TTPVHCC-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Trong-trot-So-Khoa-hoc-Ha-Noi-660337.txt
+2025-07-31 03:11:55,457 - INFO - ⏳ Tạm dừng 3.99 giây giữa các batch...
+2025-07-31 03:11:59,447 - INFO - 📦 Xử lý batch 55 đến 56
+2025-07-31 03:12:11,857 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/56_Quyet-dinh-41-2025-QD-UBND-bai-bo-Quyet-dinh-07-2019-QD-UBND-Ha-Giang-660228.txt
+2025-07-31 03:12:12,921 - INFO - ⏳ Tạm dừng 3.10 giây giữa các batch...
+2025-07-31 03:12:16,020 - INFO - 📦 Xử lý batch 56 đến 57
+2025-07-31 03:12:25,941 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/57_Quyet-dinh-230-QD-TTPVHCC-2025-cong-bo-Danh-muc-thu-tuc-hanh-chinh-So-Tai-chinh-Quang-Ninh-660715.txt
+2025-07-31 03:12:27,008 - INFO - ⏳ Tạm dừng 3.17 giây giữa các batch...
+2025-07-31 03:12:30,182 - INFO - 📦 Xử lý batch 57 đến 58
+2025-07-31 03:12:41,628 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/58_Quyet-dinh-1644-Q%c3%90-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-linh-vuc-lao-dong-So-Noi-vu-Hue-661518.txt
+2025-07-31 03:12:42,692 - INFO - ⏳ Tạm dừng 4.89 giây giữa các batch...
+2025-07-31 03:12:47,579 - INFO - 📦 Xử lý batch 58 đến 59
+2025-07-31 03:12:58,512 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/59_Quyet-dinh-47-2025-QD-UBND-bai-bo-cac-Quyet-dinh-cua-Uy-ban-nhan-dan-tinh-Bac-Lieu-660738.txt
+2025-07-31 03:12:59,576 - INFO - ⏳ Tạm dừng 4.58 giây giữa các batch...
+2025-07-31 03:13:04,156 - INFO - 📦 Xử lý batch 59 đến 60
+2025-07-31 03:13:15,216 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/60_Quyet-dinh-1853-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Dat-dai-Uy-ban-tinh-Quang-Binh-660700.txt
+2025-07-31 03:13:16,280 - INFO - ⏳ Tạm dừng 3.31 giây giữa các batch...
+2025-07-31 03:13:19,586 - INFO - 📦 Xử lý batch 60 đến 61
+2025-07-31 03:13:30,898 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/61_Quyet-dinh-1852-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Dau-thau-cap-tinh-Quang-Binh-659852.txt
+2025-07-31 03:13:31,962 - INFO - ⏳ Tạm dừng 3.81 giây giữa các batch...
+2025-07-31 03:13:35,777 - INFO - 📦 Xử lý batch 61 đến 62
+2025-07-31 03:13:47,920 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/62_Quyet-dinh-39-2025-QD-UBND-chuc-nang-nhiem-vu-Chi-cuc-Quan-ly-thi-truong-Soc-Trang-660536.txt
+2025-07-31 03:13:48,985 - INFO - ⏳ Tạm dừng 3.44 giây giữa các batch...
+2025-07-31 03:13:52,423 - INFO - 📦 Xử lý batch 62 đến 63
+2025-07-31 03:14:05,067 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/63_Quyet-dinh-934-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-khoang-san-So-Cong-Thuong-Lai-Chau-659914.txt
+2025-07-31 03:14:06,134 - INFO - ⏳ Tạm dừng 4.14 giây giữa các batch...
+2025-07-31 03:14:10,275 - INFO - 📦 Xử lý batch 63 đến 64
+2025-07-31 03:14:22,218 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/64_Quyet-dinh-748-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-Bao-tro-xa-hoi-So-Y-te-Cao-Bang-660622.txt
+2025-07-31 03:14:23,285 - INFO - ⏳ Tạm dừng 3.47 giây giữa các batch...
+2025-07-31 03:14:26,750 - INFO - 📦 Xử lý batch 64 đến 65
+2025-07-31 03:14:40,662 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/65_Quyet-dinh-1025-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-quan-ly-de-dieu-So-Nong-nghiep-Binh-Thuan-660624.txt
+2025-07-31 03:14:41,726 - INFO - ⏳ Tạm dừng 3.94 giây giữa các batch...
+2025-07-31 03:14:45,666 - INFO - 📦 Xử lý batch 65 đến 66
+2025-07-31 03:14:56,165 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/66_Quyet-dinh-1136-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-khoang-san-nganh-Cong-Thuong-Binh-Phuoc-660621.txt
+2025-07-31 03:14:57,231 - INFO - ⏳ Tạm dừng 4.19 giây giữa các batch...
+2025-07-31 03:15:01,418 - INFO - 📦 Xử lý batch 66 đến 67
+2025-07-31 03:15:12,873 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/67_Quyet-dinh-1854-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Giam-ngheo-So-Nong-nghiep-Quang-Binh-659934.txt
+2025-07-31 03:15:13,937 - INFO - ⏳ Tạm dừng 3.10 giây giữa các batch...
+2025-07-31 03:15:17,041 - INFO - 📦 Xử lý batch 67 đến 68
+2025-07-31 03:15:27,977 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/68_Quyet-dinh-17-2025-QD-UBND-bai-bo-Quyet-dinh-28-2023-QD-UBND-Vinh-Phuc-660600.txt
+2025-07-31 03:15:29,043 - INFO - ⏳ Tạm dừng 4.67 giây giữa các batch...
+2025-07-31 03:15:33,712 - INFO - 📦 Xử lý batch 68 đến 69
+2025-07-31 03:15:45,709 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/69_Quyet-dinh-1736-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Thong-tin-doi-ngoai-So-Van-hoa-Hai-Phong-660404.txt
+2025-07-31 03:15:46,774 - INFO - ⏳ Tạm dừng 3.27 giây giữa các batch...
+2025-07-31 03:15:50,041 - INFO - 📦 Xử lý batch 69 đến 70
+2025-07-31 03:16:00,854 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/70_Quyet-dinh-483-QD-UBND-2025-cong-bo-Danh-muc-thu-tuc-hanh-chinh-nganh-Tai-chinh-Kon-Tum-659935.txt
+2025-07-31 03:16:01,918 - INFO - ⏳ Tạm dừng 3.83 giây giữa các batch...
+2025-07-31 03:16:05,747 - INFO - 📦 Xử lý batch 70 đến 71
+2025-07-31 03:16:17,445 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/71_Quyet-dinh-1846-QD-UBND-2025-sua-doi-quy-trinh-Giam-dinh-tu-phap-xay-dung-So-Xay-dung-Quang-Binh-659854.txt
+2025-07-31 03:16:18,509 - INFO - ⏳ Tạm dừng 4.15 giây giữa các batch...
+2025-07-31 03:16:22,662 - INFO - 📦 Xử lý batch 71 đến 72
+2025-07-31 03:16:32,560 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/72_Quyet-dinh-1132-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-huong-uoc-So-Van-hoa-Dien-Bien-661465.txt
+2025-07-31 03:16:33,625 - INFO - ⏳ Tạm dừng 4.98 giây giữa các batch...
+2025-07-31 03:16:38,603 - INFO - 📦 Xử lý batch 72 đến 73
+2025-07-31 03:16:48,855 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/73_Quyet-dinh-967-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-khoang-san-So-Cong-Thuong-Bac-Ninh-661084.txt
+2025-07-31 03:16:49,919 - INFO - ⏳ Tạm dừng 4.72 giây giữa các batch...
+2025-07-31 03:16:54,638 - INFO - 📦 Xử lý batch 73 đến 74
+2025-07-31 03:17:08,714 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/74_Quyet-dinh-527-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-quan-ly-de-dieu-So-Nong-nghiep-Gia-Lai-659853.txt
+2025-07-31 03:17:09,778 - INFO - ⏳ Tạm dừng 4.53 giây giữa các batch...
+2025-07-31 03:17:14,313 - INFO - 📦 Xử lý batch 74 đến 75
+2025-07-31 03:17:27,621 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/75_Quyet-dinh-1835-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-dau-gia-tai-san-nganh-tu-phap-Dong-Nai-661703.txt
+2025-07-31 03:17:28,686 - INFO - ⏳ Tạm dừng 3.13 giây giữa các batch...
+2025-07-31 03:17:31,819 - INFO - 📦 Xử lý batch 75 đến 76
+2025-07-31 03:17:42,612 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/76_Quyet-dinh-528-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Bao-tro-xa-hoi-Gia-Lai-659851.txt
+2025-07-31 03:17:43,683 - INFO - ⏳ Tạm dừng 4.96 giây giữa các batch...
+2025-07-31 03:17:48,641 - INFO - 📦 Xử lý batch 76 đến 77
+2025-07-31 03:18:01,968 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/77_Quyet-dinh-1505-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-khoa-hoc-So-Nong-nghiep-Khanh-Hoa-662261.txt
+2025-07-31 03:18:03,032 - INFO - ⏳ Tạm dừng 4.55 giây giữa các batch...
+2025-07-31 03:18:07,585 - INFO - 📦 Xử lý batch 77 đến 78
+2025-07-31 03:18:21,495 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/78_Quyet-dinh-1834-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-khoang-san-So-Cong-Thuong-Dong-Nai-661701.txt
+2025-07-31 03:18:22,560 - INFO - ⏳ Tạm dừng 3.85 giây giữa các batch...
+2025-07-31 03:18:26,415 - INFO - 📦 Xử lý batch 78 đến 79
+2025-07-31 03:18:36,943 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/79_Quyet-dinh-539-QD-UBND-2025-thuc-hien-thu-tuc-hanh-chinh-khong-phu-thuoc-dia-gioi-hanh-chinh-Ninh-Binh-660138.txt
+2025-07-31 03:18:38,007 - INFO - ⏳ Tạm dừng 4.19 giây giữa các batch...
+2025-07-31 03:18:42,198 - INFO - 📦 Xử lý batch 79 đến 80
+2025-07-31 03:18:52,874 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/80_Nghi-quyet-12-2025-NQ-HDND-bai-bo-cac-nghi-quyet-cua-Hoi-dong-nhan-dan-Ninh-Thuan-662245.txt
+2025-07-31 03:18:53,939 - INFO - ⏳ Tạm dừng 3.31 giây giữa các batch...
+2025-07-31 03:18:57,244 - INFO - 📦 Xử lý batch 80 đến 81
+2025-07-31 03:19:10,266 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/81_Quy-dinh-297-QD-TW-2025-chuc-nang-nhiem-vu-Ban-Chi-dao-Trung-uong-hoan-thien-the-che-phap-luat-659698.txt
+2025-07-31 03:19:11,331 - INFO - ⏳ Tạm dừng 4.55 giây giữa các batch...
+2025-07-31 03:19:15,877 - INFO - 📦 Xử lý batch 81 đến 82
+2025-07-31 03:19:28,238 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/82_Quyet-dinh-74-2025-QD-UBND-sua-doi-Quy-dinh-quan-ly-to-chuc-bo-may-can-bo-Ninh-Binh-659831.txt
+2025-07-31 03:19:29,302 - INFO - ⏳ Tạm dừng 3.34 giây giữa các batch...
+2025-07-31 03:19:32,642 - INFO - 📦 Xử lý batch 82 đến 83
+2025-07-31 03:19:45,448 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/83_Quyet-dinh-1339-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Khoang-san-So-Cong-Thuong-Soc-Trang-659746.txt
+2025-07-31 03:19:46,515 - INFO - ⏳ Tạm dừng 4.05 giây giữa các batch...
+2025-07-31 03:19:50,567 - INFO - 📦 Xử lý batch 83 đến 84
+2025-07-31 03:20:01,320 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/84_Quyet-dinh-1906-QD-BNNMT-2025-cong-bo-thu-tuc-hanh-chinh-noi-bo-linh-vuc-bien-doi-khi-hau-659780.txt
+2025-07-31 03:20:02,386 - INFO - ⏳ Tạm dừng 3.17 giây giữa các batch...
+2025-07-31 03:20:05,561 - INFO - 📦 Xử lý batch 84 đến 85
+2025-07-31 03:20:16,339 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/85_Quyet-dinh-1172-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-khoang-san-So-Cong-Thuong-Yen-Bai-659797.txt
+2025-07-31 03:20:17,403 - INFO - ⏳ Tạm dừng 3.78 giây giữa các batch...
+2025-07-31 03:20:21,188 - INFO - 📦 Xử lý batch 85 đến 86
+2025-07-31 03:20:35,127 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/86_Quyet-dinh-800-QD-TTPVHCC-2025-cong-bo-thu-tuc-hanh-chinh-Tai-nguyen-nuoc-Uy-ban-Thanh-pho-Ha-Noi-659649.txt
+2025-07-31 03:20:36,192 - INFO - ⏳ Tạm dừng 3.84 giây giữa các batch...
+2025-07-31 03:20:40,036 - INFO - 📦 Xử lý batch 86 đến 87
+2025-07-31 03:20:51,786 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/87_Quyet-dinh-37-2025-QD-UBND-bai-bo-Quyet-dinh-156-2001-QD-UB-Da-Nang-659946.txt
+2025-07-31 03:20:52,852 - INFO - ⏳ Tạm dừng 3.90 giây giữa các batch...
+2025-07-31 03:20:56,754 - INFO - 📦 Xử lý batch 87 đến 88
+2025-07-31 03:21:08,961 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/88_Quyet-dinh-1897-QD-UBND-2025-nhiem-vu-chuyen-doi-He-thong-thong-tin-thu-tuc-hanh-chinh-Binh-Dinh-660148.txt
+2025-07-31 03:21:10,026 - INFO - ⏳ Tạm dừng 4.06 giây giữa các batch...
+2025-07-31 03:21:14,089 - INFO - 📦 Xử lý batch 88 đến 89
+2025-07-31 03:21:25,563 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/89_Quyet-dinh-477-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Khoang-san-So-Nong-nghiep-Kon-Tum-659944.txt
+2025-07-31 03:21:26,627 - INFO - ⏳ Tạm dừng 3.74 giây giữa các batch...
+2025-07-31 03:21:30,364 - INFO - 📦 Xử lý batch 89 đến 90
+2025-07-31 03:21:41,568 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/90_Quyet-dinh-744-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-quan-ly-de-dieu-So-Nong-nghiep-Cao-Bang-659991.txt
+2025-07-31 03:21:42,632 - INFO - ⏳ Tạm dừng 3.52 giây giữa các batch...
+2025-07-31 03:21:46,150 - INFO - 📦 Xử lý batch 90 đến 91
+2025-07-31 03:21:58,139 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/91_Quyet-dinh-38-2025-QD-UBND-chuc-nang-nhiem-vu-quyen-han-Chi-cuc-Kiem-lam-Da-Nang-659945.txt
+2025-07-31 03:21:59,203 - INFO - ⏳ Tạm dừng 4.00 giây giữa các batch...
+2025-07-31 03:22:03,206 - INFO - 📦 Xử lý batch 91 đến 92
+2025-07-31 03:22:13,594 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/92_Quyet-dinh-1599-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Cong-chuc-So-Noi-vu-Nghe-An-659979.txt
+2025-07-31 03:22:14,659 - INFO - ⏳ Tạm dừng 3.06 giây giữa các batch...
+2025-07-31 03:22:17,716 - INFO - 📦 Xử lý batch 92 đến 93
+2025-07-31 03:22:30,882 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/93_Quyet-dinh-1214-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-linh-vuc-duong-bo-Uy-ban-tinh-Dak-Lak-659728.txt
+2025-07-31 03:22:31,948 - INFO - ⏳ Tạm dừng 3.05 giây giữa các batch...
+2025-07-31 03:22:34,994 - INFO - 📦 Xử lý batch 93 đến 94
+2025-07-31 03:22:46,360 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/94_Quyet-dinh-1807-QD-UBND-2025-thu-tuc-hanh-chinh-linh-vuc-khoa-hoc-nganh-Nong-nghiep-Dong-Nai-661537.txt
+2025-07-31 03:22:47,424 - INFO - ⏳ Tạm dừng 4.76 giây giữa các batch...
+2025-07-31 03:22:52,187 - INFO - 📦 Xử lý batch 94 đến 95
+2025-07-31 03:23:05,267 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/95_Quyet-dinh-730-QD-UBND-2025-Quy-trinh-thu-tuc-hanh-chinh-linh-vuc-xay-dung-So-Xay-dung-Ninh-Thuan-661253.txt
+2025-07-31 03:23:06,331 - INFO - ⏳ Tạm dừng 3.45 giây giữa các batch...
+2025-07-31 03:23:09,781 - INFO - 📦 Xử lý batch 95 đến 96
+2025-07-31 03:23:22,718 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/96_Quyet-dinh-729-QD-UBND-2025-Quy-trinh-thu-tuc-hanh-chinh-linh-vuc-dat-dai-So-Nong-nghiep-Ninh-Thuan-661355.txt
+2025-07-31 03:23:23,783 - INFO - ⏳ Tạm dừng 4.03 giây giữa các batch...
+2025-07-31 03:23:27,816 - INFO - 📦 Xử lý batch 96 đến 97
+2025-07-31 03:23:38,820 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/97_Quyet-dinh-45-2025-QD-UBND-nhiem-vu-quyen-han-Chi-cuc-An-toan-ve-sinh-thuc-pham-Tay-Ninh-660741.txt
+2025-07-31 03:23:39,884 - INFO - ⏳ Tạm dừng 3.35 giây giữa các batch...
+2025-07-31 03:23:43,238 - INFO - 📦 Xử lý batch 97 đến 98
+2025-07-31 03:23:57,040 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/98_Quyet-dinh-1879-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-dau-thau-So-Tai-chinh-Ben-Tre-661335.txt
+2025-07-31 03:23:58,107 - INFO - ⏳ Tạm dừng 4.60 giây giữa các batch...
+2025-07-31 03:24:02,710 - INFO - 📦 Xử lý batch 98 đến 99
+2025-07-31 03:24:14,902 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/99_Quyet-dinh-30-2025-QD-UBND-nhiem-vu-chi-to-chuc-thuc-hien-sap-xep-don-vi-hanh-chinh-Hung-Yen-660672.txt
+2025-07-31 03:24:15,966 - INFO - ⏳ Tạm dừng 3.41 giây giữa các batch...
+2025-07-31 03:24:19,373 - INFO - 📦 Xử lý batch 99 đến 100
+2025-07-31 03:24:31,173 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/100_Quyet-dinh-1485-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-quan-ly-cong-san-Uy-ban-huyen-Khanh-Hoa-660447.txt
+2025-07-31 03:24:32,237 - INFO - ⏳ Tạm dừng 3.77 giây giữa các batch...
+2025-07-31 03:24:36,012 - INFO - 📦 Xử lý batch 100 đến 101
+2025-07-31 03:24:48,089 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/101_Quyet-dinh-37-2025-QD-UBND-nhiem-vu-quyen-han-Chi-cuc-Phat-trien-nong-thon-Ha-Giang-659687.txt
+2025-07-31 03:24:49,153 - INFO - ⏳ Tạm dừng 4.50 giây giữa các batch...
+2025-07-31 03:24:53,651 - INFO - 📦 Xử lý batch 101 đến 102
+2025-07-31 03:25:08,112 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/102_Quyet-dinh-1176-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-khu-kinh-te-Ban-Quan-ly-Khu-cong-nghiep-Bac-Lieu-659681.txt
+2025-07-31 03:25:09,177 - INFO - ⏳ Tạm dừng 3.07 giây giữa các batch...
+2025-07-31 03:25:12,251 - INFO - 📦 Xử lý batch 102 đến 103
+2025-07-31 03:25:25,706 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/103_Quyet-dinh-38-2025-QD-UBND-bai-bo-quyet-dinh-cua-Uy-ban-tinh-Ha-Giang-659688.txt
+2025-07-31 03:25:26,771 - INFO - ⏳ Tạm dừng 3.42 giây giữa các batch...
+2025-07-31 03:25:30,194 - INFO - 📦 Xử lý batch 103 đến 104
+2025-07-31 03:25:40,258 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/104_Quyet-dinh-1492-QD-UBND-2025-Quy-trinh-thu-tuc-hanh-chinh-giao-duc-dao-tao-So-Giao-duc-Khanh-Hoa-660535.txt
+2025-07-31 03:25:41,323 - INFO - ⏳ Tạm dừng 4.21 giây giữa các batch...
+2025-07-31 03:25:45,538 - INFO - 📦 Xử lý batch 104 đến 105
+2025-07-31 03:25:57,082 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/105_Quyet-dinh-77-2025-QD-UBND-chuc-nang-nhiem-vu-Trung-tam-Giao-duc-thuong-xuyen-Ninh-Binh-660114.txt
+2025-07-31 03:25:58,149 - INFO - ⏳ Tạm dừng 3.72 giây giữa các batch...
+2025-07-31 03:26:01,872 - INFO - 📦 Xử lý batch 105 đến 106
+2025-07-31 03:26:13,080 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/106_Quyet-dinh-1128-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-linh-vuc-dang-kiem-So-Xay-dung-Dien-Bien-661471.txt
+2025-07-31 03:26:14,144 - INFO - ⏳ Tạm dừng 3.75 giây giữa các batch...
+2025-07-31 03:26:17,890 - INFO - 📦 Xử lý batch 106 đến 107
+2025-07-31 03:26:30,958 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/107_Quyet-dinh-28-2025-QD-UBND-chuc-nang-nhiem-vu-Van-phong-Uy-ban-nhan-dan-tinh-Dak-Lak-660848.txt
+2025-07-31 03:26:32,022 - INFO - ⏳ Tạm dừng 3.82 giây giữa các batch...
+2025-07-31 03:26:35,839 - INFO - 📦 Xử lý batch 107 đến 108
+2025-07-31 03:26:48,359 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/108_Quyet-dinh-1897-QD-UBND-2025-nhiem-vu-chuyen-doi-He-thong-thong-tin-thu-tuc-hanh-chinh-Binh-Dinh-660148.txt
+2025-07-31 03:26:49,426 - INFO - ⏳ Tạm dừng 3.33 giây giữa các batch...
+2025-07-31 03:26:52,758 - INFO - 📦 Xử lý batch 108 đến 109
+2025-07-31 03:27:04,293 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/109_Quyet-dinh-477-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Khoang-san-So-Nong-nghiep-Kon-Tum-659944.txt
+2025-07-31 03:27:05,358 - INFO - ⏳ Tạm dừng 3.66 giây giữa các batch...
+2025-07-31 03:27:09,020 - INFO - 📦 Xử lý batch 109 đến 110
+2025-07-31 03:27:21,170 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/110_Quyet-dinh-744-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-quan-ly-de-dieu-So-Nong-nghiep-Cao-Bang-659991.txt
+2025-07-31 03:27:22,237 - INFO - ⏳ Tạm dừng 4.72 giây giữa các batch...
+2025-07-31 03:27:26,958 - INFO - 📦 Xử lý batch 110 đến 111
+2025-07-31 03:27:37,582 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/111_Quyet-dinh-38-2025-QD-UBND-chuc-nang-nhiem-vu-quyen-han-Chi-cuc-Kiem-lam-Da-Nang-659945.txt
+2025-07-31 03:27:38,647 - INFO - ⏳ Tạm dừng 3.43 giây giữa các batch...
+2025-07-31 03:27:42,073 - INFO - 📦 Xử lý batch 111 đến 112
+2025-07-31 03:27:54,162 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/112_Quyet-dinh-1599-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-linh-vuc-Cong-chuc-So-Noi-vu-Nghe-An-659979.txt
+2025-07-31 03:27:55,226 - INFO - ⏳ Tạm dừng 3.25 giây giữa các batch...
+2025-07-31 03:27:58,476 - INFO - 📦 Xử lý batch 112 đến 113
+2025-07-31 03:28:11,604 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/113_Quyet-dinh-1214-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-linh-vuc-duong-bo-Uy-ban-tinh-Dak-Lak-659728.txt
+2025-07-31 03:28:12,669 - INFO - ⏳ Tạm dừng 3.57 giây giữa các batch...
+2025-07-31 03:28:16,243 - INFO - 📦 Xử lý batch 113 đến 114
+2025-07-31 03:28:28,861 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/114_Quyet-dinh-1807-QD-UBND-2025-thu-tuc-hanh-chinh-linh-vuc-khoa-hoc-nganh-Nong-nghiep-Dong-Nai-661537.txt
+2025-07-31 03:28:29,925 - INFO - ⏳ Tạm dừng 3.56 giây giữa các batch...
+2025-07-31 03:28:33,487 - INFO - 📦 Xử lý batch 114 đến 115
+2025-07-31 03:28:44,208 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/115_Quyet-dinh-730-QD-UBND-2025-Quy-trinh-thu-tuc-hanh-chinh-linh-vuc-xay-dung-So-Xay-dung-Ninh-Thuan-661253.txt
+2025-07-31 03:28:45,273 - INFO - ⏳ Tạm dừng 3.69 giây giữa các batch...
+2025-07-31 03:28:48,958 - INFO - 📦 Xử lý batch 115 đến 116
+2025-07-31 03:29:00,612 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/116_Quyet-dinh-729-QD-UBND-2025-Quy-trinh-thu-tuc-hanh-chinh-linh-vuc-dat-dai-So-Nong-nghiep-Ninh-Thuan-661355.txt
+2025-07-31 03:29:01,676 - INFO - ⏳ Tạm dừng 3.30 giây giữa các batch...
+2025-07-31 03:29:04,980 - INFO - 📦 Xử lý batch 116 đến 117
+2025-07-31 03:29:17,286 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/117_Quyet-dinh-45-2025-QD-UBND-nhiem-vu-quyen-han-Chi-cuc-An-toan-ve-sinh-thuc-pham-Tay-Ninh-660741.txt
+2025-07-31 03:29:18,350 - INFO - ⏳ Tạm dừng 3.20 giây giữa các batch...
+2025-07-31 03:29:21,550 - INFO - 📦 Xử lý batch 117 đến 118
+2025-07-31 03:29:35,135 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/118_Quyet-dinh-1879-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-dau-thau-So-Tai-chinh-Ben-Tre-661335.txt
+2025-07-31 03:29:36,199 - INFO - ⏳ Tạm dừng 3.48 giây giữa các batch...
+2025-07-31 03:29:39,678 - INFO - 📦 Xử lý batch 118 đến 119
+2025-07-31 03:29:51,601 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/119_Quyet-dinh-30-2025-QD-UBND-nhiem-vu-chi-to-chuc-thuc-hien-sap-xep-don-vi-hanh-chinh-Hung-Yen-660672.txt
+2025-07-31 03:29:52,665 - INFO - ⏳ Tạm dừng 4.58 giây giữa các batch...
+2025-07-31 03:29:57,242 - INFO - 📦 Xử lý batch 119 đến 120
+2025-07-31 03:30:09,672 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/120_Quyet-dinh-1485-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-quan-ly-cong-san-Uy-ban-huyen-Khanh-Hoa-660447.txt
+2025-07-31 03:30:10,739 - INFO - ⏳ Tạm dừng 3.58 giây giữa các batch...
+2025-07-31 03:30:14,318 - INFO - 📦 Xử lý batch 120 đến 121
+2025-07-31 03:30:24,385 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/121_Quyet-dinh-37-2025-QD-UBND-nhiem-vu-quyen-han-Chi-cuc-Phat-trien-nong-thon-Ha-Giang-659687.txt
+2025-07-31 03:30:25,449 - INFO - ⏳ Tạm dừng 4.80 giây giữa các batch...
+2025-07-31 03:30:30,252 - INFO - 📦 Xử lý batch 121 đến 122
+2025-07-31 03:30:42,418 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/122_Quyet-dinh-1176-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-khu-kinh-te-Ban-Quan-ly-Khu-cong-nghiep-Bac-Lieu-659681.txt
+2025-07-31 03:30:43,486 - INFO - ⏳ Tạm dừng 4.16 giây giữa các batch...
+2025-07-31 03:30:47,641 - INFO - 📦 Xử lý batch 122 đến 123
+2025-07-31 03:30:59,821 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/123_Quyet-dinh-38-2025-QD-UBND-bai-bo-quyet-dinh-cua-Uy-ban-tinh-Ha-Giang-659688.txt
+2025-07-31 03:31:00,886 - INFO - ⏳ Tạm dừng 3.65 giây giữa các batch...
+2025-07-31 03:31:04,538 - INFO - 📦 Xử lý batch 123 đến 124
+2025-07-31 03:31:16,749 - INFO - ✅ Đã lưu: download_bomayhanhchinh_2/124_Quyet-dinh-1492-QD-UBND-2025-Quy-trinh-thu-tuc-hanh-chinh-giao-duc-dao-tao-So-Giao-duc-Khanh-Hoa-660535.txt
+2025-07-31 03:31:17,813 - INFO - ⏳ Tạm dừng 4.84 giây giữa các batch...
+2025-07-31 03:31:22,649 - INFO - 📦 Xử lý batch 124 đến 125
+2025-07-31 03:31:42,349 - ERROR - ❌ Không tìm thấy nội dung chính tại https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-77-2025-QD-UBND-chuc-nang-nhiem-vu-Trung-tam-Giao-duc-thuong-xuyen-Ninh-Binh-660114.aspx - đã lưu ảnh lỗi download_bomayhanhchinh_2/error_file_124.png
+2025-07-31 03:31:43,416 - INFO - ⏳ Tạm dừng 4.28 giây giữa các batch...
+2025-07-31 03:31:47,698 - INFO - 📦 Xử lý batch 125 đến 126
+2025-07-31 03:32:09,297 - ERROR - ❌ Không tìm thấy nội dung chính tại https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1128-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-linh-vuc-dang-kiem-So-Xay-dung-Dien-Bien-661471.aspx - đã lưu ảnh lỗi download_bomayhanhchinh_2/error_file_125.png
+2025-07-31 03:32:10,363 - INFO - ⏳ Tạm dừng 3.80 giây giữa các batch...
+2025-07-31 03:32:14,160 - INFO - 📦 Xử lý batch 126 đến 127
+2025-07-31 03:32:32,187 - ERROR - ❌ Không tìm thấy nội dung chính tại https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-28-2025-QD-UBND-chuc-nang-nhiem-vu-Van-phong-Uy-ban-nhan-dan-tinh-Dak-Lak-660848.aspx - đã lưu ảnh lỗi download_bomayhanhchinh_2/error_file_126.png
+2025-07-31 03:32:33,250 - INFO - ⏳ Tạm dừng 4.26 giây giữa các batch...
+2025-07-31 03:32:37,514 - INFO - 📦 Xử lý batch 127 đến 128
+2025-07-31 03:32:55,987 - ERROR - ❌ Không tìm thấy nội dung chính tại https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1822-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Thi-dua-khen-thuong-So-Noi-vu-Quang-Binh-659745.aspx - đã lưu ảnh lỗi download_bomayhanhchinh_2/error_file_127.png
+2025-07-31 03:32:57,051 - INFO - ⏳ Tạm dừng 3.42 giây giữa các batch...
+2025-07-31 03:33:00,475 - INFO - 📦 Xử lý batch 128 đến 129
+2025-07-31 03:33:18,902 - ERROR - ❌ Không tìm thấy nội dung chính tại https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1821-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Duong-bo-So-Xay-dung-Quang-Binh-659743.aspx - đã lưu ảnh lỗi download_bomayhanhchinh_2/error_file_128.png
+2025-07-31 03:33:19,965 - INFO - ⏳ Tạm dừng 3.25 giây giữa các batch...
+2025-07-31 03:33:23,217 - INFO - 📦 Xử lý batch 129 đến 130
+2025-07-31 03:33:41,853 - ERROR - ❌ Không tìm thấy nội dung chính tại https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1574-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Khoa-hoc-cong-nghe-So-Nong-nghiep-Nghe-An-659521.aspx - đã lưu ảnh lỗi download_bomayhanhchinh_2/error_file_129.png
+2025-07-31 03:33:42,916 - INFO - ⏳ Tạm dừng 3.47 giây giữa các batch...
+2025-07-31 03:33:46,387 - INFO - 📦 Xử lý batch 130 đến 131
+2025-07-31 03:34:04,419 - ERROR - ❌ Không tìm thấy nội dung chính tại https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1575-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Quan-ly-de-dieu-So-Nong-nghiep-Nghe-An-659508.aspx - đã lưu ảnh lỗi download_bomayhanhchinh_2/error_file_130.png
+2025-07-31 03:34:05,484 - INFO - ⏳ Tạm dừng 3.78 giây giữa các batch...
+2025-07-31 03:34:09,269 - INFO - 📦 Xử lý batch 131 đến 132
+2025-07-31 03:34:29,182 - ERROR - ❌ Không tìm thấy nội dung chính tại https://thuvienphapluat.vn/van-ban/Bao-hiem/Quyet-dinh-1581-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-lao-dong-tien-luong-So-Noi-vu-Nam-Dinh-659467.aspx - đã lưu ảnh lỗi download_bomayhanhchinh_2/error_file_131.png
+2025-07-31 03:34:30,245 - INFO - ⏳ Tạm dừng 4.08 giây giữa các batch...
+2025-07-31 03:34:34,323 - INFO - 📦 Xử lý batch 132 đến 133
+2025-07-31 03:34:53,717 - ERROR - ❌ Không tìm thấy nội dung chính tại https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1359-QD-UBND-2025-quy-trinh-thu-tuc-hanh-chinh-So-Nong-nghiep-Moi-truong-Can-Tho-659504.aspx - đã lưu ảnh lỗi download_bomayhanhchinh_2/error_file_132.png
+2025-07-31 03:34:54,780 - INFO - ⏳ Tạm dừng 4.16 giây giữa các batch...
+2025-07-31 03:34:58,941 - INFO - 📦 Xử lý batch 133 đến 134
+2025-07-31 03:35:18,398 - ERROR - ❌ Không tìm thấy nội dung chính tại https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1168-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Bao-tro-xa-hoi-Uy-ban-huyen-Bac-Lieu-659394.aspx - đã lưu ảnh lỗi download_bomayhanhchinh_2/error_file_133.png
+2025-07-31 03:35:19,462 - INFO - ⏳ Tạm dừng 3.94 giây giữa các batch...
+2025-07-31 03:35:23,403 - INFO - 📦 Xử lý batch 134 đến 135
+2025-07-31 03:35:43,799 - ERROR - ❌ Không tìm thấy nội dung chính tại https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1167-QD-UBND-2025-cong-bo-thu-tuc-hanh-chinh-Bao-tro-xa-hoi-So-Y-te-Bac-Lieu-659393.aspx - đã lưu ảnh lỗi download_bomayhanhchinh_2/error_file_134.png
+2025-07-31 03:35:44,862 - INFO - ⏳ Tạm dừng 3.63 giây giữa các batch...
+2025-07-31 03:35:48,493 - INFO - 📦 Xử lý batch 135 đến 136
+2025-07-31 03:36:07,629 - ERROR - ❌ Không tìm thấy nội dung chính tại https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1360-QD-UBND-2025-cong-bo-Danh-muc-thu-tuc-hanh-chinh-So-Nong-nghiep-Can-Tho-659506.aspx - đã lưu ảnh lỗi download_bomayhanhchinh_2/error_file_135.png
+2025-07-31 03:36:08,693 - INFO - ⏳ Tạm dừng 4.07 giây giữa các batch...
