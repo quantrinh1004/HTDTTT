@@ -1,0 +1,338 @@
+MỤC LỤC
+                                VĂN BẢN
+In mục lục
+QUYẾT ĐỊNH PHÊ DUYỆT DANH MỤC NHIỆM VỤ THỰC HIỆN KẾ HOẠCH CHUYỂN ĐỔI HỆ THỐNG THÔNG TIN GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH VÀ CỔNG THÔNG TIN ĐIỆN TỬ TỈNH BÌNH ĐỊNH PHỤC VỤ MÔ HÌNH CHÍNH QUYỀN ĐỊA PHƯƠNG HAI CẤP VÀ SÁP NHẬP TỈNH
+Điều 1. Phê duyệt kèm theo Quyết định này Danh mục nhiệm vụ thực hiện kế hoạch chuyển đổi Hệ thống thông tin giải quyết thủ tục hành chính và Cổng thông tin điện tử tỉnh Bình Định, nhằm phục vụ triển khai mô hình chính quyền địa phương hai cấp và lộ trình sáp nhập tỉnh.
+Điều 2. Tổ chức thực hiện
+Điều 3. Chánh Văn phòng Ủy ban nhân dân tỉnh; Thủ trưởng các sở, ban, ngành thuộc tỉnh; Chủ tịch Ủy ban nhân dân các huyện, thị xã, thành phố; Chủ tịch Ủy ban nhân dân các xã, phường, thị trấn và Thủ trưởng các cơ quan, đơn vị, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này kể từ ngày ký ban hành./.
+DANH MỤC 26 NHIỆM VỤ THỰC HIỆN KẾ HOẠCH CHUYỂN ĐỔI HỆ THỐNG THÔNG TIN
+A. DANH MỤC 19 NHIỆM VỤ THỰC HIỆN KẾ HOẠCH CHUYỂN ĐỔI HỆ THỐNG THÔNG TIN GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH
+I. GIAI ĐOẠN 1 (Bỏ cấp huyện chuyển sang mô hình 2 cấp - hoàn thành trước ngày 1/7/2025)
+B. DANH MỤC 07 NHIỆM VỤ THỰC HIỆN KẾ HOẠCH CHUYỂN ĐỔI CỔNG THÔNG TIN ĐIỆN TỬ
+I. GIAI ĐOẠN 1 (Bỏ cấp huyện chuyển sang mô hình 2 cấp - hoàn thành trước ngày 1/7/2025)
+II. GIAI ĐOẠN 2 (Sau khi bỏ cấp huyện, thực hiện việc sáp nhập tỉnh - hoàn thành trước ngày 25/8/2025)
+ỦY BAN NHÂN DÂN
+TỈNH BÌNH ĐỊNH
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 1897/QĐ-UBND
+Bình Định, ngày
+  04 tháng 6 năm 2025
+QUYẾT ĐỊNH
+PHÊ DUYỆT DANH MỤC NHIỆM VỤ THỰC HIỆN KẾ HOẠCH CHUYỂN ĐỔI HỆ
+THỐNG THÔNG TIN GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH VÀ CỔNG THÔNG TIN ĐIỆN TỬ TỈNH
+BÌNH ĐỊNH PHỤC VỤ MÔ HÌNH CHÍNH QUYỀN ĐỊA PHƯƠNG HAI CẤP VÀ SÁP NHẬP TỈNH
+CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH
+Căn cứ Luật Tổ chức Chính
+quyền địa phương ngày 19/02/2025;
+Căn cứ Quyết định số
+1841-QĐ/TU ngày 15/5/2025 của Ban Thường vụ Tỉnh ủy phê duyệt Danh mục nhiệm vụ
+thực hiện mô hình điểm thúc đẩy triển khai Nghị quyết 57-NQ/TW Đề án 06 và Đề
+án chuyển đổi số trong cơ quan đảng;
+Căn cứ Công văn số
+1494/UBND-KGVX ngày 31/5/2025 của Ủy ban nhân dân tỉnh Gia Lai về việc góp ý dự
+thảo Kế hoạch đảm bảo hạ tầng, nền tảng số, hệ thống thông tin trong quá trình
+triển khai Đề án sắp xếp đơn vị hành chính cấp tỉnh;
+Theo đề nghị của Chánh Văn
+phòng Ủy ban nhân dân tỉnh tại Tờ trình số 487/TTr-VPUBND ngày 02/6/2025.
+QUYẾT ĐỊNH:
+Điều 1.
+Phê duyệt kèm theo Quyết định này Danh mục nhiệm vụ
+thực hiện kế hoạch chuyển đổi Hệ thống thông tin giải quyết thủ tục hành chính
+và Cổng thông tin điện tử tỉnh Bình Định, nhằm phục vụ triển khai mô hình chính
+quyền địa phương hai cấp và lộ trình sáp nhập tỉnh.
+Điều 2. Tổ
+chức thực hiện
+1.
+Thủ trưởng các cơ
+quan được phân công nhiệm vụ:
+- Chủ trì, phối hợp với các cơ
+quan, đơn vị, địa phương liên quan để tổ chức triển khai thực hiện các nhiệm vụ
+đã được phê duyệt, đảm bảo đáp ứng đầy đủ mục tiêu, yêu cầu và tiến độ theo quy
+định.
+- Thường xuyên trao đổi, phối hợp
+với Văn phòng Ủy ban nhân dân tỉnh để kịp thời phản ánh, đề xuất giải pháp tháo
+gỡ các khó khăn, vướng mắc trong quá trình thực hiện. Trường hợp vượt thẩm quyền,
+tổng hợp báo cáo UBND tỉnh xem xét, chỉ đạo.
+2.
+Giao Văn phòng Ủy ban
+nhân dân tỉnh là cơ quan đầu mối theo dõi, hướng dẫn, kiểm tra và đôn đốc việc
+triển khai thực hiện các nhiệm vụ được phê duyệt tại Điều 1 của Quyết định này.
+Tổng hợp tình hình thực hiện, định kỳ hoặc đột xuất báo cáo Chủ tịch UBND tỉnh
+để kịp thời chỉ đạo.
+Điều 3
+.
+Chánh Văn phòng Ủy ban nhân dân tỉnh; Thủ trưởng các sở,
+ban, ngành thuộc tỉnh; Chủ tịch Ủy ban nhân dân các huyện, thị xã, thành phố;
+Chủ tịch Ủy ban nhân dân các xã, phường, thị trấn và Thủ trưởng các cơ quan,
+đơn vị, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này
+kể từ ngày ký ban hành./.
+KT. CHỦ TỊCH
+PHÓ CHỦ TỊCH
+Lâm Hải Giang
+DANH MỤC
+26 NHIỆM VỤ THỰC HIỆN KẾ HOẠCH CHUYỂN ĐỔI HỆ THỐNG THÔNG TIN
+(Kèm theo Quyết định số: 1897/QĐ-UBND ngày 04/6/2025 của Chủ tịch UBND tỉnh)
+A. DANH MỤC
+19 NHIỆM VỤ THỰC HIỆN KẾ HOẠCH CHUYỂN ĐỔI HỆ THỐNG THÔNG TIN GIẢI QUYẾT THỦ TỤC
+HÀNH CHÍNH
+STT
+Nhiệm vụ
+Đơn vị chủ trì
+Đơn vị phối
+hợp
+Thời gian
+hoàn thành
+Kết quả thực hiện
+Ghi chú
+I. GIAI
+  ĐOẠN 1 (Bỏ cấp huyện chuyển sang mô hình 2 cấp - hoàn thành trước ngày
+  1/7/2025)
+1
+Thành lập tổ triển khai kế hoạch
+  hợp nhất
+Văn phòng UBND tỉnh (PVHCC)
+Các sở, ban, ngành thuộc tỉnh
+05/6/2025
+Quyết định của Văn phòng UBND tỉnh
+2
+Hướng dẫn UBND cấp huyện, cấp
+  xã thống kê, phân loại, xử lý hồ sơ thủ tục hành chính trên Hệ thống
+  VNPT-Igate để bàn giao cho UBND cấp xã mới hoặc các cơ quan, chuyên môn của tỉnh
+  sau khi sáp nhập
+Văn phòng UBND tỉnh (PVHCC)
+Văn phòng UBND tỉnh (CCKS)
+10/6/2025
+Văn bản hướng dẫn
+3
+Đẩy nhanh tiến độ hoàn thành
+  việc giải quyết hồ sơ có thời hạn xử lý trước ngày 01/07/2025 trên Hệ thống
+  VNPT-Igate
+UBND các huyện, thị xã, thành phố; UBND các xã, phường, thị trấn
+Văn phòng UBND tỉnh (PVHCC)
+30/6/2025
+Kết thúc tất cả quy trình giải quyết hồ sơ trên Hệ thống VNPT - iGate
+  và lưu trữ hồ sơ theo quy định
+Báo cáo tiến độ hàng tuần
+4
+Tập huấn sử dụng Hệ thống
+  VNPT-iGate phiên bản mới và cách thức xử lý hồ sơ còn chưa thể giải quyết trước
+  ngày 30/6/2025 trên Hệ thống cũ
+Văn phòng UBND tỉnh (PVHCC)
+UBND các huyện, thị xã, thành phố; UBND các xã, phường, thị trấn
+15/6/2025
+Tập huấn hướng dẫn thực hiện
+5
+Thống kê, phân loại hồ sơ
+  TTHC chưa giải quyết xong trước ngày 30/6/2025 để bàn giao
+UBND các huyện, thị xã, thành phố và UBND các xã, phường, thị trấn
+Văn phòng UBND tỉnh (PVHCC); UBND xã mới; Các sở, ban thuộc tỉnh
+30/6/2025
+Danh sách hồ sơ chưa giải quyết xong, gắn với tài khoản sẽ xử lý tiếp
+  theo
+6
+Bàn giao hồ sơ chưa giải quyết
+  xong trên Hệ thống VNPT-iGate đến ngày 30/6/2025
+UBND các huyện, thị xã, thành phố; UBND các xã, phường, thị trấn
+Sở, ban ngành thuộc tỉnh; UBND cấp xã mới
+30/6/2025
+Hoàn thành việc bàn giao hồ sơ chưa thể hoàn thành trên hệ thống cũ, gắn
+  với tài khoản xử lý
+7
+Tham mưu ban hành Danh mục mã
+  định danh cơ quan cấp xã sau thi thực hiện bỏ cấp huyện
+Sở Khoa học và Công nghệ
+Văn phòng UBND tỉnh (PVHCC)
+20/6/2025
+Danh sách cơ quan cấp xã và Danh mục mã định danh tương ứng
+8
+Cung cấp thông tin cán bộ,
+  công chức, viên chức, người làm việc tại Trung tâm PVHCC, phòng, ban chuyên
+  môn cấp xã tham gia giải quyết hồ sơ TTHC thuộc thẩm quyền của cấp xã mới
+UBND các huyện, thị xã, thành phố; UBND các xã, phường, thị trấn
+Văn phòng UBND tỉnh (PVHCC)
+20/6/2025
+Văn bản cung cấp thông tin
+9
+Cung cấp thông tin cán bộ,
+  công chức, viên chức, người làm việc tham gia giải quyết hồ sơ TTHC thuộc thẩm
+  quyền của sở, ban được tiếp nhận từ UBND cấp huyện
+Các sở, ban, ngành thuộc tỉnh
+Văn phòng UBND tỉnh (PVHCC)
+20/6/2025
+Văn bản cung cấp thông tin
+10
+Đăng ký chữ ký số cho người
+  tiếp nhận hồ sơ, trả kết quả thuộc UBND cấp xã mới
+UBND các huyện, thị xã, thành phố; UBND các xã, phường, thị trấn
+Sở Khoa học và Công nghệ
+30/6/2025
+Tất cả người dự kiến tiếp nhận
+  và trả kết quả thuộc UBND cấp xã mới có chữ ký số trước ngày 30/6/2025
+11
+Cấu hình hệ thống, thiết lập
+  các thông tin liên quan đến tài khoản, quy trình giải quyết TTHC, … của hệ thống
+  đảm bảo đồng bộ, thông suốt, an toàn cho các đơn vị
+VNPT Bình Định
+Văn phòng UBND tỉnh (PVHCC)
+30/6/2025
+Hệ thống được kiểm tra, cấu
+  hình, cập nhật hoàn chỉnh, vận hành ổn định, thông suốt, hiệu quả
+12
+Khóa tài khoản người dùng cấp
+  huyện, tài khoản cấp xã/phường không còn tham gia giải quyết hồ sơ thủ tục
+  hành chính sau khi sáp nhập
+Văn phòng UBND tỉnh (PVHCC)
+VNPT Bình Định
+01/7/2025
+Khóa tài khoản cấp huyện, tài
+  khoản cấp xã/phường không còn tham gia giải quyết hồ sơ thủ tục hành chính
+13
+Cung cấp danh sách tài khoản
+  thụ hưởng của các đơn vị hành chính cấp xã; các sở ban tương ứng sau sáp nhập
+UBND các xã, phường mới; các sở, ban liên quan
+Văn phòng UBND tỉnh (PVHCC)
+01/7/2025
+Danh sách tài khoản thụ hưởng
+  của các đơn vị cung cấp dịch vụ công, thực hiện thủ tục hành chính
+Nếu đơn vị đăng ký được tài khoản thụ hưởng sớm hơn thì cung cấp sớm
+  hơn để cấu hình
+14
+Hoàn thành cấu hình tài khoản
+  thụ hưởng của các đơn vị hành chính cấp xã; các sở ban tương ứng sau sáp nhập
+VNPT Bình Định
+Văn phòng UBND tỉnh (PVHCC)
+01/7/2025
+Việc thanh toán phí, lệ phí của
+  các đơn vị liên quan đáp ứng đúng yêu cầu quy định
+II. GIAI ĐOẠN 2 (Sau khi bỏ
+  cấp huyện, thực hiện việc sáp nhập tỉnh - hoàn thành trước ngày 25/8/2025)
+15
+Đánh giá chi tiết Hệ thống
+  thông tin giải quyết TTHC tỉnh Bình Định và Hệ thống thông tin giải quyết
+  TTHC tỉnh Gia Lai (gọi tắt là 02 Hệ thống)
+Văn phòng UBND tỉnh Bình Định (Tổ triển khai kế hoạch hợp nhất)
+Văn phòng UBND tỉnh Gia Lai, Sở Khoa học và Công nghệ tỉnh Gia Lai
+10/7/2025
+Báo cáo kết quả đánh giá
+16
+Xây dựng trình phê duyệt
+  phương án hợp nhất 02 Hệ thống
+Văn phòng UBND tỉnh Bình Định (Tổ triển khai kế hoạch hợp nhất)
+Văn phòng UBND tỉnh Gia Lai, Sở Khoa học và Công nghệ tỉnh Gia Lai
+20/7/2025
+Đề án hợp nhất 02 Hệ thống được
+  phê duyệt
+17
+Triển khai thử nghiệm phương
+  án hợp nhất 02 Hệ thống theo giải pháp đã được phê duyệt
+Văn phòng UBND tỉnh Bình Định (Tổ triển khai kế hoạch hợp nhất)
+Văn phòng UBND tỉnh Gia Lai, Sở Khoa học và Công nghệ tỉnh Gia Lai
+10/8/2025
+Báo cáo kết quả triển khai thử
+  nghiệm
+18
+Tổ chức tập huấn, đào tạo cho
+  các đối tượng sử dụng hệ thống, chuyển giao quản trị và vận hành Hệ thống
+  thông tin giải quyết TTHC tỉnh Gia Lai (mới)
+Văn phòng UBND tỉnh Bình Định (Tổ triển khai kế hoạch hợp nhất)
+Văn phòng UBND tỉnh Gia Lai, Sở Khoa học và Công nghệ tỉnh Gia Lai
+15/8/2025
+Báo cáo kết quả tập huấn, đào
+  tạo
+19
+Chuyển đổi, hợp nhất chính thức,
+  toàn bộ 02 Hệ thống thành Hệ thống thông tin giải quyết TTHC tỉnh Gia Lai (mới)
+Văn phòng UBND tỉnh Bình Định (Tổ triển khai kế hoạch hợp nhất)
+Văn phòng UBND tỉnh Gia Lai, Sở Khoa học và Công nghệ tỉnh Gia Lai
+25/8/2025
+Thông báo của Văn phòng UBND
+  tỉnh Gia Lai (mới)
+B. DANH MỤC
+07 NHIỆM VỤ THỰC HIỆN KẾ HOẠCH CHUYỂN ĐỔI CỔNG THÔNG TIN ĐIỆN TỬ
+STT
+Nhiệm vụ
+Đơn vị chủ trì
+Đơn vị phối hợp
+Thời gian
+hoàn thành
+Kết quả thực hiện
+Ghi chú
+I. GIAI
+  ĐOẠN 1 (Bỏ cấp huyện chuyển sang mô hình 2 cấp - hoàn thành trước ngày
+  1/7/2025)
+1
+Thành lập tổ triển khai kế hoạch
+  hợp nhất
+Văn phòng UBND tỉnh (PVHCC)
+Các sở, ban, ngành
+30/5/2025
+Quyết định của VPUBND
+2
+Cập nhật thông tin liên quan
+  đến việc thay đổi về cơ cấu tổ chức, nhân sự, cơ quan khi thực hiện bỏ cấp huyện
+  và chuyển sang mô hình 02 cấp
+Văn phòng UBND tỉnh (PVHCC)
+Các cơ quan, đơn vị, địa phương
+01/7/2025
+Thông tin trên Cổng thông tin điện tử tỉnh được cập nhật đầy đủ, kịp thời
+II. GIAI
+  ĐOẠN 2 (Sau khi bỏ cấp huyện, thực hiện việc sáp nhập tỉnh - hoàn thành trước
+  ngày 25/8/2025)
+3
+Đánh giá chi tiết Cổng thông
+  tin điện tử tỉnh Bình Định và Cổng thông tin điện tử tỉnh Gia Lai (gọi tắt là
+  02 Cổng thông tin)
+Văn phòng UBND tỉnh BÌnh Định (Tổ triển khai kế hoạch hợp nhất)
+Văn phòng UBND tỉnh Gia Lai, Sở Khoa học và Công nghệ tỉnh Gia Lai
+10/7/2025
+Báo cáo kết quả đánh giá
+4
+Xây dựng, phê duyệt phương án
+  hợp nhất 02 Cổng thông tin
+Văn phòng UBND tỉnh Bình Định (Tổ triển khai kế hoạch hợp nhất)
+Văn phòng UBND tỉnh Gia Lai, Sở Khoa học và Công nghệ tỉnh Gia Lai
+15/7/2025
+Đề án hợp nhất 02 Hệ thống
+5
+Triển khai thử nghiệm phương
+  án hợp nhất 02 Cổng thông tin theo giải pháp đã được phê duyệt
+Văn phòng UBND tỉnh Bình Định (Tổ triển khai kế hoạch hợp nhất)
+Văn phòng UBND tỉnh Gia Lai, Sở Khoa học và Công nghệ tỉnh Gia Lai
+10/8/2025
+Báo cáo kết quả triển khai thử nghiệm
+6
+Tổ chức tập huấn, đào tạo
+  khai thác sử dụng, vận hành Cổng thông tin điện tử tỉnh Gia Lai (mới)
+Văn phòng UBND tỉnh Bình Định (Tổ triển khai kế hoạch hợp nhất)
+Văn phòng UBND tỉnh Gia Lai, Sở Khoa học và Công nghệ tỉnh Gia Lai
+15/8/2025
+Báo cáo kết quả tập huấn, đào tạo
+7
+Chuyển đổi, hợp nhất chính thức,
+  toàn bộ 02 Cổng thông tin thành 01 Cổng thông tin điện tử tỉnh Gia Lai (mới)
+Văn phòng UBND tỉnh Bình Định (Tổ triển khai kế hoạch hợp nhất)
+Văn phòng UBND tỉnh Gia Lai, Sở Khoa học và Công nghệ tỉnh Gia Lai
+25/8/2025
+Thông báo của Văn phòng UBND tỉnh Gia Lai (mới)
+Lưu trữ
+Ghi chú
+Ý kiến
+Facebook
+Email
+In
+Thư Viện
+Nhà Đất
+Bán nhà mới hoàn thiện 70m², sổ riêng, ngay chợ Tân Uyên – giá chỉ 1.9 tỷ
+1.9 tỷ
+,
+DT 70
+,
+Thành phố Tân Uyên, Bình Dương
+Bản án liên quan
+PHÁP LUẬT DOANH NGHIỆP
+Hỏi đáp pháp luật
+Quyết định 1897/QĐ-UBND năm 2025 phê duyệt Danh mục nhiệm vụ thực hiện kế hoạch chuyển đổi Hệ thống thông tin giải quyết thủ tục hành chính và Cổng thông tin điện tử tỉnh Bình Định phục vụ mô hình chính quyền địa phương hai cấp và sáp nhập tỉnh
