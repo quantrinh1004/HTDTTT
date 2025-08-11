@@ -87,7 +87,7 @@ def download_content(url, index):
                 EC.presence_of_element_located((By.CSS_SELECTOR, "div#tab1.contentDoc, div.col-md-12.py-4"))
             )
         except Exception:
-            screenshot_path = f"{download_dir}/error_file_{field}_{index + 377}.png"
+            screenshot_path = f"{download_dir}/error_file_{field}_{index + 544}.png"
             driver.save_screenshot(screenshot_path)
             logging.error(f"❌ Không tìm thấy nội dung chính tại {url} - đã lưu ảnh lỗi {screenshot_path}")
             return False
@@ -102,7 +102,7 @@ def download_content(url, index):
         text = soup.get_text(separator="\n", strip=True)
 
         doc_id = url.rstrip("/").split("/")[-1].split(".")[0]
-        file_path = os.path.join(download_dir, f"{field}_{index + 377}_{doc_id}.txt")
+        file_path = os.path.join(download_dir, f"{field}_{index + 544}_{doc_id}.txt")
         with open(file_path, "w", encoding="utf-8") as file:
             file.write(text)
 
