@@ -1,0 +1,593 @@
+MỤC LỤC
+                                VĂN BẢN
+In mục lục
+THÔNG TƯ QUY ĐỊNH VỀ TÀI LIỆU BẢO AN
+Chương I QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Điều 2. Đối tượng áp dụng
+Điều 3. Giải thích từ ngữ
+Điều 4. Nguyên tắc thiết kế, chế tạo và sản xuất tài liệu bảo an
+Chương II THIẾT KẾ, CHẾ TẠO, SẢN XUẤT TÀI LIỆU BẢO AN; BẢO MẬT, CUNG CẤP, SAO, CHỤP, LƯU TRỮ, BẢO QUẢN, VẬN CHUYỂN, GIAO, NHẬN, MANG RA KHỎI NƠI LƯU TRỮ VÀ THỜI HẠN LƯU TRỮ HỒ SƠ THIẾT KẾ KỸ THUẬT TÀI LIỆU BẢO AN; TIÊU HỦY TÀI LIỆU BẢO AN
+Điều 5. Thiết kế dấu hiệu bảo an, hồ sơ thiết kế kỹ thuật tài liệu bảo an
+Điều 6. Chế tạo và sản xuất tài liệu bảo an
+Điều 7. Bảo mật kỹ thuật tạo dấu hiệu bảo an trong quá trình thiết kế, chế tạo và sản xuất tài liệu bảo an
+Điều 8. Cung cấp thông tin dấu hiệu bảo an
+Điều 9. Sao, chụp, lưu trữ, bảo quản, vận chuyển, giao, nhận, mang ra khỏi nơi lưu trữ và thời hạn lưu trữ hồ sơ thiết kế kỹ thuật tài liệu bảo an; tiêu hủy tài liệu bảo an.
+Chương III PHÂN CÔNG TRÁCH NHIỆM VÀ CHẾ ĐỘ KIỂM TRA, BÁO CÁO
+Điều 10. Trách nhiệm của Viện Khoa học và công nghệ
+Điều 11. Trách nhiệm của Công an các đơn vị, địa phương
+Điều 12. Chế độ thông tin, báo cáo
+Điều 13. Kiểm tra việc đáp ứng điều kiện thực hiện chế tạo, sản xuất tài liệu bảo an và hồ sơ thiết kế kỹ thuật tài liệu bảo an phục vụ công tác Công an
+Chương IV ĐIỀU KHOẢN THI HÀNH
+Điều 14. Hiệu lực thi hành
+Điều 15. Trách nhiệm thi hành
+Mẫu số 01 V/v………………………
+Mẫu số 02 BÁO CÁO THIẾT KẾ DẤU HIỆU BẢO AN VÀ SẢN XUẤT TÀI LIỆU BẢO AN
+BỘ CÔNG AN
+--------
+CỘNG HÒA XÃ
+  HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 21/VBHN-BCA
+Hà Nội, ngày
+  26 tháng 4 năm 2025
+THÔNG TƯ
+QUY ĐỊNH VỀ TÀI LIỆU BẢO AN
+Thông tư số 02/2024/TT-BCA ngày 12 tháng 01 năm
+2024 của Bộ trưởng Bộ Công an quy định về tài liệu bảo an, có hiệu lực kể từ
+ngày 01 tháng 3 năm 2024, được sửa đổi, bổ sung bởi:
+Thông tư số
+13/2025/TT-BCA
+ngày 28 tháng 02 năm
+2025 của Bộ trưởng Bộ Công an sửa đổi, bổ sung một số điều của các thông tư quy
+định về trật tự, an toàn giao thông đường bộ, đường sắt và đường thủy nội địa,
+có hiệu lực kể từ ngày 01 tháng 3 năm 2025.
+Căn cứ Luật Công an nhân dân ngày 20 tháng 11
+năm 2018; Luật sửa đổi, bổ sung một số điều của Luật Công an nhân dân ngày 22
+tháng 6 năm 2023;
+Căn cứ Nghị định số 01/2018/NĐ-CP ngày 06
+tháng 8 năm 2018 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu
+tổ chức của Bộ Công an;
+Theo đề nghị của Viện trưởng Viện Khoa học và
+công nghệ;
+Bộ trưởng Bộ Công an ban hành Thông tư quy định
+về tài liệu bảo an.
+[1]
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Thông
+tư này quy định về thiết kế, chế tạo, sản xuất tài liệu bảo an; bảo mật, cung cấp,
+sao, chụp, lưu trữ, bảo quản, vận chuyển, giao, nhận, mang ra khỏi nơi lưu trữ,
+tiêu hủy dấu hiệu bảo an; chế độ thông tin, báo cáo, kiểm tra, giám sát và
+trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan đến tài liệu bảo an phục
+vụ công tác Công an.
+Điều 2. Đối tượng áp dụng
+Thông
+tư này áp dụng đối với Công an các đơn vị, địa phương và tổ chức, cá nhân có
+liên quan đến tài liệu bảo an phục vụ công tác Công an.
+Điều 3. Giải thích từ ngữ
+Trong
+Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+1.
+Bảo an
+là việc bảo vệ an ninh một
+đối tượng có chủ đích, dưới tác động của công cụ, phương tiện, công nghệ và
+khoa học kỹ thuật.
+2.
+Tài liệu bảo an
+là sản phẩm
+được thiết kế, chế tạo, sản xuất bằng phương tiện, kỹ thuật công nghệ cao có chứa
+dấu hiệu bảo an riêng biệt để chống sao chép, làm giả.
+3.
+Dấu hiệu bảo an
+là những ký tự,
+hình, hình ảnh, âm thanh hoặc đánh dấu nhận biết trên tài liệu bảo an (bao gồm
+cả nguyên liệu, vật liệu, phần mềm thiết kế) thông qua sử dụng công nghệ thông
+tin, hiệu ứng của phần mềm, máy móc, thiết bị, công cụ, điện, điện tử, quang
+(quang hóa, quang cơ), ánh sáng, hóa chất, màu sắc và các hình thức khác để tạo
+dấu hiệu trên tài liệu dưới hình thức: Thiết kế, ghi phim, ghi kẽm, ghi âm, in,
+dán, đính, đúc, dập, ép, chạm, khắc, ăn mòn và các hình thức khác (bao gồm cả gắn
+chíp điện tử).
+Điều 4. Nguyên tắc thiết kế, chế tạo và sản xuất tài liệu bảo
+an
+1. Bảo
+đảm hợp pháp, đúng thẩm quyền, nhiệm vụ được giao.
+2. Bảo
+đảm thông tin thiết kế, chế tạo, sản xuất tài liệu bảo an và các quy định về bí
+mật Nhà nước.
+3. Bảo
+đảm khả thi, tiết kiệm, hiệu quả, khó làm giả, sao chép.
+4. Bảo
+đảm yêu cầu về bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, bảo
+vệ môi trường.
+5. Bảo
+đảm an ninh, an toàn trong lưu trữ, bảo quản tài liệu bảo an.
+6.
+Tuân thủ quy định về quyền sở hữu trí tuệ; không dùng chung thiết kế mẫu cho
+các tài liệu khác nhau.
+7. Bảo
+đảm đội ngũ cán bộ đủ phẩm chất, năng lực, trình độ để thực hiện thiết kế, chế
+tạo, sản xuất tài liệu bảo an.
+Chương II
+THIẾT KẾ, CHẾ TẠO, SẢN XUẤT TÀI LIỆU BẢO AN; BẢO MẬT, CUNG CẤP, SAO, CHỤP,
+LƯU TRỮ, BẢO QUẢN, VẬN CHUYỂN, GIAO, NHẬN, MANG RA KHỎI NƠI LƯU TRỮ VÀ THỜI HẠN
+LƯU TRỮ HỒ SƠ THIẾT KẾ KỸ THUẬT TÀI LIỆU BẢO AN; TIÊU HỦY TÀI LIỆU BẢO AN
+Điều 5. Thiết kế dấu hiệu bảo an, hồ sơ thiết kế kỹ thuật tài
+liệu bảo an
+1. Viện
+Khoa học và công nghệ có trách nhiệm thiết kế dấu hiệu bảo an đối với các loại
+tài liệu sau:
+a)
+[2]
+Thẻ căn cước, giấy chứng nhận căn cước;
+b) Thẻ
+đảng viên, chứng minh Công an nhân dân; hộ chiếu, giấy thông hành và các biểu mẫu
+liên quan;
+c)
+Con dấu của các cơ quan Đảng, Nhà nước;
+d)
+Các loại thẻ, phù hiệu phục vụ các hội nghị của Đảng, Quốc hội, Nhà nước;
+đ)
+[3]
+Giấy chứng nhận đăng ký xe; giấy phép lái xe do cơ quan
+Công an cấp; các loại chứng nhận, chứng chỉ; giấy phép sử dụng phục vụ công tác
+Công an;
+e)
+Các loại tài liệu bảo an của cơ quan nhà nước, tổ chức chính trị, tổ chức chính
+trị - xã hội và tổ chức khác khi có yêu cầu;
+g)
+Tài liệu bảo an khác do lãnh đạo Bộ Công an giao nhiệm vụ và các sản phẩm bảo
+an phục vụ kinh tế - xã hội.
+2.
+Công an đơn vị, địa phương được thiết kế hoặc thuê, đặt hàng thiết kế tài liệu
+bảo an lưu hành nội bộ của đơn vị, địa phương và có trách nhiệm quản lý hồ sơ
+thiết kế kỹ thuật tài liệu bảo an đó. Doanh nghiệp, đơn vị sự nghiệp công lập
+trong Công an nhân dân có trách nhiệm quản lý hồ sơ thiết kế kỹ thuật tài liệu
+bảo an do mình thiết kế và bàn giao 01 bộ hồ sơ (bản sao) cho Công an, đơn vị địa
+phương thuê, đặt hàng để quản lý và sử dụng tài liệu bảo an.
+3. Hồ
+sơ thiết kế kỹ thuật tài liệu bảo an gồm: Văn bản được Thủ trưởng Công an các
+đơn vị, địa phương giao nhiệm vụ hoặc hợp đồng có giá trị pháp lý; bản thiết kế
+kỹ thuật; văn bản phê duyệt thiết kế kỹ thuật; văn bản phê duyệt độ mật của tài
+liệu (đối với thiết kế kỹ thuật thuộc danh mục bí mật nhà nước); mẫu sản phẩm
+hoàn chỉnh.
+4.
+Cán bộ thực hiện thiết kế kỹ thuật tài liệu bảo an trong Công an nhân dân phải
+có trình độ chuyên môn từ cao đẳng trở lên thuộc một trong các chuyên ngành
+sau: Công nghệ thông tin, mỹ thuật, mỹ thuật công nghiệp, thiết kế đồ họa, in.
+Điều 6.
+Chế tạo và sản xuất tài liệu bảo an
+1. Viện
+Khoa học và công nghệ có trách nhiệm tổ chức thực hiện việc chế tạo và sản xuất
+các loại tài liệu bảo an quy định tại
+khoản 1 Điều 5 Thông tư
+này
+theo nhiệm vụ được lãnh đạo Bộ Công an giao thực hiện hoặc quy định của
+văn bản quy phạm pháp luật chuyên ngành về tài liệu bảo an đó hoặc theo thỏa
+thuận với bên thuê, đặt hàng.
+2.
+Công an các đơn vị, địa phương tổ chức chế tạo, sản xuất tài liệu bảo an phải
+đáp ứng các điều kiện sau:
+a) Được
+Thủ trưởng Công an đơn vị, địa phương giao nhiệm vụ chế tạo, sản xuất tài liệu
+bảo an;
+b) Có
+trang thiết bị, máy móc và quy trình phù hợp để chế tạo, sản xuất tài liệu bảo
+an;
+c) Có
+cán bộ thực hiện chế tạo, sản xuất tài liệu bảo an có trình độ chuyên môn từ
+cao đẳng trở lên thuộc một trong các chuyên ngành sau: Công nghệ thông tin, hóa
+chất, in, cơ khí, điện, điện tử, cơ điện tử, quang;
+d) Đảm
+bảo các điều kiện khác theo quy định của pháp luật về an ninh, an toàn, phòng
+cháy chữa cháy và bảo vệ môi trường.
+Điều 7. Bảo mật kỹ thuật tạo dấu hiệu bảo an trong quá trình
+thiết kế, chế tạo và sản xuất tài liệu bảo an
+1. Thủ
+trưởng Công an các đơn vị, địa phương có trách nhiệm tổ chức thực hiện việc bảo
+mật kỹ thuật tạo dấu hiệu bảo an trong quá trình thiết kế, chế tạo, sản xuất
+tài liệu bảo an.
+2.
+Người được giao nhiệm vụ thiết kế, chế tạo, sản xuất tài liệu bảo an trong Công
+an nhân dân có trách nhiệm thực hiện việc bảo mật kỹ thuật tạo dấu hiệu bảo an
+trong quá trình thiết kế, chế tạo, sản xuất tài liệu bảo an.
+Điều 8. Cung cấp thông tin dấu hiệu bảo an
+1. Cơ
+quan quản lý tài liệu bảo an có trách nhiệm phổ biến cách thức nhận biết dấu hiệu
+bảo an trên tài liệu bảo an đến người sử dụng để kiểm tra, phân biệt được tài
+liệu bảo an.
+2. Cơ
+quan, tổ chức cần thông tin về việc thiết kế, chế tạo, sản xuất tài liệu bảo an
+phục vụ công tác điều tra, giám định và các hoạt động nghiệp vụ khác theo chức
+năng, nhiệm vụ được giao phải có văn bản gửi đến cơ quan quản lý hồ sơ thiết kế
+kỹ thuật và chế tạo, sản xuất tài liệu bảo an để đề nghị cung cấp thông tin.
+3. Cơ
+quan, tổ chức được cung cấp thông tin về việc thiết kế, chế tạo, sản xuất tài
+liệu bảo an có trách nhiệm bảo mật những thông tin này.
+Điều 9. Sao, chụp, lưu trữ, bảo quản, vận chuyển, giao, nhận,
+mang ra khỏi nơi lưu trữ và thời hạn lưu trữ hồ sơ thiết kế kỹ thuật tài liệu bảo
+an; tiêu hủy tài liệu bảo an.
+1. Việc
+thực hiện sao, chụp, lưu trữ, bảo quản, vận chuyển, giao, nhận, mang ra khỏi
+nơi lưu trữ hồ sơ thiết kế kỹ thuật tài liệu bảo an phải được Thủ trưởng đơn vị
+quản lý hồ sơ phê duyệt. Đối với hồ sơ có thiết kế kỹ thuật thuộc danh mục bí mật
+nhà nước thì việc thực hiện sao, chụp, lưu trữ, bảo quản, vận chuyển, giao, nhận,
+mang ra khỏi nơi lưu trữ thiết kế kỹ thuật đó theo quy định của pháp luật về bảo
+vệ bí mật nhà nước.
+2.
+Quy trình lưu trữ, khai thác hồ sơ thiết kế kỹ thuật tài liệu bảo an:
+a)
+Thu thập tài liệu;
+b) Sắp
+xếp tài liệu lưu trữ;
+c)
+Xác định thời hạn lưu trữ hồ sơ;
+d)
+Lưu trữ hồ sơ tài liệu vào kho lưu trữ;
+đ)
+Khai thác, sử dụng hồ sơ tài liệu;
+e) Quản
+lý, theo dõi và cập nhật hồ sơ tài liệu;
+g) Hủy
+tài liệu hết giá trị.
+3. Thời
+hạn lưu trữ hồ sơ thiết kế kỹ thuật tài liệu bảo an
+Hồ sơ
+thiết kế kỹ thuật tài liệu bảo an được lưu trữ vĩnh viễn hoặc theo quy định của
+văn bản quy phạm pháp luật chuyên ngành về tài liệu bảo an đó.
+4.
+Tiêu hủy tài liệu bảo an
+Thủ trưởng
+cơ quan quản lý tài liệu bảo an quyết định việc tiêu hủy nguyên liệu, vật liệu
+dùng làm thử, hỏng, thừa; các sản phẩm trung gian hỏng, thừa; các khuôn, mẫu
+không có nhu cầu sử dụng lại; tài liệu bảo an dư thừa trong quá trình chế tạo,
+sản xuất; tài liệu bảo an được thu hồi sau khi sử dụng (trừ những tài liệu đang
+trong quá trình điều tra, xác minh, giám định) như sau:
+a)
+Thành lập hội đồng tiêu hủy (bao gồm: Đại diện thủ trưởng cơ quan, đơn vị, tổ
+chức và các cá nhân có liên quan đến việc thiết kế, chế tạo, sản xuất tài liệu
+bảo an được tiêu hủy) hoặc trực tiếp giao đơn vị trực thuộc tiêu hủy;
+b)
+Cách thức, phương pháp thực hiện tiêu hủy: Đốt, nghiền, cắt, sử dụng hóa chất
+hoặc bằng hình thức khác đảm bảo tài liệu bảo an không còn hình dạng ban đầu, không
+thể tái sử dụng và không nhìn, ghép được hình ảnh. Đơn vị tiêu hủy phải xử lý
+rác thải theo quy định về bảo vệ môi trường, việc tiêu hủy phải được lập thành
+biên bản;
+c) Hồ
+sơ tiêu hủy bao gồm: Quyết định thành lập Hội đồng hoặc văn bản giao đơn vị trực
+thuộc thực hiện tiêu hủy; danh mục cần tiêu hủy; biên bản tiêu hủy; hình ảnh thực
+hiện tiêu hủy.
+Chương III
+PHÂN CÔNG TRÁCH NHIỆM VÀ CHẾ ĐỘ KIỂM TRA, BÁO CÁO
+Điều 10. Trách nhiệm của Viện Khoa học và công nghệ
+1. Chủ
+trì, phối hợp với Công an các đơn vị, địa phương tham mưu lãnh đạo Bộ Công an
+ban hành quy định, kế hoạch, chương trình nghiên cứu, danh mục các tài liệu cần
+bảo an phục vụ công tác Công an.
+2. Tổ
+chức nghiên cứu, ứng dụng tiến bộ khoa học, công nghệ thuộc lĩnh vực bảo an, phối
+hợp với các đơn vị, tổ chức, cá nhân có năng lực để thực hiện thiết kế, chế tạo,
+sản xuất tài liệu bảo an thuộc
+khoản 1 Điều 5 Thông tư này
+.
+3. Tổ
+chức quản lý hồ sơ thiết kế kỹ thuật tài liệu bảo an thuộc
+khoản
+1 Điều 5 Thông tư này
+.
+4. Chủ
+trì, phối hợp với Công an các đơn vị, địa phương tham mưu lãnh đạo Bộ Công an
+trong xây dựng cơ sở dữ liệu về tài liệu bảo an phục vụ cho công tác quản lý,
+khai thác, sử dụng theo yêu cầu nghiệp vụ.
+Điều 11. Trách nhiệm của Công an các đơn vị, địa phương
+1. Tổ
+chức thực hiện, quản lý hoạt động thiết kế, chế tạo và sản xuất tài liệu bảo an
+lưu hành nội bộ của Công an đơn vị, địa phương.
+2. Quản
+lý hồ sơ thiết kế kỹ thuật tài liệu bảo an lưu hành nội bộ của Công an đơn vị,
+địa phương.
+3. Phối
+hợp với Viện Khoa học và công nghệ tham mưu cho lãnh đạo Bộ Công an xây dựng kế
+hoạch, chương trình nghiên cứu, danh mục các tài liệu cần bảo an phục vụ công
+tác Công an.
+4.
+Công an các đơn vị, địa phương khi có nhu cầu mua sắm trang thiết bị, phần mềm
+cung cấp các giải pháp bảo an phục vụ việc thiết kế, chế tạo và sản xuất tài liệu
+bảo an phải có văn bản đề nghị theo
+Mẫu số 01
+ban
+hành kèm theo Thông tư này gửi Viện Khoa học và công nghệ để lấy ý kiến về tính
+năng kỹ thuật và hiệu quả sử dụng. Viện Khoa học và công nghệ phải có ý kiến trả
+lời bằng văn bản trong thời hạn 07 ngày làm việc kể từ ngày nhận được văn bản đề
+nghị của Công an đơn vị, địa phương.
+Điều 12. Chế độ thông tin, báo cáo
+1.
+Công an các đơn vị, địa phương liên quan đến thiết kế, chế tạo và sản xuất tài
+liệu bảo an phục vụ công tác Công an có trách nhiệm báo cáo định kỳ hàng năm
+theo
+Mẫu số 02
+ban hành kèm theo Thông tư này hoặc
+đột xuất về Bộ Công an để theo dõi, tổng hợp (qua Viện Khoa học và công nghệ).
+2. Số
+liệu báo cáo tính từ ngày 15 tháng 12 năm trước đến ngày 14 tháng 12 năm làm
+báo cáo.
+3. Thời
+hạn gửi báo cáo: Chậm nhất là ngày 10 tháng 01 của năm liền sau năm báo cáo.
+4. Viện
+Khoa học và công nghệ có trách nhiệm tổng hợp, báo cáo lãnh đạo Bộ Công an về
+hoạt động thiết kế, chế tạo và sản xuất tài liệu bảo an phục vụ công tác Công
+an.
+Điều 13. Kiểm tra việc đáp ứng điều kiện thực hiện chế tạo, sản
+xuất tài liệu bảo an và hồ sơ thiết kế kỹ thuật tài liệu bảo an phục vụ công
+tác Công an
+1. Viện
+Khoa học và công nghệ chủ trì, phối hợp với Công an các đơn vị, địa phương có liên
+quan kiểm tra việc đáp ứng điều kiện thực hiện chế tạo, sản xuất tài liệu bảo
+an và hồ sơ thiết kế kỹ thuật tài liệu bảo an phục vụ công tác Công an theo định
+kỳ hoặc theo yêu cầu đột xuất của lãnh đạo Bộ Công an.
+2. Thủ
+trưởng Công an các đơn vị, địa phương tổ chức thực hiện kiểm tra việc đáp ứng
+điều kiện chế tạo, sản xuất tài liệu bảo an và hồ sơ thiết kế kỹ thuật tài liệu
+bảo an do đơn vị mình quản lý.
+Chương
+IV
+ĐIỀU KHOẢN THI HÀNH
+[4]
+Điều 14. Hiệu lực thi hành
+Thông
+tư này có hiệu lực thi hành kể từ ngày 01 tháng 3 năm 2024.
+Điều 15. Trách nhiệm thi hành
+1. Viện
+Khoa học và công nghệ có trách nhiệm kiểm tra, đôn đốc việc thực hiện Thông tư
+này.
+2. Thủ
+trưởng Công an các đơn vị, địa phương và tổ chức, cá nhân có liên quan chịu
+trách nhiệm thi hành Thông tư này.
+3.
+Trong quá trình thực hiện Thông tư này, nếu có khó khăn, vướng mắc, Công an các
+đơn vị, địa phương và tổ chức, cá nhân có liên quan báo cáo về Bộ Công an (qua
+Viện Khoa học và công nghệ) để được hướng dẫn kịp thời
+./.
+Nơi nhận:
+- Cổng Thông tin điện tử Bộ
+  Công an;
+- Lưu: VT, V03(P4).
+XÁC THỰC VĂN
+  BẢN HỢP NHẤT
+BỘ TRƯỞNG
+Đại tướng Lương Tam Quang
+Mẫu số 01
+ban hành kèm theo Thông tư số 02/2024/TT-BCA ngày 12/01/2024 của Bộ trưởng Bộ
+Công an
+TÊN CÔNG AN ĐƠN VỊ,
+ĐỊA PHƯƠNG
+1
+--------
+CỘNG HÒA XÃ
+  HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: …../…. - ……
+V/v
+………………………
+………, ngày … tháng … năm ………
+Kính gửi: Viện Khoa học và công nghệ
+Thực
+hiện Thông tư số 02/2024/TT-BCA ngày 01/03/2024 của Bộ trưởng Bộ Công an quy định
+về tài liệu bảo an và (Chương trình; Kế hoạch; Phê duyệt; ….. ) tại văn bản số
+…./…… của (Bộ Công an, Công an đơn vị, địa phương ……) về đầu tư, mua sắm trang
+thiết bị, phần mềm phục vụ công tác thiết kế, chế tạo, sản xuất tài liệu bảo an
+của đơn vị, sau khi nghiên cứu, (Công an đơn vị, địa phương ……) chủ trương đầu
+tư, mua sắm các trang thiết bị, máy móc và phần mềm sau đây:
+1.
+Thông tin thiết bị dự kiến đầu tư, mua sắm:
+2
+- Tên
+máy (Tiếng Việt): ………………………………………………………….
+- Tiếng
+Anh (nếu có): …………………………………………………………….
+- Tên
+hãng: ………………………………………………….…………...…….…
+-
+Model: ………………………………………………………………………..…
+- Số
+định danh máy (số máy): …………………………………………….…….
+- Nước
+sản xuất: …………….……… Năm sản xuất: …………………………...
+- Số
+lượng: ……………………………………………………………………….
+- Chất
+lượng: ……………………………………………………....……………
+3
+- Đặc
+tính kỹ thuật, công nghệ sử dụng: ………………………………….…….
+4
+-
+Khuôn khổ bản in, cắt xén, dập, khắc… lớn nhất: ………………………...……
+- Tốc
+độ in, cắt xén, dập, khắc…. cao nhất: ……………...……….…………...…
+- Giá
+trị thiết bị (đơn vị tính: đồng Việt Nam): ……………………..……………
+2.
+Thông tin phần mềm dự kiến đầu tư, mua sắm:
+2
+- Tên
+phần mềm (Tiếng Việt): …………………………………………………..
+- Tiếng
+Anh (nếu có): …………………………………………………………….
+- Tên
+hãng: ………………………………………………….…………...…….…
+- Ký
+hiệu phiên bản: ……………………………………………………………..
+- Nước
+sản xuất: …………….……… Năm sản xuất: …………………………...
+- Số
+lượng: ……………………………………………………………………….
+-
+Tính năng phần mềm: ………………………………….………………………
+- Giá
+trị phần mềm (đơn vị tính: đồng Việt Nam): ……………………………..
+3. Mục
+đích đầu tư, mua sắm: ……………………………………………….….
+4. Địa
+chỉ đặt máy sản xuất: ………………………………..……………………
+Đề
+nghị Viện Khoa học và công nghệ xem xét cho ý kiến về những trang thiết bị, phần
+mềm dự kiến đầu tư, mua sắm nêu trên./.
+Nơi nhận:
+- Như trên
+- ………….
+THỦ TRƯỞNG
+CÔNG AN ĐƠN VỊ, ĐỊA PHƯƠNG
+(Ký, ghi rõ chức vụ,
+  họ tên và đóng dấu)
+___________________
+Ghi
+chú:
+1
+Ghi tên Công an đơn vị,
+địa phương đầu tư, mua sắm thiết bị, phần mềm.
+2
+Thông tin thiết bị, phần
+mềm dự kiến đầu tư, mua sắm:
+Nếu dự kiến nhiều thiết bị, phần mềm cùng
+lúc thì có thể lập thành danh mục (dưới dạng cột biểu) kèm theo văn bản này.
+3
+Chất lượng: Ghi mới 100% hoặc đã qua sử dụng.
+4
+Đặc tính kỹ thuật công nghệ: Ghi công nghệ chế bản/in/gia
+công sau in (Ví dụ: ghi kẽm, ghi phim; in offset, flexo, ống đồng, laser, phun,
+khắc, dập).
+Mẫu số 02
+ban hành kèm theo Thông tư số
+02/2024/TT-BCA ngày 12/01/2024 của Bộ trưởng Bộ Công an
+Tên
+  đơn vị:
+……………………
+Địa chỉ:
+…………………………
+CỘNG HÒA XÃ
+  HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+BÁO CÁO
+THIẾT KẾ DẤU HIỆU BẢO AN VÀ SẢN XUẤT TÀI LIỆU BẢO AN
+(1)
+Năm …………….
+Số TT
+Tên đơn vị đặt gia công tài liệu
+(2)
+Tên tài liệu
+Khuôn khổ
+Số trang
+Số lượng
+Công việc thực hiện
+(3)
+Ghi chú
+Thiết kế dấu hiệu bảo an
+Chế tạo và sản xuất tài liệu bảo an
+Người lập báo cáo
+(Ký, ghi rõ họ tên)
+Điện thoại liên hệ:
+  ……………
+………, ngày ….. tháng …… năm ………..
+THỦ TRƯỞNG
+CÔNG AN ĐƠN VỊ, ĐỊA PHƯƠNG
+(Ký, ghi rõ họ tên
+  và đóng dấu)
+____________________
+Ghi
+chú:
+(1)
+Báo cáo này
+dùng chung cho cả 3 đối tượng (bao gồm: thiết kế, chế tạo và sản xuất tài liệu
+bảo an)
+(2)
+Trường hợp sản
+xuất tài liệu cho đơn vị mình thì ghi tên đơn vị mình
+(3)
+Đánh dấu (x)
+vào cột do đơn vị thực hiện.
+[1]
+Thông tư số
+13/2025/TT-BCA
+ngày 28 tháng 02 năm 2025 của Bộ trưởng Bộ Công an sửa
+đổi, bổ sung một số điều của các thông tư quy định về trật tự, an toàn giao
+thông đường bộ, đường sắt và đường thủy nội địa có căn cứ ban hành như sau:
+“
+Căn cứ Luật Giao
+thông đường thủy nội địa ngày 15 tháng 6 năm 2004; Luật sửa đổi, bổ sung một số
+điều của Luật Giao thông đường thủy nội địa ngày 17 tháng 6 năm 2014; Luật sửa
+đổi, bổ sung một số điều của 37 Luật có liên quan đến quy hoạch ngày 20 tháng
+11 năm 2018;
+Căn cứ Luật Đường sắt
+ngày 16 tháng 6 năm 2017;
+Căn cứ Luật Trật tự,
+an toàn giao thông đường bộ ngày 27 tháng 6 năm 2024;
+Căn cứ Nghị định số
+02/2025/NĐ-CP ngày 18 tháng 2 năm 2025 của Chính phủ quy định chức năng, nhiệm
+vụ, quyền hạn và cơ cấu tổ chức của Bộ Công an;
+Theo đề nghị của Cục
+trưởng Cục Cảnh sát giao thông;
+Bộ trưởng Bộ Công
+an ban hành Thông tư sửa đổi, bổ sung một số điều của các thông tư quy định về
+trật tự, an toàn giao thông đường bộ, đường sắt và đường thủy nội địa”.
+[2]
+Điểm này được sửa đổi theo quy định tại khoản 1 Điều 13 của Thông tư số
+13/2025/TT-BCA
+ngày 28 tháng 02 năm 2025 của Bộ trưởng Bộ Công an sửa đổi, bổ
+sung một số điều của các thông tư quy định về trật tự, an toàn giao thông đường
+bộ, đường sắt và đường thủy nội địa, có hiệu lực kể từ ngày 01 tháng 3 năm
+2025.
+[3]
+Điểm này được sửa đổi theo quy định tại khoản 2 Điều 13 của Thông tư số
+13/2025/TT-BCA
+ngày 28 tháng 02 năm 2025 của Bộ trưởng Bộ Công an sửa đổi, bổ
+sung một số điều của các thông tư quy định về trật tự, an toàn giao thông đường
+bộ, đường sắt và đường thủy nội địa, có hiệu lực kể từ ngày 01 tháng 3 năm
+2025.
+[4]
+Điều 14 của Thông tư số
+13/2025/TT-BCA
+ngày 28 tháng 02 năm 2025 của Bộ trưởng
+Bộ Công an sửa đổi, bổ sung một số điều của các thông tư quy định về trật tự,
+an toàn giao thông đường bộ, đường sắt và đường thủy nội địa, có hiệu lực kể từ
+ngày 01 tháng 3 năm 2025 quy định như sau:
+“
+Điều 14. Điều khoản
+thi hành
+1. Thông tư này có hiệu lực thi
+hành kể từ ngày 01 tháng 3 năm 2025.
+2. Cục trưởng Cục Cảnh sát giao
+thông chịu trách nhiệm theo dõi, hướng dẫn, kiểm tra, đôn đốc việc thực hiện
+Thông tư này.
+3. Thủ trưởng các đơn vị thuộc
+cơ quan Bộ, Giám đốc Công an tỉnh, thành phố trực thuộc trung ương, cơ quan, tổ
+chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+4. Trong quá trình triển khai
+thực hiện Thông tư này, nếu có khó khăn, vướng mắc, Công an các đơn vị, địa
+phương báo cáo về Bộ Công an (qua Cục Cảnh sát giao thông) để kịp thời hướng dẫn”
+.
+Lưu trữ
+Ghi chú
+Ý kiến
+Facebook
+Email
+In
+Thư Viện
+Nhà Đất
+Bán nhà 94,6m2 Ngang 4,4m - Hẻm xe tải 6m, Đường Khuông Việt, Tân Phú
+11.3 tỷ
+,
+DT 94.6
+m
+2
+,
+Quận Tân Phú, Hồ Chí Minh
+Pháp Luật Thuế
+Bản án liên quan
+PHÁP LUẬT DOANH NGHIỆP
+Hỏi đáp pháp luật
+Văn bản hợp nhất 21/VBHN-BCA năm 2025 hợp nhất Thông tư quy định về tài liệu bảo an do Bộ trưởng Bộ Công an ban hành

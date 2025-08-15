@@ -1,0 +1,303 @@
+MỤC LỤC
+                                VĂN BẢN
+In mục lục
+QUYẾT ĐỊNH CÔNG BỐ DANH MỤC THỦ TỤC HÀNH CHÍNH VÀ PHÊ DUYỆT QUY TRÌNH NỘI BỘ TRONG GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH THEO CƠ CHẾ MỘT CỬA LĨNH VỰC TÀI CHÍNH ĐẦU TƯ VÀ TIN HỌC THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ TÀI CHÍNH TỈNH LẠNG SƠN
+Điều 1. Công bố danh mục thủ tục hành chính và phê duyệt quy trình nội bộ trong giải quyết thủ tục hành chính theo cơ chế một cửa lĩnh vực Tài chính đầu tư và tin học thuộc thẩm quyền giải quyết của Sở Tài chính tỉnh Lạng Sơn
+Điều 2. Giao Văn phòng UBND tỉnh chủ trì, phối hợp với Sở Tài chính trên cơ sở quy trình nội bộ được phê duyệt tại Quyết định này xây dựng, cập nhật quy trình điện tử giải quyết thủ tục hành chính vào Hệ thống thông tin giải quyết thủ tục hành chính của tỉnh.
+Điều 3. Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành và thay thế các Quyết định của Chủ tịch UBND tỉnh:
+Điều 4. Chánh Văn phòng UBND tỉnh, Giám đốc Sở Tài chính và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
+PHỤ LỤC I DANH MỤC THỦ TỤC HÀNH CHÍNH TRONG LĨNH VỰC TÀI CHÍNH ĐẦU TƯ VÀ TIN HỌC THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ TÀI CHÍNH TỈNH LẠNG SƠN
+PHỤ LỤC DANH MỤC VÀ QUY TRÌNH NỘI BỘ TRONG GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH THEO CƠ CHẾ MỘT CỬA LĨNH VỰC TÀI CHÍNH ĐẦU TƯ VÀ TIN HỌC THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ TÀI CHÍNH TỈNH LẠNG SƠN
+Phần I DANH MỤC THỦ TỤC HÀNH CHÍNH ĐƯỢC XÂY DỰNG QUY TRÌNH NỘI BỘ THỰC HIỆN THEO CƠ CHẾ MỘT CỬA (01 TTHC)
+Phần II QUY TRÌNH NỘI BỘ TRONG GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH THEO CƠ CHẾ MỘT CỬA
+1. Đăng ký mã số đơn vị có quan hệ với ngân sách
+1.1. Trường hợp nộp trực tiếp hoặc qua đường bưu chính
+1.2. Trường hợp nộp hồ sơ qua Dịch vụ công trực tuyến
+ỦY BAN NHÂN DÂN
+TỈNH LẠNG SƠN
+-------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 959/QĐ-UBND
+Lạng Sơn, ngày 25
+  tháng 4 năm 2025
+QUYẾT ĐỊNH
+CÔNG BỐ DANH MỤC THỦ TỤC HÀNH CHÍNH VÀ PHÊ DUYỆT QUY TRÌNH NỘI
+BỘ TRONG GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH THEO CƠ CHẾ MỘT CỬA LĨNH VỰC TÀI CHÍNH ĐẦU
+TƯ VÀ TIN HỌC THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ TÀI CHÍNH TỈNH LẠNG SƠN
+CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH LẠNG SƠN
+Căn cứ Luật Tổ chức chính
+quyền địa phương ngày 19/02/2025;
+Căn cứ Nghị định số
+63/2010/NĐ-CP ngày 08/6/2010 của Chính phủ về Kiểm soát thủ tục hành chính; Nghị
+định số 48/2013/NĐ-CP ngày 14/5/2013 của Chính phủ sửa đổi, bổ sung một số điều
+của các nghị định liên quan đến kiểm soát thủ tục hành chính; Nghị định số
+92/2017/NĐ-CP ngày 07/8/2017 của Chính phủ sửa đổi, bổ sung một số điều của các
+Nghị định liên quan đến kiểm soát thủ tục hành chính;
+Căn cứ Nghị định số
+61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa
+liên thông trong giải quyết thủ tục hành chính; Nghị định số 107/2021/NĐ-CP
+ngày 06/12/2021 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số
+61/2018/NĐ-CP về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết
+thủ tục hành chính;
+Căn cứ Thông tư số
+02/2017/TT-VPCP ngày 31/10/2017 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ
+hướng dẫn về nghiệp vụ kiểm soát thủ tục hành chính, Thông tư số
+01/2018/TT-VPCP ngày 23/11/2018 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ về
+hướng dẫn thi hành một số quy định của Nghị định số
+61/2018/NĐ-CP ngày
+23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một
+cửa liên
+thông trong giải quyết thủ tục hành chính;
+Căn cứ Quyết định số
+336/QĐ-BTC ngày 26/2/2016 của Bộ trưởng Bộ Tài chính về việc công bố thủ tục
+hành chính trong lĩnh vực đăng ký mã số đơn vị có quan hệ với ngân sách thuộc
+thẩm quyền giải quyết của Bộ Tài chính;
+Theo đề nghị của Giám đốc Sở
+Tài chính tại Tờ trình số 124/TTr-STC ngày
+17/4/2025.
+QUYẾT ĐỊNH:
+Điều 1.
+Công bố danh mục thủ tục hành chính và phê duyệt quy
+trình nội bộ trong giải quyết thủ tục hành chính theo cơ chế một cửa lĩnh vực
+Tài chính đầu tư và tin học thuộc thẩm quyền giải quyết của Sở Tài chính tỉnh Lạng
+Sơn
+(Có danh mục chi tiết kèm theo).
+Điều 2.
+Giao Văn phòng UBND tỉnh chủ trì, phối hợp với Sở Tài
+chính trên cơ sở quy trình nội bộ được phê duyệt tại Quyết định này xây dựng, cập
+nhật quy trình điện tử giải quyết thủ tục hành chính vào Hệ thống thông tin giải
+quyết thủ tục hành chính của tỉnh.
+Điều 3.
+Quyết định này có hiệu lực thi hành kể từ ngày ký ban
+hành và thay thế các Quyết định của Chủ tịch UBND tỉnh:
+1. Quyết định số 791/QĐ-UBND
+ngày 18/5/2016 về việc công bố thủ tục hành chính chuẩn hóa thuộc thẩm quyền giải
+quyết của Sở Tài chính tỉnh Lạng Sơn;
+2. Quyết định số 394/QĐ-UBND
+ngày 26/01/2021 về việc công bố danh mục thủ tục hành chính bị bãi bỏ lĩnh vực
+Quản lý công sản và phê duyệt sửa đổi quy trình nội bộ trong giải quyết thủ tục
+hành chính theo cơ chế một cửa trong lĩnh vực Tin học, lĩnh vực Tài chính đầu
+tư thuộc thẩm quyền giải quyết của Sở Tài chính tỉnh Lạng Sơn.
+Điều 4
+.
+Chánh Văn phòng UBND tỉnh, Giám đốc Sở Tài chính và các tổ
+chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
+Nơi nhận:
+- Như Điều 4;
+- Cục KSTTHC, Văn phòng Chính phủ;
+- CT, các PCT UBND tỉnh;
+- PCVP UBND tỉnh; Phòng KT, TTTT;
+- Lưu: VT, TTPVHCC (LgH).
+KT. CHỦ TỊCH
+PHÓ CHỦ TỊCH
+Dương Xuân Huyên
+PHỤ LỤC I
+DANH MỤC THỦ TỤC HÀNH CHÍNH TRONG LĨNH VỰC TÀI CHÍNH ĐẦU
+TƯ VÀ TIN HỌC THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ TÀI CHÍNH TỈNH LẠNG SƠN
+(Kèm theo Quyết định số 959/QĐ-UBND ngày 25/4/2025 của Chủ tịch UBND tỉnh Lạng
+Sơn)
+Số
+TT
+Mã thủ tục hành chính
+Tên thủ tục hành chính
+Thời hạn giải quyết
+Địa điểm thực hiện
+Cách thức thực hiện
+Căn cứ pháp lý
+01
+2.002206.000.00.00.H37
+Thủ tục đăng ký mã số đơn vị
+  có quan hệ với ngân sách
+Thời hạn Sở Tài chính cấp mã
+  số ĐVQHNS và gửi thông báo cấp Giấy chứng nhận mã số ĐVQHNS điện tử cho đơn vị
+  (lần đầu hoặc cấp lại) là 03 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ,
+  hợp lệ theo phương thức nộp trực tiếp hoặc qua đường bưu chính; là 02 ngày
+  làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ theo phương thức nộp hồ sơ
+  qua Dịch vụ công trực tuyến đăng ký mã số ĐVQHNS.
+-
+Cơ quan tiếp nhận và trả
+  kết quả
+: Trung tâm Phục vụ hành chính công tỉnh Lạng Sơn. Địa chỉ: phố Dã
+  Tượng, phường Chi Lăng, thành phố Lạng Sơn, tỉnh Lạng Sơn;
+-
+Cơ quan thực hiện
+: Sở
+  Tài chính tỉnh Lạng Sơn. Địa chỉ: đường Nguyễn Chí Thanh, khu tái định cư và
+  dân cư Nam thành phố, xã Mai Pha, thành phố Lạng Sơn, tỉnh Lạng Sơn.
+- Tiếp nhận và trả kết quả trực
+  tiếp tại Trung tâm Phục vụ hành chính công tỉnh;
+- Tiếp nhận trực tuyến tại địa
+  chỉ: http://dichvucong.langson. gov.vn;
+- Tiếp nhận qua dịch vụ bưu
+  chính công ích.
+- Nghị định số 163/2016/NĐ-CP
+  của Chính phủ Quy định chi tiết thi hành một số điều của Luật ngân sách nhà
+  nước;
+- Nghị định số 165/2018/NĐ-CP
+  ngày 24/12/2018 của Chính phủ quy định về giao dịch điện tử trong hoạt động
+  tài chính;
+- Thông tư số 185/2015/TT-BTC
+  ngày 17/11/2015 của Bộ Tài chính hướng dẫn đăng ký, cấp và sử dụng mã số đơn
+  vị có quan hệ với ngân sách.
+PHỤ LỤC
+DANH MỤC VÀ QUY TRÌNH NỘI BỘ TRONG GIẢI QUYẾT THỦ TỤC
+HÀNH CHÍNH THEO CƠ CHẾ MỘT CỬA LĨNH VỰC TÀI CHÍNH ĐẦU TƯ VÀ TIN HỌC THUỘC THẨM
+QUYỀN GIẢI QUYẾT CỦA SỞ TÀI CHÍNH TỈNH LẠNG SƠN
+(Kèm theo Quyết định số 959/QĐ-UBND ngày 25 /4/2025 của Chủ tịch UBND tỉnh Lạng
+Sơn)
+Phần I
+DANH MỤC THỦ TỤC HÀNH
+CHÍNH ĐƯỢC XÂY DỰNG QUY TRÌNH NỘI BỘ THỰC HIỆN THEO CƠ CHẾ MỘT CỬA (01 TTHC)
+TT
+Tên thủ tục hành chính
+Ghi chú
+1
+Đăng ký mã số đơn vị có quan
+  hệ với ngân sách
+Phần II
+QUY TRÌNH NỘI BỘ TRONG
+GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH THEO CƠ CHẾ MỘT CỬA
+Cụm từ viết tắt:
+- Trung tâm Phục vụ hành chính công:
+TTPVHCC;
+- Công chức Một cửa: CCMC;
+- Tài chính đầu tư: TCĐT.
+1. Đăng
+ký mã số đơn vị có quan hệ với ngân sách
+1.1. Trường
+hợp nộp trực tiếp hoặc qua đường bưu chính
+Tổng thời gian thực hiện TTHC:
+03 ngày làm việc x 08 giờ = 24 giờ.
+TT
+Trình tự
+Trách nhiệm thực hiện
+Thời gian thực hiện
+B1
+- Tiếp nhận hồ sơ trực tiếp/
+  trực tuyến/ qua dịch vụ bưu chính công ích;
+- Chuyển hồ sơ cho Lãnh đạo Sở.
+CCMC của Sở tại TTPVHCC
+04 giờ
+B2
+Phân công xử lý hồ sơ
+Lãnh đạo Sở
+02 giờ
+B3
+Phân công cho chuyên viên phụ
+  trách thụ lý hồ sơ.
+Lãnh đạo Phòng TCĐT
+02 giờ
+B4
+Thẩm định hồ sơ :
+- Trường hợp hồ sơ không đáp ứng
+  yêu cầu, thông báo cho cá nhân, tổ chức trong thời hạn không quá 01 ngày, nêu
+  rõ lý do;
+- Trường hợp hồ sơ cần giải trình
+  và bổ sung thêm, thông báo cho cá nhân, tổ chức trong thời hạn không quá 01
+  ngày kể từ ngày nhận hồ sơ;
+- Trường hợp, hồ sơ đáp ứng
+  yêu cầu: Xây dựng dự thảo văn bản.
+Chuyên viên phòng TCĐT
+10 giờ
+B5
+Hoàn thiện hồ sơ, trình lãnh
+  đạo Sở xem xét
+Lãnh đạo Phòng TCĐT
+02 giờ
+B6
+Xem xét, duyệt văn bản
+Lãnh đạo Sở
+02 giờ
+B7
+Phát hành văn bản
+Văn thư Sở
+02 giờ
+B8
+- Trả kết quả giải quyết
+  TTHC;
+- Thống kê, theo dõi.
+CCMC của Sở tại TTPVHCC
+Không tính thời gian
+Tổng thời gian thực hiện
+24 giờ
+1.2. Trường
+hợp nộp hồ sơ qua Dịch vụ công trực tuyến
+Tổng thời gian thực hiện TTHC:
+02 ngày làm việc x 08 giờ = 16 giờ.
+TT
+Trình tự
+Trách nhiệm thực hiện
+Thời gian thực hiện
+B1
+- Tiếp nhận hồ sơ trực tiếp/
+  trực tuyến/ qua dịch vụ bưu chính công ích;
+- Chuyển hồ sơ cho Lãnh đạo Sở.
+CCMC của Sở tại TTPVHCC
+04 giờ
+B2
+Phân công xử lý hồ sơ
+Lãnh đạo Sở
+04 giờ
+B3
+Phân công cho Chuyên viên phụ
+  trách thụ lý hồ sơ.
+Lãnh đạo Phòng TCĐT
+01 giờ
+B4
+Thẩm định hồ sơ :
+- Trường hợp hồ sơ không đáp ứng
+  yêu cầu, thông báo cho cá nhân, tổ chức trong thời hạn không quá 01 ngày, nêu
+  rõ lý do;
+- Trường hợp hồ sơ cần giải
+  trình và bổ sung thêm, thông báo cho cá nhân, tổ chức trong thời hạn không
+  quá 01 ngày kể từ ngày nhận hồ sơ;
+- Trường hợp, hồ sơ đáp ứng
+  yêu cầu: xây dựng dự thảo văn bản.
+Chuyên viên phòng TCĐT
+04 giờ
+B5
+Hoàn thiện hồ sơ, trình lãnh
+  đạo Sở xem xét
+Lãnh đạo Phòng TCĐT
+01 giờ
+B6
+Xem xét, duyệt văn bản
+Lãnh đạo Sở
+01 giờ
+B7
+Phát hành văn bản, chuyển kết
+  quả giải quyết
+Văn thư Sở
+01 giờ
+B8
+- Trả kết quả giải quyết
+  TTHC;
+- Thống kê, theo dõi.
+CCMC của Sở tại TTPVHCC
+Không tính thời gian
+Tổng thời gian thực hiện
+16 giờ
+Lưu trữ
+Ghi chú
+Ý kiến
+Facebook
+Email
+In
+Thư Viện
+Nhà Đất
+Cho thuê shophouse 147m2 tại Avenue Garden, Tây Tựu, Bắc Từ Liêm, giá thỏa thuận
+-
+,
+DT 147
+m
+2
+,
+Quận Bắc Từ Liêm, Hà Nội
+Pháp Luật Thuế
+Bản án liên quan
+PHÁP LUẬT DOANH NGHIỆP
+Hỏi đáp pháp luật
+Quyết định 959/QĐ-UBND năm 2025 công bố Danh mục thủ tục hành chính và phê duyệt Quy trình nội bộ trong giải quyết thủ tục hành chính theo cơ chế một cửa lĩnh vực Tài chính đầu tư và tin học thuộc thẩm quyền giải quyết của Sở Tài chính tỉnh Lạng Sơn
